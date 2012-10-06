@@ -1,0 +1,271 @@
+*** Special thanks @ Smeagol (AIM and AIMNAS) ***
+
+28.01.2011
+
+* MercStartingGear.XML:
+
+- Miguel (Slot 57) und Ilja (Slot 68) Ausrüstung gelöscht (beide Gefangene)
+- Natsuko (Slot 100) Videokamera # 258 eingefügt (questrelevant)
+
+
+* Items.XML:
+
+195 --> 2410 (Deidranna T-Shirt)
+296 --> 2400 (T-Shirt)
+297 --> 2401 (Retractable Baton)
+298 --> 2402 (Nightstick)
+299 --> 2403 (Utility Knife)
+300 --> 2404 (Light Knife)
+301 --> 2405 (Exacto Knife)
+302 --> 287  (Camo Steel Helmet)
+303 --> 2411 (Silver Platter) // UPDATE (07.11.2011)
+287 --> 2406 (Officer's Hat)
+328 --> 2407 (5.56mm Mag 10)
+329 --> 2408 (5.56mm Mag 10 HP)
+397 --> 2412 (FN Browning HP-35) // UPDATE (07.11.2011)
+
+287 --> Camo Steel Helmet
+303 --> Empty Artillery Shell // UPDATE (07.11.2011)
+329 --> Molotov Bomb // UPDATE (07.11.2011)
+
+
+Update 31.01.2011: 
+
+- 2401, 2402, 2403, 2404, 2405 und 329 auch in der Weapons.XML !!!
+
+- German.Items.XML ergänzt und Beschreibungen aktualisiert
+
+- Name von allen "Story Items" geändert
+
+- Chinese.Items.XML auf Mod Stand (Story- und Quest Items in Englisch) 
+
+
+Update 02.02.2011:
+
+- # 227 Beschreibung in der Chinese.Items und in der Polish.Items.XML ergänzt
+
+- Polish.Items.XML auf Mod Stand (Story- und Quest Items in Englisch)
+
+- Russian.Items.XML auf Mod Stand (Story- und Quest Items in Englisch)
+
+- # 303 Beschreibung in der German.Items geändert
+
+- French.Items.XML auf Mod Stand (Story- und Quest Items in Englisch)
+
+- Dutch.Items.XML auf Mod Stand (Story- und Quest Items in Englisch)
+
+- Italian.Items.XML auf Mod Stand (Story- und Quest Items in Englisch)
+
+
+Update 28.04.2011:
+
+- MercStartingGear.XML von Charakter # 81 "Soldier" aktualisiert
+
+
+Update 29.04.2011:
+
+- MercStartingGear.XML von Charakter # 105 "Ernest" um Raketengewehr und dazugehöriger Munition ergänzt (sonst CTD!) Thx @ Fan (=alpha-tester)!
+
+
+Update 11.05.2011:
+
+- MercStartingGear.XML von Charakter # 123 "Jaime" aktualisiert
+
+
+Update 10.06.2011:
+
+- für # 297 (= Ausbildungsvertrag von Frazzler) p1item # 1051 erstellt
+
+
+
+* AIM_V53_for_Vengeance-1.13_alphaV16 - 22.06.2011:
+
+
+195 --> 2410 (Deidranna T-Shirt)
+
+195 --> vest-parachute
+2409 --> backpack-parachute
+
+- .STI Files für Parachute/Fallschirm hinzugefügt:
+
+\BigItems \Interface \tilesets\0: p2item363
+
+- Merges aktualisiert (Messer kombiniert mit beiden (!) Fallschirmen ergibt Lappen)
+
+- IMPItemChoices und MercStartingGear mit LBE Fallschirm # 2409 ausgestattet
+
+- englische Übersetzung fehlt, auch für andere Sprachen
+
+
+* AIM_V53_for_Vengeance-1.13_alphaV17:
+
+- Merges korrigiert (Reihenfolge der "firstItem" muss beachtet werden); d.h. alle Fallschirme können jetzt mit Messer zu Lappen verarbeitet werden ;-)
+
+// Update
+
+- für # 299 (= Video für Natsuko) p1item # 1053 hinzugefügt 
+- für # 296 (= Tagebuchseite von Joey) p2item # 364 hinzugefügt (beide von Shady Job)
+
+
+* AIM_V53_for_Vengeance-1.13_alphaV19:
+
+- für # 302 (= GPS Data) p1item # 1052 hinzugefügt (von Back2Business VM Edition)
+- für # 238 (= GPS Decoder) p1item # 1054 hinzugefügt (von Urban Chaos-1.13)
+
+- Merges aktualisiert (# 302 = Diskette in # 238 = GPS Decoder ergibt # 397 = Authorisation Scud) 
+
+
+* AIM_V53_for_Vengeance-1.13_alphaV20:
+
+- Merges Fehler beseitigt: C18 (# 216) + Camo Steel Helmet (hier # 287 (!)) = # 287
+
+
+* AIM_V53_for_Vengeance-1.13_alphaV21 - 16.09.2011:
+
+- überarbeitete Übersetzungen (Thx @ Dieter!) für # 238 (GPS Decoder), 302 (GPS Data), 397 (Authorisation Scud) und 2409 (Parachute)
+- German, Chinese, Polish, Russian, French, Dutch und Italian.Items.XML entsprechend aktualisiert
+
+
+* AIM_V53_for_Vengeance-1.13_alphaV22 - 29.09.2011:
+
+- Bug Report: Fairbairn-Sykes Knife konnte nicht mit Fallschirm(en) kombiniert werden
+- zusätzlich fehlten noch Utility Knife (# 2403), Light Knife (# 2404) und Exacto Knife (# 2405) // Merges ergänzt (Thx @ Dieter!)
+
+
+* AIM_V53_for_Vengeance-1.13_alphaV23 - 07.10.2011:
+
+Weapons.XML
+
+- korrigierter Eintrag uiIndex 2412 für FN Browning HP-35
+
+Attachments.XML
+
+- # 223 (Detonator) + # 224 (Remote Detonator) kombinierbar mit # 329 (Molotov Bomb)
+- Bug Report: alle Items, die mit Camo Steel Helmet (# 287) kombiniert werden können z.B. Sun Glasses etc., waren noch auf # 302 ausgerichtet
+- Bug Report: # 208 (Sniper Scope) kann wieder an # 728 (Steyr Scout Tactical) befestigt werden (beide Thx @ Dieter!)
+
+Explosives.XML
+
+- neuer Eintrag uiIndex 136
+
+Merges.XML
+
+- # 1655 (Alcohol-Oil Mix) kombiniert mit # 303 (Empty Artillery Shell) ergibt # 329 (Molotov Bomb)
+
+Launchables.XML
+
+- # 329 (Molotov Bomb) ebenfalls verwendbar mit # 41 (M224 Mortar)
+
+MercStartingGear.XML
+
+- Bug Report: Big Red (Slot 134) mit Waffe etc. ausgerüstet (Thx @ Dieter!) // UPDATE (12.11.2011)
+
+
+* AIM_V53_for_Vengeance-1.13_alphaV24 - 07.10.2011:
+
+- Bug Report: neues Item pic für AKM Tactical # gun523 ohne Überlappung "(von IoV; Thx @ Dieter!)
+
+
+* AIM_V53_for_Vengeance-1.13_alphaV26 - 14.10.2011:
+
+- passende englische Übersetzungen (Thx @ Dieter!) für # 303 (Empty Artillery Shell) und # 329 (Molotov Bomb)
+- German, Chinese, Polish, Russian, French, Dutch und Italian.Items.XML entsprechend ergänzt
+
+
+* AIM_V53_for_Vengeance-1.13_alphaV27 - 19.10.2011:
+
+- Sparky's und Sandman's MercStartingGear überarbeitet
+
+20.10.2011:
+
+- alle Story- und Quest Items sowie Videokamera aus den Händlerlisten gelöscht (XML Editor)
+
+21.10.2011:
+
+- kleinen Beschreibungsfehler im Questitem # 328 (Authorisation MLRS) korrigiert
+- alternatives Bild für C7A2 (# 428 / MDGUNS.sti) vom Cosplay Mod verwendet (einhellig ausgesucht von Dieter und mir ;-))
+
+
+* AIM_V53_for_Vengeance-1.13_alphaV28 - 10.11.2011:
+
+-neues BigItem gun324.sti für MG3 (# 1075) by Exurok
+
+
+
+*** Update by DepressivesBrot (20.12.2011) ***
+
+Updated AIMv53\TD\MercStartingGear.xml to NSGI standard
+Added Resized versions of the strat-map to accomodate higher resolutions
+Ensured basic compatibility with NAS.7
+	-Added AIMv53\TD\AttachmentSlots.xml
+	-Added AIMv53\TD\LookUp\AttachmentClasses.xml
+	-Added class assignments to AIMv53\TD\Items,xml
+
+
+12.01.2012:
+
+- MercStartingGear.XML der Charaktere # 73 "Babyface" und # 150 "Dick" aktualisiert
+- alternative Waffenbilder für FR Ordnance MC51 (# 342) vom IoV Mod verwendet
+
+24.01.2012:
+
+- alte (noch deutsche!) Übersetzung für # 195 (vest-parachute) durch aktuelle ersetzt (alle Sprachen)
+- aktuelle Itembilder für Scope, 4x ACOG (# 1030) aus Smeagol's AIMNASv25 Mod importiert
+
+15.02.2012:
+
+- neue Bilder für Parachute (# 195 und # 2409) eingefügt (Credits @ Coolberg!)
+- Attribute des MC-4 Parachute überarbeitet
+
+23.02.2012:
+
+- MercStartingGear.XML von Charakter # 114 "Kristina" und # 131 "Calu/Guard" aktualisiert
+
+12.04.2012:
+
+- MercStartingGear.XML von Charakter # 139 "Cockeye" (= Ex-Doreen) aktualisiert
+
+20.04.2012:
+
+- aktuelle Itembilder für Headset - TEA High Threat (# 1682) aus Smeagol's AIMNASv25 Mod importiert
+
+25.04.2012:
+
+- MercStartingGear.XML von Charakter # 68 "Ilja" und # 135 "Elliot" aktualisiert
+
+03.05.2012:
+
+- alternative Itembilder für Tear Gas Grenade (# 132) von Green_Eyes verwendet
+
+16.05.2012:
+
+- Vest von Charakter # 68 "Ilya" geändert
+- alternative Waffenbilder für PP-19-01 Vityaz (# 1707) vom IoV Mod verwendet
+
+23.05.2012:
+
+- alternative Itembilder für Night Vision Goggles, Gen. IV (# 1025) vom IoV Mod verwendet
+- alternative Itembilder für Wine und Beer (# 255 + 256) von Back2Business VM Edition
+
+31.05.2012:
+
+- changed name "Kristina" to "Agatha" in the MercStartingGear (Slot # 114)
+
+07.06.2012:
+
+- angepasste MercStartingGear.xml feat. BAG-Pro (Bun's Alternative Gun Progression)
+
+16.07.2012:
+
+- Regeneration Booster (# 235) ersetzt durch Blood Bag (Bitmaps erstellt von Soto!)
+- German, Chinese, Polish, Russian, French, Dutch und Italian.Items.XML entsprechend aktualisiert
+- MercStartingGear.XML bezüglich der Blutbeutel aktualisiert
+
+06.09.2012:
+
+- Blood Bags aus Elgin's und Frank's Händlerinventar genommen
+- Anzahl der Blood Bags in Howard's Inventar von 3 auf 2 reduziert
+
+13.09.2012:
+
+- fehlende <GEARKIT> </GEARKIT> Einträge für Dick und Babyface ergänzt (Thx @ DepressivesBrot!)

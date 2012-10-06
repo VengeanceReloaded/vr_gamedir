@@ -1,0 +1,1 @@
+*** Special thanks @ Chatner (modified weapon sounds for v1.13) ***
