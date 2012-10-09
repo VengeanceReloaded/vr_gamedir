@@ -1,0 +1,263 @@
+Improved Vengeance + UB tilesets (#50-59) // hybrid file for Vengeance-1.13 Reloaded by Hawkeye!
+
+Update: 'Oil Rig' tileset (number 50)
+
+@ Hawk: "Many thanks for your great (art)work man!" :-)
+
+
+11.05.2011
+
+-(re-)imported original P12, P13, O12 and edited N12 map from vanilla Vengeance Mod 
+
+TO DO: these maps have to be checked regarding tileset-glitches!
+
+
+16.09.2011
+
+-extracted and imported original password protected "Extras" maps: l14, l15, h14 and i14 (located in the \Extras\MLRS and \Extras\Scud folder) from vanilla Vengeance Mod; 
+as suggested by German alphatester Fan for better playability
+
+TO DO: have to be checked concerning potential glitches with the new tilesets as well!
+
+
+22.09.2011 - New_Tilesets_for_Vengeance-1.13_alphaV2
+
+-copied all remaining Vengeance maps to the maps folder (not just the edited maps by Hawkeye!); 
+so it is possible to use and edit all Vengeance maps and tilesets separately with a current v1.13 build (for example with the 4552 release!) and a new Map-Editor without installing the complete Vengeance-1.13 Mod before
+-made all existing Vengeance radarmaps and the improved B_MAP.PCX by Kazuya to a part of this file
+
+
+22.11.2011 - New_Tilesets_for_Vengeance-1.13_alphaV3
+
+-updated F11 by Hawkeye (fixed small bug with gas which was not accessible before; bug reported by Dieter!)
+
+31.10.2011
+
+-quick fixes/updates for B2, I3, N3, O8 by Hawkeye
+
+05.11.2011
+
+-quick fix for K10 by Hawkeye
+
+19.11.2011
+
+-minor updates for K6 and L14
+-latest endgame airport map L15 (located in the "Extras" folder!) all by Hawkeye
+
+
+07.12.2011 - New_Tilesets_for_Vengeance-1.13_alphaV4
+
+25.11.2011
+
+-latest saves of L15 (standard L15 as well as the MLRS/Extras version!) by Hawkeye  
+
+07.12.2011
+
+-updated teleports in O2, M13 and N12
+-changed enemy placement in N12 (M13 should be reworked in this regard as well; maybe N12 map should be completely changed to something with a more "sea/maritime-style")
+-new created radarmaps for F10 and L15
+-new teleports set in N5, O4 and O5 (now O5 is fully accessible from N5 and O4 by using the bridge!)
+
+
+13.12.2011 - New_Tilesets_for_Vengeance-1.13_alphaV5 (non-public test version)
+
+-Updated B1 map, complete 'Oil Rig' tileset (number 50) and updated Tileset dat file for V:R by Hawkeye
+
+
+11.01.2012 - New_Tilesets_for_Vengeance-1.13_alphaV6
+
+09.01.2011
+
+-updated 'Oil Rig' tileset (number 50) which required change in JA2SET.dat
+-updated 'Oil Rig' maps: B1 and M10
+-minor fix for O3
+
+-updated Oil_Cranes.jsd file
+
+-new more realistic Damcars which overwrite the old Damcars STI's and JSD's in tileset folders 9, 19, 43 and 49
+(Credits @ Jazz & Tiler_Durdan!)
+-map updates for Damcars: A9, C13, C16, F7, G1 and J14
+
+10.01.2012
+
+-new mini map T files for folder: 9, 19, 43, 49 and 50
+-tweaked maps that use Damcar tiles: F7 and G1
+
+11.01.2012
+
+-added missing rail .sti and .jsd file to tileset folder # 33 all by Hawkeye
+-added resized versions of the strat-map (B_MAP_800x600.pcx, B_MAP_1024x768.pcx into the \Data-1.13\Interface folder) by DepressivesBrot
+-new created radarmap for B1
+
+13.01.2012
+
+-updated G6 by Hawkeye
+
+
+17.01.2012 - New_Tilesets_for_Vengeance-1.13_alphaV7
+
+13.01.2012 + 14.01.2012
+
+-updated C13
+-updated Damcar(s) STI's and JSD
+-updated Damcar T file
+
+16.01.2012
+
+-updated A9, C13 and F10
+-updated Damcar(s) STI's and JSD for tileset folders: 9, 19, 43, 49
+-updated Refine and Refine_S STI's and Refine JSD for tileset folder: 0
+-updated Refine T file for tileset folder: 0
+-updated Refine_Dec for tileset folder: 49
+-changed JA2SET.dat all by Hawkeye
+
+
+20.01.2012 - New_Tilesets_for_Vengeance-1.13_alphaV8 (non-public test version)
+
+17.01.2012 + 19.01.2012
+
+-updated Bamboo.jsd for tileset folders: 4, 34, 45
+-updated Cranes for tileset folder: 50
+-updated B1
+
+20.01.2012
+
+-updated M10 Oil Rig map, now has cranes like B1 and all those other goodies from the oil rig tileset all by Hawkeye
+
+
+27.01.2012 - New_Tilesets_for_Vengeance-1.13_alphaV9
+
+25.01.2012
+
+-updated Oil_Crane(s) JSD's for tileset folder: 50
+-map updates for M10, M11, M12, P12
+
+27.01.2012
+
+-I3 (Doran Oil Rig) now using Oil Rig tileset
+-minor fixes for the street lights, and Cable coils
+-updated O_rail.jsd for the yellow safety rails for tileset folder: 50
+-map updates for I2, I3 all by Hawkeye
+-updated radarmaps for B1, M10, I3
+
+
+06.02.2012 - New_Tilesets_for_Vengeance-1.13_alphaV10 (non-public test version)
+
+30.01.2012
+
+-update of all three rigs including new oil derrick!
+-put file for the W-roof2.sti in the T subfolder of tileset folder: 50
+-deleted w-floor1, w-floor2, w-floor3, w-floor4, w-roof1 files from tileset folder: 50 all by Hawkeye
+
+03.02.2012
+
+-copied extracted files from \tilesets\33\T folder into the \tilesets\45\T folder (so M11 mini map looks okay now)
+-P13 updated with cell now (necessarry for new Calu/Guard quest)
+
+04.02.2012
+
+-rig updates for B1, I3, M10 (now 2 out of 3 have a central derrick now)
+-signage has an update so use the a-sign1.sti
+-removed w-decal2.sti and .jsd from for tileset folder: 50
+-new T-file for the W-Roof2 for # 50 as well
+
+05.02.2012
+
+-new Oil_Debris.sti T-file fix for tileset folder: 50
+
+06.02.2012
+
+-map updates for B1, F10, I3, M10, M2 all by Hawkeye
+
+
+15.02.2012 - New_Tilesets_for_Vengeance-1.13_alphaV11
+
+11.02.2012
+
+-updated B2 basement
+-new Streetlight.sti T-file for tileset folder: 50
+
+12.02.2012
+
+-updated Oil_furn.sti and .jsd for # 50 as well
+-map updates for B1, I3, M10
+
+15.02.2012
+
+-another update for the oil rigs: B1, I3, M10
+(tileset 50 now has updated On roof objects, including sliced H&B Helicopters and a mesh surround for helipad bases)
+-required change in JA2SET.dat all by Hawkeye
+
+-made the "spider-robot" maps: E4_A, H7_A, H16_A, I11_A to a part of this file (originally by Wulfy301)
+-new created radarmaps for B1, F10, I3, M2, M10
+
+
+24.02.2012 - New_Tilesets_for_Vengeance-1.13_alphaV12 (non-public test version)
+
+24.02.2012
+
+-updated maps A10_B1, L14, P13 (necessary for "Calu/Guard" quest and "Kristina"!)
+
+
+19.04.2012 - New_Tilesets_for_Vengeance-1.13_alphaV13
+
+05.03.2012
+
+-updated maps of C13 and D13 by Hawkeye
+-fixed Doreen placement in D13 (necessary for "Cockeye" quest!)
+
+07.03.2012
+
+-new signs for the oil rigs added (updated Oil_Cranes.sti and .jsd files for tileset folder: 50)
+-updated maps for the oil rigs: B1, I3, M10
+
+12.03.2012
+
+-general tweaks and fixes for the Military maps in Mela (former Alma): B9, H13, H14, I12, I14
+-updated cars1.sti and .jsd files for tileset folder: 29
+-required change in JA2SET.dat all by Hawkeye
+-deleted all HMMV files from tileset folder: 29
+
+13.04.2012
+
+-set South Entry Point in N5 (necessary for traveling from O5 to N5)
+
+19.04.2012
+
+-updated D13 map (edited Cockeye's and Civilian schedules; more people in the bar)
+-updated B1 map (3 factions on the Oil Rig now: Enemies, Miners, H&B security (= Hicks))
+-extracted and added all missing map files from the Maps.slf archive to make checking and/or editing easier
+
+
+31.05.2012 - New_Tilesets_for_Vengeance-1.13_alphaV14
+
+25.04.2012
+
+-copied h10 map and renamed it to h10_a map to avoid tilesets glitches
+
+31.05.2012
+
+-set necessary changes in h10 and h10_a maps for getting the Ilya prison break/gas quest working
+
+
+04.10.2012 - New_Tilesets_for_Vengeance-1.13_alphaV15
+
+02.10.2012
+
+-updated zelt.sti and Zelt.jsd files for tileset folder: 38
+-updated P12 map 
+-updated Malino maps: L11, L12, M11, M12 all by Hawkeye
+
+03.10.2012
+
+-added new 'body truck' to the DAMCAR.sti for tileset folder: 9, 19, 43, 49
+-updated A9 map with 'body truck' included all by Hawkeye
+
+04.10.2012
+
+-updated DAMCAR T file by Hawkeye
+-improved shadow for DAMCAR T file by me
+
+09.10.2012
+
+-removed smguns, SMP1ITEMS, SMP2ITEMS and SMP3ITEMS from the \Data-Maps-Tiles\Tilesets\0 folder
