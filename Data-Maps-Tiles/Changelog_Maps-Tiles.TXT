@@ -258,6 +258,75 @@ so it is possible to use and edit all Vengeance maps and tilesets separately wit
 -updated DAMCAR T file by Hawkeye
 -improved shadow for DAMCAR T file by me
 
+
+31.10.2012 - New_Tilesets_for_Vengeance-1.13_alphaV16 (non-public test version)
+
 09.10.2012
 
--removed smguns, SMP1ITEMS, SMP2ITEMS and SMP3ITEMS from the \Data-Maps-Tiles\Tilesets\0 folder
+-removed smguns, SMP1ITEMS, SMP2ITEMS and SMP3ITEMS from the \Data-1.13\Tilesets\0 folder
+-updated zelt.sti T file for tileset folder: 38
+-removed bamboo.sti and bamboo_s.sti from \Tilesets\33\T folder
+-copied bamboo.sti, BAMBOO.jsd and bamboo_s.sti into the \Tilesets\38 folder
+-updated bamboo and bamboo_s.sti T files for tileset folder: 4, 34, 38, 45
+
+16.10.2012
+
+-updated 03 Burton map
+
+18.10.2012
+
+-fixed 03_B1 map (removed "rusty" barrels) all by Hawkeye
+-new created radarmap for 03_B1 by me
+
+22.10.2012
+
+-updated M10 Oil Rig by Hawkeye
+
+24.10.2012
+
+-updated JA2SET.dat to switch back San Mona to no longer have snow by Hawkeye
+-deleted any snow elements from the San Mona/Lawless tilesets: 16, 18, 21
+-exchanged snowy radarmaps for San Mona with normal one: C5, C6, D4, D5
+-new created radarmaps for G6, H6, I14
+
+29.10.2012
+
+-updated Drassen (roofs) file for tileset folder: 23 and D13 map
+-updated JA2SET.dat
+-updated cars1.JSD file for tileset folder: 3, 5, 9, 10, 26, 28, 29, 37, 38, 44, 48
+
+30.10.2012
+
+-updated Bamboo.sti which includes Hawkeye's new Blackhawk helicopter
+-map updates for A9, C5, I14, M10, O3, O3_b1, O4
+-updated JA2SET.dat
+-map updates for M13, N12, N13
+-updated Drassen D13 map which now uses one of Wulfy's bikes all by Hawkeye
+-new M_BIKE .sti and .jsd files for tileset folder: 23 by Wulfy
+-removed 'Rail' .sti and .jsd from tileset folder: 33 (Palace)
+
+31.10.2012
+
+-new exit grids for M13 and N12 (fixed) and updated D13 map
+
+
+09.11.2012 - New_Tilesets_for_Vengeance-1.13_alphaV17
+
+01.11.2012
+
+-revised tileset: 33 (Estoni) to have a H&B helicopter at L10 (teleport to the oil rig in M10)
+-updated JA2SET.dat
+-map updates for I6, L10
+-updated Damcars for tileset folder: 9, 19, 43, 49
+-map update for H9
+
+02.11.2012
+
+-deeper shadow for the oil rigs: B1, I3 to give an optical illusion that it is above the water
+-map updates for C1, G3, H12
+
+09.11.2012
+
+-map update with the bikes now in San Mona; tileset folder: 16, 21
+-updated JA2SET.dat
+-all updated map files throughout November to be on the safe side all by Hawkeye
