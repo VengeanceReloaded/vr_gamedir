@@ -41,7 +41,7 @@ Changes do not require starting of a new game.
 			</baseSector>
 			<townPoint>
 				<x>90</x>
-				<y>10</y>
+				<y>20</y>
 			</townPoint>
 		</CITY>
 		<CITY>
@@ -55,7 +55,7 @@ Changes do not require starting of a new game.
 				<y>2</y>
 			</baseSector>
 			<townPoint>
-				<x>125</x>
+				<x>130</x>
 				<y>40</y>
 			</townPoint>
 		</CITY>
@@ -70,7 +70,7 @@ Changes do not require starting of a new game.
 				<y>8</y>
 			</baseSector>
 			<townPoint>
-				<x>130</x>
+				<x>135</x>
 				<y>90</y>
 			</townPoint>
 		</CITY>
@@ -85,7 +85,7 @@ Changes do not require starting of a new game.
 				<y>7</y>
 			</baseSector>
 			<townPoint>
-				<x>15</x>
+				<x>10</x>
 				<y>80</y>
 			</townPoint>
 		</CITY>
@@ -115,7 +115,7 @@ Changes do not require starting of a new game.
 				<y>6</y>
 			</baseSector>
 			<townPoint>
-				<x>95</x>
+				<x>60</x>
 				<y>70</y>
 			</townPoint>
 		</CITY>
@@ -145,8 +145,8 @@ Changes do not require starting of a new game.
 				<y>15</y>
 			</baseSector>
 			<townPoint>
-				<x>130</x>
-				<y>140</y>
+				<x>100</x>
+				<y>150</y>
 			</townPoint>
 		</CITY>
 		<CITY>
@@ -175,8 +175,8 @@ Changes do not require starting of a new game.
 				<y>11</y>
 			</baseSector>
 			<townPoint>
-				<x>110</x>
-				<y>120</y>
+				<x>105</x>
+				<y>130</y>
 			</townPoint>
 		</CITY>
 		<CITY>
@@ -190,7 +190,7 @@ Changes do not require starting of a new game.
 				<y>14</y>
 			</baseSector>
 			<townPoint>
-				<x>45</x>
+				<x>40</x>
 				<y>150</y>
 			</townPoint>
 		</CITY>
@@ -205,7 +205,7 @@ Changes do not require starting of a new game.
 				<y>1</y>
 			</baseSector>
 			<townPoint>
-				<x>15</x>
+				<x>20</x>
 				<y>20</y>
 			</townPoint>
 		</CITY>
@@ -232,11 +232,11 @@ Changes do not require starting of a new game.
 			<townMilitiaAllowed>0</townMilitiaAllowed>
 			<baseSector>
 				<x>15</x>
-				<y>11</y>
+				<y>13</y>
 			</baseSector>
 			<townPoint>
-				<x>140</x>
-				<y>110</y>
+				<x>150</x>
+				<y>140</y>
 			</townPoint>
 		</CITY>
 	</CITYLIST>
@@ -255,9 +255,9 @@ Changes do not require starting of a new game.
 		<CITY_TABLE_ROW row="09"> 0  0  0  4  0  0  13 0  0  6  6  0  0  3  3  3  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="10"> 0  0  0  4  0  0  0  0  0  5  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="11"> 0  0  0  0  9  0  0  0  0  0  0  10 10 0  0  0  0  0 </CITY_TABLE_ROW>
-		<CITY_TABLE_ROW row="12"> 0  0  0  0  0  0  0  0  0  0  10 10 10 0  0  14 0  0 </CITY_TABLE_ROW>
+		<CITY_TABLE_ROW row="12"> 0  0  0  0  0  0  0  0  0  0  10 10 10 0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="13"> 0  0  0  0  0  0  0  0  0  0  10 10 10 0  0  0  0  0 </CITY_TABLE_ROW>
-		<CITY_TABLE_ROW row="14"> 0  0  0  11 11 11 11 0  0  0  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
+		<CITY_TABLE_ROW row="14"> 0  0  0  11 11 11 11 0  0  0  0  0  0  0  0  0  14 0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="15"> 0  0  11 11 11 11 0  0  0  0  0  0  8  0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="16"> 0  0  0  11 0  0  0  0  0  0  0  0  8  8  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="17"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>

@@ -89,8 +89,8 @@ Others not.
 		<SAM>
 			<samIndex>5</samIndex>
 			<samSector>
-				<x>15</x>
-				<y>12</y>
+				<x>16</x>
+				<y>14</y>
 			</samSector>
 			<samHidden>1</samHidden>
 			<samOrientation>3</samOrientation>
@@ -112,12 +112,12 @@ Others not.
 		<MAP_ROW row="08"> 0  1  1  1  3  3  3  3  3  3  3  3  3  3  2  2  2  0 </MAP_ROW>
 		<MAP_ROW row="09"> 0  1  1  3  3  3  3  3  3  3  3  3  3  3  2  2  2  0 </MAP_ROW>
 		<MAP_ROW row="10"> 0  1  4  4  4  3  3  3  3  3  3  3  3  3  2  2  2  0 </MAP_ROW>
-		<MAP_ROW row="11"> 0  4  4  4  4  4  3  3  3  3  3  3  3  5  5  5  5  0 </MAP_ROW>
-		<MAP_ROW row="12"> 0  4  4  4  4  4  4  3  3  3  3  3  3  5  5  5  5  0 </MAP_ROW>
+		<MAP_ROW row="11"> 0  4  4  4  4  4  3  3  3  3  3  3  3  3  2  2  2  0 </MAP_ROW>
+		<MAP_ROW row="12"> 0  4  4  4  4  4  4  3  3  3  3  3  3  3  2  5  5  0 </MAP_ROW>
 		<MAP_ROW row="13"> 0  4  4  4  4  4  4  4  3  3  3  3  3  5  5  5  5  0 </MAP_ROW>
-		<MAP_ROW row="14"> 0  4  4  4  4  4  4  4  4  4  4  4  4  5  5  5  5  0 </MAP_ROW>
-		<MAP_ROW row="15"> 0  4  4  4  4  4  4  4  4  4  4  4  4  5  5  5  5  0 </MAP_ROW>
-		<MAP_ROW row="16"> 0  4  4  4  4  4  4  4  4  4  4  4  4  5  5  5  5  0 </MAP_ROW>
+		<MAP_ROW row="14"> 0  4  4  4  4  4  4  4  4  4  4  5  5  5  5  5  5  0 </MAP_ROW>
+		<MAP_ROW row="15"> 0  4  4  4  4  4  4  4  4  4  5  5  5  5  5  5  5  0 </MAP_ROW>
+		<MAP_ROW row="16"> 0  4  4  4  4  4  4  4  4  5  5  5  5  5  5  5  5  0 </MAP_ROW>
 		<MAP_ROW row="17"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 </MAP_ROW>
 	</SAM_CONTROLLED_SECTORS>
 </SAM_INFO>

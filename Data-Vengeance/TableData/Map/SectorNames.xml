@@ -1073,17 +1073,17 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>J10</SectorGrid>
-    <szUnexploredName>Desert</szUnexploredName>
-    <szDetailedUnexploredName>Desert</szDetailedUnexploredName>
-    <szExploredName>Desert</szExploredName>
-    <szDetailedExploredName>Desert</szDetailedExploredName>
+    <szUnexploredName>Desert, road</szUnexploredName>
+    <szDetailedUnexploredName>Desert, road</szDetailedUnexploredName>
+    <szExploredName>Desert, road</szExploredName>
+    <szDetailedExploredName>Desert, road</szDetailedExploredName>
    </SECTOR>
    <SECTOR>
     <SectorGrid>J11</SectorGrid>
-    <szUnexploredName>Desert</szUnexploredName>
-    <szDetailedUnexploredName>Desert</szDetailedUnexploredName>
-    <szExploredName>Desert</szExploredName>
-    <szDetailedExploredName>Desert</szDetailedExploredName>
+    <szUnexploredName>Desert, road</szUnexploredName>
+    <szDetailedUnexploredName>Desert, road</szDetailedUnexploredName>
+    <szExploredName>Desert, road</szExploredName>
+    <szDetailedExploredName>Desert, road</szDetailedExploredName>
    </SECTOR>
    <SECTOR>
     <SectorGrid>J12</SectorGrid>
@@ -1136,10 +1136,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>K3</SectorGrid>
-    <szUnexploredName>Swamp</szUnexploredName>
-    <szDetailedUnexploredName>Swamp</szDetailedUnexploredName>
-    <szExploredName>Swamp</szExploredName>
-    <szDetailedExploredName>Swamp</szDetailedExploredName>
+    <szUnexploredName>Swamp, road</szUnexploredName>
+    <szDetailedUnexploredName>Swamp, road</szDetailedUnexploredName>
+    <szExploredName>Swamp, road</szExploredName>
+    <szDetailedExploredName>Swamp, road</szDetailedExploredName>
    </SECTOR>
    <SECTOR>
     <SectorGrid>K4</SectorGrid>
@@ -1150,10 +1150,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>K5</SectorGrid>
-    <szUnexploredName>Swamp</szUnexploredName>
-    <szDetailedUnexploredName>Swamp</szDetailedUnexploredName>
-    <szExploredName>Swamp</szExploredName>
-    <szDetailedExploredName>Swamp</szDetailedExploredName>
+    <szUnexploredName>Swamp, road</szUnexploredName>
+    <szDetailedUnexploredName>Swamp, road</szDetailedUnexploredName>
+    <szExploredName>Swamp, road</szExploredName>
+    <szDetailedExploredName>Swamp, road</szDetailedExploredName>
    </SECTOR>
    <SECTOR>
     <SectorGrid>K6</SectorGrid>
@@ -1332,10 +1332,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>L15</SectorGrid>
-    <szUnexploredName>Airfield</szUnexploredName>
-    <szDetailedUnexploredName>Airfield</szDetailedUnexploredName>
-    <szExploredName>Airfield</szExploredName>
-    <szDetailedExploredName>Airfield</szDetailedExploredName>
+    <szUnexploredName>Forest</szUnexploredName>
+    <szDetailedUnexploredName>Forest</szDetailedUnexploredName>
+    <szExploredName>Forest</szExploredName>
+    <szDetailedExploredName>Forest</szDetailedExploredName>
    </SECTOR>
    <SECTOR>
     <SectorGrid>L16</SectorGrid>
@@ -1558,15 +1558,15 @@
     <SectorGrid>N15</SectorGrid>
     <szUnexploredName>Unknown</szUnexploredName>
     <szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
-    <szExploredName>Unknown</szExploredName>
-    <szDetailedExploredName>Unknown</szDetailedExploredName>
+    <szExploredName>Woods</szExploredName>
+    <szDetailedExploredName>Woods</szDetailedExploredName>
    </SECTOR>
    <SECTOR>
     <SectorGrid>N16</SectorGrid>
     <szUnexploredName>Unknown</szUnexploredName>
     <szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
-    <szExploredName>Unknown</szExploredName>
-    <szDetailedExploredName>Unknown</szDetailedExploredName>
+    <szExploredName>Airfield</szExploredName>
+    <szDetailedExploredName>Airfield</szDetailedExploredName>
    </SECTOR>
    <SECTOR>
     <SectorGrid>O1</SectorGrid>
@@ -1640,38 +1640,38 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>O11</SectorGrid>
-    <szUnexploredName>Impassable</szUnexploredName>
-    <szDetailedUnexploredName>Impassable</szDetailedUnexploredName>
-    <szExploredName>Impassable</szExploredName>
-    <szDetailedExploredName>Impassable</szDetailedExploredName>
+    <szUnexploredName>Unknown</szUnexploredName>
+    <szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+    <szExploredName>Coastline</szExploredName>
+    <szDetailedExploredName>Coastline</szDetailedExploredName>
    </SECTOR>
    <SECTOR>
     <SectorGrid>O12</SectorGrid>
-    <szUnexploredName>Palaccio</szUnexploredName>
-    <szDetailedUnexploredName>Palaccio</szDetailedUnexploredName>
+    <szUnexploredName>Unknown</szUnexploredName>
+    <szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
     <szExploredName>Palaccio</szExploredName>
     <szDetailedExploredName>Palaccio</szDetailedExploredName>
    </SECTOR>
    <SECTOR>
     <SectorGrid>O13</SectorGrid>
-    <szUnexploredName>Impassable</szUnexploredName>
-    <szDetailedUnexploredName>Impassable</szDetailedUnexploredName>
-    <szExploredName>Impassable</szExploredName>
-    <szDetailedExploredName>Impassable</szDetailedExploredName>
+    <szUnexploredName>Unknown</szUnexploredName>
+    <szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+    <szExploredName>Tropical</szExploredName>
+    <szDetailedExploredName>Tropical</szDetailedExploredName>
    </SECTOR>
    <SECTOR>
     <SectorGrid>O14</SectorGrid>
     <szUnexploredName>Unknown</szUnexploredName>
     <szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
-    <szExploredName>Unknown</szExploredName>
-    <szDetailedExploredName>Unknown</szDetailedExploredName>
+    <szExploredName>Offshore Dropoff</szExploredName>
+    <szDetailedExploredName>Offshore Dropoff</szDetailedExploredName>
    </SECTOR>
    <SECTOR>
     <SectorGrid>O15</SectorGrid>
     <szUnexploredName>Unknown</szUnexploredName>
     <szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
-    <szExploredName>Unknown</szExploredName>
-    <szDetailedExploredName>Unknown</szDetailedExploredName>
+    <szExploredName>Woods</szExploredName>
+    <szDetailedExploredName>Woods</szDetailedExploredName>
    </SECTOR>
    <SECTOR>
     <SectorGrid>O16</SectorGrid>
@@ -1752,24 +1752,24 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>P11</SectorGrid>
-    <szUnexploredName>Impassable</szUnexploredName>
-    <szDetailedUnexploredName>Impassable</szDetailedUnexploredName>
-    <szExploredName>Impassable</szExploredName>
-    <szDetailedExploredName>Impassable</szDetailedExploredName>
+    <szUnexploredName>Unknown</szUnexploredName>
+    <szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+    <szExploredName>Tropical</szExploredName>
+    <szDetailedExploredName>Tropical</szDetailedExploredName>
    </SECTOR>
    <SECTOR>
     <SectorGrid>P12</SectorGrid>
-    <szUnexploredName>Palaccio</szUnexploredName>
-    <szDetailedUnexploredName>Palaccio</szDetailedUnexploredName>
+    <szUnexploredName>Unknown</szUnexploredName>
+    <szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
     <szExploredName>Palaccio</szExploredName>
     <szDetailedExploredName>Palaccio</szDetailedExploredName>
    </SECTOR>
    <SECTOR>
     <SectorGrid>P13</SectorGrid>
-    <szUnexploredName>Palaccio</szUnexploredName>
-    <szDetailedUnexploredName>Palaccio</szDetailedUnexploredName>
-    <szExploredName>Palaccio</szExploredName>
-    <szDetailedExploredName>Palaccio</szDetailedExploredName>
+    <szUnexploredName>Unknown</szUnexploredName>
+    <szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+    <szExploredName>Palaccio HQ</szExploredName>
+    <szDetailedExploredName>Palaccio HQ</szDetailedExploredName>
    </SECTOR>
    <SECTOR>
     <SectorGrid>P14</SectorGrid>
