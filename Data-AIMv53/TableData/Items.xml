@@ -3833,6 +3833,7 @@
 		<szBRName>60mm Mortar Shell</szBRName>
 		<szBRDesc>A real man's mortar. This HE bomb features waterproof "horseshoe" snap-off propellant increments and the M734 multi-option fuse. This fuse can be set by hand for delayed, impact, near-surface or proximity burst detonations.</szBRDesc>
 		<usItemClass>512</usItemClass>
+		<nasAttachmentClass>1024</nasAttachmentClass>
 		<ubClassIndex>9</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>748</ubGraphicNum>
@@ -3846,6 +3847,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<STAND_MODIFIERS />
@@ -8298,6 +8300,7 @@
 		<szBRName>Molotov Bomb</szBRName>
 		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
 		<usItemClass>512</usItemClass>
+		<nasAttachmentClass>1024</nasAttachmentClass>
 		<ubClassIndex>30</ubClassIndex>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
@@ -8311,6 +8314,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<HiddenAttachment>1</HiddenAttachment>
 		<Unaerodynamic>1</Unaerodynamic>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -25192,6 +25196,7 @@
 		<szBRName>60mm Mustard Gas Shell</szBRName>
 		<szBRDesc>This Mustard Gas mortar shell features waterproof "horseshoe" snap-off propellant increments and the M734 multi-option fuse. WARNING: this item may release a noxious odour upon detonation.</szBRDesc>
 		<usItemClass>512</usItemClass>
+		<nasAttachmentClass>1024</nasAttachmentClass>
 		<ubClassIndex>31</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>160</ubGraphicNum>
@@ -25205,6 +25210,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -37886,6 +37892,7 @@
 		<szBRName>60mm Incendiary Shell</szBRName>
 		<szBRDesc>The perfect device to start a barbecue. The 60mm Incendiary Shell is filled with thermite, which is capable to melt iron, thus a large area of effect is guaranteed.</szBRDesc>
 		<usItemClass>512</usItemClass>
+		<nasAttachmentClass>1024</nasAttachmentClass>
 		<ubClassIndex>78</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>797</ubGraphicNum>
@@ -37899,6 +37906,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -37914,6 +37922,7 @@
 		<szBRName>60mm Tear Gas Shell</szBRName>
 		<szBRDesc>If you need crowd control, try these 60mm Tear Gas mortar shells.</szBRDesc>
 		<usItemClass>512</usItemClass>
+		<nasAttachmentClass>1024</nasAttachmentClass>
 		<ubClassIndex>79</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>798</ubGraphicNum>
@@ -37927,6 +37936,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -37942,6 +37952,7 @@
 		<szBRName>60mm Smoke Shell</szBRName>
 		<szBRDesc>The 60mm Smoke Shell will provide a thick smoke in a large area, perfect to cover your advance on a target, or to provide cover in open areas.</szBRDesc>
 		<usItemClass>512</usItemClass>
+		<nasAttachmentClass>1024</nasAttachmentClass>
 		<ubClassIndex>80</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>799</ubGraphicNum>
@@ -37955,6 +37966,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -45650,6 +45662,7 @@
 		<szBRName>60mm Illumination Shell</szBRName>
 		<szBRDesc>The M721 60mm mortar illuminating cartridge is designed for use with the M224 lightweight company mortar system. It is ballistically similar to the M720A1 HE Cartridge, allowing to illuminate and fire on the same target without adjustments.</szBRDesc>
 		<usItemClass>512</usItemClass>
+		<nasAttachmentClass>1024</nasAttachmentClass>
 		<ubClassIndex>114</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>749</ubGraphicNum>
@@ -45663,6 +45676,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Attachment>1</Attachment>
 		<BR_NewInventory>3</BR_NewInventory>
 		<Flare>1</Flare>
 		<STAND_MODIFIERS />
