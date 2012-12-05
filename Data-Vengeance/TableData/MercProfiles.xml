@@ -5141,16 +5141,16 @@
 		<zName>Kevin "Frazzler"  Rubins</zName>
 		<zNickname>Frazzler</zNickname>
 		<ubFaceIndex>60</ubFaceIndex>
-		<usEyesX>23</usEyesX>
-		<usEyesY>34</usEyesY>
+		<usEyesX>20</usEyesX>
+		<usEyesY>30</usEyesY>
 		<usMouthX>26</usMouthX>
-		<usMouthY>61</usMouthY>
+		<usMouthY>60</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
-		<PANTS>JEANPANTS</PANTS>
-		<VEST>PURPLESHIRT</VEST>
+		<PANTS>BEIGEPANTS</PANTS>
+		<VEST>BLUEVEST</VEST>
 		<SKIN>TANSKIN</SKIN>
 		<HAIR>BROWNHEAD</HAIR>
 		<bSex>0</bSex>
@@ -5558,13 +5558,13 @@
 	<PROFILE>
 		<uiIndex>65</uiIndex>
 		<Type>3</Type>
-		<zName>John "Eagle" Atrenko</zName>
+		<zName>John "Eagle" Artenko</zName>
 		<zNickname>Eagle</zNickname>
 		<ubFaceIndex>65</ubFaceIndex>
-		<usEyesX>22</usEyesX>
-		<usEyesY>27</usEyesY>
-		<usMouthX>24</usMouthX>
-		<usMouthY>55</usMouthY>
+		<usEyesX>14</usEyesX>
+		<usEyesY>26</usEyesY>
+		<usMouthX>20</usMouthX>
+		<usMouthY>59</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
@@ -6230,8 +6230,8 @@
 	<PROFILE>
 		<uiIndex>73</uiIndex>
 		<Type>3</Type>
-		<zName>Babyface</zName>
-		<zNickname>Greig</zNickname>
+		<zName>Greig "Babyface" Butler</zName>
+		<zNickname>Babyface</zNickname>
 		<ubFaceIndex>73</ubFaceIndex>
 		<usEyesX>16</usEyesX>
 		<usEyesY>18</usEyesY>
@@ -6257,11 +6257,11 @@
 		<bLifeMax>93</bLifeMax>
 		<bLife>93</bLife>
 		<bStrength>93</bStrength>
-		<bAgility>91</bAgility>
+		<bAgility>85</bAgility>
 		<bDexterity>88</bDexterity>
 		<bWisdom>58</bWisdom>
 		<bMarksmanship>91</bMarksmanship>
-		<bExplosive>24</bExplosive>
+		<bExplosive>44</bExplosive>
 		<bLeadership>22</bLeadership>
 		<bMedical>9</bMedical>
 		<bMechanical>36</bMechanical>
@@ -6472,8 +6472,8 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>16</sSectorX>
-		<sSectorY>14</sSectorY>
+		<sSectorX>15</sSectorX>
+		<sSectorY>12</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>14</ubCivilianGroup>
 		<bTown>10</bTown>
@@ -6808,8 +6808,8 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>15</sSectorX>
-		<sSectorY>15</sSectorY>
+		<sSectorX>14</sSectorX>
+		<sSectorY>13</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>14</ubCivilianGroup>
 		<bTown>10</bTown>
@@ -6976,8 +6976,8 @@
 		<usApproachFactorDirect>60</usApproachFactorDirect>
 		<usApproachFactorThreaten>140</usApproachFactorThreaten>
 		<usApproachFactorRecruit>20</usApproachFactorRecruit>
-		<sSectorX>11</sSectorX>
-		<sSectorY>16</sSectorY>
+		<sSectorX>12</sSectorX>
+		<sSectorY>14</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>7</bTown>

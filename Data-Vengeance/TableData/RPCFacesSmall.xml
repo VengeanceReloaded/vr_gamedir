@@ -39,8 +39,8 @@ MouthY		 -  position of mouth Y (required)
 		<uiIndex>3</uiIndex>
 		<Name>DIMITRI</Name>
 		<FaceIndex>60</FaceIndex>
-		<EyesX>11</EyesX>
-		<EyesY>7</EyesY>
+		<EyesX>6</EyesX>
+		<EyesY>4</EyesY>
 		<MouthX>9</MouthX>
 		<MouthY>24</MouthY>
 	</FACE>	
@@ -84,9 +84,9 @@ MouthY		 -  position of mouth Y (required)
 		<uiIndex>8</uiIndex>
 		<Name>65</Name>
 		<FaceIndex>65</FaceIndex>
-		<EyesX>8</EyesX>
-		<EyesY>6</EyesY>
-		<MouthX>10</MouthX>
+		<EyesX>7</EyesX>
+		<EyesY>5</EyesY>
+		<MouthX>11</MouthX>
 		<MouthY>25</MouthY>
 	</FACE>	
 	<FACE>
