@@ -5491,6 +5491,7 @@
 		<szBRName>Camouflage Kit - Wood</szBRName>
 		<szBRDesc>The Military Wood Camo Compact includes several green and brown nuanced facial paints, and a mirror. This long-lasting, non-running, facial paint can be easily removed with soap and water. The kit also includes a manual that outlines the proper use and care of your compact.</szBRDesc>
 		<usItemClass>8192</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>514</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -7903,6 +7904,7 @@
 		<szBRName>String</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>35</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -8171,6 +8173,7 @@
 		<szBRName>Rubber Band</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>123</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -26686,6 +26689,7 @@
 		<DayVisionRangeBonus>40</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -27335,6 +27339,7 @@
 		<szBRName>Camouflage Kit - Desert</szBRName>
 		<szBRDesc>The Military Desert Camo Compact includes light brown, tan and white cream based facial paint, and a mirror. This long-lasting, non-running, facial paint can be easily removed with soap and water. The kit also includes a manual that outlines the proper use and care of your compact.</szBRDesc>
 		<usItemClass>8192</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>58</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -39831,7 +39836,7 @@
 		<szBRName>A. - Tactical Flashlight</szBRName>
 		<szBRDesc>A small tactical flashlight that fits on almost all guns and slightly increases night vision range.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>8388608</nasAttachmentClass>
+		<nasAttachmentClass>512</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>566</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -39956,6 +39961,7 @@
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
 		<PercentAPReduction>20</PercentAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -39988,6 +39994,7 @@
 		<BestLaserRange>350</BestLaserRange>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentAPReduction>33</PercentAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -40025,6 +40032,7 @@
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>10</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -40062,6 +40070,7 @@
 		<DayVisionRangeBonus>40</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -40100,6 +40109,7 @@
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -40139,6 +40149,7 @@
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -40177,6 +40188,7 @@
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -40898,6 +40910,7 @@
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -41028,6 +41041,7 @@
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
 		<Batteries>1</Batteries>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -41057,6 +41071,7 @@
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<PercentAPReduction>20</PercentAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -41088,6 +41103,7 @@
 		<Inseparable>1</Inseparable>
 		<PercentReadyTimeAPReduction>-2</PercentReadyTimeAPReduction>
 		<PercentAPReduction>33</PercentAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -41120,6 +41136,7 @@
 		<ToHitBonus>1</ToHitBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -41152,6 +41169,7 @@
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
 		<PercentAPReduction>20</PercentAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -41186,6 +41204,7 @@
 		<BestLaserRange>350</BestLaserRange>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentAPReduction>33</PercentAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -41217,6 +41236,7 @@
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>300</BestLaserRange>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -41248,6 +41268,7 @@
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<PercentReadyTimeAPReduction>10</PercentReadyTimeAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -41281,6 +41302,7 @@
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>10</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -41316,6 +41338,7 @@
 		<DayVisionRangeBonus>40</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -41353,6 +41376,7 @@
 		<DayVisionRangeBonus>40</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -41389,6 +41413,7 @@
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -41425,6 +41450,7 @@
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
 		<GasCan>1</GasCan>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -41463,6 +41489,7 @@
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -41497,6 +41524,7 @@
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<NightVisionRangeBonus>15</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -46302,6 +46330,7 @@
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>2</ToHitBonus>
 		<PercentAPReduction>10</PercentAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -46333,6 +46362,7 @@
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
 		<PercentAPReduction>10</PercentAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -46371,6 +46401,7 @@
 		<DayVisionRangeBonus>40</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -46477,6 +46508,7 @@
 		<ToHitBonus>15</ToHitBonus>
 		<BestLaserRange>350</BestLaserRange>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -48607,6 +48639,7 @@
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>10</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -48644,6 +48677,7 @@
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>10</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -48678,6 +48712,7 @@
 		<DayVisionRangeBonus>10</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -48751,6 +48786,7 @@
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -48790,6 +48826,7 @@
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -54404,6 +54441,7 @@
 		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -54443,6 +54481,7 @@
 		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -54588,6 +54627,7 @@
 		<DayVisionRangeBonus>100</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>-75</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -54626,6 +54666,7 @@
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>10</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -54664,6 +54705,7 @@
 		<DayVisionRangeBonus>40</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -54727,6 +54769,7 @@
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -54767,6 +54810,7 @@
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -54806,6 +54850,7 @@
 		<DayVisionRangeBonus>40</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -54846,6 +54891,7 @@
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -54884,6 +54930,7 @@
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -54922,6 +54969,7 @@
 		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -54962,6 +55010,7 @@
 		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55001,6 +55050,7 @@
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55028,6 +55078,7 @@
 		<Inseparable>1</Inseparable>
 		<Bipod>10</Bipod>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55059,6 +55110,7 @@
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
 		<PercentReadyTimeAPReduction>-15</PercentReadyTimeAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55094,6 +55146,7 @@
 		<DayVisionRangeBonus>10</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55126,6 +55179,7 @@
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
 		<PercentAPReduction>10</PercentAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55158,6 +55212,7 @@
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55185,6 +55240,7 @@
 		<Inseparable>1</Inseparable>
 		<RangeBonus>20</RangeBonus>
 		<Duckbill>1</Duckbill>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55212,6 +55268,7 @@
 		<Inseparable>1</Inseparable>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>1</ToHitBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55243,6 +55300,7 @@
 		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55278,6 +55336,7 @@
 		<PercentReadyTimeAPReduction>8</PercentReadyTimeAPReduction>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55308,6 +55367,7 @@
 		<BurstToHitBonus>4</BurstToHitBonus>
 		<AutoFireToHitBonus>4</AutoFireToHitBonus>
 		<PercentReadyTimeAPReduction>8</PercentReadyTimeAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55345,6 +55405,7 @@
 		<DayVisionRangeBonus>50</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55385,6 +55446,7 @@
 		<DayVisionRangeBonus>10</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55418,6 +55480,7 @@
 		<PercentAPReduction>20</PercentAPReduction>
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55446,6 +55509,7 @@
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>120</BestLaserRange>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55480,6 +55544,7 @@
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<Batteries>1</Batteries>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55510,6 +55575,7 @@
 		<BestLaserRange>400</BestLaserRange>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentAPReduction>10</PercentAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55537,6 +55603,7 @@
 		<RangeBonus>10</RangeBonus>
 		<ToHitBonus>2</ToHitBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55563,6 +55630,7 @@
 		<RangeBonus>10</RangeBonus>
 		<ToHitBonus>2</ToHitBonus>
 		<BurstSizeBonus>2</BurstSizeBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55594,6 +55662,7 @@
 		<ToHitBonus>2</ToHitBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55627,6 +55696,7 @@
 		<DayVisionRangeBonus>10</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55665,6 +55735,7 @@
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>80</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>80</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55700,6 +55771,7 @@
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55736,6 +55808,7 @@
 		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55771,6 +55844,7 @@
 		<DayVisionRangeBonus>75</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>75</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55839,6 +55913,7 @@
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>60</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55872,6 +55947,7 @@
 		<DayVisionRangeBonus>40</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55907,6 +55983,7 @@
 		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>60</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>50</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55944,6 +56021,7 @@
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>70</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>80</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -55980,6 +56058,7 @@
 		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>90</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -56014,6 +56093,7 @@
 		<DayVisionRangeBonus>50</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -56046,6 +56126,7 @@
 		<BurstToHitBonus>-1</BurstToHitBonus>
 		<AutoFireToHitBonus>-1</AutoFireToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -56078,6 +56159,7 @@
 		<AutoFireToHitBonus>3</AutoFireToHitBonus>
 		<PercentReadyTimeAPReduction>-100</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -56110,6 +56192,7 @@
 		<BurstToHitBonus>-1</BurstToHitBonus>
 		<AutoFireToHitBonus>-1</AutoFireToHitBonus>
 		<PercentReadyTimeAPReduction>35</PercentReadyTimeAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -56141,6 +56224,7 @@
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
 		<PercentReadyTimeAPReduction>-75</PercentReadyTimeAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -56172,6 +56256,7 @@
 		<PercentNoiseReduction>60</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -56200,6 +56285,7 @@
 		<PercentNoiseReduction>75</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<PercentReadyTimeAPReduction>-2</PercentReadyTimeAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -56232,6 +56318,7 @@
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -56263,6 +56350,7 @@
 		<PercentNoiseReduction>60</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -56294,6 +56382,7 @@
 		<PercentNoiseReduction>60</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<PercentReadyTimeAPReduction>-6</PercentReadyTimeAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -56323,6 +56412,7 @@
 		<SciFi>1</SciFi>
 		<Inseparable>1</Inseparable>
 		<BurstSizeBonus>3</BurstSizeBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -56352,6 +56442,7 @@
 		<BurstSizeBonus>3</BurstSizeBonus>
 		<PercentBurstFireAPReduction>70</PercentBurstFireAPReduction>
 		<PercentAutofireAPReduction>40</PercentAutofireAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -56694,6 +56785,7 @@
 		<Inseparable>1</Inseparable>
 		<BurstSizeBonus>2</BurstSizeBonus>
 		<PercentBurstFireAPReduction>60</PercentBurstFireAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -56702,7 +56794,7 @@
 		<uiIndex>2236</uiIndex>
 		<szItemName>Trigger Group 4</szItemName>
 		<szLongItemName>A. - Trigger Group 4</szLongItemName>
-		<szItemDesc>For the unhappy trigger-happy folks: Just attach the ACME Trigger Group to your favourite assault rifle and enjoy simple and effective 2-round burst fire.</szItemDesc>
+		<szItemDesc>For the unhappy trigger-happy folks: Just attach the ACME Trigger Group to your favourite assault rifle and enjoy simple and effective 4-round burst fire.</szItemDesc>
 		<szBRName>A. - Trigger Group 4</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -56753,6 +56845,7 @@
 		<Inseparable>1</Inseparable>
 		<BurstSizeBonus>4</BurstSizeBonus>
 		<PercentBurstFireAPReduction>-10</PercentBurstFireAPReduction>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
