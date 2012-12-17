@@ -17958,10 +17958,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>692</uiIndex>
-		<szItemName>IMI Micro-Uzi</szItemName>
-		<szLongItemName>IMI Micro-Uzi</szLongItemName>
+		<szItemName>IMI Mini-Uzi</szItemName>
+		<szLongItemName>IMI Mini-Uzi</szLongItemName>
 		<szItemDesc>Little brother to the world-famous SMG, this diminutive devil deals death at 950rpm.</szItemDesc>
-		<szBRName>IMI Micro-Uzi</szBRName>
+		<szBRName>IMI Mini-Uzi</szBRName>
 		<szBRDesc>The Mini-Uzi provides tremendous firepower in a travel sized package.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>692</ubClassIndex>
@@ -54656,7 +54656,6 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
-		<Inseparable>1</Inseparable>
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
 		<AimBonus>6</AimBonus>
@@ -55175,7 +55174,6 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
-		<Inseparable>1</Inseparable>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
 		<PercentAPReduction>10</PercentAPReduction>
