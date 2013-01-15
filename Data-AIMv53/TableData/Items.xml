@@ -7750,6 +7750,7 @@
 		<szBRName>Aluminum Rod</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>28</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -7773,6 +7774,7 @@
 		<szBRName>Spring</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>32</ubGraphicNum>
 		<ubWeight>1</ubWeight>
