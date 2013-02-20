@@ -4098,6 +4098,7 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
+		<LockBomb>1</LockBomb>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7728,6 +7729,7 @@
 		<szBRName>Duct Tape</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>30</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -7830,6 +7832,7 @@
 		<szBRName>Steel Tube</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>133</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -7853,6 +7856,7 @@
 		<szBRName>Quick Glue</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>132</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -24044,6 +24048,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>14</BR_ROF>
+		<MagSizeBonus>6</MagSizeBonus>
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -25556,6 +25561,7 @@
 		<szBRDesc>This is a six-shot grenade cylinder filled with fragmentation grenades.  Each grenade features a time-delayed firing device to ignite its encased TNT. Fired from the MGL Mk.1 grenade launcher, this round can provide great lethal coverage.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>44</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>315</ubGraphicNum>
@@ -25570,6 +25576,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -25597,6 +25604,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -25655,6 +25663,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -25682,6 +25691,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -25709,6 +25719,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -26069,6 +26080,7 @@
 		<SciFi>1</SciFi>
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -26342,6 +26354,7 @@
 		<SciFi>1</SciFi>
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29012,9 +29025,9 @@
 		<uiIndex>1090</uiIndex>
 		<szItemName>LBE Gear</szItemName>
 		<szLongItemName>Vest - LBE Gear</szLongItemName>
-		<szItemDesc>Several pouches mounted onto a harness. Can be upgraded with additional pouches from the modular pouch set or a belt.</szItemDesc>
+		<szItemDesc>Several pouches mounted onto a harness. Can be upgraded with additional pouches from the modular pouch set or a SAW pouch.</szItemDesc>
 		<szBRName>V. - LBE Gear</szBRName>
-		<szBRDesc>Basic equipment of frontline troops. Load Bearing Equipment lets you carry your equipment into battle. Can be upgraded with additional pouches from the modular pouch set or a belt.</szBRDesc>
+		<szBRDesc>Basic equipment of frontline troops. Load Bearing Equipment lets you carry your equipment into battle. Can be upgraded with additional pouches from the modular pouch set or a SAW pouch.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>15</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -36649,6 +36662,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<Flare>1</Flare>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -45958,7 +45972,7 @@
 		<uiIndex>1820</uiIndex>
 		<szItemName>P.U.A. Vest</szItemName>
 		<szLongItemName>Vest - Police//Ammo</szLongItemName>
-		<szItemDesc>A combination of police utility vest and an M1 ammo belt.</szItemDesc>
+		<szItemDesc>A combination of police utility vest and a M1 ammo belt.</szItemDesc>
 		<szBRName>V. - Police//Ammo</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -57079,7 +57093,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2248</uiIndex>
+		<szItemName>P.U.E Vest</szItemName>
 		<szLongItemName>Vest - Police//Eagle</szLongItemName>
+		<szItemDesc>A police utility vest combined with an Eagle battle belt.</szItemDesc>
+		<szBRName>V. - Police//Revolver</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>231</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -57098,7 +57116,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2249</uiIndex>
+		<szItemName>P.U.DH Vest</szItemName>
 		<szLongItemName>Vest - Police//Dual Holster</szLongItemName>
+		<szItemDesc>A combination of police utility vest and a dual holster belt.</szItemDesc>
+		<szBRName>V. - Police//Ammo</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>232</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>

@@ -6618,38 +6618,6 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1498</firstItemIndex>
-		<secondItemIndex>1203</secondItemIndex>
-		<firstResultingItemIndex>1695</firstResultingItemIndex>
-		<secondResultingItemIndex>1588</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>80</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1498</firstItemIndex>
-		<secondItemIndex>1090</secondItemIndex>
-		<firstResultingItemIndex>1503</firstResultingItemIndex>
-		<secondResultingItemIndex>1588</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>78</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1498</firstItemIndex>
-		<secondItemIndex>1505</secondItemIndex>
-		<firstResultingItemIndex>1506</firstResultingItemIndex>
-		<secondResultingItemIndex>1588</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>78</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1498</firstItemIndex>
-		<secondItemIndex>1504</secondItemIndex>
-		<firstResultingItemIndex>1507</firstResultingItemIndex>
-		<secondResultingItemIndex>1588</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>78</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1498</firstItemIndex>
 		<secondItemIndex>1508</secondItemIndex>
 		<firstResultingItemIndex>1509</firstResultingItemIndex>
 		<secondResultingItemIndex>1588</secondResultingItemIndex>
@@ -6692,14 +6660,6 @@
 		<firstItemIndex>1498</firstItemIndex>
 		<secondItemIndex>1500</secondItemIndex>
 		<firstResultingItemIndex>1170</firstResultingItemIndex>
-		<secondResultingItemIndex>1588</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>80</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>1498</firstItemIndex>
-		<secondItemIndex>1694</secondItemIndex>
-		<firstResultingItemIndex>1696</firstResultingItemIndex>
 		<secondResultingItemIndex>1588</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>80</APCost>
@@ -8359,6 +8319,46 @@
 		<secondResultingItemIndex>1588</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>81</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1544</firstItemIndex>
+		<secondItemIndex>1203</secondItemIndex>
+		<firstResultingItemIndex>1695</firstResultingItemIndex>
+		<secondResultingItemIndex>1588</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>80</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1544</firstItemIndex>
+		<secondItemIndex>1090</secondItemIndex>
+		<firstResultingItemIndex>1503</firstResultingItemIndex>
+		<secondResultingItemIndex>1588</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>78</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1544</firstItemIndex>
+		<secondItemIndex>1505</secondItemIndex>
+		<firstResultingItemIndex>1506</firstResultingItemIndex>
+		<secondResultingItemIndex>1588</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>78</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1544</firstItemIndex>
+		<secondItemIndex>1504</secondItemIndex>
+		<firstResultingItemIndex>1507</firstResultingItemIndex>
+		<secondResultingItemIndex>1588</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>78</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1544</firstItemIndex>
+		<secondItemIndex>1694</secondItemIndex>
+		<firstResultingItemIndex>1696</firstResultingItemIndex>
+		<secondResultingItemIndex>1588</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>80</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1544</firstItemIndex>
@@ -10236,7 +10236,7 @@
 		<firstItemIndex>1588</firstItemIndex>
 		<secondItemIndex>1503</secondItemIndex>
 		<firstResultingItemIndex>1090</firstResultingItemIndex>
-		<secondResultingItemIndex>1498</secondResultingItemIndex>
+		<secondResultingItemIndex>1544</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>77</APCost>
 	</MERGE>
@@ -10796,7 +10796,7 @@
 		<firstItemIndex>1588</firstItemIndex>
 		<secondItemIndex>1695</secondItemIndex>
 		<firstResultingItemIndex>1203</firstResultingItemIndex>
-		<secondResultingItemIndex>1498</secondResultingItemIndex>
+		<secondResultingItemIndex>1544</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>77</APCost>
 	</MERGE>

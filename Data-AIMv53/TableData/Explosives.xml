@@ -219,7 +219,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>17</uiIndex>
@@ -232,7 +232,7 @@
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>3</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>18</uiIndex>
@@ -245,7 +245,7 @@
 		<ubAnimationID>4</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>19</uiIndex>
@@ -258,7 +258,7 @@
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>3</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>20</uiIndex>
@@ -583,7 +583,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>45</uiIndex>
@@ -596,7 +596,7 @@
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>46</uiIndex>
@@ -609,7 +609,7 @@
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>47</uiIndex>
@@ -622,7 +622,7 @@
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>3</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>48</uiIndex>
@@ -635,7 +635,7 @@
 		<ubAnimationID>4</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>49</uiIndex>
@@ -648,7 +648,7 @@
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>3</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>50</uiIndex>
@@ -661,7 +661,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>51</uiIndex>
@@ -817,7 +817,7 @@
 		<ubAnimationID>2</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>63</uiIndex>
@@ -934,7 +934,7 @@
 		<ubAnimationID>9</ubAnimationID>
 		<ubDuration>4</ubDuration>
 		<ubStartRadius>6</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>72</uiIndex>
@@ -947,7 +947,7 @@
 		<ubAnimationID>9</ubAnimationID>
 		<ubDuration>4</ubDuration>
 		<ubStartRadius>6</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>73</uiIndex>
@@ -999,7 +999,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>10</ubDuration>
 		<ubStartRadius>6</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>1</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>77</uiIndex>
@@ -1012,7 +1012,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>10</ubDuration>
 		<ubStartRadius>6</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>6</ubMagSize>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>78</uiIndex>
