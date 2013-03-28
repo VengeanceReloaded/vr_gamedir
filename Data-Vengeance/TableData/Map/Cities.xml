@@ -242,7 +242,7 @@ Changes do not require starting of a new game.
 		<CITY>
 			<uiIndex>15</uiIndex>
 			<townName></townName>
-			<townUsesLoyalty>1</townUsesLoyalty>
+			<townUsesLoyalty>0</townUsesLoyalty>
 			<townRebelSentiment>15</townRebelSentiment>
 			<townMilitiaAllowed>1</townMilitiaAllowed>
 			<baseSector>
@@ -257,7 +257,7 @@ Changes do not require starting of a new game.
 		<CITY>
 			<uiIndex>16</uiIndex>
 			<townName></townName>
-			<townUsesLoyalty>1</townUsesLoyalty>
+			<townUsesLoyalty>0</townUsesLoyalty>
 			<townRebelSentiment>15</townRebelSentiment>
 			<townMilitiaAllowed>1</townMilitiaAllowed>
 			<baseSector>
@@ -272,16 +272,31 @@ Changes do not require starting of a new game.
 		<CITY>
 			<uiIndex>17</uiIndex>
 			<townName></townName>
-			<townUsesLoyalty>1</townUsesLoyalty>
+			<townUsesLoyalty>0</townUsesLoyalty>
 			<townRebelSentiment>10</townRebelSentiment>
 			<townMilitiaAllowed>1</townMilitiaAllowed>
 			<baseSector>
 				<x>3</x>
-				<y>13</y>
+				<y>12</y>
 			</baseSector>
 			<townPoint>
 				<x>35</x>
 				<y>120</y>
+			</townPoint>
+		</CITY>
+		<CITY>
+			<uiIndex>18</uiIndex>
+			<townName></townName>
+			<townUsesLoyalty>0</townUsesLoyalty>
+			<townRebelSentiment>10</townRebelSentiment>
+			<townMilitiaAllowed>1</townMilitiaAllowed>
+			<baseSector>
+				<x>4</x>
+				<y>13</y>
+			</baseSector>
+			<townPoint>
+				<x>50</x>
+				<y>130</y>
 			</townPoint>
 		</CITY>
 	</CITYLIST>
@@ -302,8 +317,8 @@ Changes do not require starting of a new game.
 		<CITY_TABLE_ROW row="11"> 0  0  0  0  9  0  0  0  0  0  0  10 10 0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="12"> 0  0  0  0  0  0  0  0  0  0  10 10 10 0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="13"> 0  0  0  17 17 17 0  0  0  0  10 10 10 0  0  0  0  0 </CITY_TABLE_ROW>
-		<CITY_TABLE_ROW row="14"> 0  0  0  11 11 17 0  0  0  0  0  0  0  0  0  0  14 0 </CITY_TABLE_ROW>
-		<CITY_TABLE_ROW row="15"> 0  0  11 11 11 17 0  0  0  0  0  0  8  0  0  0  0  0 </CITY_TABLE_ROW>
+		<CITY_TABLE_ROW row="14"> 0  0  0  11 11 18 18 0  0  0  0  0  0  0  0  0  14 0 </CITY_TABLE_ROW>
+		<CITY_TABLE_ROW row="15"> 0  0  11 11 11 18 0  0  0  0  0  0  8  0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="16"> 0  0  0  11 0  0  0  0  0  0  0  0  8  8  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="17"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
 	</CITY_TABLE>
