@@ -10,6 +10,18 @@
 	</DESTINATION>
 	<DESTINATION>
 		<uiIndex>2</uiIndex>
+		<name>Beirut</name>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>3</uiIndex>
+		<name>Burton</name>
+		<ubMapX>3</ubMapX>
+		<ubMapY>14</ubMapY>
+		<ubMapZ>0</ubMapZ>
+		<sGridNo>10959</sGridNo>
+	</DESTINATION>	
+	<DESTINATION>
+		<uiIndex>4</uiIndex>
 		<name>Drassen</name>
 		<ubMapX>13</ubMapX>
 		<ubMapY>2</ubMapY>
@@ -17,28 +29,16 @@
 		<sGridNo>10112</sGridNo>
 	</DESTINATION>
 	<DESTINATION>
-		<uiIndex>3</uiIndex>
+		<uiIndex>5</uiIndex>
 		<name>Hong Kong</name>
 	</DESTINATION>
 	<DESTINATION>
-		<uiIndex>4</uiIndex>
-		<name>Beirut</name>
-	</DESTINATION>
-	<DESTINATION>
-		<uiIndex>5</uiIndex>
+		<uiIndex>6</uiIndex>
 		<name>London</name>
 	</DESTINATION>	
 	<DESTINATION>
-		<uiIndex>6</uiIndex>
-		<name>Los Angeles</name>
-	</DESTINATION>
-	<DESTINATION>
 		<uiIndex>7</uiIndex>
-		<name>Burton</name>
-		<ubMapX>3</ubMapX>
-		<ubMapY>14</ubMapY>
-		<ubMapZ>0</ubMapZ>
-		<sGridNo>10959</sGridNo>
+		<name>Los Angeles</name>
 	</DESTINATION>
 	<DESTINATION>
 		<uiIndex>8</uiIndex>
@@ -66,11 +66,11 @@
 	</DESTINATION>
 	<DESTINATION>
 		<uiIndex>14</uiIndex>
-		<name>Tripoli</name>
+		<name>Tokyo</name>
 	</DESTINATION>
 	<DESTINATION>
 		<uiIndex>15</uiIndex>
-		<name>Tokyo</name>
+		<name>Tripoli</name>
 	</DESTINATION>
 	<DESTINATION>
 		<uiIndex>16</uiIndex>

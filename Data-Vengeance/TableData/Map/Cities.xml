@@ -244,7 +244,7 @@ Changes do not require starting of a new game.
 			<townName></townName>
 			<townUsesLoyalty>0</townUsesLoyalty>
 			<townRebelSentiment>15</townRebelSentiment>
-			<townMilitiaAllowed>1</townMilitiaAllowed>
+			<townMilitiaAllowed>0</townMilitiaAllowed>
 			<baseSector>
 				<x>2</x>
 				<y>8</y>
@@ -257,7 +257,7 @@ Changes do not require starting of a new game.
 		<CITY>
 			<uiIndex>16</uiIndex>
 			<townName></townName>
-			<townUsesLoyalty>0</townUsesLoyalty>
+			<townUsesLoyalty>1</townUsesLoyalty>
 			<townRebelSentiment>15</townRebelSentiment>
 			<townMilitiaAllowed>1</townMilitiaAllowed>
 			<baseSector>
@@ -272,7 +272,7 @@ Changes do not require starting of a new game.
 		<CITY>
 			<uiIndex>17</uiIndex>
 			<townName></townName>
-			<townUsesLoyalty>0</townUsesLoyalty>
+			<townUsesLoyalty>1</townUsesLoyalty>
 			<townRebelSentiment>10</townRebelSentiment>
 			<townMilitiaAllowed>1</townMilitiaAllowed>
 			<baseSector>
@@ -287,7 +287,7 @@ Changes do not require starting of a new game.
 		<CITY>
 			<uiIndex>18</uiIndex>
 			<townName></townName>
-			<townUsesLoyalty>0</townUsesLoyalty>
+			<townUsesLoyalty>1</townUsesLoyalty>
 			<townRebelSentiment>10</townRebelSentiment>
 			<townMilitiaAllowed>1</townMilitiaAllowed>
 			<baseSector>
@@ -311,8 +311,8 @@ Changes do not require starting of a new game.
 		<CITY_TABLE_ROW row="05"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="06"> 0  0  0  0  0  0  0  6  6  6  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="07"> 0  4  4  4  0  0  0  6  6  6  16 0  0  0  3  0  0  0 </CITY_TABLE_ROW>
-		<CITY_TABLE_ROW row="08"> 0  4  4  15 15 0  0  0  6  6  16 0  0  3  3  0  0  0 </CITY_TABLE_ROW>
-		<CITY_TABLE_ROW row="09"> 0  0  0  15 0  0  13 0  0  16 16 0  0  3  3  3  0  0 </CITY_TABLE_ROW>
+		<CITY_TABLE_ROW row="08"> 0  4  4  4  15 0  0  0  6  6  16 0  0  3  3  0  0  0 </CITY_TABLE_ROW>
+		<CITY_TABLE_ROW row="09"> 0  0  0  4  0  0  13 0  0  16 16 0  0  3  3  3  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="10"> 0  0  0  15 0  0  0  0  0  5  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="11"> 0  0  0  0  9  0  0  0  0  0  0  10 10 0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="12"> 0  0  0  0  0  0  0  0  0  0  10 10 10 0  0  0  0  0 </CITY_TABLE_ROW>
