@@ -6818,21 +6818,21 @@
 	<PROFILE>
 		<uiIndex>80</uiIndex>
 		<Type>4</Type>
-		<zName>Dr. Steven Willis</zName>
-		<zNickname>Steve</zNickname>
+		<zName>Dr. Ahmad "Doc" Koolhan</zName>
+		<zNickname>Doc</zNickname>
 		<ubFaceIndex>80</ubFaceIndex>
-		<usEyesX>21</usEyesX>
-		<usEyesY>32</usEyesY>
-		<usMouthX>21</usMouthX>
-		<usMouthY>55</usMouthY>
+		<usEyesX>15</usEyesX>
+		<usEyesY>27</usEyesY>
+		<usMouthX>14</usMouthX>
+		<usMouthY>60</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
-		<PANTS>GREENPANTS</PANTS>
-		<VEST>GREENVEST</VEST>
+		<PANTS>TANPANTS</PANTS>
+		<VEST>BROWNVEST</VEST>
 		<SKIN>TANSKIN</SKIN>
-		<HAIR>dirtblnde</HAIR>
+		<HAIR>BLACKHEAD</HAIR>
 		<bSex>0</bSex>
 		<ubBodyType>12</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
@@ -6842,24 +6842,24 @@
 		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>93</bLifeMax>
-		<bLife>93</bLife>
-		<bStrength>73</bStrength>
-		<bAgility>84</bAgility>
-		<bDexterity>92</bDexterity>
-		<bWisdom>95</bWisdom>
-		<bMarksmanship>16</bMarksmanship>
-		<bExplosive>1</bExplosive>
-		<bLeadership>37</bLeadership>
-		<bMedical>94</bMedical>
-		<bMechanical>18</bMechanical>
-		<bExpLevel>1</bExpLevel>
+		<bLifeMax>74</bLifeMax>
+		<bLife>74</bLife>
+		<bStrength>80</bStrength>
+		<bAgility>77</bAgility>
+		<bDexterity>61</bDexterity>
+		<bWisdom>83</bWisdom>
+		<bMarksmanship>67</bMarksmanship>
+		<bExplosive>0</bExplosive>
+		<bLeadership>56</bLeadership>
+		<bMedical>88</bMedical>
+		<bMechanical>3</bMechanical>
+		<bExpLevel>3</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>13</bOldSkillTrait>
 		<bOldSkillTrait2>13</bOldSkillTrait2>
-		<bNewSkillTrait1>6</bNewSkillTrait1>
-		<bNewSkillTrait2>11</bNewSkillTrait2>
-		<bNewSkillTrait3>16</bNewSkillTrait3>
+		<bNewSkillTrait1>9</bNewSkillTrait1>
+		<bNewSkillTrait2>7</bNewSkillTrait2>
+		<bNewSkillTrait3>18</bNewSkillTrait3>
 		<bBuddy1>255</bBuddy1>
 		<bBuddy2>255</bBuddy2>
 		<bBuddy3>255</bBuddy3>
