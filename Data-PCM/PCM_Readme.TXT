@@ -18,12 +18,13 @@ Changes are very nonintrusive to keep the integrity of the vanilla story, settin
 Notes:
 
 Skyrider has his speech limited due to an overlapping issue from his function as a pilot. 
-If the player prefers to have Skyrider as the pilot (same as in the vanilla game), 
+If the player prefers to have Skyrider as the pilot only (same as in the vanilla game), 
 then you need to react quickly. After Skyrider is escorted to his chopper, 
 he'll do his usual speech, after that Skyrider will walk towards his chopper.
-If you want to avoid Skyrider to join the squad but want him as a pilot as usual, 
+If you want to avoid Skyrider to join the squad but want him as a pilot only as usual, 
 go to the strategic map before Skyrider has reached his chopper. Then everything will be as in the Vanilla game.
 If you want him to join, wait for him to reach his chopper, after that he will become playable.
+(His 'twin brother' will be piloting the heli then, so you do not lose any functionality on recruiting Skyrider)
 
 John will be automatically added to the player's squad after he is escorted to the airport. 
 If you don't want him, you can just dismiss him.
