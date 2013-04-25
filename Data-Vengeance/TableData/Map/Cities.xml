@@ -141,6 +141,7 @@ Changes do not require starting of a new game.
 			<townUsesLoyalty>1</townUsesLoyalty>
 			<townRebelSentiment>45</townRebelSentiment>
 			<townMilitiaAllowed>1</townMilitiaAllowed>
+			<hiddenTown>1</hiddenTown>
 			<baseSector>
 				<x>11</x>
 				<y>14</y>
@@ -232,6 +233,7 @@ Changes do not require starting of a new game.
 			<townUsesLoyalty>0</townUsesLoyalty>
 			<townRebelSentiment>5</townRebelSentiment>
 			<townMilitiaAllowed>0</townMilitiaAllowed>
+			<hiddenTown>1</hiddenTown>
 			<baseSector>
 				<x>14</x>
 				<y>13</y>
