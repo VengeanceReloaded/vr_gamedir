@@ -1,5 +1,6 @@
 "Playable Characters Mod" (PCM) for Vengeance-1.13 Reloaded (English Test-File composed by Scheinworld 23.04.13)
 
+(last updated 16.05.2013)
 
 Original idea and concept by Smilingassassin aka "The_Scorpion"
 
@@ -7,7 +8,7 @@ Original idea and concept by Smilingassassin aka "The_Scorpion"
 
 Features:
 
-Converted the non-playable JA2 characters: Perko, Maria, Skyrider, Fred, John, Matt, Oswald, Calvin and Carl into playable characters.
+Converted the non-playable JA2 characters: Perko, Carmen, Maria, Skyrider, Fred, John, Mary, Matt, Oswald, Calvin and Carl into playable characters.
 
 
 All new playable characters have faces, speech and battle sounds. They also have character skills and their personal equipment. All of them are free.
@@ -26,8 +27,9 @@ go to the strategic map before Skyrider has reached his chopper. Then everything
 If you want him to join, wait for him to reach his chopper, after that he will become playable.
 (His 'twin brother' will be piloting the heli then, so you do not lose any functionality on recruiting Skyrider)
 
-John will be automatically added to the player's squad after he is escorted to the airport. 
-If you don't want him, you can just dismiss him.
+John and Mary* will be automatically added to the player's squad after he is escorted to the airport.
+If you don't want them, you can just dismiss them.
+(* Mary is a civilian only (!) and can not be used for fighting but for other duties you will surely find out yourself ;-))
 
 Perko can be easily recruited, but requires user input (just click on "recruit").
 
@@ -41,6 +43,10 @@ Upon recruiting, he loses parts of his head miner function, parts might still be
 For convenience reason, it is advised to minimize the chances that the mining income is interrupted 
 (either the bug quest is already over, or sci-fi mode is unselected) in order not to cause glitches.
 For testing, he can however join as soon as the mine has started to produce income.
+
+Carmen can be recruited as soon as you have brought him the fourth head and the game log output a message that "all terrorists have been caught". 
+He keeps the complete money for the fourth head though. That's his prize but I think he is worth it.
+(Btw it's possible to have Slay and Carmen together! You must recruit Slay shortly before you gave Carmen the fourth head and the terrorists quest is done.) 
 
 Let the escorted persons go off on their own upon completion of their quest, they will then join if your leadership is good 
 
@@ -59,6 +65,9 @@ No more bugs are known, if you find them - report them!
 Credits:
 
 Most content is taken from JA2 and JA2.5 UB
+The speech and faces of character 78 (Carmen) was designed by Sucho *
+The speech and script of character 119 (Mary) was designed and cut by Will Gates *
+(* edited and changed for V:R purposes)
 The speech of character 158 (Carl) was taken from Scorpion's mod "Renegade Republic" (there as "Butch")
 
 - Fan for testing reports and numerous proposals for the Prof.dat and MercStartingGear.xml

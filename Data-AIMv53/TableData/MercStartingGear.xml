@@ -14693,14 +14693,14 @@
 			<mVest>194</mVest>
 			<mVestDrop>0</mVestDrop>
 			<mVestStatus>99</mVestStatus>
-			<mLeg>1783</mLeg>
+			<mLeg>0</mLeg>
 			<mLegDrop>0</mLegDrop>
-			<mLegStatus>99</mLegStatus>
+			<mLegStatus>0</mLegStatus>
 			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>0</mBig0>
-			<mBig0Status>0</mBig0Status>
+			<mBig0>201</mBig0>
+			<mBig0Status>99</mBig0Status>
 			<mBig0Quantity>0</mBig0Quantity>
 			<mBig0Drop>0</mBig0Drop>
 			<mBig1>0</mBig1>
@@ -14741,8 +14741,8 @@
 			<mSmall7Quantity>0</mSmall7Quantity>
 			<lVest>0</lVest>
 			<lVestStatus>0</lVestStatus>
-			<lLeftThigh>0</lLeftThigh>
-			<lLeftThighStatus>0</lLeftThighStatus>
+			<lLeftThigh>1517</lLeftThigh>
+			<lLeftThighStatus>100</lLeftThighStatus>
 			<lRightThigh>0</lRightThigh>
 			<lRightThighStatus>0</lRightThighStatus>
 			<lCPack>0</lCPack>

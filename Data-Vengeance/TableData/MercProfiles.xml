@@ -6699,8 +6699,8 @@
 		<bBuddy5>255</bBuddy5>
 		<bLearnToLike>255</bLearnToLike>
 		<bLearnToLikeTime>0</bLearnToLikeTime>
-		<bHated1>255</bHated1>
-		<bHatedTime1>0</bHatedTime1>
+		<bHated1>64</bHated1>
+		<bHatedTime1>88</bHatedTime1>
 		<bHated2>255</bHated2>
 		<bHatedTime2>0</bHatedTime2>
 		<bHated3>255</bHated3>
@@ -10124,19 +10124,19 @@
 		<bAgility>54</bAgility>
 		<bDexterity>67</bDexterity>
 		<bWisdom>48</bWisdom>
-		<bMarksmanship>36</bMarksmanship>
+		<bMarksmanship>0</bMarksmanship>
 		<bExplosive>0</bExplosive>
-		<bLeadership>1</bLeadership>
+		<bLeadership>20</bLeadership>
 		<bMedical>20</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
 		<bEvolution>0</bEvolution>
-		<bOldSkillTrait>0</bOldSkillTrait>
+		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
 		<bNewSkillTrait2>0</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
-		<bBuddy1>255</bBuddy1>
+		<bBuddy1>118</bBuddy1>
 		<bBuddy2>255</bBuddy2>
 		<bBuddy3>255</bBuddy3>
 		<bBuddy4>255</bBuddy4>

@@ -151,7 +151,7 @@ MouthY		 -  position of mouth Y (required)
 		<EyesY>7</EyesY>
 		<MouthX>9</MouthX>
 		<MouthY>25</MouthY>
-	</FACE>	
+	</FACE>
 	<FACE>
 		<uiIndex>16</uiIndex>
 		<Name>73</Name>
@@ -160,7 +160,7 @@ MouthY		 -  position of mouth Y (required)
 		<EyesY>1</EyesY>
 		<MouthX>6</MouthX>
 		<MouthY>21</MouthY>
-	</FACE>	
+	</FACE>
 	<FACE>
 		<uiIndex>17</uiIndex>
 		<Name>74</Name>
@@ -169,9 +169,18 @@ MouthY		 -  position of mouth Y (required)
 		<EyesY>7</EyesY>
 		<MouthX>12</MouthX>
 		<MouthY>23</MouthY>
-	</FACE>	
-	<FACE>
+	</FACE>
+		<FACE>
 		<uiIndex>18</uiIndex>
+		<Name>78</Name>
+		<FaceIndex>78</FaceIndex>
+		<EyesX>7</EyesX>
+		<EyesY>10</EyesY>
+		<MouthX>9</MouthX>
+		<MouthY>27</MouthY>
+	</FACE>
+	<FACE>
+		<uiIndex>19</uiIndex>
 		<Name>MARIA</Name>
 		<FaceIndex>88</FaceIndex>
 		<EyesX>9</EyesX>
@@ -180,7 +189,7 @@ MouthY		 -  position of mouth Y (required)
 		<MouthY>23</MouthY>
 	</FACE>	
 	<FACE>
-		<uiIndex>19</uiIndex>
+		<uiIndex>20</uiIndex>
 		<Name>JOEY</Name>
 		<FaceIndex>90</FaceIndex>
 		<EyesX>7</EyesX>
@@ -189,7 +198,7 @@ MouthY		 -  position of mouth Y (required)
 		<MouthY>30</MouthY>
 	</FACE>	
 	<FACE>
-		<uiIndex>20</uiIndex>
+		<uiIndex>21</uiIndex>
 		<Name>SKYRIDER</Name>
 		<FaceIndex>97</FaceIndex>
 		<EyesX>11</EyesX>
@@ -198,7 +207,7 @@ MouthY		 -  position of mouth Y (required)
 		<MouthY>24</MouthY>
 	</FACE>	
 	<FACE>
-		<uiIndex>21</uiIndex>
+		<uiIndex>22</uiIndex>
 		<Name>Miner</Name>
 		<FaceIndex>106</FaceIndex>
 		<EyesX>9</EyesX>
@@ -207,7 +216,7 @@ MouthY		 -  position of mouth Y (required)
 		<MouthY>23</MouthY>
 	</FACE>	
 	<FACE>
-		<uiIndex>22</uiIndex>
+		<uiIndex>23</uiIndex>
 		<Name>JOHN</Name>
 		<FaceIndex>118</FaceIndex>
 		<EyesX>6</EyesX>
@@ -216,7 +225,7 @@ MouthY		 -  position of mouth Y (required)
 		<MouthY>24</MouthY>
 	</FACE>	
 	<FACE>
-		<uiIndex>23</uiIndex>
+		<uiIndex>24</uiIndex>
 		<Name>119</Name>
 		<FaceIndex>119</FaceIndex>
 		<EyesX>12</EyesX>
@@ -225,7 +234,7 @@ MouthY		 -  position of mouth Y (required)
 		<MouthY>24</MouthY>
 	</FACE>	
 	<FACE>
-		<uiIndex>24</uiIndex>
+		<uiIndex>25</uiIndex>
 		<Name>Miner</Name>
 		<FaceIndex>148</FaceIndex>
 		<EyesX>8</EyesX>
@@ -234,7 +243,7 @@ MouthY		 -  position of mouth Y (required)
 		<MouthY>23</MouthY>
 	</FACE>	
 	<FACE>
-		<uiIndex>25</uiIndex>
+		<uiIndex>26</uiIndex>
 		<Name>Miner</Name>
 		<FaceIndex>156</FaceIndex>
 		<EyesX>6</EyesX>
@@ -243,7 +252,7 @@ MouthY		 -  position of mouth Y (required)
 		<MouthY>23</MouthY>
 	</FACE>	
 	<FACE>
-		<uiIndex>26</uiIndex>
+		<uiIndex>27</uiIndex>
 		<Name>Miner</Name>
 		<FaceIndex>157</FaceIndex>
 		<EyesX>13</EyesX>
@@ -252,7 +261,7 @@ MouthY		 -  position of mouth Y (required)
 		<MouthY>24</MouthY>
 	</FACE>	
 	<FACE>
-		<uiIndex>27</uiIndex>
+		<uiIndex>28</uiIndex>
 		<Name>Miner</Name>
 		<FaceIndex>158</FaceIndex>
 		<EyesX>9</EyesX>
