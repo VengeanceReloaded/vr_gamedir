@@ -311,7 +311,7 @@ function InitializeHeadMiners(mines, currentMine)
     local Matt = headMinerInfo[2]
 
     local AlmaID = 3 -- cp. §1.1.
-
+	local DrassenID = 2 -- cp. §1.1.
 
     -- don't place miners until player enters a producing mine
     if mines[currentMine].MaxRemovalRate == 0 then
@@ -321,18 +321,20 @@ function InitializeHeadMiners(mines, currentMine)
 
     -- Matt is always head miner in Alma
     Matt.MineID = AlmaID
-
+	
+	-- Fred is always head miner in Drassen
+	Fred.MineID = DrassenID
 
     -- Fred is the first miner the player encounters unless it's Alma
-    if currentMine ~= AlmaID then
-        Fred.MineID = currentMine
-    end
+    --if currentMine ~= AlmaID then
+        --Fred.MineID = currentMine
+    --end
 
 
     -- collect IDs of all producing mines except Alma mine and Fred's
     local MinesLeft = {}
     for i = 1, #mines do
-        if i ~= AlmaID and i ~= currentMine then
+        if i ~= AlmaID and i ~= DrassenID then
             if mines[i].MaxRemovalRate > 0 then
                 table.insert(MinesLeft, i)
             end
@@ -340,6 +342,7 @@ function InitializeHeadMiners(mines, currentMine)
     end
 
     -- randomly distribute miners
+	-- (oil rig chiefs)
     for i = 1, #headMinerInfo do
         if headMinerInfo[i].MineID == nil then
             local index = math.random(#MinesLeft)
