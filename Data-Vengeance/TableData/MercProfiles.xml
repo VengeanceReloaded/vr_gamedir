@@ -4981,7 +4981,7 @@
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
-		<PANTS>JEANPANTS</PANTS>
+		<PANTS>BLACKPANTS</PANTS>
 		<VEST>BLACKSHIRT</VEST>
 		<SKIN>PINKSKIN</SKIN>
 		<HAIR>BLONDHEAD</HAIR>
@@ -5234,7 +5234,7 @@
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
 		<PANTS>TANPANTS</PANTS>
-		<VEST>JEANVEST</VEST>
+		<VEST>BROWNVEST</VEST>
 		<SKIN>PINKSKIN</SKIN>
 		<HAIR>BLONDHEAD</HAIR>
 		<bSex>0</bSex>
@@ -6146,54 +6146,54 @@
 	<PROFILE>
 		<uiIndex>72</uiIndex>
 		<Type>3</Type>
-		<zName>Kevin "Maddog" Cameron</zName>
-		<zNickname>Maddog</zNickname>
+		<zName>Gordon Jefferies</zName>
+		<zNickname>Gordon</zNickname>
 		<ubFaceIndex>72</ubFaceIndex>
 		<usEyesX>21</usEyesX>
 		<usEyesY>29</usEyesY>
 		<usMouthX>21</usMouthX>
-		<usMouthY>52</usMouthY>
+		<usMouthY>57</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
-		<PANTS>GREENPANTS</PANTS>
-		<VEST>greyVEST</VEST>
-		<SKIN>PINKSKIN</SKIN>
-		<HAIR>redbrown</HAIR>
+		<PANTS>BLACKPANTS</PANTS>
+		<VEST>GREENVEST</VEST>
+		<SKIN>BLACKSKIN</SKIN>
+		<HAIR>BLACKHEAD</HAIR>
 		<bSex>0</bSex>
 		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
 		<bAttitude>5</bAttitude>
-		<bCharacterTrait>7</bCharacterTrait>
+		<bCharacterTrait>0</bCharacterTrait>
 		<bDisability>7</bDisability>
 		<ubNeedForSleep>10</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>91</bLifeMax>
-		<bLife>91</bLife>
-		<bStrength>78</bStrength>
-		<bAgility>91</bAgility>
-		<bDexterity>92</bDexterity>
-		<bWisdom>56</bWisdom>
+		<bLifeMax>73</bLifeMax>
+		<bLife>68</bLife>
+		<bStrength>55</bStrength>
+		<bAgility>33</bAgility>
+		<bDexterity>69</bDexterity>
+		<bWisdom>87</bWisdom>
 		<bMarksmanship>66</bMarksmanship>
-		<bExplosive>18</bExplosive>
-		<bLeadership>8</bLeadership>
-		<bMedical>7</bMedical>
-		<bMechanical>68</bMechanical>
-		<bExpLevel>1</bExpLevel>
+		<bExplosive>1</bExplosive>
+		<bLeadership>12</bLeadership>
+		<bMedical>17</bMedical>
+		<bMechanical>11</bMechanical>
+		<bExpLevel>3</bExpLevel>
 		<bEvolution>0</bEvolution>
-		<bOldSkillTrait>1</bOldSkillTrait>
-		<bOldSkillTrait2>1</bOldSkillTrait2>
-		<bNewSkillTrait1>8</bNewSkillTrait1>
-		<bNewSkillTrait2>8</bNewSkillTrait2>
+		<bOldSkillTrait>5</bOldSkillTrait>
+		<bOldSkillTrait2>4</bOldSkillTrait2>
+		<bNewSkillTrait1>0</bNewSkillTrait1>
+		<bNewSkillTrait2>0</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
 		<bBuddy1>255</bBuddy1>
 		<bBuddy2>255</bBuddy2>
 		<bBuddy3>255</bBuddy3>
 		<bBuddy4>255</bBuddy4>
 		<bBuddy5>255</bBuddy5>
-		<bLearnToLike>14</bLearnToLike>
+		<bLearnToLike>33</bLearnToLike>
 		<bLearnToLikeTime>2</bLearnToLikeTime>
 		<bHated1>255</bHated1>
 		<bHatedTime1>0</bHatedTime1>
@@ -6207,7 +6207,7 @@
 		<bHatedTime5>0</bHatedTime5>
 		<bLearnToHate>255</bLearnToHate>
 		<bLearnToHateTime>0</bLearnToHateTime>
-		<sSalary>0</sSalary>
+		<sSalary>666</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -6215,17 +6215,17 @@
 		<usOptionalGearCost>23813</usOptionalGearCost>
 		<bArmourAttractiveness>-1</bArmourAttractiveness>
 		<bMainGunAttractiveness>59</bMainGunAttractiveness>
-		<fGoodGuy>0</fGoodGuy>
+		<fGoodGuy>1</fGoodGuy>
 		<usApproachFactorFriendly>60</usApproachFactorFriendly>
 		<usApproachFactorDirect>90</usApproachFactorDirect>
 		<usApproachFactorThreaten>150</usApproachFactorThreaten>
 		<usApproachFactorRecruit>40</usApproachFactorRecruit>
-		<sSectorX>6</sSectorX>
-		<sSectorY>9</sSectorY>
+		<sSectorX>8</sSectorX>
+		<sSectorY>6</sSectorY>
 		<sSectorZ>0</sSectorZ>
-		<ubCivilianGroup>12</ubCivilianGroup>
-		<bTown>8</bTown>
-		<bTownAttachment>60</bTownAttachment>
+		<ubCivilianGroup>0</ubCivilianGroup>
+		<bTown>6</bTown>
+		<bTownAttachment>0</bTownAttachment>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>73</uiIndex>
@@ -19101,7 +19101,7 @@
 		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
 		<bAttitude>2</bAttitude>
-		<bCharacterTrait>0</bCharacterTrait>
+		<bCharacterTrait>2</bCharacterTrait>
 		<bDisability>0</bDisability>
 		<ubNeedForSleep>6</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
@@ -19112,12 +19112,12 @@
 		<bAgility>84</bAgility>
 		<bDexterity>81</bDexterity>
 		<bWisdom>83</bWisdom>
-		<bMarksmanship>100</bMarksmanship>
+		<bMarksmanship>99</bMarksmanship>
 		<bExplosive>39</bExplosive>
 		<bLeadership>26</bLeadership>
 		<bMedical>57</bMedical>
 		<bMechanical>35</bMechanical>
-		<bExpLevel>9</bExpLevel>
+		<bExpLevel>7</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>14</bOldSkillTrait>
 		<bOldSkillTrait2>9</bOldSkillTrait2>
