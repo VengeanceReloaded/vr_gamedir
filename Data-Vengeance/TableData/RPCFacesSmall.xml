@@ -66,10 +66,10 @@ MouthY		 -  position of mouth Y (required)
 		<uiIndex>6</uiIndex>
 		<Name>63</Name>
 		<FaceIndex>63</FaceIndex>
-		<EyesX>8</EyesX>
-		<EyesY>7</EyesY>
-		<MouthX>8</MouthX>
-		<MouthY>23</MouthY>
+		<EyesX>4</EyesX>
+		<EyesY>3</EyesY>
+		<MouthX>7</MouthX>
+		<MouthY>26</MouthY>
 	</FACE>	
 	<FACE>
 		<uiIndex>7</uiIndex>
