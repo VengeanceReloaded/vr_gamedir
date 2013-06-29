@@ -65,6 +65,7 @@
 <!-- minor Skill (17)	Demolitions					-->
 <!-- minor Skill (18)	Teaching					-->
 <!-- minor Skill (19)	Scouting					-->
+<!-- minor Skill (19)	Driver					-->
 
 <!-- STOMP Character Traits -->
 
@@ -5429,7 +5430,7 @@
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>7</bOldSkillTrait>
 		<bOldSkillTrait2>7</bOldSkillTrait2>
-		<bNewSkillTrait1>0</bNewSkillTrait1>
+		<bNewSkillTrait1>21</bNewSkillTrait1>
 		<bNewSkillTrait2>0</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
 		<bBuddy1>25</bBuddy1>
