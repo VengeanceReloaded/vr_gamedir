@@ -37,12 +37,12 @@ MouthY		 -  position of mouth Y (required)
 	</FACE>	
 	<FACE>
 		<uiIndex>3</uiIndex>
-		<Name>DIMITRI</Name>
+		<Name>FRAZZLER</Name>
 		<FaceIndex>60</FaceIndex>
-		<EyesX>6</EyesX>
-		<EyesY>4</EyesY>
-		<MouthX>9</MouthX>
-		<MouthY>24</MouthY>
+		<EyesX>8</EyesX>
+		<EyesY>8</EyesY>
+		<MouthX>10</MouthX>
+		<MouthY>27</MouthY>
 	</FACE>	
 	<FACE>
 		<uiIndex>4</uiIndex>
