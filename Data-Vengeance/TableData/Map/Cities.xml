@@ -36,7 +36,7 @@ Changes do not require starting of a new game.
 			<townRebelSentiment>90</townRebelSentiment>
 			<townMilitiaAllowed>1</townMilitiaAllowed>
 			<baseSector>
-				<x>9</x>
+				<x>8</x>
 				<y>1</y>
 			</baseSector>
 			<townPoint>
@@ -51,8 +51,8 @@ Changes do not require starting of a new game.
 			<townRebelSentiment>30</townRebelSentiment>
 			<townMilitiaAllowed>1</townMilitiaAllowed>
 			<baseSector>
-				<x>13</x>
-				<y>2</y>
+				<x>12</x>
+				<y>1</y>
 			</baseSector>
 			<townPoint>
 				<x>130</x>
@@ -66,8 +66,8 @@ Changes do not require starting of a new game.
 			<townRebelSentiment>12</townRebelSentiment>
 			<townMilitiaAllowed>1</townMilitiaAllowed>
 			<baseSector>
-				<x>13</x>
-				<y>7</y>
+				<x>12</x>
+				<y>6</y>
 			</baseSector>
 			<townPoint>
 				<x>135</x>
@@ -82,7 +82,7 @@ Changes do not require starting of a new game.
 			<townMilitiaAllowed>1</townMilitiaAllowed>
 			<baseSector>
 				<x>1</x>
-				<y>7</y>
+				<y>6</y>
 			</baseSector>
 			<townPoint>
 				<x>10</x>
@@ -112,8 +112,8 @@ Changes do not require starting of a new game.
 			<townRebelSentiment>15</townRebelSentiment>
 			<townMilitiaAllowed>1</townMilitiaAllowed>
 			<baseSector>
-				<x>7</x>
-				<y>6</y>
+				<x>6</x>
+				<y>5</y>
 			</baseSector>
 			<townPoint>
 				<x>70</x>
@@ -127,7 +127,7 @@ Changes do not require starting of a new game.
 			<townRebelSentiment>20</townRebelSentiment>
 			<townMilitiaAllowed>0</townMilitiaAllowed>
 			<baseSector>
-				<x>4</x>
+				<x>3</x>
 				<y>2</y>
 			</baseSector>
 			<townPoint>
@@ -174,8 +174,8 @@ Changes do not require starting of a new game.
 			<townRebelSentiment>12</townRebelSentiment>
 			<townMilitiaAllowed>1</townMilitiaAllowed>
 			<baseSector>
-				<x>10</x>
-				<y>11</y>
+				<x>9</x>
+				<y>10</y>
 			</baseSector>
 			<townPoint>
 				<x>105</x>
@@ -190,7 +190,7 @@ Changes do not require starting of a new game.
 			<townMilitiaAllowed>1</townMilitiaAllowed>
 			<baseSector>
 				<x>2</x>
-				<y>14</y>
+				<y>12</y>
 			</baseSector>
 			<townPoint>
 				<x>40</x>
@@ -243,66 +243,6 @@ Changes do not require starting of a new game.
 				<y>140</y>
 			</townPoint>
 		</CITY>
-		<CITY>
-			<uiIndex>15</uiIndex>
-			<townName></townName>
-			<townUsesLoyalty>0</townUsesLoyalty>
-			<townRebelSentiment>15</townRebelSentiment>
-			<townMilitiaAllowed>0</townMilitiaAllowed>
-			<baseSector>
-				<x>2</x>
-				<y>8</y>
-			</baseSector>
-			<townPoint>
-				<x>30</x>
-				<y>70</y>
-			</townPoint>
-		</CITY>
-		<CITY>
-			<uiIndex>16</uiIndex>
-			<townName></townName>
-			<townUsesLoyalty>1</townUsesLoyalty>
-			<townRebelSentiment>15</townRebelSentiment>
-			<townMilitiaAllowed>1</townMilitiaAllowed>
-			<baseSector>
-				<x>9</x>
-				<y>7</y>
-			</baseSector>
-			<townPoint>
-				<x>90</x>
-				<y>80</y>
-			</townPoint>
-		</CITY>
-		<CITY>
-			<uiIndex>17</uiIndex>
-			<townName></townName>
-			<townUsesLoyalty>1</townUsesLoyalty>
-			<townRebelSentiment>10</townRebelSentiment>
-			<townMilitiaAllowed>1</townMilitiaAllowed>
-			<baseSector>
-				<x>3</x>
-				<y>12</y>
-			</baseSector>
-			<townPoint>
-				<x>35</x>
-				<y>120</y>
-			</townPoint>
-		</CITY>
-		<CITY>
-			<uiIndex>18</uiIndex>
-			<townName></townName>
-			<townUsesLoyalty>1</townUsesLoyalty>
-			<townRebelSentiment>10</townRebelSentiment>
-			<townMilitiaAllowed>1</townMilitiaAllowed>
-			<baseSector>
-				<x>4</x>
-				<y>13</y>
-			</baseSector>
-			<townPoint>
-				<x>50</x>
-				<y>130</y>
-			</townPoint>
-		</CITY>
 	</CITYLIST>
 	<CITY_TABLE>
 		<!--        Column index: 0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 -->
@@ -314,15 +254,15 @@ Changes do not require starting of a new game.
 		<CITY_TABLE_ROW row="04"> 0  0  0  0  7  7  0  0  0  0  0  0  0  2  2  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="05"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="06"> 0  0  0  0  0  0  0  6  6  6  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
-		<CITY_TABLE_ROW row="07"> 0  4  4  4  0  0  0  6  6  6  16 0  0  0  3  0  0  0 </CITY_TABLE_ROW>
-		<CITY_TABLE_ROW row="08"> 0  4  4  4  15 0  0  0  6  6  16 0  0  3  3  0  0  0 </CITY_TABLE_ROW>
-		<CITY_TABLE_ROW row="09"> 0  0  0  4  0  0  13 0  0  16 16 0  0  3  3  3  0  0 </CITY_TABLE_ROW>
-		<CITY_TABLE_ROW row="10"> 0  0  0  15 0  0  0  0  0  5  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
+		<CITY_TABLE_ROW row="07"> 0  4  4  4  0  0  0  6  6  6  6  0  0  0  3  0  0  0 </CITY_TABLE_ROW>
+		<CITY_TABLE_ROW row="08"> 0  4  4  4  4  0  0  0  6  6  6  0  0  3  3  0  0  0 </CITY_TABLE_ROW>
+		<CITY_TABLE_ROW row="09"> 0  0  0  4  0  0  13 0  0  6  6  0  0  3  3  3  0  0 </CITY_TABLE_ROW>
+		<CITY_TABLE_ROW row="10"> 0  0  0  4  0  0  0  0  0  5  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="11"> 0  0  0  0  9  0  0  0  0  0  0  10 10 0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="12"> 0  0  0  0  0  0  0  0  0  0  10 10 10 0  0  0  0  0 </CITY_TABLE_ROW>
-		<CITY_TABLE_ROW row="13"> 0  0  0  17 17 17 0  0  0  0  10 10 10 0  0  0  0  0 </CITY_TABLE_ROW>
-		<CITY_TABLE_ROW row="14"> 0  0  0  11 11 18 18 0  0  0  0  0  0  0  0  0  14 0 </CITY_TABLE_ROW>
-		<CITY_TABLE_ROW row="15"> 0  0  11 11 11 18 0  0  0  0  0  0  8  0  0  0  0  0 </CITY_TABLE_ROW>
+		<CITY_TABLE_ROW row="13"> 0  0  0  11 11 11 0  0  0  0  10 10 10 0  0  0  0  0 </CITY_TABLE_ROW>
+		<CITY_TABLE_ROW row="14"> 0  0  0  11 11 11 11 0  0  0  0  0  0  0  0  0  14 0 </CITY_TABLE_ROW>
+		<CITY_TABLE_ROW row="15"> 0  0  11 11 11 11 0  0  0  0  0  0  8  0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="16"> 0  0  0  11 0  0  0  0  0  0  0  0  8  8  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="17"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
 	</CITY_TABLE>
