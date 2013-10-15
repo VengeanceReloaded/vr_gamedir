@@ -17069,9 +17069,9 @@
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>202</uiIndex>
-		<Type>0</Type>
-		<zName></zName>
-		<zNickname></zNickname>
+		<Type>4</Type>
+		<zName>Dwight McGraw</zName>
+		<zNickname>Dwight</zNickname>
 		<ubFaceIndex>202</ubFaceIndex>
 		<usEyesX>0</usEyesX>
 		<usEyesY>0</usEyesY>
@@ -17079,57 +17079,57 @@
 		<usMouthY>0</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
-		<uiBlinkFrequency>0</uiBlinkFrequency>
-		<uiExpressionFrequency>0</uiExpressionFrequency>
-		<PANTS></PANTS>
-		<VEST></VEST>
-		<SKIN></SKIN>
-		<HAIR></HAIR>
+		<uiBlinkFrequency>3000</uiBlinkFrequency>
+		<uiExpressionFrequency>2000</uiExpressionFrequency>
+		<PANTS>TANPANTS</PANTS>
+		<VEST>BLUEVEST</VEST>
+		<SKIN>PINKSKIN</SKIN>
+		<HAIR>BLACKHEAD</HAIR>
 		<bSex>0</bSex>
 		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
 		<bAttitude>0</bAttitude>
 		<bCharacterTrait>0</bCharacterTrait>
 		<bDisability>0</bDisability>
-		<ubNeedForSleep>0</ubNeedForSleep>
+		<ubNeedForSleep>8</ubNeedForSleep>
 		<bReputationTolerance>0</bReputationTolerance>
 		<bDeathRate>0</bDeathRate>
-		<bLifeMax>0</bLifeMax>
-		<bLife>0</bLife>
-		<bStrength>0</bStrength>
-		<bAgility>0</bAgility>
-		<bDexterity>0</bDexterity>
-		<bWisdom>0</bWisdom>
-		<bMarksmanship>0</bMarksmanship>
-		<bExplosive>0</bExplosive>
-		<bLeadership>0</bLeadership>
-		<bMedical>0</bMedical>
-		<bMechanical>0</bMechanical>
-		<bExpLevel>0</bExpLevel>
+		<bLifeMax>50</bLifeMax>
+		<bLife>50</bLife>
+		<bStrength>50</bStrength>
+		<bAgility>50</bAgility>
+		<bDexterity>50</bDexterity>
+		<bWisdom>50</bWisdom>
+		<bMarksmanship>50</bMarksmanship>
+		<bExplosive>50</bExplosive>
+		<bLeadership>50</bLeadership>
+		<bMedical>50</bMedical>
+		<bMechanical>50</bMechanical>
+		<bExpLevel>1</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
 		<bNewSkillTrait2>0</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
-		<bBuddy1>0</bBuddy1>
-		<bBuddy2>0</bBuddy2>
-		<bBuddy3>0</bBuddy3>
-		<bBuddy4>0</bBuddy4>
-		<bBuddy5>0</bBuddy5>
-		<bLearnToLike>0</bLearnToLike>
+		<bBuddy1>255</bBuddy1>
+		<bBuddy2>255</bBuddy2>
+		<bBuddy3>255</bBuddy3>
+		<bBuddy4>255</bBuddy4>
+		<bBuddy5>255</bBuddy5>
+		<bLearnToLike>255</bLearnToLike>
 		<bLearnToLikeTime>0</bLearnToLikeTime>
-		<bHated1>0</bHated1>
+		<bHated1>255</bHated1>
 		<bHatedTime1>0</bHatedTime1>
-		<bHated2>0</bHated2>
+		<bHated2>255</bHated2>
 		<bHatedTime2>0</bHatedTime2>
-		<bHated3>0</bHated3>
+		<bHated3>255</bHated3>
 		<bHatedTime3>0</bHatedTime3>
-		<bHated4>0</bHated4>
+		<bHated4>255</bHated4>
 		<bHatedTime4>0</bHatedTime4>
-		<bHated5>0</bHated5>
+		<bHated5>255</bHated5>
 		<bHatedTime5>0</bHatedTime5>
-		<bLearnToHate>0</bLearnToHate>
+		<bLearnToHate>255</bLearnToHate>
 		<bLearnToHateTime>0</bLearnToHateTime>
 		<sSalary>0</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
@@ -17153,9 +17153,9 @@
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>203</uiIndex>
-		<Type>0</Type>
-		<zName></zName>
-		<zNickname></zNickname>
+		<Type>4</Type>
+		<zName>Arulcan Buyer</zName>
+		<zNickname>The Buyer</zNickname>
 		<ubFaceIndex>203</ubFaceIndex>
 		<usEyesX>0</usEyesX>
 		<usEyesY>0</usEyesY>
@@ -17178,42 +17178,42 @@
 		<ubNeedForSleep>0</ubNeedForSleep>
 		<bReputationTolerance>0</bReputationTolerance>
 		<bDeathRate>0</bDeathRate>
-		<bLifeMax>0</bLifeMax>
-		<bLife>0</bLife>
-		<bStrength>0</bStrength>
-		<bAgility>0</bAgility>
-		<bDexterity>0</bDexterity>
-		<bWisdom>0</bWisdom>
-		<bMarksmanship>0</bMarksmanship>
-		<bExplosive>0</bExplosive>
-		<bLeadership>0</bLeadership>
-		<bMedical>0</bMedical>
-		<bMechanical>0</bMechanical>
-		<bExpLevel>0</bExpLevel>
+		<bLifeMax>50</bLifeMax>
+		<bLife>50</bLife>
+		<bStrength>50</bStrength>
+		<bAgility>50</bAgility>
+		<bDexterity>50</bDexterity>
+		<bWisdom>50</bWisdom>
+		<bMarksmanship>50</bMarksmanship>
+		<bExplosive>50</bExplosive>
+		<bLeadership>50</bLeadership>
+		<bMedical>50</bMedical>
+		<bMechanical>50</bMechanical>
+		<bExpLevel>1</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
 		<bNewSkillTrait2>0</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
-		<bBuddy1>0</bBuddy1>
-		<bBuddy2>0</bBuddy2>
-		<bBuddy3>0</bBuddy3>
-		<bBuddy4>0</bBuddy4>
-		<bBuddy5>0</bBuddy5>
-		<bLearnToLike>0</bLearnToLike>
+		<bBuddy1>255</bBuddy1>
+		<bBuddy2>255</bBuddy2>
+		<bBuddy3>255</bBuddy3>
+		<bBuddy4>255</bBuddy4>
+		<bBuddy5>255</bBuddy5>
+		<bLearnToLike>255</bLearnToLike>
 		<bLearnToLikeTime>0</bLearnToLikeTime>
-		<bHated1>0</bHated1>
+		<bHated1>255</bHated1>
 		<bHatedTime1>0</bHatedTime1>
-		<bHated2>0</bHated2>
+		<bHated2>255</bHated2>
 		<bHatedTime2>0</bHatedTime2>
-		<bHated3>0</bHated3>
+		<bHated3>255</bHated3>
 		<bHatedTime3>0</bHatedTime3>
-		<bHated4>0</bHated4>
+		<bHated4>255</bHated4>
 		<bHatedTime4>0</bHatedTime4>
-		<bHated5>0</bHated5>
+		<bHated5>255</bHated5>
 		<bHatedTime5>0</bHatedTime5>
-		<bLearnToHate>0</bLearnToHate>
+		<bLearnToHate>255</bLearnToHate>
 		<bLearnToHateTime>0</bLearnToHateTime>
 		<sSalary>0</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
@@ -17237,9 +17237,9 @@
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>204</uiIndex>
-		<Type>0</Type>
-		<zName></zName>
-		<zNickname></zNickname>
+		<Type>4</Type>
+		<zName>CIA Operative</zName>
+		<zNickname>The Spook</zNickname>
 		<ubFaceIndex>204</ubFaceIndex>
 		<usEyesX>0</usEyesX>
 		<usEyesY>0</usEyesY>
@@ -17247,12 +17247,12 @@
 		<usMouthY>0</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
-		<uiBlinkFrequency>0</uiBlinkFrequency>
-		<uiExpressionFrequency>0</uiExpressionFrequency>
-		<PANTS></PANTS>
-		<VEST></VEST>
-		<SKIN></SKIN>
-		<HAIR></HAIR>
+		<uiBlinkFrequency>3000</uiBlinkFrequency>
+		<uiExpressionFrequency>2000</uiExpressionFrequency>
+		<PANTS>TANPANTS</PANTS>
+		<VEST>BLUEVEST</VEST>
+		<SKIN>PINKSKIN</SKIN>
+		<HAIR>BLACKHEAD</HAIR>
 		<bSex>0</bSex>
 		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
@@ -17262,42 +17262,42 @@
 		<ubNeedForSleep>0</ubNeedForSleep>
 		<bReputationTolerance>0</bReputationTolerance>
 		<bDeathRate>0</bDeathRate>
-		<bLifeMax>0</bLifeMax>
-		<bLife>0</bLife>
-		<bStrength>0</bStrength>
-		<bAgility>0</bAgility>
-		<bDexterity>0</bDexterity>
-		<bWisdom>0</bWisdom>
-		<bMarksmanship>0</bMarksmanship>
-		<bExplosive>0</bExplosive>
-		<bLeadership>0</bLeadership>
-		<bMedical>0</bMedical>
-		<bMechanical>0</bMechanical>
-		<bExpLevel>0</bExpLevel>
+		<bLifeMax>50</bLifeMax>
+		<bLife>50</bLife>
+		<bStrength>50</bStrength>
+		<bAgility>50</bAgility>
+		<bDexterity>50</bDexterity>
+		<bWisdom>50</bWisdom>
+		<bMarksmanship>50</bMarksmanship>
+		<bExplosive>50</bExplosive>
+		<bLeadership>50</bLeadership>
+		<bMedical>50</bMedical>
+		<bMechanical>50</bMechanical>
+		<bExpLevel>1</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
 		<bNewSkillTrait2>0</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
-		<bBuddy1>0</bBuddy1>
-		<bBuddy2>0</bBuddy2>
-		<bBuddy3>0</bBuddy3>
-		<bBuddy4>0</bBuddy4>
-		<bBuddy5>0</bBuddy5>
-		<bLearnToLike>0</bLearnToLike>
+		<bBuddy1>255</bBuddy1>
+		<bBuddy2>255</bBuddy2>
+		<bBuddy3>255</bBuddy3>
+		<bBuddy4>255</bBuddy4>
+		<bBuddy5>255</bBuddy5>
+		<bLearnToLike>255</bLearnToLike>
 		<bLearnToLikeTime>0</bLearnToLikeTime>
-		<bHated1>0</bHated1>
+		<bHated1>255</bHated1>
 		<bHatedTime1>0</bHatedTime1>
-		<bHated2>0</bHated2>
+		<bHated2>255</bHated2>
 		<bHatedTime2>0</bHatedTime2>
-		<bHated3>0</bHated3>
+		<bHated3>255</bHated3>
 		<bHatedTime3>0</bHatedTime3>
-		<bHated4>0</bHated4>
+		<bHated4>255</bHated4>
 		<bHatedTime4>0</bHatedTime4>
-		<bHated5>0</bHated5>
+		<bHated5>255</bHated5>
 		<bHatedTime5>0</bHatedTime5>
-		<bLearnToHate>0</bLearnToHate>
+		<bLearnToHate>255</bLearnToHate>
 		<bLearnToHateTime>0</bLearnToHateTime>
 		<sSalary>0</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
@@ -17315,15 +17315,15 @@
 		<sSectorX>0</sSectorX>
 		<sSectorY>0</sSectorY>
 		<sSectorZ>0</sSectorZ>
-		<ubCivilianGroup>0</ubCivilianGroup>
+		<ubCivilianGroup>20</ubCivilianGroup>
 		<bTown>0</bTown>
 		<bTownAttachment>0</bTownAttachment>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>205</uiIndex>
-		<Type>0</Type>
-		<zName></zName>
-		<zNickname></zNickname>
+		<Type>4</Type>
+		<zName>Traconian Operative</zName>
+		<zNickname>The Major</zNickname>
 		<ubFaceIndex>205</ubFaceIndex>
 		<usEyesX>0</usEyesX>
 		<usEyesY>0</usEyesY>
@@ -17331,12 +17331,12 @@
 		<usMouthY>0</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
-		<uiBlinkFrequency>0</uiBlinkFrequency>
-		<uiExpressionFrequency>0</uiExpressionFrequency>
-		<PANTS></PANTS>
-		<VEST></VEST>
-		<SKIN></SKIN>
-		<HAIR></HAIR>
+		<uiBlinkFrequency>3000</uiBlinkFrequency>
+		<uiExpressionFrequency>2000</uiExpressionFrequency>
+		<PANTS>TANPANTS</PANTS>
+		<VEST>BLUEVEST</VEST>
+		<SKIN>PINKSKIN</SKIN>
+		<HAIR>BLACKHEAD</HAIR>
 		<bSex>0</bSex>
 		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
@@ -17346,42 +17346,42 @@
 		<ubNeedForSleep>0</ubNeedForSleep>
 		<bReputationTolerance>0</bReputationTolerance>
 		<bDeathRate>0</bDeathRate>
-		<bLifeMax>0</bLifeMax>
-		<bLife>0</bLife>
-		<bStrength>0</bStrength>
-		<bAgility>0</bAgility>
-		<bDexterity>0</bDexterity>
-		<bWisdom>0</bWisdom>
-		<bMarksmanship>0</bMarksmanship>
-		<bExplosive>0</bExplosive>
-		<bLeadership>0</bLeadership>
-		<bMedical>0</bMedical>
-		<bMechanical>0</bMechanical>
-		<bExpLevel>0</bExpLevel>
+		<bLifeMax>50</bLifeMax>
+		<bLife>50</bLife>
+		<bStrength>50</bStrength>
+		<bAgility>50</bAgility>
+		<bDexterity>50</bDexterity>
+		<bWisdom>50</bWisdom>
+		<bMarksmanship>50</bMarksmanship>
+		<bExplosive>50</bExplosive>
+		<bLeadership>50</bLeadership>
+		<bMedical>50</bMedical>
+		<bMechanical>50</bMechanical>
+		<bExpLevel>1</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
 		<bNewSkillTrait2>0</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
-		<bBuddy1>0</bBuddy1>
-		<bBuddy2>0</bBuddy2>
-		<bBuddy3>0</bBuddy3>
-		<bBuddy4>0</bBuddy4>
-		<bBuddy5>0</bBuddy5>
-		<bLearnToLike>0</bLearnToLike>
+		<bBuddy1>255</bBuddy1>
+		<bBuddy2>255</bBuddy2>
+		<bBuddy3>255</bBuddy3>
+		<bBuddy4>255</bBuddy4>
+		<bBuddy5>255</bBuddy5>
+		<bLearnToLike>255</bLearnToLike>
 		<bLearnToLikeTime>0</bLearnToLikeTime>
-		<bHated1>0</bHated1>
+		<bHated1>255</bHated1>
 		<bHatedTime1>0</bHatedTime1>
-		<bHated2>0</bHated2>
+		<bHated2>255</bHated2>
 		<bHatedTime2>0</bHatedTime2>
-		<bHated3>0</bHated3>
+		<bHated3>255</bHated3>
 		<bHatedTime3>0</bHatedTime3>
-		<bHated4>0</bHated4>
+		<bHated4>255</bHated4>
 		<bHatedTime4>0</bHatedTime4>
-		<bHated5>0</bHated5>
+		<bHated5>255</bHated5>
 		<bHatedTime5>0</bHatedTime5>
-		<bLearnToHate>0</bLearnToHate>
+		<bLearnToHate>255</bLearnToHate>
 		<bLearnToHateTime>0</bLearnToHateTime>
 		<sSalary>0</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
@@ -17399,7 +17399,7 @@
 		<sSectorX>0</sSectorX>
 		<sSectorY>0</sSectorY>
 		<sSectorZ>0</sSectorZ>
-		<ubCivilianGroup>0</ubCivilianGroup>
+		<ubCivilianGroup>21</ubCivilianGroup>
 		<bTown>0</bTown>
 		<bTownAttachment>0</bTownAttachment>
 	</PROFILE>
