@@ -6581,15 +6581,16 @@
 	<ITEM>
 		<uiIndex>252</uiIndex>
 		<szItemName>Head</szItemName>
-		<szLongItemName>Druggist's Head</szLongItemName>
-		<szItemDesc>This Druggist won't be renewing any prescriptions. His head is on your chopping block now.</szItemDesc>
-		<szBRName>Druggist's Head</szBRName>
+		<szLongItemName>Mendax's Head</szLongItemName>
+		<szItemDesc>Is leaking nothing but blood now.</szItemDesc>
+		<szBRName>Mendax's Head</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>3</ubGraphicType>
 		<ubGraphicNum>4</ubGraphicNum>
 		<ubWeight>40</ubWeight>
-		<ItemSize>32</ItemSize>
+		<ItemSize>23</ItemSize>
 		<Damageable>1</Damageable>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
