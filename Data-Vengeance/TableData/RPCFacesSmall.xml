@@ -277,5 +277,14 @@ MouthY		 -  position of mouth Y (required)
 		<EyesY>3</EyesY>
 		<MouthX>8</MouthX>
 		<MouthY>25</MouthY>
+	</FACE>
+	<FACE>
+		<uiIndex>30</uiIndex>
+		<Name>Dwight</Name>
+		<FaceIndex>202</FaceIndex>
+		<EyesX>10</EyesX>
+		<EyesY>5</EyesY>
+		<MouthX>13</MouthX>
+		<MouthY>26</MouthY>
 	</FACE>	
 </SMALLFACE>
