@@ -11886,25 +11886,25 @@
 		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>93</bLifeMax>
-		<bLife>93</bLife>
+		<bLifeMax>88</bLifeMax>
+		<bLife>88</bLife>
 		<bStrength>85</bStrength>
-		<bAgility>83</bAgility>
-		<bDexterity>86</bDexterity>
+		<bAgility>81</bAgility>
+		<bDexterity>80</bDexterity>
 		<bWisdom>71</bWisdom>
-		<bMarksmanship>98</bMarksmanship>
-		<bExplosive>30</bExplosive>
-		<bLeadership>40</bLeadership>
+		<bMarksmanship>97</bMarksmanship>
+		<bExplosive>26</bExplosive>
+		<bLeadership>30</bLeadership>
 		<bMedical>33</bMedical>
 		<bMechanical>42</bMechanical>
-		<bExpLevel>8</bExpLevel>
+		<bExpLevel>7</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>7</bOldSkillTrait>
 		<bOldSkillTrait2>7</bOldSkillTrait2>
 		<bNewSkillTrait1>2</bNewSkillTrait1>
 		<bNewSkillTrait2>2</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
-		<bBuddy1>255</bBuddy1>
+		<bBuddy1>7</bBuddy1>
 		<bBuddy2>255</bBuddy2>
 		<bBuddy3>255</bBuddy3>
 		<bBuddy4>255</bBuddy4>
@@ -11921,16 +11921,16 @@
 		<bHatedTime4>0</bHatedTime4>
 		<bHated5>255</bHated5>
 		<bHatedTime5>0</bHatedTime5>
-		<bLearnToHate>255</bLearnToHate>
-		<bLearnToHateTime>0</bLearnToHateTime>
+		<bLearnToHate>13</bLearnToHate>
+		<bLearnToHateTime>9</bLearnToHateTime>
 		<sSalary>0</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
-		<usOptionalGearCost>32969</usOptionalGearCost>
-		<bArmourAttractiveness>32</bArmourAttractiveness>
-		<bMainGunAttractiveness>63</bMainGunAttractiveness>
+		<usOptionalGearCost>10014</usOptionalGearCost>
+		<bArmourAttractiveness>25</bArmourAttractiveness>
+		<bMainGunAttractiveness>57</bMainGunAttractiveness>
 		<fGoodGuy>0</fGoodGuy>
 		<usApproachFactorFriendly>100</usApproachFactorFriendly>
 		<usApproachFactorDirect>100</usApproachFactorDirect>
