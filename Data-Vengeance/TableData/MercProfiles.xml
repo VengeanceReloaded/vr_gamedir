@@ -17094,17 +17094,17 @@
 		<ubNeedForSleep>8</ubNeedForSleep>
 		<bReputationTolerance>0</bReputationTolerance>
 		<bDeathRate>0</bDeathRate>
-		<bLifeMax>50</bLifeMax>
-		<bLife>50</bLife>
-		<bStrength>50</bStrength>
-		<bAgility>50</bAgility>
-		<bDexterity>50</bDexterity>
-		<bWisdom>50</bWisdom>
-		<bMarksmanship>50</bMarksmanship>
-		<bExplosive>50</bExplosive>
-		<bLeadership>50</bLeadership>
-		<bMedical>50</bMedical>
-		<bMechanical>50</bMechanical>
+		<bLifeMax>67</bLifeMax>
+		<bLife>67</bLife>
+		<bStrength>73</bStrength>
+		<bAgility>62</bAgility>
+		<bDexterity>78</bDexterity>
+		<bWisdom>82</bWisdom>
+		<bMarksmanship>52</bMarksmanship>
+		<bExplosive>8</bExplosive>
+		<bLeadership>23</bLeadership>
+		<bMedical>12</bMedical>
+		<bMechanical>17</bMechanical>
 		<bExpLevel>1</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
@@ -17144,11 +17144,11 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>0</sSectorX>
-		<sSectorY>0</sSectorY>
+		<sSectorX>1</sSectorX>
+		<sSectorY>8</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
-		<bTown>0</bTown>
+		<bTown>4</bTown>
 		<bTownAttachment>0</bTownAttachment>
 	</PROFILE>
 	<PROFILE>
