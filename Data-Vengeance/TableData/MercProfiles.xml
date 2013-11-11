@@ -17075,16 +17075,16 @@
 		<ubFaceIndex>202</ubFaceIndex>
 		<usEyesX>27</usEyesX>
 		<usEyesY>30</usEyesY>
-		<usMouthX>30</usMouthX>
+		<usMouthX>31</usMouthX>
 		<usMouthY>60</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
 		<PANTS>TANPANTS</PANTS>
-		<VEST>BLUEVEST</VEST>
+		<VEST>greyVEST</VEST>
 		<SKIN>PINKSKIN</SKIN>
-		<HAIR>BLACKHEAD</HAIR>
+		<HAIR>WHITEHEAD</HAIR>
 		<bSex>0</bSex>
 		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
