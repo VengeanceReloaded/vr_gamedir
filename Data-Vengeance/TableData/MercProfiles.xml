@@ -17154,41 +17154,41 @@
 	<PROFILE>
 		<uiIndex>203</uiIndex>
 		<Type>4</Type>
-		<zName>Arulcan Buyer</zName>
-		<zNickname>The Buyer</zNickname>
+		<zName>Rajheev Bansall</zName>
+		<zNickname>Rajheev</zNickname>
 		<ubFaceIndex>203</ubFaceIndex>
-		<usEyesX>18</usEyesX>
-		<usEyesY>24</usEyesY>
+		<usEyesX>19</usEyesX>
+		<usEyesY>25</usEyesY>
 		<usMouthX>23</usMouthX>
 		<usMouthY>56</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
-		<uiBlinkFrequency>0</uiBlinkFrequency>
-		<uiExpressionFrequency>0</uiExpressionFrequency>
-		<PANTS></PANTS>
-		<VEST></VEST>
-		<SKIN></SKIN>
-		<HAIR></HAIR>
+		<uiBlinkFrequency>3000</uiBlinkFrequency>
+		<uiExpressionFrequency>2000</uiExpressionFrequency>
+		<PANTS>BLUEPANTS</PANTS>
+		<VEST>greyVEST</VEST>
+		<SKIN>TANSKIN</SKIN>
+		<HAIR>BLACKHEAD</HAIR>
 		<bSex>0</bSex>
-		<ubBodyType>0</ubBodyType>
+		<ubBodyType>12</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
 		<bAttitude>0</bAttitude>
 		<bCharacterTrait>0</bCharacterTrait>
 		<bDisability>0</bDisability>
-		<ubNeedForSleep>0</ubNeedForSleep>
+		<ubNeedForSleep>8</ubNeedForSleep>
 		<bReputationTolerance>0</bReputationTolerance>
 		<bDeathRate>0</bDeathRate>
-		<bLifeMax>50</bLifeMax>
-		<bLife>50</bLife>
-		<bStrength>50</bStrength>
-		<bAgility>50</bAgility>
-		<bDexterity>50</bDexterity>
-		<bWisdom>50</bWisdom>
-		<bMarksmanship>50</bMarksmanship>
-		<bExplosive>50</bExplosive>
-		<bLeadership>50</bLeadership>
-		<bMedical>50</bMedical>
-		<bMechanical>50</bMechanical>
+		<bLifeMax>75</bLifeMax>
+		<bLife>75</bLife>
+		<bStrength>76</bStrength>
+		<bAgility>65</bAgility>
+		<bDexterity>84</bDexterity>
+		<bWisdom>85</bWisdom>
+		<bMarksmanship>21</bMarksmanship>
+		<bExplosive>2</bExplosive>
+		<bLeadership>14</bLeadership>
+		<bMedical>38</bMedical>
+		<bMechanical>33</bMechanical>
 		<bExpLevel>1</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
@@ -17228,8 +17228,8 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>0</sSectorX>
-		<sSectorY>0</sSectorY>
+		<sSectorX>7</sSectorX>
+		<sSectorY>7</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>0</bTown>
