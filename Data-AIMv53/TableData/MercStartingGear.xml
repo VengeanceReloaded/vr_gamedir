@@ -15024,26 +15024,26 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>112</mIndex>
-		<mName>Charlie</mName>
+		<mName>Mendax</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mAbsolutePrice>-1</mAbsolutePrice>
-			<mHelmet>177</mHelmet>
+			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
-			<mHelmetStatus>100</mHelmetStatus>
-			<mVest>164</mVest>
+			<mHelmetStatus>0</mHelmetStatus>
+			<mVest>0</mVest>
 			<mVestDrop>0</mVestDrop>
-			<mVestStatus>100</mVestStatus>
-			<mLeg>170</mLeg>
+			<mVestStatus>0</mVestStatus>
+			<mLeg>0</mLeg>
 			<mLegDrop>0</mLegDrop>
-			<mLegStatus>100</mLegStatus>
-			<mWeapon>26</mWeapon>
-			<mWeaponDrop>1</mWeaponDrop>
-			<mWeaponStatus>89</mWeaponStatus>
-			<mBig0>92</mBig0>
-			<mBig0Status>100</mBig0Status>
-			<mBig0Quantity>1</mBig0Quantity>
-			<mBig0Drop>1</mBig0Drop>
+			<mLegStatus>0</mLegStatus>
+			<mWeapon>0</mWeapon>
+			<mWeaponDrop>0</mWeaponDrop>
+			<mWeaponStatus>0</mWeaponStatus>
+			<mBig0>0</mBig0>
+			<mBig0Status>0</mBig0Status>
+			<mBig0Quantity>0</mBig0Quantity>
+			<mBig0Drop>0</mBig0Drop>
 			<mBig1>0</mBig1>
 			<mBig1Status>0</mBig1Status>
 			<mBig1Quantity>0</mBig1Quantity>
@@ -23743,7 +23743,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>202</mIndex>
-		<mName />
+		<mName>Dwight</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mAbsolutePrice>-1</mAbsolutePrice>
@@ -23759,9 +23759,9 @@
 			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>0</mBig0>
-			<mBig0Status>0</mBig0Status>
-			<mBig0Quantity>0</mBig0Quantity>
+			<mBig0>219</mBig0>
+			<mBig0Status>200</mBig0Status>
+			<mBig0Quantity>1</mBig0Quantity>
 			<mBig0Drop>0</mBig0Drop>
 			<mBig1>0</mBig1>
 			<mBig1Status>0</mBig1Status>
@@ -23825,7 +23825,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>203</mIndex>
-		<mName />
+		<mName>Rajiv</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mAbsolutePrice>-1</mAbsolutePrice>
@@ -23841,9 +23841,9 @@
 			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>0</mBig0>
-			<mBig0Status>0</mBig0Status>
-			<mBig0Quantity>0</mBig0Quantity>
+			<mBig0>219</mBig0>
+			<mBig0Status>400</mBig0Status>
+			<mBig0Quantity>1</mBig0Quantity>
 			<mBig0Drop>0</mBig0Drop>
 			<mBig1>0</mBig1>
 			<mBig1Status>0</mBig1Status>
