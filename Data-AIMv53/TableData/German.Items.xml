@@ -2406,7 +2406,7 @@
 		<uiIndex>302</uiIndex>
 		<szItemName>GPS Daten</szItemName>
 		<szLongItemName>GPS Daten</szLongItemName>
-		<szItemDesc>Diese GPS Daten erlauben das Ausrichten des Scud-Werfers in G16 auf Mela, vorausgesetzt man hat direkten Zugang zu dessen Zielsystem.</szItemDesc>
+		<szItemDesc>Diese GPS Daten erlauben das Ausrichten des Scud-Werfers in G16 auf Alma, vorausgesetzt man hat direkten Zugang zu dessen Zielsystem.</szItemDesc>
 		<szBRName>GPS Daten</szBRName>
 		<szBRDesc>JA2-Programmierer sind die besten, die es gibt ... oder ... vielleicht doch nicht, da diese Nachricht ja eigentlich nie erscheinen sollte.</szBRDesc>
 	</ITEM>
@@ -3163,7 +3163,7 @@
 		<uiIndex>397</uiIndex>
 		<szItemName>Autorisation</szItemName>
 		<szLongItemName>Autorisation Scud</szLongItemName>
-		<szItemDesc>Die ausgedruckte Autorisation zum Einsatz des Scud-Werfers gegen Mela. Kopieren Sie dazu beide Dateien aus dem Ordner "Extras/Scud" in den "maps" Ordner.</szItemDesc>
+		<szItemDesc>Die ausgedruckte Autorisation zum Einsatz des Scud-Werfers gegen Alma. Kopieren Sie dazu beide Dateien aus dem Ordner "Extras/Scud" in den "maps" Ordner.</szItemDesc>
 		<szBRName>Autorisation Scud</szBRName>
 		<szBRDesc>JA2-Programmierer sind die besten, die es gibt ... oder ... vielleicht doch nicht, da diese Nachricht ja eigentlich nie erscheinen sollte.</szBRDesc>
 	</ITEM>

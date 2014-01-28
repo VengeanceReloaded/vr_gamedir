@@ -2420,7 +2420,7 @@
 		<uiIndex>302</uiIndex>
 		<szItemName>GPS Data</szItemName>
 		<szLongItemName>GPS Data</szLongItemName>
-		<szItemDesc>These GPS coordinates allow aiming of the SCUD weapon system in G16 at Mela, provided one has direct access to the targeting system.</szItemDesc>
+		<szItemDesc>These GPS coordinates allow aiming of the SCUD weapon system in G16 at Alma, provided one has direct access to the targeting system.</szItemDesc>
 		<szBRName>GPS Data</szBRName>
 		<szBRDesc>Не продается у Бобби Рэя.</szBRDesc>
 	</ITEM>
@@ -3180,7 +3180,7 @@
 		<uiIndex>397</uiIndex>
 		<szItemName>Authorisation</szItemName>
 		<szLongItemName>Authorisation Scud</szLongItemName>
-		<szItemDesc>The explicit authorisation to deploy the SCUD weapon system against Mela. For this copy both files from the folder "Extras/Scud" into the "maps" folder.</szItemDesc>
+		<szItemDesc>The explicit authorisation to deploy the SCUD weapon system against Alma. For this copy both files from the folder "Extras/Scud" into the "maps" folder.</szItemDesc>
 		<szBRName>Authorisation Scud</szBRName>
 		<szBRDesc>Не продается у Бобби Рэя.</szBRDesc>
 	</ITEM>

@@ -44,12 +44,12 @@ sectornames = {
     ["I8-3"] = "Salinas Mine",
     ["J8-3"] = "Salinas Mine",
 
-    ["I14-1"] = "Mela Mine",
-    ["J14-1"] = "Mela Mine",
-    ["J14-2"] = "Mela Mine",
-    ["J13-2"] = "Mela Mine",
-    ["J13-3"] = "Mela Mine",
-    ["K13-3"] = "Mela Mine",
+    ["I14-1"] = "Alma Mine",
+    ["J14-1"] = "Alma Mine",
+    ["J14-2"] = "Alma Mine",
+    ["J13-2"] = "Alma Mine",
+    ["J13-3"] = "Alma Mine",
+    ["K13-3"] = "Alma Mine",
     
     ["H3-1"] = "Doran Mine",
     ["I3-1"] = "Doran Mine",
