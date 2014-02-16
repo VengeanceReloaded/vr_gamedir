@@ -1716,4 +1716,37 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 	</AMMOTYPE>
+	<AMMOTYPE>
+		<uiIndex>52</uiIndex>
+		<name>Railgun Dart</name>
+		<fontColour>133</fontColour>
+		<grayed>4</grayed>
+		<offNormal>13</offNormal>
+		<onNormal>15</onNormal>
+		<structureImpactReductionMultiplier>2</structureImpactReductionMultiplier>
+		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
+		<armourImpactReductionMultiplier>2</armourImpactReductionMultiplier>
+		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
+		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
+		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
+		<afterArmourDamageMultiplier>12</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<zeroMinimumDamage>0</zeroMinimumDamage>
+		<canGoThrough>1</canGoThrough>
+		<standardIssue>0</standardIssue>
+		<numberOfBullets>1</numberOfBullets>
+		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
+		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
+		<highExplosive>0</highExplosive>
+		<explosionSize>0</explosionSize>
+		<antiTank>0</antiTank>
+		<dart>0</dart>
+		<knife>0</knife>
+		<monsterSpit>0</monsterSpit>
+		<acidic>0</acidic>
+		<ignoreArmour>0</ignoreArmour>
+		<lockBustingPower>0</lockBustingPower>
+		<tracerEffect>0</tracerEffect>
+		<spreadPattern />
+	</AMMOTYPE>
 </AMMOTYPELIST>

@@ -1256,7 +1256,7 @@
 		<uiIndex>34</uiIndex>
 		<szItemName>Minimi</szItemName>
 		<szLongItemName>FN Minimi</szLongItemName>
-		<szItemDesc>This light machine gun, also known as the C-9 and M-249, has been known to moonlight as a beefed-up assault rifle.</szItemDesc>
+		<szItemDesc>Nothing says democracy like 1000 rounds per minute. This light machine gun, also known as the C-9 and M-249, has been known to moonlight as a beefed-up assault rifle.</szItemDesc>
 		<szBRName>FN Minimi</szBRName>
 		<szBRDesc>Reputed for its reliability, this Belgian machine gun is gas operated, with a simple rotating bolt system. Its design was adopted by the US Army as the M249 machine gun.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -1817,7 +1817,7 @@
 		<uiIndex>55</uiIndex>
 		<szItemName>Rocket Rifle</szItemName>
 		<szLongItemName>Rocket Rifle</szLongItemName>
-		<szItemDesc>Annihilate your opponents with the cutting edge in weapons technology.  This rocket rifle comes with its own laser scope and computer security system.</szItemDesc>
+		<szItemDesc>Annihilate your opponents with the cutting edge in weapons technology.  This rocket rifle comes with its own laser scope and computer security system. The rocket launcher is a general purpose, high damage weapon that shoots various projectiles that explodes on contact.</szItemDesc>
 		<szBRName>Rocket Rifle</szBRName>
 		<szBRDesc>Annihilate your opponents with the cutting edge in weapons technology.  This rocket rifle comes with its own laser scope and computer security system.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -1827,7 +1827,7 @@
 		<ubWeight>40</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>26769</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>10</ubCoolness>
 		<bReliability>-2</bReliability>
 		<bRepairEase>-5</bRepairEase>
 		<Damageable>1</Damageable>
@@ -3755,7 +3755,7 @@
 		<uiIndex>137</uiIndex>
 		<szItemName>TNT</szItemName>
 		<szLongItemName>TNT</szLongItemName>
-		<szItemDesc>Trinitrotoluene is the second oldest and most commonly used explosive known to man - the first is dynamite. These sticks of explosives are highly stable, strawboard rolled, and contain a quarter-pound charge.</szItemDesc>
+		<szItemDesc>Unfuck the world one bomb at a time! Trinitrotoluene is the second oldest and most commonly used explosive known to man - the first is dynamite. These sticks of explosives are highly stable, strawboard rolled, and contain a quarter-pound charge.</szItemDesc>
 		<szBRName>TNT</szBRName>
 		<szBRDesc>Good old reliable trinitrotoluene is the second oldest and most commonly used explosive known to man-the first is dynamite. These sticks of explosives are highly stable, strawboard rolled and contain a quarter- pound charge.</szBRDesc>
 		<usItemClass>512</usItemClass>
@@ -5308,7 +5308,7 @@
 		<uiIndex>199</uiIndex>
 		<szItemName>Comp. Binoc.</szItemName>
 		<szLongItemName>Sight - Compact Binoculars</szLongItemName>
-		<szItemDesc>Compact 10x30 Binoculars of simple construction.</szItemDesc>
+		<szItemDesc>Compact 10x30 Binoculars of simple construction. The eye sees only what the mind is prepared to comprehend.</szItemDesc>
 		<szBRName>Sight - 10x30 Binoculars</szBRName>
 		<szBRDesc>Compact, light-weight, and inexpensive binoculars. For outdoors use during the day.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -5343,7 +5343,7 @@
 		<uiIndex>200</uiIndex>
 		<szItemName>Binoculars</szItemName>
 		<szLongItemName>Sight - Quality Binoculars</szLongItemName>
-		<szItemDesc>7x50 High-Quality Binoculars.</szItemDesc>
+		<szItemDesc>7x50 High-Quality Binoculars. Every breath you take, every move you make, every bond you break every step you take, i'll be watching you. Yours truly: the NSA.</szItemDesc>
 		<szBRName>Sight - 7x50 Binoculars</szBRName>
 		<szBRDesc>Rugged binoculars for the serious hunter or soldier. Multi-coated lenses, nitrogen-filled, and rubber-armored. Usable under bad light conditions.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -5378,7 +5378,7 @@
 		<uiIndex>201</uiIndex>
 		<szItemName>1st Aid Kit</szItemName>
 		<szLongItemName>First Aid Kit</szLongItemName>
-		<szItemDesc>This kit contains: antiseptic, cotton rolls, a thermometer, iodine and merthiolate vials, arm slings, safety pins, scissors, forceps, various bandages and a mini first aid manual.</szItemDesc>
+		<szItemDesc>This kit contains: antiseptic, cotton rolls, a thermometer, iodine and merthiolate vials, arm slings, safety pins, scissors, forceps, various bandages and a mini first aid manual. Grow stronger from the pain. Don't let it destroy you.</szItemDesc>
 		<szBRName>First Aid Kit</szBRName>
 		<szBRDesc>From fractures to abrasions, this all-canvas kit-to-go includes everything you'll need to attend to most minor injuries. It includes: bandages, antiseptic, cotton balls, thermometers, iodine, arm slings, safety pins, scissors, and a mini first aid manual.</szBRDesc>
 		<usItemClass>4096</usItemClass>
@@ -5529,7 +5529,7 @@
 		<uiIndex>207</uiIndex>
 		<szItemName>Pistol Supp.</szItemName>
 		<szLongItemName>A. - Suppressor, Pistol</szLongItemName>
-		<szItemDesc>The light, compact design of this silencer can be fitted easily to most handguns and sub-machine guns.</szItemDesc>
+		<szItemDesc>It is dangerous to be right when the goverment is wrong, better be quiet. The light, compact design of this silencer can be fitted easily to most handguns and sub-machine guns.</szItemDesc>
 		<szBRName>A. - Suppressor, Pistol</szBRName>
 		<szBRDesc>This is the ideal silencer for both indoor and outdoor missions that have to be kept quiet. Its light and compact design can be fitted easily to most handguns and sub-machine guns.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -5559,9 +5559,9 @@
 		<uiIndex>208</uiIndex>
 		<szItemName>Scope 10x</szItemName>
 		<szLongItemName>A. - Scope, Sniper 10x</szLongItemName>
-		<szItemDesc>A large scope, too big to fit on most assault rifles and carbines.  Hmmm, maybe it would fit on a sniper rifle?</szItemDesc>
+		<szItemDesc>A large 10x magnifier scope, too big to fit on most assault rifles and carbines.  Hmmm, maybe it would fit on a sniper rifle?</szItemDesc>
 		<szBRName>A. - Scope, Sniper 10x</szBRName>
-		<szBRDesc>Dramatically improve your targeting accuracy with this extremely versatile sniper scope. You'll quickly appreciate this scope's accurate windage adjustment, range-finder precision scale, and coated optics.</szBRDesc>
+		<szBRDesc>Dramatically improve your targeting accuracy with this extremely versatile sniper scope. You'll quickly appreciate this scope's accurate windage adjustment, range-finder precision scale, and coated optics. We live in a age of guided missiles and missguided men, better shoot straight.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -5865,7 +5865,7 @@
 		<uiIndex>219</uiIndex>
 		<szItemName>Money</szItemName>
 		<szLongItemName>Money</szLongItemName>
-		<szItemDesc>Cash, coin, moolah, dough. Whatever you call it, it'll buy you stuff.</szItemDesc>
+		<szItemDesc>Only 8 percent of the world's currency is physical money. The rest exists only on computers. Being the biggest religion in the world, one does not want to mess with it.</szItemDesc>
 		<szBRName>Money</szBRName>
 		<szBRDesc>Cash, coin, moolah, dough. Whatever you call it, it'll buy you stuff.</szBRDesc>
 		<usItemClass>536870912</usItemClass>
@@ -5930,13 +5930,13 @@
 	<ITEM>
 		<uiIndex>222</uiIndex>
 		<szItemName>Energy Boost</szItemName>
-		<szLongItemName>Syringe - Energy Booster</szLongItemName>
-		<szItemDesc>This hypodermic syringe is filled with a chemical stimulant that will temporarily boost your energy level. Caution: repeated use has been known to cause cardiac arrest.</szItemDesc>
-		<szBRName>Syringe - Energy Booster</szBRName>
+		<szLongItemName>Coca leaf - Energy Booster</szLongItemName>
+		<szItemDesc>Some leavs of great power! Non GMO, no monsanto remedies in these babies only 100 percent organic, try and fly!</szItemDesc>
+		<szBRName>Coca leaf - Energy Booster</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>70</ubGraphicNum>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>369</ubGraphicNum>
 		<ubWeight>1</ubWeight>
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
@@ -5944,7 +5944,6 @@
 		<ubCoolness>4</ubCoolness>
 		<Damageable>1</Damageable>
 		<Attachment>1</Attachment>
-		<Unaerodynamic>1</Unaerodynamic>
 		<Medical>1</Medical>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -6197,7 +6196,7 @@
 		<uiIndex>235</uiIndex>
 		<szItemName>Blood Bag</szItemName>
 		<szLongItemName>Blood Transfusion Bag</szLongItemName>
-		<szItemDesc>Give blood, save a life. Universal blood: type 0-</szItemDesc>
+		<szItemDesc>Blood transfusion is generally the process of receiving blood products into one's circulation intravenously. Transfusions are used for various medical conditions to replace lost components of the blood. Give blood, save a life. Universal blood: type 0-</szItemDesc>
 		<szBRName>Blood Transfusion Bag</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -6218,16 +6217,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>236</uiIndex>
-		<szItemName>Syringe</szItemName>
-		<szLongItemName>Syringe</szLongItemName>
-		<szItemDesc>NO DESCRIPTION NECESSARY!</szItemDesc>
-		<szBRName>Syringe</szBRName>
+		<szItemName>Butterfly syringe</szItemName>
+		<szLongItemName>Butterfly syringe</szLongItemName>
+		<szItemDesc>A winged infusion set. It consists, from front to rear, of a hypodermic needle, two bilateral flexible "wings", flexible small-bore transparent tubing, and lastly a connector. This connector attaches to a transfusion bag/bottle.</szItemDesc>
+		<szBRName>Butterfly syringe</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>70</ubGraphicNum>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>367</ubGraphicNum>
+		<ubWeight>2</ubWeight>
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
+		<usPrice>400</usPrice>
+		<ubCoolness>4</ubCoolness>
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
 		<Medical>1</Medical>
@@ -6237,16 +6239,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>237</uiIndex>
-		<szItemName>Syringe</szItemName>
-		<szLongItemName>Syringe</szLongItemName>
-		<szItemDesc>NO DESCRIPTION NECESSARY!</szItemDesc>
-		<szBRName>Syringe</szBRName>
+		<szItemName>Butterfly syringe</szItemName>
+		<szLongItemName>Butterfly syringe</szLongItemName>
+		<szItemDesc>A winged infusion set. It consists, from front to rear, of a hypodermic needle, two bilateral flexible "wings", flexible small-bore transparent tubing, and lastly a connector. This connector attaches to a transfusion bag/bottle.</szItemDesc>
+		<szBRName>Butterfly syringe</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>70</ubGraphicNum>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>367</ubGraphicNum>
+		<ubWeight>2</ubWeight>
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
+		<usPrice>400</usPrice>
+		<ubCoolness>4</ubCoolness>
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
 		<Medical>1</Medical>
@@ -6515,7 +6520,7 @@
 		<uiIndex>248</uiIndex>
 		<szItemName>Head</szItemName>
 		<szLongItemName>Head</szLongItemName>
-		<szItemDesc>One unidentified, slightly decaying, human head.</szItemDesc>
+		<szItemDesc>He who joyfully marches to the military system has been given a large brain by mistake, since for him the spinal cord would suffice. One unidentified, slightly decaying, human head.</szItemDesc>
 		<szBRName>Head</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -6581,16 +6586,15 @@
 	<ITEM>
 		<uiIndex>252</uiIndex>
 		<szItemName>Head</szItemName>
-		<szLongItemName>Mendax's Head</szLongItemName>
-		<szItemDesc>Is leaking nothing but blood now.</szItemDesc>
-		<szBRName>Mendax's Head</szBRName>
+		<szLongItemName>Druggist's Head</szLongItemName>
+		<szItemDesc>This Druggist won't be renewing any prescriptions. His head is on your chopping block now.</szItemDesc>
+		<szBRName>Druggist's Head</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>3</ubGraphicType>
 		<ubGraphicNum>4</ubGraphicNum>
 		<ubWeight>40</ubWeight>
-		<ItemSize>23</ItemSize>
+		<ItemSize>32</ItemSize>
 		<Damageable>1</Damageable>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -6682,10 +6686,11 @@
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>99</ubGraphicNum>
-		<ubPerPocket>2</ubPerPocket>
+		<ubWeight>1</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>20</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -6695,7 +6700,7 @@
 		<uiIndex>258</uiIndex>
 		<szItemName>Video Camera</szItemName>
 		<szLongItemName>Video Camera</szLongItemName>
-		<szItemDesc>This VHS camera will record and play back all your favorite memories, including embarrassing wedding moments or local magistrates in compromising positions.</szItemDesc>
+		<szItemDesc>This VHS camera will record and play back all your favorite memories, including embarrassing wedding moments or local magistrates in compromising positions. Probably will sell for good cash since NSA is in high gear at the moment.</szItemDesc>
 		<szBRName>Video Camera</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -6889,7 +6894,7 @@
 		<uiIndex>267</uiIndex>
 		<szItemName>Portable TV</szItemName>
 		<szLongItemName>Portable TV</szLongItemName>
-		<szItemDesc>You won't miss your favorite cartoon or lose track of the football scores with this portable television. Don't leave home without it!</szItemDesc>
+		<szItemDesc>You won't miss your main stream media or lose track of the football scores with this portable mind lobotomizing box of lies. Don't leave home without it!</szItemDesc>
 		<szBRName>Portable TV</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -7687,7 +7692,7 @@
 		<uiIndex>302</uiIndex>
 		<szItemName>GPS Data</szItemName>
 		<szLongItemName>GPS Data</szLongItemName>
-		<szItemDesc>These GPS coordinates allow aiming of the SCUD weapon system in G16 at Alma, provided one has direct access to the targeting system.</szItemDesc>
+		<szItemDesc>These GPS coordinates allow aiming of the SCUD weapon system in G16 at Mela, provided one has direct access to the targeting system.</szItemDesc>
 		<szBRName>GPS Data</szBRName>
 		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -7726,7 +7731,7 @@
 		<uiIndex>304</uiIndex>
 		<szItemName>Duct Tape</szItemName>
 		<szLongItemName>Duct Tape</szLongItemName>
-		<szItemDesc>This roll of gray, 2-inch wide heavy-duty tape is great for patching holes and keeping things together. Quite usefull for some McGyver style modifications.</szItemDesc>
+		<szItemDesc>This roll of black, 2-inch wide heavy-duty tape is great for patching holes and keeping things together. Quite usefull for some McGyver style modifications.</szItemDesc>
 		<szBRName>Duct Tape</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -7930,7 +7935,7 @@
 		<uiIndex>312</uiIndex>
 		<szItemName>Can</szItemName>
 		<szLongItemName>Drink - Soda Can</szLongItemName>
-		<szItemDesc>A can full of soda. Might be refreshing.</szItemDesc>
+		<szItemDesc>A can full of soda. Might be refreshing or it might be severly damaging your health with neurotoxins.. But it tastes great!</szItemDesc>
 		<szBRName>Drink - Soda Can</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -7940,7 +7945,8 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>14</ItemSize>
 		<usPrice>3</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>8</ubCoolness>
+		<Damageable>1</Damageable>
 		<Metal>1</Metal>
 		<HiddenAddon>1</HiddenAddon>
 		<Unaerodynamic>1</Unaerodynamic>
@@ -8108,9 +8114,9 @@
 		<uiIndex>320</uiIndex>
 		<szItemName>Gum</szItemName>
 		<szLongItemName>Pack of Gum</szLongItemName>
-		<szItemDesc>A pack of sugurless, spearmint flavored chewing gum. Dentists recommend chewing after every meal and between brushings.</szItemDesc>
+		<szItemDesc>A pack of aspartame sweetened spearmint flavored chewing gum. Dentists and globalists recommend chewing after every meal and between brushings. Side effects from aspartame: blindness, epileptic seizures, insomnia, depression, nausea, irreversible brain damage, Alzheimer’s Disease and more!</szItemDesc>
 		<szBRName>Pack of Gum</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>Not for sale through BR. Aspartame is the common denominator for over 92 different health symptoms at the root of modern disease.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>29</ubGraphicNum>
@@ -8306,7 +8312,7 @@
 		<uiIndex>329</uiIndex>
 		<szItemName>Molotov Bomb</szItemName>
 		<szLongItemName>Molotov Bomb</szLongItemName>
-		<szItemDesc>A red hot 60mm surprise for your enemies, home made of course. You better take cover for this one!</szItemDesc>
+		<szItemDesc>A red hot 60mm surprise for your enemies, home made of course. You better take cover for this one and be ready for barbecue!</szItemDesc>
 		<szBRName>Molotov Bomb</szBRName>
 		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
 		<usItemClass>512</usItemClass>
@@ -8314,7 +8320,7 @@
 		<ubClassIndex>30</ubClassIndex>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>40</ubGraphicNum>
+		<ubGraphicNum>1056</ubGraphicNum>
 		<ubWeight>20</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>24</ItemSize>
@@ -10098,7 +10104,7 @@
 		<uiIndex>397</uiIndex>
 		<szItemName>Authorisation</szItemName>
 		<szLongItemName>Authorisation Scud</szLongItemName>
-		<szItemDesc>The explicit authorisation to deploy the SCUD weapon system against Alma. For this copy both files from the folder "Extras/Scud" into the "maps" folder.</szItemDesc>
+		<szItemDesc>The explicit authorisation to deploy the SCUD weapon system against Mela. For this copy both files from the folder "Extras/Scud" into the "maps" folder.</szItemDesc>
 		<szBRName>Authorisation Scud</szBRName>
 		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -24025,7 +24031,7 @@
 		<uiIndex>906</uiIndex>
 		<szItemName>MGL-140</szItemName>
 		<szLongItemName>Milkor MGL-140 Grenade Launcher</szLongItemName>
-		<szItemDesc>The Milkor MGL six-shot 40mm grenade launcher is the world's first mass-produced multi-shot, rapid-fire 40mm hand-held weapon.</szItemDesc>
+		<szItemDesc>It's all fun and games until someone loses an eye. The Milkor MGL six-shot 40mm grenade launcher is the world's first mass-produced multi-shot, rapid-fire 40mm hand-held weapon.</szItemDesc>
 		<szBRName>Milkor MGL-140 Grenade Launcher</szBRName>
 		<szBRDesc>The Milkor MGL six-shot 40mm grenade launcher is the world's first mass-produced multi-shot, rapid-fire 40mm hand-held weapon.  The MGL can fire six shots in less than three seconds, making it essential in dealing with ambush situations and in urban warfare.</szBRDesc>
 		<usItemClass>16</usItemClass>
@@ -26999,7 +27005,7 @@
 		<uiIndex>1014</uiIndex>
 		<szItemName>Passports</szItemName>
 		<szLongItemName>Passports</szLongItemName>
-		<szItemDesc>These might be worth something on the black market.</szItemDesc>
+		<szItemDesc>The world is a book, and those who do not travel read only a page. These might be worth something on the black market.</szItemDesc>
 		<szBRName>Passports</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -27051,7 +27057,7 @@
 		<uiIndex>1016</uiIndex>
 		<szItemName>Gameboy</szItemName>
 		<szLongItemName>Gameboy</szLongItemName>
-		<szItemDesc>Will we ever finally be rid of Tetris? Maybe it could be of use, if some plastic explosives were attached to it?</szItemDesc>
+		<szItemDesc>Growing old is mandatory, Growing up is optional! Maybe it could be of use, if some plastic explosives were attached to it?</szItemDesc>
 		<szBRName>Gameboy</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -27120,7 +27126,7 @@
 		<uiIndex>1019</uiIndex>
 		<szItemName>Oil</szItemName>
 		<szLongItemName>Oil</szLongItemName>
-		<szItemDesc>A can of Esso brand oil.  Funny, you don't remember seeing any Esso stations around here.</szItemDesc>
+		<szItemDesc>Engine oil is an oil used for lubrication of various internal combustion engines. The main function is to reduce wear on moving parts; it also cleans, inhibits corrosion, improves sealing, and cools the engine by carrying heat away from moving parts. A can of the finest H&amp;B brand oil.</szItemDesc>
 		<szBRName>Oil</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -28621,7 +28627,7 @@
 		<uiIndex>1075</uiIndex>
 		<szItemName>MG3</szItemName>
 		<szLongItemName>Rheinmetall MG3</szLongItemName>
-		<szItemDesc>When the Germans build up the Bundeswehr they took the MG42, renamed it MG3, and took down the firing rate somewhat. Because, it was still the best GPMG of the world at that time. In use in several other countries as well.</szItemDesc>
+		<szItemDesc>This diabolical gun eats resistance for breakfast! When the Germans build up the Bundeswehr they took the MG42, renamed it MG3, and took down the firing rate somewhat. Because, it was still the best GPMG of the world at that time. In use in several other countries as well.</szItemDesc>
 		<szBRName>Rheinmetall MG3</szBRName>
 		<szBRDesc>Despite various nicknames, this is a dead serious gun. With attachment points for both a bipod or a tripod, an Anti-Air sight, and very easily replaced barrels, you can see why this is THE General Purpose Machine Gun.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -47111,7 +47117,7 @@
 		<uiIndex>1863</uiIndex>
 		<szItemName>Sun Glasses</szItemName>
 		<szLongItemName>Sun Glasses</szLongItemName>
-		<szItemDesc>Pretty expensive sun glasses. Exactly the right accessory if you want to be cooler than everyone else.</szItemDesc>
+		<szItemDesc>What is real? How do you define real?. Otherwise, pretty expensive sun glasses.</szItemDesc>
 		<szBRName>Sun Glasses</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>32768</usItemClass>
@@ -48326,7 +48332,7 @@
 		<uiIndex>1916</uiIndex>
 		<szItemName>SpeedDot</szItemName>
 		<szLongItemName>A. - Reflex Sight, SpeedDot</szLongItemName>
-		<szItemDesc>An advanced reflex sight, suitable for the worst conditions. Can only be combined with a few scopes.</szItemDesc>
+		<szItemDesc>An advanced reflex sight, suitable for the worst conditions. Can only be combined with a few scopes. A person who aims at nothing is sure to hit it.</szItemDesc>
 		<szBRName>A. - Reflex Sight, SpeedDot</szBRName>
 		<szBRDesc>Tactical shooters know all about extremes. The worst weather. Oppressively bright sun. Pitch darkness. The repeated recoil of automatic weapons. Whatever extremes you have to deal with, the Burris XTS-135 Xtreme Tactical SpeedDot can handle it.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -56280,7 +56286,7 @@
 		<uiIndex>2218</uiIndex>
 		<szItemName>mod. Pistol Supp.</szItemName>
 		<szLongItemName>mod. Suppressor, Pistol</szLongItemName>
-		<szItemDesc>The light, compact design of this silencer can be fitted easily to most handguns and sub-machine guns.</szItemDesc>
+		<szItemDesc>It is dangerous to be right when the goverment is wrong, better be quiet.The light, compact design of this silencer can be fitted easily to most handguns and sub-machine guns.</szItemDesc>
 		<szBRName>mod. Suppressor, Pistol</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -61026,7 +61032,7 @@
 		<uiIndex>2404</uiIndex>
 		<szItemName>Light Knife</szItemName>
 		<szLongItemName>Light Knife</szLongItemName>
-		<szItemDesc>A small, well-balanced knife.</szItemDesc>
+		<szItemDesc>Self control. The only way to survive in this world dominated by idiots, or this small, well-balanced knife.</szItemDesc>
 		<szBRName>Light Knife</szBRName>
 		<szBRDesc>A small, well-balanced blade that does a little less damage that our standard combat knife, but can be swung a bit faster.</szBRDesc>
 		<usItemClass>4</usItemClass>
@@ -61260,6 +61266,1123 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>36</BR_ROF>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2413</uiIndex>
+		<szItemName>Voodoo doll</szItemName>
+		<szLongItemName>Voodoo doll</szLongItemName>
+		<szItemDesc>Dolls of voodoo all stuck with pins, one for each of us and our sins. This little voodoo doll seems to be worn and battered, maybe not a good thing.</szItemDesc>
+		<szBRName>Voodoo doll</szBRName>
+		<szBRDesc>I can't guarantee the effects of voodoo dolls. But if you believe in it, it will surely bring some changes to your life. Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>365</ubGraphicNum>
+		<ubWeight>9</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>12</ItemSize>
+		<usPrice>5</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<Damageable>1</Damageable>
+		<ShowStatus>1</ShowStatus>
+		<APBonus>-5</APBonus>
+		<HearingRangeBonus>-1</HearingRangeBonus>
+		<VisionRangeBonus>-5</VisionRangeBonus>
+		<NightVisionRangeBonus>-2</NightVisionRangeBonus>
+		<DayVisionRangeBonus>-1</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>-3</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>-1</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>-2</PercentTunnelVision>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2414</uiIndex>
+		<szItemName>Talisman</szItemName>
+		<szLongItemName>Ancient Talisman</szLongItemName>
+		<szItemDesc>This heavy metal object is cold to the touch, its origins is unknown but it seems very old yet still solid. Wearing it close to the body seems to give its weares a slight boost of perception. On its back side says: "What's good is often forgotten, what's bad is often hidden."</szItemDesc>
+		<szBRName>Talisman</szBRName>
+		<szBRDesc>Do not try and bend the spoon. That's impossible. Instead... only try to realize the truth. There is no spoon. Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>366</ubGraphicNum>
+		<ubWeight>6</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>12</ItemSize>
+		<usPrice>3262</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<Damageable>1</Damageable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<NotBuyable>1</NotBuyable>
+		<SciFi>1</SciFi>
+		<ToHitBonus>5</ToHitBonus>
+		<AimBonus>2</AimBonus>
+		<APBonus>7</APBonus>
+		<StealthBonus>8</StealthBonus>
+		<HearingRangeBonus>3</HearingRangeBonus>
+		<VisionRangeBonus>9</VisionRangeBonus>
+		<NightVisionRangeBonus>4</NightVisionRangeBonus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2415</uiIndex>
+		<szItemName>Butterfly syringe</szItemName>
+		<szLongItemName>Butterfly syringe</szLongItemName>
+		<szItemDesc>A winged infusion set. It consists, from front to rear, of a hypodermic needle, two bilateral flexible "wings", flexible small-bore transparent tubing, and lastly a connector. This connector attaches to a transfusion bag/bottle.</szItemDesc>
+		<szBRName>Butterfly syringe</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>367</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>10</ItemSize>
+		<usPrice>400</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2416</uiIndex>
+		<szItemName>Blood bag</szItemName>
+		<szLongItemName>Blood bag</szLongItemName>
+		<szItemDesc>A Blood Bag is a medical item that is used to transfer blood from one person to another.
+It is used to fully restore a person's Blood in the form of a blood transfusion. Universal blood: type 0-</szItemDesc>
+		<szBRName>Blood bag</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>368</ubGraphicNum>
+		<ubWeight>8</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>17</ItemSize>
+		<usPrice>4000</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2417</uiIndex>
+		<szItemName>HK AG3</szItemName>
+		<szLongItemName>HK AG3 F1 MOD</szLongItemName>
+		<szItemDesc>AG-3F1 with this grotesque construction of an assault rifle discharging 7.62 caliber dissolution and hammering down 40mm carnage you can say: The right man in the wrong place can make all the difference in the world.</szItemDesc>
+		<szBRName>HK AG3 F1 MOD</szBRName>
+		<szBRDesc>This AG-3F1: An AG-3 with a retractable stock as on G3A4. Produced by Kongsberg Vaapenfabrikk. A retractable stock was required by certain groups of soldiers within the Norwegian Armed Forces. This has attached a 40 mm HK79 grenade launcher. It will eat resistance for breakfast!</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2417</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>558</ubGraphicNum>
+		<ubWeight>45</ubWeight>
+		<ItemSize>6</ItemSize>
+		<usPrice>10560</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bReliability>2</bReliability>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<SciFi>1</SciFi>
+		<BR_ROF>600</BR_ROF>
+		<ToHitBonus>10</ToHitBonus>
+		<BurstToHitBonus>5</BurstToHitBonus>
+		<AutoFireToHitBonus>5</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<DefaultAttachment>913</DefaultAttachment>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2418</uiIndex>
+		<szItemName>M16A2</szItemName>
+		<szLongItemName>Colt M16A2 M203</szLongItemName>
+		<szItemDesc>This variant is equipped with the M203 single-shot 40mm grenade launcher. Using the M203's leaf sight, grenades can be accurately put on target even up to 200 meters away.</szItemDesc>
+		<szBRName>Colt M16A2 M203</szBRName>
+		<szBRDesc>Standard issue rifle for U.S. forces since the Vietnam war. Accurate and lightweight, though lacking in effective range. This variant is equipped with the M203 single-shot 40mm grenade launcher. Using the M203's leaf sight, grenades can be accurately put on target even up to 200 meters away.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2418</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>557</ubGraphicNum>
+		<ubWeight>35</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>8470</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<SciFi>1</SciFi>
+		<BR_ROF>800</BR_ROF>
+		<ToHitBonus>5</ToHitBonus>
+		<BurstToHitBonus>5</BurstToHitBonus>
+		<AutoFireToHitBonus>5</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>5</PercentReadyTimeAPReduction>
+		<DefaultAttachment>50</DefaultAttachment>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2419</uiIndex>
+		<szItemName>1200 Defender</szItemName>
+		<szLongItemName>Winchester 1300 Defender</szLongItemName>
+		<szItemDesc>This battered black Winchester 1300 Defender have bloodstains all over it along with big wear on grips, and with aftermarket installed front Tacstar pistol grips, it also has a nuclear symbol on its side. As you one day may awake to only see the rest of the world is still asleep, you still have this.</szItemDesc>
+		<szBRName>Winchester 1300 Defender</szBRName>
+		<szBRDesc>The Model 1200 and Model 1300 were two American pump-action shotguns that were manufactured by the Winchester-Western Division of Olin Corporation. Even if it has some minor wear it makes up for it with having these great pistol grips installed from previous owner.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2419</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>556</ubGraphicNum>
+		<ubWeight>45</ubWeight>
+		<ItemSize>6</ItemSize>
+		<usPrice>6980</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<SciFi>1</SciFi>
+		<BR_ROF>22</BR_ROF>
+		<ToHitBonus>20</ToHitBonus>
+		<AimBonus>5</AimBonus>
+		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>5</PercentReloadTimeAPReduction>
+		<PercentAPReduction>10</PercentAPReduction>
+		<DefaultAttachment>1010</DefaultAttachment>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2420</uiIndex>
+		<szItemName>M107</szItemName>
+		<szLongItemName>Barrett M107</szLongItemName>
+		<szItemDesc>One man can change the world with a bullet in the right place. The Barrett M107 is a .50 caliber, shoulder fired, semi-automatic, sniper rifle. Like its predecessors the rifle is said to have manageable recoil for a weapon of its size owing to the barrel assembly that itself absorbs force.</szItemDesc>
+		<szBRName>Barrett M107</szBRName>
+		<szBRDesc>The M107 Semi-Automatic Long Range Sniper Rifle (LRSR) is a commercial, off-the-shelf, anti-materiel and counter-sniper semi-automatic, direct-line-of-sight .50 caliber rifle.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2420</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>555</ubGraphicNum>
+		<ubWeight>129</ubWeight>
+		<ItemSize>9</ItemSize>
+		<usPrice>12671</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<SciFi>1</SciFi>
+		<Unaerodynamic>1</Unaerodynamic>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_ROF>16</BR_ROF>
+		<Bipod>25</Bipod>
+		<ToHitBonus>10</ToHitBonus>
+		<PercentReadyTimeAPReduction>5</PercentReadyTimeAPReduction>
+		<DefaultAttachment>2211</DefaultAttachment>
+		<DefaultAttachment>2183</DefaultAttachment>
+		<NewInv>1</NewInv>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2421</uiIndex>
+		<szItemName>MAC-10</szItemName>
+		<szLongItemName>MAC-10</szLongItemName>
+		<szItemDesc>I see humans, but no humanity, fire away! This beat up worn out mac-10 is fitted with a sound suppressor; a rifle scope and mount are attached to the suppressor. This gun must have fired thousands of rounds. Its stamped with "USPF" and also have the initials witch appears to be "S.P" on its pistolgrip.</szItemDesc>
+		<szBRName>MAC-10</szBRName>
+		<szBRDesc>The MAC-10 (Military Armament Corporation Model 10, officially the M-10) is a highly compact, blowback operated machine pistol developed by Gordon B. Ingram in 1964.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2421</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>554</ubGraphicNum>
+		<ubWeight>26</ubWeight>
+		<ItemSize>2</ItemSize>
+		<usPrice>4180</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<SciFi>1</SciFi>
+		<BR_ROF>1200</BR_ROF>
+		<ToHitBonus>15</ToHitBonus>
+		<BurstToHitBonus>5</BurstToHitBonus>
+		<AutoFireToHitBonus>5</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<DefaultAttachment>1636</DefaultAttachment>
+		<DefaultAttachment>1007</DefaultAttachment>
+		<VisionRangeBonus>10</VisionRangeBonus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2422</uiIndex>
+		<szItemName>Hardballer</szItemName>
+		<szLongItemName>AMT Hardballer .45 Longslide</szLongItemName>
+		<szItemDesc>AMT Hardballer Longslide with a laserlock sight from SureFire, this massive pistol, seems to have some very noticable wear marks on its grip. This bonkers .45 will deliver rigid wounds like no other.</szItemDesc>
+		<szBRName>AMT Hardballer 45. Longslide</szBRName>
+		<szBRDesc>AMT Hardballer Longslide with a laserlock sight from SureFire sights in almost mint condition, buy now and own one of these babies before their all gone.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2422</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>553</ubGraphicNum>
+		<ubWeight>19</ubWeight>
+		<ItemSize>2</ItemSize>
+		<usPrice>1900</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_ROF>20</BR_ROF>
+		<DefaultAttachment>241</DefaultAttachment>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2423</uiIndex>
+		<szItemName>IWS</szItemName>
+		<szLongItemName>Steyr IWS 2000 Mod</szLongItemName>
+		<szItemDesc>"Don't let idiots ruin your day" Steyr IWS 2000, an Austrian semi-automatic anti-materiel rifle, produced by Steyr Mannlicher. IWS stands for Infantry Weapon System.</szItemDesc>
+		<szBRDesc>Yup, we did it, we actually got us a couple of these IWS 2000 babies, buy'em before its too late! Steyr IWS is an Austrian semi-automatic anti-materiel rifle, produced by Steyr Mannlicher. IWS stands for Infantry Weapon System.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2423</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>552</ubGraphicNum>
+		<ubWeight>156</ubWeight>
+		<ItemSize>9</ItemSize>
+		<usPrice>37671</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<bRepairEase>-3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<SciFi>1</SciFi>
+		<Unaerodynamic>1</Unaerodynamic>
+		<BR_ROF>12</BR_ROF>
+		<Bipod>25</Bipod>
+		<ToHitBonus>15</ToHitBonus>
+		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
+		<DefaultAttachment>2211</DefaultAttachment>
+		<DefaultAttachment>2183</DefaultAttachment>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2424</uiIndex>
+		<szItemName>Dwight's Sample</szItemName>
+		<szLongItemName>Flask of Bull Semen</szLongItemName>
+		<szItemDesc>This dewar flask filled with bull's semen made by the J.A.M. Corp back in the early 1990's was one of the best cryogenic containers available. This one had a built-in heat display and comes with a carry handle, 'Just make sure you don't pour this into your coffee'.</szItemDesc>
+		<szBRName>Thermo Tech 9000 5 liter</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>1057</ubGraphicNum>
+		<ubWeight>17</ubWeight>
+		<ItemSize>28</ItemSize>
+		<usPrice>2700</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<Damageable>1</Damageable>
+		<Metal>1</Metal>
+		<ShowStatus>1</ShowStatus>
+		<NotBuyable>1</NotBuyable>
+		<Jar>1</Jar>
+		<ContainsLiquid>1</ContainsLiquid>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2425</uiIndex>
+		<szItemName>Head</szItemName>
+		<szLongItemName>Assange's Head</szLongItemName>
+		<szItemDesc>Assange will not try to change the system anymore. Better hurry up and cash in this head before it causes more problems, but then again nothing says 'welcome aboard!' like Assanges head on the job interview for FBI, CIA or the NSA!</szItemDesc>
+		<szBRName>Assange's Head</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>3</ubGraphicType>
+		<ubGraphicNum>62</ubGraphicNum>
+		<ubWeight>40</ubWeight>
+		<ItemSize>32</ItemSize>
+		<Damageable>1</Damageable>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2426</uiIndex>
+		<szItemName>Casio Watch</szItemName>
+		<szLongItemName>Casio Watch</szLongItemName>
+		<szItemDesc>This amazing clock not only tells the time with dead accuracy but also has the ability to crunch the most demanding numbers from your grocery list.</szItemDesc>
+		<szBRName>Casio Watch</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>373</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>10</ItemSize>
+		<usPrice>400</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bRepairEase>-6</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<Electronic>1</Electronic>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2427</uiIndex>
+		<szItemName>Twinkie</szItemName>
+		<szLongItemName>Twinkie</szLongItemName>
+		<szItemDesc>The Twinkie is an American snack cake. Twinkies have an infinite shelf life or can last unspoiled for a relatively long time of ten, fifty, or one hundred years due to the chemicals used in their production. This Golden sponge cake is the ultimate killer, attacking your heart with deadly persistance.</szItemDesc>
+		<szBRName>Twinkie</szBRName>
+		<szBRDesc>Not for sale through BR. Maybe look at A.I.M for this twinkie the kid.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>372</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>10</ItemSize>
+		<usPrice>4</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<Damageable>1</Damageable>
+		<Medical>1</Medical>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2428</uiIndex>
+		<szItemName>Finger</szItemName>
+		<szLongItemName>American Patriotic Finger</szLongItemName>
+		<szItemDesc>USA! USA! USA! Probably belongs to some american football fan that woke up a long way from home.</szItemDesc>
+		<szBRName>American Patriotic Finger</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>371</ubGraphicNum>
+		<ubWeight>5</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>17</ItemSize>
+		<usPrice>20</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<Damageable>1</Damageable>
+		<ShowStatus>1</ShowStatus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2429</uiIndex>
+		<szItemName>Peace Pipe</szItemName>
+		<szLongItemName>Peace Pipe</szLongItemName>
+		<szItemDesc>This "Peace pipe" or Calumet is a ceremonial smoking pipe used by some indigenous American nations. Traditionally it has been smoked to seal a covenant or treaty, or to offer prayers in a ceremony. It smells of spices and celestial herbs.</szItemDesc>
+		<szBRName>Peace Pipe</szBRName>
+		<szBRDesc>More Indian garbage? Well Jimmy this is not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>370</ubGraphicNum>
+		<ubWeight>15</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>20</ItemSize>
+		<usPrice>1783</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bRepairEase>-9</bRepairEase>
+		<Damageable>1</Damageable>
+		<ShowStatus>1</ShowStatus>
+		<NotBuyable>1</NotBuyable>
+		<SciFi>1</SciFi>
+		<ToHitBonus>1</ToHitBonus>
+		<CamoBonus>1</CamoBonus>
+		<HearingRangeBonus>2</HearingRangeBonus>
+		<VisionRangeBonus>5</VisionRangeBonus>
+		<NightVisionRangeBonus>3</NightVisionRangeBonus>
+		<DayVisionRangeBonus>5</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>1</CaveVisionRangeBonus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2430</uiIndex>
+		<szItemName>Cellphone</szItemName>
+		<szLongItemName>DynaTAC 8000X Cellphone</szLongItemName>
+		<szItemDesc>Radiate with confidence and importance with this handy transmobile cellular telephone, get connected and be the center of attention when you'r speaking as loud as possible in the phone.</szItemDesc>
+		<szBRName>Cellphone</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>374</ubGraphicNum>
+		<ubWeight>10</ubWeight>
+		<ItemSize>20</ItemSize>
+		<usPrice>500</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<Unaerodynamic>1</Unaerodynamic>
+		<Electronic>1</Electronic>
+		<UrbanCamoBonus>2</UrbanCamoBonus>
+		<RemoteDetonator>1</RemoteDetonator>
+		<HearingRangeBonus>-1</HearingRangeBonus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2431</uiIndex>
+		<szItemName>Rune Stones</szItemName>
+		<szLongItemName>Rune Stones</szLongItemName>
+		<szItemDesc>A small sack of stones etched with what appairs to be runes, some give off a very weak glow, these are not you'r ordinary stones, some of the stones are warm others are cold. If real is what you can feel, smell, taste and see, then 'real' is simply electrical signals interpreted by your brain.</szItemDesc>
+		<szBRName>Rune Stones</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>376</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ItemSize>17</ItemSize>
+		<usPrice>2387</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bReliability>1</bReliability>
+		<bRepairEase>-6</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<NotBuyable>1</NotBuyable>
+		<SciFi>1</SciFi>
+		<APBonus>6</APBonus>
+		<CamoBonus>7</CamoBonus>
+		<UrbanCamoBonus>7</UrbanCamoBonus>
+		<DesertCamoBonus>7</DesertCamoBonus>
+		<SnowCamoBonus>7</SnowCamoBonus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2432</uiIndex>
+		<szItemName>Barbecue Sauce</szItemName>
+		<szLongItemName>Barbecue Sauce</szLongItemName>
+		<szItemDesc>Great horns texas BBQ sauce with extra flavoring. seasoned with cumin, chili peppers, bell peppers and ancho powder, lots of black pepper, fresh onion, only a touch of tomato, little  sugar,  meat drippings and smoke flavor. Where is the grill!?</szItemDesc>
+		<szBRName>Barbecue Sauce</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>375</ubGraphicNum>
+		<ubWeight>4</ubWeight>
+		<ItemSize>10</ItemSize>
+		<usPrice>15</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<Damageable>1</Damageable>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2433</uiIndex>
+		<szItemName>Hard Hat</szItemName>
+		<szLongItemName>Oil Rig Hard Hat</szLongItemName>
+		<szItemDesc>Aluminum hard hat is a type of helmet predominantly used in workplace environments, such as oil rigs, to protect the head from injury by falling objects, impact with other objects, debris and bad weather. A man chooses, a slave obeys.</szItemDesc>
+		<szBRName>Oil Rig Hard Hat</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>2</nasAttachmentClass>
+		<ubClassIndex>160</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>377</ubGraphicNum>
+		<ubWeight>15</ubWeight>
+		<ItemSize>30</ItemSize>
+		<usPrice>60</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2434</uiIndex>
+		<szItemName>Head</szItemName>
+		<szLongItemName>Morris Head</szLongItemName>
+		<szItemDesc>He was one of those people who where enormously improved by death.</szItemDesc>
+		<szBRName>Morris Head</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>3</ubGraphicType>
+		<ubGraphicNum>63</ubGraphicNum>
+		<ubWeight>40</ubWeight>
+		<ItemSize>32</ItemSize>
+		<Damageable>1</Damageable>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2435</uiIndex>
+		<szItemName>Beeper</szItemName>
+		<szLongItemName>Beeper</szLongItemName>
+		<szItemDesc>Yeah! Have the edge at you'r office with this beeper, let them know you'r important. Also giving you that extra dimension of preparedness with this revolutionary technology, ready for connection to  the latest stock quotes, news updates, sports scores, weather, and traffic information.</szItemDesc>
+		<szBRName>Beeper</szBRName>
+		<szBRDesc>Not for sale through BR. We use these at BR's to instant see when we get you'r orders.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>378</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>10</ItemSize>
+		<usPrice>30</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bRepairEase>-5</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<Electronic>1</Electronic>
+		<UrbanCamoBonus>1</UrbanCamoBonus>
+		<RemoteDetonator>1</RemoteDetonator>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2436</uiIndex>
+		<szItemName>Belt</szItemName>
+		<szLongItemName>American Belt</szLongItemName>
+		<szItemDesc>If someone asks to see your ID and you show them your belt buckle, you might be a redneck.</szItemDesc>
+		<szBRName>Belt</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<ubClassIndex>303</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>379</ubGraphicNum>
+		<ubWeight>15</ubWeight>
+		<ItemSize>30</ItemSize>
+		<usPrice>40</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2437</uiIndex>
+		<szItemName>Cowboy Hat</szItemName>
+		<szLongItemName>Cowboy Hat</szLongItemName>
+		<szItemDesc>One of the greatest challenges in life is being yourself in a world that's trying to make you like everyone else, so start with this hat and build from there. It is not clear when the cowboy hat began to be named as such. Westerners originally had no standard headwear.</szItemDesc>
+		<szBRName>Cowboy Hat</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<ubClassIndex>161</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>380</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>21</ItemSize>
+		<usPrice>45</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<DesertCamoBonus>1</DesertCamoBonus>
+		<DayVisionRangeBonus>40</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2438</uiIndex>
+		<szItemName>Cheese Doodles</szItemName>
+		<szLongItemName>Cheese Doodles</szLongItemName>
+		<szItemDesc>Nothing serves heart disease so delicious like Cheez Doodles! With stunning 110 calories in a 1 ounce serving you'll have obesity striking you'r body in days! Side effects may be: allergy, bad breath, body odor, constipation, osteoporosis, heartburn, stress, acne, diarrhea, death and more.</szItemDesc>
+		<szBRName>Cheese Doodles</szBRName>
+		<szBRDesc>Not for sale through BR. Better you will feel if you eat a healthy meal.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>381</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>10</ItemSize>
+		<usPrice>3</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<Damageable>1</Damageable>
+		<Medical>1</Medical>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2439</uiIndex>
+		<szItemName>Sombrero</szItemName>
+		<szLongItemName>Sombrero</szLongItemName>
+		<szItemDesc>Sombreros, like the cowboy hats invented later, were designed in response to the demands of the physical environment. you'll hate me for the truth before you love me for a lie even if you'r looking like a mexican farmer.</szItemDesc>
+		<szBRName>Sombrero</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<ubClassIndex>162</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>382</ubGraphicNum>
+		<ubWeight>4</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>21</ItemSize>
+		<usPrice>20</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<DesertCamoBonus>1</DesertCamoBonus>
+		<DayVisionRangeBonus>45</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>45</BrightLightVisionRangeBonus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2440</uiIndex>
+		<szItemName>Railgun</szItemName>
+		<szLongItemName>Railgun</szLongItemName>
+		<szItemDesc>Life is not passing you by, Its trying to run you over! A railgun is an electrically powered electromagnetic projectile launcher. It comprises a pair of parallel conducting rails, the electromagnetic effects of a current that flows down one rail, into the armature and then back along the other rail.</szItemDesc>
+		<szBRName>Railgun</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2440</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicNum>559</ubGraphicNum>
+		<ubWeight>42</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>96769</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<bReliability>-5</bReliability>
+		<bRepairEase>-7</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<NotBuyable>1</NotBuyable>
+		<SciFi>1</SciFi>
+		<Unaerodynamic>1</Unaerodynamic>
+		<Electronic>1</Electronic>
+		<BR_ROF>12</BR_ROF>
+		<Bipod>30</Bipod>
+		<ToHitBonus>30</ToHitBonus>
+		<BestLaserRange>90</BestLaserRange>
+		<PercentReadyTimeAPReduction>10</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>2</PercentReloadTimeAPReduction>
+		<PercentAPReduction>1</PercentAPReduction>
+		<DefaultAttachment>208</DefaultAttachment>
+		<DefaultAttachment>1831</DefaultAttachment>
+		<DefaultAttachment>1918</DefaultAttachment>
+		<ThermalOptics>1</ThermalOptics>
+		<XRay>1</XRay>
+		<FingerPrintID>1</FingerPrintID>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2441</uiIndex>
+		<szItemName>Necklace</szItemName>
+		<szLongItemName>Bloodcat Necklace</szLongItemName>
+		<szItemDesc>It is no measure of health to be well adjusted to a profoundly sick society, get in touch with you'r inner self wearing this extraordinary natural necklace featuring a chain of long bloodcat teeth and start get that confidence, even holding it is giving you a chill.</szItemDesc>
+		<szBRName>Bloodcat Necklace</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>32768</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>383</ubGraphicNum>
+		<ubWeight>8</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>17</ItemSize>
+		<usPrice>800</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bRepairEase>-5</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<NotBuyable>1</NotBuyable>
+		<SciFi>1</SciFi>
+		<APBonus>5</APBonus>
+		<HearingRangeBonus>3</HearingRangeBonus>
+		<VisionRangeBonus>9</VisionRangeBonus>
+		<NightVisionRangeBonus>4</NightVisionRangeBonus>
+		<DayVisionRangeBonus>6</DayVisionRangeBonus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2442</uiIndex>
+		<szItemName>Fanny pack</szItemName>
+		<szLongItemName>Fanny pack</szLongItemName>
+		<szItemDesc>Neon forces unite in a powerful burst of fanny pack from RadFanny! Wearing this fanny pack may result in being 3 times more awesome, so don't say we didn't warn you! This pack is crucial for your next festival or day in the sun! It features three pockets with zipper closure, and adjustable belt.</szItemDesc>
+		<szBRName>Fanny pack</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<ubClassIndex>304</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>384</ubGraphicNum>
+		<ubWeight>3</ubWeight>
+		<ItemSize>30</ItemSize>
+		<usPrice>10</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bRepairEase>5</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2443</uiIndex>
+		<szItemName>Railgun mag</szItemName>
+		<szLongItemName>Railgun magazine</szLongItemName>
+		<szItemDesc>Railgun magazine capable of holding 4 darts.</szItemDesc>
+		<szBRName>Railgun magazine</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>669</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>385</ubGraphicNum>
+		<ubWeight>15</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>17</ItemSize>
+		<usPrice>1900</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<SciFi>1</SciFi>
+		<RangeBonus>200</RangeBonus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2444</uiIndex>
+		<szItemName>Figurine</szItemName>
+		<szLongItemName>Mayan Figurine</szLongItemName>
+		<szItemDesc>The Mayans were a civilization filled with superstitious beliefs. The most notable of all, even today, is the link of the Mayans with extra-terrestrial beings. This figurine feels warm.</szItemDesc>
+		<szBRName>Figurine</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>386</ubGraphicNum>
+		<ubWeight>20</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>14</ItemSize>
+		<usPrice>5499</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<Damageable>1</Damageable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<NotBuyable>1</NotBuyable>
+		<SciFi>1</SciFi>
+		<APBonus>3</APBonus>
+		<DesertCamoBonus>10</DesertCamoBonus>
+		<HearingRangeBonus>5</HearingRangeBonus>
+		<VisionRangeBonus>14</VisionRangeBonus>
+		<DayVisionRangeBonus>11</DayVisionRangeBonus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2445</uiIndex>
+		<szItemName>Pants</szItemName>
+		<szLongItemName>Muscle Pants</szLongItemName>
+		<szItemDesc>Look in touch and be fresh with these stylish parachute pants! You will have people yelling at to you from a distance: "cool beans thats some rad pants you got there" These were called various  names: Parachute, Muscle, Kamikaze, Commando pants. Sometimes had matching shirts.</szItemDesc>
+		<szBRName>Muscle Pants</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<ubClassIndex>163</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>387</ubGraphicNum>
+		<ubWeight>4</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>25</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<APBonus>5</APBonus>
+		<UrbanCamoBonus>7</UrbanCamoBonus>
+		<StealthBonus>3</StealthBonus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2446</uiIndex>
+		<szItemName>Noodles</szItemName>
+		<szLongItemName>Fu-Wang Noodles</szLongItemName>
+		<szItemDesc>Instant and Tasty Fu-Wang Noodles! Whenever you are hungry and there is nothing cooked, You can cook the noodles instantly and eat. Now with bits of dolpine, beceause fawk ayou dawphin!</szItemDesc>
+		<szBRName>Fu-Wang Noodles</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>388</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>14</ItemSize>
+		<usPrice>1</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<Damageable>1</Damageable>
+		<Medical>1</Medical>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2447</uiIndex>
+		<szItemName>Canned Pancakes</szItemName>
+		<szLongItemName>Hungry Jacks Canned Pancakes</szLongItemName>
+		<szItemDesc>Hungry Jacks Panncakes! A boom to the wheelbarrow industry, this is a divine breakfast for you'r family made easy! With enough carbs to send you straight into cardiac arrest! But nothing says good parenting like serving this to you'r kids every morning to ensure a happy and healthy foundation in life!</szItemDesc>
+		<szBRName>Canned Pancakes</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>389</ubGraphicNum>
+		<ubWeight>5</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>10</ItemSize>
+		<usPrice>8</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<Damageable>1</Damageable>
+		<Medical>1</Medical>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2448</uiIndex>
+		<szItemName>Railgun Dart</szItemName>
+		<szLongItemName>Railgun Dart</szLongItemName>
+		<szItemDesc>A hypervelocity, trilium-tipped solid dart. Never argue with stupid people, they will drag you down to their level and then beat you with experience blast them with these instead.</szItemDesc>
+		<szBRName>Railgun Dart</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>668</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>390</ubGraphicNum>
+		<ubWeight>3</ubWeight>
+		<ubPerPocket>6</ubPerPocket>
+		<ItemSize>12</ItemSize>
+		<usPrice>420</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<SciFi>1</SciFi>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2449</uiIndex>
+		<szItemName>Zippo Lighter</szItemName>
+		<szLongItemName>H&amp;B Zippo Lighter</szLongItemName>
+		<szItemDesc>Common sense is the most limited of all natural resources, good thing petroleum is in plenty, need a light?</szItemDesc>
+		<szBRName>Zippo Lighter</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>391</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>10</ItemSize>
+		<usPrice>40</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<Damageable>1</Damageable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2450</uiIndex>
+		<szItemName>FrackTac Helm</szItemName>
+		<szLongItemName>FrackTac Helm</szLongItemName>
+		<szItemDesc>FrackTac has steel layer bonded to a compressed Dyneema backing, with a linex coating for spall reduction, resulting in a total plate thickness of approximately 25 mm.</szItemDesc>
+		<szBRName>FrackTac Helm</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<ubClassIndex>164</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>394</ubGraphicNum>
+		<ubWeight>42</ubWeight>
+		<ItemSize>30</ItemSize>
+		<usPrice>2100</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bReliability>1</bReliability>
+		<bRepairEase>-5</bRepairEase>
+		<Damageable>1</Damageable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<SciFi>1</SciFi>
+		<Unaerodynamic>1</Unaerodynamic>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2451</uiIndex>
+		<szItemName>Bodyarmor</szItemName>
+		<szLongItemName>FrackTac Bodyarmor</szLongItemName>
+		<szItemDesc>FrackTac has steel layer bonded to a compressed Dyneema backing, with a linex coating for spall reduction, resulting in a total plate thickness of approximately 25 mm.</szItemDesc>
+		<szBRName>FrackTac Bodyarmor</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<ubClassIndex>165</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>393</ubGraphicNum>
+		<ubWeight>70</ubWeight>
+		<ItemSize>31</ItemSize>
+		<usPrice>5200</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bReliability>1</bReliability>
+		<bRepairEase>-4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<SciFi>1</SciFi>
+		<Unaerodynamic>1</Unaerodynamic>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2452</uiIndex>
+		<szItemName>Nachos</szItemName>
+		<szLongItemName>Nachos</szLongItemName>
+		<szItemDesc>These nachos made by: On The Boarder Mexican Grill, is truly heavenly! With the extra cheese taste it will clog you'r arteries like no other. These are so packed with monosodium glutamate the excitotoxins will shrivel and kill brain cells at an fenomenal rate! migraines, seizures, heart palpitations guaranteed!</szItemDesc>
+		<szBRName>Nachos</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>392</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>10</ItemSize>
+		<usPrice>2</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<Damageable>1</Damageable>
+		<Medical>1</Medical>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2453</uiIndex>
+		<szItemName>Bloodcat Backpack</szItemName>
+		<szLongItemName>Backpack - Bloodcat pelt</szLongItemName>
+		<szItemDesc>A very unique backpack made out of bloodcat pelt with lots of big and smaller rooms for carrying items, this backpack seems to lighten then load compared to others.</szItemDesc>
+		<szBRName>Backpack - Bloodcat pelt</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<ubClassIndex>305</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>395</ubGraphicNum>
+		<ubWeight>25</ubWeight>
+		<ItemSize>32</ItemSize>
+		<usPrice>1200</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bRepairEase>-2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<NotBuyable>1</NotBuyable>
+		<APBonus>2</APBonus>
+		<HearingRangeBonus>2</HearingRangeBonus>
+		<DayVisionRangeBonus>1</DayVisionRangeBonus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2454</uiIndex>
+		<szItemName>Guy Fawks</szItemName>
+		<szLongItemName>Mask - Guy Fawks</szLongItemName>
+		<szItemDesc>History is a lie. Religion is a control system. Money is a hoax. Debt is a fiction. Media is manipulation. Goverment is a corporation. The system is a lie. And when exposing a crime is treated as committing a crime, you are ruled by criminals.</szItemDesc>
+		<szBRName>Guy Fawks</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>32768</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>396</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>15</ItemSize>
+		<usPrice>10</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<SciFi>1</SciFi>
+		<APBonus>5</APBonus>
+		<StealthBonus>7</StealthBonus>
+		<VisionRangeBonus>10</VisionRangeBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />

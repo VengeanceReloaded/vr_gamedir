@@ -255,4 +255,9 @@
 		<AmmoCaliber>.408</AmmoCaliber>
 		<BRCaliber>.408</BRCaliber>
 	</AMMO>
+	<AMMO>
+		<uiIndex>51</uiIndex>
+		<AmmoCaliber>Railgun Dart</AmmoCaliber>
+		<BRCaliber>Railgun Dart</BRCaliber>
+	</AMMO>
 </AMMOLIST>
