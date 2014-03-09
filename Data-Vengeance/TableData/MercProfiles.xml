@@ -9524,7 +9524,7 @@
 		<PANTS>GREENPANTS</PANTS>
 		<VEST>GREENVEST</VEST>
 		<SKIN>TANSKIN</SKIN>
-		<HAIR>BLACKHEAD</HAIR>
+		<HAIR>WHITEHEAD</HAIR>
 		<bSex>0</bSex>
 		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
@@ -12191,7 +12191,7 @@
 		<sSectorX>9</sSectorX>
 		<sSectorY>1</sSectorY>
 		<sSectorZ>0</sSectorZ>
-		<ubCivilianGroup>16</ubCivilianGroup>
+		<ubCivilianGroup>14</ubCivilianGroup>
 		<bTown>4</bTown>
 		<bTownAttachment>0</bTownAttachment>
 	</PROFILE>
@@ -17312,8 +17312,8 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>0</sSectorX>
-		<sSectorY>0</sSectorY>
+		<sSectorX>1</sSectorX>
+		<sSectorY>8</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>20</ubCivilianGroup>
 		<bTown>0</bTown>
@@ -17396,8 +17396,8 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>0</sSectorX>
-		<sSectorY>0</sSectorY>
+		<sSectorX>1</sSectorX>
+		<sSectorY>8</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>21</ubCivilianGroup>
 		<bTown>0</bTown>
@@ -19087,7 +19087,7 @@
 		<uiIndex>226</uiIndex>
 		<Type>1</Type>
 		<zName>Simon Grandee</zName>
-		<zNickname>Grand</zNickname>
+		<zNickname>Grandee</zNickname>
 		<ubFaceIndex>226</ubFaceIndex>
 		<usEyesX>14</usEyesX>
 		<usEyesY>5</usEyesY>
