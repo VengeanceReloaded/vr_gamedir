@@ -4321,7 +4321,7 @@
 		<ubBodyType>3</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
 		<bAttitude>3</bAttitude>
-		<bCharacterTrait>0</bCharacterTrait>
+		<bCharacterTrait>3</bCharacterTrait>
 		<bDisability>0</bDisability>
 		<ubNeedForSleep>6</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
@@ -4341,8 +4341,8 @@
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>10</bOldSkillTrait>
 		<bOldSkillTrait2>2</bOldSkillTrait2>
-		<bNewSkillTrait1>0</bNewSkillTrait1>
-		<bNewSkillTrait2>0</bNewSkillTrait2>
+		<bNewSkillTrait1>6</bNewSkillTrait1>
+		<bNewSkillTrait2>15</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
 		<bBuddy1>3</bBuddy1>
 		<bBuddy2>255</bBuddy2>
@@ -4993,7 +4993,7 @@
 		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
 		<bAttitude>3</bAttitude>
-		<bCharacterTrait>0</bCharacterTrait>
+		<bCharacterTrait>5</bCharacterTrait>
 		<bDisability>0</bDisability>
 		<ubNeedForSleep>6</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
@@ -5012,9 +5012,9 @@
 		<bExpLevel>1</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>11</bOldSkillTrait>
-		<bOldSkillTrait2>0</bOldSkillTrait2>
-		<bNewSkillTrait1>0</bNewSkillTrait1>
-		<bNewSkillTrait2>0</bNewSkillTrait2>
+		<bOldSkillTrait2>10</bOldSkillTrait2>
+		<bNewSkillTrait1>10</bNewSkillTrait1>
+		<bNewSkillTrait2>15</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
 		<bBuddy1>59</bBuddy1>
 		<bBuddy2>33</bBuddy2>
@@ -5076,8 +5076,8 @@
 		<bSex>1</bSex>
 		<ubBodyType>3</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
-		<bAttitude>3</bAttitude>
-		<bCharacterTrait>0</bCharacterTrait>
+		<bAttitude>0</bAttitude>
+		<bCharacterTrait>8</bCharacterTrait>
 		<bDisability>0</bDisability>
 		<ubNeedForSleep>6</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
@@ -5096,10 +5096,10 @@
 		<bExpLevel>5</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>10</bOldSkillTrait>
-		<bOldSkillTrait2>0</bOldSkillTrait2>
-		<bNewSkillTrait1>0</bNewSkillTrait1>
-		<bNewSkillTrait2>0</bNewSkillTrait2>
-		<bNewSkillTrait3>0</bNewSkillTrait3>
+		<bOldSkillTrait2>6</bOldSkillTrait2>
+		<bNewSkillTrait1>8</bNewSkillTrait1>
+		<bNewSkillTrait2>7</bNewSkillTrait2>
+		<bNewSkillTrait3>18</bNewSkillTrait3>
 		<bBuddy1>58</bBuddy1>
 		<bBuddy2>61</bBuddy2>
 		<bBuddy3>255</bBuddy3>
@@ -5412,8 +5412,8 @@
 		<bSex>0</bSex>
 		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
-		<bAttitude>3</bAttitude>
-		<bCharacterTrait>0</bCharacterTrait>
+		<bAttitude>0</bAttitude>
+		<bCharacterTrait>6</bCharacterTrait>
 		<bDisability>0</bDisability>
 		<ubNeedForSleep>5</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
@@ -5434,7 +5434,7 @@
 		<bOldSkillTrait>7</bOldSkillTrait>
 		<bOldSkillTrait2>7</bOldSkillTrait2>
 		<bNewSkillTrait1>21</bNewSkillTrait1>
-		<bNewSkillTrait2>0</bNewSkillTrait2>
+		<bNewSkillTrait2>17</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
 		<bBuddy1>25</bBuddy1>
 		<bBuddy2>61</bBuddy2>
