@@ -5621,8 +5621,8 @@
 		<bHatedTime4>0</bHatedTime4>
 		<bHated5>255</bHated5>
 		<bHatedTime5>0</bHatedTime5>
-		<bLearnToHate>255</bLearnToHate>
-		<bLearnToHateTime>0</bLearnToHateTime>
+		<bLearnToHate>2</bLearnToHate>
+		<bLearnToHateTime>5</bLearnToHateTime>
 		<sSalary>1600</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
@@ -6253,7 +6253,7 @@
 		<ubBodyType>1</ubBodyType>
 		<uiBodyTypeSubFlags>1</uiBodyTypeSubFlags>
 		<bAttitude>7</bAttitude>
-		<bCharacterTrait>0</bCharacterTrait>
+		<bCharacterTrait>12</bCharacterTrait>
 		<bDisability>0</bDisability>
 		<ubNeedForSleep>6</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
@@ -6273,8 +6273,8 @@
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>7</bOldSkillTrait>
 		<bOldSkillTrait2>2</bOldSkillTrait2>
-		<bNewSkillTrait1>0</bNewSkillTrait1>
-		<bNewSkillTrait2>0</bNewSkillTrait2>
+		<bNewSkillTrait1>6</bNewSkillTrait1>
+		<bNewSkillTrait2>2</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
 		<bBuddy1>25</bBuddy1>
 		<bBuddy2>255</bBuddy2>
