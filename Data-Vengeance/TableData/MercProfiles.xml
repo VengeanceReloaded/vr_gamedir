@@ -11190,21 +11190,21 @@
 	<PROFILE>
 		<uiIndex>132</uiIndex>
 		<Type>4</Type>
-		<zName>Jenny Walden</zName>
-		<zNickname>Jenny</zNickname>
+		<zName>Nurse Larissa</zName>
+		<zNickname>Larissa</zNickname>
 		<ubFaceIndex>132</ubFaceIndex>
-		<usEyesX>21</usEyesX>
-		<usEyesY>32</usEyesY>
-		<usMouthX>21</usMouthX>
-		<usMouthY>54</usMouthY>
+		<usEyesX>22</usEyesX>
+		<usEyesY>34</usEyesY>
+		<usMouthX>30</usMouthX>
+		<usMouthY>65</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
-		<PANTS>GREENPANTS</PANTS>
-		<VEST>GREENVEST</VEST>
+		<PANTS>BEIGEPANTS</PANTS>
+		<VEST>WHITEVEST</VEST>
 		<SKIN>PINKSKIN</SKIN>
-		<HAIR>REDHEAD</HAIR>
+		<HAIR>BROWNHEAD</HAIR>
 		<bSex>1</bSex>
 		<ubBodyType>13</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
