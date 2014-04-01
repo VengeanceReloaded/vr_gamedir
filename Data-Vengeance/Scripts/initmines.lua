@@ -54,7 +54,7 @@ calls to this script:
 math.randomseed( os.time() ); math.random(); math.random(); math.random()
 -- http://lua-users.org/wiki/MathLibraryTutorial
 
-MineType = { Silver = 0, Gold = 1 }
+MineType = { Silver = 0, Gold = 1, Oil = 2 }
 
 
 
@@ -106,12 +106,12 @@ function InitializeMines()
 
     local mines = 
 	{
-        -- San Mona
-        {
-            Location = "P13", Type = MineType.Gold,
-            MinimumProduction = 0,
-            AssociatedUnderground = { "D4-1", "D5-1" },
-        },
+        -- Palace //San Mona
+        --{
+            --Location = "P13", Type = MineType.Gold,
+            --MinimumProduction = 0,
+            --AssociatedUnderground = { "D4-1", "D5-1" },
+        --},
 
         -- Drassen
         {
@@ -129,24 +129,24 @@ function InitializeMines()
             Infectible = 1,
         },
 
-        -- Cambria
+        -- Melino //Cambria
         {
-            Location = "M10", Type = MineType.Silver,
+            Location = "M10", Type = MineType.Oil,
             MinimumProduction = 1500,
             AssociatedUnderground = { "H8-1", "H9-1" },
             Infectible = 1,
         },
 
-        -- Chitzena
+        -- Oro Negro //Chitzena
         {
-            Location = "B1", Type = MineType.Silver,
+            Location = "B1", Type = MineType.Oil,
             MinimumProduction = 500,
             AssociatedUnderground = { "B2-1" },
         },
 
-        -- Grumm
+        -- Doran //Grumm
         {
-            Location = "I3", Type = MineType.Gold,
+            Location = "I3", Type = MineType.Oil,
             MinimumProduction = 2000,
             AssociatedUnderground = { "H3-1", "I3-1", "I3-2", "H3-2", "H4-2" },
             Infectible = 1,
@@ -321,10 +321,10 @@ function InitializeHeadMiners(mines, currentMine)
 
     -- Matt is always head miner in Alma
     Matt.MineID = AlmaID
-	
+
 	-- Fred is always head miner in Drassen
 	Fred.MineID = DrassenID
-
+	
     -- Fred is the first miner the player encounters unless it's Alma
     --if currentMine ~= AlmaID then
         --Fred.MineID = currentMine
@@ -334,7 +334,7 @@ function InitializeHeadMiners(mines, currentMine)
     -- collect IDs of all producing mines except Alma mine and Fred's
     local MinesLeft = {}
     for i = 1, #mines do
-        if i ~= AlmaID and i ~= DrassenID then
+        if i ~= AlmaID and i ~= currentMine then
             if mines[i].MaxRemovalRate > 0 then
                 table.insert(MinesLeft, i)
             end
@@ -342,7 +342,6 @@ function InitializeHeadMiners(mines, currentMine)
     end
 
     -- randomly distribute miners
-	-- (oil rig chiefs)
     for i = 1, #headMinerInfo do
         if headMinerInfo[i].MineID == nil then
             local index = math.random(#MinesLeft)
