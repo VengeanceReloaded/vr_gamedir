@@ -159,8 +159,8 @@ function InitializeMines()
     -----------------------------------
 
     -- create variables for easy identification at quest related stuff
-    local DrassenMine = mines[2]
-    local AlmaMine = mines[3]
+    local DrassenMine = mines[1]
+    local AlmaMine = mines[2]
 
 
     -- more initialization
@@ -310,8 +310,8 @@ function InitializeHeadMiners(mines, currentMine)
     local Fred = headMinerInfo[1]
     local Matt = headMinerInfo[2]
 
-    local AlmaID = 3 -- cp. §1.1.
-	local DrassenID = 2 -- cp. §1.1.
+    local AlmaID = 2 -- cp. §1.1.
+	local DrassenID = 1 -- cp. §1.1.
 
     -- don't place miners until player enters a producing mine
     if mines[currentMine].MaxRemovalRate == 0 then
@@ -334,7 +334,7 @@ function InitializeHeadMiners(mines, currentMine)
     -- collect IDs of all producing mines except Alma mine and Fred's
     local MinesLeft = {}
     for i = 1, #mines do
-        if i ~= AlmaID and i ~= currentMine then
+        if i ~= AlmaID and i ~= DrassenID then
             if mines[i].MaxRemovalRate > 0 then
                 table.insert(MinesLeft, i)
             end
