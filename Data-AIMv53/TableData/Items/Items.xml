@@ -62387,4 +62387,33 @@ It is used to fully restore a person's Blood in the form of a blood transfusion.
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
+	<ITEM>
+		<uiIndex>2455</uiIndex>
+		<szItemName>Voodoo Doll</szItemName>
+		<szLongItemName>Voodoo Doll</szLongItemName>
+		<szItemDesc>It's an old Barbie doll with what looks like used up syringe needles pierced in all over. Its empty eye sockets look at you with contempt. Hope you didn't plan on sleeping today.</szItemDesc>
+		<szBRName>Voodoo Doll</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>386</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>14</ItemSize>
+		<usPrice>1</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<Damageable>1</Damageable>
+		<Sinks>0</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<NotBuyable>1</NotBuyable>
+		<SciFi>0</SciFi>
+		<APBonus>0</APBonus>
+		<DesertCamoBonus>0</DesertCamoBonus>
+		<HearingRangeBonus>0</HearingRangeBonus>
+		<VisionRangeBonus>0</VisionRangeBonus>
+		<DayVisionRangeBonus>0</DayVisionRangeBonus>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
 </ITEMLIST>
