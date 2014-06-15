@@ -557,15 +557,15 @@
 			<lVestStatus>100</lVestStatus>
 			<lLeftThigh>0</lLeftThigh>
 			<lLeftThighStatus>0</lLeftThighStatus>
-			<lRightThigh>1641</lRightThigh>
-			<lRightThighStatus>100</lRightThighStatus>
+			<lRightThigh>1091</lRightThigh>
+			<lRightThighStatus>95</lRightThighStatus>
 			<lCPack>0</lCPack>
 			<lCPackStatus>0</lCPackStatus>
 			<lBPack>0</lBPack>
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mGearKitName>HTH</mGearKitName>
+			<mGearKitName>H to H</mGearKitName>
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
 			<mHelmetStatus>99</mHelmetStatus>
@@ -581,8 +581,8 @@
 			<mBig2Quantity>1</mBig2Quantity>
 			<lVest>1090</lVest>
 			<lVestStatus>100</lVestStatus>
-			<lRightThigh>1641</lRightThigh>
-			<lRightThighStatus>100</lRightThighStatus>
+			<lRightThigh>1091</lRightThigh>
+			<lRightThighStatus>95</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
 			<mGearKitName>Gun Choice</mGearKitName>
@@ -591,18 +591,18 @@
 			<mHelmetStatus>99</mHelmetStatus>
 			<mVest>161</mVest>
 			<mVestStatus>100</mVestStatus>
-			<mWeapon>637</mWeapon>
+			<mWeapon>737</mWeapon>
 			<mWeaponStatus>92</mWeaponStatus>
-			<mBig0>527</mBig0>
+			<mBig0>576</mBig0>
 			<mBig0Status>100</mBig0Status>
-			<mBig0Quantity>1</mBig0Quantity>
+			<mBig0Quantity>2</mBig0Quantity>
 			<mBig1>54</mBig1>
 			<mBig1Status>98</mBig1Status>
 			<mBig1Quantity>1</mBig1Quantity>
 			<lVest>1090</lVest>
 			<lVestStatus>100</lVestStatus>
-			<lRightThigh>1641</lRightThigh>
-			<lRightThighStatus>100</lRightThighStatus>
+			<lRightThigh>1091</lRightThigh>
+			<lRightThighStatus>95</lRightThighStatus>
 			<lBPackStatus>100</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
@@ -624,10 +624,10 @@
 			<mBig3Quantity>1</mBig3Quantity>
 			<lVest>1090</lVest>
 			<lVestStatus>100</lVestStatus>
-			<lRightThigh>1641</lRightThigh>
-			<lRightThighStatus>100</lRightThighStatus>
+			<lRightThigh>1091</lRightThigh>
+			<lRightThighStatus>95</lRightThighStatus>
 			<lCPack>1098</lCPack>
-			<lCPackStatus>99</lCPackStatus>
+			<lCPackStatus>95</lCPackStatus>
 		</GEARKIT>
 		<GEARKIT>
 			<mPriceMod>50</mPriceMod>
@@ -638,7 +638,7 @@
 			<mVest>161</mVest>
 			<mVestStatus>100</mVestStatus>
 			<mWeapon>637</mWeapon>
-			<mWeaponStatus>92</mWeaponStatus>
+			<mWeaponStatus>96</mWeaponStatus>
 			<mBig0>529</mBig0>
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>2</mBig0Quantity>
@@ -659,7 +659,7 @@
 			<mSmall2>214</mSmall2>
 			<lVest>1090</lVest>
 			<lVestStatus>100</lVestStatus>
-			<lRightThigh>1641</lRightThigh>
+			<lRightThigh>1091</lRightThigh>
 			<lRightThighStatus>100</lRightThighStatus>
 			<lCPack>1098</lCPack>
 			<lCPackStatus>100</lCPackStatus>
@@ -3784,25 +3784,6 @@
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
-			<mGearKitName>Squadleader</mGearKitName>
-			<mAbsolutePrice>-1</mAbsolutePrice>
-			<mHelmet>176</mHelmet>
-			<mHelmetStatus>98</mHelmetStatus>
-			<mVest>161</mVest>
-			<mVestStatus>98</mVestStatus>
-			<mWeapon>671</mWeapon>
-			<mWeaponStatus>92</mWeaponStatus>
-			<mBig0>531</mBig0>
-			<mBig0Quantity>1</mBig0Quantity>
-			<mBig1>210</mBig1>
-			<mBig1Quantity>1</mBig1Quantity>
-			<mBig2>1625</mBig2>
-			<mBig2Quantity>1</mBig2Quantity>
-			<lVest>1090</lVest>
-			<lVestStatus>98</lVestStatus>
-			<lRightThigh>1091</lRightThigh>
-		</GEARKIT>
-		<GEARKIT>
 			<mGearKitName>Gun Choice</mGearKitName>
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
@@ -3810,7 +3791,7 @@
 			<mVest>161</mVest>
 			<mVestStatus>98</mVestStatus>
 			<mLeg>1625</mLeg>
-			<mLegStatus>100</mLegStatus>
+			<mLegStatus>89</mLegStatus>
 			<mWeapon>346</mWeapon>
 			<mWeaponStatus>92</mWeaponStatus>
 			<mBig0>74</mBig0>
@@ -3824,6 +3805,26 @@
 			<lVestStatus>98</lVestStatus>
 		</GEARKIT>
 		<GEARKIT>
+			<mGearKitName>Squadleader</mGearKitName>
+			<mAbsolutePrice>-1</mAbsolutePrice>
+			<mHelmet>176</mHelmet>
+			<mHelmetStatus>98</mHelmetStatus>
+			<mVest>161</mVest>
+			<mVestStatus>98</mVestStatus>
+			<mLeg>1625</mLeg>
+			<mLegStatus>89</mLegStatus>
+			<mWeapon>671</mWeapon>
+			<mWeaponStatus>92</mWeaponStatus>
+			<mBig0>531</mBig0>
+			<mBig0Quantity>1</mBig0Quantity>
+			<mBig1>210</mBig1>
+			<mBig1Quantity>1</mBig1Quantity>
+			<mBig2>211</mBig2>
+			<lVest>1090</lVest>
+			<lVestStatus>98</lVestStatus>
+			<lRightThigh>1091</lRightThigh>
+		</GEARKIT>
+		<GEARKIT>
 			<mGearKitName>Breach</mGearKitName>
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>293</mHelmet>
@@ -3831,7 +3832,7 @@
 			<mVest>295</mVest>
 			<mVestStatus>98</mVestStatus>
 			<mLeg>1625</mLeg>
-			<mLegStatus>100</mLegStatus>
+			<mLegStatus>91</mLegStatus>
 			<mWeapon>343</mWeapon>
 			<mWeaponStatus>92</mWeaponStatus>
 			<mBig0>621</mBig0>
@@ -3867,7 +3868,7 @@
 			<mVest>295</mVest>
 			<mVestStatus>98</mVestStatus>
 			<mLeg>294</mLeg>
-			<mLegStatus>91</mLegStatus>
+			<mLegStatus>95</mLegStatus>
 			<mWeapon>671</mWeapon>
 			<mWeaponStatus>100</mWeaponStatus>
 			<mBig0>533</mBig0>
@@ -4563,9 +4564,9 @@
 			<mBig1Status>100</mBig1Status>
 			<mBig1Quantity>3</mBig1Quantity>
 			<mBig1Drop>0</mBig1Drop>
-			<mBig2>203</mBig2>
-			<mBig2Status>100</mBig2Status>
-			<mBig2Quantity>1</mBig2Quantity>
+			<mBig2>0</mBig2>
+			<mBig2Status>0</mBig2Status>
+			<mBig2Quantity>0</mBig2Quantity>
 			<mBig2Drop>0</mBig2Drop>
 			<mBig3>204</mBig3>
 			<mBig3Status>100</mBig3Status>
@@ -4618,7 +4619,11 @@
 			<mBig1>94</mBig1>
 			<mBig1Quantity>3</mBig1Quantity>
 			<mBig2>151</mBig2>
-			<mBig3>151</mBig3>
+			<mBig2Quantity>1</mBig2Quantity>
+			<mBig3>204</mBig3>
+			<mBig3Quantity>1</mBig3Quantity>
+			<mSmall0>151</mSmall0>
+			<mSmall0Quantity>1</mSmall0Quantity>
 			<lVest>1089</lVest>
 			<lCPack>1098</lCPack>
 		</GEARKIT>
@@ -4633,7 +4638,10 @@
 			<mBig0Quantity>3</mBig0Quantity>
 			<mBig1>594</mBig1>
 			<mBig2>419</mBig2>
-			<mBig3>994</mBig3>
+			<mBig3>204</mBig3>
+			<mBig3Quantity>1</mBig3Quantity>
+			<mSmall0>994</mSmall0>
+			<mSmall0Quantity>1</mSmall0Quantity>
 			<lVest>1089</lVest>
 			<lRightThigh>1098</lRightThigh>
 		</GEARKIT>
@@ -4645,11 +4653,15 @@
 			<mBig0>114</mBig0>
 			<mBig0Quantity>10</mBig0Quantity>
 			<mBig1>210</mBig1>
+			<mBig1Quantity>1</mBig1Quantity>
 			<mBig2>211</mBig2>
-			<mBig3>131</mBig3>
-			<mBig3Quantity>2</mBig3Quantity>
-			<mSmall0>299</mSmall0>
+			<mBig2Quantity>1</mBig2Quantity>
+			<mBig3>204</mBig3>
+			<mBig3Quantity>1</mBig3Quantity>
+			<mSmall0>131</mSmall0>
+			<mSmall0Quantity>2</mSmall0Quantity>
 			<mSmall1>243</mSmall1>
+			<mSmall1Quantity>1</mSmall1Quantity>
 			<lVest>1089</lVest>
 			<lRightThigh>1093</lRightThigh>
 		</GEARKIT>
@@ -4661,14 +4673,21 @@
 			<mVest>164</mVest>
 			<mLeg>170</mLeg>
 			<mWeapon>10</mWeapon>
-			<mBig0>407</mBig0>
-			<mBig0Quantity>3</mBig0Quantity>
-			<mBig1>207</mBig1>
+			<mBig0>207</mBig0>
+			<mBig0Quantity>1</mBig0Quantity>
+			<mBig1>407</mBig1>
+			<mBig1Quantity>3</mBig1Quantity>
 			<mBig2>203</mBig2>
+			<mBig2Quantity>1</mBig2Quantity>
 			<mBig3>204</mBig3>
+			<mBig3Quantity>1</mBig3Quantity>
 			<mSmall0>246</mSmall0>
+			<mSmall0Quantity>1</mSmall0Quantity>
 			<mSmall1>214</mSmall1>
+			<mSmall1Status>100</mSmall1Status>
+			<mSmall1Quantity>1</mSmall1Quantity>
 			<mSmall2>212</mSmall2>
+			<mSmall2Quantity>1</mSmall2Quantity>
 			<lVest>1086</lVest>
 			<lCPack>1098</lCPack>
 	</GEARKIT>
@@ -8471,117 +8490,34 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>58</mIndex>
-		<mName>Sandman</mName>
+		<mName>Carlos</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>176</mHelmet>
-			<mHelmetDrop>0</mHelmetDrop>
-			<mHelmetStatus>100</mHelmetStatus>
+			<mHelmetDrop>1</mHelmetDrop>
+			<mHelmetStatus>92</mHelmetStatus>
 			<mVest>161</mVest>
-			<mVestDrop>0</mVestDrop>
+			<mVestDrop>1</mVestDrop>
 			<mVestStatus>100</mVestStatus>
-			<mLeg>1619</mLeg>
+			<mLeg>0</mLeg>
 			<mLegDrop>0</mLegDrop>
-			<mLegStatus>100</mLegStatus>
-			<mWeapon>0</mWeapon>
-			<mWeaponDrop>0</mWeaponDrop>
-			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>720</mBig0>
+			<mLegStatus>0</mLegStatus>
+			<mWeapon>22</mWeapon>
+			<mWeaponDrop>1</mWeaponDrop>
+			<mWeaponStatus>80</mWeaponStatus>
+			<mBig0>94</mBig0>
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
 			<mBig0Drop>1</mBig0Drop>
-			<mBig1>508</mBig1>
-			<mBig1Status>100</mBig1Status>
-			<mBig1Quantity>2</mBig1Quantity>
+			<mBig1>0</mBig1>
+			<mBig1Status>0</mBig1Status>
+			<mBig1Quantity>0</mBig1Quantity>
 			<mBig1Drop>0</mBig1Drop>
-			<mBig2>1016</mBig2>
-			<mBig2Status>100</mBig2Status>
-			<mBig2Quantity>1</mBig2Quantity>
-			<mBig2Drop>1</mBig2Drop>
-			<mBig3>0</mBig3>
-			<mBig3Status>0</mBig3Status>
-			<mBig3Quantity>0</mBig3Quantity>
-			<mBig3Drop>0</mBig3Drop>
-			<mSmall0>320</mSmall0>
-			<mSmall0Status>100</mSmall0Status>
-			<mSmall0Quantity>1</mSmall0Quantity>
-			<mSmall1>0</mSmall1>
-			<mSmall1Status>0</mSmall1Status>
-			<mSmall1Quantity>0</mSmall1Quantity>
-			<mSmall2>0</mSmall2>
-			<mSmall2Status>0</mSmall2Status>
-			<mSmall2Quantity>0</mSmall2Quantity>
-			<mSmall3>0</mSmall3>
-			<mSmall3Status>0</mSmall3Status>
-			<mSmall3Quantity>0</mSmall3Quantity>
-			<mSmall4>0</mSmall4>
-			<mSmall4Status>0</mSmall4Status>
-			<mSmall4Quantity>0</mSmall4Quantity>
-			<mSmall5>0</mSmall5>
-			<mSmall5Status>0</mSmall5Status>
-			<mSmall5Quantity>0</mSmall5Quantity>
-			<mSmall6>0</mSmall6>
-			<mSmall6Status>0</mSmall6Status>
-			<mSmall6Quantity>0</mSmall6Quantity>
-			<mSmall7>0</mSmall7>
-			<mSmall7Status>0</mSmall7Status>
-			<mSmall7Quantity>0</mSmall7Quantity>
-			<lVest>1090</lVest>
-			<lVestStatus>100</lVestStatus>
-			<lLeftThigh>1093</lLeftThigh>
-			<lLeftThighStatus>100</lLeftThighStatus>
-			<lRightThigh>0</lRightThigh>
-			<lRightThighStatus>0</lRightThighStatus>
-			<lCPack>0</lCPack>
-			<lCPackStatus>0</lCPackStatus>
-			<lBPack>0</lBPack>
-			<lBPackStatus>0</lBPackStatus>
-		</GEARKIT>
-		<GEARKIT>
-			<mAbsolutePrice>-1</mAbsolutePrice>
-		</GEARKIT>
-		<GEARKIT>
-			<mAbsolutePrice>-1</mAbsolutePrice>
-		</GEARKIT>
-		<GEARKIT>
-			<mAbsolutePrice>-1</mAbsolutePrice>
-		</GEARKIT>
-		<GEARKIT>
-			<mAbsolutePrice>-1</mAbsolutePrice>
-	</GEARKIT>
-	</MERCGEAR>
-	<MERCGEAR>
-		<mIndex>59</mIndex>
-		<mName>Sparky</mName>
-		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
-			<mGearKitName />
-			<mAbsolutePrice>-1</mAbsolutePrice>
-			<mHelmet>177</mHelmet>
-			<mHelmetDrop>0</mHelmetDrop>
-			<mHelmetStatus>100</mHelmetStatus>
-			<mVest>164</mVest>
-			<mVestDrop>0</mVestDrop>
-			<mVestStatus>100</mVestStatus>
-			<mLeg>1783</mLeg>
-			<mLegDrop>0</mLegDrop>
-			<mLegStatus>100</mLegStatus>
-			<mWeapon>0</mWeapon>
-			<mWeaponDrop>0</mWeaponDrop>
-			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>22</mBig0>
-			<mBig0Status>100</mBig0Status>
-			<mBig0Quantity>1</mBig0Quantity>
-			<mBig0Drop>1</mBig0Drop>
-			<mBig1>203</mBig1>
-			<mBig1Status>100</mBig1Status>
-			<mBig1Quantity>1</mBig1Quantity>
-			<mBig1Drop>1</mBig1Drop>
-			<mBig2>94</mBig2>
-			<mBig2Status>100</mBig2Status>
-			<mBig2Quantity>2</mBig2Quantity>
+			<mBig2>0</mBig2>
+			<mBig2Status>0</mBig2Status>
+			<mBig2Quantity>0</mBig2Quantity>
 			<mBig2Drop>0</mBig2Drop>
 			<mBig3>0</mBig3>
 			<mBig3Status>0</mBig3Status>
@@ -8611,14 +8547,97 @@
 			<mSmall7>0</mSmall7>
 			<mSmall7Status>0</mSmall7Status>
 			<mSmall7Quantity>0</mSmall7Quantity>
-			<lVest>0</lVest>
-			<lVestStatus>0</lVestStatus>
+			<lVest>1090</lVest>
+			<lVestStatus>88</lVestStatus>
 			<lLeftThigh>0</lLeftThigh>
 			<lLeftThighStatus>0</lLeftThighStatus>
 			<lRightThigh>0</lRightThigh>
 			<lRightThighStatus>0</lRightThighStatus>
+			<lCPack>0</lCPack>
+			<lCPackStatus>0</lCPackStatus>
+			<lBPack>0</lBPack>
+			<lBPackStatus>0</lBPackStatus>
+		</GEARKIT>
+		<GEARKIT>
+			<mAbsolutePrice>-1</mAbsolutePrice>
+		</GEARKIT>
+		<GEARKIT>
+			<mAbsolutePrice>-1</mAbsolutePrice>
+		</GEARKIT>
+		<GEARKIT>
+			<mAbsolutePrice>-1</mAbsolutePrice>
+		</GEARKIT>
+		<GEARKIT>
+			<mAbsolutePrice>-1</mAbsolutePrice>
+	</GEARKIT>
+	</MERCGEAR>
+	<MERCGEAR>
+		<mIndex>59</mIndex>
+		<mName>Ira</mName>
+		<GEARKIT>
+			<mPriceMod>0</mPriceMod>
+			<mGearKitName />
+			<mAbsolutePrice>-1</mAbsolutePrice>
+			<mHelmet>176</mHelmet>
+			<mHelmetDrop>1</mHelmetDrop>
+			<mHelmetStatus>100</mHelmetStatus>
+			<mVest>0</mVest>
+			<mVestDrop>0</mVestDrop>
+			<mVestStatus>0</mVestStatus>
+			<mLeg>0</mLeg>
+			<mLegDrop>0</mLegDrop>
+			<mLegStatus>0</mLegStatus>
+			<mWeapon>5</mWeapon>
+			<mWeaponDrop>1</mWeaponDrop>
+			<mWeaponStatus>90</mWeaponStatus>
+			<mBig0>77</mBig0>
+			<mBig0Status>100</mBig0Status>
+			<mBig0Quantity>1</mBig0Quantity>
+			<mBig0Drop>1</mBig0Drop>
+			<mBig1>202</mBig1>
+			<mBig1Status>100</mBig1Status>
+			<mBig1Quantity>1</mBig1Quantity>
+			<mBig1Drop>1</mBig1Drop>
+			<mBig2>199</mBig2>
+			<mBig2Status>96</mBig2Status>
+			<mBig2Quantity>1</mBig2Quantity>
+			<mBig2Drop>1</mBig2Drop>
+			<mBig3>0</mBig3>
+			<mBig3Status>0</mBig3Status>
+			<mBig3Quantity>0</mBig3Quantity>
+			<mBig3Drop>0</mBig3Drop>
+			<mSmall0>0</mSmall0>
+			<mSmall0Status>0</mSmall0Status>
+			<mSmall0Quantity>0</mSmall0Quantity>
+			<mSmall1>0</mSmall1>
+			<mSmall1Status>0</mSmall1Status>
+			<mSmall1Quantity>0</mSmall1Quantity>
+			<mSmall2>0</mSmall2>
+			<mSmall2Status>0</mSmall2Status>
+			<mSmall2Quantity>0</mSmall2Quantity>
+			<mSmall3>0</mSmall3>
+			<mSmall3Status>0</mSmall3Status>
+			<mSmall3Quantity>0</mSmall3Quantity>
+			<mSmall4>0</mSmall4>
+			<mSmall4Status>0</mSmall4Status>
+			<mSmall4Quantity>0</mSmall4Quantity>
+			<mSmall5>0</mSmall5>
+			<mSmall5Status>0</mSmall5Status>
+			<mSmall5Quantity>0</mSmall5Quantity>
+			<mSmall6>0</mSmall6>
+			<mSmall6Status>0</mSmall6Status>
+			<mSmall6Quantity>0</mSmall6Quantity>
+			<mSmall7>0</mSmall7>
+			<mSmall7Status>0</mSmall7Status>
+			<mSmall7Quantity>0</mSmall7Quantity>
+			<lVest>1090</lVest>
+			<lVestStatus>75</lVestStatus>
+			<lLeftThigh>0</lLeftThigh>
+			<lLeftThighStatus>0</lLeftThighStatus>
+			<lRightThigh>1200</lRightThigh>
+			<lRightThighStatus>88</lRightThighStatus>
 			<lCPack>1098</lCPack>
-			<lCPackStatus>100</lCPackStatus>
+			<lCPackStatus>83</lCPackStatus>
 			<lBPack>0</lBPack>
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
@@ -8637,7 +8656,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>60</mIndex>
-		<mName>Frazzler</mName>
+		<mName>Dimitri</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -8648,27 +8667,27 @@
 			<mVest>161</mVest>
 			<mVestDrop>1</mVestDrop>
 			<mVestStatus>93</mVestStatus>
-			<mLeg>1783</mLeg>
+			<mLeg>0</mLeg>
 			<mLegDrop>0</mLegDrop>
-			<mLegStatus>99</mLegStatus>
-			<mWeapon>0</mWeapon>
+			<mLegStatus>0</mLegStatus>
+			<mWeapon>7</mWeapon>
 			<mWeaponDrop>1</mWeaponDrop>
 			<mWeaponStatus>95</mWeaponStatus>
-			<mBig0>6</mBig0>
-			<mBig0Status>86</mBig0Status>
+			<mBig0>87</mBig0>
+			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
 			<mBig0Drop>1</mBig0Drop>
 			<mBig1>38</mBig1>
 			<mBig1Status>100</mBig1Status>
 			<mBig1Quantity>2</mBig1Quantity>
 			<mBig1Drop>1</mBig1Drop>
-			<mBig2>297</mBig2>
-			<mBig2Status>100</mBig2Status>
-			<mBig2Quantity>1</mBig2Quantity>
-			<mBig2Drop>1</mBig2Drop>
-			<mBig3>314</mBig3>
-			<mBig3Status>89</mBig3Status>
-			<mBig3Quantity>1</mBig3Quantity>
+			<mBig2>0</mBig2>
+			<mBig2Status>0</mBig2Status>
+			<mBig2Quantity>0</mBig2Quantity>
+			<mBig2Drop>0</mBig2Drop>
+			<mBig3>0</mBig3>
+			<mBig3Status>0</mBig3Status>
+			<mBig3Quantity>0</mBig3Quantity>
 			<mBig3Drop>0</mBig3Drop>
 			<mSmall0>0</mSmall0>
 			<mSmall0Status>0</mSmall0Status>
@@ -8698,8 +8717,8 @@
 			<lVestStatus>81</lVestStatus>
 			<lLeftThigh>0</lLeftThigh>
 			<lLeftThighStatus>0</lLeftThighStatus>
-			<lRightThigh>1200</lRightThigh>
-			<lRightThighStatus>87</lRightThighStatus>
+			<lRightThigh>0</lRightThigh>
+			<lRightThighStatus>0</lRightThighStatus>
 			<lCPack>0</lCPack>
 			<lCPackStatus>0</lCPackStatus>
 			<lBPack>0</lBPack>
@@ -8720,7 +8739,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>61</mIndex>
-		<mName>TNT</mName>
+		<mName>Devin</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -8731,34 +8750,34 @@
 			<mVest>161</mVest>
 			<mVestDrop>1</mVestDrop>
 			<mVestStatus>81</mVestStatus>
-			<mLeg>1784</mLeg>
+			<mLeg>0</mLeg>
 			<mLegDrop>0</mLegDrop>
-			<mLegStatus>99</mLegStatus>
-			<mWeapon>0</mWeapon>
-			<mWeaponDrop>0</mWeaponDrop>
-			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>12</mBig0>
-			<mBig0Status>93</mBig0Status>
-			<mBig0Quantity>1</mBig0Quantity>
+			<mLegStatus>0</mLegStatus>
+			<mWeapon>12</mWeapon>
+			<mWeaponDrop>1</mWeaponDrop>
+			<mWeaponStatus>78</mWeaponStatus>
+			<mBig0>94</mBig0>
+			<mBig0Status>100</mBig0Status>
+			<mBig0Quantity>2</mBig0Quantity>
 			<mBig0Drop>1</mBig0Drop>
-			<mBig1>94</mBig1>
-			<mBig1Status>100</mBig1Status>
-			<mBig1Quantity>4</mBig1Quantity>
-			<mBig1Drop>1</mBig1Drop>
-			<mBig2>137</mBig2>
-			<mBig2Status>100</mBig2Status>
-			<mBig2Quantity>1</mBig2Quantity>
+			<mBig1>0</mBig1>
+			<mBig1Status>0</mBig1Status>
+			<mBig1Quantity>0</mBig1Quantity>
+			<mBig1Drop>0</mBig1Drop>
+			<mBig2>0</mBig2>
+			<mBig2Status>0</mBig2Status>
+			<mBig2Quantity>0</mBig2Quantity>
 			<mBig2Drop>0</mBig2Drop>
-			<mBig3>135</mBig3>
-			<mBig3Status>100</mBig3Status>
-			<mBig3Quantity>4</mBig3Quantity>
+			<mBig3>0</mBig3>
+			<mBig3Status>0</mBig3Status>
+			<mBig3Quantity>0</mBig3Quantity>
 			<mBig3Drop>0</mBig3Drop>
-			<mSmall0>223</mSmall0>
-			<mSmall0Status>98</mSmall0Status>
-			<mSmall0Quantity>1</mSmall0Quantity>
-			<mSmall1>215</mSmall1>
-			<mSmall1Status>87</mSmall1Status>
-			<mSmall1Quantity>1</mSmall1Quantity>
+			<mSmall0>0</mSmall0>
+			<mSmall0Status>0</mSmall0Status>
+			<mSmall0Quantity>0</mSmall0Quantity>
+			<mSmall1>0</mSmall1>
+			<mSmall1Status>0</mSmall1Status>
+			<mSmall1Quantity>0</mSmall1Quantity>
 			<mSmall2>0</mSmall2>
 			<mSmall2Status>0</mSmall2Status>
 			<mSmall2Quantity>0</mSmall2Quantity>
@@ -8777,14 +8796,14 @@
 			<mSmall7>0</mSmall7>
 			<mSmall7Status>0</mSmall7Status>
 			<mSmall7Quantity>0</mSmall7Quantity>
-			<lVest>1409</lVest>
+			<lVest>1083</lVest>
 			<lVestStatus>99</lVestStatus>
 			<lLeftThigh>0</lLeftThigh>
 			<lLeftThighStatus>0</lLeftThighStatus>
 			<lRightThigh>0</lRightThigh>
 			<lRightThighStatus>0</lRightThighStatus>
-			<lCPack>1098</lCPack>
-			<lCPackStatus>87</lCPackStatus>
+			<lCPack>0</lCPack>
+			<lCPackStatus>0</lCPackStatus>
 			<lBPack>0</lBPack>
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
@@ -8886,7 +8905,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>63</mIndex>
-		<mName>Cobra</mName>
+		<mName>Hamous</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -8894,27 +8913,27 @@
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
-			<mVest>1786</mVest>
+			<mVest>0</mVest>
 			<mVestDrop>0</mVestDrop>
-			<mVestStatus>99</mVestStatus>
-			<mLeg>1783</mLeg>
+			<mVestStatus>0</mVestStatus>
+			<mLeg>0</mLeg>
 			<mLegDrop>0</mLegDrop>
-			<mLegStatus>99</mLegStatus>
-			<mWeapon>0</mWeapon>
-			<mWeaponDrop>0</mWeaponDrop>
-			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>6</mBig0>
-			<mBig0Status>80</mBig0Status>
-			<mBig0Quantity>1</mBig0Quantity>
+			<mLegStatus>0</mLegStatus>
+			<mWeapon>5</mWeapon>
+			<mWeaponDrop>1</mWeaponDrop>
+			<mWeaponStatus>72</mWeaponStatus>
+			<mBig0>77</mBig0>
+			<mBig0Status>0</mBig0Status>
+			<mBig0Quantity>4</mBig0Quantity>
 			<mBig0Drop>1</mBig0Drop>
-			<mBig1>86</mBig1>
-			<mBig1Status>100</mBig1Status>
-			<mBig1Quantity>4</mBig1Quantity>
-			<mBig1Drop>1</mBig1Drop>
-			<mBig2>214</mBig2>
-			<mBig2Status>73</mBig2Status>
-			<mBig2Quantity>1</mBig2Quantity>
-			<mBig2Drop>1</mBig2Drop>
+			<mBig1>0</mBig1>
+			<mBig1Status>0</mBig1Status>
+			<mBig1Quantity>0</mBig1Quantity>
+			<mBig1Drop>0</mBig1Drop>
+			<mBig2>0</mBig2>
+			<mBig2Status>0</mBig2Status>
+			<mBig2Quantity>0</mBig2Quantity>
+			<mBig2Drop>0</mBig2Drop>
 			<mBig3>0</mBig3>
 			<mBig3Status>0</mBig3Status>
 			<mBig3Quantity>0</mBig3Quantity>
@@ -9052,20 +9071,20 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>65</mIndex>
-		<mName>Eagle</mName>
+		<mName>RPC65</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
-			<mHelmet>176</mHelmet>
+			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
-			<mHelmetStatus>100</mHelmetStatus>
-			<mVest>164</mVest>
+			<mHelmetStatus>0</mHelmetStatus>
+			<mVest>0</mVest>
 			<mVestDrop>0</mVestDrop>
-			<mVestStatus>100</mVestStatus>
-			<mLeg>1783</mLeg>
+			<mVestStatus>0</mVestStatus>
+			<mLeg>0</mLeg>
 			<mLegDrop>0</mLegDrop>
-			<mLegStatus>100</mLegStatus>
+			<mLegStatus>0</mLegStatus>
 			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>0</mWeaponStatus>
@@ -9085,12 +9104,12 @@
 			<mBig3Status>0</mBig3Status>
 			<mBig3Quantity>0</mBig3Quantity>
 			<mBig3Drop>0</mBig3Drop>
-			<mSmall0>2405</mSmall0>
-			<mSmall0Status>97</mSmall0Status>
-			<mSmall0Quantity>1</mSmall0Quantity>
-			<mSmall1>316</mSmall1>
-			<mSmall1Status>100</mSmall1Status>
-			<mSmall1Quantity>2</mSmall1Quantity>
+			<mSmall0>0</mSmall0>
+			<mSmall0Status>0</mSmall0Status>
+			<mSmall0Quantity>0</mSmall0Quantity>
+			<mSmall1>0</mSmall1>
+			<mSmall1Status>0</mSmall1Status>
+			<mSmall1Quantity>0</mSmall1Quantity>
 			<mSmall2>0</mSmall2>
 			<mSmall2Status>0</mSmall2Status>
 			<mSmall2Quantity>0</mSmall2Quantity>
@@ -9109,8 +9128,8 @@
 			<mSmall7>0</mSmall7>
 			<mSmall7Status>0</mSmall7Status>
 			<mSmall7Quantity>0</mSmall7Quantity>
-			<lVest>1790</lVest>
-			<lVestStatus>100</lVestStatus>
+			<lVest>0</lVest>
+			<lVestStatus>0</lVestStatus>
 			<lLeftThigh>0</lLeftThigh>
 			<lLeftThighStatus>0</lLeftThighStatus>
 			<lRightThigh>0</lRightThigh>
@@ -9143,12 +9162,12 @@
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
-			<mVest>1786</mVest>
+			<mVest>0</mVest>
 			<mVestDrop>0</mVestDrop>
-			<mVestStatus>99</mVestStatus>
-			<mLeg>1783</mLeg>
+			<mVestStatus>0</mVestStatus>
+			<mLeg>0</mLeg>
 			<mLegDrop>0</mLegDrop>
-			<mLegStatus>99</mLegStatus>
+			<mLegStatus>0</mLegStatus>
 			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>0</mWeaponStatus>
@@ -9226,12 +9245,12 @@
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
-			<mVest>1786</mVest>
+			<mVest>0</mVest>
 			<mVestDrop>0</mVestDrop>
-			<mVestStatus>76</mVestStatus>
-			<mLeg>1783</mLeg>
+			<mVestStatus>0</mVestStatus>
+			<mLeg>0</mLeg>
 			<mLegDrop>0</mLegDrop>
-			<mLegStatus>80</mLegStatus>
+			<mLegStatus>0</mLegStatus>
 			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>0</mWeaponStatus>
@@ -9301,31 +9320,31 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>68</mIndex>
-		<mName>Ilya</mName>
+		<mName>Iggy</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
-			<mHelmet>292</mHelmet>
+			<mHelmet>177</mHelmet>
 			<mHelmetDrop>1</mHelmetDrop>
-			<mHelmetStatus>99</mHelmetStatus>
-			<mVest>291</mVest>
+			<mHelmetStatus>98</mHelmetStatus>
+			<mVest>164</mVest>
 			<mVestDrop>1</mVestDrop>
-			<mVestStatus>98</mVestStatus>
-			<mLeg>1622</mLeg>
+			<mVestStatus>91</mVestStatus>
+			<mLeg>0</mLeg>
 			<mLegDrop>0</mLegDrop>
-			<mLegStatus>96</mLegStatus>
-			<mWeapon>0</mWeapon>
-			<mWeaponDrop>0</mWeaponDrop>
-			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>2403</mBig0>
-			<mBig0Status>98</mBig0Status>
+			<mLegStatus>0</mLegStatus>
+			<mWeapon>55</mWeapon>
+			<mWeaponDrop>1</mWeaponDrop>
+			<mWeaponStatus>97</mWeaponStatus>
+			<mBig0>111</mBig0>
+			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
-			<mBig0Drop>0</mBig0Drop>
-			<mBig1>0</mBig1>
-			<mBig1Status>0</mBig1Status>
-			<mBig1Quantity>0</mBig1Quantity>
-			<mBig1Drop>0</mBig1Drop>
+			<mBig0Drop>1</mBig0Drop>
+			<mBig1>112</mBig1>
+			<mBig1Status>100</mBig1Status>
+			<mBig1Quantity>1</mBig1Quantity>
+			<mBig1Drop>1</mBig1Drop>
 			<mBig2>0</mBig2>
 			<mBig2Status>0</mBig2Status>
 			<mBig2Quantity>0</mBig2Quantity>
@@ -9358,16 +9377,16 @@
 			<mSmall7>0</mSmall7>
 			<mSmall7Status>0</mSmall7Status>
 			<mSmall7Quantity>0</mSmall7Quantity>
-			<lVest>1090</lVest>
-			<lVestStatus>100</lVestStatus>
+			<lVest>1086</lVest>
+			<lVestStatus>99</lVestStatus>
 			<lLeftThigh>0</lLeftThigh>
 			<lLeftThighStatus>0</lLeftThighStatus>
 			<lRightThigh>0</lRightThigh>
 			<lRightThighStatus>0</lRightThighStatus>
 			<lCPack>0</lCPack>
 			<lCPackStatus>0</lCPackStatus>
-			<lBPack>0</lBPack>
-			<lBPackStatus>0</lBPackStatus>
+			<lBPack>1096</lBPack>
+			<lBPackStatus>98</lBPackStatus>
 		</GEARKIT>
 		<GEARKIT>
 			<mAbsolutePrice>-1</mAbsolutePrice>
@@ -9384,7 +9403,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>69</mIndex>
-		<mName>Fish</mName>
+		<mName>Vince</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -9392,12 +9411,12 @@
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
-			<mVest>1786</mVest>
+			<mVest>0</mVest>
 			<mVestDrop>0</mVestDrop>
-			<mVestStatus>99</mVestStatus>
-			<mLeg>1783</mLeg>
+			<mVestStatus>0</mVestStatus>
+			<mLeg>0</mLeg>
 			<mLegDrop>0</mLegDrop>
-			<mLegStatus>90</mLegStatus>
+			<mLegStatus>0</mLegStatus>
 			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>0</mWeaponStatus>
@@ -9409,9 +9428,9 @@
 			<mBig1Status>100</mBig1Status>
 			<mBig1Quantity>2</mBig1Quantity>
 			<mBig1Drop>1</mBig1Drop>
-			<mBig2>37</mBig2>
-			<mBig2Status>100</mBig2Status>
-			<mBig2Quantity>1</mBig2Quantity>
+			<mBig2>0</mBig2>
+			<mBig2Status>0</mBig2Status>
+			<mBig2Quantity>0</mBig2Quantity>
 			<mBig2Drop>0</mBig2Drop>
 			<mBig3>0</mBig3>
 			<mBig3Status>0</mBig3Status>
@@ -9441,7 +9460,7 @@
 			<mSmall7>0</mSmall7>
 			<mSmall7Status>0</mSmall7Status>
 			<mSmall7Quantity>0</mSmall7Quantity>
-			<lVest>1419</lVest>
+			<lVest>1176</lVest>
 			<lVestStatus>98</lVestStatus>
 			<lLeftThigh>0</lLeftThigh>
 			<lLeftThighStatus>0</lLeftThighStatus>
@@ -9467,23 +9486,23 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>70</mIndex>
-		<mName>Cyborg</mName>
+		<mName>Conrad</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
-			<mHelmet>810</mHelmet>
-			<mHelmetDrop>1</mHelmetDrop>
-			<mHelmetStatus>99</mHelmetStatus>
+			<mHelmet>0</mHelmet>
+			<mHelmetDrop>0</mHelmetDrop>
+			<mHelmetStatus>0</mHelmetStatus>
 			<mVest>164</mVest>
 			<mVestDrop>1</mVestDrop>
 			<mVestStatus>95</mVestStatus>
-			<mLeg>1616</mLeg>
+			<mLeg>0</mLeg>
 			<mLegDrop>0</mLegDrop>
-			<mLegStatus>97</mLegStatus>
-			<mWeapon>0</mWeapon>
-			<mWeaponDrop>0</mWeaponDrop>
-			<mWeaponStatus>0</mWeaponStatus>
+			<mLegStatus>0</mLegStatus>
+			<mWeapon>25</mWeapon>
+			<mWeaponDrop>1</mWeaponDrop>
+			<mWeaponStatus>84</mWeaponStatus>
 			<mBig0>92</mBig0>
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>2</mBig0Quantity>
@@ -9492,13 +9511,13 @@
 			<mBig1Status>100</mBig1Status>
 			<mBig1Quantity>1</mBig1Quantity>
 			<mBig1Drop>1</mBig1Drop>
-			<mBig2>614</mBig2>
-			<mBig2Status>96</mBig2Status>
-			<mBig2Quantity>1</mBig2Quantity>
-			<mBig2Drop>1</mBig2Drop>
-			<mBig3>1532</mBig3>
-			<mBig3Status>99</mBig3Status>
-			<mBig3Quantity>2</mBig3Quantity>
+			<mBig2>0</mBig2>
+			<mBig2Status>0</mBig2Status>
+			<mBig2Quantity>0</mBig2Quantity>
+			<mBig2Drop>0</mBig2Drop>
+			<mBig3>0</mBig3>
+			<mBig3Status>0</mBig3Status>
+			<mBig3Quantity>0</mBig3Quantity>
 			<mBig3Drop>0</mBig3Drop>
 			<mSmall0>0</mSmall0>
 			<mSmall0Status>0</mSmall0Status>
@@ -9550,29 +9569,29 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>71</mIndex>
-		<mName>Joey</mName>
+		<mName>RPC71</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
-			<mHelmet>176</mHelmet>
+			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
-			<mHelmetStatus>90</mHelmetStatus>
-			<mVest>161</mVest>
+			<mHelmetStatus>0</mHelmetStatus>
+			<mVest>0</mVest>
 			<mVestDrop>0</mVestDrop>
-			<mVestStatus>80</mVestStatus>
+			<mVestStatus>0</mVestStatus>
 			<mLeg>0</mLeg>
 			<mLegDrop>0</mLegDrop>
 			<mLegStatus>0</mLegStatus>
 			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>296</mBig0>
-			<mBig0Status>100</mBig0Status>
-			<mBig0Quantity>1</mBig0Quantity>
-			<mBig0Drop>1</mBig0Drop>
-			<mBig1>5</mBig1>
-			<mBig1Status>70</mBig1Status>
+			<mBig0>0</mBig0>
+			<mBig0Status>0</mBig0Status>
+			<mBig0Quantity>0</mBig0Quantity>
+			<mBig0Drop>0</mBig0Drop>
+			<mBig1>0</mBig1>
+			<mBig1Status>0</mBig1Status>
 			<mBig1Quantity>0</mBig1Quantity>
 			<mBig1Drop>0</mBig1Drop>
 			<mBig2>0</mBig2>
@@ -9583,9 +9602,9 @@
 			<mBig3Status>0</mBig3Status>
 			<mBig3Quantity>0</mBig3Quantity>
 			<mBig3Drop>0</mBig3Drop>
-			<mSmall0>77</mSmall0>
-			<mSmall0Status>100</mSmall0Status>
-			<mSmall0Quantity>1</mSmall0Quantity>
+			<mSmall0>0</mSmall0>
+			<mSmall0Status>0</mSmall0Status>
+			<mSmall0Quantity>0</mSmall0Quantity>
 			<mSmall1>0</mSmall1>
 			<mSmall1Status>0</mSmall1Status>
 			<mSmall1Quantity>0</mSmall1Quantity>
@@ -9609,8 +9628,8 @@
 			<mSmall7Quantity>0</mSmall7Quantity>
 			<lVest>0</lVest>
 			<lVestStatus>0</lVestStatus>
-			<lLeftThigh>1200</lLeftThigh>
-			<lLeftThighStatus>100</lLeftThighStatus>
+			<lLeftThigh>0</lLeftThigh>
+			<lLeftThighStatus>0</lLeftThighStatus>
 			<lRightThigh>0</lRightThigh>
 			<lRightThighStatus>0</lRightThighStatus>
 			<lCPack>0</lCPack>
@@ -9633,7 +9652,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>72</mIndex>
-		<mName>Gordon</mName>
+		<mName>Maddog</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -9641,17 +9660,100 @@
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
-			<mVest>1786</mVest>
+			<mVest>0</mVest>
 			<mVestDrop>0</mVestDrop>
-			<mVestStatus>99</mVestStatus>
-			<mLeg>1783</mLeg>
+			<mVestStatus>0</mVestStatus>
+			<mLeg>0</mLeg>
 			<mLegDrop>0</mLegDrop>
-			<mLegStatus>98</mLegStatus>
-			<mWeapon>0</mWeapon>
-			<mWeaponDrop>0</mWeaponDrop>
-			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>598</mBig0>
-			<mBig0Status>98</mBig0Status>
+			<mLegStatus>0</mLegStatus>
+			<mWeapon>33</mWeapon>
+			<mWeaponDrop>1</mWeaponDrop>
+			<mWeaponStatus>78</mWeaponStatus>
+			<mBig0>203</mBig0>
+			<mBig0Status>100</mBig0Status>
+			<mBig0Quantity>1</mBig0Quantity>
+			<mBig0Drop>1</mBig0Drop>
+			<mBig1>110</mBig1>
+			<mBig1Status>100</mBig1Status>
+			<mBig1Quantity>1</mBig1Quantity>
+			<mBig1Drop>1</mBig1Drop>
+			<mBig2>0</mBig2>
+			<mBig2Status>0</mBig2Status>
+			<mBig2Quantity>0</mBig2Quantity>
+			<mBig2Drop>0</mBig2Drop>
+			<mBig3>0</mBig3>
+			<mBig3Status>0</mBig3Status>
+			<mBig3Quantity>0</mBig3Quantity>
+			<mBig3Drop>0</mBig3Drop>
+			<mSmall0>0</mSmall0>
+			<mSmall0Status>0</mSmall0Status>
+			<mSmall0Quantity>0</mSmall0Quantity>
+			<mSmall1>0</mSmall1>
+			<mSmall1Status>0</mSmall1Status>
+			<mSmall1Quantity>0</mSmall1Quantity>
+			<mSmall2>0</mSmall2>
+			<mSmall2Status>0</mSmall2Status>
+			<mSmall2Quantity>0</mSmall2Quantity>
+			<mSmall3>0</mSmall3>
+			<mSmall3Status>0</mSmall3Status>
+			<mSmall3Quantity>0</mSmall3Quantity>
+			<mSmall4>0</mSmall4>
+			<mSmall4Status>0</mSmall4Status>
+			<mSmall4Quantity>0</mSmall4Quantity>
+			<mSmall5>0</mSmall5>
+			<mSmall5Status>0</mSmall5Status>
+			<mSmall5Quantity>0</mSmall5Quantity>
+			<mSmall6>0</mSmall6>
+			<mSmall6Status>0</mSmall6Status>
+			<mSmall6Quantity>0</mSmall6Quantity>
+			<mSmall7>0</mSmall7>
+			<mSmall7Status>0</mSmall7Status>
+			<mSmall7Quantity>0</mSmall7Quantity>
+			<lVest>1090</lVest>
+			<lVestStatus>76</lVestStatus>
+			<lLeftThigh>0</lLeftThigh>
+			<lLeftThighStatus>0</lLeftThighStatus>
+			<lRightThigh>0</lRightThigh>
+			<lRightThighStatus>0</lRightThighStatus>
+			<lCPack>1098</lCPack>
+			<lCPackStatus>81</lCPackStatus>
+			<lBPack>0</lBPack>
+			<lBPackStatus>0</lBPackStatus>
+		</GEARKIT>
+		<GEARKIT>
+			<mAbsolutePrice>-1</mAbsolutePrice>
+		</GEARKIT>
+		<GEARKIT>
+			<mAbsolutePrice>-1</mAbsolutePrice>
+		</GEARKIT>
+		<GEARKIT>
+			<mAbsolutePrice>-1</mAbsolutePrice>
+		</GEARKIT>
+		<GEARKIT>
+			<mAbsolutePrice>-1</mAbsolutePrice>
+	</GEARKIT>
+	</MERCGEAR>
+	<MERCGEAR>
+		<mIndex>73</mIndex>
+		<mName>Darrel</mName>
+		<GEARKIT>
+			<mPriceMod>0</mPriceMod>
+			<mGearKitName />
+			<mAbsolutePrice>-1</mAbsolutePrice>
+			<mHelmet>0</mHelmet>
+			<mHelmetDrop>0</mHelmetDrop>
+			<mHelmetStatus>0</mHelmetStatus>
+			<mVest>164</mVest>
+			<mVestDrop>0</mVestDrop>
+			<mVestStatus>100</mVestStatus>
+			<mLeg>0</mLeg>
+			<mLegDrop>0</mLegDrop>
+			<mLegStatus>0</mLegStatus>
+			<mWeapon>22</mWeapon>
+			<mWeaponDrop>1</mWeaponDrop>
+			<mWeaponStatus>79</mWeaponStatus>
+			<mBig0>95</mBig0>
+			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
 			<mBig0Drop>1</mBig0Drop>
 			<mBig1>0</mBig1>
@@ -9690,12 +9792,12 @@
 			<mSmall7>0</mSmall7>
 			<mSmall7Status>0</mSmall7Status>
 			<mSmall7Quantity>0</mSmall7Quantity>
-			<lVest>1419</lVest>
-			<lVestStatus>100</lVestStatus>
+			<lVest>1090</lVest>
+			<lVestStatus>62</lVestStatus>
 			<lLeftThigh>0</lLeftThigh>
 			<lLeftThighStatus>0</lLeftThighStatus>
-			<lRightThigh>0</lRightThigh>
-			<lRightThighStatus>0</lRightThighStatus>
+			<lRightThigh>1091</lRightThigh>
+			<lRightThighStatus>89</lRightThighStatus>
 			<lCPack>0</lCPack>
 			<lCPackStatus>0</lCPackStatus>
 			<lBPack>0</lBPack>
@@ -9715,32 +9817,32 @@
 	</GEARKIT>
 	</MERCGEAR>
 	<MERCGEAR>
-		<mIndex>73</mIndex>
-		<mName>Babyface</mName>
+		<mIndex>74</mIndex>
+		<mName>Perko</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
-			<mHelmet>180</mHelmet>
+			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
-			<mHelmetStatus>100</mHelmetStatus>
-			<mVest>167</mVest>
+			<mHelmetStatus>0</mHelmetStatus>
+			<mVest>161</mVest>
 			<mVestDrop>0</mVestDrop>
 			<mVestStatus>100</mVestStatus>
-			<mLeg>1783</mLeg>
+			<mLeg>0</mLeg>
 			<mLegDrop>0</mLegDrop>
-			<mLegStatus>100</mLegStatus>
-			<mWeapon>1480</mWeapon>
-			<mWeaponDrop>1</mWeaponDrop>
-			<mWeaponStatus>100</mWeaponStatus>
-			<mBig0>94</mBig0>
-			<mBig0Status>100</mBig0Status>
-			<mBig0Quantity>2</mBig0Quantity>
-			<mBig0Drop>0</mBig0Drop>
-			<mBig1>1863</mBig1>
-			<mBig1Status>99</mBig1Status>
-			<mBig1Quantity>1</mBig1Quantity>
-			<mBig1Drop>1</mBig1Drop>
+			<mLegStatus>0</mLegStatus>
+			<mWeapon>0</mWeapon>
+			<mWeaponDrop>0</mWeaponDrop>
+			<mWeaponStatus>0</mWeaponStatus>
+			<mBig0>54</mBig0>
+			<mBig0Status>95</mBig0Status>
+			<mBig0Quantity>1</mBig0Quantity>
+			<mBig0Drop>1</mBig0Drop>
+			<mBig1>0</mBig1>
+			<mBig1Status>0</mBig1Status>
+			<mBig1Quantity>0</mBig1Quantity>
+			<mBig1Drop>0</mBig1Drop>
 			<mBig2>0</mBig2>
 			<mBig2Status>0</mBig2Status>
 			<mBig2Quantity>0</mBig2Quantity>
@@ -9773,97 +9875,14 @@
 			<mSmall7>0</mSmall7>
 			<mSmall7Status>0</mSmall7Status>
 			<mSmall7Quantity>0</mSmall7Quantity>
-			<lVest>1416</lVest>
-			<lVestStatus>100</lVestStatus>
+			<lVest>0</lVest>
+			<lVestStatus>0</lVestStatus>
 			<lLeftThigh>0</lLeftThigh>
 			<lLeftThighStatus>0</lLeftThighStatus>
 			<lRightThigh>0</lRightThigh>
 			<lRightThighStatus>0</lRightThighStatus>
 			<lCPack>0</lCPack>
 			<lCPackStatus>0</lCPackStatus>
-			<lBPack>0</lBPack>
-			<lBPackStatus>0</lBPackStatus>
-		</GEARKIT>
-		<GEARKIT>
-			<mAbsolutePrice>-1</mAbsolutePrice>
-		</GEARKIT>
-		<GEARKIT>
-			<mAbsolutePrice>-1</mAbsolutePrice>
-		</GEARKIT>
-		<GEARKIT>
-			<mAbsolutePrice>-1</mAbsolutePrice>
-		</GEARKIT>
-		<GEARKIT>
-			<mAbsolutePrice>-1</mAbsolutePrice>
-	</GEARKIT>
-	</MERCGEAR>
-	<MERCGEAR>
-		<mIndex>74</mIndex>
-		<mName>Perko</mName>
-		<GEARKIT>
-			<mPriceMod>0</mPriceMod>
-			<mGearKitName />
-			<mAbsolutePrice>-1</mAbsolutePrice>
-			<mHelmet>0</mHelmet>
-			<mHelmetDrop>0</mHelmetDrop>
-			<mHelmetStatus>0</mHelmetStatus>
-			<mVest>161</mVest>
-			<mVestDrop>0</mVestDrop>
-			<mVestStatus>100</mVestStatus>
-			<mLeg>1783</mLeg>
-			<mLegDrop>0</mLegDrop>
-			<mLegStatus>90</mLegStatus>
-			<mWeapon>631</mWeapon>
-			<mWeaponDrop>0</mWeaponDrop>
-			<mWeaponStatus>100</mWeaponStatus>
-			<mBig0>204</mBig0>
-			<mBig0Status>100</mBig0Status>
-			<mBig0Quantity>1</mBig0Quantity>
-			<mBig0Drop>1</mBig0Drop>
-			<mBig1>203</mBig1>
-			<mBig1Status>100</mBig1Status>
-			<mBig1Quantity>1</mBig1Quantity>
-			<mBig1Drop>1</mBig1Drop>
-			<mBig2>0</mBig2>
-			<mBig2Status>0</mBig2Status>
-			<mBig2Quantity>0</mBig2Quantity>
-			<mBig2Drop>0</mBig2Drop>
-			<mBig3>0</mBig3>
-			<mBig3Status>0</mBig3Status>
-			<mBig3Quantity>0</mBig3Quantity>
-			<mBig3Drop>0</mBig3Drop>
-			<mSmall0>401</mSmall0>
-			<mSmall0Status>100</mSmall0Status>
-			<mSmall0Quantity>3</mSmall0Quantity>
-			<mSmall1>307</mSmall1>
-			<mSmall1Status>100</mSmall1Status>
-			<mSmall1Quantity>1</mSmall1Quantity>
-			<mSmall2>0</mSmall2>
-			<mSmall2Status>0</mSmall2Status>
-			<mSmall2Quantity>0</mSmall2Quantity>
-			<mSmall3>0</mSmall3>
-			<mSmall3Status>0</mSmall3Status>
-			<mSmall3Quantity>0</mSmall3Quantity>
-			<mSmall4>0</mSmall4>
-			<mSmall4Status>0</mSmall4Status>
-			<mSmall4Quantity>0</mSmall4Quantity>
-			<mSmall5>0</mSmall5>
-			<mSmall5Status>0</mSmall5Status>
-			<mSmall5Quantity>0</mSmall5Quantity>
-			<mSmall6>0</mSmall6>
-			<mSmall6Status>0</mSmall6Status>
-			<mSmall6Quantity>0</mSmall6Quantity>
-			<mSmall7>0</mSmall7>
-			<mSmall7Status>0</mSmall7Status>
-			<mSmall7Quantity>0</mSmall7Quantity>
-			<lVest>0</lVest>
-			<lVestStatus>0</lVestStatus>
-			<lLeftThigh>1091</lLeftThigh>
-			<lLeftThighStatus>100</lLeftThighStatus>
-			<lRightThigh>0</lRightThigh>
-			<lRightThighStatus>0</lRightThighStatus>
-			<lCPack>1097</lCPack>
-			<lCPackStatus>100</lCPackStatus>
 			<lBPack>0</lBPack>
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
@@ -10380,30 +10399,30 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>81</mIndex>
-		<mName>Soldier</mName>
+		<mName>Rat</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
-			<mHelmet>177</mHelmet>
+			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
-			<mHelmetStatus>100</mHelmetStatus>
-			<mVest>164</mVest>
+			<mHelmetStatus>0</mHelmetStatus>
+			<mVest>0</mVest>
 			<mVestDrop>0</mVestDrop>
-			<mVestStatus>100</mVestStatus>
-			<mLeg>1785</mLeg>
+			<mVestStatus>0</mVestStatus>
+			<mLeg>0</mLeg>
 			<mLegDrop>0</mLegDrop>
-			<mLegStatus>100</mLegStatus>
+			<mLegStatus>0</mLegStatus>
 			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>25</mBig0>
-			<mBig0Status>95</mBig0Status>
+			<mBig0>320</mBig0>
+			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
-			<mBig0Drop>0</mBig0Drop>
-			<mBig1>1531</mBig1>
-			<mBig1Status>98</mBig1Status>
-			<mBig1Quantity>2</mBig1Quantity>
+			<mBig0Drop>1</mBig0Drop>
+			<mBig1>0</mBig1>
+			<mBig1Status>0</mBig1Status>
+			<mBig1Quantity>0</mBig1Quantity>
 			<mBig1Drop>0</mBig1Drop>
 			<mBig2>0</mBig2>
 			<mBig2Status>0</mBig2Status>
@@ -10413,12 +10432,12 @@
 			<mBig3Status>0</mBig3Status>
 			<mBig3Quantity>0</mBig3Quantity>
 			<mBig3Drop>0</mBig3Drop>
-			<mSmall0>92</mSmall0>
-			<mSmall0Status>100</mSmall0Status>
-			<mSmall0Quantity>3</mSmall0Quantity>
-			<mSmall1>93</mSmall1>
-			<mSmall1Status>100</mSmall1Status>
-			<mSmall1Quantity>3</mSmall1Quantity>
+			<mSmall0>0</mSmall0>
+			<mSmall0Status>0</mSmall0Status>
+			<mSmall0Quantity>0</mSmall0Quantity>
+			<mSmall1>0</mSmall1>
+			<mSmall1Status>0</mSmall1Status>
+			<mSmall1Quantity>0</mSmall1Quantity>
 			<mSmall2>0</mSmall2>
 			<mSmall2Status>0</mSmall2Status>
 			<mSmall2Quantity>0</mSmall2Quantity>
@@ -10437,14 +10456,14 @@
 			<mSmall7>0</mSmall7>
 			<mSmall7Status>0</mSmall7Status>
 			<mSmall7Quantity>0</mSmall7Quantity>
-			<lVest>1086</lVest>
-			<lVestStatus>100</lVestStatus>
+			<lVest>0</lVest>
+			<lVestStatus>0</lVestStatus>
 			<lLeftThigh>0</lLeftThigh>
 			<lLeftThighStatus>0</lLeftThighStatus>
 			<lRightThigh>0</lRightThigh>
 			<lRightThighStatus>0</lRightThighStatus>
-			<lCPack>1098</lCPack>
-			<lCPackStatus>100</lCPackStatus>
+			<lCPack>0</lCPack>
+			<lCPackStatus>0</lCPackStatus>
 			<lBPack>0</lBPack>
 			<lBPackStatus>0</lBPackStatus>
 		</GEARKIT>
@@ -10629,7 +10648,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>84</mIndex>
-		<mName>Conrad</mName>
+		<mName>Bob</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -10637,19 +10656,19 @@
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
-			<mVest>1786</mVest>
+			<mVest>0</mVest>
 			<mVestDrop>0</mVestDrop>
-			<mVestStatus>99</mVestStatus>
-			<mLeg>1783</mLeg>
+			<mVestStatus>0</mVestStatus>
+			<mLeg>0</mLeg>
 			<mLegDrop>0</mLegDrop>
-			<mLegStatus>99</mLegStatus>
+			<mLegStatus>0</mLegStatus>
 			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>300</mBig0>
-			<mBig0Status>100</mBig0Status>
-			<mBig0Quantity>1</mBig0Quantity>
-			<mBig0Drop>1</mBig0Drop>
+			<mBig0>0</mBig0>
+			<mBig0Status>0</mBig0Status>
+			<mBig0Quantity>0</mBig0Quantity>
+			<mBig0Drop>0</mBig0Drop>
 			<mBig1>0</mBig1>
 			<mBig1Status>0</mBig1Status>
 			<mBig1Quantity>0</mBig1Quantity>
@@ -11713,21 +11732,21 @@
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
-			<mHelmet>176</mHelmet>
+			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
-			<mHelmetStatus>98</mHelmetStatus>
-			<mVest>189</mVest>
-			<mVestDrop>1</mVestDrop>
-			<mVestStatus>97</mVestStatus>
-			<mLeg>1783</mLeg>
-			<mLegDrop>1</mLegDrop>
-			<mLegStatus>99</mLegStatus>
-			<mWeapon>1064</mWeapon>
+			<mHelmetStatus>0</mHelmetStatus>
+			<mVest>0</mVest>
+			<mVestDrop>0</mVestDrop>
+			<mVestStatus>0</mVestStatus>
+			<mLeg>0</mLeg>
+			<mLegDrop>0</mLegDrop>
+			<mLegStatus>0</mLegStatus>
+			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
-			<mWeaponStatus>99</mWeaponStatus>
-			<mBig0>1189</mBig0>
-			<mBig0Status>100</mBig0Status>
-			<mBig0Quantity>1</mBig0Quantity>
+			<mWeaponStatus>0</mWeaponStatus>
+			<mBig0>0</mBig0>
+			<mBig0Status>0</mBig0Status>
+			<mBig0Quantity>0</mBig0Quantity>
 			<mBig0Drop>0</mBig0Drop>
 			<mBig1>0</mBig1>
 			<mBig1Status>0</mBig1Status>
@@ -11741,15 +11760,15 @@
 			<mBig3Status>0</mBig3Status>
 			<mBig3Quantity>0</mBig3Quantity>
 			<mBig3Drop>0</mBig3Drop>
-			<mSmall0>352</mSmall0>
-			<mSmall0Status>100</mSmall0Status>
-			<mSmall0Quantity>2</mSmall0Quantity>
-			<mSmall1>210</mSmall1>
-			<mSmall1Status>100</mSmall1Status>
-			<mSmall1Quantity>1</mSmall1Quantity>
-			<mSmall2>212</mSmall2>
-			<mSmall2Status>98</mSmall2Status>
-			<mSmall2Quantity>1</mSmall2Quantity>
+			<mSmall0>0</mSmall0>
+			<mSmall0Status>0</mSmall0Status>
+			<mSmall0Quantity>0</mSmall0Quantity>
+			<mSmall1>0</mSmall1>
+			<mSmall1Status>0</mSmall1Status>
+			<mSmall1Quantity>0</mSmall1Quantity>
+			<mSmall2>0</mSmall2>
+			<mSmall2Status>0</mSmall2Status>
+			<mSmall2Quantity>0</mSmall2Quantity>
 			<mSmall3>0</mSmall3>
 			<mSmall3Status>0</mSmall3Status>
 			<mSmall3Quantity>0</mSmall3Quantity>
@@ -11765,10 +11784,10 @@
 			<mSmall7>0</mSmall7>
 			<mSmall7Status>0</mSmall7Status>
 			<mSmall7Quantity>0</mSmall7Quantity>
-			<lVest>1090</lVest>
-			<lVestStatus>100</lVestStatus>
-			<lLeftThigh>1091</lLeftThigh>
-			<lLeftThighStatus>100</lLeftThighStatus>
+			<lVest>0</lVest>
+			<lVestStatus>0</lVestStatus>
+			<lLeftThigh>0</lLeftThigh>
+			<lLeftThighStatus>0</lLeftThighStatus>
 			<lRightThigh>0</lRightThigh>
 			<lRightThighStatus>0</lRightThighStatus>
 			<lCPack>0</lCPack>
@@ -11978,7 +11997,7 @@
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
 			<mBig0Drop>1</mBig0Drop>
-			<mBig1>258</mBig1>
+			<mBig1>245</mBig1>
 			<mBig1Status>100</mBig1Status>
 			<mBig1Quantity>1</mBig1Quantity>
 			<mBig1Drop>1</mBig1Drop>
@@ -12040,7 +12059,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>101</mIndex>
-		<mName>Bubba</mName>
+		<mName>Fatima</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -12057,10 +12076,10 @@
 			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>299</mBig0>
-			<mBig0Status>100</mBig0Status>
-			<mBig0Quantity>1</mBig0Quantity>
-			<mBig0Drop>1</mBig0Drop>
+			<mBig0>0</mBig0>
+			<mBig0Status>0</mBig0Status>
+			<mBig0Quantity>0</mBig0Quantity>
+			<mBig0Drop>0</mBig0Drop>
 			<mBig1>0</mBig1>
 			<mBig1Status>0</mBig1Status>
 			<mBig1Quantity>0</mBig1Quantity>
@@ -12206,7 +12225,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>103</mIndex>
-		<mName>Bullet</mName>
+		<mName>Gordon</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -12221,16 +12240,16 @@
 			<mLegDrop>0</mLegDrop>
 			<mLegStatus>0</mLegStatus>
 			<mWeapon>0</mWeapon>
-			<mWeaponDrop>1</mWeaponDrop>
+			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>0</mWeaponStatus>
 			<mBig0>0</mBig0>
 			<mBig0Status>0</mBig0Status>
 			<mBig0Quantity>0</mBig0Quantity>
 			<mBig0Drop>0</mBig0Drop>
-			<mBig1>298</mBig1>
-			<mBig1Status>100</mBig1Status>
-			<mBig1Quantity>1</mBig1Quantity>
-			<mBig1Drop>1</mBig1Drop>
+			<mBig1>0</mBig1>
+			<mBig1Status>0</mBig1Status>
+			<mBig1Quantity>0</mBig1Quantity>
+			<mBig1Drop>0</mBig1Drop>
 			<mBig2>0</mBig2>
 			<mBig2Status>0</mBig2Status>
 			<mBig2Quantity>0</mBig2Quantity>
@@ -22620,7 +22639,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>202</mIndex>
-		<mName>Dwight</mName>
+		<mName />
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -22634,12 +22653,12 @@
 			<mLeg>0</mLeg>
 			<mLegDrop>0</mLegDrop>
 			<mLegStatus>0</mLegStatus>
-			<mWeapon>2424</mWeapon>
+			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
-			<mWeaponStatus>100</mWeaponStatus>
-			<mBig0>219</mBig0>
-			<mBig0Status>200</mBig0Status>
-			<mBig0Quantity>1</mBig0Quantity>
+			<mWeaponStatus>0</mWeaponStatus>
+			<mBig0>0</mBig0>
+			<mBig0Status>0</mBig0Status>
+			<mBig0Quantity>0</mBig0Quantity>
 			<mBig0Drop>0</mBig0Drop>
 			<mBig1>0</mBig1>
 			<mBig1Status>0</mBig1Status>
@@ -22703,7 +22722,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>203</mIndex>
-		<mName>Rajiv</mName>
+		<mName />
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -22720,9 +22739,9 @@
 			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>219</mBig0>
-			<mBig0Status>400</mBig0Status>
-			<mBig0Quantity>1</mBig0Quantity>
+			<mBig0>0</mBig0>
+			<mBig0Status>0</mBig0Status>
+			<mBig0Quantity>0</mBig0Quantity>
 			<mBig0Drop>0</mBig0Drop>
 			<mBig1>0</mBig1>
 			<mBig1Status>0</mBig1Status>
