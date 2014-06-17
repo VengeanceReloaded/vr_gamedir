@@ -67,8 +67,8 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>13</uiIndex>
-		<AmmoCaliber>Napalm</AmmoCaliber>
-		<BRCaliber>Napalm</BRCaliber>
+		<AmmoCaliber>Monster</AmmoCaliber>
+		<BRCaliber>Monster</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>14</uiIndex>
@@ -142,8 +142,8 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>28</uiIndex>
-		<AmmoCaliber>12.5x35mm</AmmoCaliber>
-		<BRCaliber>12.5x35mm</BRCaliber>
+		<AmmoCaliber>12.3x50mm</AmmoCaliber>
+		<BRCaliber>12.3x50mm</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>29</uiIndex>
@@ -242,21 +242,34 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>48</uiIndex>
+		<AmmoCaliber>Cannon Ball</AmmoCaliber>
+		<BRCaliber>Cannon Ball</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>49</uiIndex>
+		<AmmoCaliber>Pepper Spray</AmmoCaliber>
+		<BRCaliber>Pepper Spray</BRCaliber>
+	</AMMO>
+<!-- ################################################################################################################ -->
+<!-- ############################## New Vengeance Reloaded calibers start here! ##################################### -->
+<!-- ################################################################################################################ -->	
+	<AMMO>
+		<uiIndex>101</uiIndex>
 		<AmmoCaliber>Bolt</AmmoCaliber>
 		<BRCaliber>Bolt</BRCaliber>
 	</AMMO>
 	<AMMO>
-		<uiIndex>49</uiIndex>
+		<uiIndex>102</uiIndex>
 		<AmmoCaliber>.22 LR</AmmoCaliber>
 		<BRCaliber>.22 LR</BRCaliber>
 	</AMMO>
 	<AMMO>
-		<uiIndex>50</uiIndex>
+		<uiIndex>103</uiIndex>
 		<AmmoCaliber>.408</AmmoCaliber>
 		<BRCaliber>.408</BRCaliber>
 	</AMMO>
 	<AMMO>
-		<uiIndex>51</uiIndex>
+		<uiIndex>104</uiIndex>
 		<AmmoCaliber>Railgun Dart</AmmoCaliber>
 		<BRCaliber>Railgun Dart</BRCaliber>
 	</AMMO>
