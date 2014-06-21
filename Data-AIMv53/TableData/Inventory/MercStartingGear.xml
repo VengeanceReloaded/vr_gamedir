@@ -4017,7 +4017,7 @@
 			<mVest>295</mVest>
 			<mVestDrop>1</mVestDrop>
 			<mVestStatus>98</mVestStatus>
-			<mWeapon>2382</mWeapon>
+			<mWeapon>0</mWeapon>
 			<mWeaponDrop>1</mWeaponDrop>
 			<mWeaponStatus>89</mWeaponStatus>
 			<mBig0>94</mBig0>
@@ -23205,7 +23205,7 @@
 			<lLeftThighStatus>0</lLeftThighStatus>
 			<lRightThigh>1082</lRightThigh>
 			<lRightThighStatus>97</lRightThighStatus>
-			<lCPack>1817</lCPack>
+			<lCPack>0</lCPack>
 			<lCPackStatus>95</lCPackStatus>
 			<lBPack>0</lBPack>
 			<lBPackStatus>100</lBPackStatus>
@@ -23236,11 +23236,11 @@
 			<mSmall6>205</mSmall6>
 			<mSmall6Status>90</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<lVest>1879</lVest>
+			<lVest>2636</lVest>
 			<lVestStatus>95</lVestStatus>
 			<lRightThigh>1082</lRightThigh>
 			<lRightThighStatus>99</lRightThighStatus>
-			<lCPack>1817</lCPack>
+			<lCPack>2665</lCPack>
 			<lCPackStatus>99</lCPackStatus>
 			<lBPackStatus>100</lBPackStatus>
 		</GEARKIT>
@@ -23270,11 +23270,11 @@
 			<mSmall6>205</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<lVest>1879</lVest>
+			<lVest>2636</lVest>
 			<lVestStatus>97</lVestStatus>
 			<lRightThigh>1082</lRightThigh>
 			<lRightThighStatus>99</lRightThighStatus>
-			<lCPack>1817</lCPack>
+			<lCPack>2665</lCPack>
 			<lCPackStatus>99</lCPackStatus>
 			<lBPackStatus>100</lBPackStatus>
 		</GEARKIT>
@@ -23304,7 +23304,7 @@
 			<mSmall6>205</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<lVest>1879</lVest>
+			<lVest>2636</lVest>
 			<lVestStatus>99</lVestStatus>
 			<lRightThigh>1082</lRightThigh>
 			<lRightThighStatus>99</lRightThighStatus>
@@ -23338,11 +23338,11 @@
 			<mSmall6>205</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>1</mSmall6Quantity>
-			<lVest>1879</lVest>
+			<lVest>2636</lVest>
 			<lVestStatus>99</lVestStatus>
 			<lRightThigh>1082</lRightThigh>
 			<lRightThighStatus>99</lRightThighStatus>
-			<lCPack>1817</lCPack>
+			<lCPack>2665</lCPack>
 			<lCPackStatus>99</lCPackStatus>
 	</GEARKIT>
 	</MERCGEAR>
