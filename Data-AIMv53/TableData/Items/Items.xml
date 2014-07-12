@@ -60635,7 +60635,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2611</uiIndex>
-		<szItemName>White Coat</szItemName>
+		<szItemName>Lab Coat</szItemName>
 		<szLongItemName>White Lab Coat</szLongItemName>
 		<szItemDesc>Typical working outfit for lab assistants, scientists or doctors.</szItemDesc>
 		<szBRName>White Lab Coat</szBRName>
@@ -62569,7 +62569,7 @@
 		<uiIndex>2703</uiIndex>
 		<szItemName>Sun Glasses</szItemName>
 		<szLongItemName>Sun Glasses</szLongItemName>
-		<szItemDesc>What is real? How do you define real?. Otherwise, pretty expensive sun glasses.</szItemDesc>
+		<szItemDesc>What is real? How do you define real? Otherwise, pretty expensive sun glasses.</szItemDesc>
 		<szBRName>Sun Glasses</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>32768</usItemClass>
@@ -68131,7 +68131,29 @@
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
-
+	<ITEM>
+		<uiIndex>2972</uiIndex>
+		<szItemName>Transfusion Bag</szItemName>
+		<szLongItemName>Transfusion Bag</szLongItemName>
+		<szItemDesc>Blood transfusion is generally the process of receiving blood products into one's circulation intravenously. Transfusions are used for various medical conditions to replace lost components of the blood. Give blood, save a life. Universal blood: type 0-</szItemDesc>
+		<szBRName>Blood Transfusion Bag</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>5</ubGraphicType>
+		<ubGraphicNum>1055</ubGraphicNum>
+		<ubWeight>8</ubWeight>
+		<ItemSize>21</ItemSize>
+		<usPrice>5000</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>
+		<Sinks>1</Sinks>
+		<Attachment>1</Attachment>
+		<Medical>1</Medical>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
 
 <!-- ############################################# Unique Items ###################################################### -->
 	<ITEM>
@@ -68432,9 +68454,9 @@
 	<ITEM>
 		<uiIndex>3012</uiIndex>
 		<szItemName>Head</szItemName>
-		<szLongItemName>Morris's Head</szLongItemName>
+		<szLongItemName>Morris' Head</szLongItemName>
 		<szItemDesc>He was one of those people who where enormously improved by death.</szItemDesc>
-		<szBRName>Morris's Head</szBRName>
+		<szBRName>Morris' Head</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>7</ubGraphicType>
@@ -68867,9 +68889,9 @@
 	<ITEM>
 		<uiIndex>3029</uiIndex>
 		<szItemName>Head</szItemName>
-		<szLongItemName>Assange's Head</szLongItemName>
-		<szItemDesc>Assange will not try to change the system anymore. Better hurry up and cash in this head before it causes more problems, but then again nothing says 'welcome aboard!' like Assanges head on the job interview for FBI, CIA or the NSA!</szItemDesc>
-		<szBRName>Assange's Head</szBRName>
+		<szLongItemName>Mendax's Head</szLongItemName>
+		<szItemDesc>Mendax will not try to change the system anymore. Better hurry up and cash in this head before it causes more problems, but then again nothing says "welcome aboard!" like Mendax's head on the job interview for FBI, CIA or the NSA!</szItemDesc>
+		<szBRName>Mendax's Head</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>7</ubGraphicType>
@@ -69097,6 +69119,30 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>3041</uiIndex>
+		<szItemName>GPS Decoder</szItemName>
+		<szLongItemName>GPS Decoder</szLongItemName>
+		<szItemDesc>A laptop with an external GPS decoder and a portable printer, which is connected via LAN to the targeting system of the SCUD weapon system.</szItemDesc>
+		<szBRName>GPS Decoder</szBRName>
+		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubCursor>22</ubCursor>
+		<ubGraphicType>5</ubGraphicType>
+		<ubGraphicNum>1054</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>25</ItemSize>
+		<usPrice>1650</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<NotBuyable>1</NotBuyable>
+		<Unaerodynamic>1</Unaerodynamic>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
