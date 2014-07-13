@@ -917,96 +917,115 @@ Important: When USE_PROFILE_DATA_FROM_XML = FALSE, you can only remove mercs fro
 	</AIM>
 	<AIM>
 		<uiIndex>180</uiIndex>
+		<description>Weasel</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>181</uiIndex>
+		<description>It</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>182</uiIndex>
+		<description>Bernie</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>183</uiIndex>
+		<description>Pops</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>184</uiIndex>
+		<description>Wally</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>185</uiIndex>
+		<description>Eli</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>186</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Mitch</description>
+		<ProfilId>186</ProfilId>
+		<AimBioID>69</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>187</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Carp</description>
+		<ProfilId>187</ProfilId>
+		<AimBioID>70</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>188</uiIndex>
+		<description>Lance</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>189</uiIndex>
+		<description>Raffi</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>190</uiIndex>
+		<description>Wink</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>191</uiIndex>
+		<description>Speck</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>192</uiIndex>
+		<description>PGmale5</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>193</uiIndex>
+		<description>PGmale6</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>194</uiIndex>
+		<description>PGmale7</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>195</uiIndex>
+		<description>John</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>196</uiIndex>
+		<description>Elio</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>197</uiIndex>
+		<description>Juan</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>198</uiIndex>
+		<description>Wahan</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
@@ -1053,7 +1072,7 @@ Important: When USE_PROFILE_DATA_FROM_XML = FALSE, you can only remove mercs fro
 	<AIM>
 		<uiIndex>207</uiIndex>
 		<ProfilId>207</ProfilId>
-		<AimBioID>48</AimBioID>
+		<AimBioID>71</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>208</uiIndex>
@@ -1117,176 +1136,211 @@ Important: When USE_PROFILE_DATA_FROM_XML = FALSE, you can only remove mercs fro
 	</AIM>
 	<AIM>
 		<uiIndex>220</uiIndex>
+		<description>Postie</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>221</uiIndex>
+		<description>Reuban</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>222</uiIndex>
+		<description>Leon</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>223</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Gary</description>
+		<ProfilId>223</ProfilId>
+		<AimBioID>62</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>224</uiIndex>
+		<description>Sparky</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>225</uiIndex>
+		<description>Beth</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>226</uiIndex>
+		<description>Sam</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>227</uiIndex>
+		<description>Hurl</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>228</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Doc</description>
+		<ProfilId>228</ProfilId>
+		<AimBioID>68</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>229</uiIndex>
+		<description>Manuel</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>230</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Boss</description>
+		<ProfilId>230</ProfilId>
+		<AimBioID>48</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>231</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Snake</description>
+		<ProfilId>231</ProfilId>
+		<AimBioID>49</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>232</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Spam</description>
+		<ProfilId>232</ProfilId>
+		<AimBioID>50</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>233</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Spike</description>
+		<ProfilId>233</ProfilId>
+		<AimBioID>51</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>234</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Jimmy</description>
+		<ProfilId>234</ProfilId>
+		<AimBioID>52</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>235</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Leech</description>
+		<ProfilId>235</ProfilId>
+		<AimBioID>56</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>236</uiIndex>
+		<description>Bob</description>
 		<ProfilId>236</ProfilId>
 		<AimBioID>53</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>237</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Kelly</description>
+		<ProfilId>237</ProfilId>
+		<AimBioID>54</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>238</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Vinny</description>
+		<ProfilId>238</ProfilId>
+		<AimBioID>55</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>239</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Kaboom</description>
+		<ProfilId>239</ProfilId>
+		<AimBioID>57</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>240</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Bud</description>
+		<ProfilId>240</ProfilId>
+		<AimBioID>58</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>241</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Rusty</description>
+		<ProfilId>241</ProfilId>
+		<AimBioID>59</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>242</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Needle</description>
+		<ProfilId>242</ProfilId>
+		<AimBioID>60</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>243</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Screw</description>
+		<ProfilId>243</ProfilId>
+		<AimBioID>61</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>244</uiIndex>
+		<description>Elroy</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>245</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Mouse</description>
+		<ProfilId>245</ProfilId>
+		<AimBioID>64</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>246</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Hector</description>
+		<ProfilId>246</ProfilId>
+		<AimBioID>65</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>247</uiIndex>
+		<description>Rev</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>248</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Stella</description>
+		<ProfilId>248</ProfilId>
+		<AimBioID>66</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>249</uiIndex>
+		<description>Ears</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>250</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Moses</description>
+		<ProfilId>250</ProfilId>
+		<AimBioID>67</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>251</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<description>Smoke</description>
+		<ProfilId>251</ProfilId>
+		<AimBioID>63</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>252</uiIndex>
+		<description>Dyno</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>253</uiIndex>
+		<description>Turtle</description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>254</uiIndex>
+		<description></description>
 		<ProfilId>-1</ProfilId>
 		<AimBioID>-1</AimBioID>
 	</AIM>
