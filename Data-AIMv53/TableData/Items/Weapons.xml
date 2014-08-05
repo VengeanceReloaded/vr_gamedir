@@ -45,7 +45,7 @@
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-		<HeavyWeapon>0</HeavyWeapon>
+		<HeavyGun>0</HeavyGun>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1</uiIndex>
@@ -1460,9 +1460,6 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>38</uiIndex>
@@ -1476,9 +1473,6 @@
 		<ubAttackVolume>2</ubAttackVolume>
 		<sSound>152</sSound>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>39</uiIndex>
@@ -1487,9 +1481,6 @@
 		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>40</uiIndex>
@@ -1549,9 +1540,6 @@
 		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>43</uiIndex>
@@ -1567,9 +1555,6 @@
 		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>44</uiIndex>
@@ -1585,9 +1570,6 @@
 		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>45</uiIndex>
@@ -1603,9 +1585,6 @@
 		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>46</uiIndex>
@@ -1621,9 +1600,6 @@
 		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>47</uiIndex>
@@ -1639,9 +1615,6 @@
 		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>48</uiIndex>
@@ -1666,9 +1639,6 @@
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
 		<nAccuracy>60</nAccuracy>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>49</uiIndex>
@@ -1679,9 +1649,6 @@
 		<ubDeadliness>1</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>50</uiIndex>
@@ -1749,9 +1716,6 @@
 		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>53</uiIndex>
@@ -1767,9 +1731,6 @@
 		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>54</uiIndex>
@@ -1781,9 +1742,6 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>55</uiIndex>
@@ -1877,9 +1835,6 @@
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
 		<nAccuracy>40</nAccuracy>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>58</uiIndex>
@@ -1904,9 +1859,6 @@
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
 		<nAccuracy>40</nAccuracy>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>59</uiIndex>
@@ -1931,9 +1883,6 @@
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
 		<nAccuracy>40</nAccuracy>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>60</uiIndex>
@@ -1992,7 +1941,6 @@
 		<Handling>1</Handling>
 		<usOverheatingJamThreshold>60000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>60000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>62</uiIndex>
@@ -2006,13 +1954,10 @@
 		<ubAttackVolume>2</ubAttackVolume>
 		<sSound>152</sSound>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>63</uiIndex>
-		<szWeaponName>Deactivated Flamethrower</szWeaponName>
+		<szWeaponName>Flamethrower</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>16</ubCalibre>
@@ -2040,7 +1985,6 @@
 		<Handling>3</Handling>
 		<usOverheatingJamThreshold>60000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>60000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>64</uiIndex>
@@ -2051,9 +1995,6 @@
 		<ubDeadliness>4</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>65</uiIndex>
@@ -2258,9 +2199,6 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>298</uiIndex>
@@ -2272,9 +2210,6 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>299</uiIndex>
@@ -2286,9 +2221,6 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>300</uiIndex>
@@ -2300,9 +2232,6 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>301</uiIndex>
@@ -2314,9 +2243,6 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>330</uiIndex>
@@ -3165,9 +3091,6 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>594</uiIndex>
@@ -3179,9 +3102,6 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>595</uiIndex>
@@ -3193,9 +3113,6 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>596</uiIndex>
@@ -3209,9 +3126,6 @@
 		<ubAttackVolume>2</ubAttackVolume>
 		<sSound>152</sSound>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>597</uiIndex>
@@ -3225,9 +3139,6 @@
 		<ubAttackVolume>2</ubAttackVolume>
 		<sSound>152</sSound>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>598</uiIndex>
@@ -3239,9 +3150,6 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>599</uiIndex>
@@ -3253,9 +3161,6 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>600</uiIndex>
@@ -3267,9 +3172,6 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>601</uiIndex>
@@ -11928,9 +11830,6 @@
 		<ubDeadliness>4</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1053</uiIndex>
@@ -11944,9 +11843,6 @@
 		<ubAttackVolume>2</ubAttackVolume>
 		<sSound>152</sSound>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1054</uiIndex>
@@ -11958,9 +11854,6 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1055</uiIndex>
@@ -11972,9 +11865,6 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1064</uiIndex>
@@ -12995,9 +12885,6 @@
 		<ubDeadliness>4</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1332</uiIndex>
@@ -13151,20 +13038,6 @@
 		<usOverheatingSingleShotTemperature>150</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>1353</uiIndex>
-		<szWeaponName>Sam Garver Combat Knife</szWeaponName>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>1361</uiIndex>
-		<szWeaponName>MERC Umbrella</szWeaponName>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
 		<uiIndex>1522</uiIndex>
 		<szWeaponName>KAC Masterkey</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
@@ -13207,63 +13080,42 @@
 		<ubDeadliness>1</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1581</uiIndex>
 		<szWeaponName>Rifle Grenade Device</szWeaponName>
-		<ubWeaponClass>2</ubWeaponClass>
-		<ubWeaponType>3</ubWeaponType>
-		<ubCalibre>20</ubCalibre>
-		<ubReadyTime>2</ubReadyTime>
-		<ubShotsPer4Turns>16.78</ubShotsPer4Turns>
-		<ubBurstPenalty>7</ubBurstPenalty>
-		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>25</ubImpact>
-		<ubDeadliness>16</ubDeadliness>
-		<bAccuracy>4</bAccuracy>
-		<ubMagSize>30</ubMagSize>
-		<usRange>170</usRange>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>16</ubReadyTime>
+		<ubShotsPer4Turns>5.83</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>60</ubDeadliness>
+		<ubMagSize>1</ubMagSize>
+		<usRange>300</usRange>
 		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>40</BurstAniDelay>
-		<ubAttackVolume>60</ubAttackVolume>
-		<ubHitVolume>3</ubHitVolume>
-		<sSound>362</sSound>
-		<sBurstSound>51</sBurstSound>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>403</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<sReloadSound>101</sReloadSound>
-		<sLocknLoadSound>107</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
-		<bBurstAP>12</bBurstAP>
-		<bAutofireShotsPerFiveAP>3</bAutofireShotsPerFiveAP>
-		<APsToReload>20</APsToReload>
+		<APsToReload>32</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<AutoPenalty>8</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
-		<nAccuracy>29</nAccuracy>
-		<bRecoilX>4</bRecoilX>
-		<bRecoilY>10</bRecoilY>
-		<ubAimLevels>3</ubAimLevels>
-		<Handling>2</Handling>
-		<usOverheatingJamThreshold>20000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>4700</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>47</usOverheatingSingleShotTemperature>
+		<Handling>16</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>500</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1626</uiIndex>
 		<szWeaponName>Stun Gun</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
-		<ubShotsPer4Turns>15</ubShotsPer4Turns>
-		<ubImpact>14</ubImpact>
-		<ubDeadliness>1</ubDeadliness>
+		<ubShotsPer4Turns>12</ubShotsPer4Turns>
+		<ubImpact>4</ubImpact>
+		<ubDeadliness>0</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1627</uiIndex>
@@ -13286,34 +13138,26 @@
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
 		<usOverheatingJamThreshold>20000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1636</uiIndex>
 		<szWeaponName>Flashlight</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
-		<ubShotsPer4Turns>15</ubShotsPer4Turns>
-		<ubImpact>14</ubImpact>
-		<ubDeadliness>1</ubDeadliness>
+		<ubShotsPer4Turns>10</ubShotsPer4Turns>
+		<ubImpact>18</ubImpact>
+		<ubDeadliness>3</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1637</uiIndex>
 		<szWeaponName>Flashlight</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
-		<ubShotsPer4Turns>15</ubShotsPer4Turns>
-		<ubImpact>14</ubImpact>
-		<ubDeadliness>1</ubDeadliness>
+		<ubShotsPer4Turns>10</ubShotsPer4Turns>
+		<ubImpact>18</ubImpact>
+		<ubDeadliness>3</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1638</uiIndex>
@@ -13325,9 +13169,6 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1639</uiIndex>
@@ -13339,10 +13180,10 @@
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
+<!-- ################################################################################################################ -->
+<!-- ############################### New Vengeance Reloaded weapons start here! ##################################### -->
+<!-- ################################################################################################################ -->
 	<WEAPON>
 		<uiIndex>2001</uiIndex>
 		<szWeaponName>Flamethrower</szWeaponName>
