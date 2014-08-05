@@ -18273,7 +18273,7 @@
 		<uiIndex>204</uiIndex>
 		<Type>4</Type>
 		<zName>Stanley Reed</zName>
-		<zNickname>CIA Spook</zNickname>
+		<zNickname>Stanley</zNickname>
 		<ubFaceIndex>204</ubFaceIndex>
 		<usEyesX>22</usEyesX>
 		<usEyesY>24</usEyesY>
@@ -18283,10 +18283,10 @@
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
-		<PANTS>TANPANTS</PANTS>
-		<VEST>BLUEVEST</VEST>
+		<PANTS>BLACKPANTS</PANTS>
+		<VEST>WHITEVEST</VEST>
 		<SKIN>PINKSKIN</SKIN>
-		<HAIR>BLACKHEAD</HAIR>
+		<HAIR>WHITEHEAD</HAIR>
 		<bSex>0</bSex>
 		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
@@ -18357,7 +18357,7 @@
 		<uiIndex>205</uiIndex>
 		<Type>4</Type>
 		<zName>Dragon Komasto</zName>
-		<zNickname>TracOp</zNickname>
+		<zNickname>Dragon</zNickname>
 		<ubFaceIndex>205</ubFaceIndex>
 		<usEyesX>25</usEyesX>
 		<usEyesY>32</usEyesY>
@@ -18367,10 +18367,10 @@
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
-		<PANTS>TANPANTS</PANTS>
-		<VEST>BLUEVEST</VEST>
-		<SKIN>PINKSKIN</SKIN>
-		<HAIR>BLACKHEAD</HAIR>
+		<PANTS>GREENPANTS</PANTS>
+		<VEST>GREENVEST</VEST>
+		<SKIN>TANSKIN</SKIN>
+		<HAIR>BROWNHEAD</HAIR>
 		<bSex>0</bSex>
 		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>

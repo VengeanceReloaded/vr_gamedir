@@ -732,4 +732,14 @@ description		Optional and not used in game. Used to easily identify the person h
 		<uiIndex>201</uiIndex>
 		<Hidden>0</Hidden>
 	</NAME>
+	<!-- Stanley Reed -->
+	<NAME>
+		<uiIndex>204</uiIndex>
+		<Hidden>1</Hidden>
+	</NAME>
+	<!-- Dragon Komasto -->
+	<NAME>
+		<uiIndex>205</uiIndex>
+		<Hidden>1</Hidden>
+	</NAME>
 </HIDDENNAMES>
