@@ -3,7 +3,7 @@
 	<Data_Directory_1>Data-AIMv53</Data_Directory_1>
 
 	<!-- Use a working directory to make loading files faster, turn this off if you do a lot of edits by hand -->
-	<Use_Working_Directory>True</Use_Working_Directory>
+	<Use_Working_Directory>False</Use_Working_Directory>
 
 	<!-- The AP system used for displaying values in the XML-Editor -->
 	<AP_Maximum>100</AP_Maximum>
@@ -19,5 +19,4 @@
 	<GameDir_Italian_Path_1>C:\stuff\1.13\Development\Game Data\GameDir_LanguageSpecific\Italian_Version</GameDir_Italian_Path_1>
 	<GameDir_Chinese_Path_1>C:\stuff\1.13\Development\Game Data\GameDir_LanguageSpecific\Chinese_Version</GameDir_Chinese_Path_1>
 	<GameDir_Dutch_Path_1>C:\stuff\1.13\Development\Game Data\GameDir_LanguageSpecific\Dutch_Version</GameDir_Dutch_Path_1>
-	<GameDir_Taiwanese_Path_1>C:\stuff\1.13\Development\Game Data\GameDir_LanguageSpecific\Taiwanese_Version</GameDir_Taiwanese_Path_1>
 </XMLEditor>
