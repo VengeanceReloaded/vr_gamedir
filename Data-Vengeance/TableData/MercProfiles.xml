@@ -18283,10 +18283,10 @@
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
-		<PANTS>BLACKPANTS</PANTS>
+		<PANTS>BLUEPANTS</PANTS>
 		<VEST>WHITEVEST</VEST>
-		<SKIN>PINKSKIN</SKIN>
-		<HAIR>WHITEHEAD</HAIR>
+		<SKIN>TANSKIN</SKIN>
+		<HAIR>BLACKHEAD</HAIR>
 		<bSex>0</bSex>
 		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
@@ -18349,7 +18349,7 @@
 		<sSectorX>1</sSectorX>
 		<sSectorY>8</sSectorY>
 		<sSectorZ>0</sSectorZ>
-		<ubCivilianGroup>20</ubCivilianGroup>
+		<ubCivilianGroup>31</ubCivilianGroup>
 		<bTown>0</bTown>
 		<bTownAttachment>0</bTownAttachment>
 	</PROFILE>
@@ -18370,7 +18370,7 @@
 		<PANTS>GREENPANTS</PANTS>
 		<VEST>GREENVEST</VEST>
 		<SKIN>TANSKIN</SKIN>
-		<HAIR>BROWNHEAD</HAIR>
+		<HAIR>BLACKHEAD</HAIR>
 		<bSex>0</bSex>
 		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
@@ -18433,7 +18433,7 @@
 		<sSectorX>1</sSectorX>
 		<sSectorY>8</sSectorY>
 		<sSectorZ>0</sSectorZ>
-		<ubCivilianGroup>21</ubCivilianGroup>
+		<ubCivilianGroup>32</ubCivilianGroup>
 		<bTown>0</bTown>
 		<bTownAttachment>0</bTownAttachment>
 	</PROFILE>
