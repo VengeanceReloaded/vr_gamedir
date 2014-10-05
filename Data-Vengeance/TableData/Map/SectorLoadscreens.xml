@@ -112,7 +112,7 @@ INFO: Hight resolution loadscreens must be postfixed in the filesystem with _800
 		<szLocation>A9</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayOmerta</szDay>
+		<szDay>Loadscreens\LS_Shanty_street</szDay>
 		<szNight>Loadscreens\LS_NightOmerta</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>		
@@ -998,7 +998,7 @@ INFO: Hight resolution loadscreens must be postfixed in the filesystem with _800
 		<szLocation>G1</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayTown2</szDay>
+		<szDay>Loadscreens\LS_Decay_int</szDay>
 		<szNight>Loadscreens\LS_NightTown2</szNight>
 		<szDayAlt>Loadscreens\LS_DayTown1</szDayAlt>
 		<szNightAlt>Loadscreens\LS_NightTown1</szNightAlt>
