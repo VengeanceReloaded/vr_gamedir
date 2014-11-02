@@ -421,6 +421,8 @@
 				<file index="98">f_hay.sti</file>
 				<file index="99">f_corns.sti</file>
 				<file index="100">f_hays.sti</file>
+				<file index="104">sandbag.sti</file>
+				<file index="106">sandbags.sti</file>
 				<file index="109">m-furn4.sti</file>
 			</Files>
 		</Tileset>
@@ -851,6 +853,8 @@
 				<file index="90">damcars.sti</file>
 				<file index="98">furn_mix.sti</file>
 				<file index="100">furnmixs.sti</file>
+				<file index="104">sandbag.sti</file>
+				<file index="106">sandbags.sti</file>
 				<file index="107">workshop.sti</file>
 				<file index="108">jailstf2.sti</file>
 				<file index="109">sewfurn1.sti</file>
@@ -1003,11 +1007,13 @@
 				<file index="5">swampgr5.sti</file>
 				<file index="6">swampgr6.sti</file>
 				<file index="7">smpwater.sti</file>
+				<file index="12">sandbag.sti</file>
 				<file index="15">montrock.sti</file>
 				<file index="16">smprock.sti</file>
 				<file index="19">smpbush.sti</file>
 				<file index="20">montre1.sti</file>
 				<file index="21">montre2.sti</file>
+				<file index="24">sandbags.sti</file>
 				<file index="27">montrcks.sti</file>
 				<file index="28">smprocks.sti</file>
 				<file index="31">smpbushs.sti</file>
