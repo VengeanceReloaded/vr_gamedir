@@ -1,0 +1,18 @@
+<!--
+
+This file defines airports in the game.
+These airports can be used for sending paratroops
+
+Fields index:
+	airportIndex 			- it is UNIQUE number of the airport, unused :)
+	airportSectorX, airportSectorY,	- it's simple. Airport site coordinates.
+
+-->
+
+<AIRPORT_INFO>
+	<AIRPORT>
+		<airportIndex>1</airportIndex>
+		<airportSectorX>3</airportSectorX>
+		<airportSectorY>14</airportSectorY>
+	</AIRPORT>
+</AIRPORT_INFO>
