@@ -129,10 +129,10 @@ MouthY		 -  position of mouth Y (required)
 		<uiIndex>13</uiIndex>
 		<Name>CONRAD</Name>
 		<FaceIndex>70</FaceIndex>
-		<EyesX>7</EyesX>
+		<EyesX>4</EyesX>
 		<EyesY>7</EyesY>
-		<MouthX>10</MouthX>
-		<MouthY>23</MouthY>
+		<MouthX>5</MouthX>
+		<MouthY>25</MouthY>
 	</FACE>
 	<FACE>
 		<uiIndex>14</uiIndex>

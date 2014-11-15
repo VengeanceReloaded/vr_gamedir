@@ -6716,55 +6716,55 @@
 	<PROFILE>
 		<uiIndex>70</uiIndex>
 		<Type>3</Type>
-		<zName>Devon "Cyborg" Traiton</zName>
-		<zNickname>Cyborg</zNickname>
+		<zName>Lt. Conrad Gillitt</zName>
+		<zNickname>Conrad</zNickname>
 		<ubFaceIndex>70</ubFaceIndex>
-		<usEyesX>26</usEyesX>
-		<usEyesY>32</usEyesY>
-		<usMouthX>25</usMouthX>
-		<usMouthY>51</usMouthY>
+		<usEyesX>13</usEyesX>
+		<usEyesY>31</usEyesY>
+		<usMouthX>15</usMouthX>
+		<usMouthY>53</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
-		<PANTS>BEIGEPANTS</PANTS>
-		<VEST>BLACKSHIRT</VEST>
-		<SKIN>PINKSKIN</SKIN>
-		<HAIR>BROWNHEAD</HAIR>
-		<bSex>1</bSex>
-		<ubBodyType>3</ubBodyType>
+		<PANTS>GREENPANTS</PANTS>
+		<VEST>BROWNVEST</VEST>
+		<SKIN>TANSKIN</SKIN>
+		<HAIR>BLACKHEAD</HAIR>
+		<bSex>0</bSex>
+		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
-		<bAttitude>2</bAttitude>
-		<bCharacterTrait>0</bCharacterTrait>
-		<bDisability>0</bDisability>
-		<ubNeedForSleep>2</ubNeedForSleep>
+		<bAttitude>7</bAttitude>
+		<bCharacterTrait>4</bCharacterTrait>
+		<bDisability>4</bDisability>
+		<ubNeedForSleep>5</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>99</bLifeMax>
-		<bLife>50</bLife>
-		<bStrength>99</bStrength>
-		<bAgility>50</bAgility>
-		<bDexterity>99</bDexterity>
-		<bWisdom>99</bWisdom>
-		<bMarksmanship>99</bMarksmanship>
-		<bExplosive>1</bExplosive>
-		<bLeadership>1</bLeadership>
-		<bMedical>1</bMedical>
-		<bMechanical>1</bMechanical>
-		<bExpLevel>3</bExpLevel>
+		<bLifeMax>88</bLifeMax>
+		<bLife>88</bLife>
+		<bStrength>81</bStrength>
+		<bAgility>71</bAgility>
+		<bDexterity>86</bDexterity>
+		<bWisdom>88</bWisdom>
+		<bMarksmanship>96</bMarksmanship>
+		<bExplosive>69</bExplosive>
+		<bLeadership>56</bLeadership>
+		<bMedical>49</bMedical>
+		<bMechanical>22</bMechanical>
+		<bExpLevel>7</bExpLevel>
 		<bEvolution>0</bEvolution>
-		<bOldSkillTrait>7</bOldSkillTrait>
+		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>8</bOldSkillTrait2>
-		<bNewSkillTrait1>0</bNewSkillTrait1>
-		<bNewSkillTrait2>0</bNewSkillTrait2>
-		<bNewSkillTrait3>0</bNewSkillTrait3>
-		<bBuddy1>255</bBuddy1>
+		<bNewSkillTrait1>1</bNewSkillTrait1>
+		<bNewSkillTrait2>1</bNewSkillTrait2>
+		<bNewSkillTrait3>18</bNewSkillTrait3>
+		<bBuddy1>140</bBuddy1>
 		<bBuddy2>255</bBuddy2>
 		<bBuddy3>255</bBuddy3>
 		<bBuddy4>255</bBuddy4>
 		<bBuddy5>255</bBuddy5>
-		<bLearnToLike>255</bLearnToLike>
-		<bLearnToLikeTime>0</bLearnToLikeTime>
+		<bLearnToLike>30</bLearnToLike>
+		<bLearnToLikeTime>24</bLearnToLikeTime>
 		<bHated1>255</bHated1>
 		<bHatedTime1>0</bHatedTime1>
 		<bHated2>255</bHated2>
@@ -6775,27 +6775,38 @@
 		<bHatedTime4>0</bHatedTime4>
 		<bHated5>255</bHated5>
 		<bHatedTime5>0</bHatedTime5>
-		<bLearnToHate>255</bLearnToHate>
-		<bLearnToHateTime>0</bLearnToHateTime>
-		<sSalary>1500</sSalary>
+		<bLearnToHate>47</bLearnToHate>
+		<bLearnToHateTime>3</bLearnToHateTime>
+		<bRace>0</bRace>
+		<bNationality>16</bNationality>
+		<bAppearance>0</bAppearance>
+		<bAppearanceCareLevel>0</bAppearanceCareLevel>
+		<bRefinement>0</bRefinement>
+		<bRefinementCareLevel>0</bRefinementCareLevel>
+		<bHatedNationality>0</bHatedNationality>
+		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
+		<bRacist>0</bRacist>
+		<bSexist>1</bSexist>
+		<sSalary>5500</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
-		<usOptionalGearCost>25013</usOptionalGearCost>
-		<bArmourAttractiveness>30</bArmourAttractiveness>
-		<bMainGunAttractiveness>59</bMainGunAttractiveness>
+		<usOptionalGearCost>3129</usOptionalGearCost>
+		<bArmourAttractiveness>25</bArmourAttractiveness>
+		<bMainGunAttractiveness>31</bMainGunAttractiveness>
 		<fGoodGuy>0</fGoodGuy>
-		<usApproachFactorFriendly>20</usApproachFactorFriendly>
-		<usApproachFactorDirect>90</usApproachFactorDirect>
-		<usApproachFactorThreaten>150</usApproachFactorThreaten>
-		<usApproachFactorRecruit>40</usApproachFactorRecruit>
+		<usApproachFactorFriendly>30</usApproachFactorFriendly>
+		<usApproachFactorDirect>200</usApproachFactorDirect>
+		<usApproachFactorThreaten>160</usApproachFactorThreaten>
+		<usApproachFactorRecruit>110</usApproachFactorRecruit>
 		<sSectorX>4</sSectorX>
 		<sSectorY>11</sSectorY>
-		<sSectorZ>1</sSectorZ>
+		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>3</bTown>
-		<bTownAttachment>10</bTownAttachment>
+		<bTownAttachment>0</bTownAttachment>
+		<usBackground>70</usBackground>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>71</uiIndex>
