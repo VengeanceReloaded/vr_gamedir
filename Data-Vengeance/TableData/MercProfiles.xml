@@ -7903,48 +7903,48 @@
 	<PROFILE>
 		<uiIndex>84</uiIndex>
 		<Type>4</Type>
-		<zName>Lt. Conrad Gillitt</zName>
-		<zNickname>Conrad</zNickname>
+		<zName>Darrel Jr.</zName>
+		<zNickname>Darrel</zNickname>
 		<ubFaceIndex>84</ubFaceIndex>
-		<usEyesX>13</usEyesX>
-		<usEyesY>31</usEyesY>
-		<usMouthX>15</usMouthX>
-		<usMouthY>53</usMouthY>
+		<usEyesX>22</usEyesX>
+		<usEyesY>27</usEyesY>
+		<usMouthX>22</usMouthX>
+		<usMouthY>57</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
-		<uiBlinkFrequency>3000</uiBlinkFrequency>
+		<uiBlinkFrequency>1000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
-		<PANTS>GREENPANTS</PANTS>
-		<VEST>BROWNVEST</VEST>
+		<PANTS>JEANPANTS</PANTS>
+		<VEST>REDVEST</VEST>
 		<SKIN>TANSKIN</SKIN>
 		<HAIR>BLACKHEAD</HAIR>
 		<bSex>0</bSex>
 		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
-		<bAttitude>7</bAttitude>
-		<bCharacterTrait>4</bCharacterTrait>
-		<bDisability>4</bDisability>
-		<ubNeedForSleep>5</ubNeedForSleep>
+		<bAttitude>0</bAttitude>
+		<bCharacterTrait>6</bCharacterTrait>
+		<bDisability>0</bDisability>
+		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
-		<bDeathRate>101</bDeathRate>
-		<bLifeMax>88</bLifeMax>
-		<bLife>88</bLife>
-		<bStrength>81</bStrength>
-		<bAgility>71</bAgility>
-		<bDexterity>86</bDexterity>
-		<bWisdom>88</bWisdom>
-		<bMarksmanship>96</bMarksmanship>
-		<bExplosive>69</bExplosive>
-		<bLeadership>56</bLeadership>
-		<bMedical>49</bMedical>
-		<bMechanical>22</bMechanical>
-		<bExpLevel>7</bExpLevel>
+		<bDeathRate>0</bDeathRate>
+		<bLifeMax>85</bLifeMax>
+		<bLife>85</bLife>
+		<bStrength>78</bStrength>
+		<bAgility>75</bAgility>
+		<bDexterity>73</bDexterity>
+		<bWisdom>34</bWisdom>
+		<bMarksmanship>91</bMarksmanship>
+		<bExplosive>6</bExplosive>
+		<bLeadership>13</bLeadership>
+		<bMedical>12</bMedical>
+		<bMechanical>8</bMechanical>
+		<bExpLevel>3</bExpLevel>
 		<bEvolution>0</bEvolution>
-		<bOldSkillTrait>6</bOldSkillTrait>
-		<bOldSkillTrait2>8</bOldSkillTrait2>
-		<bNewSkillTrait1>1</bNewSkillTrait1>
-		<bNewSkillTrait2>1</bNewSkillTrait2>
-		<bNewSkillTrait3>18</bNewSkillTrait3>
+		<bOldSkillTrait>0</bOldSkillTrait>
+		<bOldSkillTrait2>0</bOldSkillTrait2>
+		<bNewSkillTrait1>0</bNewSkillTrait1>
+		<bNewSkillTrait2>0</bNewSkillTrait2>
+		<bNewSkillTrait3>0</bNewSkillTrait3>
 		<bBuddy1>255</bBuddy1>
 		<bBuddy2>255</bBuddy2>
 		<bBuddy3>255</bBuddy3>
@@ -7964,25 +7964,36 @@
 		<bHatedTime5>0</bHatedTime5>
 		<bLearnToHate>255</bLearnToHate>
 		<bLearnToHateTime>0</bLearnToHateTime>
-		<sSalary>0</sSalary>
+		<bRace>0</bRace>
+		<bNationality>18</bNationality>
+		<bAppearance>0</bAppearance>
+		<bAppearanceCareLevel>0</bAppearanceCareLevel>
+		<bRefinement>0</bRefinement>
+		<bRefinementCareLevel>0</bRefinementCareLevel>
+		<bHatedNationality>-1</bHatedNationality>
+		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
+		<bRacist>2</bRacist>
+		<bSexist>2</bSexist>
+		<sSalary>40</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
-		<usOptionalGearCost>10219</usOptionalGearCost>
-		<bArmourAttractiveness>31</bArmourAttractiveness>
-		<bMainGunAttractiveness>31</bMainGunAttractiveness>
+		<usOptionalGearCost>1973</usOptionalGearCost>
+		<bArmourAttractiveness>25</bArmourAttractiveness>
+		<bMainGunAttractiveness>22</bMainGunAttractiveness>
 		<fGoodGuy>0</fGoodGuy>
 		<usApproachFactorFriendly>100</usApproachFactorFriendly>
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>4</sSectorX>
-		<sSectorY>11</sSectorY>
+		<sSectorX>6</sSectorX>
+		<sSectorY>4</sSectorY>
 		<sSectorZ>0</sSectorZ>
-		<ubCivilianGroup>16</ubCivilianGroup>
+		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>3</bTown>
 		<bTownAttachment>0</bTownAttachment>
+		<usBackground>73</usBackground>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>85</uiIndex>

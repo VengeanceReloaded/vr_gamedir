@@ -1,6 +1,6 @@
-"Playable Characters Mod" (PCM) for Vengeance-1.13 Reloaded (English Test-File composed by Scheinworld 23.04.13)
+"Playable Characters Mod" (PCM) for Vengeance-1.13 Reloaded (English Test-File composed by Scheinworld)
 
-(last updated 16.05.2013)
+(last updated 15.11.2014)
 
 Original idea and concept by Smilingassassin aka "The_Scorpion"
 
@@ -38,6 +38,8 @@ Like Skryider, there's some time between the end of the quest and her joining th
 After having talked to Angel, Maria will leave the leather shop and, once standing on the road, join the player's squad. 
 In that time between the end of the quest (history log beeps) and her joining, the player can go to the strategic screen if he doesn't want Maria to join the squad. 
 
+Darrell will only join if a specific gender is talking with him ;)
+
 Fred Morris as a head miner can only be recruited after the mine he leads has started to produce income for the player. 
 Upon recruiting, he loses parts of his head miner function, parts might still be active and overlap.
 For convenience reason, it is advised to minimize the chances that the mining income is interrupted 
@@ -66,12 +68,13 @@ Credits:
 
 Most content is taken from JA2 and JA2.5 UB
 The speech and faces of character 78 (Carmen) was designed by Sucho *
+The speech of character 84 (Darrel) was designed and recorded by Khor1255 *
 The speech and script of character 119 (Mary) was designed and cut by Will Gates *
 (* edited and changed for V:R purposes)
 The speech of character 158 (Carl) was taken from Scorpion's mod "Renegade Republic" (there as "Butch")
 
 - Fan for testing reports and numerous proposals for the Prof.dat and MercStartingGear.xml
-- Cagemonkey for the improved Bigfaces (Perko's Bigface was taken from mod "Noc Oficerow")
+- Cagemonkey & Anv for the improved Bigfaces
 - Will Gates for several PCM additions and improvements for the English version
 - Dieter for the correction of this "Readme.txt" file
 - Kermi for hosting
