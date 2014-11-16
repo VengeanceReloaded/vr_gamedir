@@ -2798,7 +2798,7 @@
 		<bMedical>35</bMedical>
 		<bMechanical>54</bMechanical>
 		<bExpLevel>7</bExpLevel>
-		<bEvolution>1</bEvolution>
+		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>8</bOldSkillTrait>
 		<bOldSkillTrait2>6</bOldSkillTrait2>
 		<bNewSkillTrait1>7</bNewSkillTrait1>
@@ -2833,9 +2833,9 @@
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>3</bSexist>
-		<sSalary>2400</sSalary>
-		<uiWeeklySalary>15000</uiWeeklySalary>
-		<uiBiWeeklySalary>28000</uiBiWeeklySalary>
+		<sSalary>4800</sSalary>
+		<uiWeeklySalary>30000</uiWeeklySalary>
+		<uiBiWeeklySalary>56000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>3100</sMedicalDepositAmount>
 		<usOptionalGearCost>3612</usOptionalGearCost>
@@ -7912,7 +7912,7 @@
 		<usMouthY>57</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
-		<uiBlinkFrequency>1000</uiBlinkFrequency>
+		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
 		<PANTS>JEANPANTS</PANTS>
 		<VEST>REDVEST</VEST>
