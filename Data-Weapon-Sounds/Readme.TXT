@@ -11,3 +11,34 @@ A few additional sounds from Bidius soundpack
 -added few autofire sounds - M60, Pecheneg and some others
 -slightly reduced bass for most weapons except high-caliber guns
 -new burst sounds (1-5) from stock 1.13 Ruger Mini-14 single shot sound with 750rpm (01.11.2014)
+
+
+Improved Weapon Sounds v1.1 by Sevenfm (17.11.2014):
+
+Mostly an overhaul and rebalance of existing sounds, for better sound picture and feeling.
+
+The list of new burst sounds:
+30M1 M2
+45 Thompson M1A1
+50 Beowulf
+5,45 AKS-74
+5,7 P90
+7,62x39 WP
+5,56 Mini-14
+
+New/changed pistol sounds:
+9x18 PM
+9mm Calico single shot
+.357 caliber
+.44 caliber
+.45 Pistol/SMG
+.38 Special
+.50 AE DE
+12,3x50R Udar
+
+Changed/updated most sniper rifle sounds
+
+Also changed volume/bass level/eq for better sound balance.
+
+
+Source/Feedback: http://www.ja-galaxy-forum.com/ubbthreads.php/topics/337809/Re:_Experimental_Project_7#Post337794

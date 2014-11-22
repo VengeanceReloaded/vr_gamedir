@@ -1,6 +1,6 @@
 "Playable Characters Mod" (PCM) for Vengeance-1.13 Reloaded (English Test-File composed by Scheinworld)
 
-(last updated 15.11.2014)
+(last updated 22.11.2014)
 
 Original idea and concept by Smilingassassin aka "The_Scorpion"
 
@@ -8,7 +8,7 @@ Original idea and concept by Smilingassassin aka "The_Scorpion"
 
 Features:
 
-Converted the non-playable JA2 characters: Perko, Carmen, Maria, Skyrider, Fred, John, Mary, Matt, Oswald, Calvin and Carl into playable characters.
+Converted the non-playable JA2 characters: Perko, Carmen, Maria, Skyrider, Fred, John, Mary, Matt, Oswald, Calvin, Carl and Darrell into playable characters.
 
 
 All new playable characters have faces, speech and battle sounds. They also have character skills and their personal equipment. All of them are free.
