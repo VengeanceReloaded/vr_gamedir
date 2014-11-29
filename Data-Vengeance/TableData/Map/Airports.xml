@@ -15,4 +15,14 @@ Fields index:
 		<airportSectorX>3</airportSectorX>
 		<airportSectorY>14</airportSectorY>
 	</AIRPORT>
+	<AIRPORT>
+		<airportIndex>2</airportIndex>
+		<airportSectorX>14</airportSectorX>
+		<airportSectorY>4</airportSectorY>
+	</AIRPORT>
+	<AIRPORT>
+		<airportIndex>3</airportIndex>
+		<airportSectorX>14</airportSectorX>
+		<airportSectorY>17</airportSectorY>
+	</AIRPORT>
 </AIRPORT_INFO>
