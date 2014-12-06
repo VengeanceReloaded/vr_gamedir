@@ -184,8 +184,8 @@
 				<file index="81">bombdeb.sti</file>
 				<file index="83">bones.sti</file>
 				<file index="84">tunnel1.sti</file>
-				<file index="89">cars1.sti</file>
-				<file index="91">cars1_s.sti</file>
+				<file index="89">VEHICLES1.sti</file>
+				<file index="91">VEHICLES1_S.sti</file>
 				<file index="92">bones2.sti</file>
 				<file index="104">sandbag.sti</file>
 				<file index="106">sandbags.sti</file>
@@ -244,8 +244,8 @@
 				<file index="68">slant_04.sti</file>
 				<file index="69">slant_07.sti</file>
 				<file index="80">l_weed3.sti</file>
-				<file index="89">cars1.sti</file>
-				<file index="91">cars1_s.sti</file>
+				<file index="89">VEHICLES1.sti</file>
+				<file index="91">VEHICLES1_S.sti</file>
 			</Files>
 		</Tileset>
 		<Tileset index="4">
@@ -324,8 +324,8 @@
 				<file index="33">montre2s.sti</file>
 				<file index="86">grail.sti</file>
 				<file index="87">grail_s.sti</file>
-				<file index="89">cars1.sti</file>
-				<file index="91">cars1_s.sti</file>
+				<file index="89">VEHICLES1.sti</file>
+				<file index="91">VEHICLES1_S.sti</file>
 				<file index="98">furn_mix.sti</file>
 				<file index="100">furnmixs.sti</file>
 			</Files>
@@ -482,8 +482,8 @@
 				<file index="43">door_05.sti</file>
 				<file index="47">door_05s.sti</file>
 				<file index="49">bones2.sti</file>
-				<file index="89">cars1.sti</file>
-				<file index="91">cars1_s.sti</file>
+				<file index="89">VEHICLES1.sti</file>
+				<file index="91">VEHICLES1_S.sti</file>
 				<file index="98">l_weed2.sti</file>
 				<file index="100">l_weed2s.sti</file>
 				<file index="104">Savana.sti</file>
@@ -1110,8 +1110,8 @@
 				<file index="85">swatdeb.sti</file>
 				<file index="86">wirefenc.sti</file>
 				<file index="87">wirefens.sti</file>
-				<file index="89">cars1.sti</file>
-				<file index="91">cars1_s.sti</file>
+				<file index="89">VEHICLES1.sti</file>
+				<file index="91">VEHICLES1_S.sti</file>
 				<file index="92">jaildeb3.sti</file>
 				<file index="98">m-out1.sti</file>
 				<file index="100">m-out1s.sti</file>
@@ -1219,8 +1219,8 @@
 				<file index="85">swatdeb.sti</file>
 				<file index="86">wirefenc.sti</file>
 				<file index="87">wirefens.sti</file>
-				<file index="89">cars1.sti</file>
-				<file index="91">cars1_s.sti</file>
+				<file index="89">VEHICLES1.sti</file>
+				<file index="91">VEHICLES1_S.sti</file>
 				<file index="92">jaildeb3.sti</file>
 				<file index="98">m-out1.sti</file>
 				<file index="100">m-out1s.sti</file>
@@ -1267,8 +1267,8 @@
 				<file index="85">swatdeb.sti</file>
 				<file index="86">wirefenc.sti</file>
 				<file index="87">wirefens.sti</file>
-				<file index="88">cars1.sti</file>
-				<file index="90">cars1_s.sti</file>
+				<file index="88">VEHICLES1.sti</file>
+				<file index="90">VEHICLES1_S.sti</file>
 				<file index="92">jaildeb3.sti</file>
 				<file index="109">lawless4.sti</file>
 				<file index="110">workshop.sti</file>
@@ -1378,8 +1378,8 @@
 				<file index="68">slant_07.sti</file>
 				<file index="69">slant_08.sti</file>
 				<file index="77">lawles3b.sti</file>
-				<file index="89">cars1.sti</file>
-				<file index="91">cars1_s.sti</file>
+				<file index="89">VEHICLES1.sti</file>
+				<file index="91">VEHICLES1_S.sti</file>
 				<file index="98">furn_mix.sti</file>
 				<file index="100">furnmixs.sti</file>
 				<file index="109">workshp2.sti</file>
@@ -1670,9 +1670,9 @@
 				<file index="84">p-debri3.sti</file>
 				<file index="86">w-fence.sti</file>
 				<file index="87">w-fences.sti</file>
-				<file index="88">cars1.sti</file>
+				<file index="88">VEHICLES1.sti</file>
 				<file index="89">Gastuf1.sti</file>
-				<file index="90">cars1_s.sti</file>
+				<file index="90">VEHICLES1_S.sti</file>
 				<file index="91">Gastuf1s.sti</file>
 				<file index="92">p-debri2.sti</file>
 				<file index="97">w-gardn.sti</file>
@@ -1755,9 +1755,9 @@
 				<file index="84">p-debri3.sti</file>
 				<file index="86">w-fence.sti</file>
 				<file index="87">w-fences.sti</file>
-				<file index="88">cars1.sti</file>
+				<file index="88">VEHICLES1.sti</file>
 				<file index="89">zelt.sti</file>
-				<file index="90">cars1_s.sti</file>
+				<file index="90">VEHICLES1_S.sti</file>
 				<file index="91">zelt_s.sti</file>
 				<file index="92">p-debri2.sti</file>
 				<file index="97">w-gardn.sti</file>
@@ -2022,8 +2022,8 @@
 				<file index="83">burnmark.sti</file>
 				<file index="86">wirefenc.sti</file>
 				<file index="87">wirefens.sti</file>
-				<file index="89">cars1.sti</file>
-				<file index="91">cars1_s.sti</file>
+				<file index="89">VEHICLES1.sti</file>
+				<file index="91">VEHICLES1_S.sti</file>
 				<file index="92">jaildeb.sti</file>
 				<file index="98">a-out1.sti</file>
 				<file index="100">a-out1s.sti</file>
@@ -2303,8 +2303,8 @@
 				<file index="84">burnmark.sti</file>
 				<file index="86">wirefenc.sti</file>
 				<file index="87">wirefens.sti</file>
-				<file index="89">cars1.sti</file>
-				<file index="91">cars1_s.sti</file>
+				<file index="89">VEHICLES1.sti</file>
+				<file index="91">VEHICLES1_S.sti</file>
 				<file index="97">m-out1.sti</file>
 				<file index="98">astuff1.sti</file>
 				<file index="99">m-out1s.sti</file>
@@ -2499,8 +2499,8 @@
 				<file index="84">burnmark.sti</file>
 				<file index="86">wirefenc.sti</file>
 				<file index="87">wirefens.sti</file>
-				<file index="89">cars1.sti</file>
-				<file index="91">cars1_s.sti</file>
+				<file index="89">VEHICLES1.sti</file>
+				<file index="91">VEHICLES1_S.sti</file>
 				<file index="92">bombdeb.sti</file>
 				<file index="98">furn_mix.sti</file>
 				<file index="100">furnmixs.sti</file>
