@@ -41,4 +41,21 @@ Changed/updated most sniper rifle sounds
 Also changed volume/bass level/eq for better sound balance.
 
 
+Improved Weapon Sounds v1.2 (14.12.2014):
+
+9x18 caliber reworked, Stechkin, PP-93, 9MM PM, 9MM PMM - better sound
+9x39 VAL SD: reduced bass level (it's silenced sound)
+9x19 Calico burst reworked
+Glock18 and other 9x19mm pistols: eq, volume-1, tail
+45 caliber: Thompson M1A1 burst reworked using new sample and vanilla burst 45 sound
+762x39: new RPD sound, fixed wrong XCR burst 3 sound, 762x39 WP burst sound: eq, changed tail 
+4,7: new sound for G11, G11PDW
+5,7 caliber: eq, changed Five-SeveN sound
+357 Desert Eagle: better sound
+4,6 caliber: new MP7 sound
+12g: new SHOTGUN SEMI-AUTO SINGLE SHOT sound
+7,62 NATO MSG, 7,62 NATO FAL BURST
+TT33, 454 CASULL: new/improved sound
+
+
 Source/Feedback: http://www.ja-galaxy-forum.com/ubbthreads.php/topics/337809/Re:_Experimental_Project_7#Post337794
