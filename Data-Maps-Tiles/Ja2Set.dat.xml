@@ -228,6 +228,8 @@
 				<file index="4">l_gras5.sti</file>
 				<file index="5">l_dirt1.sti</file>
 				<file index="6">l_dirt2.sti</file>
+				<file index="12">sandbag.sti</file>
+				<file index="24">sandbags.sti</file>
 				<file index="7">smpwater.sti</file>
 				<file index="13">l_weed2.sti</file>
 				<file index="18">l_weed1.sti</file>
@@ -479,6 +481,8 @@
 			<Name>GENERIC 2 (Dirtroads)</Name>
 			<AmbientID>32</AmbientID>
 			<Files>
+				<file index="12">sandbag.sti</file>
+				<file index="24">sandbags.sti</file>
 				<file index="20">f_tree.sti</file>
 				<file index="32">f_trees.sti</file>
 				<file index="43">door_05.sti</file>
