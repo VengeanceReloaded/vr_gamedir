@@ -370,7 +370,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>10</uiIndex>
-		<szWeaponName>Ingram M10</szWeaponName>
+		<szWeaponName>Ingram MAC-10</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>2</ubWeaponType>
 		<ubCalibre>3</ubCalibre>
@@ -968,7 +968,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>25</uiIndex>
-		<szWeaponName>AK-74</szWeaponName>
+		<szWeaponName>Avtomat Kalashnikova-74</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>7</ubCalibre>
@@ -1009,7 +1009,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>26</uiIndex>
-		<szWeaponName>AKM</szWeaponName>
+		<szWeaponName>Avtomat Kalashnikova Modernizirovanniy</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>10</ubCalibre>
@@ -1091,7 +1091,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>28</uiIndex>
-		<szWeaponName>FN FAL</szWeaponName>
+		<szWeaponName>FN Fusil Automatique Léger</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -3976,7 +3976,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>618</uiIndex>
-		<szWeaponName>AI AWM</szWeaponName>
+		<szWeaponName>AI Arctic Warfare Magnum</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>25</ubCalibre>
@@ -4346,7 +4346,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>628</uiIndex>
-		<szWeaponName>Carl Gustaf M/45B</szWeaponName>
+		<szWeaponName>Kulsprutepistol m/45</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
 		<ubWeaponType>3</ubWeaponType>
 		<ubCalibre>2</ubCalibre>
@@ -4428,7 +4428,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>630</uiIndex>
-		<szWeaponName>Knight SR-25</szWeaponName>
+		<szWeaponName>Knight Stoner Rifle-25</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>9</ubCalibre>
@@ -5528,7 +5528,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>659</uiIndex>
-		<szWeaponName>Groza OC-14</szWeaponName>
+		<szWeaponName>Groza OTs-14</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>10</ubCalibre>
@@ -5569,7 +5569,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>660</uiIndex>
-		<szWeaponName>Groza OC-14-4A-01</szWeaponName>
+		<szWeaponName>Groza OTs-14-4A-01</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>18</ubCalibre>
@@ -13214,35 +13214,51 @@
 	<WEAPON>
 		<uiIndex>1581</uiIndex>
 		<szWeaponName>Rifle Grenade Device</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>16</ubReadyTime>
-		<ubShotsPer4Turns>5.83</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>60</ubDeadliness>
-		<ubMagSize>1</ubMagSize>
-		<usRange>300</usRange>
+		<ubWeaponClass>2</ubWeaponClass>
+		<ubWeaponType>3</ubWeaponType>
+		<ubCalibre>20</ubCalibre>
+		<ubReadyTime>2</ubReadyTime>
+		<ubShotsPer4Turns>16.78</ubShotsPer4Turns>
+		<ubBurstPenalty>7</ubBurstPenalty>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>25</ubImpact>
+		<ubDeadliness>16</ubDeadliness>
+		<bAccuracy>4</bAccuracy>
+		<ubMagSize>30</ubMagSize>
+		<usRange>170</usRange>
 		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>403</sSound>
+		<BurstAniDelay>40</BurstAniDelay>
+		<ubAttackVolume>60</ubAttackVolume>
+		<ubHitVolume>3</ubHitVolume>
+		<sSound>362</sSound>
+		<sBurstSound>51</sBurstSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<sReloadSound>101</sReloadSound>
+		<sLocknLoadSound>107</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
-		<APsToReload>32</APsToReload>
+		<bBurstAP>12</bBurstAP>
+		<bAutofireShotsPerFiveAP>3</bAutofireShotsPerFiveAP>
+		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<AutoPenalty>8</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>16</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>500</usOverheatingSingleShotTemperature>
+		<nAccuracy>29</nAccuracy>
+		<bRecoilX>4</bRecoilX>
+		<bRecoilY>10</bRecoilY>
+		<ubAimLevels>3</ubAimLevels>
+		<Handling>2</Handling>
+		<usOverheatingJamThreshold>20000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>4700</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>47</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>1626</uiIndex>
 		<szWeaponName>Stun Gun</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
-		<ubShotsPer4Turns>12</ubShotsPer4Turns>
-		<ubImpact>4</ubImpact>
+		<ubShotsPer4Turns>15</ubShotsPer4Turns>
+		<ubImpact>14</ubImpact>
+		<ubDeadliness>1</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
@@ -13277,9 +13293,9 @@
 		<uiIndex>1636</uiIndex>
 		<szWeaponName>Flashlight</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
-		<ubShotsPer4Turns>10</ubShotsPer4Turns>
-		<ubImpact>18</ubImpact>
-		<ubDeadliness>3</ubDeadliness>
+		<ubShotsPer4Turns>15</ubShotsPer4Turns>
+		<ubImpact>14</ubImpact>
+		<ubDeadliness>1</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
@@ -13290,9 +13306,9 @@
 		<uiIndex>1637</uiIndex>
 		<szWeaponName>Flashlight</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
-		<ubShotsPer4Turns>10</ubShotsPer4Turns>
-		<ubImpact>18</ubImpact>
-		<ubDeadliness>3</ubDeadliness>
+		<ubShotsPer4Turns>15</ubShotsPer4Turns>
+		<ubImpact>14</ubImpact>
+		<ubDeadliness>1</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
@@ -17641,7 +17657,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2129</uiIndex>
-		<szWeaponName>Steyr IWS 2000 Mod</szWeaponName>
+		<szWeaponName>Steyr IWS 2000</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>5</ubWeaponType>
 		<ubCalibre>17</ubCalibre>
@@ -17696,6 +17712,20 @@
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>500</MaxDistForMessyDeath>
 		<ManualReloadSound>503</ManualReloadSound>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>3097</uiIndex>
+		<szWeaponName>Norse Short Sword</szWeaponName>
+		<ubWeaponClass>6</ubWeaponClass>
+		<ubShotsPer4Turns>11</ubShotsPer4Turns>
+		<ubImpact>25</ubImpact>
+		<ubDeadliness>6</ubDeadliness>
+		<usReloadDelay>200</usReloadDelay>
+		<ubAttackVolume>2</ubAttackVolume>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
