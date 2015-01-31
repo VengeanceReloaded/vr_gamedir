@@ -2564,18 +2564,18 @@
 			<Name>WALLED TROPICAL</Name>
 			<AmbientID>32</AmbientID>
 			<Files>
-				<file index="0">2_grss_1.sti</file>
-				<file index="1">2_grss_2.sti</file>
-				<file index="2">2_drt3.sti</file>
-				<file index="3">2_drt1.sti</file>
-				<file index="4">2_drt2.sti</file>
-				<file index="5">sn_grs_1.sti</file>
-				<file index="6">snow_2.sti</file>
-				<file index="7">s_water.sti</file>
-				<file index="8">s_dwater.sti</file>
+				<file index="0">t_sand1.sti</file>
+				<file index="1">t_sand3.sti</file>
+				<file index="2">trpgras4.sti</file>
+				<file index="3">trpgras3.sti</file>
+				<file index="4">trpgras2.sti</file>
+				<file index="5">trpgras.sti</file>
+				<file index="6">t_trail.sti</file>
+				<file index="7">tr_water.sti</file>
+				<file index="8">trwater2.sti</file>
 				<file index="12">2drums.sti</file>
 				<file index="14">2_heli.sti</file>
-				<file index="15">2crate.sti</file>
+				<file index="15">sandbag.sti</file>
 				<file index="16">2bush.sti</file>
 				<file index="18">2rock1.sti</file>
 				<file index="19">bamboo.sti</file>
@@ -2583,16 +2583,16 @@
 				<file index="21">2tree2.sti</file>
 				<file index="24">2drums_s.sti</file>
 				<file index="26">2_heli_s.sti</file>
-				<file index="27">2crate_s.sti</file>
+				<file index="27">sandbags.sti</file>
 				<file index="28">2bush_s.sti</file>
 				<file index="30">2rock1_s.sti</file>
 				<file index="31">bamboo_s.sti</file>
 				<file index="32">2tree1_s.sti</file>
 				<file index="33">2tree2_s.sti</file>
-				<file index="36">2cabin2.sti</file>
-				<file index="37">e_wall1.sti</file>
-				<file index="38">e_wall2.sti</file>
-				<file index="39">e_wall3.sti</file>
+				<file index="36">build_39.sti</file>
+				<file index="37">build_31.sti</file>
+				<file index="38">build_40.sti</file>
+				<file index="39">build_35.sti</file>
 				<file index="41">door_03.sti</file>
 				<file index="42">door_05.sti</file>
 				<file index="45">door_03s.sti</file>
@@ -2601,6 +2601,7 @@
 				<file index="64">2flat.sti</file>
 				<file index="68">2slant.sti</file>
 				<file index="69">e_slant1.sti</file>
+				<file index="71">w-oroof.sti</file>
 				<file index="79">2debrock.sti</file>
 				<file index="80">2weeds.sti</file>
 				<file index="81">2_weeds.sti</file>
