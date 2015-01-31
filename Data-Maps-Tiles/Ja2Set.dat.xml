@@ -2561,7 +2561,7 @@
 			</Files>
 		</Tileset>
 		<Tileset index="52">
-			<Name>GRASS &amp; SNOW</Name>
+			<Name>WALLED TROPICAL</Name>
 			<AmbientID>32</AmbientID>
 			<Files>
 				<file index="0">2_grss_1.sti</file>
@@ -2578,7 +2578,7 @@
 				<file index="15">2crate.sti</file>
 				<file index="16">2bush.sti</file>
 				<file index="18">2rock1.sti</file>
-				<file index="19">snow_bag.sti</file>
+				<file index="19">bamboo.sti</file>
 				<file index="20">2tree1.sti</file>
 				<file index="21">2tree2.sti</file>
 				<file index="24">2drums_s.sti</file>
@@ -2586,7 +2586,7 @@
 				<file index="27">2crate_s.sti</file>
 				<file index="28">2bush_s.sti</file>
 				<file index="30">2rock1_s.sti</file>
-				<file index="31">snowbags.sti</file>
+				<file index="31">bamboo_s.sti</file>
 				<file index="32">2tree1_s.sti</file>
 				<file index="33">2tree2_s.sti</file>
 				<file index="36">2cabin2.sti</file>
@@ -2606,8 +2606,12 @@
 				<file index="81">2_weeds.sti</file>
 				<file index="82">Sn_patch.sti</file>
 				<file index="83">2clumps.sti</file>
-				<file index="86">2fence.sti</file>
-				<file index="87">2fence_s.sti</file>
+				<file index="86">w-fence.sti</file>
+				<file index="87">w-fences.sti</file>
+				<file index="88">VEHICLES1.sti</file>
+				<file index="89">zelt.sti</file>
+				<file index="90">VEHICLES1_S.sti</file>
+				<file index="91">zelt_s.sti</file>
 			</Files>
 		</Tileset>
 		<Tileset index="53">
