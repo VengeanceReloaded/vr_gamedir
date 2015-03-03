@@ -6481,8 +6481,8 @@
 		<ubAttackVolume>85</ubAttackVolume>
 		<ubHitVolume>8</ubHitVolume>
 		<sSound>398</sSound>
-		<sReloadSound>102</sReloadSound>
-		<sLocknLoadSound>108</sLocknLoadSound>
+		<sReloadSound>525</sReloadSound>
+		<sLocknLoadSound>524</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>28</APsToReload>
@@ -15878,16 +15878,16 @@
 		<BurstAniDelay>100</BurstAniDelay>
 		<ubAttackVolume>80</ubAttackVolume>
 		<ubHitVolume>8</ubHitVolume>
-		<sSound>486</sSound>
-		<sReloadSound>102</sReloadSound>
-		<sLocknLoadSound>108</sLocknLoadSound>
+		<sSound>517</sSound>
+		<sReloadSound>523</sReloadSound>
+		<sLocknLoadSound>522</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>32</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
 		<APsToReloadManually>18</APsToReloadManually>
-		<ManualReloadSound>476</ManualReloadSound>
+		<ManualReloadSound>522</ManualReloadSound>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
@@ -15911,11 +15911,11 @@
 		<BurstAniDelay>100</BurstAniDelay>
 		<ubAttackVolume>85</ubAttackVolume>
 		<ubHitVolume>8</ubHitVolume>
-		<sSound>489</sSound>
-		<sBurstSound>115</sBurstSound>
+		<sSound>516</sSound>
+		<sBurstSound>130</sBurstSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<sReloadSound>104</sReloadSound>
-		<sLocknLoadSound>110</sLocknLoadSound>
+		<sReloadSound>521</sReloadSound>
+		<sLocknLoadSound>520</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>16</bBurstAP>
 		<bAutofireShotsPerFiveAP>3</bAutofireShotsPerFiveAP>
@@ -16050,9 +16050,9 @@
 		<BurstAniDelay>100</BurstAniDelay>
 		<ubAttackVolume>85</ubAttackVolume>
 		<ubHitVolume>8</ubHitVolume>
-		<sSound>486</sSound>
-		<sReloadSound>102</sReloadSound>
-		<sLocknLoadSound>108</sLocknLoadSound>
+		<sSound>518</sSound>
+		<sReloadSound>525</sReloadSound>
+		<sLocknLoadSound>524</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>32</APsToReload>
@@ -16193,16 +16193,16 @@
 		<BurstAniDelay>100</BurstAniDelay>
 		<ubAttackVolume>85</ubAttackVolume>
 		<ubHitVolume>8</ubHitVolume>
-		<sSound>155</sSound>
-		<sReloadSound>102</sReloadSound>
-		<sLocknLoadSound>108</sLocknLoadSound>
+		<sSound>519</sSound>
+		<sReloadSound>523</sReloadSound>
+		<sLocknLoadSound>522</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>32</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>15</MaxDistForMessyDeath>
 		<APsToReloadManually>13</APsToReloadManually>
-		<ManualReloadSound>476</ManualReloadSound>
+		<ManualReloadSound>522</ManualReloadSound>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
@@ -16334,8 +16334,8 @@
 		<ubAttackVolume>85</ubAttackVolume>
 		<ubHitVolume>8</ubHitVolume>
 		<sSound>398</sSound>
-		<sReloadSound>102</sReloadSound>
-		<sLocknLoadSound>108</sLocknLoadSound>
+		<sReloadSound>525</sReloadSound>
+		<sLocknLoadSound>524</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>32</APsToReload>
@@ -17410,8 +17410,8 @@
 		<ubAttackVolume>85</ubAttackVolume>
 		<ubHitVolume>8</ubHitVolume>
 		<sSound>398</sSound>
-		<sReloadSound>102</sReloadSound>
-		<sLocknLoadSound>108</sLocknLoadSound>
+		<sReloadSound>525</sReloadSound>
+		<sLocknLoadSound>524</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>28</APsToReload>
