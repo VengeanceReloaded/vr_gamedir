@@ -16895,10 +16895,10 @@
 		<BurstAniDelay>100</BurstAniDelay>
 		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>1</ubHitVolume>
-		<sSound>300</sSound>
+		<sSound>510</sSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>156</SilencedSound>
+		<SilencedSound>511</SilencedSound>
 		<bBurstAP>5</bBurstAP>
 		<APsToReload>3</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -16927,12 +16927,12 @@
 		<BurstAniDelay>46</BurstAniDelay>
 		<ubAttackVolume>50</ubAttackVolume>
 		<ubHitVolume>1</ubHitVolume>
-		<sSound>369</sSound>
-		<sBurstSound>55</sBurstSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<sSound>514</sSound>
+		<sBurstSound>128</sBurstSound>
+		<sSilencedBurstSound>129</sSilencedBurstSound>
 		<sReloadSound>101</sReloadSound>
 		<sLocknLoadSound>107</sLocknLoadSound>
-		<SilencedSound>157</SilencedSound>
+		<SilencedSound>515</SilencedSound>
 		<bBurstAP>13</bBurstAP>
 		<bAutofireShotsPerFiveAP>6</bAutofireShotsPerFiveAP>
 		<APsToReload>24</APsToReload>
@@ -16962,10 +16962,10 @@
 		<BurstAniDelay>43</BurstAniDelay>
 		<ubAttackVolume>44</ubAttackVolume>
 		<ubHitVolume>1</ubHitVolume>
-		<sSound>369</sSound>
+		<sSound>506</sSound>
 		<sReloadSound>101</sReloadSound>
 		<sLocknLoadSound>107</sLocknLoadSound>
-		<SilencedSound>157</SilencedSound>
+		<SilencedSound>507</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -16993,10 +16993,10 @@
 		<BurstAniDelay>43</BurstAniDelay>
 		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>1</ubHitVolume>
-		<sSound>369</sSound>
+		<sSound>512</sSound>
 		<sReloadSound>101</sReloadSound>
 		<sLocknLoadSound>107</sLocknLoadSound>
-		<SilencedSound>157</SilencedSound>
+		<SilencedSound>513</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>36</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -17441,12 +17441,12 @@
 		<BurstAniDelay>43</BurstAniDelay>
 		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>1</ubHitVolume>
-		<sSound>369</sSound>
-		<sBurstSound>55</sBurstSound>
-		<sSilencedBurstSound>11</sSilencedBurstSound>
+		<sSound>508</sSound>
+		<sBurstSound>128</sBurstSound>
+		<sSilencedBurstSound>129</sSilencedBurstSound>
 		<sReloadSound>101</sReloadSound>
 		<sLocknLoadSound>107</sLocknLoadSound>
-		<SilencedSound>157</SilencedSound>
+		<SilencedSound>509</SilencedSound>
 		<bBurstAP>18</bBurstAP>
 		<APsToReload>40</APsToReload>
 		<SwapClips>1</SwapClips>
