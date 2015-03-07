@@ -1,6 +1,6 @@
 "Playable Characters Mod" (PCM) for Vengeance-1.13 Reloaded (English Test-File composed by Scheinworld)
 
-(last updated 22.11.2014)
+(last updated 08.03.2015)
 
 Original idea and concept by Smilingassassin aka "The_Scorpion"
 
@@ -50,7 +50,9 @@ Carmen can be recruited as soon as you have brought him the fourth head and the 
 He keeps the complete money for the fourth head though. That's his prize but I think he is worth it.
 (Btw it's possible to have Slay and Carmen together! You must recruit Slay shortly before you gave Carmen the fourth head and the terrorists quest is done.) 
 
-Let the escorted persons go off on their own upon completion of their quest, they will then join if your leadership is good 
+Matt can only be recruited by his brother Dynamo (this happens automatically if Dynamo talks with him).
+
+Let the escorted persons go off on their own upon completion of their quest, they will then join if your leadership is good. 
 
 
 
