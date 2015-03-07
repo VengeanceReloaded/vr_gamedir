@@ -1576,8 +1576,8 @@
 			<lVestStatus>98</lVestStatus>
 			<lLeftThigh>0</lLeftThigh>
 			<lLeftThighStatus>0</lLeftThighStatus>
-			<lRightThigh>0</lRightThigh>
-			<lRightThighStatus>98</lRightThighStatus>
+			<lRightThigh>1674</lRightThigh>
+			<lRightThighStatus>95</lRightThighStatus>
 			<lCPack>0</lCPack>
 			<lCPackStatus>0</lCPackStatus>
 			<lBPack>0</lBPack>
@@ -1596,10 +1596,10 @@
 			<mBig1>37</mBig1>
 			<mBig1Status>97</mBig1Status>
 			<mBig1Quantity>1</mBig1Quantity>
-			<lVest>1176</lVest>
+			<lVest>1090</lVest>
 			<lVestStatus>98</lVestStatus>
-			<lRightThigh>1200</lRightThigh>
-			<lRightThighStatus>98</lRightThighStatus>
+			<lRightThigh>1674</lRightThigh>
+			<lRightThighStatus>97</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>
 			<mGearKitName>Night Ops</mGearKitName>
@@ -1654,11 +1654,13 @@
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>3</mBig0Quantity>
 			<mBig1>37</mBig1>
-			<mBig1Status>97</mBig1Status>
+			<mBig1Status>99</mBig1Status>
 			<mBig1Quantity>1</mBig1Quantity>
 			<mBig2>245</mBig2>
+			<mBig2Status>80</mBig2Status>
 			<mBig2Quantity>1</mBig2Quantity>
 			<mBig3>214</mBig3>
+			<mBig3Status>99</mBig3Status>
 			<mSmall0>1003</mSmall0>
 			<mSmall0Status>84</mSmall0Status>
 			<mSmall0Quantity>1</mSmall0Quantity>
@@ -23449,10 +23451,10 @@
 			<mSmall7Quantity>0</mSmall7Quantity>
 			<lVest>0</lVest>
 			<lVestStatus>0</lVestStatus>
-			<lLeftThigh>0</lLeftThigh>
-			<lLeftThighStatus>0</lLeftThighStatus>
-			<lRightThigh>0</lRightThigh>
-			<lRightThighStatus>0</lRightThighStatus>
+			<lLeftThigh>1681</lLeftThigh>
+			<lLeftThighStatus>98</lLeftThighStatus>
+			<lRightThigh>1091</lRightThigh>
+			<lRightThighStatus>98</lRightThighStatus>
 			<lCPack>0</lCPack>
 			<lCPackStatus>0</lCPackStatus>
 			<lBPack>0</lBPack>
