@@ -60,10 +60,8 @@
 		<pSilhouette>11</pSilhouette>
 		<pRestriction>4</pRestriction>
 		<ItemCapacityPerSize12>1</ItemCapacityPerSize12>
-		<ItemCapacityPerSize14>1</ItemCapacityPerSize14>
-		<ItemCapacityPerSize15>1</ItemCapacityPerSize15>
 		<ItemCapacityPerSize16>1</ItemCapacityPerSize16>
-		<ItemCapacityPerSize18>1</ItemCapacityPerSize18>
+		<ItemCapacityPerSize20>1</ItemCapacityPerSize20>
 		<ItemCapacityPerSize24>1</ItemCapacityPerSize24>
 	</POCKET>
 	<POCKET>
@@ -557,10 +555,7 @@
 		<pSilhouette>34</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>8</pRestriction>
-		<ItemCapacityPerSize10>5</ItemCapacityPerSize10>
-		<ItemCapacityPerSize11>3</ItemCapacityPerSize11>
-		<ItemCapacityPerSize14>2</ItemCapacityPerSize14>
-		<ItemCapacityPerSize15>2</ItemCapacityPerSize15>
+		<ItemCapacityPerSize16>1</ItemCapacityPerSize16>
 	</POCKET>
 	<POCKET>
 		<pIndex>38</pIndex>
