@@ -751,7 +751,7 @@
 		<sLocknLoadSound>108</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>20</bBurstAP>
-		<APsToReload>40</APsToReload>
+		<APsToReload>32</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>16</MaxDistForMessyDeath>
 		<APsToReloadManually>28</APsToReloadManually>
@@ -6373,7 +6373,7 @@
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>17</bBurstAP>
 		<bAutofireShotsPerFiveAP>1</bAutofireShotsPerFiveAP>
-		<APsToReload>40</APsToReload>
+		<APsToReload>28</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
 		<AutoPenalty>9</AutoPenalty>
@@ -6555,7 +6555,7 @@
 		<sLocknLoadSound>108</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>20</bBurstAP>
-		<APsToReload>40</APsToReload>
+		<APsToReload>32</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>16</MaxDistForMessyDeath>
 		<APsToReloadManually>28</APsToReloadManually>
@@ -7509,7 +7509,7 @@
 		<sLocknLoadSound>108</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>20</bBurstAP>
-		<APsToReload>36</APsToReload>
+		<APsToReload>32</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>28</MaxDistForMessyDeath>
 		<APsToReloadManually>28</APsToReloadManually>
@@ -16901,7 +16901,7 @@
 		<sLocknLoadSound>106</sLocknLoadSound>
 		<SilencedSound>511</SilencedSound>
 		<bBurstAP>5</bBurstAP>
-		<APsToReload>3</APsToReload>
+		<APsToReload>16</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>4</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
@@ -16999,7 +16999,7 @@
 		<sLocknLoadSound>107</sLocknLoadSound>
 		<SilencedSound>513</SilencedSound>
 		<bBurstAP>20</bBurstAP>
-		<APsToReload>36</APsToReload>
+		<APsToReload>20</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>5</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
@@ -17449,7 +17449,7 @@
 		<sLocknLoadSound>107</sLocknLoadSound>
 		<SilencedSound>509</SilencedSound>
 		<bBurstAP>18</bBurstAP>
-		<APsToReload>40</APsToReload>
+		<APsToReload>24</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>5</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
