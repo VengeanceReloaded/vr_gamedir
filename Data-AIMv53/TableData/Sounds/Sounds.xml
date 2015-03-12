@@ -490,7 +490,7 @@
 	<SOUND>SOUNDS\WEAPONS\792x57\7,92 MG42 Single Shot.ogg</SOUND>
 	<SOUND>SOUNDS\WEAPONS\792x57\7,92 FG42 Burst 1.ogg</SOUND>
 	<SOUND>SOUNDS\WEAPONS\792x33\7,92K Stg44 Burst 1.ogg</SOUND>
-	<SOUND>SOUNDS\WEAPONS\762x51\7,62 NATO M40.wav</SOUND>
+	<SOUND>SOUNDS\WEAPONS\762x51\7,62 NATO M40.ogg</SOUND>
 	<SOUND>SOUNDS\WEAPONS\762x51\7,62 NATO MG3 Burst 1.ogg</SOUND>
 	<SOUND>SOUNDS\WEAPONS\762x39\7,62 WP XCR Single Shot.ogg</SOUND>
 	<SOUND>SOUNDS\WEAPONS\68x43SPC\6,8 XCR Single Shot.ogg</SOUND>
@@ -594,4 +594,6 @@
 	<SOUND>Sounds\Weapons\Extra\12,7 OSV-96.ogg</SOUND>
 	<SOUND>Sounds\Weapons\Extra\Mechanical\KSVK_LNL.ogg</SOUND>
 	<SOUND>Sounds\Weapons\Extra\Mechanical\KSVK_RELOAD.ogg</SOUND>
+	<SOUND>Sounds\Weapons\Extra\Pistol silenced.ogg</SOUND>
+	<SOUND>Sounds\Weapons\Extra\Pistol silenced+case.ogg</SOUND>
 </SOUNDLIST>

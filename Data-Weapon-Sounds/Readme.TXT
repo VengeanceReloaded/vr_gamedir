@@ -58,4 +58,12 @@ Glock18 and other 9x19mm pistols: eq, volume-1, tail
 TT33, 454 CASULL: new/improved sound
 
 
-Source/Feedback: http://www.ja-galaxy-forum.com/ubbthreads.php/topics/337809/Re:_Experimental_Project_7#Post337794
+Source/Feedback: http://thepit.ja-galaxy-forum.com/index.php?t=msg&th=21864&prevloaded=1&&start=0
+
+
+Credits:
+Chatner: Base mod, most of the burst sounds, http://kermi.pp.fi/JA_2/Mods_v1.13/New_Weapon_Sounds/Chatner/
+MissingName: FAL, BAR sounds, http://kermi.pp.fi/JA_2/Mods_v1.13/New_Weapon_Sounds/MissingName/
+Sarge: Many single shot sounds, http://kermi.pp.fi/JA_2/Mods_v1.13/New_Weapon_Sounds/Sarge/
+Bidius: Rifle Silencer burst, some single shot sounds,  http://kermi.pp.fi/JA_2/Mods_v1.13/New_Weapon_Sounds/Bidius/
+IoV 929: American 180 silenced burst
