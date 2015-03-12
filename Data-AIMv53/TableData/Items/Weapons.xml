@@ -2572,7 +2572,7 @@
 		<sSilencedBurstSound>111</sSilencedBurstSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>156</SilencedSound>
+		<SilencedSound>595</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>12</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -2639,7 +2639,7 @@
 		<sSilencedBurstSound>111</sSilencedBurstSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>156</SilencedSound>
+		<SilencedSound>595</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>12</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -2673,7 +2673,7 @@
 		<sSilencedBurstSound>111</sSilencedBurstSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>156</SilencedSound>
+		<SilencedSound>595</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>12</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -3142,7 +3142,7 @@
 		<sSilencedBurstSound>111</sSilencedBurstSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>157</SilencedSound>
+		<SilencedSound>595</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>12</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -4139,7 +4139,7 @@
 		<sSound>367</sSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>156</SilencedSound>
+		<SilencedSound>595</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>12</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -4998,7 +4998,7 @@
 		<sSilencedBurstSound>111</sSilencedBurstSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>157</SilencedSound>
+		<SilencedSound>595</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>12</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -6190,7 +6190,7 @@
 		<sSilencedBurstSound>62</sSilencedBurstSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>156</SilencedSound>
+		<SilencedSound>595</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>12</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -7745,7 +7745,7 @@
 		<sSilencedBurstSound>111</sSilencedBurstSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>156</SilencedSound>
+		<SilencedSound>595</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>16</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -7812,7 +7812,7 @@
 		<sSilencedBurstSound>111</sSilencedBurstSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>156</SilencedSound>
+		<SilencedSound>595</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>12</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -7923,7 +7923,7 @@
 		<sSilencedBurstSound>111</sSilencedBurstSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>156</SilencedSound>
+		<SilencedSound>595</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>12</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -8789,7 +8789,7 @@
 		<sSilencedBurstSound>111</sSilencedBurstSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>156</SilencedSound>
+		<SilencedSound>595</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>12</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -9364,7 +9364,7 @@
 		<sSilencedBurstSound>111</sSilencedBurstSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>156</SilencedSound>
+		<SilencedSound>595</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>12</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -10240,7 +10240,7 @@
 		<sSound>377</sSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>156</SilencedSound>
+		<SilencedSound>595</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>12</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -10823,7 +10823,7 @@
 		<sSound>543</sSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>156</SilencedSound>
+		<SilencedSound>595</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>12</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -10857,7 +10857,7 @@
 		<sSilencedBurstSound>111</sSilencedBurstSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>156</SilencedSound>
+		<SilencedSound>595</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>12</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -10994,7 +10994,7 @@
 		<sSilencedBurstSound>111</sSilencedBurstSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>157</SilencedSound>
+		<SilencedSound>595</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>12</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -11997,7 +11997,7 @@
 		<sSilencedBurstSound>111</sSilencedBurstSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
-		<SilencedSound>156</SilencedSound>
+		<SilencedSound>595</SilencedSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>12</APsToReload>
 		<SwapClips>1</SwapClips>
