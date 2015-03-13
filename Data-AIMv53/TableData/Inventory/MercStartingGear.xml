@@ -12205,28 +12205,27 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>100</mIndex>
-		<mName>Father</mName>
+		<mName>Natsuko</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
-			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
-			<mVest>0</mVest>
+			<mVest>2518</mVest>
 			<mVestDrop>0</mVestDrop>
-			<mVestStatus>0</mVestStatus>
-			<mLeg>0</mLeg>
+			<mVestStatus>99</mVestStatus>
+			<mLeg>2515</mLeg>
 			<mLegDrop>0</mLegDrop>
-			<mLegStatus>0</mLegStatus>
+			<mLegStatus>99</mLegStatus>
 			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>245</mBig0>
+			<mBig0>255</mBig0>
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
 			<mBig0Drop>1</mBig0Drop>
-			<mBig1>245</mBig1>
+			<mBig1>258</mBig1>
 			<mBig1Status>100</mBig1Status>
 			<mBig1Quantity>1</mBig1Quantity>
 			<mBig1Drop>1</mBig1Drop>
@@ -12288,27 +12287,26 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>101</mIndex>
-		<mName>Fatima</mName>
+		<mName>Bubba</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
-			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
-			<mHelmet>0</mHelmet>
+			<mHelmet>293</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
-			<mHelmetStatus>0</mHelmetStatus>
-			<mVest>0</mVest>
+			<mHelmetStatus>100</mHelmetStatus>
+			<mVest>295</mVest>
 			<mVestDrop>0</mVestDrop>
-			<mVestStatus>0</mVestStatus>
-			<mLeg>0</mLeg>
+			<mVestStatus>100</mVestStatus>
+			<mLeg>294</mLeg>
 			<mLegDrop>0</mLegDrop>
-			<mLegStatus>0</mLegStatus>
-			<mWeapon>0</mWeapon>
+			<mLegStatus>100</mLegStatus>
+			<mWeapon>298</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
-			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>0</mBig0>
-			<mBig0Status>0</mBig0Status>
-			<mBig0Quantity>0</mBig0Quantity>
-			<mBig0Drop>0</mBig0Drop>
+			<mWeaponStatus>100</mWeaponStatus>
+			<mBig0>3034</mBig0>
+			<mBig0Status>100</mBig0Status>
+			<mBig0Quantity>1</mBig0Quantity>
+			<mBig0Drop>1</mBig0Drop>
 			<mBig1>0</mBig1>
 			<mBig1Status>0</mBig1Status>
 			<mBig1Quantity>0</mBig1Quantity>
