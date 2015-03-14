@@ -1,0 +1,48 @@
+Facilities for Vengeance: Reloaded by edmortimer (last updated: 14.03.2015):
+
+
+Ambient Facilities are not staffed, and their effects affect everyone in the sector. 
+The effects of the Ambient Facilities are:
+
+Hunting Lodge: Description = A rustic lodge for hunters in the foothills. A chance to clean up and sleep indoors. 
+Fatigue Effect = 75%, Sleep Effect = 115%
+
+Friendly Farmer: Description = Many of the rural people are in solidarity with your efforts, 
+and this farmer is willing to feed you and let you sleep in the barn whenever you stop by. 
+Fatigue Effect = 50%, Sleep Effect = 120%
+
+Smugglers' Hideout: Description = This is obviously a hideout and transfer location for smugglers. 
+It's a bit dangerous to stay here, but it is a chance to clean up, eat and rest indoors. 
+Fatigue Effect = 86%, Sleep Effect = 110%
+
+Diner: Description = Chow down on some good, old, greasy, soul, comfort food here -- and maybe a beer or two! 
+If your Mercs decide to pig out they will spend their own money here. 
+Fatigue Effect = 75%, Drunk Chance = 8.6%, Drunk Effect = 0 +/- 2
+
+Occupied Territory: Description = The people here overwhelmingly believe you can defeat the Queen. 
+Basic comforts are readily available to you if you spend some time mingling. Eat, sleep, and be merry for tomorrow you may die. 
+Staff Limit = 32, Fatigue Effect = 80%, Sleep Effect = 120%, Minimum Town Loyalty = 86, Drunk Chance = 8.6%, Drunk Effect = 0 +/- 5
+
+Regional Liquor Store: Description = Booze, booze, and MORE booze! They sell beer in kegs! 
+Lucky for you your Mercs will spend their own cash if they decide to paint the town red! 
+Drunk Chance = 9.9%, Drunk Effect = 0 +/- 10
+
+Massacre Site: Description = An example of the ruthlessness of the Queen's regime -- death and destruction are everywhere. 
+On the flip side, there's shelter from the storms here, both natural and military. 
+Fatigue Effect = 110%, Sleep Effect = 110%, Morale Effect Chance = 8.6%, Morale Effect = 0 +/- 2
+
+University Ruins: Description = The Queen doesn't want an educated citizenry -- 
+on this site the teachers and students of the National University of Arulco were massacred, and the university grounds looted and bombed. 
+At least there's a few good walls and roofs to keep off the rain and wind. 
+Fatigue Effect = 80%, Sleep Effect = 115%
+
+Liquor Shop: Description = A small but well-stocked liquor shop. If your Mercs decide to imbibe they will spend their own cash. 
+Drunk Chance = 8.6%, Drunk Effect = 0 +/- 7
+
+Toxic Waste Site: Description = The oil and poisonous waste chemicals that coat everything here are not exactly healthy . . . 
+the smell in the air actually makes you feel queasy, and it is hard to breathe. 
+Fatigue Effect = 150%, Sleep Effect = 50%
+
+Killing Fields: This is the scene of a desperate pitched battle between government and rebel forces. 
+Evidence of mass carnage is everywhere. Being here will either alarm your fear of death, or reinforce your determination to kill the Queen. 
+Fatigue Effect = 125%, Sleep Effect = 66%, Morale Effect Chance = 9.9%, Morale Effect = 0 +/- 5

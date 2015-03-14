@@ -1,0 +1,1252 @@
+<FACILITYTYPES>
+	<FACILITYTYPE>
+		<ubIndex>1</ubIndex>
+		<szFacilityName>Field Hospital</szFacilityName>
+		<szFacilityShortName>Field Hospital</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>DOCTOR</ubAssignmentType>
+			<szTooltipText>Perform life-saving surgery on your wounded men, using state-of-the-art equipment. Increases the DOCTOR's efficiency.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+			<usKitDegrade>40</usKitDegrade>
+			<CONDITIONS>
+				<ubMinimumMedical>60</ubMinimumMedical>
+				<ubMinimumWisdom>75</ubMinimumWisdom>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>2</ubIndex>
+		<szFacilityName>Small Sleazy Bar</szFacilityName>
+		<szFacilityShortName>Bar</szFacilityShortName>
+		<ubTotalStaffLimit>5</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>Have a drink at the local bar! Increases loyalty in this town, for a price and a chance to get drunk.</szTooltipText>
+			<ubStaffLimit>4</ubStaffLimit>
+			<usPerformance>150</usPerformance>
+			<sCostPerHour>15</sCostPerHour>
+			<CONDITIONS>
+			</CONDITIONS>
+			<MORALE>
+				<usChance>700</usChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>15</ubRange>
+			</MORALE>
+			<LOYALTY_LOCAL>
+				<ubChance>40</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</LOYALTY_LOCAL>
+			<DRUNK>
+				<ubChance>500</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</DRUNK>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>GATHER_RUMOURS</ubAssignmentType>
+			<szTooltipText>Have a drink at the... Yeah, you wish! Just buy drinks to others and immediately report any info they may spill.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>150</usPerformance>
+			<sCostPerHour>15</sCostPerHour>
+			<CONDITIONS>
+			</CONDITIONS>
+			<MORALE>
+				<usChance>700</usChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>15</ubRange>
+			</MORALE>
+			<LOYALTY_LOCAL>
+				<ubChance>10</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</LOYALTY_LOCAL>
+			<DRUNK>
+				<ubChance>100</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</DRUNK>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>3</ubIndex>
+		<szFacilityName>Prison Complex</szFacilityName>
+		<szFacilityShortName>Prison</szFacilityShortName>
+		<ubTotalStaffLimit>8</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
+			<szTooltipText>Your mercs can Interrogate prisoners of war here. Prisoners might join you cause, or give you helpful information.</szTooltipText>
+			<ubStaffLimit>4</ubStaffLimit>
+			<usPerformance>120</usPerformance>
+			<usPrisonBaseLimit>60</usPrisonBaseLimit>
+			<CONDITIONS>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRISON_SNITCH</ubAssignmentType>
+			<szTooltipText>Masquerade as one of prisoners and gain their trust to easily gather information and prevent mutiny attempts.</szTooltipText>
+			<ubStaffLimit>4</ubStaffLimit>
+			<usPerformance>120</usPerformance>
+			<CONDITIONS>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>4</ubIndex>
+		<szFacilityName>Small Airport</szFacilityName>
+		<szFacilityShortName>Airport</szFacilityShortName>
+		<ubTotalStaffLimit>4</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
+			<szTooltipText>Spend some time loading and unloading aircraft. Increases the efficiency of STRENGTH practice.</szTooltipText>
+			<ubStaffLimit>4</ubStaffLimit>
+			<usPerformance>130</usPerformance>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>5</ubIndex>
+		<szFacilityName>Munitions Factory</szFacilityName>
+		<szFacilityShortName>Factory</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>The machinery here can manufacture all sorts of replacements parts, which will increase your efficiency at repair, assuming you know how to use the complex machinery here.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+			<usKitDegrade>30</usKitDegrade>
+			<CONDITIONS>
+				<ubMinimumMechanical>60</ubMinimumMechanical>
+				<ubMinimumDexterity>70</ubMinimumDexterity>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>6</ubIndex>
+		<szFacilityName>Military Barracks</szFacilityName>
+		<szFacilityShortName>Barracks</szFacilityShortName>
+		<ubTotalStaffLimit>10</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>There are plenty of beds here. It's a bit basic, but certainly better than resting outside!</szTooltipText>
+			<ubStaffLimit>10</ubStaffLimit>
+			<usPerformance>110</usPerformance>
+			<usSleep>120</usSleep>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>7</ubIndex>
+		<szFacilityName>Military Headquarters</szFacilityName>
+		<szFacilityShortName>Mil. HQ</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>The war room here has all sorts of digital equipment, designed for maintaining a good grasp on the strategic situation across the country. This will help you coordinate your defenses, and collect information about enemy movements in the wilderness.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<fCountEnemiesInWild>1</fCountEnemiesInWild>
+			<CONDITIONS>
+				<ubMinimumWisdom>80</ubMinimumWisdom>
+				<ubMinimumLeadership>60</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>SPREAD_PROPAGANDA_GLOBAL</ubAssignmentType>
+			<szTooltipText>Take control of local information channels and control the flow of news in entire region.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<CONDITIONS>
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+				<ubMinimumLeadership>50</ubMinimumLeadership>
+				<usPerformance>80</usPerformance>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>8</ubIndex>
+		<szFacilityName>Shooting Range</szFacilityName>
+		<szFacilityShortName>Range</szFacilityShortName>
+		<ubTotalStaffLimit>5</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MARKSMANSHIP</ubAssignmentType>
+			<szTooltipText>Why not spend some time practicing your aim? The dummy targets are practically begging for it. It sure as hell beats taking pot-shots at rocks out in the wilderness.</szTooltipText>
+			<ubStaffLimit>5</ubStaffLimit>
+			<usPerformance>130</usPerformance>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>9</ubIndex>
+		<szFacilityName>A.C.A Building</szFacilityName>
+		<szFacilityShortName>A.C.A</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>The locals here may be willing to scout out the surrounding area for you. You can collect the information gleaned from them to get a better idea about enemy activity in this region.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<fDetectEnemiesDynamic>1</fDetectEnemiesDynamic>
+			<ubDetectEnemiesImmediate>2</ubDetectEnemiesImmediate>
+			<CONDITIONS>
+				<ubMinimumWisdom>75</ubMinimumWisdom>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
+				<ubMinimumLoyaltyHere>60</ubMinimumLoyaltyHere>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>SPREAD_PROPAGANDA</ubAssignmentType>
+			<szTooltipText>Turn this small local office into well-oiled propaganda machine, suppressing any bad news reaching town and showing our actions in the best possible light.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<CONDITIONS>
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+				<ubMinimumLeadership>20</ubMinimumLeadership>
+				<ubMinimumLoyaltyHere>20</ubMinimumLoyaltyHere>
+				<usPerformance>150</usPerformance>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>10</ubIndex>
+		<szFacilityName>SAM Site</szFacilityName>
+		<szFacilityShortName>SAM Site</szFacilityShortName>
+		<ubMilitiaTrainersAllowed>2</ubMilitiaTrainersAllowed>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>11</ubIndex>
+		<szFacilityName>Mine</szFacilityName>
+		<szFacilityShortName>Mine</szFacilityShortName>
+		<ubTotalStaffLimit>6</ubTotalStaffLimit>	
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_EXPLOSIVES</ubAssignmentType>
+			<szTooltipText>Anyone who knows how to set explosives will be welcome in a mine. Increases efficiency of EXPLOSIVES training.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>150</usPerformance>
+			<CONDITIONS>
+				<ubMinimumExplosives>40</ubMinimumExplosives>
+				<ubMinimumLoyaltyHere>70</ubMinimumLoyaltyHere>
+			</CONDITIONS>
+			<MORALE>
+				<ubChance>86</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>3</ubRange>
+			</MORALE>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_EXPLOSIVES</ubAssignmentType>
+			<szTooltipText>Train the less accurate of your mercs in the finer points of Marksmanship. . . their life, and yours, may depend on it.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+			<CONDITIONS>
+				<ubMinimumExplosives>70</ubMinimumExplosives>
+				<ubMinimumLoyaltyHere>70</ubMinimumLoyaltyHere>
+			</CONDITIONS>
+			<MORALE>
+				<ubChance>99</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>1</ubRange>
+			</MORALE>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_EXPLOSIVES</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of Marksmanship. . . your life, and theirs, may depend on it.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+			<CONDITIONS>
+				<ubMinimumExplosives>35</ubMinimumExplosives>
+				<ubMinimumLoyaltyHere>70</ubMinimumLoyaltyHere>
+			</CONDITIONS>
+			<MORALE>
+				<ubChance>99</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>1</ubRange>
+			</MORALE>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
+			<szTooltipText>Spend some time lugging ore from here to there. Increases the efficiency of STRENGTH practice, and when the citizens see you sweaty and dirty from mine work they just might think better of you!</szTooltipText>
+			<ubStaffLimit>3</ubStaffLimit>
+			<usPerformance>133</usPerformance>
+			<MORALE>
+				<ubChance>99</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>3</ubRange>
+			</MORALE>
+			<LOYALTY_LOCAL>
+				<ubChance>86</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>1</ubRange>
+			</LOYALTY_LOCAL>
+		</ASSIGNMENT>
+
+	<FACILITYTYPE>
+		<ubIndex>12</ubIndex>
+		<szFacilityName>Small Church</szFacilityName>
+		<szFacilityShortName>Church</szFacilityShortName>
+		<ubTotalStaffLimit>1</ubTotalStaffLimit>	
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>A solemn hour of prayer and devotion in a quiet little church can help raise anyone's spirit. It might also convince the locals that you respect their way of life.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>110</usPerformance>
+			<CONDITIONS>
+			</CONDITIONS>
+			<MORALE>
+				<ubChance>200</ubChance>
+				<bBaseEffect>10</bBaseEffect>
+				<ubRange>10</ubRange>
+			</MORALE>
+			<LOYALTY_LOCAL>
+				<ubChance>50</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</LOYALTY_LOCAL>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>13</ubIndex>
+		<szFacilityName>Boxing Club</szFacilityName>
+		<szFacilityShortName>Club</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>	
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_HEALTH</ubAssignmentType>
+			<szTooltipText>A great place to get a balanced work-out that might improve your shape considerably. Increases the efficiency of HEALTH training.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+			<CONDITIONS>
+				<ubMinimumHealth>60</ubMinimumHealth>
+				<ubMinimumStrength>40</ubMinimumStrength>
+				<ubMinimumAgility>40</ubMinimumAgility>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_HEALTH</ubAssignmentType>
+			<szTooltipText>Utilize this gym to it's best potential to provide some HEALTH training to the scrawniest member of your squad.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+			<CONDITIONS>
+				<ubMinimumHealth>80</ubMinimumHealth>
+				<ubMinimumStrength>70</ubMinimumStrength>
+				<ubMinimumAgility>70</ubMinimumAgility>
+				<ubMinimumLeadership>50</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_HEALTH</ubAssignmentType>
+			<szTooltipText>Tired of being tired? Learn some HEALTH training from the most fit member in your squad.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
+			<szTooltipText>Use the equipment here to focus on increasing your Strength.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>133</usPerformance>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_STRENGTH</ubAssignmentType>
+			<szTooltipText>Utilize this gym to provide some STRENGTH training to the scrawniest member of your squad.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+			<CONDITIONS>
+				<ubMinimumStrength>80</ubMinimumStrength>
+				<ubMinimumLeadership>50</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_STRENGTH</ubAssignmentType>
+			<szTooltipText>Build up those biceps! Learn some STRENGTH training from musclebound member in your squad.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_AGILITY</ubAssignmentType>
+			<szTooltipText>Use the equipment here to focus on increasing your AGILITY.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>133</usPerformance>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_AGILITY</ubAssignmentType>
+			<szTooltipText>Utilize this gym to provide some AGILITY training to the most awkward member of your squad.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+			<CONDITIONS>
+				<ubMinimumAgility>80</ubMinimumAgility>
+				<ubMinimumLeadership>50</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_AGILITY</ubAssignmentType>
+			<szTooltipText>Condition your reflexes! Learn some AGILITY training from the most agile member in your squad.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>14</ubIndex>
+		<szFacilityName>National Museum</szFacilityName>
+		<szFacilityShortName>Museum</szFacilityShortName>
+		<ubTotalStaffLimit>0</ubTotalStaffLimit>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>15</ubIndex>
+		<szFacilityName>Laboratory</szFacilityName>
+		<szFacilityShortName>Lab</szFacilityShortName>
+		<ubTotalStaffLimit>0</ubTotalStaffLimit>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>16</ubIndex>
+		<szFacilityName>Junkyard</szFacilityName>
+		<szFacilityShortName>Junkyard</szFacilityShortName>
+		<ubTotalStaffLimit>6</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.</szTooltipText>
+			<ubStaffLimit>6</ubStaffLimit>
+			<usPerformance>133</usPerformance>
+			<usFatigue>110</usFatigue>
+			<usKitDegrade>33</usKitDegrade>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
+			<szTooltipText>This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>120</usPerformance>
+			<usFatigue>125</usFatigue>
+			<usKitDegrade>66</usKitDegrade>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
+			<szTooltipText>This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>186</usPerformance>
+			<usFatigue>120</usFatigue>
+			<usKitDegrade>86</usKitDegrade>
+			<CONDITIONS>
+				<ubMinimumMechanical>70</ubMinimumMechanical>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Train mercs in the finer points of mechanics, including the tricks of the trade.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+			<CONDITIONS>
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+				<ubMinimumLeadership>50</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical. . . maybe then you can keep your own gear in better shape.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>17</ubIndex>
+		<szFacilityName>Beach Resort</szFacilityName>
+		<szFacilityShortName>Beach</szFacilityShortName>
+		<ubTotalStaffLimit>32</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>Sun, sand, surf. This sure as hell beats sleeping in a trench.</szTooltipText>
+			<ubStaffLimit>32</ubStaffLimit>
+			<sCostPerHour>15</sCostPerHour>
+			<usPerformance>160</usPerformance>
+			<usSleep>200</usSleep>
+			<MORALE>
+				<ubChance>500</ubChance>
+				<bBaseEffect>10</bBaseEffect>
+				<ubRange>15</ubRange>
+			</MORALE>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>18</ubIndex>
+		<szFacilityName>Legacy Militia Training Facility</szFacilityName>
+		<szFacilityShortName>Legacy</szFacilityShortName>
+		<ubMilitiaTrainersAllowed>2</ubMilitiaTrainersAllowed>
+		<ubMobileMilitiaTrainersAllowed>2</ubMobileMilitiaTrainersAllowed>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE> 
+		<ubIndex>19</ubIndex>  
+		<szFacilityName>Combat Support Hospital</szFacilityName>  
+		<szFacilityShortName>Camp Hospital</szFacilityShortName>  
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>  
+		<ASSIGNMENT> 
+			<ubAssignmentType>DOCTOR</ubAssignmentType>  
+			<szTooltipText>Perform urgent life-saving treatment on your wounded men in this medical field station. Increases the DOCTOR's efficiency. Doesn't use up your kit.</szTooltipText>  
+			<ubStaffLimit>2</ubStaffLimit>  
+			<usPerformance>133</usPerformance>  
+			<usKitDegrade>0</usKitDegrade>  
+			<CONDITIONS> 
+				<ubMinimumMedical>60</ubMinimumMedical>  
+				<ubMinimumWisdom>60</ubMinimumWisdom>  
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MEDICAL</ubAssignmentType>
+			<szTooltipText>Take the time to staff this field hospital and improve your medical skills.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+			<CONDITIONS>
+				<ubMinimumWisdom>40</ubMinimumWisdom>
+				<ubMinimumMedical>40</ubMinimumMedical>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MEDICAL</ubAssignmentType>
+			<szTooltipText>Train your mercs in the finer points of combat medicine. . . their life, and yours, may depend on it.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+			<CONDITIONS>
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+				<ubMinimumLeadership>50</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MEDICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of combat medicine in this field hospital. . . your life, and theirs, may depend on it.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>20</ubIndex>
+		<szFacilityName>Army Barracks Cantina</szFacilityName>
+		<szFacilityShortName>Cantina</szFacilityShortName>
+		<ubTotalStaffLimit>10</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>By taking over the armies barracks, you've also taken over the cantina inside. Your mercs can eat here.</szTooltipText>
+			<ubStaffLimit>10</ubStaffLimit>
+			<sCostPerHour>10</sCostPerHour>
+			<sCantinaFoodModifier>500</sCantinaFoodModifier>
+			<CONDITIONS>
+			</CONDITIONS>
+			<MORALE>
+				<usChance>500</usChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</MORALE>
+			<DRUNK>
+				<ubChance>400</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</DRUNK>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>21</ubIndex>
+		<szFacilityName>Military Prison</szFacilityName>
+		<szFacilityShortName>Prison</szFacilityShortName>
+		<ubTotalStaffLimit>3</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
+			<szTooltipText>Your mercs can Interrogate prisoners of war here. Prisoners might join you cause, or give you helpful information.</szTooltipText>
+			<ubStaffLimit>3</ubStaffLimit>
+			<usPerformance>100</usPerformance>
+			<usPrisonBaseLimit>20</usPrisonBaseLimit>
+			<CONDITIONS>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRISON_SNITCH</ubAssignmentType>
+			<szTooltipText>Masquerade as one of prisoners and gain their trust to easily gather information and prevent mutiny attempts.</szTooltipText>
+			<ubStaffLimit>3</ubStaffLimit>
+			<usPerformance>90</usPerformance>
+			<CONDITIONS>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>22</ubIndex>
+		<szFacilityName>Town Prison</szFacilityName>
+		<szFacilityShortName>Prison</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
+			<szTooltipText>Your mercs can Interrogate prisoners of war here. Prisoners might join you cause, or give you helpful information.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>90</usPerformance>
+			<usPrisonBaseLimit>5</usPrisonBaseLimit>
+			<CONDITIONS>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRISON_SNITCH</ubAssignmentType>
+			<szTooltipText>Masquerade as one of prisoners and gain their trust to easily gather information and prevent mutiny attempts.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>70</usPerformance>
+			<CONDITIONS>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE> 
+		<ubIndex>23</ubIndex>  
+		<szFacilityName>Town Pharmacy</szFacilityName>  
+		<szFacilityShortName>Pharmacy</szFacilityShortName>  
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>  
+		<ASSIGNMENT> 
+			<ubAssignmentType>DOCTOR</ubAssignmentType>  
+			<szTooltipText>Loot the pharmaceutical resources here to aid in treating your wounded. Enhances your DOCTOR skill.</szTooltipText>  
+			<ubStaffLimit>2</ubStaffLimit>  
+			<usPerformance>125</usPerformance>  
+			<sCostPerHour>30</sCostPerHour>
+			<usKitDegrade>0</usKitDegrade>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MEDICAL</ubAssignmentType>
+			<szTooltipText>Take the time to refresh your pharmaceutical knowledge by availing yourself of the resources here.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>110</usPerformance>
+			<CONDITIONS>
+				<ubMinimumWisdom>40</ubMinimumWisdom>
+				<ubMinimumMedical>40</ubMinimumMedical>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MEDICAL</ubAssignmentType>
+			<szTooltipText>Train your mercs in the finer points of combat medicine using the supplies of the pharmacy. . . their life, and yours, may depend on it.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+			<CONDITIONS>
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+				<ubMinimumLeadership>50</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MEDICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of combat medicine. . . your life, and theirs, may depend on it.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>24</ubIndex>
+		<szFacilityName>Public Aid Station</szFacilityName>
+		<szFacilityShortName>Aid Station</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>	
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MEDICAL</ubAssignmentType>
+			<szTooltipText>Spread goodwill and help the poor by setting up a free medical clinic with supplies flown in to the airport on your dollar ($50/hr and no kit degrade). News of this might spread throughout Arulco!</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usFatigue>166</usFatigue>
+			<usPerformance>125</usPerformance>
+			<sCostPerHour>50</sCostPerHour>
+			<CONDITIONS>
+				<ubMinimumWisdom>50</ubMinimumWisdom>
+				<ubMinimumMedical>40</ubMinimumMedical>
+				<ubMinimumLeadership>20</ubMinimumLeadership>
+			</CONDITIONS>
+			<LOYALTY_LOCAL>
+				<ubChance>86</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>3</ubRange>
+			</LOYALTY_LOCAL>
+			<LOYALTY_GLOBAL>
+				<ubChance>86</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>1</ubRange>
+			</LOYALTY_GLOBAL>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>25</ubIndex>
+		<szFacilityName>Snack and Shack</szFacilityName>
+		<szFacilityShortName>Motel</szFacilityShortName>
+		<ubTotalStaffLimit>10</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>Take over the Snack and Shack by intimidation and get some rest and relaxation. Local loyalty may suffer.</szTooltipText>
+			<ubStaffLimit>10</ubStaffLimit>
+			<usPerformance>150</usPerformance>
+			<LOYALTY_LOCAL>
+				<ubChance>86</ubChance>
+				<bBaseEffect>-1</bBaseEffect>
+				<ubRange>3</ubRange>
+			</LOYALTY_LOCAL>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>26</ubIndex>
+		<szFacilityName>Placeholder</szFacilityName>
+		<szFacilityShortName>Not Used Yet</szFacilityShortName>
+		<ubTotalStaffLimit>0</ubTotalStaffLimit>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>27</ubIndex>
+		<szFacilityName>Dave's Race Course</szFacilityName>
+		<szFacilityShortName>Race Course</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>A race course with a repair station complete with tools and spare parts. This will certainly make any repair-work a little easier.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>130</usPerformance>
+			<usFatigue>90</usFatigue>
+			<usKitDegrade>30</usKitDegrade>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
+			<szTooltipText>A race course with a repair station complete with tools and spare parts. This will certainly make any repair-work easier, especially for vehicles.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+			<usFatigue>90</usFatigue>
+			<usKitDegrade>25</usKitDegrade>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
+			<szTooltipText>A race course with a repair station complete with tools and spare parts. This will certainly make robot repair-work a little easier.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>175</usPerformance>
+			<usFatigue>90</usFatigue>
+			<usKitDegrade>60</usKitDegrade>
+			<CONDITIONS>
+				<ubMinimumMechanical>60</ubMinimumMechanical>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Train mercs in the finer points of mechanics, including the tricks of the trade.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+			<CONDITIONS>
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+				<ubMinimumLeadership>50</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical. . . maybe then you can keep your own gear in better shape.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MECHANICAL</ubAssignmentType>
+			<szTooltipText>This facility and the service manuals are a great aid for enhancing your mechanical skill.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>133</usPerformance>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	<FACILITYTYPE>
+		<ubIndex>28</ubIndex>
+		<szFacilityName>Hunting Lodge</szFacilityName>
+		<szFacilityShortName>Lodge</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>A rustic lodge for hunters in the foothills. A chance to clean up and sleep indoors.</szTooltipText>
+			<usFatigue>75</usFatigue>
+			<usSleep>115</usSleep>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>29</ubIndex>
+		<szFacilityName>Friendly Farmer</szFacilityName>
+		<szFacilityShortName>Farm</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>Many of the rural people are in solidarity with your efforts, and this farmer is willing to feed you and let you sleep in the barn whenever you stop by.</szTooltipText>
+			<usFatigue>50</usFatigue>
+			<usSleep>120</usSleep>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>30</ubIndex>
+		<szFacilityName>Smuggler Hideout</szFacilityName>
+		<szFacilityShortName>Hideout</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>This is obviously a hideout and transfer location for smugglers. It's a bit dangerous to stay here, but it is a chance to clean up, eat and rest indoors.</szTooltipText>
+			<usFatigue>86</usFatigue>
+			<usSleep>110</usSleep>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>31</ubIndex>
+		<szFacilityName>Friendly Fisherman</szFacilityName>
+		<szFacilityShortName>Fisherman</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>Many of the rural people are in solidarity with you, and this fisherman is willing to feed you whenever you stop by.</szTooltipText>
+			<usFatigue>50</usFatigue>
+			<usSleep>120</usSleep>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>32</ubIndex>
+		<szFacilityName>Placeholder</szFacilityName>
+		<szFacilityShortName>Not Used Yet</szFacilityShortName>
+		<ubTotalStaffLimit>0</ubTotalStaffLimit>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>33</ubIndex>
+		<szFacilityName>Diner</szFacilityName>
+		<szFacilityShortName>Diner</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>Chow down on some good, old, greasy, soul, comfort food here -- and maybe a beer or two! If your Mercs decide to pig out they will spend their own money here.</szTooltipText>
+			<usFatigue>75</usFatigue>
+			<DRUNK>
+				<ubChance>86</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>2</ubRange>
+			</DRUNK>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>34</ubIndex>
+		<szFacilityName>Occupied Territory</szFacilityName>
+		<szFacilityShortName>Occupied</szFacilityShortName>
+		<ubTotalStaffLimit>32</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>The people here overwhelmingly believe you can defeat the Queen. Basic comforts are readily available to you if you spend some time mingling. Eat, sleep, and be merry for tomorrow you may die.</szTooltipText>
+			<ubStaffLimit>32</ubStaffLimit>
+			<usFatigue>80</usFatigue>
+			<usSleep>120</usSleep>
+			<CONDITIONS>
+				<ubMinimumLoyaltyHere>86</ubMinimumLoyaltyHere>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+
+	<FACILITYTYPE>
+		<ubIndex>35</ubIndex>
+		<szFacilityName>Clothing Factory</szFacilityName>
+		<szFacilityShortName>Factory</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>The clothing factory equipment can be useful in helping with some basic repairs, assuming you are at least a junior MacGyver.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usFatigue>115</usFatigue>
+			<usPerformance>120</usPerformance>
+			<usKitDegrade>50</usKitDegrade>
+			<CONDITIONS>
+				<ubMinimumMechanical>50</ubMinimumMechanical>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Train mercs in the finer points of mechanics, including the tricks of the trade.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+			<CONDITIONS>
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+				<ubMinimumLeadership>50</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical. . . maybe then you can keep your own gear in better shape.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>36</ubIndex>
+		<szFacilityName>Rebel Base</szFacilityName>
+		<szFacilityShortName>Base</szFacilityShortName>
+		<ubTotalStaffLimit>1</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>SPREAD_PROPAGANDA_GLOBAL</ubAssignmentType>
+			<szTooltipText>Organizing the revolution from the Rebel Base can help secure the loyalty of the people in the countryside, or alienate them completely. Be careful who you select for the job, gringo.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>86</usPerformance>
+			<CONDITIONS>
+				<ubMinimumLoyaltyHere>86</ubMinimumLoyaltyHere>
+			</CONDITIONS>
+			<LOYALTY_LOCAL>
+				<ubChance>42</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>3</ubRange>
+			</LOYALTY_LOCAL>
+			<LOYALTY_GLOBAL>
+				<ubChance>42</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>2</ubRange>
+			</LOYALTY_GLOBAL>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+
+	<FACILITYTYPE>
+		<ubIndex>37</ubIndex>
+		<szFacilityName>General Stores</szFacilityName>
+		<szFacilityShortName>Stores</szFacilityShortName>
+		<ubTotalStaffLimit>1</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>Loot the local stores of supplies to help make basic repairs a bit easier. Might not exactly endear you to the citizenry, however.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+			<usFatigue>90</usFatigue>
+			<usKitDegrade>0</usKitDegrade>
+			<LOYALTY_LOCAL>
+				<ubChance>86</ubChance>
+				<bBaseEffect>-1</bBaseEffect>
+				<ubRange>3</ubRange>
+			</LOYALTY_LOCAL>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+
+	<FACILITYTYPE>
+		<ubIndex>38</ubIndex>
+		<szFacilityName>Regional Liquor Store</szFacilityName>
+		<szFacilityShortName>Liquor Store</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>Booze, booze, and MORE booze! They sell beer in kegs! Lucky for you your Mercs will spend their own cash if they decide to paint the town red!</szTooltipText>
+			<DRUNK>
+				<ubChance>99</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>10</ubRange>
+			</DRUNK>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>39</ubIndex>
+		<szFacilityName>Wine Shop</szFacilityName>
+		<szFacilityShortName>Wine</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>A quaint wine shop, even has the local variety -- it's the cheapest wine in the shop! If your Mercs decide to imbibe they will spend their own cash.</szTooltipText>
+			<DRUNK>
+				<ubChance>86</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>5</ubRange>
+			</DRUNK>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>40</ubIndex>
+		<szFacilityName>Residential Neighborhoods</szFacilityName>
+		<szFacilityShortName>Residential</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>The homeowners around these parts can get a bit nervous when mercenaries are walking around like they own the place, and Mercs can get a bit nervous 'cause everybody around them is nervous . . . too many fingers, too many triggers, too many civilians.</szTooltipText>
+			<LOYALTY_LOCAL>
+				<ubChance>99</ubChance>
+				<bBaseEffect>-1</bBaseEffect>
+				<ubRange>3</ubRange>
+			</LOYALTY_LOCAL>
+			<LOYALTY_GLOBAL>
+				<ubChance>86</ubChance>
+				<bBaseEffect>-1</bBaseEffect>
+				<ubRange>1</ubRange>
+			</LOYALTY_GLOBAL>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>41</ubIndex>
+		<szFacilityName>Massacre Site</szFacilityName>
+		<szFacilityShortName>Massacre Site</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>An example of the ruthlessness of the regime -- death and destruction are everywhere. Staying here will either steel your resolve to overthrow this regime, or give you thoughts of getting out alive.</szTooltipText>
+			<usFatigue>86</usFatigue>
+			<usSleep>110</usSleep>
+		</ASSIGNMENT>
+			<MORALE>
+				<ubChance>86</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>2</ubRange>
+			</MORALE>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>42</ubIndex>
+		<szFacilityName>University Ruins</szFacilityName>
+		<szFacilityShortName>U-Ruins</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>The Queen doesn't want an educated citizenry -- on this site the teachers and students of the National University of Arulco were massacred, and the university grounds looted and bombed. At least there's a few good walls and roofs to keep off the rain and wind.</szTooltipText>
+			<usFatigue>80</usFatigue>
+			<usSleep>115</usSleep>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>43</ubIndex>
+		<szFacilityName>Alma Service Station</szFacilityName>
+		<szFacilityShortName>Service Station</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>A vehicle repair station used by the military. This will definitely make any repair-work easier, especially for vehicles.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>140</usPerformance>
+			<usFatigue>90</usFatigue>
+			<usKitDegrade>20</usKitDegrade>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
+			<szTooltipText>A vehicle repair station complete with tools and spare parts. This will definitely make any repair-work easier, especially for vehicles.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+			<usFatigue>90</usFatigue>
+			<usKitDegrade>10</usKitDegrade>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
+			<szTooltipText>A vehicle repair station complete with tools and spare parts. This will definitely make any repair-work easier, especially for vehicles.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>175</usPerformance>
+			<usFatigue>90</usFatigue>
+			<usKitDegrade>50</usKitDegrade>
+			<CONDITIONS>
+				<ubMinimumMechanical>60</ubMinimumMechanical>
+			</CONDITIONS>
+			<CONDITIONS>
+				<ubMinimumMechanical>60</ubMinimumMechanical>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Train mercs in the finer points of mechanics, including the tricks of the trade.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+			<CONDITIONS>
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+				<ubMinimumLeadership>50</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical. . . maybe then you can keep your own gear in better shape.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MECHANICAL</ubAssignmentType>
+			<szTooltipText>This facility and the service manuals here are a great aid for enhancing your mechanical skill.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>133</usPerformance>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>44</ubIndex>
+		<szFacilityName>Liquor Shop</szFacilityName>
+		<szFacilityShortName>Liquor</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>A small but well-stocked liquor shop. If your Mercs decide to imbibe they will spend their own cash.</szTooltipText>
+			<DRUNK>
+				<ubChance>86</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>7</ubRange>
+			</DRUNK>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>45</ubIndex>
+		<szFacilityName>Placeholder</szFacilityName>
+		<szFacilityShortName>Not Used Yet</szFacilityShortName>
+		<ubTotalStaffLimit>0</ubTotalStaffLimit>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>46</ubIndex>
+		<szFacilityName>Meduna Nightclub</szFacilityName>
+		<szFacilityShortName>Club</szFacilityShortName>
+		<ubTotalStaffLimit>9</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>Have a drink at the local nightclub! It might help you out in this town, for a price, but then again . . . it might not be safe to get drunk here.</szTooltipText>
+			<ubStaffLimit>8</ubStaffLimit>
+			<usPerformance>150</usPerformance>
+			<sCostPerHour>35</sCostPerHour>
+			<CONDITIONS>
+			</CONDITIONS>
+			<LOYALTY_LOCAL>
+				<ubChance>42</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>1</ubRange>
+			</LOYALTY_LOCAL>
+			<DRUNK>
+				<ubChance>333</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>10</ubRange>
+			</DRUNK>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>GATHER_RUMOURS</ubAssignmentType>
+			<szTooltipText>Have a drink at the... Yeah, you wish! Just buy drinks for others and immediately report any info they may spill.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>150</usPerformance>
+			<sCostPerHour>35</sCostPerHour>
+			<CONDITIONS>
+			</CONDITIONS>
+			<LOYALTY_LOCAL>
+				<ubChance>42</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>3</ubRange>
+			</LOYALTY_LOCAL>
+			<DRUNK>
+				<ubChance>86</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>3</ubRange>
+			</DRUNK>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE> 
+		<ubIndex>47</ubIndex>  
+		<szFacilityName>Toxic Waste Site</szFacilityName>  
+		<szFacilityShortName>Toxic Waste</szFacilityShortName>  
+		<ASSIGNMENT> 
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>The oil and poisonous waste chemicals that coat everything here are not exactly healthy . . . the smell in the air actually makes you feel queasy, and it is hard to breathe.</szTooltipText>  
+			<usFatigue>150</usFatigue>
+			<usSleep>50</usSleep>
+			<MORALE>
+				<ubChance>99</ubChance>
+				<bBaseEffect>-1</bBaseEffect>
+				<ubRange>9</ubRange>
+			</MORALE>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE> 
+		<ubIndex>48</ubIndex>  
+		<szFacilityName>Killing Fields</szFacilityName>  
+		<szFacilityShortName>Killing Fields</szFacilityShortName>  
+		<ASSIGNMENT> 
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>This is the scene of a desperate pitched battle between government and rebel forces. Evidence of mass carnage is everywhere. Being here will either alarm your fear of death, or reinforce your determination to kill the Queen.</szTooltipText>  
+			<usFatigue>125</usFatigue>
+			<usSleep>66</usSleep>
+			<MORALE>
+				<ubChance>99</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>5</ubRange>
+			</MORALE>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>49</ubIndex>
+		<szFacilityName>Waldo's Airport Workshop</szFacilityName>
+		<szFacilityShortName>Airport Workshop</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>Waldo's airport workshop has many of the tools necessary for all types of repair work, including repairing vehicles!</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>140</usPerformance>
+			<usFatigue>86</usFatigue>
+			<usKitDegrade>20</usKitDegrade>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
+			<szTooltipText>Waldo's airport workshop has many of the tools necessary for all types of repair work, including repairing vehicles!</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+			<usFatigue>86</usFatigue>
+			<usKitDegrade>25</usKitDegrade>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
+			<szTooltipText>Waldo's airport workshop has many of the tools necessary for all types of repair work, including repairing vehicles!</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>166</usPerformance>
+			<usFatigue>86</usFatigue>
+			<usKitDegrade>60</usKitDegrade>
+			<CONDITIONS>
+				<ubMinimumMechanical>60</ubMinimumMechanical>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Train mercs in the finer points of mechanics, including the tricks of the trade.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+			<CONDITIONS>
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+				<ubMinimumLeadership>50</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical. . . maybe then you can keep your own gear in better shape.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Waldo's knowledge and service manuals are a great way to increase your own mechanical knowledge. Having long discussions with Waldo can be a little slow and frustrating, though.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>50</ubIndex>
+		<szFacilityName>Military Warehouse</szFacilityName>
+		<szFacilityShortName>Warehouse</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>The military warehouse here also has tools and spare parts for the repair of all types of military hardware, and will make your repairs easier.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>150</usPerformance>
+			<usKitDegrade>25</usKitDegrade>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+</FACILITYTYPES>
