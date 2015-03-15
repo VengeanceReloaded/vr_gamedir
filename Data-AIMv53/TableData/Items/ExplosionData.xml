@@ -120,4 +120,14 @@
 		<BlastFilename>TILECACHE\shckwave.STI</BlastFilename>
 		<BlastSpeed>15</BlastSpeed>
 	</EXPDATA>
+	<EXPDATA>
+		<uiIndex>12</uiIndex>
+		<name>Flamethrower Flame</name>
+		<TransKeyFrame>1</TransKeyFrame>
+		<DamageKeyFrame>18</DamageKeyFrame>
+		<ExplosionSoundID>597</ExplosionSoundID>
+		<AltExplosionSoundID>-1</AltExplosionSoundID>
+		<BlastFilename>TILECACHE\FLAM_EXP.sti</BlastFilename>
+		<BlastSpeed>40</BlastSpeed>
+	</EXPDATA>
 </EXPDATALIST>

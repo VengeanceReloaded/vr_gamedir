@@ -13346,12 +13346,13 @@
 	<WEAPON>
 		<uiIndex>2001</uiIndex>
 		<szWeaponName>Flamethrower</szWeaponName>
-		<ubWeaponClass>7</ubWeaponClass>
-		<ubCalibre>13</ubCalibre>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>4</ubWeaponType>
+		<ubCalibre>16</ubCalibre>
 		<ubReadyTime>5</ubReadyTime>
 		<ubShotsPer4Turns>13.70</ubShotsPer4Turns>
 		<ubBulletSpeed>20</ubBulletSpeed>
-		<ubImpact>30</ubImpact>
+		<ubImpact>40</ubImpact>
 		<ubDeadliness>47</ubDeadliness>
 		<ubMagSize>10</ubMagSize>
 		<usRange>60</usRange>
@@ -13361,7 +13362,7 @@
 		<ubHitVolume>5</ubHitVolume>
 		<sSound>427</sSound>
 		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<sReloadSound>103</sReloadSound>
+		<sReloadSound>598</sReloadSound>
 		<sLocknLoadSound>109</sLocknLoadSound>
 		<SilencedSound>427</SilencedSound>
 		<bBurstAP>20</bBurstAP>

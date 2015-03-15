@@ -1265,7 +1265,7 @@
 		<ubType>8</ubType>
 		<ubDamage>20</ubDamage>
 		<ubStunDamage>15</ubStunDamage>
-		<ubRadius>4</ubRadius>
+		<ubRadius>2</ubRadius>
 		<ubVolume>15</ubVolume>
 		<ubVolatility>1</ubVolatility>
 		<ubAnimationID>10</ubAnimationID>
@@ -2585,16 +2585,16 @@
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>123</uiIndex>
-		<ubType>0</ubType>
-		<ubDamage>0</ubDamage>
-		<ubStunDamage>0</ubStunDamage>
-		<ubRadius>0</ubRadius>
-		<ubVolume>0</ubVolume>
-		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>0</ubAnimationID>
-		<ubDuration>0</ubDuration>
-		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubType>8</ubType>
+		<ubDamage>20</ubDamage>
+		<ubStunDamage>15</ubStunDamage>
+		<ubRadius>1</ubRadius>
+		<ubVolume>15</ubVolume>
+		<ubVolatility>1</ubVolatility>
+		<ubAnimationID>12</ubAnimationID>
+		<ubDuration>1</ubDuration>
+		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>

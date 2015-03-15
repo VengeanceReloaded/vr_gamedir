@@ -465,13 +465,13 @@
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
-		<highExplosive>0</highExplosive>
+		<highExplosive>2201</highExplosive>
 		<explosionSize>0</explosionSize>
 		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
-		<monsterSpit>0</monsterSpit>
-		<acidic>0</acidic>
+		<monsterSpit>1</monsterSpit>
+		<acidic>1</acidic>
 		<ignoreArmour>1</ignoreArmour>
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
@@ -479,7 +479,6 @@
 		<temperatureModificator>0.5</temperatureModificator>
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0.8</dirtModificator>
-		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>13</uiIndex>
