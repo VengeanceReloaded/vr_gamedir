@@ -50562,7 +50562,7 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<APBonus>5</APBonus>
+		<APBonus>0</APBonus>
 		<CamoBonus>10</CamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -69251,6 +69251,7 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Attachment>1</Attachment>
+		<SciFi>1</SciFi>
 		<NightVisionRangeBonus>-20</NightVisionRangeBonus>
 		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>-20</CaveVisionRangeBonus>
@@ -76801,6 +76802,7 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<APBonus>2</APBonus>
+		<SciFi>1</SciFi>
 		<HearingRangeBonus>2</HearingRangeBonus>
 		<DayVisionRangeBonus>1</DayVisionRangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -78704,6 +78706,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Attachment>1</Attachment>
+		<SciFi>1</SciFi>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<NightVisionRangeBonus>-10</NightVisionRangeBonus>
@@ -79133,6 +79136,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<SciFi>1</SciFi>
 		<UrbanCamoBonus>25</UrbanCamoBonus>
 		<NightVisionRangeBonus>-20</NightVisionRangeBonus>
 		<DayVisionRangeBonus>30</DayVisionRangeBonus>
