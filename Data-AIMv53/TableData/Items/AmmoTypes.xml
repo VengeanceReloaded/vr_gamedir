@@ -460,13 +460,13 @@
 		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
 		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
-		<canGoThrough>1</canGoThrough>
+		<canGoThrough>0</canGoThrough>
 		<standardIssue>1</standardIssue>
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>2201</highExplosive>
-		<explosionSize>0</explosionSize>
+		<explosionSize>2</explosionSize>
 		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>

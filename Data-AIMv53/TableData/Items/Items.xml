@@ -63304,7 +63304,9 @@
 		<szBRName>Molotov Bomb</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
+		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>124</ubClassIndex>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
@@ -63897,6 +63899,7 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>144</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>179</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -63907,6 +63910,7 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<buddyitem>2456</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -63920,6 +63924,7 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>145</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>182</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -63929,6 +63934,7 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
+		<buddyitem>2201</buddyitem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -63943,6 +63949,7 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>146</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>181</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -63953,6 +63960,7 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<buddyitem>2201</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -63966,6 +63974,7 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>147</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>183</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -63975,6 +63984,7 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
+		<buddyitem>2419</buddyitem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -63989,6 +63999,7 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>148</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>180</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -63999,6 +64010,7 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<buddyitem>2456</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -64012,6 +64024,7 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>149</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>184</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -64022,6 +64035,7 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<buddyitem>2456</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -64836,11 +64850,14 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2456</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2456</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>SMALL_C1_FIRE</szItemName>
+		<szLongItemName>SMALL_C1_FIRE</szLongItemName>
+		<szBRName>SMALL_C1_FIRE</szBRName>
+		<usItemClass>512</usItemClass>
+		<ubClassIndex>142</ubClassIndex>
+		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<buddyitem>2201</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
