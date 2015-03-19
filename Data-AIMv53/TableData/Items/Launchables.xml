@@ -441,6 +441,10 @@
 		<itemIndex>911</itemIndex>
 	</LAUNCHABLE>
 	<LAUNCHABLE>
+		<launchableIndex>980</launchableIndex>
+		<itemIndex>2098</itemIndex>
+	</LAUNCHABLE>
+	<LAUNCHABLE>
 		<launchableIndex>981</launchableIndex>
 		<itemIndex>904</itemIndex>
 	</LAUNCHABLE>
@@ -451,6 +455,10 @@
 	<LAUNCHABLE>
 		<launchableIndex>981</launchableIndex>
 		<itemIndex>911</itemIndex>
+	</LAUNCHABLE>
+	<LAUNCHABLE>
+		<launchableIndex>981</launchableIndex>
+		<itemIndex>2098</itemIndex>
 	</LAUNCHABLE>
 	<LAUNCHABLE>
 		<launchableIndex>982</launchableIndex>
@@ -635,5 +643,54 @@
 	<LAUNCHABLE>
 		<launchableIndex>2401</launchableIndex>
 		<itemIndex>901</itemIndex>
+	</LAUNCHABLE>
+
+	<LAUNCHABLE>
+		<launchableIndex>2414</launchableIndex>
+		<itemIndex>904</itemIndex>
+	</LAUNCHABLE>
+	<LAUNCHABLE>
+		<launchableIndex>2414</launchableIndex>
+		<itemIndex>907</itemIndex>
+	</LAUNCHABLE>
+	<LAUNCHABLE>
+		<launchableIndex>2414</launchableIndex>
+		<itemIndex>911</itemIndex>
+	</LAUNCHABLE>
+	<LAUNCHABLE>
+		<launchableIndex>2414</launchableIndex>
+		<itemIndex>2098</itemIndex>
+	</LAUNCHABLE>
+	<LAUNCHABLE>
+		<launchableIndex>2415</launchableIndex>
+		<itemIndex>904</itemIndex>
+	</LAUNCHABLE>
+	<LAUNCHABLE>
+		<launchableIndex>2415</launchableIndex>
+		<itemIndex>907</itemIndex>
+	</LAUNCHABLE>
+	<LAUNCHABLE>
+		<launchableIndex>2415</launchableIndex>
+		<itemIndex>911</itemIndex>
+	</LAUNCHABLE>
+	<LAUNCHABLE>
+		<launchableIndex>2415</launchableIndex>
+		<itemIndex>2098</itemIndex>
+	</LAUNCHABLE>
+	<LAUNCHABLE>
+		<launchableIndex>2450</launchableIndex>
+		<itemIndex>2094</itemIndex>
+	</LAUNCHABLE>
+	<LAUNCHABLE>
+		<launchableIndex>2451</launchableIndex>
+		<itemIndex>2094</itemIndex>
+	</LAUNCHABLE>
+	<LAUNCHABLE>
+		<launchableIndex>2452</launchableIndex>
+		<itemIndex>2094</itemIndex>
+	</LAUNCHABLE>
+	<LAUNCHABLE>
+		<launchableIndex>2453</launchableIndex>
+		<itemIndex>2094</itemIndex>
 	</LAUNCHABLE>
 </LAUNCHABLELIST>

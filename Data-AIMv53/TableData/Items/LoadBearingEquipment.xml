@@ -2760,7 +2760,7 @@
 		<lbePocketIndex11>8</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>	<!-- 40mm VOG Grenades Rig Combat Pack -->
 		<lbeIndex>138</lbeIndex>
 		<lbeClass>3</lbeClass>
 		<lbeCombo>6</lbeCombo>
@@ -2980,7 +2980,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Russian RM21-G Vest -->
 		<lbeIndex>149</lbeIndex>
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -3940,7 +3940,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- 40mm VOG Grenades Bandolier -->
 		<lbeIndex>197</lbeIndex>
 		<lbeClass>3</lbeClass>
 		<lbeCombo>6</lbeCombo>

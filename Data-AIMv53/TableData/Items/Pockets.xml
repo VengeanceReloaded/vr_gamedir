@@ -298,13 +298,8 @@
 		<pName>40mm Grenade x2</pName>
 		<pSilhouette>14</pSilhouette>
 		<pType>1</pType>
-		<ItemCapacityPerSize10>3</ItemCapacityPerSize10>
-		<ItemCapacityPerSize11>2</ItemCapacityPerSize11>
-		<ItemCapacityPerSize12>1</ItemCapacityPerSize12>
-		<ItemCapacityPerSize14>1</ItemCapacityPerSize14>
-		<ItemCapacityPerSize19>1</ItemCapacityPerSize19>
-		<ItemCapacityPerSize25>1</ItemCapacityPerSize25>
-		<ItemCapacityPerSize26>2</ItemCapacityPerSize26>
+		<pRestriction>768</pRestriction>
+		<ItemCapacityPerSize16>2</ItemCapacityPerSize16>
 	</POCKET>
 	<POCKET>
 		<pIndex>14</pIndex>
@@ -458,13 +453,8 @@
 		<pName>40mm Grenade x3</pName>
 		<pSilhouette>29</pSilhouette>
 		<pType>1</pType>
-		<ItemCapacityPerSize10>3</ItemCapacityPerSize10>
-		<ItemCapacityPerSize11>2</ItemCapacityPerSize11>
-		<ItemCapacityPerSize12>1</ItemCapacityPerSize12>
-		<ItemCapacityPerSize14>1</ItemCapacityPerSize14>
-		<ItemCapacityPerSize19>2</ItemCapacityPerSize19>
-		<ItemCapacityPerSize25>2</ItemCapacityPerSize25>
-		<ItemCapacityPerSize26>3</ItemCapacityPerSize26>
+		<pRestriction>768</pRestriction>
+		<ItemCapacityPerSize16>3</ItemCapacityPerSize16>
 	</POCKET>
 	<POCKET>
 		<pIndex>30</pIndex>
@@ -658,14 +648,8 @@
 		<pName>40mm Grenade x6</pName>
 		<pSilhouette>29</pSilhouette>
 		<pType>2</pType>
-		<ItemCapacityPerSize10>6</ItemCapacityPerSize10>
-		<ItemCapacityPerSize11>4</ItemCapacityPerSize11>
-		<ItemCapacityPerSize12>3</ItemCapacityPerSize12>
-		<ItemCapacityPerSize14>2</ItemCapacityPerSize14>
-		<ItemCapacityPerSize19>4</ItemCapacityPerSize19>
-		<ItemCapacityPerSize25>4</ItemCapacityPerSize25>
-		<ItemCapacityPerSize26>6</ItemCapacityPerSize26>
-		<ItemCapacityPerSize27>1</ItemCapacityPerSize27>
+		<pRestriction>768</pRestriction>
+		<ItemCapacityPerSize16>6</ItemCapacityPerSize16>
 	</POCKET>
 	<POCKET>
 		<pIndex>48</pIndex>
@@ -698,10 +682,8 @@
 		<pName>40mm Grenade x1</pName>
 		<pSilhouette>51</pSilhouette>
 		<pType>1</pType>
-		<ItemCapacityPerSize10>3</ItemCapacityPerSize10>
-		<ItemCapacityPerSize11>2</ItemCapacityPerSize11>
-		<ItemCapacityPerSize12>1</ItemCapacityPerSize12>
-		<ItemCapacityPerSize26>1</ItemCapacityPerSize26>
+		<pRestriction>768</pRestriction>
+		<ItemCapacityPerSize16>1</ItemCapacityPerSize16>
 	</POCKET>
 	<POCKET>
 		<pIndex>50</pIndex>
@@ -763,14 +745,8 @@
 		<pName>40mm Grenade x4 c.p.</pName>
 		<pSilhouette>49</pSilhouette>
 		<pType>3</pType>
-		<ItemCapacityPerSize10>6</ItemCapacityPerSize10>
-		<ItemCapacityPerSize11>4</ItemCapacityPerSize11>
-		<ItemCapacityPerSize12>3</ItemCapacityPerSize12>
-		<ItemCapacityPerSize14>2</ItemCapacityPerSize14>
-		<ItemCapacityPerSize19>3</ItemCapacityPerSize19>
-		<ItemCapacityPerSize25>3</ItemCapacityPerSize25>
-		<ItemCapacityPerSize26>4</ItemCapacityPerSize26>
-		<ItemCapacityPerSize27>1</ItemCapacityPerSize27>
+		<pRestriction>768</pRestriction>
+		<ItemCapacityPerSize16>4</ItemCapacityPerSize16>
 	</POCKET>
 	<POCKET>
 		<pIndex>55</pIndex>

@@ -37374,8 +37374,9 @@
 		<Repairable>1</Repairable>
 		<Attachment>1</Attachment>
 		<BR_NewInventory>3</BR_NewInventory>
-		<Flare>1</Flare>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<Flare>1</Flare>
+		<buddyitem>2457</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -46340,6 +46341,7 @@
 		<Mine>1</Mine>
 		<Flare>1</Flare>
 		<TripWireActivation>1</TripWireActivation>
+		<buddyitem>2457</buddyitem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -57665,6 +57667,7 @@
 		<szBRName>40mm Mortar</szBRName>
 		<szBRDesc>This very light mortar closes the range gap between grenade launchers and 60mm commando mortars. Can use either NATO or VOG grenades in a special shell casing.</szBRDesc>
 		<usItemClass>16</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>2094</ubClassIndex>
 		<ubCursor>20</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
@@ -63707,7 +63710,7 @@
 		<ubGraphicNum>815</ubGraphicNum>
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>26</ItemSize>
+		<ItemSize>16</ItemSize>
 		<usPrice>280</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -63739,7 +63742,7 @@
 		<ubGraphicNum>816</ubGraphicNum>
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>26</ItemSize>
+		<ItemSize>16</ItemSize>
 		<usPrice>350</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -63875,7 +63878,7 @@
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>143</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>105</ubGraphicNum>
+		<ubGraphicNum>45</ubGraphicNum>
 		<ubWeight>7</ubWeight>
 		<ubPerPocket>3</ubPerPocket>
 		<ItemSize>13</ItemSize>
@@ -63911,6 +63914,7 @@
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2456</buddyitem>
+		<SciFi>1</SciFi>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -63936,6 +63940,7 @@
 		<NotBuyable>1</NotBuyable>
 		<buddyitem>2201</buddyitem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<SciFi>1</SciFi>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -63961,6 +63966,7 @@
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2201</buddyitem>
+		<SciFi>1</SciFi>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -63986,6 +63992,7 @@
 		<NotBuyable>1</NotBuyable>
 		<buddyitem>2419</buddyitem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<SciFi>1</SciFi>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -64011,6 +64018,7 @@
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2456</buddyitem>
+		<SciFi>1</SciFi>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -64036,6 +64044,7 @@
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2456</buddyitem>
+		<SciFi>1</SciFi>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -64333,6 +64342,7 @@
 		<Repairable>1</Repairable>
 		<Attachment>1</Attachment>
 		<Flare>1</Flare>
+		<buddyitem>2457</buddyitem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -64684,11 +64694,13 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>173</ubClassIndex>
+		<AttachmentClass>1024</AttachmentClass>
+		<nasAttachmentClass>1024</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1002</ubGraphicNum>
 		<ubWeight>3</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>26</ItemSize>
+		<ItemSize>16</ItemSize>
 		<usPrice>450</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bReliability>-2</bReliability>
@@ -64712,11 +64724,13 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>174</ubClassIndex>
+		<AttachmentClass>1024</AttachmentClass>
+		<nasAttachmentClass>1024</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1003</ubGraphicNum>
 		<ubWeight>3</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>26</ItemSize>
+		<ItemSize>16</ItemSize>
 		<usPrice>590</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bReliability>-2</bReliability>
@@ -64740,11 +64754,13 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>175</ubClassIndex>
+		<AttachmentClass>1024</AttachmentClass>
+		<nasAttachmentClass>1024</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1004</ubGraphicNum>
 		<ubWeight>3</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>26</ItemSize>
+		<ItemSize>16</ItemSize>
 		<usPrice>330</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bReliability>-2</bReliability>
@@ -64768,11 +64784,13 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>176</ubClassIndex>
+		<AttachmentClass>1024</AttachmentClass>
+		<nasAttachmentClass>1024</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1005</ubGraphicNum>
 		<ubWeight>3</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>26</ItemSize>
+		<ItemSize>16</ItemSize>
 		<usPrice>400</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bReliability>-2</bReliability>
@@ -64864,10 +64882,12 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2457</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2457</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>FLARE_ANIMATION</szItemName>
+		<szLongItemName>FLARE_ANIMATION</szLongItemName>
+		<szBRName>FLARE_ANIMATION</szBRName>
+		<usItemClass>512</usItemClass>
+		<ubClassIndex>179</ubClassIndex>
+		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />

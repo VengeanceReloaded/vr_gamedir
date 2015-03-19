@@ -45,7 +45,7 @@
 		<name>Stun</name>
 		<TransKeyFrame>1</TransKeyFrame>
 		<DamageKeyFrame>5</DamageKeyFrame>
-		<ExplosionSoundID>61</ExplosionSoundID>
+		<ExplosionSoundID>603</ExplosionSoundID>		<!-- 61 -->
 		<AltExplosionSoundID>285</AltExplosionSoundID>
 		<BlastFilename>TILECACHE\shckwave.STI</BlastFilename>
 		<BlastSpeed>20</BlastSpeed>
@@ -129,5 +129,115 @@
 		<AltExplosionSoundID>-1</AltExplosionSoundID>
 		<BlastFilename>TILECACHE\FLAM_EXP.sti</BlastFilename>
 		<BlastSpeed>40</BlastSpeed>
+	</EXPDATA>
+	<EXPDATA>
+		<uiIndex>13</uiIndex>
+		<name>Incendiary</name>
+		<TransKeyFrame>1</TransKeyFrame>
+		<DamageKeyFrame>12</DamageKeyFrame>
+		<ExplosionSoundID>600</ExplosionSoundID>
+		<AltExplosionSoundID>-1</AltExplosionSoundID>
+		<BlastFilename>TILECACHE\Incendiary.sti</BlastFilename>
+		<BlastSpeed>1</BlastSpeed>
+	</EXPDATA>
+	<EXPDATA>
+		<uiIndex>14</uiIndex>
+		<name>Mini Grenade</name>
+		<TransKeyFrame>12</TransKeyFrame>
+		<DamageKeyFrame>3</DamageKeyFrame>
+		<ExplosionSoundID>602</ExplosionSoundID>
+		<AltExplosionSoundID>-1</AltExplosionSoundID>
+		<BlastFilename>TILECACHE\ZGRAV_D.STI</BlastFilename>
+		<BlastSpeed>40</BlastSpeed>
+	</EXPDATA>
+	<EXPDATA>
+		<uiIndex>15</uiIndex>
+		<name>Grenade</name>
+		<TransKeyFrame>12</TransKeyFrame>
+		<DamageKeyFrame>3</DamageKeyFrame>
+		<ExplosionSoundID>603</ExplosionSoundID>
+		<AltExplosionSoundID>-1</AltExplosionSoundID>
+		<BlastFilename>TILECACHE\ZGRAV_D.STI</BlastFilename>
+		<BlastSpeed>40</BlastSpeed>
+	</EXPDATA>
+	<EXPDATA>
+		<uiIndex>16</uiIndex>
+		<name>40mm Grenade</name>
+		<TransKeyFrame>12</TransKeyFrame>
+		<DamageKeyFrame>3</DamageKeyFrame>
+		<ExplosionSoundID>604</ExplosionSoundID>
+		<AltExplosionSoundID>-1</AltExplosionSoundID>
+		<BlastFilename>TILECACHE\ZGRAV_D.STI</BlastFilename>
+		<BlastSpeed>40</BlastSpeed>
+	</EXPDATA>
+	<EXPDATA>
+		<uiIndex>17</uiIndex>
+		<name>VOG Grenade</name>
+		<TransKeyFrame>12</TransKeyFrame>
+		<DamageKeyFrame>3</DamageKeyFrame>
+		<ExplosionSoundID>605</ExplosionSoundID>
+		<AltExplosionSoundID>-1</AltExplosionSoundID>
+		<BlastFilename>TILECACHE\VOGExplosion.sti</BlastFilename>
+		<BlastSpeed>40</BlastSpeed>
+	</EXPDATA>
+	<EXPDATA>
+		<uiIndex>18</uiIndex>
+		<name>20mm Grenade</name>
+		<TransKeyFrame>12</TransKeyFrame>
+		<DamageKeyFrame>3</DamageKeyFrame>
+		<ExplosionSoundID>602</ExplosionSoundID>
+		<AltExplosionSoundID>-1</AltExplosionSoundID>
+		<BlastFilename>TILECACHE\ZGRAV_D.STI</BlastFilename>
+		<BlastSpeed>40</BlastSpeed>
+	</EXPDATA>
+	<EXPDATA>
+		<uiIndex>19</uiIndex>
+		<name>Mortar Shell</name>
+		<TransKeyFrame>12</TransKeyFrame>
+		<DamageKeyFrame>3</DamageKeyFrame>
+		<ExplosionSoundID>61</ExplosionSoundID>		<!-- Mortar explosion sound 608 -->
+		<AltExplosionSoundID>-1</AltExplosionSoundID>
+		<BlastFilename>TILECACHE\MortarExplosion.sti</BlastFilename>
+		<BlastSpeed>40</BlastSpeed>
+	</EXPDATA>
+	<EXPDATA>
+		<uiIndex>20</uiIndex>
+		<name>Landmine Small</name>
+		<TransKeyFrame>12</TransKeyFrame>
+		<DamageKeyFrame>3</DamageKeyFrame>
+		<ExplosionSoundID>606</ExplosionSoundID>
+		<AltExplosionSoundID>-1</AltExplosionSoundID>
+		<BlastFilename>TILECACHE\Landmine.sti</BlastFilename>
+		<BlastSpeed>20</BlastSpeed>
+	</EXPDATA>
+	<EXPDATA>
+		<uiIndex>21</uiIndex>
+		<name>Landmine Big</name>
+		<TransKeyFrame>12</TransKeyFrame>
+		<DamageKeyFrame>3</DamageKeyFrame>
+		<ExplosionSoundID>607</ExplosionSoundID>
+		<AltExplosionSoundID>-1</AltExplosionSoundID>
+		<BlastFilename>TILECACHE\Landmine.sti</BlastFilename>
+		<BlastSpeed>20</BlastSpeed>
+	</EXPDATA>
+	<EXPDATA>
+		<uiIndex>22</uiIndex>
+		<name>Gas</name>
+		<TransKeyFrame>12</TransKeyFrame>
+		<DamageKeyFrame>3</DamageKeyFrame>
+		<ExplosionSoundID>61</ExplosionSoundID>
+		<AltExplosionSoundID>-1</AltExplosionSoundID>
+		<BlastFilename>TILECACHE\ZGRAV_D.STI</BlastFilename>
+		<BlastSpeed>80</BlastSpeed>
+	</EXPDATA>
+	<EXPDATA>
+		<uiIndex>23</uiIndex>
+		<name>Flare</name>
+		<TransKeyFrame>12</TransKeyFrame>
+		<DamageKeyFrame>3</DamageKeyFrame>
+		<ExplosionSoundID>601</ExplosionSoundID>
+		<AltExplosionSoundID>-1</AltExplosionSoundID>
+		<BlastFilename>TILECACHE\flare.sti</BlastFilename>
+		<BlastSpeed>80</BlastSpeed>
 	</EXPDATA>
 </EXPDATALIST>
