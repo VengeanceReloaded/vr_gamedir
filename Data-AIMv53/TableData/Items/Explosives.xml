@@ -352,7 +352,7 @@
 		<ubVolume>0</ubVolume>
 		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>1</ubAnimationID>
-		<ubDuration>35</ubDuration>
+		<ubDuration>10</ubDuration>
 		<ubStartRadius>3</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
@@ -376,7 +376,7 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -481,7 +481,7 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -663,7 +663,7 @@
 		<ubType>4</ubType>
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>0</ubStunDamage>
-		<ubRadius>16</ubRadius>
+		<ubRadius>10</ubRadius>
 		<ubVolume>0</ubVolume>
 		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>1</ubAnimationID>
@@ -733,7 +733,7 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>6</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -796,7 +796,7 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>6</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -834,11 +834,11 @@
 		<ubRadius>4</ubRadius>
 		<ubVolume>50</ubVolume>
 		<ubVolatility>1</ubVolatility>
-		<ubAnimationID>2</ubAnimationID>
+		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>6</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -859,7 +859,7 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>6</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -922,7 +922,7 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>6</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -960,11 +960,11 @@
 		<ubRadius>5</ubRadius>
 		<ubVolume>50</ubVolume>
 		<ubVolatility>1</ubVolatility>
-		<ubAnimationID>2</ubAnimationID>
+		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>6</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -985,7 +985,7 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>6</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -1111,7 +1111,7 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -1132,7 +1132,7 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>4</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -1144,7 +1144,7 @@
 	<EXPLOSIVE>	<!-- 43mm Mustard Gas Grenades, 4 -->
 		<uiIndex>53</uiIndex>
 		<ubType>3</ubType>
-		<ubDamage>15</ubDamage>
+		<ubDamage>16</ubDamage>
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
@@ -1171,7 +1171,7 @@
 		<ubVolume>0</ubVolume>
 		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
-		<ubDuration>6</ubDuration>
+		<ubDuration>7</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
 		<ubMagSize>4</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
@@ -1213,7 +1213,7 @@
 		<ubVolume>0</ubVolume>
 		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>6</ubAnimationID>
-		<ubDuration>6</ubDuration>
+		<ubDuration>7</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
 		<ubMagSize>4</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
@@ -1228,12 +1228,12 @@
 	<EXPLOSIVE>	<!-- OG-7V Fragmentation Rocket -->
 		<uiIndex>57</uiIndex>
 		<ubType>0</ubType>
-		<ubDamage>65</ubDamage>
+		<ubDamage>40</ubDamage>
 		<ubStunDamage>15</ubStunDamage>
 		<ubRadius>6</ubRadius>
 		<ubVolume>55</ubVolume>
 		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>2</ubAnimationID>
+		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
@@ -1249,7 +1249,7 @@
 	<EXPLOSIVE>	<!-- PG-7VM HEAT Rocket -->
 		<uiIndex>58</uiIndex>
 		<ubType>0</ubType>
-		<ubDamage>100</ubDamage>
+		<ubDamage>80</ubDamage>
 		<ubStunDamage>10</ubStunDamage>
 		<ubRadius>3</ubRadius>
 		<ubVolume>75</ubVolume>
@@ -1272,7 +1272,7 @@
 		<ubType>0</ubType>
 		<ubDamage>60</ubDamage>
 		<ubStunDamage>200</ubStunDamage>
-		<ubRadius>8</ubRadius>
+		<ubRadius>7</ubRadius>
 		<ubVolume>65</ubVolume>
 		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>2</ubAnimationID>
@@ -1321,7 +1321,7 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -1342,7 +1342,7 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>200</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>6</ubFragDamage>
@@ -1363,7 +1363,7 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>6</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -1384,7 +1384,7 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>3</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -1468,7 +1468,7 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>3</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -1510,7 +1510,7 @@
 		<ubDuration>2</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
 		<ubMagSize>6</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -1531,7 +1531,7 @@
 		<ubDuration>3</ubDuration>
 		<ubStartRadius>3</ubStartRadius>
 		<ubMagSize>6</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -1550,7 +1550,7 @@
 		<ubVolatility>2</ubVolatility>
 		<ubAnimationID>9</ubAnimationID>
 		<ubDuration>4</ubDuration>
-		<ubStartRadius>4</ubStartRadius>
+		<ubStartRadius>3</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
@@ -1571,7 +1571,7 @@
 		<ubVolatility>2</ubVolatility>
 		<ubAnimationID>9</ubAnimationID>
 		<ubDuration>4</ubDuration>
-		<ubStartRadius>4</ubStartRadius>
+		<ubStartRadius>3</ubStartRadius>
 		<ubMagSize>6</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
@@ -1592,7 +1592,7 @@
 		<ubVolatility>2</ubVolatility>
 		<ubAnimationID>9</ubAnimationID>
 		<ubDuration>4</ubDuration>
-		<ubStartRadius>4</ubStartRadius>
+		<ubStartRadius>3</ubStartRadius>
 		<ubMagSize>3</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
@@ -1629,12 +1629,12 @@
 		<ubType>4</ubType>
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>0</ubStunDamage>
-		<ubRadius>10</ubRadius>
+		<ubRadius>6</ubRadius>
 		<ubVolume>0</ubVolume>
 		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>6</ubDuration>
-		<ubStartRadius>4</ubStartRadius>
+		<ubStartRadius>6</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
@@ -1671,12 +1671,12 @@
 		<ubType>4</ubType>
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>0</ubStunDamage>
-		<ubRadius>10</ubRadius>
+		<ubRadius>6</ubRadius>
 		<ubVolume>0</ubVolume>
 		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>1</ubAnimationID>
-		<ubDuration>10</ubDuration>
-		<ubStartRadius>7</ubStartRadius>
+		<ubDuration>7</ubDuration>
+		<ubStartRadius>6</ubStartRadius>
 		<ubMagSize>4</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
@@ -1699,7 +1699,7 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -1711,7 +1711,7 @@
 	<EXPLOSIVE>	<!-- 43mm Mustard Gas Grenades -->
 		<uiIndex>80</uiIndex>
 		<ubType>3</ubType>
-		<ubDamage>15</ubDamage>
+		<ubDamage>16</ubDamage>
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
@@ -1738,7 +1738,7 @@
 		<ubVolume>0</ubVolume>
 		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
-		<ubDuration>6</ubDuration>
+		<ubDuration>7</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
@@ -1780,7 +1780,7 @@
 		<ubVolume>0</ubVolume>
 		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>6</ubAnimationID>
-		<ubDuration>6</ubDuration>
+		<ubDuration>7</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
@@ -1797,12 +1797,12 @@
 		<ubType>4</ubType>
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>0</ubStunDamage>
-		<ubRadius>10</ubRadius>
+		<ubRadius>6</ubRadius>
 		<ubVolume>0</ubVolume>
 		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>1</ubAnimationID>
-		<ubDuration>10</ubDuration>
-		<ubStartRadius>7</ubStartRadius>
+		<ubDuration>7</ubDuration>
+		<ubStartRadius>6</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
@@ -3273,7 +3273,7 @@
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>3</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>5</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
@@ -3335,7 +3335,7 @@
 		<ubVolatility>1</ubVolatility>
 		<ubAnimationID>9</ubAnimationID>
 		<ubDuration>8</ubDuration>
-		<ubStartRadius>5</ubStartRadius>
+		<ubStartRadius>4</ubStartRadius>
 		<ubMagSize>0</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
@@ -3505,7 +3505,7 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>0</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -3519,11 +3519,11 @@
 		<ubType>4</ubType>
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>0</ubStunDamage>
-		<ubRadius>10</ubRadius>
+		<ubRadius>60</ubRadius>
 		<ubVolume>0</ubVolume>
 		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>1</ubAnimationID>
-		<ubDuration>10</ubDuration>
+		<ubDuration>6</ubDuration>
 		<ubStartRadius>6</ubStartRadius>
 		<ubMagSize>0</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
@@ -3566,7 +3566,7 @@
 		<ubVolatility>2</ubVolatility>
 		<ubAnimationID>9</ubAnimationID>
 		<ubDuration>4</ubDuration>
-		<ubStartRadius>4</ubStartRadius>
+		<ubStartRadius>3</ubStartRadius>
 		<ubMagSize>0</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
@@ -3652,7 +3652,7 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>0</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -3673,7 +3673,7 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>0</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -3694,7 +3694,7 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>0</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
@@ -3807,5 +3807,89 @@
 		<ubHorizontalDegree>0</ubHorizontalDegree>
 		<ubVerticalDegree>0</ubVerticalDegree>
 		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>180</uiIndex>		<!-- PG-16 HEAT Grenade -->
+		<ubType>0</ubType>
+		<ubDamage>65</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>3</ubRadius>
+		<ubVolume>100</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>1</ubAnimationID>
+		<ubDuration>0</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0.00</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>181</uiIndex>		<!-- RPG-26 Aglen Grenade -->
+		<ubType>0</ubType>
+		<ubDamage>100</ubDamage>
+		<ubStunDamage>30</ubStunDamage>
+		<ubRadius>3</ubRadius>
+		<ubVolume>75</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>1</ubAnimationID>
+		<ubDuration>0</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>182</uiIndex>		<!-- RPG-27 Tavolga Grenade -->
+		<ubType>0</ubType>
+		<ubDamage>120</ubDamage>
+		<ubStunDamage>40</ubStunDamage>
+		<ubRadius>3</ubRadius>
+		<ubVolume>75</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>1</ubAnimationID>
+		<ubDuration>0</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>1</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>183</uiIndex>		<!-- RPO-M Shmel Grenade -->
+		<ubType>0</ubType>
+		<ubDamage>60</ubDamage>
+		<ubStunDamage>200</ubStunDamage>
+		<ubRadius>8</ubRadius>
+		<ubVolume>65</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>2</ubAnimationID>
+		<ubDuration>0</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0.5</bIndoorModifier>
 	</EXPLOSIVE>
 </EXPLOSIVELIST>

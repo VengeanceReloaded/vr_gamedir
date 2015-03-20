@@ -46,7 +46,7 @@
 		<TransKeyFrame>1</TransKeyFrame>
 		<DamageKeyFrame>5</DamageKeyFrame>
 		<ExplosionSoundID>603</ExplosionSoundID>		<!-- 61 -->
-		<AltExplosionSoundID>285</AltExplosionSoundID>
+		<AltExplosionSoundID>-1</AltExplosionSoundID>
 		<BlastFilename>TILECACHE\shckwave.STI</BlastFilename>
 		<BlastSpeed>20</BlastSpeed>
 	</EXPDATA>
@@ -94,11 +94,11 @@
 		<uiIndex>9</uiIndex>
 		<name>Flame</name>
 		<TransKeyFrame>1</TransKeyFrame>
-		<DamageKeyFrame>18</DamageKeyFrame>
-		<ExplosionSoundID>286</ExplosionSoundID>
+		<DamageKeyFrame>12</DamageKeyFrame>
+		<ExplosionSoundID>61</ExplosionSoundID>
 		<AltExplosionSoundID>-1</AltExplosionSoundID>
-		<BlastFilename>TILECACHE\ZGRAV_C.STI</BlastFilename>
-		<BlastSpeed>80</BlastSpeed>
+		<BlastFilename>TILECACHE\Napalm.STI</BlastFilename>
+		<BlastSpeed>20</BlastSpeed>
 	</EXPDATA>
 	<EXPDATA>
 		<uiIndex>10</uiIndex>

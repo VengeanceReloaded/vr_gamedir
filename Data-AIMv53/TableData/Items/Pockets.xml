@@ -348,6 +348,9 @@
 		<pName>NIV Default Belt Clip</pName>
 		<pSilhouette>21</pSilhouette>
 		<pType>1</pType>
+		<pRestriction>268468480</pRestriction>
+		<ItemCapacityPerSize14>1</ItemCapacityPerSize14>
+		<ItemCapacityPerSize18>1</ItemCapacityPerSize18>
 		<ItemCapacityPerSize22>1</ItemCapacityPerSize22>
 	</POCKET>
 	<POCKET>
@@ -690,14 +693,9 @@
 		<pName>RPG Rocket</pName>
 		<pSilhouette>45</pSilhouette>
 		<pType>3</pType>
-		<ItemCapacityPerSize19>4</ItemCapacityPerSize19>
-		<ItemCapacityPerSize22>2</ItemCapacityPerSize22>
-		<ItemCapacityPerSize23>2</ItemCapacityPerSize23>
-		<ItemCapacityPerSize25>4</ItemCapacityPerSize25>
-		<ItemCapacityPerSize26>4</ItemCapacityPerSize26>
-		<ItemCapacityPerSize27>1</ItemCapacityPerSize27>
-		<ItemCapacityPerSize28>2</ItemCapacityPerSize28>
-		<ItemCapacityPerSize29>2</ItemCapacityPerSize29>
+		<pRestriction>256</pRestriction>
+		<ItemCapacityPerSize24>2</ItemCapacityPerSize24>
+		<ItemCapacityPerSize32>2</ItemCapacityPerSize32>
 	</POCKET>
 	<POCKET>
 		<pIndex>51</pIndex>

@@ -2881,7 +2881,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>144</lbeIndex>
+		<lbeIndex>144</lbeIndex>	<!-- RPG Combat Pack -->
 		<lbeClass>3</lbeClass>
 		<lbeCombo>4</lbeCombo>
 		<lbeFilledSize>33</lbeFilledSize>
@@ -2889,11 +2889,11 @@
 		<lbePocketsAvailable>0</lbePocketsAvailable>
 		<lbePocketIndex1>17</lbePocketIndex1>
 		<lbePocketIndex2>17</lbePocketIndex2>
-		<lbePocketIndex3>53</lbePocketIndex3>
-		<lbePocketIndex4>30</lbePocketIndex4>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
 		<lbePocketIndex5>50</lbePocketIndex5>
 		<lbePocketIndex6>50</lbePocketIndex6>
-		<lbePocketIndex7>48</lbePocketIndex7>
+		<lbePocketIndex7>0</lbePocketIndex7>
 		<lbePocketIndex8>0</lbePocketIndex8>
 		<lbePocketIndex9>0</lbePocketIndex9>
 		<lbePocketIndex10>0</lbePocketIndex10>
