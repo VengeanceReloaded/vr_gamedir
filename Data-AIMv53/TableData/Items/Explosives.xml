@@ -2950,8 +2950,8 @@
 	<EXPLOSIVE>	<!-- Small Mine -->
 		<uiIndex>139</uiIndex>
 		<ubType>0</ubType>
-		<ubDamage>25</ubDamage>
-		<ubStunDamage>25</ubStunDamage>
+		<ubDamage>20</ubDamage>
+		<ubStunDamage>20</ubStunDamage>
 		<ubRadius>1</ubRadius>
 		<ubVolume>30</ubVolume>
 		<ubVolatility>2</ubVolatility>
@@ -2971,33 +2971,33 @@
 	<EXPLOSIVE>	<!-- M18A1 Claymore Mine -->
 		<uiIndex>140</uiIndex>
 		<ubType>0</ubType>
-		<ubDamage>50</ubDamage>
-		<ubStunDamage>35</ubStunDamage>
-		<ubRadius>10</ubRadius>
-		<ubVolume>60</ubVolume>
-		<ubVolatility>2</ubVolatility>
-		<ubAnimationID>2</ubAnimationID>
+		<ubDamage>30</ubDamage>
+		<ubStunDamage>25</ubStunDamage>
+		<ubRadius>5</ubRadius>
+		<ubVolume>30</ubVolume>
+		<ubVolatility>1</ubVolatility>
+		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>0</usNumFragments>
+		<usNumFragments>250</usNumFragments>
 		<ubFragType>0</ubFragType>
-		<ubFragDamage>0</ubFragDamage>
-		<ubFragRange>0</ubFragRange>
-		<ubHorizontalDegree>0</ubHorizontalDegree>
-		<ubVerticalDegree>0</ubVerticalDegree>
+		<ubFragDamage>12</ubFragDamage>
+		<ubFragRange>60</ubFragRange>
+		<ubHorizontalDegree>359</ubHorizontalDegree>
+		<ubVerticalDegree>5</ubVerticalDegree>
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
-	<EXPLOSIVE>	<!-- Modified Claymore Mine -->
+	<EXPLOSIVE>	<!-- BLU-43 Mine -->
 		<uiIndex>141</uiIndex>
 		<ubType>0</ubType>
-		<ubDamage>50</ubDamage>
-		<ubStunDamage>35</ubStunDamage>
-		<ubRadius>10</ubRadius>
-		<ubVolume>60</ubVolume>
-		<ubVolatility>2</ubVolatility>
-		<ubAnimationID>2</ubAnimationID>
+		<ubDamage>20</ubDamage>
+		<ubStunDamage>10</ubStunDamage>
+		<ubRadius>1</ubRadius>
+		<ubVolume>20</ubVolume>
+		<ubVolatility>1</ubVolatility>
+		<ubAnimationID>20</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>0</ubMagSize>
@@ -3224,14 +3224,14 @@
 		<uiIndex>152</uiIndex>
 		<ubType>9</ubType>
 		<ubDamage>2</ubDamage>
-		<ubStunDamage>120</ubStunDamage>
-		<ubRadius>6</ubRadius>
+		<ubStunDamage>10</ubStunDamage>
+		<ubRadius>5</ubRadius>
 		<ubVolume>80</ubVolume>
 		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>11</ubAnimationID>
 		<ubDuration>2</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
@@ -3436,12 +3436,12 @@
 		<ubDamage>15</ubDamage>
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
-		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolume>5</ubVolume>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>6</ubDuration>
-		<ubStartRadius>2</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
@@ -3457,11 +3457,11 @@
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
-		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolume>5</ubVolume>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>6</ubDuration>
-		<ubStartRadius>2</ubStartRadius>
+		<ubStartRadius>1</ubStartRadius>
 		<ubMagSize>0</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
@@ -3482,8 +3482,8 @@
 		<ubVolatility>1</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>6</ubDuration>
-		<ubStartRadius>2</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>
@@ -3855,7 +3855,7 @@
 		<ubType>0</ubType>
 		<ubDamage>120</ubDamage>
 		<ubStunDamage>40</ubStunDamage>
-		<ubRadius>3</ubRadius>
+		<ubRadius>2</ubRadius>
 		<ubVolume>75</ubVolume>
 		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>1</ubAnimationID>

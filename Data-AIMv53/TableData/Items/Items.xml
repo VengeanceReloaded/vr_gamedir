@@ -4359,8 +4359,8 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>10</ubClassIndex>
 		<ubCursor>18</ubCursor>
-		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>46</ubGraphicNum>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>432</ubGraphicNum>
 		<ubWeight>8</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>17</ItemSize>
@@ -46055,8 +46055,8 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>85</ubClassIndex>
 		<ubCursor>18</ubCursor>
-		<ubGraphicType>2</ubGraphicType>
-		<ubGraphicNum>97</ubGraphicNum>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>188</ubGraphicNum>
 		<ubWeight>16</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>17</ItemSize>
@@ -63810,7 +63810,7 @@
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>139</ubClassIndex>
 		<ubCursor>18</ubCursor>
-		<ubGraphicType>5</ubGraphicType>
+		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>46</ubGraphicNum>
 		<ubWeight>4</ubWeight>
 		<ubPerPocket>3</ubPerPocket>
@@ -63831,19 +63831,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2417</uiIndex>
-		<szItemName>Claymore</szItemName>
-		<szLongItemName>M18A1 Claymore Mine</szLongItemName>
-		<szItemDesc>This anti-personnel mine will give your opponents balls of steel, 800 to be exact, firing in a 60 degree arc from 1.2 pounds of C4 all wrapped up in a concave plastic shell.</szItemDesc>
-		<szBRName>M18A1 Claymore Mine</szBRName>
-		<szBRDesc>The Claymore anti-personnel mine is an extremely effective weapon, firing its shrapnel  in the form of steel balls out to 150 meters in every direction in a 60 degree arc.</szBRDesc>
+		<szItemName>S-Mine</szItemName>
+		<szLongItemName>S-Mine</szLongItemName>
+		<szItemDesc>The German S-mine, also known as the Bouncing Betty, is the best-known version of a class of mines known as bounding mines. The explosion projects a lethal spray of steel balls and fragments in all directions.</szItemDesc>
+		<szBRName>S-Mine</szBRName>
+		<szBRDesc>The German S-mine, also known as the Bouncing Betty, is the best-known version of a class of mines known as bounding mines. The explosion projects a lethal spray of steel balls and fragments in all directions.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>140</ubClassIndex>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>188</ubGraphicNum>
-		<ubWeight>12</ubWeight>
+		<ubGraphicNum>433</ubGraphicNum>
+		<ubWeight>40</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>20</ItemSize>
+		<ItemSize>17</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>7</ubCoolness>
 		<bRepairEase>-3</bRepairEase>
@@ -63852,6 +63852,7 @@
 		<Metal>1</Metal>
 		<BR_NewInventory>1</BR_NewInventory>
 		<Mine>1</Mine>
+		<TripWireActivation>1</TripWireActivation>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -63859,24 +63860,26 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2418</uiIndex>
-		<szItemName>Modified Claymore</szItemName>
-		<szLongItemName>Modified Claymore Mine</szLongItemName>
-		<szItemDesc>The Claymore anti-personnel mine is an extremely effective weapon, firing its shrapnel  in the form of steel balls out to about 100 meters in every direction. This Claymore mine has been modified to accept timed and remote detonators, therefore doesn't need to be dug in.</szItemDesc>
-		<szBRName>Modified Claymore Mine</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szItemName>BLU-43 Mine</szItemName>
+		<szLongItemName>BLU-44 Dragontooth Mine</szLongItemName>
+		<szItemDesc>The Dragontooth was designed during the Vietnam War with helicopter deployment in mind. Small but lethal.</szItemDesc>
+		<szBRName>BLU-43 Mine</szBRName>
+		<szBRDesc>The Dragontooth was designed during the Vietnam War with helicopter deployment in mind. Small but lethal.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>141</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>188</ubGraphicNum>
-		<ubWeight>12</ubWeight>
+		<ubGraphicNum>434</ubGraphicNum>
+		<ubCursor>18</ubCursor>
+		<ubWeight>1</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>20</ItemSize>
+		<ItemSize>13</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>7</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
+		<Mine>1</Mine>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -63892,6 +63895,7 @@
 		<szBRDesc>Composition C1 is a solution of RDX and a small amount of mineral oil. This combination retains the explosive power of RDX while increasing its stability. This small charge has a slightly decreased blast radius for those situations you want a more controlled explosion.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>142</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>44</ubGraphicNum>
 		<ubWeight>6</ubWeight>
@@ -63917,6 +63921,7 @@
 		<szBRDesc>Composition C4 is a white plastic explosive that is more powerful than TNT.  Compared to a regular chunk of C4, this small charge has a slightly decreased blast radius for those situations you want a more controlled explosion.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>143</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>45</ubGraphicNum>
 		<ubWeight>7</ubWeight>
@@ -64149,7 +64154,9 @@
 		<szBRName>Flashbang Mine</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>152</ubClassIndex>
+		<ubCursor>18</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>837</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -64161,6 +64168,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Mine>1</Mine>
+		<TripWireActivation>0</TripWireActivation>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -64430,6 +64439,8 @@
 		<szBRName>Mustard Gas Mine</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
+		<ubCursor>18</ubCursor>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>162</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>873</ubGraphicNum>
@@ -64442,6 +64453,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Mine>1</Mine>
+		<TripWireActivation>0</TripWireActivation>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -64456,6 +64469,8 @@
 		<szBRName>Tear Gas Mine</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
+		<ubCursor>18</ubCursor>
 		<ubClassIndex>163</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>874</ubGraphicNum>
@@ -64468,6 +64483,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Mine>1</Mine>
+		<TripWireActivation>0</TripWireActivation>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -64482,6 +64499,8 @@
 		<szBRName>Smoke Mine</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
+		<ubCursor>18</ubCursor>
 		<ubClassIndex>164</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>876</ubGraphicNum>
@@ -64494,6 +64513,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Mine>1</Mine>
+		<TripWireActivation>0</TripWireActivation>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
