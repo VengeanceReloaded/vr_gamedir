@@ -604,6 +604,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>11</ubClassIndex>
 		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>11</ubGraphicNum>
 		<ubWeight>48</ubWeight>
 		<ItemSize>7</ItemSize>
@@ -2108,12 +2109,12 @@
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<RocketRifle>1</RocketRifle>
-		<FingerPrintID>1</FingerPrintID>
 		<CamoBonus>-5</CamoBonus>
 		<UrbanCamoBonus>-5</UrbanCamoBonus>
 		<DesertCamoBonus>-5</DesertCamoBonus>
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
+		<FingerPrintID>1</FingerPrintID>
 		<ProjectionFactor>1.3</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -2417,12 +2418,12 @@
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<RocketRifle>1</RocketRifle>
-		<FingerPrintID>1</FingerPrintID>
 		<CamoBonus>-5</CamoBonus>
 		<UrbanCamoBonus>-5</UrbanCamoBonus>
 		<DesertCamoBonus>-5</DesertCamoBonus>
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
+		<FingerPrintID>1</FingerPrintID>
 		<ProjectionFactor>1.3</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -2482,6 +2483,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>67</ubClassIndex>
 		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>51</ubGraphicNum>
 		<ubWeight>10</ubWeight>
 		<ItemSize>4</ItemSize>
@@ -7237,12 +7239,12 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>100</BestLaserRange>
-		<ProjectionFactor>1.3</ProjectionFactor>
 		<CamoBonus>-5</CamoBonus>
 		<UrbanCamoBonus>-5</UrbanCamoBonus>
 		<DesertCamoBonus>-5</DesertCamoBonus>
 		<SnowCamoBonus>-5</SnowCamoBonus>
-		<StealthBonus>-5</StealthBonus>	
+		<StealthBonus>-5</StealthBonus>
+		<ProjectionFactor>1.3</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -22632,14 +22634,14 @@
 		<MinRangeForAimBonus>45</MinRangeForAimBonus>
 		<PercentAPReduction>20</PercentAPReduction>
 		<DefaultAttachment>912</DefaultAttachment>
-		<VisionRangeBonus>50</VisionRangeBonus>
-		<PercentTunnelVision>70</PercentTunnelVision>
-		<ScopeMagFactor>4.0</ScopeMagFactor>
 		<CamoBonus>-6</CamoBonus>
 		<UrbanCamoBonus>-6</UrbanCamoBonus>
 		<DesertCamoBonus>-6</DesertCamoBonus>
 		<SnowCamoBonus>-6</SnowCamoBonus>
 		<StealthBonus>-6</StealthBonus>
+		<VisionRangeBonus>50</VisionRangeBonus>
+		<PercentTunnelVision>70</PercentTunnelVision>
+		<ScopeMagFactor>4.0</ScopeMagFactor>
 		<ProjectionFactor>1.4</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -28587,11 +28589,11 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
-		<DefaultAttachment>2959</DefaultAttachment>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>10</BR_ROF>
 		<RocketLauncher>1</RocketLauncher>
+		<DefaultAttachment>2959</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -30399,9 +30401,9 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
-		<RangeBonus>50</RangeBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<RangeBonus>50</RangeBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -37405,8 +37407,8 @@
 		<Repairable>1</Repairable>
 		<Attachment>1</Attachment>
 		<BR_NewInventory>3</BR_NewInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<Flare>1</Flare>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<buddyitem>2457</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -46372,8 +46374,8 @@
 		<Mine>1</Mine>
 		<Flare>1</Flare>
 		<TripWireActivation>1</TripWireActivation>
-		<buddyitem>2457</buddyitem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<buddyitem>2457</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50595,7 +50597,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<APBonus>0</APBonus>
 		<CamoBonus>10</CamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -57262,8 +57263,8 @@
 		<szBRName>Carl-Gustaf M3</szBRName>
 		<szBRDesc>The Carl-Gustaf recoilless rifle is a devestating anti-tank, anti-personnel weapon, firing 84mm rockets.</szBRDesc>
 		<usItemClass>16</usItemClass>
-		<ubClassIndex>2081</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2081</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1042</ubGraphicNum>
@@ -58188,7 +58189,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>30</BR_ROF>
 		<DefaultAttachment>1029</DefaultAttachment>
-		<FingerPrintID>0</FingerPrintID>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -58966,15 +58966,15 @@
 		<DefaultAttachment>208</DefaultAttachment>
 		<DefaultAttachment>1831</DefaultAttachment>
 		<DefaultAttachment>1918</DefaultAttachment>
-		<ThermalOptics>1</ThermalOptics>
-		<XRay>1</XRay>
-		<NeedsBatteries>1</NeedsBatteries>
-		<FingerPrintID>1</FingerPrintID>
 		<CamoBonus>-5</CamoBonus>
 		<UrbanCamoBonus>-5</UrbanCamoBonus>
 		<DesertCamoBonus>-5</DesertCamoBonus>
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
+		<ThermalOptics>1</ThermalOptics>
+		<XRay>1</XRay>
+		<NeedsBatteries>1</NeedsBatteries>
+		<FingerPrintID>1</FingerPrintID>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -63867,9 +63867,9 @@
 		<szBRDesc>The Dragontooth was designed during the Vietnam War with helicopter deployment in mind. Small but lethal.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>141</ubClassIndex>
+		<ubCursor>18</ubCursor>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>434</ubGraphicNum>
-		<ubCursor>18</ubCursor>
 		<ubWeight>1</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>13</ItemSize>
@@ -63879,8 +63879,8 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
-		<Mine>1</Mine>
 		<NotBuyable>1</NotBuyable>
+		<Mine>1</Mine>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -63894,8 +63894,8 @@
 		<szBRName>C1 small Charge</szBRName>
 		<szBRDesc>Composition C1 is a solution of RDX and a small amount of mineral oil. This combination retains the explosive power of RDX while increasing its stability. This small charge has a slightly decreased blast radius for those situations you want a more controlled explosion.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>142</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>142</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>44</ubGraphicNum>
 		<ubWeight>6</ubWeight>
@@ -63920,8 +63920,8 @@
 		<szBRName>C4 Small Charge</szBRName>
 		<szBRDesc>Composition C4 is a white plastic explosive that is more powerful than TNT.  Compared to a regular chunk of C4, this small charge has a slightly decreased blast radius for those situations you want a more controlled explosion.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>143</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>143</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>45</ubGraphicNum>
 		<ubWeight>7</ubWeight>
@@ -63946,8 +63946,8 @@
 		<szBRName>Eagle Screamer</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>144</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>144</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>179</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -63957,9 +63957,9 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
+		<SciFi>1</SciFi>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2456</buddyitem>
-		<SciFi>1</SciFi>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -63972,8 +63972,8 @@
 		<szBRName>Eagle Silencer</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>145</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>145</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>182</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -63983,9 +63983,9 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
-		<buddyitem>2201</buddyitem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<SciFi>1</SciFi>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<buddyitem>2201</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -63998,8 +63998,8 @@
 		<szBRName>Eagle Fearball</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>146</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>146</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>181</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -64009,9 +64009,9 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
+		<SciFi>1</SciFi>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2201</buddyitem>
-		<SciFi>1</SciFi>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -64024,8 +64024,8 @@
 		<szBRName>Eagle Fireflash</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>147</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>147</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>183</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -64035,9 +64035,9 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
-		<buddyitem>2419</buddyitem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<SciFi>1</SciFi>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<buddyitem>2419</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -64050,8 +64050,8 @@
 		<szBRName>Eagle Dog</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>148</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>148</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>180</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -64061,9 +64061,9 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
+		<SciFi>1</SciFi>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2456</buddyitem>
-		<SciFi>1</SciFi>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -64076,8 +64076,8 @@
 		<szBRName>Eagle Smokeball</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>149</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>149</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>184</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -64087,9 +64087,9 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
+		<SciFi>1</SciFi>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2456</buddyitem>
-		<SciFi>1</SciFi>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -64168,9 +64168,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<Mine>1</Mine>
-		<TripWireActivation>0</TripWireActivation>
 		<NotBuyable>1</NotBuyable>
+		<Mine>1</Mine>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -64225,11 +64224,11 @@
 		<ubCoolness>6</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>3</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<Flare>1</Flare>
-		<Attachment>1</Attachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -64401,8 +64400,8 @@
 		<Repairable>1</Repairable>
 		<Attachment>1</Attachment>
 		<Flare>1</Flare>
-		<buddyitem>2457</buddyitem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<buddyitem>2457</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -64439,9 +64438,9 @@
 		<szBRName>Mustard Gas Mine</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubCursor>18</ubCursor>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>162</ubClassIndex>
+		<ubCursor>18</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>873</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -64453,9 +64452,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<Mine>1</Mine>
-		<TripWireActivation>0</TripWireActivation>
 		<NotBuyable>1</NotBuyable>
+		<Mine>1</Mine>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -64470,8 +64468,8 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
-		<ubCursor>18</ubCursor>
 		<ubClassIndex>163</ubClassIndex>
+		<ubCursor>18</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>874</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -64483,9 +64481,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<Mine>1</Mine>
-		<TripWireActivation>0</TripWireActivation>
 		<NotBuyable>1</NotBuyable>
+		<Mine>1</Mine>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -64500,8 +64497,8 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
-		<ubCursor>18</ubCursor>
 		<ubClassIndex>164</ubClassIndex>
+		<ubCursor>18</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>876</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -64513,9 +64510,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<Mine>1</Mine>
-		<TripWireActivation>0</TripWireActivation>
 		<NotBuyable>1</NotBuyable>
+		<Mine>1</Mine>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -64529,9 +64525,9 @@
 		<szBRName>40mm Shell HE</szBRName>
 		<szBRDesc>This standard fragmentation shell features a time-delayed firing device to ignite its encased TNT.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>165</ubClassIndex>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<ubClassIndex>165</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>995</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -64560,9 +64556,9 @@
 		<szBRName>40mm Shell Illumination</szBRName>
 		<szBRDesc>Whether you use them for target practice or for a real operatrion, these 40mm shells are the right choice, when you need to light up a large area.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>166</ubClassIndex>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<ubClassIndex>166</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>996</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -64592,9 +64588,9 @@
 		<szBRName>40mm Shell Mustard Gas</szBRName>
 		<szBRDesc>Mustard Gas is known for its blistering and burning effect. With this round you will make your opponents cough out most of their internal organs.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>167</ubClassIndex>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<ubClassIndex>167</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>997</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -64623,9 +64619,9 @@
 		<szBRName>40mm Shell Napalm</szBRName>
 		<szBRDesc>This shell works great for crowd control, but it tends to require more clean up afterwards than standard Tear Gas.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>168</ubClassIndex>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<ubClassIndex>168</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>998</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -64686,9 +64682,9 @@
 		<szBRName>40mm Shell Stun</szBRName>
 		<szBRDesc>When fired from the 40mm commando mortar, these projectiles create a massive vacuum that will leave your enemies gasping for air.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>170</ubClassIndex>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<ubClassIndex>170</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1000</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -64717,9 +64713,9 @@
 		<szBRName>40mm Shell Tear Gas</szBRName>
 		<szBRDesc>This rubber-like round will disperse tear gas after a short delay. These projectiles are meant to be fired from the 40mm commando mortar.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>171</ubClassIndex>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<ubClassIndex>171</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1001</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -64748,9 +64744,9 @@
 		<szBRName>40mm Shell Thermobaric</szBRName>
 		<szBRDesc>This grenade works great for crowd control, but it tends to require more clean up afterwards than standard Tear Gas.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>172</ubClassIndex>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<ubClassIndex>172</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>998</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -64780,9 +64776,9 @@
 		<szBRName>40mm Shell VOG-25</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>173</ubClassIndex>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<ubClassIndex>173</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1002</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -64810,9 +64806,9 @@
 		<szBRName>40mm Shell VOG-25P</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>174</ubClassIndex>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<ubClassIndex>174</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1003</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -64840,9 +64836,9 @@
 		<szBRName>40mm Shell VOG Smoke</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>175</ubClassIndex>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<ubClassIndex>175</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1004</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -64870,9 +64866,9 @@
 		<szBRName>40mm Shell VOG Tear Gas</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>176</ubClassIndex>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<ubClassIndex>176</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1005</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -64959,7 +64955,7 @@
 		<szLongItemName>SMALL_C1_FIRE</szLongItemName>
 		<szBRName>SMALL_C1_FIRE</szBRName>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>142</ubClassIndex>
+		<ubClassIndex>179</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2201</buddyitem>
@@ -64973,7 +64969,7 @@
 		<szLongItemName>FLARE_ANIMATION</szLongItemName>
 		<szBRName>FLARE_ANIMATION</szBRName>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>179</ubClassIndex>
+		<ubClassIndex>180</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -64991,7 +64987,7 @@
 		<AttachmentClass>2048</AttachmentClass>
 		<nasAttachmentClass>2048</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>180</ubClassIndex>
+		<ubClassIndex>181</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>431</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -65010,14 +65006,14 @@
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
-	</ITEM>	
+	</ITEM>
 	<ITEM>
 		<uiIndex>2459</uiIndex>
 		<szItemName>RPG-26</szItemName>
 		<szLongItemName>RPG-26</szLongItemName>
 		<szBRName>RPG-26</szBRName>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>181</ubClassIndex>
+		<ubClassIndex>182</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -65030,7 +65026,7 @@
 		<szLongItemName>RPG-27</szLongItemName>
 		<szBRName>RPG-27</szBRName>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>182</ubClassIndex>
+		<ubClassIndex>183</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -65043,7 +65039,7 @@
 		<szLongItemName>RPO-M Shmel</szLongItemName>
 		<szBRName>RPO-M Shmel</szBRName>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>183</ubClassIndex>
+		<ubClassIndex>184</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -71086,12 +71082,12 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<BestLaserRange>350</BestLaserRange>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentAPReduction>33</PercentAPReduction>
-		<AttachmentSystem>1</AttachmentSystem>
 		<CamoBonus>-15</CamoBonus>
 		<UrbanCamoBonus>-15</UrbanCamoBonus>
 		<DesertCamoBonus>-15</DesertCamoBonus>
 		<SnowCamoBonus>-15</SnowCamoBonus>
 		<StealthBonus>-15</StealthBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -71126,16 +71122,16 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<AimBonus>6</AimBonus>
 		<MinRangeForAimBonus>10</MinRangeForAimBonus>
 		<PercentAPReduction>20</PercentAPReduction>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>10</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
 		<CamoBonus>-5</CamoBonus>
 		<UrbanCamoBonus>-5</UrbanCamoBonus>
 		<DesertCamoBonus>-5</DesertCamoBonus>
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>10</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -71170,15 +71166,15 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<AimBonus>12</AimBonus>
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<PercentAPReduction>20</PercentAPReduction>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>40</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
 		<CamoBonus>-6</CamoBonus>
 		<UrbanCamoBonus>-6</UrbanCamoBonus>
 		<DesertCamoBonus>-6</DesertCamoBonus>
 		<SnowCamoBonus>-6</SnowCamoBonus>
 		<StealthBonus>-6</StealthBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>40</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -71214,16 +71210,16 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<MinRangeForAimBonus>45</MinRangeForAimBonus>
 		<PercentAPReduction>20</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
-		<NightVisionRangeBonus>25</NightVisionRangeBonus>
-		<DayVisionRangeBonus>70</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>70</PercentTunnelVision>
 		<CamoBonus>-6</CamoBonus>
 		<UrbanCamoBonus>-6</UrbanCamoBonus>
 		<DesertCamoBonus>-6</DesertCamoBonus>
 		<SnowCamoBonus>-6</SnowCamoBonus>
 		<StealthBonus>-6</StealthBonus>
+		<NightVisionRangeBonus>25</NightVisionRangeBonus>
+		<DayVisionRangeBonus>70</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>70</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -71260,17 +71256,17 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
+		<CamoBonus>-10</CamoBonus>
+		<UrbanCamoBonus>-10</UrbanCamoBonus>
+		<DesertCamoBonus>-10</DesertCamoBonus>
+		<SnowCamoBonus>-10</SnowCamoBonus>
+		<StealthBonus>-10</StealthBonus>
 		<NightVisionRangeBonus>40</NightVisionRangeBonus>
 		<DayVisionRangeBonus>70</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<CamoBonus>-10</CamoBonus>
-		<UrbanCamoBonus>-10</UrbanCamoBonus>
-		<DesertCamoBonus>-10</DesertCamoBonus>
-		<SnowCamoBonus>-10</SnowCamoBonus>
-		<StealthBonus>-10</StealthBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -71305,17 +71301,17 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<MinRangeForAimBonus>40</MinRangeForAimBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentAPReduction>33</PercentAPReduction>
+		<CamoBonus>-15</CamoBonus>
+		<UrbanCamoBonus>-17</UrbanCamoBonus>
+		<DesertCamoBonus>-17</DesertCamoBonus>
+		<SnowCamoBonus>-17</SnowCamoBonus>
+		<StealthBonus>-17</StealthBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<DayVisionRangeBonus>50</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<CamoBonus>-15</CamoBonus>
-		<UrbanCamoBonus>-17</UrbanCamoBonus>
-		<DesertCamoBonus>-17</DesertCamoBonus>
-		<SnowCamoBonus>-17</SnowCamoBonus>
-		<StealthBonus>-17</StealthBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -71350,14 +71346,14 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<AimBonus>12</AimBonus>
 		<MinRangeForAimBonus>30</MinRangeForAimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>50</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<CamoBonus>-15</CamoBonus>
 		<UrbanCamoBonus>-15</UrbanCamoBonus>
 		<DesertCamoBonus>-15</DesertCamoBonus>
 		<SnowCamoBonus>-15</SnowCamoBonus>
 		<StealthBonus>-15</StealthBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>50</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -71607,12 +71603,12 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>15</ToHitBonus>
 		<BestLaserRange>350</BestLaserRange>
+		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<CamoBonus>-17</CamoBonus>
 		<UrbanCamoBonus>-17</UrbanCamoBonus>
 		<DesertCamoBonus>-17</DesertCamoBonus>
 		<SnowCamoBonus>-17</SnowCamoBonus>
 		<StealthBonus>-17</StealthBonus>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -71807,12 +71803,12 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
-		<Batteries>1</Batteries>
 		<CamoBonus>-6</CamoBonus>
 		<UrbanCamoBonus>-6</UrbanCamoBonus>
 		<DesertCamoBonus>-6</DesertCamoBonus>
 		<SnowCamoBonus>-6</SnowCamoBonus>
 		<StealthBonus>-6</StealthBonus>
+		<Batteries>1</Batteries>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -71944,12 +71940,12 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
+		<PercentAPReduction>20</PercentAPReduction>
 		<CamoBonus>-6</CamoBonus>
 		<UrbanCamoBonus>-6</UrbanCamoBonus>
 		<DesertCamoBonus>-6</DesertCamoBonus>
 		<SnowCamoBonus>-6</SnowCamoBonus>
 		<StealthBonus>-6</StealthBonus>
-		<PercentAPReduction>20</PercentAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -71986,12 +71982,12 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<BestLaserRange>350</BestLaserRange>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentAPReduction>33</PercentAPReduction>
-		<AttachmentSystem>1</AttachmentSystem>
 		<CamoBonus>-17</CamoBonus>
 		<UrbanCamoBonus>-17</UrbanCamoBonus>
 		<DesertCamoBonus>-17</DesertCamoBonus>
 		<SnowCamoBonus>-17</SnowCamoBonus>
 		<StealthBonus>-17</StealthBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -72023,12 +72019,12 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>300</BestLaserRange>
+		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<CamoBonus>-15</CamoBonus>
 		<UrbanCamoBonus>-15</UrbanCamoBonus>
 		<DesertCamoBonus>-15</DesertCamoBonus>
 		<SnowCamoBonus>-15</SnowCamoBonus>
 		<StealthBonus>-15</StealthBonus>
-		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -72323,13 +72319,13 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>200</BestLaserRange>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
-		<NightVisionRangeBonus>15</NightVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<CamoBonus>-20</CamoBonus>
 		<UrbanCamoBonus>-20</UrbanCamoBonus>
 		<DesertCamoBonus>-20</DesertCamoBonus>
 		<SnowCamoBonus>-20</SnowCamoBonus>
 		<StealthBonus>-20</StealthBonus>
+		<NightVisionRangeBonus>15</NightVisionRangeBonus>
+		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -72344,7 +72340,7 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<szBRName>Alcohol-Oil Mix</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ubGraphicType>5</ubGraphicType>
+		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>106</ubGraphicNum>
 		<ubWeight>10</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
@@ -72514,8 +72510,8 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<ScopeMagFactor>2.7</ScopeMagFactor>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72986,12 +72982,12 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
 		<PercentAPReduction>10</PercentAPReduction>
-		<AttachmentSystem>1</AttachmentSystem>
 		<CamoBonus>-6</CamoBonus>
 		<UrbanCamoBonus>-6</UrbanCamoBonus>
 		<DesertCamoBonus>-6</DesertCamoBonus>
 		<SnowCamoBonus>-6</SnowCamoBonus>
 		<StealthBonus>-6</StealthBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -73027,16 +73023,16 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
-		<NightVisionRangeBonus>25</NightVisionRangeBonus>
-		<DayVisionRangeBonus>40</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
 		<CamoBonus>-10</CamoBonus>
 		<UrbanCamoBonus>-10</UrbanCamoBonus>
 		<DesertCamoBonus>-10</DesertCamoBonus>
 		<SnowCamoBonus>-10</SnowCamoBonus>
 		<StealthBonus>-10</StealthBonus>
+		<NightVisionRangeBonus>25</NightVisionRangeBonus>
+		<DayVisionRangeBonus>40</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -73145,12 +73141,12 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>15</ToHitBonus>
 		<BestLaserRange>350</BestLaserRange>
+		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<CamoBonus>-17</CamoBonus>
 		<UrbanCamoBonus>-17</UrbanCamoBonus>
 		<DesertCamoBonus>-17</DesertCamoBonus>
 		<SnowCamoBonus>-17</SnowCamoBonus>
 		<StealthBonus>-17</StealthBonus>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -73830,12 +73826,12 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<BR_NewInventory>1</BR_NewInventory>
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>200</BestLaserRange>
+		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<CamoBonus>-10</CamoBonus>
 		<UrbanCamoBonus>-10</UrbanCamoBonus>
 		<DesertCamoBonus>-10</DesertCamoBonus>
 		<SnowCamoBonus>-10</SnowCamoBonus>
 		<StealthBonus>-10</StealthBonus>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<NightVisionRangeBonus>15</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -74015,16 +74011,16 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
 		<PercentAPReduction>25</PercentAPReduction>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>10</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<AttachmentSystem>1</AttachmentSystem>
 		<CamoBonus>-11</CamoBonus>
 		<UrbanCamoBonus>-6</UrbanCamoBonus>
 		<DesertCamoBonus>-6</DesertCamoBonus>
 		<SnowCamoBonus>-6</SnowCamoBonus>
 		<StealthBonus>-6</StealthBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>10</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74059,14 +74055,14 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>130</BestLaserRange>
 		<PercentReadyTimeAPReduction>-1</PercentReadyTimeAPReduction>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<Batteries>1</Batteries>
 		<CamoBonus>-12</CamoBonus>
 		<UrbanCamoBonus>-7</UrbanCamoBonus>
 		<DesertCamoBonus>-7</DesertCamoBonus>
 		<SnowCamoBonus>-7</SnowCamoBonus>
 		<StealthBonus>-7</StealthBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
+		<Batteries>1</Batteries>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74141,17 +74137,17 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<MinRangeForAimBonus>25</MinRangeForAimBonus>
 		<PercentAPReduction>25</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
+		<CamoBonus>-11</CamoBonus>
+		<UrbanCamoBonus>-6</UrbanCamoBonus>
+		<DesertCamoBonus>-6</DesertCamoBonus>
+		<SnowCamoBonus>-6</SnowCamoBonus>
+		<StealthBonus>-6</StealthBonus>
 		<NightVisionRangeBonus>40</NightVisionRangeBonus>
 		<DayVisionRangeBonus>40</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<CamoBonus>-11</CamoBonus>
-		<UrbanCamoBonus>-6</UrbanCamoBonus>
-		<DesertCamoBonus>-6</DesertCamoBonus>
-		<SnowCamoBonus>-6</SnowCamoBonus>
-		<StealthBonus>-6</StealthBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74185,13 +74181,13 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<BestLaserRange>250</BestLaserRange>
 		<AimBonus>7</AimBonus>
 		<PercentAPReduction>20</PercentAPReduction>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<CamoBonus>-12</CamoBonus>
 		<UrbanCamoBonus>-12</UrbanCamoBonus>
 		<DesertCamoBonus>-12</DesertCamoBonus>
 		<SnowCamoBonus>-12</SnowCamoBonus>
 		<StealthBonus>-12</StealthBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74293,17 +74289,17 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<MinRangeForAimBonus>25</MinRangeForAimBonus>
 		<PercentAPReduction>25</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
+		<CamoBonus>-6</CamoBonus>
+		<UrbanCamoBonus>-6</UrbanCamoBonus>
+		<DesertCamoBonus>-6</DesertCamoBonus>
+		<SnowCamoBonus>-6</SnowCamoBonus>
+		<StealthBonus>-6</StealthBonus>
 		<NightVisionRangeBonus>70</NightVisionRangeBonus>
 		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<CamoBonus>-6</CamoBonus>
-		<UrbanCamoBonus>-6</UrbanCamoBonus>
-		<DesertCamoBonus>-6</DesertCamoBonus>
-		<SnowCamoBonus>-6</SnowCamoBonus>
-		<StealthBonus>-6</StealthBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74407,16 +74403,16 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<AimBonus>6</AimBonus>
 		<MinRangeForAimBonus>10</MinRangeForAimBonus>
 		<PercentAPReduction>20</PercentAPReduction>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>10</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
 		<CamoBonus>-6</CamoBonus>
 		<UrbanCamoBonus>-6</UrbanCamoBonus>
 		<DesertCamoBonus>-6</DesertCamoBonus>
 		<SnowCamoBonus>-6</SnowCamoBonus>
 		<StealthBonus>-6</StealthBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>10</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74452,16 +74448,16 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<AimBonus>12</AimBonus>
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<PercentAPReduction>20</PercentAPReduction>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>40</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
 		<CamoBonus>-6</CamoBonus>
 		<UrbanCamoBonus>-6</UrbanCamoBonus>
 		<DesertCamoBonus>-6</DesertCamoBonus>
 		<SnowCamoBonus>-6</SnowCamoBonus>
 		<StealthBonus>-6</StealthBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>40</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74497,17 +74493,17 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<MinRangeForAimBonus>45</MinRangeForAimBonus>
 		<PercentAPReduction>20</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
+		<CamoBonus>-6</CamoBonus>
+		<UrbanCamoBonus>-6</UrbanCamoBonus>
+		<DesertCamoBonus>-6</DesertCamoBonus>
+		<SnowCamoBonus>-6</SnowCamoBonus>
+		<StealthBonus>-6</StealthBonus>
 		<NightVisionRangeBonus>25</NightVisionRangeBonus>
 		<DayVisionRangeBonus>70</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<CamoBonus>-6</CamoBonus>
-		<UrbanCamoBonus>-6</UrbanCamoBonus>
-		<DesertCamoBonus>-6</DesertCamoBonus>
-		<SnowCamoBonus>-6</SnowCamoBonus>
-		<StealthBonus>-6</StealthBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74544,17 +74540,17 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
+		<CamoBonus>-10</CamoBonus>
+		<UrbanCamoBonus>-10</UrbanCamoBonus>
+		<DesertCamoBonus>-10</DesertCamoBonus>
+		<SnowCamoBonus>-10</SnowCamoBonus>
+		<StealthBonus>-10</StealthBonus>
 		<NightVisionRangeBonus>40</NightVisionRangeBonus>
 		<DayVisionRangeBonus>70</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<CamoBonus>-10</CamoBonus>
-		<UrbanCamoBonus>-10</UrbanCamoBonus>
-		<DesertCamoBonus>-10</DesertCamoBonus>
-		<SnowCamoBonus>-10</SnowCamoBonus>
-		<StealthBonus>-10</StealthBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74591,16 +74587,16 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
-		<NightVisionRangeBonus>25</NightVisionRangeBonus>
-		<DayVisionRangeBonus>40</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
 		<CamoBonus>-10</CamoBonus>
 		<UrbanCamoBonus>-10</UrbanCamoBonus>
 		<DesertCamoBonus>-10</DesertCamoBonus>
 		<SnowCamoBonus>-10</SnowCamoBonus>
 		<StealthBonus>-10</StealthBonus>
+		<NightVisionRangeBonus>25</NightVisionRangeBonus>
+		<DayVisionRangeBonus>40</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74637,17 +74633,17 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<MinRangeForAimBonus>25</MinRangeForAimBonus>
 		<PercentAPReduction>25</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
+		<CamoBonus>-6</CamoBonus>
+		<UrbanCamoBonus>-6</UrbanCamoBonus>
+		<DesertCamoBonus>-6</DesertCamoBonus>
+		<SnowCamoBonus>-6</SnowCamoBonus>
+		<StealthBonus>-6</StealthBonus>
 		<NightVisionRangeBonus>40</NightVisionRangeBonus>
 		<DayVisionRangeBonus>40</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<CamoBonus>-6</CamoBonus>
-		<UrbanCamoBonus>-6</UrbanCamoBonus>
-		<DesertCamoBonus>-6</DesertCamoBonus>
-		<SnowCamoBonus>-6</SnowCamoBonus>
-		<StealthBonus>-6</StealthBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74764,17 +74760,17 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<MinRangeForAimBonus>25</MinRangeForAimBonus>
 		<PercentAPReduction>25</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
+		<CamoBonus>-6</CamoBonus>
+		<UrbanCamoBonus>-6</UrbanCamoBonus>
+		<DesertCamoBonus>-6</DesertCamoBonus>
+		<SnowCamoBonus>-6</SnowCamoBonus>
+		<StealthBonus>-6</StealthBonus>
 		<NightVisionRangeBonus>70</NightVisionRangeBonus>
 		<DayVisionRangeBonus>30</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<CamoBonus>-6</CamoBonus>
-		<UrbanCamoBonus>-6</UrbanCamoBonus>
-		<DesertCamoBonus>-6</DesertCamoBonus>
-		<SnowCamoBonus>-6</SnowCamoBonus>
-		<StealthBonus>-6</StealthBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74810,17 +74806,17 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<MinRangeForAimBonus>40</MinRangeForAimBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentAPReduction>33</PercentAPReduction>
+		<CamoBonus>-17</CamoBonus>
+		<UrbanCamoBonus>-17</UrbanCamoBonus>
+		<DesertCamoBonus>-17</DesertCamoBonus>
+		<SnowCamoBonus>-17</SnowCamoBonus>
+		<StealthBonus>-17</StealthBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<DayVisionRangeBonus>50</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<CamoBonus>-17</CamoBonus>
-		<UrbanCamoBonus>-17</UrbanCamoBonus>
-		<DesertCamoBonus>-17</DesertCamoBonus>
-		<SnowCamoBonus>-17</SnowCamoBonus>
-		<StealthBonus>-17</StealthBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74915,17 +74911,17 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
 		<PercentAPReduction>25</PercentAPReduction>
+		<CamoBonus>-6</CamoBonus>
+		<UrbanCamoBonus>-6</UrbanCamoBonus>
+		<DesertCamoBonus>-6</DesertCamoBonus>
+		<SnowCamoBonus>-6</SnowCamoBonus>
+		<StealthBonus>-6</StealthBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<DayVisionRangeBonus>10</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<CamoBonus>-6</CamoBonus>
-		<UrbanCamoBonus>-6</UrbanCamoBonus>
-		<DesertCamoBonus>-6</DesertCamoBonus>
-		<SnowCamoBonus>-6</SnowCamoBonus>
-		<StealthBonus>-6</StealthBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -74957,13 +74953,13 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
 		<PercentAPReduction>10</PercentAPReduction>
-		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<CamoBonus>-6</CamoBonus>
 		<UrbanCamoBonus>-6</UrbanCamoBonus>
 		<DesertCamoBonus>-6</DesertCamoBonus>
 		<SnowCamoBonus>-6</SnowCamoBonus>
 		<StealthBonus>-6</StealthBonus>
+		<AttachmentSystem>1</AttachmentSystem>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -74995,15 +74991,15 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<ToHitBonus>21</ToHitBonus>
 		<BestLaserRange>300</BestLaserRange>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
-		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<CamoBonus>-15</CamoBonus>
 		<UrbanCamoBonus>-15</UrbanCamoBonus>
 		<DesertCamoBonus>-15</DesertCamoBonus>
 		<SnowCamoBonus>-15</SnowCamoBonus>
 		<StealthBonus>-15</StealthBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
+		<AttachmentSystem>1</AttachmentSystem>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75197,16 +75193,16 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<AimBonus>12</AimBonus>
 		<MinRangeForAimBonus>30</MinRangeForAimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>50</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
 		<CamoBonus>-15</CamoBonus>
 		<UrbanCamoBonus>-15</UrbanCamoBonus>
 		<DesertCamoBonus>-15</DesertCamoBonus>
 		<SnowCamoBonus>-15</SnowCamoBonus>
 		<StealthBonus>-15</StealthBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>50</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -75244,16 +75240,16 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<MinRangeForAimBonus>10</MinRangeForAimBonus>
 		<PercentAPReduction>25</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
-		<NightVisionRangeBonus>30</NightVisionRangeBonus>
-		<DayVisionRangeBonus>10</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
-		<AttachmentSystem>1</AttachmentSystem>
 		<CamoBonus>-10</CamoBonus>
 		<UrbanCamoBonus>-10</UrbanCamoBonus>
 		<DesertCamoBonus>-10</DesertCamoBonus>
 		<SnowCamoBonus>-10</SnowCamoBonus>
 		<StealthBonus>-10</StealthBonus>
+		<NightVisionRangeBonus>30</NightVisionRangeBonus>
+		<DayVisionRangeBonus>10</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -75286,15 +75282,15 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<BestLaserRange>250</BestLaserRange>
 		<AimBonus>6</AimBonus>
 		<PercentAPReduction>20</PercentAPReduction>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<CamoBonus>-12</CamoBonus>
 		<UrbanCamoBonus>-12</UrbanCamoBonus>
 		<DesertCamoBonus>-12</DesertCamoBonus>
 		<SnowCamoBonus>-12</SnowCamoBonus>
 		<StealthBonus>-12</StealthBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<AttachmentSystem>1</AttachmentSystem>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75323,13 +75319,13 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>120</BestLaserRange>
-		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<CamoBonus>-6</CamoBonus>
 		<UrbanCamoBonus>-6</UrbanCamoBonus>
 		<DesertCamoBonus>-6</DesertCamoBonus>
 		<SnowCamoBonus>-6</SnowCamoBonus>
 		<StealthBonus>-6</StealthBonus>
+		<AttachmentSystem>1</AttachmentSystem>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75361,16 +75357,16 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>130</BestLaserRange>
 		<PercentReadyTimeAPReduction>-1</PercentReadyTimeAPReduction>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<Batteries>1</Batteries>
-		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<CamoBonus>-6</CamoBonus>
 		<UrbanCamoBonus>-6</UrbanCamoBonus>
 		<DesertCamoBonus>-6</DesertCamoBonus>
 		<SnowCamoBonus>-6</SnowCamoBonus>
 		<StealthBonus>-6</StealthBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
+		<Batteries>1</Batteries>
+		<AttachmentSystem>1</AttachmentSystem>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75401,13 +75397,13 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<BestLaserRange>400</BestLaserRange>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentAPReduction>10</PercentAPReduction>
-		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<CamoBonus>-20</CamoBonus>
 		<UrbanCamoBonus>-20</UrbanCamoBonus>
 		<DesertCamoBonus>-20</DesertCamoBonus>
 		<SnowCamoBonus>-20</SnowCamoBonus>
 		<StealthBonus>-20</StealthBonus>
+		<AttachmentSystem>1</AttachmentSystem>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75831,8 +75827,8 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<ScopeMagFactor>2.7</ScopeMagFactor>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -77155,8 +77151,8 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
-		<APBonus>2</APBonus>
 		<SciFi>1</SciFi>
+		<APBonus>2</APBonus>
 		<HearingRangeBonus>2</HearingRangeBonus>
 		<DayVisionRangeBonus>1</DayVisionRangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -78052,16 +78048,16 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<MinRangeForAimBonus>10</MinRangeForAimBonus>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>10</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
 		<CamoBonus>-10</CamoBonus>
 		<UrbanCamoBonus>-10</UrbanCamoBonus>
 		<DesertCamoBonus>-10</DesertCamoBonus>
 		<SnowCamoBonus>-10</SnowCamoBonus>
 		<StealthBonus>-10</StealthBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>10</PercentTunnelVision>
+		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -78096,19 +78092,14 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>130</BestLaserRange>
-		<CamoBonus>-5</CamoBonus>
-		<UrbanCamoBonus>-5</UrbanCamoBonus>
-		<DesertCamoBonus>-5</DesertCamoBonus>
-		<SnowCamoBonus>-5</SnowCamoBonus>
-		<StealthBonus>-5</StealthBonus>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<ProjectionFactor>1.6</ProjectionFactor>
 		<CamoBonus>-6</CamoBonus>
 		<UrbanCamoBonus>-6</UrbanCamoBonus>
 		<DesertCamoBonus>-6</DesertCamoBonus>
 		<SnowCamoBonus>-6</SnowCamoBonus>
 		<StealthBonus>-6</StealthBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
+		<ProjectionFactor>1.6</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -78197,18 +78188,13 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>25</ToHitBonus>
 		<BestLaserRange>300</BestLaserRange>
-		<CamoBonus>-5</CamoBonus>
-		<UrbanCamoBonus>-5</UrbanCamoBonus>
-		<DesertCamoBonus>-5</DesertCamoBonus>
-		<SnowCamoBonus>-5</SnowCamoBonus>
-		<StealthBonus>-5</StealthBonus>
-		<NeedsBatteries>1</NeedsBatteries>
-		<ProjectionFactor>3.0</ProjectionFactor>
 		<CamoBonus>-15</CamoBonus>
 		<UrbanCamoBonus>-15</UrbanCamoBonus>
 		<DesertCamoBonus>-15</DesertCamoBonus>
 		<SnowCamoBonus>-15</SnowCamoBonus>
 		<StealthBonus>-15</StealthBonus>
+		<NeedsBatteries>1</NeedsBatteries>
+		<ProjectionFactor>3.0</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -78246,19 +78232,14 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<PercentBurstFireAPReduction>2</PercentBurstFireAPReduction>
 		<PercentAutofireAPReduction>2</PercentAutofireAPReduction>
 		<PercentReadyTimeAPReduction>1</PercentReadyTimeAPReduction>
-		<CamoBonus>-5</CamoBonus>
-		<UrbanCamoBonus>-5</UrbanCamoBonus>
-		<DesertCamoBonus>-5</DesertCamoBonus>
-		<SnowCamoBonus>-5</SnowCamoBonus>
-		<StealthBonus>-5</StealthBonus>
-		<NightVisionRangeBonus>5</NightVisionRangeBonus>
-		<NeedsBatteries>1</NeedsBatteries>
-		<ProjectionFactor>3.0</ProjectionFactor>
 		<CamoBonus>-12</CamoBonus>
 		<UrbanCamoBonus>-12</UrbanCamoBonus>
 		<DesertCamoBonus>-12</DesertCamoBonus>
 		<SnowCamoBonus>-12</SnowCamoBonus>
 		<StealthBonus>-12</StealthBonus>
+		<NightVisionRangeBonus>5</NightVisionRangeBonus>
+		<NeedsBatteries>1</NeedsBatteries>
+		<ProjectionFactor>3.0</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -78308,11 +78289,11 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<AimBonus>12</AimBonus>
 		<MinRangeForAimBonus>30</MinRangeForAimBonus>
 		<PercentAPReduction>8</PercentAPReduction>
-		<CamoBonus>-10</CamoBonus>
-		<UrbanCamoBonus>-10</UrbanCamoBonus>
-		<DesertCamoBonus>-10</DesertCamoBonus>
-		<SnowCamoBonus>-10</SnowCamoBonus>
-		<StealthBonus>-10</StealthBonus>
+		<CamoBonus>-15</CamoBonus>
+		<UrbanCamoBonus>-15</UrbanCamoBonus>
+		<DesertCamoBonus>-15</DesertCamoBonus>
+		<SnowCamoBonus>-15</SnowCamoBonus>
+		<StealthBonus>-15</StealthBonus>
 		<VisionRangeBonus>5</VisionRangeBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
@@ -78322,11 +78303,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<NeedsBatteries>1</NeedsBatteries>
 		<ScopeMagFactor>1.0</ScopeMagFactor>
 		<ProjectionFactor>1.7</ProjectionFactor>
-		<CamoBonus>-15</CamoBonus>
-		<UrbanCamoBonus>-15</UrbanCamoBonus>
-		<DesertCamoBonus>-15</DesertCamoBonus>
-		<SnowCamoBonus>-15</SnowCamoBonus>
-		<StealthBonus>-15</StealthBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
@@ -78819,12 +78795,12 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>100</BestLaserRange>
-		<ProjectionFactor>1.3</ProjectionFactor>
 		<CamoBonus>-5</CamoBonus>
 		<UrbanCamoBonus>-5</UrbanCamoBonus>
 		<DesertCamoBonus>-5</DesertCamoBonus>
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
+		<ProjectionFactor>1.3</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -78859,13 +78835,13 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<BestLaserRange>200</BestLaserRange>
 		<PercentAutofireAPReduction>2</PercentAutofireAPReduction>
 		<PercentReadyTimeAPReduction>-2</PercentReadyTimeAPReduction>
-		<NightVisionRangeBonus>2</NightVisionRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<CamoBonus>-10</CamoBonus>
 		<UrbanCamoBonus>-10</UrbanCamoBonus>
 		<DesertCamoBonus>-10</DesertCamoBonus>
 		<SnowCamoBonus>-10</SnowCamoBonus>
 		<StealthBonus>-10</StealthBonus>
+		<NightVisionRangeBonus>2</NightVisionRangeBonus>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -78897,12 +78873,12 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>22</ToHitBonus>
 		<BestLaserRange>150</BestLaserRange>
-		<ProjectionFactor>1.3</ProjectionFactor>
 		<CamoBonus>-7</CamoBonus>
 		<UrbanCamoBonus>-7</UrbanCamoBonus>
 		<DesertCamoBonus>-7</DesertCamoBonus>
 		<SnowCamoBonus>-7</SnowCamoBonus>
 		<StealthBonus>-7</StealthBonus>
+		<ProjectionFactor>1.3</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -79569,5 +79545,75 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>3118</uiIndex>
+		<szItemName>Pilot Jacket</szItemName>
+		<szLongItemName>Pilot Jacket</szLongItemName>
+		<szItemDesc>Before traveling through the vacuum of space, astronauts don their suits; before delving into the obsidian caverns of our planets watery depth, divers don their suits. It's time for you to don yours. The Pilot Jacket protects you from the nasty elements threatening to ruin your great day.</szItemDesc>
+		<szBRName>Pilot Jacket</szBRName>
+		<szBRDesc>Before traveling through the vacuum of space, astronauts don their suits; before delving into the obsidian caverns of our planets watery depth, divers don their suits. It's time for you to don yours. The Pilot Jacket protects you from the nasty elements threatening to ruin your great day.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>234</ubClassIndex>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>668</ubGraphicNum>
+		<ubWeight>25</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>900</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<bRepairEase>4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>5</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<LeatherJacket>1</LeatherJacket>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>3119</uiIndex>
+		<szItemName>Pilot V Kvlr</szItemName>
+		<szLongItemName>Kevlar Pilot Jacket</szLongItemName>
+		<szItemDesc>kevlar Flight Jacket Bullet Proof Body Armor Vest Level 3A Protection.</szItemDesc>
+		<szBRName>Kevlar Pilot Jacket</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>235</ubClassIndex>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>669</ubGraphicNum>
+		<ubWeight>20</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>950</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<NotBuyable>1</NotBuyable>
+		<AimBonus>-1</AimBonus>
+		<LeatherJacket>1</LeatherJacket>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS>
+			<PercentBase>-5</PercentBase>
+			<PercentCap>-2</PercentCap>
+			<PercentCounterForceAccuracy>-5</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<PercentBase>-10</PercentBase>
+			<PercentCap>-4</PercentCap>
+			<PercentCounterForceAccuracy>-10</PercentCounterForceAccuracy>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<PercentBase>-7</PercentBase>
+			<PercentCap>-3</PercentCap>
+			<PercentCounterForceAccuracy>-7</PercentCounterForceAccuracy>
+		</PRONE_MODIFIERS>
 	</ITEM>
 </ITEMLIST>

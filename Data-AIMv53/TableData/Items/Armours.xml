@@ -1638,4 +1638,18 @@
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>234</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>2</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>235</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>20</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
 </ARMOURLIST>
