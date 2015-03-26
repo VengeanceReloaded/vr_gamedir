@@ -58936,6 +58936,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2130</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>559</ubGraphicNum>
@@ -63878,7 +63879,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<Metal>1</Metal>
+		<Metal>0</Metal>
 		<NotBuyable>1</NotBuyable>
 		<Mine>1</Mine>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -64955,7 +64956,7 @@
 		<szLongItemName>SMALL_C1_FIRE</szLongItemName>
 		<szBRName>SMALL_C1_FIRE</szBRName>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>179</ubClassIndex>
+		<ubClassIndex>142</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2201</buddyitem>
@@ -64969,7 +64970,7 @@
 		<szLongItemName>FLARE_ANIMATION</szLongItemName>
 		<szBRName>FLARE_ANIMATION</szBRName>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>180</ubClassIndex>
+		<ubClassIndex>179</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -64987,7 +64988,7 @@
 		<AttachmentClass>2048</AttachmentClass>
 		<nasAttachmentClass>2048</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>181</ubClassIndex>
+		<ubClassIndex>180</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>431</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -65013,7 +65014,7 @@
 		<szLongItemName>RPG-26</szLongItemName>
 		<szBRName>RPG-26</szBRName>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>182</ubClassIndex>
+		<ubClassIndex>181</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -65026,7 +65027,7 @@
 		<szLongItemName>RPG-27</szLongItemName>
 		<szBRName>RPG-27</szBRName>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>183</ubClassIndex>
+		<ubClassIndex>182</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -65039,7 +65040,7 @@
 		<szLongItemName>RPO-M Shmel</szLongItemName>
 		<szBRName>RPO-M Shmel</szBRName>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>184</ubClassIndex>
+		<ubClassIndex>183</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
