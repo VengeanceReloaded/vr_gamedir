@@ -122,7 +122,7 @@ Strings containing combinations of % characters are special format characters to
   <TEXT>
 	<!-- HISTORY_MERC_MARRIED_OFF -->
 	<uiIndex>21</uiIndex>
-    <sHistory>%s left team to become Daryl Hick's wife</sHistory>
+    <sHistory>%s non-platonically assisted Babyface</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_MERC_CONTRACT_EXPIRED -->
@@ -212,7 +212,7 @@ Strings containing combinations of % characters are special format characters to
   <TEXT>
 	<!-- HISTORY_KROTT -->
 	<uiIndex>39</uiIndex>
-    <sHistory>Got a rocket rifle from Sergeant Krott.</sHistory>
+    <sHistory>Got a railgun from Sergeant Krott.</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_KYLE -->
@@ -292,7 +292,7 @@ Strings containing combinations of % characters are special format characters to
   <TEXT>
 	<!-- HISTORY_WALTER -->
 	<uiIndex>55</uiIndex>
-    <sHistory>Bribed Walter to unlock the door to the basement.</sHistory>
+    <sHistory>Bribed Guard to unlock the door to the prisoners.</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_DAVE -->
