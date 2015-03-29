@@ -7651,45 +7651,45 @@
 	<PROFILE>
 		<uiIndex>81</uiIndex>
 		<Type>4</Type>
-		<zName>Hape</zName>
-		<zNickname>Soldier</zNickname>
+		<zName>Ricardo "Rat" Grimaldo</zName>
+		<zNickname>Rat</zNickname>
 		<ubFaceIndex>81</ubFaceIndex>
-		<usEyesX>23</usEyesX>
-		<usEyesY>33</usEyesY>
-		<usMouthX>23</usMouthX>
+		<usEyesX>18</usEyesX>
+		<usEyesY>32</usEyesY>
+		<usMouthX>19</usMouthX>
 		<usMouthY>57</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
 		<PANTS>BLACKPANTS</PANTS>
-		<VEST>BROWNVEST</VEST>
+		<VEST>greyVEST</VEST>
 		<SKIN>TANSKIN</SKIN>
-		<HAIR>BROWNHEAD</HAIR>
+		<HAIR>WHITEHEAD</HAIR>
 		<bSex>0</bSex>
 		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
-		<bAttitude>0</bAttitude>
+		<bAttitude>4</bAttitude>
 		<bCharacterTrait>0</bCharacterTrait>
 		<bDisability>0</bDisability>
 		<ubNeedForSleep>5</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>85</bLifeMax>
-		<bLife>85</bLife>
+		<bLifeMax>68</bLifeMax>
+		<bLife>68</bLife>
 		<bStrength>75</bStrength>
 		<bAgility>82</bAgility>
-		<bDexterity>88</bDexterity>
-		<bWisdom>79</bWisdom>
-		<bMarksmanship>80</bMarksmanship>
-		<bExplosive>27</bExplosive>
+		<bDexterity>91</bDexterity>
+		<bWisdom>80</bWisdom>
+		<bMarksmanship>73</bMarksmanship>
+		<bExplosive>7</bExplosive>
 		<bLeadership>30</bLeadership>
 		<bMedical>14</bMedical>
-		<bMechanical>37</bMechanical>
-		<bExpLevel>4</bExpLevel>
+		<bMechanical>27</bMechanical>
+		<bExpLevel>2</bExpLevel>
 		<bEvolution>0</bEvolution>
-		<bOldSkillTrait>7</bOldSkillTrait>
-		<bOldSkillTrait2>0</bOldSkillTrait2>
+		<bOldSkillTrait>10</bOldSkillTrait>
+		<bOldSkillTrait2>13</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
 		<bNewSkillTrait2>0</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
@@ -7712,7 +7712,7 @@
 		<bHatedTime5>0</bHatedTime5>
 		<bLearnToHate>255</bLearnToHate>
 		<bLearnToHateTime>0</bLearnToHateTime>
-		<sSalary>0</sSalary>
+		<sSalary>300</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -7721,10 +7721,10 @@
 		<bArmourAttractiveness>24</bArmourAttractiveness>
 		<bMainGunAttractiveness>40</bMainGunAttractiveness>
 		<fGoodGuy>1</fGoodGuy>
-		<usApproachFactorFriendly>10</usApproachFactorFriendly>
-		<usApproachFactorDirect>60</usApproachFactorDirect>
-		<usApproachFactorThreaten>140</usApproachFactorThreaten>
-		<usApproachFactorRecruit>20</usApproachFactorRecruit>
+		<usApproachFactorFriendly>100</usApproachFactorFriendly>
+		<usApproachFactorDirect>100</usApproachFactorDirect>
+		<usApproachFactorThreaten>100</usApproachFactorThreaten>
+		<usApproachFactorRecruit>100</usApproachFactorRecruit>
 		<sSectorX>11</sSectorX>
 		<sSectorY>16</sSectorY>
 		<sSectorZ>0</sSectorZ>
@@ -7940,7 +7940,7 @@
 		<bMechanical>8</bMechanical>
 		<bExpLevel>3</bExpLevel>
 		<bEvolution>0</bEvolution>
-		<bOldSkillTrait>0</bOldSkillTrait>
+		<bOldSkillTrait>2</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
 		<bNewSkillTrait2>0</bNewSkillTrait2>
