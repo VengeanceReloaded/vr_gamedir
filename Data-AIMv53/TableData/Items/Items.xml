@@ -58964,21 +58964,16 @@
 		<BR_ROF>12</BR_ROF>
 		<Bipod>30</Bipod>
 		<ToHitBonus>30</ToHitBonus>
-		<BestLaserRange>90</BestLaserRange>
-		<PercentReadyTimeAPReduction>10</PercentReadyTimeAPReduction>
-		<PercentReloadTimeAPReduction>2</PercentReloadTimeAPReduction>
-		<PercentAPReduction>1</PercentAPReduction>
-		<DefaultAttachment>208</DefaultAttachment>
-		<DefaultAttachment>1831</DefaultAttachment>
-		<DefaultAttachment>1918</DefaultAttachment>
-		<CamoBonus>-5</CamoBonus>
-		<UrbanCamoBonus>-5</UrbanCamoBonus>
-		<DesertCamoBonus>-5</DesertCamoBonus>
-		<SnowCamoBonus>-5</SnowCamoBonus>
-		<StealthBonus>-5</StealthBonus>
-		<ThermalOptics>1</ThermalOptics>
-		<XRay>1</XRay>
-		<NeedsBatteries>1</NeedsBatteries>
+		<BestLaserRange>400</BestLaserRange>
+		<DefaultAttachment>2961</DefaultAttachment>
+		<DefaultAttachment>2973</DefaultAttachment>
+		<CamoBonus>-20</CamoBonus>
+		<UrbanCamoBonus>-20</UrbanCamoBonus>
+		<DesertCamoBonus>-20</DesertCamoBonus>
+		<SnowCamoBonus>-20</SnowCamoBonus>
+		<StealthBonus>-20</StealthBonus>
+		<ThermalOptics>0</ThermalOptics>
+		<NeedsBatteries>0</NeedsBatteries>
 		<FingerPrintID>1</FingerPrintID>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -63857,6 +63852,7 @@
 		<Metal>1</Metal>
 		<BR_NewInventory>1</BR_NewInventory>
 		<Mine>1</Mine>
+		<ItemFlag>262144</ItemFlag>
 		<TripWireActivation>1</TripWireActivation>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -75886,13 +75882,15 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<szBRName>mod. Scope, Sniper 10x</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
+		<AttachmentClass>16</AttachmentClass>
+		<nasAttachmentClass>16</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>171</ubGraphicNum>
 		<ubWeight>5</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>2000</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -75900,17 +75898,17 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<Inseparable>1</Inseparable>
+		<BlockIronSight>1</BlockIronSight>
 		<AimBonus>20</AimBonus>
 		<MinRangeForAimBonus>70</MinRangeForAimBonus>
 		<PercentAPReduction>-9</PercentAPReduction>
 		<DamageBonus>2</DamageBonus>
-		<VisionRangeBonus>30</VisionRangeBonus>
-		<NightVisionRangeBonus>45</NightVisionRangeBonus>
+		<NightVisionRangeBonus>0</NightVisionRangeBonus>
 		<DayVisionRangeBonus>90</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
+		<CaveVisionRangeBonus>0</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>90</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
+		<ScopeMagFactor>10.0</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -76241,6 +76239,7 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<Medical>1</Medical>
+		<DrugType>4</DrugType>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -76248,12 +76247,47 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 	</ITEM>
 	<ITEM>
 		<uiIndex>2973</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2973</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
+		<szItemName>Thermal sight module</szItemName>
+		<szLongItemName>Thermal sight module</szLongItemName>
+		<szItemDesc>Thermal sight module</szItemDesc>
+		<szBRName>Not for sale</szBRName>
+		<szBRDesc>Not for sale</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<AttachmentClass>8</AttachmentClass>
+		<nasAttachmentClass>8</nasAttachmentClass>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>660</ubGraphicNum>
+		<ubWeight>5</ubWeight>
+		<ubPerPocket>2</ubPerPocket>
+		<ItemSize>16</ItemSize>
+		<usPrice>8000</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bRepairEase>-8</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<Attachment>1</Attachment>
+		<BigGunList>1</BigGunList>
+		<Electronic>1</Electronic>
+		<Inseparable>1</Inseparable>
+		<BlockIronSight>1</BlockIronSight>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<NotBuyable>1</NotBuyable>
+		<VisionRangeBonus>0</VisionRangeBonus>
+		<NightVisionRangeBonus>40</NightVisionRangeBonus>
+		<DayVisionRangeBonus>-40</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>-60</BrightLightVisionRangeBonus>
+		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
+		<PercentTunnelVision>60</PercentTunnelVision>
+		<ThermalOptics>1</ThermalOptics>
+		<NeedsBatteries>0</NeedsBatteries>
+		<ScopeMagFactor>1.0</ScopeMagFactor>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -78290,28 +78324,17 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>300</BestLaserRange>
-		<AimBonus>12</AimBonus>
-		<MinRangeForAimBonus>30</MinRangeForAimBonus>
-		<PercentAPReduction>8</PercentAPReduction>
-		<CamoBonus>-15</CamoBonus>
-		<UrbanCamoBonus>-15</UrbanCamoBonus>
-		<DesertCamoBonus>-15</DesertCamoBonus>
-		<SnowCamoBonus>-15</SnowCamoBonus>
-		<StealthBonus>-15</StealthBonus>
-		<VisionRangeBonus>5</VisionRangeBonus>
+		<VisionRangeBonus>0</VisionRangeBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<DayVisionRangeBonus>-40</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>-60</BrightLightVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>60</PercentTunnelVision>
 		<ThermalOptics>1</ThermalOptics>
 		<NeedsBatteries>1</NeedsBatteries>
 		<ScopeMagFactor>1.0</ScopeMagFactor>
-		<ProjectionFactor>1.7</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
-			<AimLevels>-1</AimLevels>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
