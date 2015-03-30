@@ -29296,6 +29296,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Flare>1</Flare>
+		<buddyitem>2457</buddyitem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -30994,6 +30995,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
 		<Flare>1</Flare>
+		<buddyitem>2457</buddyitem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -42139,6 +42141,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<Flare>1</Flare>
+		<buddyitem>2457</buddyitem>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -42321,6 +42324,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<Flare>1</Flare>
+		<buddyitem>2457</buddyitem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -64576,6 +64580,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<Flare>1</Flare>
+		<buddyitem>2457</buddyitem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
