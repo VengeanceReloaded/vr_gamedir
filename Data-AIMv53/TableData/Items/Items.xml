@@ -58965,6 +58965,7 @@
 		<Bipod>30</Bipod>
 		<ToHitBonus>30</ToHitBonus>
 		<BestLaserRange>400</BestLaserRange>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<DefaultAttachment>2961</DefaultAttachment>
 		<DefaultAttachment>2973</DefaultAttachment>
 		<CamoBonus>-20</CamoBonus>
@@ -62209,6 +62210,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<SciFi>1</SciFi>
+		<NotBuyable>1</NotBuyable>
 		<RangeBonus>200</RangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -62231,6 +62233,7 @@
 		<ItemSize>12</ItemSize>
 		<usPrice>420</usPrice>
 		<ubCoolness>9</ubCoolness>
+		<NotBuyable>1</NotBuyable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<SciFi>1</SciFi>

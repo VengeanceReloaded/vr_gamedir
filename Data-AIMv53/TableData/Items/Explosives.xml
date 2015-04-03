@@ -1348,7 +1348,7 @@
 		<ubFragDamage>6</ubFragDamage>
 		<ubFragRange>80</ubFragRange>
 		<ubHorizontalDegree>359</ubHorizontalDegree>
-		<ubVerticalDegree>5</ubVerticalDegree>
+		<ubVerticalDegree>30</ubVerticalDegree>
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>	<!-- 40mm Thermobaric Cylinder -->
@@ -2968,7 +2968,7 @@
 		<ubVerticalDegree>0</ubVerticalDegree>
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
-	<EXPLOSIVE>	<!-- M18A1 Claymore Mine -->
+	<EXPLOSIVE>	<!-- S-Mine -->
 		<uiIndex>140</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>30</ubDamage>
@@ -2986,7 +2986,7 @@
 		<ubFragDamage>12</ubFragDamage>
 		<ubFragRange>60</ubFragRange>
 		<ubHorizontalDegree>359</ubHorizontalDegree>
-		<ubVerticalDegree>5</ubVerticalDegree>
+		<ubVerticalDegree>30</ubVerticalDegree>
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>	<!-- BLU-43 Mine -->
