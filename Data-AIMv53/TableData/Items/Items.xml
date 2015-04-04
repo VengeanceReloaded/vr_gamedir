@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+Ôªø<?xml version="1.0" encoding="utf-8"?>
 <ITEMLIST>
 	<ITEM>
 		<uiIndex>0</uiIndex>
@@ -752,7 +752,7 @@
 		<uiIndex>15</uiIndex>
 		<szItemName>P90</szItemName>
 		<szLongItemName>FN P90</szLongItemName>
-		<szItemDesc>This Belgian weapon is one of the most advanced submachine guns in the world and is highly coveted by several special forces. This submachine gun fires the 5.7◊28mm at a rate of 900 rpm, making it one of the best cqb weapon.</szItemDesc>
+		<szItemDesc>This Belgian weapon is one of the most advanced submachine guns in the world and is highly coveted by several special forces. This submachine gun fires the 5.7x28mm at a rate of 900 rpm, making it one of the best cqb weapon.</szItemDesc>
 		<szBRName>FN P90</szBRName>
 		<szBRDesc>Chews through Kevlar like it was butter. The FN-P90 is a blowback machine pistol with truly powerful ballistic capabilities. All controls are fully ambidextrous, with a cocking handle fitted on both sides and two open sights. Comes complete with reflex sight. It also is the favorited weapon of SG-1.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -1245,9 +1245,9 @@
 	<ITEM>
 		<uiIndex>28</uiIndex>
 		<szItemName>FN FAL</szItemName>
-		<szLongItemName>FN Fusil Automatique LÈger</szLongItemName>
+		<szLongItemName>FN Fusil Automatique Leger</szLongItemName>
 		<szItemDesc>The phrase, 'Help, I've FAL-len and I can't get up,' takes on a whole new meaning when this rifle is involved.</szItemDesc>
-		<szBRName>FN Fusil Automatique LÈger</szBRName>
+		<szBRName>FN Fusil Automatique Leger</szBRName>
 		<szBRDesc>This Belgian automatic rifle set a new standard in weaponry in the early 1950's. Its robust and reliable design made it simple to use and maintain, despite its tendency for excessive climbing in automatic mode.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -34003,7 +34003,7 @@
 		<uiIndex>1092</uiIndex>
 		<szItemName>Holster Rig</szItemName>
 		<szLongItemName>Holster Rig</szLongItemName>
-		<szItemDesc>If youíre looking for a comfortable, durable leg rig with medium pistol holster and a triple pistol mag pouch this EWF tactical is the ultimate choice..</szItemDesc>
+		<szItemDesc>If you‚Äôre looking for a comfortable, durable leg rig with medium pistol holster and a triple pistol mag pouch this EWF tactical is the ultimate choice..</szItemDesc>
 		<szBRName>Holster Rig</szBRName>
 		<szBRDesc>This EWF tactical Leg Rig can carry a pistol and three magazines.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -48408,9 +48408,9 @@
 		<uiIndex>1610</uiIndex>
 		<szItemName>Grey shirt</szItemName>
 		<szLongItemName>Grey shirt</szLongItemName>
-		<szItemDesc>Traditionally, ringspun cotton has qualities that make it softer and more ìcomfortableî to wear.</szItemDesc>
+		<szItemDesc>Traditionally, ringspun cotton has qualities that make it softer and more ‚Äúcomfortable‚Äù to wear.</szItemDesc>
 		<szBRName>Grey shirt</szBRName>
-		<szBRDesc>Think about your favorite t-shirt.  Thereís a good chance it feels nice, soft, and is more comfortable on your skin.  Your favorite shirt is probably a ringspun cotton material.</szBRDesc>
+		<szBRDesc>Think about your favorite t-shirt.  There‚Äôs a good chance it feels nice, soft, and is more comfortable on your skin.  Your favorite shirt is probably a ringspun cotton material.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -56668,7 +56668,7 @@
 		<szLongItemName>MPA .45 Carbine</szLongItemName>
 		<szItemDesc>A carbine version based on the simplistic MAC-10 design. Instead of full auto, this gun has a 3 shot burst.</szItemDesc>
 		<szBRName>MPA .45 Carbine</szBRName>
-		<szBRDesc>Known for their innovative alterations to the traditional MAC-10, MasterPiece Arms has taken the simplicity of the firearmís function and added rifle barrels and several stock options to form a rifle line that is sure to please any varmint hunter or collector.</szBRDesc>
+		<szBRDesc>Known for their innovative alterations to the traditional MAC-10, MasterPiece Arms has taken the simplicity of the firearm‚Äôs function and added rifle barrels and several stock options to form a rifle line that is sure to please any varmint hunter or collector.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2064</ubClassIndex>
 		<ubCursor>3</ubCursor>
@@ -67313,9 +67313,9 @@
 		<uiIndex>2614</uiIndex>
 		<szItemName>KSK Desert Vest</szItemName>
 		<szLongItemName>KSK Desert Vest</szLongItemName>
-		<szItemDesc>A German assault vest, as used by the Kommando Spezialkr‰fte (German Special Forces), especially in Desert Scenarios. This vest has several pockets for magazines, grenades and various equipment pockets.</szItemDesc>
+		<szItemDesc>A German assault vest, as used by the KSK (German Special Forces), especially in Desert Scenarios. This vest has several pockets for magazines, grenades and various equipment pockets.</szItemDesc>
 		<szBRName>KSK Desert Vest</szBRName>
-		<szBRDesc>A German assault vest, as used by the Kommando Spezialkr‰fte (German Special Forces), especially in Desert Scenarios. As you would expect from such a vest, it offers great camouflage in these regions. These vests are hard to get. Buy now, as long as stock lasts.</szBRDesc>
+		<szBRDesc>A German assault vest, as used by the KSK (German Special Forces), especially in Desert Scenarios. As you would expect from such a vest, it offers great camouflage in these regions. These vests are hard to get. Buy now, as long as stock lasts.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>115</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -68658,11 +68658,9 @@
 		<uiIndex>2664</uiIndex>
 		<szItemName>Viper Belt</szItemName>
 		<szLongItemName>Viper Tactical Belt</szLongItemName>
-		<szItemDesc>The Viper Tactical Belt is a multi-purpose belt. Made by high quality 600D nylon material
-With QD buckle, easy to be put on and off and come several utility pouches.</szItemDesc>
+		<szItemDesc>The Viper Tactical Belt is a multi-purpose belt. Made by high quality 600D nylon material. With QD buckle, easy to be put on and off and come several utility pouches.</szItemDesc>
 		<szBRName>Viper Tactical Belt</szBRName>
-		<szBRDesc>The Viper Tactical Belt is a multi-purpose belt. Made by high quality 600D nylon material
-With QD buckle, easy to be put on and off and come several utility pouches.</szBRDesc>
+		<szBRDesc>The Viper Tactical Belt is a multi-purpose belt. Made by high quality 600D nylon material. With QD buckle, easy to be put on and off and come several utility pouches.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>165</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -74343,7 +74341,7 @@ With QD buckle, easy to be put on and off and come several utility pouches.</szB
 		<uiIndex>2921</uiIndex>
 		<szItemName>mod. BORS</szItemName>
 		<szLongItemName>mod. Barrett Optical Ranging Sysystem</szLongItemName>
-		<szItemDesc>An advanced ballistic target computer that can be attached to certain long range sniper rifles. This one has been modified to permanently stick to a gun. Since the BORS is mounted directly to the scope and coupled with the elevation knobs, the computer can interact with the scope by simply turning the elevation knob until the LCD displays the targetís range.</szItemDesc>
+		<szItemDesc>An advanced ballistic target computer that can be attached to certain long range sniper rifles. This one has been modified to permanently stick to a gun. Since the BORS is mounted directly to the scope and coupled with the elevation knobs, the computer can interact with the scope by simply turning the elevation knob until the LCD displays the target‚Äôs range.</szItemDesc>
 		<szBRName>mod. Barrett Optical Ranging Sysystem</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -78346,7 +78344,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>3068</uiIndex>
 		<szItemName>Shock Stock</szItemName>
 		<szLongItemName>Mako Shock Stock</szLongItemName>
-		<szItemDesc>Unique patented ìAnti-Rattleî Mechanism with sleek new design with No protruding parts, It will not get caught on gear and webbing. Its unique new slick and quick operated inversed positioning lever Integral and ribbed rubber butt pad with a non slip design Is sure going to be a tactical helper.</szItemDesc>
+		<szItemDesc>Unique patented ‚ÄúAnti-Rattle‚Äù Mechanism with sleek new design with No protruding parts, It will not get caught on gear and webbing. Its unique new slick and quick operated inversed positioning lever Integral and ribbed rubber butt pad with a non slip design Is sure going to be a tactical helper.</szItemDesc>
 		<szBRName>Mako Shock Stock</szBRName>
 		<szBRDesc>The revolutionary patented 'GL-Shock' absorbing Buttstock contains a recoil-reducing mechanism with a built in premium silicon chrome alloy spring creating a State-of-the-Art stock</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -78669,7 +78667,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>3084</uiIndex>
 		<szItemName>Guns&amp;Girls</szItemName>
 		<szLongItemName>Guns&amp;Girls Nr.41</szLongItemName>
-		<szItemDesc>ìGuns&amp;Girls" magazine, got 40 pages of hot girls with some of the worldís most exotic weaponry in unrealistic tactical settings.</szItemDesc>
+		<szItemDesc>‚ÄúGuns&amp;Girls" magazine, got 40 pages of hot girls with some of the world‚Äôs most exotic weaponry in unrealistic tactical settings.</szItemDesc>
 		<szBRName>Guns&amp;Girls</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -78804,9 +78802,9 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>3091</uiIndex>
 		<szItemName>FF Laser</szItemName>
 		<szLongItemName>Firefield Laser</szLongItemName>
-		<szItemDesc>You only need one clean shot to engage your enemyómake it count. The Firefield Compact Laser is a dynamic, powerful unit built to do the job. This highly versatile unit is equipped with a weaver rail and easily affixes to a wide variety of, it fits onto the trigger guard of most sub-machine guns and pistols.</szItemDesc>
+		<szItemDesc>You only need one clean shot to engage your enemy‚Äîmake it count. The Firefield Compact Laser is a dynamic, powerful unit built to do the job. This highly versatile unit is equipped with a weaver rail and easily affixes to a wide variety of, it fits onto the trigger guard of most sub-machine guns and pistols.</szItemDesc>
 		<szBRName>Firefield Laser</szBRName>
-		<szBRDesc>Complete with a tactical pressure pad, the Green Compact laser is user friendly with an on/off tilt switch that can be activated with a flick of the userís finger. Ideal for use in home defense, the powerfully bright green laser can pacify targets and alleviate threats quickly!</szBRDesc>
+		<szBRDesc>Complete with a tactical pressure pad, the Green Compact laser is user friendly with an on/off tilt switch that can be activated with a flick of the user‚Äôs finger. Ideal for use in home defense, the powerfully bright green laser can pacify targets and alleviate threats quickly!</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
