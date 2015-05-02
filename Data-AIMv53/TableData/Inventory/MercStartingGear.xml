@@ -9069,7 +9069,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>58</mIndex>
-		<mName>Carlos</mName>
+		<mName>Sandman</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -9152,7 +9152,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>59</mIndex>
-		<mName>Ira</mName>
+		<mName>Sparky</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -9235,7 +9235,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>60</mIndex>
-		<mName>Dimitri</mName>
+		<mName>Frazzler</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -9318,7 +9318,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>61</mIndex>
-		<mName>Devin</mName>
+		<mName>TNT</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -9484,7 +9484,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>63</mIndex>
-		<mName>Hamous</mName>
+		<mName>Cobra</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -9650,7 +9650,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>65</mIndex>
-		<mName>RPC65</mName>
+		<mName>Eagle</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -9899,7 +9899,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>68</mIndex>
-		<mName>Iggy</mName>
+		<mName>Ilya</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -9982,14 +9982,14 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>69</mIndex>
-		<mName>Vince</mName>
+		<mName>Fish</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
-			<mHelmet>176</mHelmet>
-			<mHelmetDrop>1</mHelmetDrop>
-			<mHelmetStatus>93</mHelmetStatus>
+			<mHelmet>0</mHelmet>
+			<mHelmetDrop>0</mHelmetDrop>
+			<mHelmetStatus>0</mHelmetStatus>
 			<mVest>161</mVest>
 			<mVestDrop>1</mVestDrop>
 			<mVestStatus>88</mVestStatus>
@@ -10148,7 +10148,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>71</mIndex>
-		<mName>RPC71</mName>
+		<mName>Joey</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -10231,7 +10231,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>72</mIndex>
-		<mName>Maddog</mName>
+		<mName>Gordon</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -11725,7 +11725,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>90</mIndex>
-		<mName>Joey</mName>
+		<mName>Pacos</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -15131,6 +15131,7 @@
 		<mName>Guard</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
+			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
 			<mHelmet>181</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
@@ -15874,7 +15875,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>140</mIndex>
-		<mName>Jim</mName>
+		<mName>Iggy</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
