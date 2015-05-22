@@ -147,7 +147,7 @@
 		<DamageKeyFrame>3</DamageKeyFrame>
 		<ExplosionSoundID>602</ExplosionSoundID>
 		<AltExplosionSoundID>-1</AltExplosionSoundID>
-		<BlastFilename>TILECACHE\ZGRAV_D.STI</BlastFilename>
+		<BlastFilename>TILECACHE\grenade_mini.sti</BlastFilename>
 		<BlastSpeed>40</BlastSpeed>
 	</EXPDATA>
 	<EXPDATA>
@@ -157,7 +157,7 @@
 		<DamageKeyFrame>3</DamageKeyFrame>
 		<ExplosionSoundID>603</ExplosionSoundID>
 		<AltExplosionSoundID>-1</AltExplosionSoundID>
-		<BlastFilename>TILECACHE\ZGRAV_D.STI</BlastFilename>
+		<BlastFilename>TILECACHE\grenade.sti</BlastFilename>
 		<BlastSpeed>40</BlastSpeed>
 	</EXPDATA>
 	<EXPDATA>
@@ -167,7 +167,7 @@
 		<DamageKeyFrame>3</DamageKeyFrame>
 		<ExplosionSoundID>604</ExplosionSoundID>
 		<AltExplosionSoundID>-1</AltExplosionSoundID>
-		<BlastFilename>TILECACHE\ZGRAV_D.STI</BlastFilename>
+		<BlastFilename>TILECACHE\grenade_40mm.sti</BlastFilename>
 		<BlastSpeed>40</BlastSpeed>
 	</EXPDATA>
 	<EXPDATA>
@@ -187,7 +187,7 @@
 		<DamageKeyFrame>3</DamageKeyFrame>
 		<ExplosionSoundID>602</ExplosionSoundID>
 		<AltExplosionSoundID>-1</AltExplosionSoundID>
-		<BlastFilename>TILECACHE\ZGRAV_D.STI</BlastFilename>
+		<BlastFilename>TILECACHE\grenade_20mm.sti</BlastFilename>
 		<BlastSpeed>40</BlastSpeed>
 	</EXPDATA>
 	<EXPDATA>
@@ -207,7 +207,7 @@
 		<DamageKeyFrame>3</DamageKeyFrame>
 		<ExplosionSoundID>606</ExplosionSoundID>
 		<AltExplosionSoundID>-1</AltExplosionSoundID>
-		<BlastFilename>TILECACHE\Landmine.sti</BlastFilename>
+		<BlastFilename>TILECACHE\Landmine_small.sti</BlastFilename>
 		<BlastSpeed>20</BlastSpeed>
 	</EXPDATA>
 	<EXPDATA>
