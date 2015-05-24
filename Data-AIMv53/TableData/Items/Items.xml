@@ -46921,7 +46921,7 @@
 		<uiIndex>1555</uiIndex>
 		<szItemName>C. vegetables</szItemName>
 		<szLongItemName>Canned vegetables</szLongItemName>
-		<szItemDesc>These gmo vegetables will stay edible forever, much to children's dismay.</szItemDesc>
+		<szItemDesc>These GMO vegetables will stay edible forever, much to children's dismay.</szItemDesc>
 		<szBRName>C. vegetables</szBRName>
 		<szBRDesc>Nutritious, long-lasting, and animal-friendly.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -46970,7 +46970,7 @@
 		<uiIndex>1557</uiIndex>
 		<szItemName>Cat food</szItemName>
 		<szLongItemName>Canned cat food</szLongItemName>
-		<szItemDesc>Seriously? You really think about eating this? You should rethink this assignment...</szItemDesc>
+		<szItemDesc>Seriously? You're really thinking about eating this? Maybe you should rethink this assignment...</szItemDesc>
 		<szBRName>Cat food</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -47109,7 +47109,7 @@
 		<uiIndex>1563</uiIndex>
 		<szItemName>Pasta</szItemName>
 		<szLongItemName>Pasta</szLongItemName>
-		<szItemDesc>Italian pasta.</szItemDesc>
+		<szItemDesc>Italian pasta, where's the meat balls?</szItemDesc>
 		<szBRName>Pasta</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -47155,7 +47155,7 @@
 		<uiIndex>1565</uiIndex>
 		<szItemName>Cow meat</szItemName>
 		<szLongItemName>Cow meat</szLongItemName>
-		<szItemDesc>Meat from 100% corn fed cows, packed in a poisonous gas carbon monoxide, it keeps meat fresh and red even if its spoiled. Be sure not to grill it too much or the chemical reactions in the meat will create PhIP, a carcinogen with potent estrogen effects (Primary female sex hormone) Or Eat it raw.</szItemDesc>
+		<szItemDesc>Meat from 100% corn fed cows, packed in a poisonous gas carbon monoxide, it keeps meat fresh and red even if its spoiled. Be sure not to grill it too much or the chemical reactions in the meat will create PhIP, a carcinogen with potent estrogen effects. Or just it eat it raw.</szItemDesc>
 		<szBRName>Cow meat</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -47224,9 +47224,9 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1568</uiIndex>
-		<szItemName>Applepie</szItemName>
-		<szLongItemName>Applepie</szLongItemName>
-		<szItemDesc>A delicious applepie made from tasty arulcan apples. Don't you do anything naughty with it!</szItemDesc>
+		<szItemName>Apple pie</szItemName>
+		<szLongItemName>Apple pie</szLongItemName>
+		<szItemDesc>A delicious apple pie made from tasty arulcan apples. Don't you do anything naughty with it!</szItemDesc>
 		<szBRName>Applepie</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -47322,7 +47322,7 @@
 		<uiIndex>1572</uiIndex>
 		<szItemName>Milk</szItemName>
 		<szLongItemName>Milk</szLongItemName>
-		<szItemDesc>One of the GMO riddled superfoods of the big food industry. The pasteurization / homoginization process of this 1 liter of milk leaves few minerals for the human body to absorb. Its healthy tho..</szItemDesc>
+		<szItemDesc>One of the big food industry's GMO riddled superfoods. The pasteurization / homogenization process leaves very few minerals for the human body to absorb. At least it's Permeate free!</szItemDesc>
 		<szBRName>Milk</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -47345,7 +47345,7 @@
 		<uiIndex>1573</uiIndex>
 		<szItemName>Growlerade</szItemName>
 		<szLongItemName>Growlerade</szLongItemName>
-		<szItemDesc>With 7 times as much caffeine as a cup of coffee, sodium benzoate, ephedra and other neurotoxins. Its sure to say "Growlerade! Cause when beast mode is required to get you through a hangout with friends or a movie."</szItemDesc>
+		<szItemDesc>With 7 times as much caffeine as a cup of strong coffee, sodium benzoate, ephedra and other neurotoxins. It's sure to say "Growlerade! When Beast Mode is required to get you through hanging out with friends or a movie."</szItemDesc>
 		<szBRName>Growlerade</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -47369,7 +47369,7 @@
 		<uiIndex>1574</uiIndex>
 		<szItemName>Hyporade</szItemName>
 		<szLongItemName>Hyporade</szLongItemName>
-		<szItemDesc>The hidden chemicals in this drink for recipie protection is guaranteed to make your heart and head go turbo! Irregular heart palpitations, heart arrhythmia and increased blood pressure is completly normal. No need to contact our customer support for this.</szItemDesc>
+		<szItemDesc>The secret recipe in this drink are the hidden chemicals guaranteed to make your heart and head go turbo! Heart palpitations, arrhythmia and high blood pressure are completely normal. No need to contact our customer support for this.</szItemDesc>
 		<szBRName>Hyporade</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -47393,7 +47393,7 @@
 		<uiIndex>1575</uiIndex>
 		<szItemName>Coffee</szItemName>
 		<szLongItemName>Coffee</szLongItemName>
-		<szItemDesc>Helps you going when your body is giving up! It will boost your blood pressure, give forceful heart contractions more energy and anxiety disorders! The caffeine will flush out the calcium in your diet which later in life might cause osteoporosis. Apparently some people can get hooked to this stuff.</szItemDesc>
+		<szItemDesc>Keeps you going when your body has given up! The energy kick you get will also boost your blood pressure, develop forceful heart contractions and anxiety disorders! Caffeine will flush the calcium out of your diet which can lead to osteoporosis. Oh and it's addictive.</szItemDesc>
 		<szBRName>Coffee</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -47497,7 +47497,7 @@
 		<szLongItemName>Garotte</szLongItemName>
 		<szItemDesc>In skilled hands, a deadly weapon. In unskilled hands, you better use your fists.</szItemDesc>
 		<szBRName>Garotte</szBRName>
-		<szBRDesc>Easily concealable, lightweigth, maintenance-free. Though you might want to reconsider if your victim sees you.</szBRDesc>
+		<szBRDesc>Easily concealable, lightweight, maintenance-free. Though you might want to reconsider if your victim sees you.</szBRDesc>
 		<usItemClass>128</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1579</ubClassIndex>
