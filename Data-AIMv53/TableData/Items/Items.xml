@@ -19869,9 +19869,9 @@
 		<uiIndex>677</uiIndex>
 		<szItemName>UMP45</szItemName>
 		<szLongItemName>HK UMP45</szLongItemName>
-		<szItemDesc>The UMP (Universal Machinen-Pistole = Universal Submachine Gun) was developed by the Heckler &amp; Koch company of Germany in the mid- to late- 1990s.</szItemDesc>
+		<szItemDesc>The UMP (Universal Machinenpistole = Universal Submachine Gun) was developed by the Heckler &amp; Koch company of Germany in the mid-to-late 1990s.</szItemDesc>
 		<szBRName>HK UMP45</szBRName>
-		<szBRDesc>The UMP (Universal Machinen-Pistole = Universal Submachine Gun) was developed by the Heckler &amp; Koch company of Germany in the mid- to late- 1990s.</szBRDesc>
+		<szBRDesc>The UMP (Universal Machinen-Pistole = Universal Submachine Gun) was developed by the Heckler &amp; Koch company of Germany in the mid- to-late 1990s.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>677</ubClassIndex>
@@ -24009,9 +24009,9 @@
 		<uiIndex>785</uiIndex>
 		<szItemName>AKMSU</szItemName>
 		<szLongItemName>AKMSU</szLongItemName>
-		<szItemDesc>Variant of the AKMS, which is a variant of the standard AKM. Was made shorter for special units and paratroopers. U-shaped buttplate of folding stock allows folding/unfolding while a magazine is inserted.</szItemDesc>
+		<szItemDesc>A shorter variant of the AKMS for special forces use. The U-shaped buttplate of the stock allows folding/unfolding while a clip is in place.</szItemDesc>
 		<szBRName>AKMSU</szBRName>
-		<szBRDesc>This even more shortened variant of the AKM comes with a folding stock that allows folding/unfolding while a magazine is in the gun. It was developed for paratroopers and special units, and is quite functional despite the rather unusual foregrip.</szBRDesc>
+		<szBRDesc>This even more shortened variant of the AKM comes with a folding stock that allows folding/unfolding while a magazine is in the gun. Designed for paratroopers and special forces units, it's quite functional despite the rather unusual foregrip.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>785</ubClassIndex>
