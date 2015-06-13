@@ -300,9 +300,9 @@
 		<uiIndex>3</uiIndex>
 		<szItemName>Beretta 92F</szItemName>
 		<szLongItemName>Beretta 92F</szLongItemName>
-		<szItemDesc>This Italian double action pistol can quickly turn any shooter into a Lethal Weapon. The model 92 was designed in 1972 and production of many variants in different calibers continues today. The United States Armed Forces replaced the Model 1911A1 .45 ACP pistol in 1985 with the military spec 9mm Beretta 92F, also known as the M9.</szItemDesc>
+		<szItemDesc>This Italian double action pistol has been turning mercs into Lethal Weapons since 1972. The US Army's standard issue sidearm since 1985.</szItemDesc>
 		<szBRName>Beretta 92F</szBRName>
-		<szBRDesc>U.S. Army issued, the Beretta 92F is a standard 9mm Parabellum pistol, with a modified trigger-guard to allow a two-handed grip. This is a very functional weapon.</szBRDesc>
+		<szBRDesc>U.S. Army issued, under the M9 name tag, the Beretta 92F is a standard 9mm Parabellum pistol, with a modified trigger-guard to allow a two-handed grip. A very functional weapon</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>3</ubClassIndex>
@@ -9825,7 +9825,7 @@
 		<uiIndex>338</uiIndex>
 		<szItemName>Grach</szItemName>
 		<szLongItemName>MP-443 Grach</szLongItemName>
-		<szItemDesc>The PYa (Pistolet Yarygina - codenamed Grach) was developed for the Russian Army in the early 1990s.  A conservative, but well balanced and sturdy weapon.</szItemDesc>
+		<szItemDesc>The PYa (Pistolet Yarygina - codenamed Grach) was developed for the Russian Army in 1993.  A conservative, but well balanced and sturdy weapon.</szItemDesc>
 		<szBRName>MP-443 Grach</szBRName>
 		<szBRDesc>The PYa (Pistolet Yarygina - codenamed Grach) was developed for the Russian Army in the early 1990s.  A conservative, but well balanced and sturdy pistol, with adequate accuracy and decent firepower.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -46659,9 +46659,9 @@
 		<uiIndex>1544</uiIndex>
 		<szItemName>Diet bar</szItemName>
 		<szLongItemName>Diet bar</szLongItemName>
-		<szItemDesc>Packed with nutrients! This diet food bar, while in its idea not a bad thing but when too many chemicals and artificial sweeteners was added to make shortcuts decided by greed. The consumers suffer in the shadows. The aspartame really puts the die in this diet.</szItemDesc>
+		<szItemDesc>While this diet bar in theory is not a bad thing, all the artificial ingredients greedily added to save costs sure are! The Aspartame really puts the 'die' in this diet.</szItemDesc>
 		<szBRName>Diet bar</szBRName>
-		<szBRDesc>Because normal food is sooo 2011.</szBRDesc>
+		<szBRDesc>Because 'normal' food is sooo 2011.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -47017,7 +47017,7 @@
 		<uiIndex>1559</uiIndex>
 		<szItemName>Steak</szItemName>
 		<szLongItemName>Steak</szLongItemName>
-		<szItemDesc>The best arulcan steak you'll find in .. Arulco.</szItemDesc>
+		<szItemDesc>The best Arulcan steak you'll find in ...Arulco.</szItemDesc>
 		<szBRName>Steak</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -47155,7 +47155,7 @@
 		<uiIndex>1565</uiIndex>
 		<szItemName>Cow meat</szItemName>
 		<szLongItemName>Cow meat</szLongItemName>
-		<szItemDesc>Meat from 100% corn fed cows, packed in a poisonous gas carbon monoxide, it keeps meat fresh and red even if its spoiled. Be sure not to grill it too much or the chemical reactions in the meat will create PhIP, a carcinogen with potent estrogen effects. Or just it eat it raw.</szItemDesc>
+		<szItemDesc>Meat from 100 per cent corn fed cows, packed in poisonous carbon monoxide, it keeps meat fresh and red even if it's spoiled. Be sure not to grill it too much or the chemical reactions inside will create PhIP, a carcinogen with potent estrogen effects. Or just it eat it raw.</szItemDesc>
 		<szBRName>Cow meat</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -47249,7 +47249,7 @@
 		<uiIndex>1569</uiIndex>
 		<szItemName>Water drum</szItemName>
 		<szLongItemName>Water drum</szLongItemName>
-		<szItemDesc>A rusty old water barrel. Still in good range of B.B.D and added hydrofluorosilicic acid for that smile.</szItemDesc>
+		<szItemDesc>An old water barrel that will take hundreds of years to biodegrade. Still in good range of B.B.D and added hydrofluorosilicic acid for that shining smile.</szItemDesc>
 		<szBRName>Water drum</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -48408,9 +48408,9 @@
 		<uiIndex>1610</uiIndex>
 		<szItemName>Grey shirt</szItemName>
 		<szLongItemName>Grey shirt</szLongItemName>
-		<szItemDesc>Traditionally, ringspun cotton has qualities that make it softer and more “comfortable” to wear.</szItemDesc>
+		<szItemDesc>This one's super comfy! Perhaps it's the material. Traditionally, ringspun cotton has qualities that make it softer and more comfortable to wear.</szItemDesc>
 		<szBRName>Grey shirt</szBRName>
-		<szBRDesc>Think about your favorite t-shirt.  There’s a good chance it feels nice, soft, and is more comfortable on your skin.  Your favorite shirt is probably a ringspun cotton material.</szBRDesc>
+		<szBRDesc>Think about your favorite t-shirt.  There’s a good chance it feels nice, soft, and is more comfortable on your skin.  Your favorite shirt is probably made from ringspun cotton.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -78961,9 +78961,9 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 	</ITEM>
 	<ITEM>
 		<uiIndex>3096</uiIndex>
-		<szItemName>MK-Ultra</szItemName>
-		<szLongItemName>Project MK-ultra</szLongItemName>
-		<szItemDesc>This how-to guide on mind control by the CIA, its a great read before bedtime. With millions of dollars into studies on tehniques like redirection of focus, mood alterations, behavior and personality manipulation. Its proven results helps new government agencies easier control the herd.</szItemDesc>
+		<szItemName>MKUltra</szItemName>
+		<szLongItemName>Project MKUltra</szLongItemName>
+		<szItemDesc>This how-to guide on mind control by the CIA is a great read. Million dollar studies have honed methods to redirect focus, alter mood, behavior and manipulate personality. It's proven results have helped agencies control the herd since the '50s.</szItemDesc>
 		<szBRName>CIA's Book on Project MK-ultra</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
