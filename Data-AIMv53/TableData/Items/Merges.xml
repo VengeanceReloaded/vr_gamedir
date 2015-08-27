@@ -6272,6 +6272,40 @@
 		<mergeType>4</mergeType>
 		<APCost>40</APCost>
 	</MERGE>
+
+	<MERGE>
+		<firstItemIndex>2803</firstItemIndex>
+		<secondItemIndex>26</secondItemIndex>
+		<firstResultingItemIndex>2025</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>40</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2803</firstItemIndex>
+		<secondItemIndex>347</secondItemIndex>
+		<firstResultingItemIndex>2025</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>40</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2803</firstItemIndex>
+		<secondItemIndex>612</secondItemIndex>
+		<firstResultingItemIndex>2025</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>40</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2803</firstItemIndex>
+		<secondItemIndex>613</secondItemIndex>
+		<firstResultingItemIndex>2025</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>40</APCost>
+	</MERGE>
+
 	<MERGE>
 		<firstItemIndex>2917</firstItemIndex>
 		<secondItemIndex>147</secondItemIndex>
