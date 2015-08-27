@@ -14364,7 +14364,7 @@
 		<ubGraphicNum>425</ubGraphicNum>
 		<ubWeight>3</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>16</ItemSize>
+		<ItemSize>15</ItemSize>
 		<usPrice>15</usPrice>
 		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
@@ -14389,7 +14389,7 @@
 		<ubGraphicNum>426</ubGraphicNum>
 		<ubWeight>3</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>16</ItemSize>
+		<ItemSize>15</ItemSize>
 		<usPrice>30</usPrice>
 		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
@@ -20540,7 +20540,7 @@
 		<ubGraphicNum>213</ubGraphicNum>
 		<ubWeight>33</ubWeight>
 		<ItemSize>8</ItemSize>
-		<usPrice>1980</usPrice>
+		<usPrice>940</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -28980,7 +28980,7 @@
 		<ubGraphicNum>752</ubGraphicNum>
 		<ubWeight>3</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>16</ItemSize>
+		<ItemSize>15</ItemSize>
 		<usPrice>45</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
@@ -42055,7 +42055,7 @@
 		<ubGraphicNum>771</ubGraphicNum>
 		<ubWeight>3</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>16</ItemSize>
+		<ItemSize>15</ItemSize>
 		<usPrice>105</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
@@ -49278,7 +49278,7 @@
 		<szBRDesc>This pistol holster can store a larger pistol and up to two spare magazines.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
-		<ubClassIndex>41</ubClassIndex>
+		<ubClassIndex>204</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>191</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -49471,7 +49471,7 @@
 		<szBRDesc>This leg rig can hold several 12 gauge shotgun shells and allows access to the regular pants pockets.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
-		<ubClassIndex>48</ubClassIndex>
+		<ubClassIndex>202</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>170</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -50397,7 +50397,7 @@
 		<nasLayoutClass>4</nasLayoutClass>
 		<AttachmentPoint>2</AttachmentPoint>
 		<AttachToPointAPCost>15</AttachToPointAPCost>
-		<ubClassIndex>77</ubClassIndex>
+		<ubClassIndex>203</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>199</ubGraphicNum>
 		<ubWeight>3</ubWeight>
