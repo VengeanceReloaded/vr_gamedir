@@ -65051,24 +65051,56 @@
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
-	<ITEM>
+	<ITEM>		
 		<uiIndex>2462</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2462</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>TNT stick</szItemName>
+		<szLongItemName>TNT stick</szLongItemName>
+		<szItemDesc>Good old reliable trinitrotoluene.</szItemDesc>
+		<szBRName>TNT stick</szBRName>
+		<szBRDesc>Good old reliable trinitrotoluene.</szBRDesc>
+		<usItemClass>512</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>184</ubClassIndex>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>437</ubGraphicNum>
+		<ubWeight>4</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>16</ItemSize>
+		<usPrice>150</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<bRepairEase>-4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>0</Repairable>		
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2463</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2463</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>HMX stick</szItemName>
+		<szLongItemName>HMX stick</szLongItemName>
+		<szItemDesc>HMX is a mixture of TNT and RDX at a ratio of 50/50.</szItemDesc>
+		<szBRName>HMX stick</szBRName>
+		<szBRDesc>HMX is a mixture of TNT and RDX at a ratio of 50/50.</szBRDesc>
+		<usItemClass>512</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>185</ubClassIndex>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>438</ubGraphicNum>
+		<ubWeight>4</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>16</ItemSize>
+		<usPrice>250</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<bRepairEase>-4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>0</Repairable>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76294,15 +76326,33 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2974</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2974</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>Fuse</szItemName>
+		<szLongItemName>Fuse</szLongItemName>
+		<szItemDesc>Use to blow up TNT stick.</szItemDesc>
+		<szBRName>Detonator</szBRName>
+		<szBRDesc>Use to blow up TNT stick.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<AttachmentClass>65536</AttachmentClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>439</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>11</ItemSize>
+		<usPrice>1</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>0</Repairable>
+		<Metal>0</Metal>
+		<Attachment>1</Attachment>
+		<Inseparable>1</Inseparable>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
+		<PRONE_MODIFIERS />	</ITEM>
 	<ITEM>
 		<uiIndex>2975</uiIndex>
 		<szItemName>Nada</szItemName>
