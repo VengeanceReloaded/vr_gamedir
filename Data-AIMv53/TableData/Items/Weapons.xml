@@ -968,7 +968,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>25</uiIndex>
-		<szWeaponName>Avtomat Kalashnikova-74</szWeaponName>
+		<szWeaponName>AK-74</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>7</ubCalibre>
@@ -1009,7 +1009,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>26</uiIndex>
-		<szWeaponName>Avtomat Kalashnikova Modernizirovanniy</szWeaponName>
+		<szWeaponName>AKM</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>10</ubCalibre>

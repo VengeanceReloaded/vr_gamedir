@@ -3893,7 +3893,7 @@
 		<ubVerticalDegree>0</ubVerticalDegree>
 		<bIndoorModifier>0.5</bIndoorModifier>
 	</EXPLOSIVE>
-	<EXPLOSIVE>	<!-- TNT -->
+	<EXPLOSIVE>	<!-- TNT Stick -->
 		<uiIndex>184</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>20</ubDamage>
@@ -3901,7 +3901,7 @@
 		<ubRadius>2</ubRadius>
 		<ubVolume>20</ubVolume>
 		<ubVolatility>2</ubVolatility>
-		<ubAnimationID>1</ubAnimationID>
+		<ubAnimationID>15</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
@@ -3914,7 +3914,7 @@
 		<ubVerticalDegree>0</ubVerticalDegree>
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
-	<EXPLOSIVE>	<!-- HMX -->
+	<EXPLOSIVE>	<!-- HMX Stick -->
 		<uiIndex>185</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>25</ubDamage>
@@ -3922,7 +3922,7 @@
 		<ubRadius>2</ubRadius>
 		<ubVolume>25</ubVolume>
 		<ubVolatility>2</ubVolatility>
-		<ubAnimationID>1</ubAnimationID>
+		<ubAnimationID>15</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
