@@ -1638,6 +1638,7 @@
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
+	<!-- Pilot Jacket -->
 	<ARMOUR>
 		<uiIndex>234</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
@@ -1645,11 +1646,20 @@
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
+	<!-- Pilot Kevlar Jacket -->
 	<ARMOUR>
 		<uiIndex>235</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>20</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<!-- Straight Jacket -->
+	<ARMOUR>
+		<uiIndex>236</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
 </ARMOURLIST>

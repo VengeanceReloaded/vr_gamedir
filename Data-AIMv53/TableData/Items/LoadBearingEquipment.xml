@@ -3720,6 +3720,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
+	<!-- Starts Exurok added LBE -->
 	<LOADBEARINGEQUIPMENT>
 		<lbeIndex>186</lbeIndex>
 		<lbeClass>1</lbeClass>
@@ -4040,6 +4041,7 @@
 		<lbePocketIndex11>4</lbePocketIndex11>
 		<lbePocketIndex12>4</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
+	<!-- Starts Sevenfm added/changed LBE -->
 	<LOADBEARINGEQUIPMENT>	<!-- 12G shells leg rig -->
 		<lbeIndex>202</lbeIndex>
 		<lbeClass>1</lbeClass>
