@@ -29296,8 +29296,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Flare>1</Flare>
-		<buddyitem>2457</buddyitem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<buddyitem>2457</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30995,8 +30995,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
 		<Flare>1</Flare>
-		<buddyitem>2457</buddyitem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<buddyitem>2457</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -42141,9 +42141,9 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<Flare>1</Flare>
-		<buddyitem>2457</buddyitem>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<buddyitem>2457</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -42324,8 +42324,8 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<Flare>1</Flare>
-		<buddyitem>2457</buddyitem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<buddyitem>2457</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49278,7 +49278,7 @@
 		<szBRDesc>This pistol holster can store a larger pistol and up to two spare magazines.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
-		<ubClassIndex>204</ubClassIndex>
+		<ubClassIndex>41</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>191</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -49471,7 +49471,7 @@
 		<szBRDesc>This leg rig can hold several 12 gauge shotgun shells and allows access to the regular pants pockets.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
-		<ubClassIndex>202</ubClassIndex>
+		<ubClassIndex>48</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>170</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -50397,7 +50397,7 @@
 		<nasLayoutClass>4</nasLayoutClass>
 		<AttachmentPoint>2</AttachmentPoint>
 		<AttachToPointAPCost>15</AttachToPointAPCost>
-		<ubClassIndex>203</ubClassIndex>
+		<ubClassIndex>77</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>199</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -58939,8 +58939,8 @@
 		<szBRName>Railgun</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2</usItemClass>
-		<ubClassIndex>2130</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2130</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>559</ubGraphicNum>
@@ -58962,10 +58962,10 @@
 		<Unaerodynamic>1</Unaerodynamic>
 		<Electronic>1</Electronic>
 		<BR_ROF>12</BR_ROF>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<Bipod>30</Bipod>
 		<ToHitBonus>30</ToHitBonus>
 		<BestLaserRange>400</BestLaserRange>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<DefaultAttachment>2961</DefaultAttachment>
 		<DefaultAttachment>2973</DefaultAttachment>
 		<CamoBonus>-20</CamoBonus>
@@ -58973,8 +58973,6 @@
 		<DesertCamoBonus>-20</DesertCamoBonus>
 		<SnowCamoBonus>-20</SnowCamoBonus>
 		<StealthBonus>-20</StealthBonus>
-		<ThermalOptics>0</ThermalOptics>
-		<NeedsBatteries>0</NeedsBatteries>
 		<FingerPrintID>1</FingerPrintID>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -62209,8 +62207,8 @@
 		<ubCoolness>10</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<SciFi>1</SciFi>
 		<NotBuyable>1</NotBuyable>
+		<SciFi>1</SciFi>
 		<RangeBonus>200</RangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -62233,9 +62231,9 @@
 		<ItemSize>12</ItemSize>
 		<usPrice>420</usPrice>
 		<ubCoolness>9</ubCoolness>
-		<NotBuyable>1</NotBuyable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -63841,6 +63839,7 @@
 		<szBRDesc>The German S-mine, also known as the Bouncing Betty, is the best-known version of a class of mines known as bounding mines. The explosion projects a lethal spray of steel balls and fragments in all directions.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>140</ubClassIndex>
+		<ItemFlag>262144</ItemFlag>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>433</ubGraphicNum>
@@ -63855,7 +63854,6 @@
 		<Metal>1</Metal>
 		<BR_NewInventory>1</BR_NewInventory>
 		<Mine>1</Mine>
-		<ItemFlag>262144</ItemFlag>
 		<TripWireActivation>1</TripWireActivation>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -63882,7 +63880,6 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<Metal>0</Metal>
 		<NotBuyable>1</NotBuyable>
 		<Mine>1</Mine>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -64579,8 +64576,8 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<Flare>1</Flare>
-		<buddyitem>2457</buddyitem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<buddyitem>2457</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -64960,7 +64957,7 @@
 		<szLongItemName>SMALL_C1_FIRE</szLongItemName>
 		<szBRName>SMALL_C1_FIRE</szBRName>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>142</ubClassIndex>
+		<ubClassIndex>179</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2201</buddyitem>
@@ -64974,7 +64971,7 @@
 		<szLongItemName>FLARE_ANIMATION</szLongItemName>
 		<szBRName>FLARE_ANIMATION</szBRName>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>179</ubClassIndex>
+		<ubClassIndex>180</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -64992,7 +64989,7 @@
 		<AttachmentClass>2048</AttachmentClass>
 		<nasAttachmentClass>2048</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>180</ubClassIndex>
+		<ubClassIndex>181</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>431</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -65018,7 +65015,7 @@
 		<szLongItemName>RPG-26</szLongItemName>
 		<szBRName>RPG-26</szBRName>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>181</ubClassIndex>
+		<ubClassIndex>182</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -65031,7 +65028,7 @@
 		<szLongItemName>RPG-27</szLongItemName>
 		<szBRName>RPG-27</szBRName>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>182</ubClassIndex>
+		<ubClassIndex>183</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -65044,14 +65041,14 @@
 		<szLongItemName>RPO-M Shmel</szLongItemName>
 		<szBRName>RPO-M Shmel</szBRName>
 		<usItemClass>512</usItemClass>
-		<ubClassIndex>183</ubClassIndex>
+		<ubClassIndex>184</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
-	<ITEM>		
+	<ITEM>
 		<uiIndex>2462</uiIndex>
 		<szItemName>TNT stick</szItemName>
 		<szLongItemName>TNT stick</szLongItemName>
@@ -65060,7 +65057,7 @@
 		<szBRDesc>Good old reliable trinitrotoluene.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>184</ubClassIndex>
+		<ubClassIndex>185</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>437</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -65070,9 +65067,6 @@
 		<ubCoolness>2</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
-		<Repairable>0</Repairable>		
-		<BR_NewInventory>0</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -65087,7 +65081,7 @@
 		<szBRDesc>HMX is a mixture of TNT and RDX at a ratio of 50/50.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>185</ubClassIndex>
+		<ubClassIndex>186</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>438</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -65097,9 +65091,6 @@
 		<ubCoolness>2</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
-		<Repairable>0</Repairable>
-		<BR_NewInventory>0</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -75923,22 +75914,20 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>2000</usPrice>
-		<NotBuyable>1</NotBuyable>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<NotBuyable>1</NotBuyable>
 		<Attachment>1</Attachment>
-		<Inseparable>1</Inseparable>
 		<BlockIronSight>1</BlockIronSight>
+		<Inseparable>1</Inseparable>
 		<AimBonus>20</AimBonus>
 		<MinRangeForAimBonus>70</MinRangeForAimBonus>
 		<PercentAPReduction>-9</PercentAPReduction>
 		<DamageBonus>2</DamageBonus>
-		<NightVisionRangeBonus>0</NightVisionRangeBonus>
 		<DayVisionRangeBonus>90</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>0</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>90</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
 		<ScopeMagFactor>10.0</ScopeMagFactor>
@@ -76301,26 +76290,21 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
+		<NotBuyable>1</NotBuyable>
 		<Attachment>1</Attachment>
+		<BlockIronSight>1</BlockIronSight>
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
-		<BlockIronSight>1</BlockIronSight>
-		<BR_NewInventory>0</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
-		<NotBuyable>1</NotBuyable>
-		<VisionRangeBonus>0</VisionRangeBonus>
 		<NightVisionRangeBonus>40</NightVisionRangeBonus>
 		<DayVisionRangeBonus>-40</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>-60</BrightLightVisionRangeBonus>
 		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>-60</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>60</PercentTunnelVision>
 		<ThermalOptics>1</ThermalOptics>
-		<NeedsBatteries>0</NeedsBatteries>
 		<ScopeMagFactor>1.0</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -76343,16 +76327,13 @@
 		<ubCoolness>1</ubCoolness>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
-		<Repairable>0</Repairable>
-		<Metal>0</Metal>
 		<Attachment>1</Attachment>
 		<Inseparable>1</Inseparable>
-		<BR_NewInventory>0</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />	</ITEM>
+		<PRONE_MODIFIERS />
+	</ITEM>
 	<ITEM>
 		<uiIndex>2975</uiIndex>
 		<szItemName>Nada</szItemName>
@@ -78375,18 +78356,16 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<VisionRangeBonus>0</VisionRangeBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<DayVisionRangeBonus>-40</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>-60</BrightLightVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>-60</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>60</PercentTunnelVision>
 		<ThermalOptics>1</ThermalOptics>
 		<NeedsBatteries>1</NeedsBatteries>
 		<ScopeMagFactor>1.0</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -79695,5 +79674,42 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 			<PercentCap>-3</PercentCap>
 			<PercentCounterForceAccuracy>-7</PercentCounterForceAccuracy>
 		</PRONE_MODIFIERS>
+	</ITEM>
+	<ITEM>
+		<uiIndex>3120</uiIndex>
+		<szItemName>straight jacket</szItemName>
+		<szLongItemName>straight jacket</szLongItemName>
+		<szItemDesc>This fine jacket is commonly worn by limited edition people, or pill popping wonders of modern medical science.</szItemDesc>
+		<szBRName>straight jacket</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>236</ubClassIndex>
+		<ItemFlag>524288</ItemFlag>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>565</ubGraphicNum>
+		<ubWeight>30</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>249</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<bReliability>10</bReliability>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<ToHitBonus>-20</ToHitBonus>
+		<APBonus>-20</APBonus>
+		<PercentAPReduction>-10</PercentAPReduction>
+		<UrbanCamoBonus>-10</UrbanCamoBonus>
+		<SnowCamoBonus>10</SnowCamoBonus>
+		<StealthBonus>2</StealthBonus>
+		<LeatherJacket>1</LeatherJacket>
+		<DrugType>2048</DrugType>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
 	</ITEM>
 </ITEMLIST>
