@@ -6483,7 +6483,8 @@
 		<sSound>610</sSound>
 		<sReloadSound>525</sReloadSound>
 		<sLocknLoadSound>524</sLocknLoadSound>
-		<SilencedSound>157</SilencedSound>
+		<SilencedSound>611</SilencedSound>
+		<sBurstSound>139</sBurstSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>28</APsToReload>
 		<SwapClips>1</SwapClips>
