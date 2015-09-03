@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LOADBEARINGEQUIPMENTLIST>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>	<!-- NIV Default Thigh Rig -->
 		<lbeIndex>0</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>0</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>16</lbePocketIndex1>
-		<lbePocketIndex2>16</lbePocketIndex2>
-		<lbePocketIndex3>18</lbePocketIndex3>
+		<lbePocketIndex1>17</lbePocketIndex1>
+		<lbePocketIndex2>61</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
@@ -460,7 +460,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>	<!-- TT 3-Day Pack -->
 		<lbeIndex>23</lbeIndex>
 		<lbeClass>3</lbeClass>
 		<lbeCombo>4</lbeCombo>
@@ -4101,5 +4101,26 @@
 		<lbePocketIndex10>0</lbePocketIndex10>
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>	<!-- AK Sheath -->
+		<LOADBEARINGEQUIPMENT>
+		<lbeIndex>205</lbeIndex>
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>26</lbeFilledSize>
+		<lbeAvailableVolume>0</lbeAvailableVolume>
+		<lbePocketsAvailable>0</lbePocketsAvailable>
+		<lbePocketIndex1>2</lbePocketIndex1>
+		<lbePocketIndex2>0</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
+
 </LOADBEARINGEQUIPMENTLIST>

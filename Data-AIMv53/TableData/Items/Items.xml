@@ -48800,7 +48800,7 @@
 		<ubGraphicNum>153</ubGraphicNum>
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>16</ItemSize>
+		<ItemSize>18</ItemSize>
 		<usPrice>20</usPrice>
 		<ubCoolness>2</ubCoolness>
 		<Sinks>1</Sinks>
@@ -58983,12 +58983,42 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2131</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2131</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>AK Bayonet</szItemName>
+		<szLongItemName>AK Bayonet</szLongItemName>
+		<szItemDesc>A classic bayonet for use with the AKM.</szItemDesc>
+		<szBRName>AK Bayonet</szBRName>
+		<szBRDesc>A classic bayonet for use with the AKM.</szBRDesc>
+		<usItemClass>4</usItemClass>
+		<AttachmentClass>2</AttachmentClass>
+		<nasAttachmentClass>2</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2131</ubClassIndex>
+		<ubCursor>4</ubCursor>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>440</ubGraphicNum>
+		<ubWeight>3</ubWeight>
+		<ubPerPocket>2</ubPerPocket>
+		<ItemSize>24</ItemSize>
+		<usPrice>105</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>0</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<Attachment>1</Attachment>
+		<BigGunList>0</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_ROF>28</BR_ROF>
+		<ToHitBonus>-3</ToHitBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
+		<STAND_MODIFIERS>
+			<PercentHandling>-10</PercentHandling>
+			<PercentMaxCounterForce>-10</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>-10</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -69321,11 +69351,32 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2698</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2698</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>AK Sheath</szItemName>
+		<szLongItemName>AK Bayonet Sheath</szLongItemName>
+		<szItemDesc>Multi-purpose sheath for military bayonet.</szItemDesc>
+		<szBRName>AK Bayonet Sheath</szBRName>
+		<szBRDesc>Multi-purpose sheath for military bayonet.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<AttachmentClass>16777216</AttachmentClass>
+		<nasAttachmentClass>4096</nasAttachmentClass>
+		<nasLayoutClass>4</nasLayoutClass>
+		<AttachmentPoint>1</AttachmentPoint>
+		<AttachToPointAPCost>10</AttachToPointAPCost>
+		<ubClassIndex>74</ubClassIndex>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>441</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ItemSize>22</ItemSize>
+		<usPrice>20</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<Attachment>1</Attachment>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>		
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76355,14 +76406,36 @@
 		<PRONE_MODIFIERS />	</ITEM>
 	<ITEM>
 		<uiIndex>2975</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2975</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>AK Cutters</szItemName>
+		<szLongItemName>AK Bayonet Cutters</szLongItemName>
+		<szItemDesc>AK bayonet coupled with a detached sheath can be used as an effective wire cutting tool.</szItemDesc>
+		<szBRName>AK Bayonet Cutters</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubCursor>16</ubCursor>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>442</ubGraphicNum>
+		<ubWeight>4</ubWeight>
+		<ubPerPocket>2</ubPerPocket>
+		<ItemSize>16</ItemSize>
+		<usPrice>125</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>0</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<Attachment>1</Attachment>
+		<BigGunList>0</BigGunList>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<PRONE_MODIFIERS />	
 	</ITEM>
 	<ITEM>
 		<uiIndex>2976</uiIndex>

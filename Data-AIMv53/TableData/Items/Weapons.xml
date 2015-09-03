@@ -3868,8 +3868,8 @@
 		<BurstAniDelay>50</BurstAniDelay>
 		<ubAttackVolume>80</ubAttackVolume>
 		<ubHitVolume>8</ubHitVolume>
-		<sSound>358</sSound>
-		<sBurstSound>45</sBurstSound>
+		<sSound>612</sSound>
+		<sBurstSound>143</sBurstSound>
 		<sSilencedBurstSound>127</sSilencedBurstSound>
 		<sReloadSound>573</sReloadSound>
 		<sLocknLoadSound>572</sLocknLoadSound>
@@ -6485,6 +6485,7 @@
 		<sLocknLoadSound>524</sLocknLoadSound>
 		<SilencedSound>611</SilencedSound>
 		<sBurstSound>139</sBurstSound>
+		<sSilencedBurstSound>140</sSilencedBurstSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>28</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -17415,7 +17416,9 @@
 		<sSound>610</sSound>
 		<sReloadSound>525</sReloadSound>
 		<sLocknLoadSound>524</sLocknLoadSound>
-		<SilencedSound>157</SilencedSound>
+		<SilencedSound>611</SilencedSound>	
+		<sBurstSound>139</sBurstSound>
+		<sSilencedBurstSound>140</sSilencedBurstSound>
 		<bBurstAP>20</bBurstAP>
 		<APsToReload>28</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -17719,6 +17722,20 @@
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
+	<WEAPON>
+		<uiIndex>2131</uiIndex>
+		<szWeaponName>AK Bayonet</szWeaponName>
+		<ubWeaponClass>6</ubWeaponClass>
+		<ubShotsPer4Turns>14</ubShotsPer4Turns>
+		<ubImpact>16</ubImpact>
+		<ubDeadliness>5</ubDeadliness>
+		<usReloadDelay>200</usReloadDelay>
+		<ubAttackVolume>2</ubAttackVolume>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+        </WEAPON>
 	<WEAPON>
 		<uiIndex>3097</uiIndex>
 		<szWeaponName>Norse Short Sword</szWeaponName>

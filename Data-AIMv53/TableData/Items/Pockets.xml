@@ -348,9 +348,7 @@
 		<pName>NIV Default Belt Clip</pName>
 		<pSilhouette>21</pSilhouette>
 		<pType>1</pType>
-		<pRestriction>268468480</pRestriction>
-		<ItemCapacityPerSize14>1</ItemCapacityPerSize14>
-		<ItemCapacityPerSize18>1</ItemCapacityPerSize18>
+		<pRestriction>268435456</pRestriction>
 		<ItemCapacityPerSize22>1</ItemCapacityPerSize22>
 	</POCKET>
 	<POCKET>
@@ -809,5 +807,15 @@
 		<pRestriction>8192</pRestriction>
 		<pVolume>3</pVolume>
 	        <ItemCapacityPerSize13>1</ItemCapacityPerSize13>
+	</POCKET>
+		<POCKET>
+		<pIndex>61</pIndex>
+		<pName>Belt Clip</pName>
+		<pSilhouette>56</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>268468480</pRestriction>
+		<ItemCapacityPerSize14>0</ItemCapacityPerSize14>
+		<ItemCapacityPerSize18>1</ItemCapacityPerSize18>
+		<ItemCapacityPerSize22>1</ItemCapacityPerSize22>
 	</POCKET>
 </POCKETLIST>
