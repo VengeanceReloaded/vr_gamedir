@@ -320,7 +320,7 @@
 		<lbePocketIndex11>8</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Pistol Holster -->
 		<lbeIndex>16</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -1500,7 +1500,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Revolver Pouch -->
 		<lbeIndex>75</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -3721,7 +3721,7 @@
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<!-- Starts Exurok added LBE -->
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Casualty Response Kit -->
 		<lbeIndex>186</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -3741,14 +3741,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Shotgun Ammo Pouch -->
 		<lbeIndex>187</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>24</lbePocketIndex1>
+		<lbePocketIndex1>40</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -3761,7 +3761,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Small Drop Pouch -->
 		<lbeIndex>188</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -3781,14 +3781,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Large Mag Pouch -->
 		<lbeIndex>189</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>34</lbePocketIndex1>
+		<lbePocketIndex1>41</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -3801,14 +3801,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Triple AR Mag Pouch -->
 		<lbeIndex>190</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>29</lbePocketIndex1>
+		<lbePocketIndex1>24</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -3821,7 +3821,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Revolver Pouch -->
 		<lbeIndex>191</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -3841,7 +3841,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Pistol holster -->
 		<lbeIndex>192</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -3852,7 +3852,7 @@
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
-		<lbePocketIndex5>23</lbePocketIndex5>
+		<lbePocketIndex5>11</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
 		<lbePocketIndex8>0</lbePocketIndex8>
@@ -3861,14 +3861,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Double AR Pouch -->
 		<lbeIndex>193</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>45</lbePocketIndex1>
+		<lbePocketIndex1>23</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -3881,14 +3881,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Kit Drop Pouch -->
 		<lbeIndex>194</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>22</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>44</lbePocketIndex1>
+		<lbePocketIndex1>60</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -3901,14 +3901,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Medium Drop Pouch -->
 		<lbeIndex>195</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>27</lbePocketIndex1>
+		<lbePocketIndex1>31</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -3921,14 +3921,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Double Grenade Pouch -->
 		<lbeIndex>196</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>55</lbePocketIndex1>
+		<lbePocketIndex1>14</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -3961,7 +3961,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- MACH-1 Tactical Assault Vest -->
 		<lbeIndex>198</lbeIndex>
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -3981,7 +3981,7 @@
 		<lbePocketIndex11>8</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Elite MVP Vest -->
 		<lbeIndex>199</lbeIndex>
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -4001,7 +4001,7 @@
 		<lbePocketIndex11>8</lbePocketIndex11>
 		<lbePocketIndex12>30</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Combat Pack -->
 		<lbeIndex>200</lbeIndex>
 		<lbeClass>3</lbeClass>
 		<lbeCombo>4</lbeCombo>
@@ -4021,7 +4021,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Tactical Backpack -->
 		<lbeIndex>201</lbeIndex>
 		<lbeClass>4</lbeClass>
 		<lbeCombo>0</lbeCombo>
