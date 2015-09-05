@@ -227,6 +227,7 @@
 		<pType>2</pType>
 		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
 		<ItemCapacityPerSize1>1</ItemCapacityPerSize1>
+		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
 		<ItemCapacityPerSize10>6</ItemCapacityPerSize10>
 		<ItemCapacityPerSize11>5</ItemCapacityPerSize11>
 		<ItemCapacityPerSize12>5</ItemCapacityPerSize12>
@@ -234,17 +235,12 @@
 		<ItemCapacityPerSize14>4</ItemCapacityPerSize14>
 		<ItemCapacityPerSize15>3</ItemCapacityPerSize15>
 		<ItemCapacityPerSize16>2</ItemCapacityPerSize16>
-		<ItemCapacityPerSize17>1</ItemCapacityPerSize17>
-		<ItemCapacityPerSize18>1</ItemCapacityPerSize18>
-		<ItemCapacityPerSize19>2</ItemCapacityPerSize19>
-		<ItemCapacityPerSize20>1</ItemCapacityPerSize20>
+		<ItemCapacityPerSize17>2</ItemCapacityPerSize17>
+		<ItemCapacityPerSize18>2</ItemCapacityPerSize18>
+		<ItemCapacityPerSize19>1</ItemCapacityPerSize19>
+		<ItemCapacityPerSize20>2</ItemCapacityPerSize20>
+		<ItemCapacityPerSize21>1</ItemCapacityPerSize21>
 		<ItemCapacityPerSize22>1</ItemCapacityPerSize22>
-		<ItemCapacityPerSize23>1</ItemCapacityPerSize23>
-		<ItemCapacityPerSize24>2</ItemCapacityPerSize24>
-		<ItemCapacityPerSize25>2</ItemCapacityPerSize25>
-		<ItemCapacityPerSize26>2</ItemCapacityPerSize26>
-		<ItemCapacityPerSize28>1</ItemCapacityPerSize28>
-		<ItemCapacityPerSize30>1</ItemCapacityPerSize30>
 	</POCKET>
 	<POCKET>
 		<pIndex>9</pIndex>
