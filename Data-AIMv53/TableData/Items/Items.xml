@@ -57998,8 +57998,8 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2103</uiIndex>
-		<szItemName>MP40</szItemName>
-		<szLongItemName>Erma MP40</szLongItemName>
+		<szItemName>MP40 folded</szItemName>
+		<szLongItemName>Erma MP40 folded</szLongItemName>
 		<szItemDesc>Due to relatively low rate of fire this gun is easily controlable in full auto. Though the selection of attachments is rather limited, the MP40 is still a fine gun.</szItemDesc>
 		<szBRName>Erma MP40</szBRName>
 		<szBRDesc>Classic WW2 SMG. Due to relatively low rate of fire this gun is easily controlable in full auto.</szBRDesc>
@@ -58027,7 +58027,11 @@
 		<BurstToHitBonus>3</BurstToHitBonus>
 		<AutoFireToHitBonus>3</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
+		<STAND_MODIFIERS>
+			<PercentHandling>-10</PercentHandling>
+			<PercentMaxCounterForce>30</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -59024,10 +59028,34 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2132</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2132</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>MP40</szItemName>
+		<szLongItemName>Erma MP40</szLongItemName>
+		<szItemDesc>Due to relatively low rate of fire this gun is easily controlable in full auto. Though the selection of attachments is rather limited, the MP40 is still a fine gun.</szItemDesc>
+		<szBRName>Erma MP40</szBRName>
+		<szBRDesc>Classic WW2 SMG. Due to relatively low rate of fire this gun is easily controlable in full auto.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2103</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>443</ubGraphicNum>
+		<ubWeight>37</ubWeight>
+		<ItemSize>6</ItemSize>
+		<usPrice>950</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<bReliability>3</bReliability>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_UsedInventory>2</BR_UsedInventory>
+		<BR_ROF>500</BR_ROF>
+		<BurstToHitBonus>3</BurstToHitBonus>
+		<AutoFireToHitBonus>3</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -78749,7 +78777,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>3091</uiIndex>
 		<szItemName>FF Laser</szItemName>
 		<szLongItemName>Firefield Laser</szLongItemName>
-		<szItemDesc>You only need one clean shot to engage your enemyтАФmake it count. The Firefield Compact Laser is a dynamic, powerful unit built to do the job. This highly versatile unit is equipped with a weaver rail and easily affixes to a wide variety of, it fits onto the trigger guard of most sub-machine guns and pistols.</szItemDesc>
+		<szItemDesc>You only need one clean shot to engage your enemy. Make it count. The Firefield Compact Laser is a dynamic, powerful unit built to do the job. This highly versatile unit is equipped with a weaver rail and easily affixes to a wide variety of, it fits onto the trigger guard of most sub-machine guns and pistols.</szItemDesc>
 		<szBRName>Firefield Laser</szBRName>
 		<szBRDesc>Complete with a tactical pressure pad, the Green Compact laser is user friendly with an on/off tilt switch that can be activated with a flick of the userтАЩs finger. Ideal for use in home defense, the powerfully bright green laser can pacify targets and alleviate threats quickly!</szBRDesc>
 		<usItemClass>268435456</usItemClass>

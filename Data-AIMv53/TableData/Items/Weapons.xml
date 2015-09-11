@@ -16797,7 +16797,7 @@
 		<ubDeadliness>18</ubDeadliness>
 		<bAccuracy>5</bAccuracy>
 		<ubMagSize>30</ubMagSize>
-		<usRange>165</usRange>
+		<usRange>115</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>40</BurstAniDelay>
 		<ubAttackVolume>60</ubAttackVolume>
@@ -17732,6 +17732,41 @@
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
         </WEAPON>
+	<WEAPON>
+		<uiIndex>2132</uiIndex>
+		<szWeaponName>Erma MP40</szWeaponName>
+		<ubWeaponClass>2</ubWeaponClass>
+		<ubWeaponType>3</ubWeaponType>
+		<ubCalibre>2</ubCalibre>
+		<ubReadyTime>5</ubReadyTime>
+		<ubShotsPer4Turns>15.00</ubShotsPer4Turns>
+		<ubBurstPenalty>6</ubBurstPenalty>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>26</ubImpact>
+		<ubDeadliness>18</ubDeadliness>
+		<bAccuracy>5</bAccuracy>
+		<ubMagSize>30</ubMagSize>
+		<usRange>165</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>40</BurstAniDelay>
+		<ubAttackVolume>60</ubAttackVolume>
+		<ubHitVolume>2</ubHitVolume>
+		<sSound>307</sSound>
+		<sBurstSound>124</sBurstSound>
+		<sReloadSound>101</sReloadSound>
+		<sLocknLoadSound>107</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>13</bBurstAP>
+		<bAutofireShotsPerFiveAP>2</bAutofireShotsPerFiveAP>
+		<APsToReload>20</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<AutoPenalty>6</AutoPenalty>
+		<ManualReloadSound>476</ManualReloadSound>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
 	<WEAPON>
 		<uiIndex>3097</uiIndex>
 		<szWeaponName>Norse Short Sword</szWeaponName>
