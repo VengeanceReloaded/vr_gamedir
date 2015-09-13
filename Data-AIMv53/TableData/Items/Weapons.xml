@@ -17632,13 +17632,13 @@
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>3</ubCalibre>
-		<ubReadyTime>1</ubReadyTime>
+		<ubReadyTime>2</ubReadyTime>
 		<ubShotsPer4Turns>10.50</ubShotsPer4Turns>
 		<ubBulletSpeed>21</ubBulletSpeed>
 		<ubImpact>33</ubImpact>
 		<ubDeadliness>18</ubDeadliness>
 		<bAccuracy>7</bAccuracy>
-		<ubMagSize>9</ubMagSize>
+		<ubMagSize>7</ubMagSize>
 		<usRange>140</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>

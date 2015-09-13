@@ -58890,9 +58890,10 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
+		<DefaultAttachment>3093</DefaultAttachment>
+		<DefaultAttachment>2850</DefaultAttachment>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
-		<DefaultAttachment>241</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -72506,13 +72507,14 @@
 		<szBRName>mod. Scope, 2x</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
+		<AttachmentClass>16</AttachmentClass>
+		<nasAttachmentClass>16</nasAttachmentClass>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>574</ubGraphicNum>
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>12</ItemSize>
-		<usPrice>800</usPrice>
+		<usPrice>0</usPrice>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -72521,13 +72523,13 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<Inseparable>1</Inseparable>
-		<AimBonus>6</AimBonus>
+		<AimBonus>5</AimBonus>
 		<MinRangeForAimBonus>10</MinRangeForAimBonus>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>5</NightVisionRangeBonus>
+		<DayVisionRangeBonus>10</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>10</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
+		<ScopeMagFactor>2.0</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
