@@ -257,7 +257,7 @@
 		<pIndex>10</pIndex>
 		<pName>AR Mag x1</pName>
 		<pSilhouette>18</pSilhouette>
-		<pRestriction>1792</pRestriction>
+		<pRestriction>268437256</pRestriction>
 		<pType>1</pType>
 		<ItemCapacityPerSize12>2</ItemCapacityPerSize12>
 		<ItemCapacityPerSize15>0</ItemCapacityPerSize15>
@@ -277,7 +277,7 @@
 		<pIndex>12</pIndex>
 		<pName>SMG Mag x1</pName>
 		<pSilhouette>17</pSilhouette>
-		<pRestriction>1792</pRestriction>
+		<pRestriction>268437256</pRestriction>
 		<pType>1</pType>
 		<ItemCapacityPerSize10>4</ItemCapacityPerSize10>
 		<ItemCapacityPerSize12>2</ItemCapacityPerSize12>
@@ -316,7 +316,7 @@
 		<pSilhouette>20</pSilhouette>
 		<pType>1</pType>
 		<ItemCapacityPerSize10>2</ItemCapacityPerSize10>
-		<ItemCapacityPerSize11>2</ItemCapacityPerSize11>
+		<ItemCapacityPerSize11>1</ItemCapacityPerSize11>
 		<ItemCapacityPerSize12>1</ItemCapacityPerSize12>
 	</POCKET>
 	<POCKET>
@@ -371,7 +371,7 @@
 		<pName>AR Mag x2</pName>
 		<pSilhouette>41</pSilhouette>
 		<pType>1</pType>
-		<pRestriction>1792</pRestriction>
+		<pRestriction>268437256</pRestriction>
 		<ItemCapacityPerSize12>4</ItemCapacityPerSize12>
 		<ItemCapacityPerSize13>2</ItemCapacityPerSize13>
 		<ItemCapacityPerSize14>0</ItemCapacityPerSize14>
@@ -384,7 +384,7 @@
 		<pName>AR Mag x3</pName>
 		<pSilhouette>42</pSilhouette>
 		<pType>1</pType>
-		<pRestriction>1792</pRestriction>
+		<pRestriction>268437256</pRestriction>
 		<ItemCapacityPerSize12>6</ItemCapacityPerSize12>
 		<ItemCapacityPerSize13>2</ItemCapacityPerSize13>
 		<ItemCapacityPerSize14>2</ItemCapacityPerSize14>
@@ -396,7 +396,7 @@
 		<pIndex>25</pIndex>
 		<pName>SMG Mag x2</pName>
 		<pSilhouette>39</pSilhouette>
-		<pRestriction>1792</pRestriction>
+		<pRestriction>268437256</pRestriction>
 		<pType>1</pType>
 		<ItemCapacityPerSize10>4</ItemCapacityPerSize10>
 		<ItemCapacityPerSize12>2</ItemCapacityPerSize12>
@@ -406,7 +406,7 @@
 		<pIndex>26</pIndex>
 		<pName>SMG Mag x3</pName>
 		<pSilhouette>40</pSilhouette>
-		<pRestriction>1792</pRestriction>
+		<pRestriction>268437256</pRestriction>
 		<pType>1</pType>
 		<ItemCapacityPerSize10>4</ItemCapacityPerSize10>
 		<ItemCapacityPerSize12>3</ItemCapacityPerSize12>
