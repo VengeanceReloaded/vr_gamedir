@@ -1281,7 +1281,7 @@
 		<uiIndex>29</uiIndex>
 		<szItemName>G3A3</szItemName>
 		<szLongItemName>HK G3A3</szLongItemName>
-		<szItemDesc>Made from sheet metal stampings and plastic furniture. This rifle takes the 7.62x59mm rounds and gives you big holes and lots of recoil, perfect for hunting anything.</szItemDesc>
+		<szItemDesc>Made from sheet metal stampings and plastic furniture. This rifle takes the 7.62x51mm rounds and gives you big holes and lots of recoil, perfect for hunting anything.</szItemDesc>
 		<szBRName>HK G3A3</szBRName>
 		<szBRDesc>Made from sheet metal stampings and plastic furniture, this Heckler and Koch automatic rifle sure ain't pretty, but it is definitely robust, reliable and highly effective.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -58892,7 +58892,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<DefaultAttachment>3093</DefaultAttachment>
+		<DefaultAttachment>2881</DefaultAttachment>
 		<DefaultAttachment>2850</DefaultAttachment>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
@@ -59066,11 +59066,32 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2133</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2133</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>Norse S. Sword</szItemName>
+		<szLongItemName>Norse Short Sword</szLongItemName>
+		<szItemDesc>"A cleaved head no longer plots." The Viking swords was made from remarkably high-quality steel, and this old sword seems to have many more decades of good battles to go. This also bears the inscription "+VLFBERH+T"</szItemDesc>
+		<szBRName>Norse Short Sword</szBRName>
+		<szBRDesc>NOT FOR SALE.</szBRDesc>
+		<usItemClass>4</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>3097</ubClassIndex>
+		<ubCursor>4</ubCursor>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>417</ubGraphicNum>
+		<ubWeight>13</ubWeight>
+		<ItemSize>6</ItemSize>
+		<usPrice>50</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<bRepairEase>3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<SciFi>1</SciFi>
+		<BR_ROF>22</BR_ROF>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<PoisonPercentage>2</PoisonPercentage>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -66209,10 +66230,34 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2524</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2524</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>Norse helm</szItemName>
+		<szLongItemName>Norse helm</szLongItemName>
+		<szItemDesc>Among medieval warriors, few are as well-noted as the Vikings. So infamous as to have an age named after them, the Vikings left a legacy on the face of Europe and on the world, which is remembered to this day as that of a vicious warrior and a skilled explorer.</szItemDesc>
+		<szBRName>Norse helm</szBRName>
+		<szBRDesc>NOT FOR SALE</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<ubClassIndex>226</ubClassIndex>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>418</ubGraphicNum>
+		<ubWeight>24</ubWeight>
+		<ItemSize>22</ItemSize>
+		<usPrice>15256</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<bRepairEase>3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<NotBuyable>1</NotBuyable>
+		<SciFi>1</SciFi>
+		<NotInEditor>1</NotInEditor>
+		<APBonus>2</APBonus>
+		<PercentAPReduction>2</PercentAPReduction>
+		<StealthBonus>2</StealthBonus>
+		<VisionRangeBonus>1</VisionRangeBonus>
+		<NightVisionRangeBonus>1</NightVisionRangeBonus>
+		<DayVisionRangeBonus>2</DayVisionRangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -66220,113 +66265,371 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2525</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2525</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>Poly Pants</szItemName>
+		<szLongItemName>MilEx Polyurethane Leggings</szLongItemName>
+		<szItemDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. It features a skeletonized fit, an integrated web platform, a one-handed quick-release/escape system, and elastic tensional bands for stability during periods of high activity.</szItemDesc>
+		<szBRName>MilEx Polyurethane Leggings</szBRName>
+		<szBRDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. It features a skeletonized fit, an integrated web platform, a one-handed quick-release/escape system, and elastic tensional bands for stability during periods of high activity.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>227</ubClassIndex>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>618</ubGraphicNum>
+		<ubWeight>42</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>3100</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<bReliability>1</bReliability>
+		<bRepairEase>-4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<APBonus>-7</APBonus>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2526</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2526</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>Poly-18 Pants</szItemName>
+		<szLongItemName>Spec-18 MilEx Polyurethane Leggings</szLongItemName>
+		<szItemDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. Has been improved with even more Polyurethane by Compound-18. This is madness!</szItemDesc>
+		<szBRName>Spec-18 MilEx Polyurethane Leggings</szBRName>
+		<szBRDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. Has been improved with even more Polyurethane by Compound-18. This is madness!</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>228</ubClassIndex>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>619</ubGraphicNum>
+		<ubWeight>43</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>3500</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<bReliability>1</bReliability>
+		<bRepairEase>-4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<NotBuyable>1</NotBuyable>
+		<APBonus>-9</APBonus>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2527</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2527</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<szItemName>Poly-18 Vest</szItemName>
+		<szLongItemName>Spec-18 MilEx Polyurethane Vest</szLongItemName>
+		<szItemDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. Has been improved with even more Polyurethane by Compound-18. This is madness!</szItemDesc>
+		<szBRName>Treated MilEx Polyurethane Vest</szBRName>
+		<szBRDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. Has been improved with even more Polyurethane by Compound-18. This is madness!</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>229</ubClassIndex>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>616</ubGraphicNum>
+		<ubWeight>35</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>4300</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<bReliability>1</bReliability>
+		<bRepairEase>-4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<NotBuyable>1</NotBuyable>
+		<AimBonus>-4</AimBonus>
+		<APBonus>-5</APBonus>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS>
+			<PercentBase>-20</PercentBase>
+			<PercentCap>-8</PercentCap>
+			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<PercentBase>-40</PercentBase>
+			<PercentCap>-16</PercentCap>
+			<PercentCounterForceAccuracy>-40</PercentCounterForceAccuracy>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<PercentBase>-26</PercentBase>
+			<PercentCap>-10</PercentCap>
+			<PercentCounterForceAccuracy>-26</PercentCounterForceAccuracy>
+		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2528</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2528</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<szItemName>Poly Vest</szItemName>
+		<szLongItemName>MilEx Polyurethane Vest</szLongItemName>
+		<szItemDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. It features a skeletonized fit, an integrated web platform, a one-handed quick-release/escape system, and elastic tensional bands for stability during periods of high activity.</szItemDesc>
+		<szBRName>MilEx Polyurethane Vest</szBRName>
+		<szBRDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. It features a skeletonized fit, an integrated web platform, a one-handed quick-release/escape system, and elastic tensional bands for stability during periods of high activity.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>230</ubClassIndex>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>615</ubGraphicNum>
+		<ubWeight>34</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>4000</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<bReliability>1</bReliability>
+		<bRepairEase>-4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<AimBonus>-4</AimBonus>
+		<APBonus>-4</APBonus>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS>
+			<PercentBase>-20</PercentBase>
+			<PercentCap>-8</PercentCap>
+			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<PercentBase>-40</PercentBase>
+			<PercentCap>-16</PercentCap>
+			<PercentCounterForceAccuracy>-40</PercentCounterForceAccuracy>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<PercentBase>-26</PercentBase>
+			<PercentCap>-10</PercentCap>
+			<PercentCounterForceAccuracy>-26</PercentCounterForceAccuracy>
+		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2529</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2529</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<szItemName>C.Poly Vest</szItemName>
+		<szLongItemName>Coated MilEx Polyurethane Vest</szLongItemName>
+		<szItemDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. Coated in queen Crepitus jelly for exceptional protection.</szItemDesc>
+		<szBRName>Coated MilEx Polyurethane Vest</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>231</ubClassIndex>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>617</ubGraphicNum>
+		<ubWeight>36</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>4800</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<bReliability>1</bReliability>
+		<bRepairEase>-4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<NotBuyable>1</NotBuyable>
+		<AimBonus>-3</AimBonus>
+		<APBonus>-5</APBonus>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS>
+			<PercentBase>-15</PercentBase>
+			<PercentCap>-6</PercentCap>
+			<PercentCounterForceAccuracy>-15</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<PercentBase>-30</PercentBase>
+			<PercentCap>-12</PercentCap>
+			<PercentCounterForceAccuracy>-30</PercentCounterForceAccuracy>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<PercentBase>-20</PercentBase>
+			<PercentCap>-8</PercentCap>
+			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
+		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2530</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2530</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>C.Poly Pants</szItemName>
+		<szLongItemName>Coated MilEx Polyurethane Leggings</szLongItemName>
+		<szItemDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. Coated in queen Crepitus jelly for exceptional protection.</szItemDesc>
+		<szBRName>Coated MilEx Polyurethane Leggings</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>232</ubClassIndex>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>620</ubGraphicNum>
+		<ubWeight>44</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>4200</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<bReliability>1</bReliability>
+		<bRepairEase>-5</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<NotBuyable>1</NotBuyable>
+		<APBonus>-8</APBonus>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2531</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2531</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
+		<szItemName>Ballistic Mask</szItemName>
+		<szLongItemName>Ballistic Face Mask Level IIIA</szLongItemName>
+		<szItemDesc>Ergonomically fit, the Level IIIA Ballistic Face Mask has been designed to maximize comfort while providing total front facial protection. Additional padding at the forehead to maximize shock absorption. A six point elastic attachment system allows the user to adjust.</szItemDesc>
+		<szBRName>Ballistic Face Mask Level IIIA</szBRName>
+		<szBRDesc>Ergonomically fit, the Level IIIA Ballistic Face Mask has been designed to maximize comfort while providing total front facial protection. Additional padding at the forehead to maximize shock absorption. A six point elastic attachment system allows the user to adjust.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>233</ubClassIndex>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>614</ubGraphicNum>
+		<ubWeight>20</ubWeight>
+		<ItemSize>22</ItemSize>
+		<usPrice>2900</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<AimBonus>-1</AimBonus>
+		<UrbanCamoBonus>5</UrbanCamoBonus>
+		<PercentTunnelVision>5</PercentTunnelVision>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS>
+			<PercentCap>-2</PercentCap>
+			<PercentCounterForceAccuracy>-3</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2532</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2532</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>Pilot Jacket</szItemName>
+		<szLongItemName>Pilot Jacket</szLongItemName>
+		<szItemDesc>Before traveling through the vacuum of space, astronauts don their suits; before delving into the obsidian caverns of our planets watery depth, divers don their suits. It's time for you to don yours. The Pilot Jacket protects you from the nasty elements threatening to ruin your great day.</szItemDesc>
+		<szBRName>Pilot Jacket</szBRName>
+		<szBRDesc>Before traveling through the vacuum of space, astronauts don their suits; before delving into the obsidian caverns of our planets watery depth, divers don their suits. It's time for you to don yours. The Pilot Jacket protects you from the nasty elements threatening to ruin your great day.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>234</ubClassIndex>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>668</ubGraphicNum>
+		<ubWeight>25</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>900</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<bRepairEase>4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<NotBuyable>1</NotBuyable>
+		<LeatherJacket>1</LeatherJacket>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>		
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2533</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2533</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<szItemName>Pilot V Kvlr</szItemName>
+		<szLongItemName>Kevlar Pilot Jacket</szLongItemName>
+		<szItemDesc>Kevlar Flight Jacket Bullet Proof Body Armor Vest Level 3A Protection.</szItemDesc>
+		<szBRName>Kevlar Pilot Jacket</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>235</ubClassIndex>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>669</ubGraphicNum>
+		<ubWeight>20</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>950</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<NotBuyable>1</NotBuyable>
+		<AimBonus>-1</AimBonus>
+		<LeatherJacket>1</LeatherJacket>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS>
+			<PercentBase>-5</PercentBase>
+			<PercentCap>-2</PercentCap>
+			<PercentCounterForceAccuracy>-5</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<PercentBase>-10</PercentBase>
+			<PercentCap>-4</PercentCap>
+			<PercentCounterForceAccuracy>-10</PercentCounterForceAccuracy>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<PercentBase>-7</PercentBase>
+			<PercentCap>-3</PercentCap>
+			<PercentCounterForceAccuracy>-7</PercentCounterForceAccuracy>
+		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2534</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2534</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<szItemName>Straight Jacket</szItemName>
+		<szLongItemName>Straight Jacket</szLongItemName>
+		<szItemDesc>This fine jacket is commonly worn by limited edition people, or pill popping wonders of modern medical science.</szItemDesc>
+		<szBRName>Straight Jacket</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>236</ubClassIndex>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>565</ubGraphicNum>
+		<ubWeight>30</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>249</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<bReliability>1</bReliability>
+		<bRepairEase>1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<ToHitBonus>-100</ToHitBonus>
+		<APBonus>-20</APBonus>
+		<Unaerodynamic>1</Unaerodynamic>
+		<CamoBonus>-20</CamoBonus>
+		<UrbanCamoBonus>-20</UrbanCamoBonus>
+		<DesertCamoBonus>-20</DesertCamoBonus>
+		<SnowCamoBonus>20</SnowCamoBonus>
+		<WaterDamages>1</WaterDamages>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS>
+			<PercentBase>-100</PercentBase>
+			<PercentCap>-100</PercentCap>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<PercentBase>-100</PercentBase>
+			<PercentCap>-100</PercentCap>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<PercentBase>-100</PercentBase>
+			<PercentCap>-100</PercentCap>
+		</PRONE_MODIFIERS>	
 	</ITEM>
 	<ITEM>
 		<uiIndex>2535</uiIndex>
@@ -69846,21 +70149,60 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2704</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2704</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>Sun Goggles</szItemName>
+		<szLongItemName>Sun Goggles</szLongItemName>
+		<szItemDesc>These paramilitary eye protectors have triple-lenses: an anti-fog interior acetate lens, a tinted middle lens for reduced glare, and a scratch and shatter resistant exterior lens.</szItemDesc>
+		<szBRName>Sun Goggles</szBRName>
+		<szBRDesc>These paramilitary eye goggles feature triple-protection lenses: an interior anti-fog acetate lens, a tinted middle lens for reduced glare, and a scratch and shatter resistant exterior lens. And as an added bonus, they can be worn comfortably over prescription glasses.</szBRDesc>
+		<usItemClass>32768</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>55</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>17</ItemSize>
+		<usPrice>200</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<bRepairEase>3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Attachment>1</Attachment>
+		<SciFi>1</SciFi>
+		<BR_NewInventory>5</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<NightVisionRangeBonus>-10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>10</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>-20</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2705</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2705</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>Rad Shades</szItemName>
+		<szLongItemName>Rad Shades</szLongItemName>
+		<szItemDesc>Any day trip would neither be complete nor rad enough without these neon bodacious tri-tone sunglasses!</szItemDesc>
+		<szBRName>Rad Shades</szBRName>
+		<szBRDesc>NOT FOR SAIL. SALG. SALE.</szBRDesc>
+		<usItemClass>32768</usItemClass>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>421</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>17</ItemSize>
+		<usPrice>25</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<bRepairEase>3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<SciFi>1</SciFi>
+		<UrbanCamoBonus>25</UrbanCamoBonus>
+		<NightVisionRangeBonus>-20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>-20</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>45</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -69868,10 +70210,28 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2706</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2706</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>Balaklava</szItemName>
+		<szLongItemName>Balaklava</szLongItemName>
+		<szItemDesc>3 hole balaclava, ideal for those cold days out fishing, hunting or bank robbery. The long length allows it to cover your neck.</szItemDesc>
+		<szBRName>Balaklava</szBRName>
+		<szBRDesc>3 hole balaclava, ideal for those cold days out fishing, hunting or bank robbery. The long length allows it to cover your neck.</szBRDesc>
+		<usItemClass>32768</usItemClass>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>613</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>13</ItemSize>
+		<usPrice>25</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>5</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>10</CamoBonus>
+		<UrbanCamoBonus>10</UrbanCamoBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -71493,59 +71853,56 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2820</uiIndex>
-		<szItemName>CORSAK - Kobra</szItemName>
-		<szLongItemName>A. - Combo, CORSAK - Kobra</szLongItemName>
-		<szItemDesc>A combination of CORSAK and Kobra. If you are short on attachment slots, try one of these. Will fit only on certain Russian guns, as it requires an AK stlye receiver.</szItemDesc>
-		<szBRName>A. - Combo, CORSAK - Kobra</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szItemName>Tru Dot</szItemName>
+		<szLongItemName>Tru Dot Match Sights</szLongItemName>
+		<szItemDesc>Meprolight night sights feature a very distinguishable white outline around the tritium ampule for daylight conditions. In darkness the tritium ampule provides illumination. Meprolight Night Sights provide fast target aquisition in all lighting conditions. Front and rear are both red.</szItemDesc>
+		<szBRName>Tru Dot Match Sights</szBRName>
+		<szBRDesc>Meprolight night sights feature a very distinguishable white outline around the tritium ampule for daylight conditions. In darkness the tritium ampule provides illumination. Meprolight Night Sights provide fast target aquisition in all lighting conditions. Front and rear are both red.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>334</ubGraphicNum>
-		<ubWeight>9</ubWeight>
+		<AttachmentClass>8</AttachmentClass>
+		<nasAttachmentClass>8</nasAttachmentClass>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>653</ubGraphicNum>
+		<ubWeight>1</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>18</ItemSize>
-		<usPrice>3500</usPrice>
-		<ubCoolness>7</ubCoolness>
-		<bRepairEase>-6</bRepairEase>
+		<ItemSize>10</ItemSize>
+		<usPrice>500</usPrice>
+		<ubCoolness>10</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
-		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<ToHitBonus>15</ToHitBonus>
-		<BestLaserRange>350</BestLaserRange>
-		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
-		<PercentAPReduction>33</PercentAPReduction>
-		<CamoBonus>-15</CamoBonus>
-		<UrbanCamoBonus>-15</UrbanCamoBonus>
-		<DesertCamoBonus>-15</DesertCamoBonus>
-		<SnowCamoBonus>-15</SnowCamoBonus>
-		<StealthBonus>-15</StealthBonus>
-		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
+		<BR_NewInventory>1</BR_NewInventory>
+		<RangeBonus>20</RangeBonus>
+		<ToHitBonus>9</ToHitBonus>
+		<AimBonus>1</AimBonus>
+		<PercentBurstFireAPReduction>2</PercentBurstFireAPReduction>
+		<PercentReadyTimeAPReduction>2</PercentReadyTimeAPReduction>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<ScopeMagFactor>1.0</ScopeMagFactor>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS>
+			<AimLevels>-1</AimLevels>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2821</uiIndex>
-		<szItemName>Aim Mod. I</szItemName>
-		<szLongItemName>A. - Aiming Module MK. I</szLongItemName>
+		<szItemName>2x R.LAM</szItemName>
+		<szLongItemName>mod. Scope, 2x Reflex &amp; LAM</szLongItemName>
 		<szItemDesc>A useful combination of small scope, Reddot LAM and Reflex Sight. Great if you need to save attachment slots.</szItemDesc>
-		<szBRName>A. - Aiming Module MK. I</szBRName>
+		<szBRName>mod. Scope, 2x Reflex &amp; LAM</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
-		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>890</ubGraphicNum>
-		<ubWeight>3</ubWeight>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>575</ubGraphicNum>
+		<ubWeight>4</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>14</ItemSize>
-		<usPrice>2500</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<usPrice>2800</usPrice>
+		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-6</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -71555,15 +71912,16 @@
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
 		<ToHitBonus>18</ToHitBonus>
-		<BestLaserRange>110</BestLaserRange>
+		<BestLaserRange>200</BestLaserRange>
 		<AimBonus>6</AimBonus>
 		<MinRangeForAimBonus>10</MinRangeForAimBonus>
+		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
-		<CamoBonus>-5</CamoBonus>
-		<UrbanCamoBonus>-5</UrbanCamoBonus>
-		<DesertCamoBonus>-5</DesertCamoBonus>
-		<SnowCamoBonus>-5</SnowCamoBonus>
-		<StealthBonus>-5</StealthBonus>
+		<CamoBonus>-10</CamoBonus>
+		<UrbanCamoBonus>-10</UrbanCamoBonus>
+		<DesertCamoBonus>-10</DesertCamoBonus>
+		<SnowCamoBonus>-10</SnowCamoBonus>
+		<StealthBonus>-10</StealthBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
@@ -71576,21 +71934,22 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2822</uiIndex>
-		<szItemName>Aim Mod. II</szItemName>
-		<szLongItemName>A. - Aiming Module MK. II</szLongItemName>
-		<szItemDesc>A useful combination of 4xscope, Reddot LAM and Reflex Sight. Great if you need to save attachment slots.</szItemDesc>
-		<szBRName>A. - Aiming Module MK. II</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szItemName>LAM</szItemName>
+		<szLongItemName>Insight LAM-1000</szLongItemName>
+		<szItemDesc>Insight Technology Laser Aiming Module ILWLP/LAM-1000 with interface is an advanced single-module, multi-function Insight illuminator flashlight and Insight aiming device derived from the military standard Insight AN/PEQ-6 Infrared / Visible Illuminator Flashlight / Aiming Laser Sight.</szItemDesc>
+		<szBRName>Insight LAM-1000</szBRName>
+		<szBRDesc>Originally designed in response to the U.S. Navy S.E.A.L.'s Assault Pistol program, the Laser Aiming Module, (L.A.M.) pioneered new ground and set the standard for multi-laser/white light capability in a compact pistol mounted package. Today, Insight Tech-Gear's LAM-1000 is known to the U.S. Military as the ILWLP.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
+		<AttachmentClass>4</AttachmentClass>
+		<nasAttachmentClass>4</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>887</ubGraphicNum>
-		<ubWeight>5</ubWeight>
+		<ubGraphicNum>179</ubGraphicNum>
+		<ubWeight>2</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>18</ItemSize>
-		<usPrice>2750</usPrice>
-		<ubCoolness>8</ubCoolness>
-		<bRepairEase>-7</bRepairEase>
+		<ItemSize>14</ItemSize>
+		<usPrice>2000</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
@@ -71598,236 +71957,231 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
-		<ToHitBonus>18</ToHitBonus>
-		<BestLaserRange>110</BestLaserRange>
-		<AimBonus>12</AimBonus>
-		<MinRangeForAimBonus>20</MinRangeForAimBonus>
-		<PercentAPReduction>20</PercentAPReduction>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<ToHitBonus>20</ToHitBonus>
+		<BestLaserRange>130</BestLaserRange>
 		<CamoBonus>-6</CamoBonus>
 		<UrbanCamoBonus>-6</UrbanCamoBonus>
 		<DesertCamoBonus>-6</DesertCamoBonus>
 		<SnowCamoBonus>-6</SnowCamoBonus>
 		<StealthBonus>-6</StealthBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>40</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
+		<ProjectionFactor>1.6</ProjectionFactor>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2823</uiIndex>
-		<szItemName>Aim Mod. III</szItemName>
-		<szLongItemName>A. - Aiming Module MK. III</szLongItemName>
-		<szItemDesc>A useful combination of 7xscope, Reddot LAM and Reflex Sight. Great if you need to save attachment slots. It doesn't get much better than this.</szItemDesc>
-		<szBRName>A. - Aiming Module MK. III</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szItemName>Magpulgrip</szItemName>
+		<szLongItemName>Magpul PTS Angled Fore-Grip</szLongItemName>
+		<szItemDesc>Compatible with most any 1913 Picatinny-railed hand guard, the Magpul AFG (Angled Fore-Grip) takes into account natural body mechanics and provides a comfortable and stable user interface that reduces fatigue and allows for more precise weapon control. can be attached to most SMGs and rifles to enhance burst and selective fire accuracy.</szItemDesc>
+		<szBRName>Magpul PTS Angled Fore-Grip</szBRName>
+		<szBRDesc>Unlike conventional vertical fore-grips, the AFG helps mitigate recoil and control the weapon to facilitate faster, more accurate follow-up shots.
+can be attached to most SMGs and rifles to enhance burst and selective fire accuracy.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
-		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>893</ubGraphicNum>
-		<ubWeight>6</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>20</ItemSize>
-		<usPrice>3000</usPrice>
-		<ubCoolness>9</ubCoolness>
-		<bRepairEase>-9</bRepairEase>
+		<AttachmentClass>4096</AttachmentClass>
+		<nasAttachmentClass>512</nasAttachmentClass>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>655</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>2</ubPerPocket>
+		<ItemSize>18</ItemSize>
+		<usPrice>500</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<bRepairEase>5</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
-		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<Electronic>1</Electronic>
-		<ToHitBonus>18</ToHitBonus>
-		<BestLaserRange>110</BestLaserRange>
-		<AimBonus>15</AimBonus>
-		<MinRangeForAimBonus>45</MinRangeForAimBonus>
-		<PercentAPReduction>20</PercentAPReduction>
-		<DamageBonus>1</DamageBonus>
-		<CamoBonus>-6</CamoBonus>
-		<UrbanCamoBonus>-6</UrbanCamoBonus>
-		<DesertCamoBonus>-6</DesertCamoBonus>
-		<SnowCamoBonus>-6</SnowCamoBonus>
-		<StealthBonus>-6</StealthBonus>
-		<NightVisionRangeBonus>25</NightVisionRangeBonus>
-		<DayVisionRangeBonus>70</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>70</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<ToHitBonus>1</ToHitBonus>
+		<AimBonus>5</AimBonus>
+		<BurstToHitBonus>10</BurstToHitBonus>
+		<AutoFireToHitBonus>10</AutoFireToHitBonus>
+		<PercentAutofireAPReduction>5</PercentAutofireAPReduction>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS>
+			<PercentHandling>-10</PercentHandling>
+			<PercentMaxCounterForce>70</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<PRONE_MODIFIERS>
+			<PercentHandling>0</PercentHandling>
+			<PercentMaxCounterForce>0</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
+		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2824</uiIndex>
-		<szItemName>Aim Mod. III-X</szItemName>
-		<szLongItemName>A. - Aiming Module MK. III-X</szLongItemName>
-		<szItemDesc>Whenever you think it doesn't get better, someone comes along and shows you it does! The best combination available, this aiming module consists of an AN/PEQ LAM, a 7x Battle Scope and a Reflex Sight.</szItemDesc>
-		<szBRName>A. - Aiming Module MK. III-X</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szItemName>FLEX LAM</szItemName>
+		<szLongItemName>FLEX E-LAP Laser Aiming Pointer</szLongItemName>
+		<szItemDesc>With the flick of a switch turn your laser unit into a CQB illuminator, taking advantage of the very bright LED unit built in. Included on top of the laser is a 20mm RIS rail, for mounting even more on your gun! Double lasers... mmmmm...The looks? - they just speak for themselves - wipe the dribble from your chin lads!</szItemDesc>
+		<szBRName>FLEX E-LAP Laser Aiming Pointer</szBRName>
+		<szBRDesc>They don't come better than this truffle in the selection of sweet sticky delights. This is a 'big mans laser! This feels both solid and robust, sporting impressive throw-lever QD release, this will make any 20mm RIS rail look incredibly sexy.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
-		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>886</ubGraphicNum>
-		<ubWeight>7</ubWeight>
+		<AttachmentClass>4</AttachmentClass>
+		<nasAttachmentClass>4</nasAttachmentClass>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>657</ubGraphicNum>
+		<ubWeight>5</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>20</ItemSize>
-		<usPrice>4700</usPrice>
-		<ubCoolness>10</ubCoolness>
-		<bRepairEase>-9</bRepairEase>
+		<ItemSize>18</ItemSize>
+		<usPrice>3300</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<bRepairEase>-5</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
-		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
-		<ToHitBonus>18</ToHitBonus>
-		<BestLaserRange>200</BestLaserRange>
-		<AimBonus>15</AimBonus>
-		<MinRangeForAimBonus>45</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
-		<PercentAPReduction>20</PercentAPReduction>
-		<DamageBonus>1</DamageBonus>
-		<CamoBonus>-10</CamoBonus>
-		<UrbanCamoBonus>-10</UrbanCamoBonus>
-		<DesertCamoBonus>-10</DesertCamoBonus>
-		<SnowCamoBonus>-10</SnowCamoBonus>
-		<StealthBonus>-10</StealthBonus>
-		<NightVisionRangeBonus>40</NightVisionRangeBonus>
-		<DayVisionRangeBonus>70</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>70</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<ToHitBonus>25</ToHitBonus>
+		<BestLaserRange>300</BestLaserRange>
+		<CamoBonus>-15</CamoBonus>
+		<UrbanCamoBonus>-15</UrbanCamoBonus>
+		<DesertCamoBonus>-15</DesertCamoBonus>
+		<SnowCamoBonus>-15</SnowCamoBonus>
+		<StealthBonus>-15</StealthBonus>
+		<NeedsBatteries>1</NeedsBatteries>
+		<ProjectionFactor>3.0</ProjectionFactor>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2825</uiIndex>
-		<szItemName>Aim Mod. WP</szItemName>
-		<szLongItemName>A. - Aiming Module WP</szLongItemName>
-		<szItemDesc>This Aiming Module for Russian guns combines a Kobra, a PSO-1 scope and a CORSAK LAM.</szItemDesc>
-		<szBRName>A. - Aiming Module WP</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szItemName>TBTL</szItemName>
+		<szLongItemName>Twin Beam Target Laser</szLongItemName>
+		<szItemDesc>I.L.E.E. Also offer another twin beam target laser. This design enables users to switch rapidly between two different light sources. Standard light sources available for this design include red (635 nm, 0.5 - 5 mW) and infrared (830 - 850 nm, 0.5 - 3.5 W) beams and an infrared (830 - 850 nm, 0.5 to 30 mW) illuminator, but other options are available if required.</szItemDesc>
+		<szBRName>Twin Beam Target Laser</szBRName>
+		<szBRDesc>I.L.E.E. Also offer another twin beam target laser. This design enables users to switch rapidly between two different light sources. Standard light sources available for this design include red (635 nm, 0.5 - 5 mW) and infrared (830 - 850 nm, 0.5 - 3.5 W) beams and an infrared (830 - 850 nm, 0.5 to 30 mW) illuminator, but other options are available if required.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>335</ubGraphicNum>
-		<ubWeight>15</ubWeight>
-		<ubPerPocket>3</ubPerPocket>
-		<ItemSize>20</ItemSize>
-		<usPrice>4500</usPrice>
-		<ubCoolness>9</ubCoolness>
-		<bRepairEase>-8</bRepairEase>
+		<AttachmentClass>4</AttachmentClass>
+		<nasAttachmentClass>4</nasAttachmentClass>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>658</ubGraphicNum>
+		<ubWeight>5</ubWeight>
+		<ubPerPocket>2</ubPerPocket>
+		<ItemSize>18</ItemSize>
+		<usPrice>2200</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
-		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
-		<ToHitBonus>15</ToHitBonus>
-		<BestLaserRange>350</BestLaserRange>
-		<AimBonus>13</AimBonus>
-		<MinRangeForAimBonus>40</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
-		<PercentAPReduction>33</PercentAPReduction>
-		<CamoBonus>-15</CamoBonus>
-		<UrbanCamoBonus>-17</UrbanCamoBonus>
-		<DesertCamoBonus>-17</DesertCamoBonus>
-		<SnowCamoBonus>-17</SnowCamoBonus>
-		<StealthBonus>-17</StealthBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>50</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<ToHitBonus>21</ToHitBonus>
+		<BestLaserRange>250</BestLaserRange>
+		<AimBonus>1</AimBonus>
+		<PercentBurstFireAPReduction>2</PercentBurstFireAPReduction>
+		<PercentAutofireAPReduction>2</PercentAutofireAPReduction>
+		<PercentReadyTimeAPReduction>1</PercentReadyTimeAPReduction>
+		<CamoBonus>-12</CamoBonus>
+		<UrbanCamoBonus>-12</UrbanCamoBonus>
+		<DesertCamoBonus>-12</DesertCamoBonus>
+		<SnowCamoBonus>-12</SnowCamoBonus>
+		<StealthBonus>-12</StealthBonus>
+		<NightVisionRangeBonus>5</NightVisionRangeBonus>
+		<NeedsBatteries>1</NeedsBatteries>
+		<ProjectionFactor>3.0</ProjectionFactor>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2826</uiIndex>
-		<szItemName>ISM-4X-IR</szItemName>
-		<szLongItemName>A. - ISM-4X-IR</szLongItemName>
-		<szItemDesc>The Integrated Sightning Module combines a high power Laser Aiming Module with a quality scope and a red dot sight.</szItemDesc>
-		<szBRName>A. - ISM-4X-IR</szBRName>
-		<szBRDesc>Originally developed for the XM-8. The Integrated Sightning Module combines a high power Laser Aiming Module with a quality scope and a red dot sight.</szBRDesc>
+		<szItemName>TAM-14</szItemName>
+		<szLongItemName>TAM-14 Thermal Acquisition Monocular</szLongItemName>
+		<szItemDesc>Nivisys currently features the TAM-14 Thermal Acquisition Monocular system designed to meet the needs of the individual user for ground based night operations. The system has set the pace for future hand held thermal devices that are head or helmet mountable as well as weapon mountable.</szItemDesc>
+		<szBRName>TAM-14</szBRName>
+		<szBRDesc>The system was designed to maximize versatility by quickly adapting to weapons, head gear, helmets, video output and more. Incorporating in-service head and helmet mounts designed for the AN/PVS-7 and AN/PVS-14, the TAM-14 is compact, lightweight and intuitive to operate.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>227</ubGraphicNum>
-		<ubWeight>4</ubWeight>
+		<AttachmentClass>12</AttachmentClass>
+		<nasAttachmentClass>8</nasAttachmentClass>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>660</ubGraphicNum>
+		<ubWeight>5</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>18</ItemSize>
-		<usPrice>3500</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ItemSize>16</ItemSize>
+		<usPrice>8000</usPrice>
+		<ubCoolness>9</ubCoolness>
 		<bRepairEase>-8</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
+		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
-		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>300</BestLaserRange>
-		<AimBonus>12</AimBonus>
-		<MinRangeForAimBonus>30</MinRangeForAimBonus>
-		<PercentAPReduction>10</PercentAPReduction>
-		<CamoBonus>-15</CamoBonus>
-		<UrbanCamoBonus>-15</UrbanCamoBonus>
-		<DesertCamoBonus>-15</DesertCamoBonus>
-		<SnowCamoBonus>-15</SnowCamoBonus>
-		<StealthBonus>-15</StealthBonus>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>50</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<VisionRangeBonus>0</VisionRangeBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>-40</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>-60</BrightLightVisionRangeBonus>
+		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
+		<PercentTunnelVision>60</PercentTunnelVision>
+		<ThermalOptics>1</ThermalOptics>
+		<NeedsBatteries>1</NeedsBatteries>
+		<ScopeMagFactor>1.0</ScopeMagFactor>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2827</uiIndex>
-		<szItemName>GL Collimator</szItemName>
-		<szLongItemName>A. - Grenade Launcher Collimator</szLongItemName>
-		<szItemDesc>A red dot sight that can be mounted to certain grenade launchers to improve sight range and target acquisition.</szItemDesc>
-		<szBRName>A. - Grenade Launcher Collimator</szBRName>
-		<szBRDesc>A red dot sight that can be mounted to certain grenade launchers to improve sight range and target acquisition.</szBRDesc>
+		<szItemName>Shock Stock</szItemName>
+		<szLongItemName>Mako Shock Stock</szLongItemName>
+		<szItemDesc>Unique patented тАЬAnti-RattleтАЭ Mechanism with sleek new design with No protruding parts, It will not get caught on gear and webbing. Its unique new slick and quick operated inversed positioning lever Integral and ribbed rubber butt pad with a non slip design Is sure going to be a tactical helper.</szItemDesc>
+		<szBRName>Mako Shock Stock</szBRName>
+		<szBRDesc>The revolutionary patented 'GL-Shock' absorbing Buttstock contains a recoil-reducing mechanism with a built in premium silicon chrome alloy spring creating a State-of-the-Art stock</szBRDesc>
 		<usItemClass>268435456</usItemClass>
+		<AttachmentClass>32</AttachmentClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>219</ubGraphicNum>
-		<ubWeight>2</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>14</ItemSize>
-		<usPrice>2500</usPrice>
-		<ubCoolness>6</ubCoolness>
-		<bRepairEase>-4</bRepairEase>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>661</ubGraphicNum>
+		<ubWeight>4</ubWeight>
+		<ubPerPocket>2</ubPerPocket>
+		<ItemSize>22</ItemSize>
+		<usPrice>800</usPrice>
+		<ubCoolness>10</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<Electronic>1</Electronic>
-		<BR_NewInventory>1</BR_NewInventory>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<PercentAPReduction>15</PercentAPReduction>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
+		<ToHitBonus>5</ToHitBonus>
+		<BurstToHitBonus>10</BurstToHitBonus>
+		<AutoFireToHitBonus>10</AutoFireToHitBonus>
+		<PercentBurstFireAPReduction>5</PercentBurstFireAPReduction>
+		<PercentAutofireAPReduction>5</PercentAutofireAPReduction>
+		<PercentReadyTimeAPReduction>-2</PercentReadyTimeAPReduction>
+		<PercentAPReduction>5</PercentAPReduction>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS>
+			<PercentMaxCounterForce>-40</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
+			<AimLevels>1</AimLevels>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -72015,37 +72369,16 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2835</uiIndex>
-		<szItemName>CORSAK Laser</szItemName>
-		<szLongItemName>A. - Laser, CORSAK</szLongItemName>
-		<szItemDesc>The Corsak Laser is a powerful and compact laser target designation unit for a wide range of Russian weapons.</szItemDesc>
-		<szBRName>A. - Laser, CORSAK</szBRName>
-		<szBRDesc>The Corsak Laser is a powerful and compact laser target designation unit for a wide range of Russian weapons.</szBRDesc>
+		<szItemName>TriRail</szItemName>
+		<szLongItemName>Tiberius Arms Tri-Rail</szLongItemName>
+		<szItemDesc>The Tiberius Arms Tri-Rail Riser is a unique scope mounting system that maximizes usable space. This mount is perfect for converting your rifle, shotgun or carbine to tactical configuration. Easy to install in just a few minutes with no gunsmithing required.</szItemDesc>
+		<szBRName>Tiberius Arms Tri-Rail</szBRName>
+		<szBRDesc>The Tiberius Arms Tri-Rail Riser is a unique scope mounting system that maximizes usable space. This mount is perfect for converting your rifle, shotgun or carbine to tactical configuration. Easy to install in just a few minutes with no gunsmithing required.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>128</nasAttachmentClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>222</ubGraphicNum>
-		<ubWeight>5</ubWeight>
-		<ubPerPocket>3</ubPerPocket>
-		<ItemSize>18</ItemSize>
-		<usPrice>2000</usPrice>
-		<ubCoolness>6</ubCoolness>
-		<bRepairEase>-5</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<Attachment>1</Attachment>
-		<Electronic>1</Electronic>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<ToHitBonus>15</ToHitBonus>
-		<BestLaserRange>350</BestLaserRange>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
-		<CamoBonus>-17</CamoBonus>
-		<UrbanCamoBonus>-17</UrbanCamoBonus>
-		<DesertCamoBonus>-17</DesertCamoBonus>
-		<SnowCamoBonus>-17</SnowCamoBonus>
-		<StealthBonus>-17</StealthBonus>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>632</ubGraphicNum>
+		<BR_NewInventory>5</BR_NewInventory>
+		<BR_UsedInventory>5</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -72882,56 +73215,21 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2861</uiIndex>
-		<szItemName>Muzzle Break</szItemName>
-		<szLongItemName>A. - Muzzle Break</szLongItemName>
-		<szItemDesc>This device reduces recoil from autofire. It can be fitted to all caliber 7.62 light machine guns and assault rifles.</szItemDesc>
-		<szBRName>A. - Muzzle Break</szBRName>
-		<szBRDesc>This device reduces both recoil from autofire. It can be fitted to all caliber 7.62 light machine guns and assault rifles.</szBRDesc>
+		<szItemName>553 Holo sight</szItemName>
+		<szLongItemName>Eotech 553 A65 Holographic Sight</szLongItemName>
+		<szItemDesc>The Eotech 553 A65 Holographic Weapon Sight was developed after extensive testing of various optical sights, and US Special Operations Command has standardized on the Eotech Holographic Weapon Sight as its 1X weapon optic for close quarter and urban combat zones.</szItemDesc>
+		<szBRName>Eotech 553 A65 Holographic Sight</szBRName>
+		<szBRDesc>EOTech 553 A65 Holographic Weapon Sights is its holographic reticle patterns that are instantly visible in any light condition, instinctive to center regardless of shooting angle and always remain in view to achieve lightning quick reticle to target acquisition without covering or obscuring the point of aim.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>4096</nasAttachmentClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>232</ubGraphicNum>
-		<ubWeight>3</ubWeight>
+		<nasAttachmentClass>64</nasAttachmentClass>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>662</ubGraphicNum>
+		<ubWeight>6</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>14</ItemSize>
-		<usPrice>450</usPrice>
-		<ubCoolness>4</ubCoolness>
-		<bRepairEase>-2</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<BR_NewInventory>3</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<PercentNoiseReduction>-15</PercentNoiseReduction>
-		<RangeBonus>-20</RangeBonus>
-		<ToHitBonus>2</ToHitBonus>
-		<BurstToHitBonus>2</BurstToHitBonus>
-		<AutoFireToHitBonus>2</AutoFireToHitBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>2862</uiIndex>
-		<szItemName>PGO-7W</szItemName>
-		<szLongItemName>A. - Scope, PGO-7W</szLongItemName>
-		<szItemDesc>This Russian day-time scope was originally developed for the RPG-7 rocket launcher, but it will also fit on rifles with an AK-style receiver.</szItemDesc>
-		<szBRName>A. - Scope, PGO-7W</szBRName>
-		<szBRDesc>This Russian day-time scope was originally developed for the RPG-7 rocket launcher, but it will also fit on rifles with an AK-style receiver. Cannot be combined with the Kobra collimator.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<AttachmentClass>16</AttachmentClass>
-		<nasAttachmentClass>16</nasAttachmentClass>
-		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>555</ubGraphicNum>
-		<ubWeight>5</ubWeight>
-		<ubPerPocket>3</ubPerPocket>
-		<ItemSize>18</ItemSize>
-		<usPrice>1500</usPrice>
-		<ubCoolness>5</ubCoolness>
-		<bRepairEase>-4</bRepairEase>
+		<ItemSize>10</ItemSize>
+		<usPrice>1950</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
@@ -72939,16 +73237,43 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
-		<BR_NewInventory>1</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>7</AimBonus>
-		<MinRangeForAimBonus>15</MinRangeForAimBonus>
-		<NightVisionRangeBonus>5</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
-		<ScopeMagFactor>2.7</ScopeMagFactor>
+		<ToHitBonus>3</ToHitBonus>
+		<PercentAPReduction>8</PercentAPReduction>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2862</uiIndex>
+		<szItemName>Holo sight</szItemName>
+		<szLongItemName>Holographic Sight XPS2</szLongItemName>
+		<szItemDesc>The XPS2 is the shortest, smallest and lightest EOTech model holographic weapon sight available without night vision. Its size and weight make it convenient for hunters and law enforcement officers to carry.</szItemDesc>
+		<szBRName>Holographic Sight XPS2</szBRName>
+		<szBRDesc>The XPS2 is the shortest, smallest and lightest EOTech model holographic weapon sight available.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<nasAttachmentClass>64</nasAttachmentClass>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>663</ubGraphicNum>
+		<ubWeight>4</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>10</ItemSize>
+		<usPrice>1240</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<bRepairEase>-5</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<Attachment>1</Attachment>
+		<BigGunList>1</BigGunList>
+		<Electronic>1</Electronic>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<ToHitBonus>1</ToHitBonus>
+		<PercentAPReduction>15</PercentAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -73297,33 +73622,32 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2876</uiIndex>
-		<szItemName>Heavy Bipod</szItemName>
-		<szLongItemName>A. - Bipod, Heavy</szLongItemName>
-		<szItemDesc>This heavy duty bipod fits most LMGs and sniper rifles. It may be harder to get the weapon into a firing position, but shots will be much more accurate and controllable.</szItemDesc>
-		<szBRName>A. - Bipod, Heavy</szBRName>
-		<szBRDesc>This heavy duty bipod fits most LMGs and sniper rifles. It may be harder to get the weapon into a firing position, but shots will be much more accurate and controllable.</szBRDesc>
+		<szItemName>SM RS</szItemName>
+		<szLongItemName>Sightmark reflex sight</szLongItemName>
+		<szItemDesc>Incredibly lightweight for its size, the Ultra Shot is the biggest and baddest sight in the Sightmark reflex sight line. Perfect for shotguns or rifles, the Ultra Shot Reflex Sight is equipped with a built-in, integrated weaver mount, which fits all standard picatinny or weaver bases.</szItemDesc>
+		<szBRName>Sightmark reflex sight</szBRName>
+		<szBRDesc>Incredibly lightweight for its size, the Ultra Shot is the biggest and baddest sight in the Sightmark reflex sight line. Perfect for shotguns or rifles, the Ultra Shot Reflex Sight is equipped with a built-in, integrated weaver mount, which fits all standard picatinny or weaver bases.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>524288</nasAttachmentClass>
-		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>842</ubGraphicNum>
-		<ubWeight>8</ubWeight>
-		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>20</ItemSize>
-		<usPrice>175</usPrice>
-		<ubCoolness>6</ubCoolness>
-		<bRepairEase>3</bRepairEase>
+		<nasAttachmentClass>64</nasAttachmentClass>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>664</ubGraphicNum>
+		<ubWeight>5</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>10</ItemSize>
+		<usPrice>890</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
+		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>18</Bipod>
-		<ToHitBonus>-2</ToHitBonus>
-		<BurstToHitBonus>2</BurstToHitBonus>
-		<AutoFireToHitBonus>2</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-15</PercentReadyTimeAPReduction>
+		<ToHitBonus>2</ToHitBonus>
+		<PercentAPReduction>18</PercentAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -73395,59 +73719,59 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2879</uiIndex>
-		<szItemName>LAM-SMR</szItemName>
-		<szLongItemName>A. - Combo, Reddot LAM - SMR</szLongItemName>
-		<szItemDesc>A combination of Reddot LAM and the Sight Mark Reflex Sight.</szItemDesc>
-		<szBRName>A. - Combo, Reddot LAM - SMR</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szItemName>FF Laser</szItemName>
+		<szLongItemName>Firefield Laser</szLongItemName>
+		<szItemDesc>You only need one clean shot to engage your enemy. Make it count. The Firefield Compact Laser is a dynamic, powerful unit built to do the job. This highly versatile unit is equipped with a weaver rail and easily affixes to a wide variety of, it fits onto the trigger guard of most sub-machine guns and pistols.</szItemDesc>
+		<szBRName>Firefield Laser</szBRName>
+		<szBRDesc>Complete with a tactical pressure pad, the Green Compact laser is user friendly with an on/off tilt switch that can be activated with a flick of the userтАЩs finger. Ideal for use in home defense, the powerfully bright green laser can pacify targets and alleviate threats quickly!</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>64</nasAttachmentClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>234</ubGraphicNum>
-		<ubWeight>2</ubWeight>
+		<AttachmentClass>4</AttachmentClass>
+		<nasAttachmentClass>4</nasAttachmentClass>
+		<ubGraphicType>5</ubGraphicType>
+		<ubGraphicNum>51</ubGraphicNum>
+		<ubWeight>1</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>14</ItemSize>
-		<usPrice>1150</usPrice>
-		<ubCoolness>8</ubCoolness>
-		<bRepairEase>-6</bRepairEase>
+		<ItemSize>12</ItemSize>
+		<usPrice>1500</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
-		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>110</BestLaserRange>
-		<PercentAPReduction>10</PercentAPReduction>
-		<CamoBonus>-6</CamoBonus>
-		<UrbanCamoBonus>-6</UrbanCamoBonus>
-		<DesertCamoBonus>-6</DesertCamoBonus>
-		<SnowCamoBonus>-6</SnowCamoBonus>
-		<StealthBonus>-6</StealthBonus>
-		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<BestLaserRange>100</BestLaserRange>
+		<CamoBonus>-5</CamoBonus>
+		<UrbanCamoBonus>-5</UrbanCamoBonus>
+		<DesertCamoBonus>-5</DesertCamoBonus>
+		<SnowCamoBonus>-5</SnowCamoBonus>
+		<StealthBonus>-5</StealthBonus>
+		<ProjectionFactor>1.3</ProjectionFactor>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2880</uiIndex>
-		<szItemName>Aim Mod. II-X</szItemName>
-		<szLongItemName>A. - Aiming Module MK. II-X</szLongItemName>
-		<szItemDesc>A useful combination of 4xscope, AN/PEQ LAM and Reflex Sight. Great if you need to save attachment slots.</szItemDesc>
-		<szBRName>A. - Aiming Module MK. II-X</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szItemName>AN/PEQ-15</szItemName>
+		<szLongItemName>AN/PEQ-15 DBALA2</szLongItemName>
+		<szItemDesc>The AN/PEQ-15 and AN/PEQ-15A IR lasers are class IIIB, while the visible-aiming lasers are class IIIA. The IR lasers emit a highly collimated beam of IR light for precise weapon aiming, as well as a separate, IR-illuminating laser with adjustable focus.</szItemDesc>
+		<szBRName>AN/PEQ-15 DBALA2</szBRName>
+		<szBRDesc>The AN/PEQ-15 Advanced Target Pointer/Illuminator/Aiming Light and the AN/PEQ-15A Dual Beam Aiming Laser Advanced (DBALA2) are laser-aiming devices designed to be used in conjunction with night vision devices to engage enemy targets at night.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
-		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>885</ubGraphicNum>
-		<ubWeight>7</ubWeight>
+		<nasAttachmentClass>128</nasAttachmentClass>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>659</ubGraphicNum>
+		<ubWeight>4</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>20</ItemSize>
-		<usPrice>4450</usPrice>
+		<ItemSize>18</ItemSize>
+		<usPrice>2200</usPrice>
 		<ubCoolness>8</ubCoolness>
-		<bRepairEase>-8</bRepairEase>
+		<bRepairEase>-5</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
@@ -73455,22 +73779,17 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
-		<ToHitBonus>18</ToHitBonus>
+		<BR_NewInventory>1</BR_NewInventory>
+		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>200</BestLaserRange>
-		<AimBonus>12</AimBonus>
-		<MinRangeForAimBonus>20</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
-		<PercentAPReduction>20</PercentAPReduction>
+		<PercentAutofireAPReduction>2</PercentAutofireAPReduction>
+		<PercentReadyTimeAPReduction>-2</PercentReadyTimeAPReduction>
 		<CamoBonus>-10</CamoBonus>
 		<UrbanCamoBonus>-10</UrbanCamoBonus>
 		<DesertCamoBonus>-10</DesertCamoBonus>
 		<SnowCamoBonus>-10</SnowCamoBonus>
 		<StealthBonus>-10</StealthBonus>
-		<NightVisionRangeBonus>25</NightVisionRangeBonus>
-		<DayVisionRangeBonus>40</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
+		<NightVisionRangeBonus>2</NightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -73478,76 +73797,61 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2881</uiIndex>
-		<szItemName>1P21 Scope</szItemName>
-		<szLongItemName>A. - Scope, 1P21 Minuta</szLongItemName>
-		<szItemDesc>A high-end scope for use with Russian sniper rifles.</szItemDesc>
-		<szBRName>A. - Scope, 1P21 Minuta</szBRName>
-		<szBRDesc>For end users who require the most professional and advanced long range optic available for use with Russian based sniping systems, the 1P21 (PO 3-9x42M) is the best choice.</szBRDesc>
+		<szItemName>CRL Laser Sight</szItemName>
+		<szLongItemName>Sightmark CRL Triple duty Laser</szLongItemName>
+		<szItemDesc>An affordable tactical laser sight inspired by military and law-enforcement applications. The low profile and compact size make it ideal for rapid-fire shooting or home defense. Durable, yet lightweight composite plastic body. Adjustable windage and elevation. 300-yard visibility at night, 20 yards in sunlight.</szItemDesc>
+		<szBRName>Sightmark CRL Triple duty Laser</szBRName>
+		<szBRDesc>An affordable tactical laser sight inspired by military and law-enforcement applications. The low profile and compact size make it ideal for rapid-fire shooting or home defense. Durable, yet lightweight composite plastic body. Adjustable windage and elevation. 300-yard visibility at night, 20 yards in sunlight.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>216</ubGraphicNum>
-		<ubWeight>5</ubWeight>
+		<AttachmentClass>4</AttachmentClass>
+		<nasAttachmentClass>4</nasAttachmentClass>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>656</ubGraphicNum>
+		<ubWeight>1</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>20</ItemSize>
-		<usPrice>2400</usPrice>
-		<ubCoolness>8</ubCoolness>
-		<bRepairEase>-3</bRepairEase>
+		<ItemSize>12</ItemSize>
+		<usPrice>1800</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
-		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
-		<BR_NewInventory>1</BR_NewInventory>
-		<AimBonus>19</AimBonus>
-		<MinRangeForAimBonus>70</MinRangeForAimBonus>
-		<PercentAPReduction>-7</PercentAPReduction>
-		<DamageBonus>2</DamageBonus>
-		<VisionRangeBonus>20</VisionRangeBonus>
-		<NightVisionRangeBonus>40</NightVisionRangeBonus>
-		<DayVisionRangeBonus>80</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>80</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>80</PercentTunnelVision>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<ToHitBonus>22</ToHitBonus>
+		<BestLaserRange>150</BestLaserRange>
+		<CamoBonus>-7</CamoBonus>
+		<UrbanCamoBonus>-7</UrbanCamoBonus>
+		<DesertCamoBonus>-7</DesertCamoBonus>
+		<SnowCamoBonus>-7</SnowCamoBonus>
+		<StealthBonus>-7</StealthBonus>
+		<ProjectionFactor>1.3</ProjectionFactor>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2882</uiIndex>
-		<szItemName>AN/PVS-14</szItemName>
-		<szLongItemName>A. - Scope, AN/PVS-14 NV</szLongItemName>
-		<szItemDesc>The PVS-14 Gen 3P scope is designed for the most demanding of night-time applications.</szItemDesc>
-		<szBRName>A. - Scope, AN/PVS-14 NV</szBRName>
-		<szBRDesc>The PVS-14 Gen 3P scope is designed for the most demanding of night-time applications.</szBRDesc>
+		<szItemName>Flu Vaccine</szItemName>
+		<szLongItemName>Influenza vaccine</szLongItemName>
+		<szItemDesc>Do like the rest get your shot today! No questions asked! This safe never tested before vaccine will help you through this year without dying. Top additives are: Mercury, MSG, formaldehyde and aluminum. May cause mutations in genetic information and migranes. But don't worry, Gardasil got you.</szItemDesc>
+		<szBRName>Influenza vaccine</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
-		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>860</ubGraphicNum>
-		<ubWeight>4</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>18</ItemSize>
-		<usPrice>4400</usPrice>
-		<ubCoolness>8</ubCoolness>
-		<bRepairEase>-3</bRepairEase>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>666</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>12</ItemSize>
+		<usPrice>50</usPrice>
 		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<BR_NewInventory>1</BR_NewInventory>
-		<AimBonus>10</AimBonus>
-		<MinRangeForAimBonus>25</MinRangeForAimBonus>
-		<DamageBonus>1</DamageBonus>
-		<NightVisionRangeBonus>50</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>70</PercentTunnelVision>
+		<Unaerodynamic>1</Unaerodynamic>
+		<Medical>1</Medical>
+		<DrugType>471166473</DrugType>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -73823,143 +74127,133 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2892</uiIndex>
-		<szItemName>C-18 Helmet Kit</szItemName>
-		<szLongItemName>Upgrade Kit - Helmet, C-18</szLongItemName>
-		<szItemDesc>This Upgrade Kit contains all things needed to convert most helmets into a more protective version.</szItemDesc>
-		<szBRName>U. K. - Helmet, C-18</szBRName>
-		<szBRDesc>This Upgrade Kit contains all things needed to convert most helmets into a more protective version.</szBRDesc>
+		<szItemName>Muscle Mag</szItemName>
+		<szLongItemName>Muscle&amp;Fitness</szLongItemName>
+		<szItemDesc>September 1990 Muscle and Fitness provides readers with oversized tips on how to live a healthy life by eating like a dinosaur, doing the right exercises and maintaining a great attitude about it all. And steroids!</szItemDesc>
+		<szBRName>Muscle&amp;Fitness</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>316</ubGraphicNum>
-		<ubWeight>20</ubWeight>
-		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>30</ItemSize>
-		<usPrice>800</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>585</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ubPerPocket>2</ubPerPocket>
+		<ItemSize>20</ItemSize>
+		<usPrice>28</usPrice>
+		<ubCoolness>3</ubCoolness>
 		<Damageable>1</Damageable>
-		<Sinks>1</Sinks>
-		<Unaerodynamic>1</Unaerodynamic>
-		<BR_NewInventory>1</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<WaterDamages>1</WaterDamages>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2893</uiIndex>
-		<szItemName>C-18 Vest Kit</szItemName>
-		<szLongItemName>Upgrade Kit - Vest, C-18</szLongItemName>
-		<szItemDesc>This Upgrade Kit contains all things needed to convert most vests into a more protective version.</szItemDesc>
-		<szBRName>U. K. - Vest, C-18</szBRName>
-		<szBRDesc>This Upgrade Kit contains all things needed to convert most vests into a more protective version.</szBRDesc>
+		<szItemName>Porn</szItemName>
+		<szLongItemName>Guns&amp;Girls Nr.21</szLongItemName>
+		<szItemDesc>40 pages of pure action that specializes in portraying female tactical operators from an ultra-sexy perspective.</szItemDesc>
+		<szBRName>Porno Magazine</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>317</ubGraphicNum>
-		<ubWeight>30</ubWeight>
-		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>30</ItemSize>
-		<usPrice>1400</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>584</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ubPerPocket>2</ubPerPocket>
+		<ItemSize>20</ItemSize>
+		<usPrice>28</usPrice>
+		<ubCoolness>3</ubCoolness>
 		<Damageable>1</Damageable>
-		<Sinks>1</Sinks>
-		<Unaerodynamic>1</Unaerodynamic>
-		<BR_NewInventory>1</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<WaterDamages>1</WaterDamages>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2894</uiIndex>
-		<szItemName>C-18 Pants Kit</szItemName>
-		<szLongItemName>Upgrade Kit - Leggings, C-18</szLongItemName>
-		<szItemDesc>This Upgrade Kit contains all things needed to convert most leggings into a more protective version.</szItemDesc>
-		<szBRName>U. K. - Leggings, C-18</szBRName>
-		<szBRDesc>This Upgrade Kit contains all things needed to convert most leggings into a more protective version.</szBRDesc>
+		<szItemName>Bazoombas</szItemName>
+		<szLongItemName>Bazoombas magazine</szLongItemName>
+		<szItemDesc>Busty Bazoombas Magazine is an adult magazine that includes explicit boobantic blouse bunnies. Each monthly issue is packed with humongous yabos! Special article with Centerfolder of the year Candy's 34-FF Snowcones and more boobalicious babes!</szItemDesc>
+		<szBRName>Porno Magazine</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>318</ubGraphicNum>
-		<ubWeight>30</ubWeight>
-		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>30</ItemSize>
-		<usPrice>1200</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>582</ubGraphicNum>
+		<ubPerPocket>2</ubPerPocket>
+		<ItemSize>20</ItemSize>
+		<usPrice>25</usPrice>
+		<ubCoolness>10</ubCoolness>
 		<Damageable>1</Damageable>
-		<Sinks>1</Sinks>
-		<Unaerodynamic>1</Unaerodynamic>
-		<BR_NewInventory>1</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<WaterDamages>1</WaterDamages>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2895</uiIndex>
-		<szItemName>C-20 Helmet Kit</szItemName>
-		<szLongItemName>Upgrade Kit - Helmet, C-20</szLongItemName>
-		<szItemDesc>This Upgrade Kit contains all things needed to convert most helmets into a much more protective version.</szItemDesc>
-		<szBRName>U. K. - Helmet, C-20</szBRName>
-		<szBRDesc>This Upgrade Kit contains all things needed to convert most helmets into a much more protective version.</szBRDesc>
+		<szItemName>Buns mag</szItemName>
+		<szLongItemName>Buns magazine</szLongItemName>
+		<szItemDesc>Vol.6 No.4 June issue Buns adult magazine!</szItemDesc>
+		<szBRName>Buns magazine</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>319</ubGraphicNum>
-		<ubWeight>20</ubWeight>
-		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>30</ItemSize>
-		<usPrice>3000</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>583</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ubPerPocket>2</ubPerPocket>
+		<ItemSize>20</ItemSize>
+		<usPrice>18</usPrice>
+		<ubCoolness>3</ubCoolness>
 		<Damageable>1</Damageable>
-		<Sinks>1</Sinks>
-		<Unaerodynamic>1</Unaerodynamic>
-		<BR_NewInventory>1</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<WaterDamages>1</WaterDamages>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2896</uiIndex>
-		<szItemName>C-20 Vest Kit</szItemName>
-		<szLongItemName>Upgrade Kit - Vest, C-20</szLongItemName>
-		<szItemDesc>This Upgrade Kit contains all things needed to convert most vests into a much more protective version.</szItemDesc>
-		<szBRName>U. K. - Vest, C-20</szBRName>
-		<szBRDesc>This Upgrade Kit contains all things needed to convert most vests into a much more protective version.</szBRDesc>
+		<szItemName>Guns&amp;Girls</szItemName>
+		<szLongItemName>Guns&amp;Girls Nr.41</szLongItemName>
+		<szItemDesc>Guns&amp;Girls" magazine, got 40 pages of hot girls with some of the worldтАЩs most exotic weaponry in unrealistic tactical settings.</szItemDesc>
+		<szBRName>Guns&amp;Girls</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>320</ubGraphicNum>
-		<ubWeight>30</ubWeight>
-		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>30</ItemSize>
-		<usPrice>6000</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubGraphicNum>406</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ubPerPocket>2</ubPerPocket>
+		<ItemSize>20</ItemSize>
+		<usPrice>40</usPrice>
+		<ubCoolness>10</ubCoolness>
 		<Damageable>1</Damageable>
-		<Sinks>1</Sinks>
-		<Unaerodynamic>1</Unaerodynamic>
-		<BR_NewInventory>1</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2897</uiIndex>
-		<szItemName>C-20 Pants Kit</szItemName>
-		<szLongItemName>Upgrade Kit - Leggings, C-20</szLongItemName>
-		<szItemDesc>This Upgrade Kit contains all things needed to convert most leggings into a much more protective version.</szItemDesc>
-		<szBRName>U. K. - Leggings, C-20</szBRName>
-		<szBRDesc>This Upgrade Kit contains all things needed to convert most leggings into a much more protective version.</szBRDesc>
+		<szItemName>Commando</szItemName>
+		<szLongItemName>Commando</szLongItemName>
+		<szItemDesc>A retired elite Black Ops Commando launches a one man war against a group of South American criminals who have kidnapped his daughter to blackmail him into starting a revolution and getting an exiled dictator back into power.</szItemDesc>
+		<szBRName>Commando</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>321</ubGraphicNum>
-		<ubWeight>30</ubWeight>
-		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>30</ItemSize>
-		<usPrice>4800</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubGraphicNum>408</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>21</ItemSize>
+		<usPrice>25</usPrice>
+		<ubCoolness>10</ubCoolness>
 		<Damageable>1</Damageable>
-		<Sinks>1</Sinks>
-		<Unaerodynamic>1</Unaerodynamic>
-		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74093,37 +74387,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2903</uiIndex>
-		<szItemName>M84 Scope</szItemName>
-		<szLongItemName>A. - Scope, M84</szLongItemName>
-		<szItemDesc>This American WW II scope closes the gap between a battle scope and a sniper scope. It is still a decent scope for some hunting rifles.</szItemDesc>
-		<szBRName>A. - Scope, M84</szBRName>
-		<szBRDesc>This American WW II scope closes the gap between a battle scope and a sniper scope. It is still a decent scope for some hunting rifles.</szBRDesc>
+		<szItemName>Documentary</szItemName>
+		<szLongItemName>What in the World Are They Spraying?</szLongItemName>
+		<szItemDesc>This movie will unfold the truth about the Chemtrail/Geo-Engineering coverup. Rapidly developing industry driven by scientists, corporations, and governments intent on changing global climate, controlling the weather, and altering the chemical composition of soil and water - all supposedly for the betterment of mankind.</szItemDesc>
+		<szBRName>Documentary</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
-		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>870</ubGraphicNum>
-		<ubWeight>13</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>20</ItemSize>
-		<usPrice>1750</usPrice>
-		<ubCoolness>5</ubCoolness>
-		<bRepairEase>-3</bRepairEase>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>407</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>21</ItemSize>
+		<usPrice>32</usPrice>
 		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>17</AimBonus>
-		<MinRangeForAimBonus>60</MinRangeForAimBonus>
-		<PercentAPReduction>-5</PercentAPReduction>
-		<DamageBonus>1</DamageBonus>
-		<VisionRangeBonus>10</VisionRangeBonus>
-		<DayVisionRangeBonus>75</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>75</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>70</PercentTunnelVision>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74131,32 +74407,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2904</uiIndex>
-		<szItemName>Sniper Supp. heavy</szItemName>
-		<szLongItemName>A. - Suppressor, heavy Sniper</szLongItemName>
-		<szItemDesc>This large sound suppressor can be fitted to heavy sniper rifles in calbier .338 Magnum or .408 CheyTac.</szItemDesc>
-		<szBRName>A. - Suppressor, heavy Sniper</szBRName>
-		<szBRDesc>This heavy suppressor fits heavy sniper rifles in caliber .338 Magnum or .408 CheyTac.</szBRDesc>
+		<szItemName>Judge Dredd</szItemName>
+		<szLongItemName>Judge Dredd</szLongItemName>
+		<szItemDesc>Stallone powers this non-stop action hit that's loaded with amazing speacial effects! In a time when all-powerful and coldly efficent "Judges" act with the supreme authority of both the police force and legal system, Judge Dredd (Stallone) is the most feared law enforcer of them all.</szItemDesc>
+		<szBRName>Judge Dredd</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>4096</nasAttachmentClass>
-		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>875</ubGraphicNum>
-		<ubWeight>10</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>18</ItemSize>
-		<usPrice>3800</usPrice>
-		<ubCoolness>8</ubCoolness>
-		<bReliability>-2</bReliability>
-		<bRepairEase>-2</bRepairEase>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>409</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>21</ItemSize>
+		<usPrice>23</usPrice>
 		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<BR_NewInventory>1</BR_NewInventory>
-		<PercentNoiseReduction>60</PercentNoiseReduction>
-		<HideMuzzleFlash>1</HideMuzzleFlash>
-		<PercentReadyTimeAPReduction>-6</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74164,35 +74427,19 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2905</uiIndex>
-		<szItemName>SpeedDot</szItemName>
-		<szLongItemName>A. - Reflex Sight, SpeedDot</szLongItemName>
-		<szItemDesc>An advanced reflex sight, suitable for the worst conditions. Can only be combined with a few scopes. A person who aims at nothing is sure to hit it.</szItemDesc>
-		<szBRName>A. - Reflex Sight, SpeedDot</szBRName>
-		<szBRDesc>Tactical shooters know all about extremes. The worst weather. Oppressively bright sun. Pitch darkness. The repeated recoil of automatic weapons. Whatever extremes you have to deal with, the Burris XTS-135 Xtreme Tactical SpeedDot can handle it.</szBRDesc>
+		<szItemName>Terminator</szItemName>
+		<szLongItemName>The Terminator</szLongItemName>
+		<szItemDesc>In the year of darkness, 2029, the rulers of this planet devised the ultimate plan. They would reshape the future by changing the past. The plan required something that felt no pity. No pain. No fear. Something unstoppable.</szItemDesc>
+		<szBRName>The Terminator</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>64</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>329</ubGraphicNum>
-		<ubWeight>3</ubWeight>
-		<ItemSize>18</ItemSize>
-		<usPrice>2500</usPrice>
-		<ubCoolness>7</ubCoolness>
-		<bRepairEase>-4</bRepairEase>
+		<ubGraphicNum>410</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>21</ItemSize>
+		<usPrice>18</usPrice>
 		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<PercentAPReduction>25</PercentAPReduction>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>10</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74200,38 +74447,20 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2906</uiIndex>
-		<szItemName>Burris Scope</szItemName>
-		<szLongItemName>A. - Scope, Burris AR</szLongItemName>
-		<szItemDesc>The perfect scope to accompany the SpeeDot Reflex Sight.</szItemDesc>
-		<szBRName>A. - Scope, Burris AR</szBRName>
-		<szBRDesc>Position behind the SpeedDot sight to add 3X magnification when you need it or flip-away when you don't. Adjustable to center the dot in the scope.</szBRDesc>
+		<szItemName>They Live</szItemName>
+		<szLongItemName>They Live</szLongItemName>
+		<szItemDesc>This movie follows a nameless drifter referred to as "Nada", who discovers the ruling class are in fact aliens concealing their appearance and manipulating people to spend money, breed and accept the status quo with subliminal messages in mass media.</szItemDesc>
+		<szBRName>They Live</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>328</ubGraphicNum>
-		<ubWeight>5</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>18</ItemSize>
-		<usPrice>4000</usPrice>
-		<ubCoolness>7</ubCoolness>
-		<bRepairEase>-4</bRepairEase>
+		<ubGraphicNum>411</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>21</ItemSize>
+		<usPrice>21</usPrice>
+		<ubCoolness>10</ubCoolness>
 		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>10</AimBonus>
-		<MinRangeForAimBonus>25</MinRangeForAimBonus>
-		<DamageBonus>1</DamageBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74239,39 +74468,21 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2907</uiIndex>
-		<szItemName>AN/PEQ-2A</szItemName>
-		<szLongItemName>A. - Laser, AN/PEQ-2A</szLongItemName>
-		<szItemDesc>This medium sized advanced laser aiming module has a highly increased range compared to a standard issue laser. Can only be attached to guns at least the size of an SMG.</szItemDesc>
-		<szBRName>A. - Laser, AN/PEQ-2A</szBRName>
-		<szBRDesc>The AN/PEQ IR aiming laser incorporates lessons learned with Aiming Lights during Operation Desert Storm. The result is a dual beam multi-function laser, which combines the utility and operational effectiveness of aiming lights and illuminator/pointers in a singe device.</szBRDesc>
+		<szItemName>Agenda 21</szItemName>
+		<szLongItemName>Agenda 21</szLongItemName>
+		<szItemDesc>Think Globally, Enslave Locally. This document was birthed at the 1992 UN Conference on Environment and Development.</szItemDesc>
+		<szBRName>Agenda 21</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>128</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>220</ubGraphicNum>
-		<ubWeight>3</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>18</ItemSize>
-		<usPrice>2000</usPrice>
-		<ubCoolness>8</ubCoolness>
-		<bRepairEase>-5</bRepairEase>
+		<ubGraphicNum>414</ubGraphicNum>
+		<ubWeight>26</ubWeight>
+		<ItemSize>24</ItemSize>
+		<usPrice>200</usPrice>
 		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
+		<WaterDamages>1</WaterDamages>
 		<Sinks>1</Sinks>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<BR_NewInventory>1</BR_NewInventory>
-		<ToHitBonus>18</ToHitBonus>
-		<BestLaserRange>200</BestLaserRange>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
-		<CamoBonus>-10</CamoBonus>
-		<UrbanCamoBonus>-10</UrbanCamoBonus>
-		<DesertCamoBonus>-10</DesertCamoBonus>
-		<SnowCamoBonus>-10</SnowCamoBonus>
-		<StealthBonus>-10</StealthBonus>
-		<NightVisionRangeBonus>15</NightVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
+		<SciFi>1</SciFi>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74279,35 +74490,22 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2908</uiIndex>
-		<szItemName>Glock Stock</szItemName>
-		<szLongItemName>A. - Stock, Glock</szLongItemName>
-		<szItemDesc>Though originally designed for Glock pistols, this shoulder stock will also fit onto several machine pistols. It stabilizes recoil during burst and auto fire.</szItemDesc>
-		<szBRName>A. - Stock, Glock</szBRName>
-		<szBRDesc>Though originally designed for Glock pistols, this shoulder stock will also fit onto several machine pistols. It stabilizes recoil during burst and auto fire.</szBRDesc>
+		<szItemName>Document</szItemName>
+		<szLongItemName>H.A.A.R.P Document</szLongItemName>
+		<szItemDesc>This 500 page document covering the high frequency active auroral research program and its capabilites. The document is divided into sections as Weather modification, Earthquakes, Ionospheric enhancement and lastly Modulated heating of the auroral electrojet.</szItemDesc>
+		<szBRName>H.A.A.R.P Document</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>8192</nasAttachmentClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>520</ubGraphicNum>
-		<ubWeight>2</ubWeight>
-		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>18</ItemSize>
-		<ItemSizeBonus>1</ItemSizeBonus>
-		<usPrice>250</usPrice>
-		<ubCoolness>4</ubCoolness>
-		<bRepairEase>3</bRepairEase>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>415</ubGraphicNum>
+		<ubWeight>24</ubWeight>
+		<ItemSize>24</ItemSize>
+		<usPrice>900</usPrice>
 		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
+		<WaterDamages>1</WaterDamages>
 		<Sinks>1</Sinks>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<ToHitBonus>2</ToHitBonus>
-		<BurstToHitBonus>3</BurstToHitBonus>
-		<AutoFireToHitBonus>3</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-100</PercentReadyTimeAPReduction>
-		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
+		<NotBuyable>1</NotBuyable>
+		<SciFi>1</SciFi>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74315,34 +74513,21 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2909</uiIndex>
-		<szItemName>SMG Stock</szItemName>
-		<szLongItemName>A. - Stock, SMG</szLongItemName>
-		<szItemDesc>This stock fits on some SMGs and will stabilize fire in burst and autofire mode.</szItemDesc>
-		<szBRName>A. - Stock, SMG</szBRName>
-		<szBRDesc>This stock fits on some SMGs and will stabilize fire in burst and autofire mode.</szBRDesc>
+		<szItemName>MKUltra</szItemName>
+		<szLongItemName>Project MKUltra</szLongItemName>
+		<szItemDesc>This how-to guide on mind control by the CIA is a great read. Million dollar studies have honed methods to redirect focus, alter mood, behavior and manipulate personality. It's proven results have helped agencies control the herd since the '50s.</szItemDesc>
+		<szBRName>CIA's Book on Project MK-ultra</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>8192</nasAttachmentClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>521</ubGraphicNum>
-		<ubWeight>3</ubWeight>
-		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>18</ItemSize>
-		<ItemSizeBonus>1</ItemSizeBonus>
-		<usPrice>350</usPrice>
-		<ubCoolness>4</ubCoolness>
-		<bRepairEase>3</bRepairEase>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>416</ubGraphicNum>
+		<ubWeight>10</ubWeight>
+		<ItemSize>22</ItemSize>
+		<usPrice>1313</usPrice>
 		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
+		<WaterDamages>1</WaterDamages>
 		<Sinks>1</Sinks>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<ToHitBonus>1</ToHitBonus>
-		<BurstToHitBonus>2</BurstToHitBonus>
-		<AutoFireToHitBonus>2</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-75</PercentReadyTimeAPReduction>
+		<SciFi>1</SciFi>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74350,243 +74535,138 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2910</uiIndex>
-		<szItemName>Scope 2x Combo</szItemName>
-		<szLongItemName>A. - Scope, 2x Combo</szLongItemName>
-		<szItemDesc>This type of scope is often found built-in on modern assault rifles, though it will fit a revolver, shotgun, or SMG as well. It also has an added reflex sight for faster target acquisition.</szItemDesc>
-		<szBRName>A. - Scope, 2x Combo</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szItemName>Nachos</szItemName>
+		<szLongItemName>Nachos</szLongItemName>
+		<szItemDesc>These nachos made by 'On The Border Mexican Grill' are truly heavenly! With extra cheese flavourings it will clog your arteries like no other. Packed with MSG, these excitotoxins will ravage brain cells for that great taste! Expect migraines, heart palpitations and seizures if consumed regularly.</szItemDesc>
+		<szBRName>Nachos</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
-		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>891</ubGraphicNum>
-		<ubWeight>2</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>12</ItemSize>
-		<usPrice>3200</usPrice>
-		<bRepairEase>-5</bRepairEase>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>392</ubGraphicNum>
+		<ubWeight>3</ubWeight>
+		<ubPerPocket>3</ubPerPocket>
+		<ItemSize>13</ItemSize>
+		<usPrice>2</usPrice>
+		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<AimBonus>6</AimBonus>
-		<MinRangeForAimBonus>10</MinRangeForAimBonus>
-		<PercentAPReduction>20</PercentAPReduction>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>10</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<FoodType>12</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2911</uiIndex>
-		<szItemName>S. 2x Reflex</szItemName>
-		<szLongItemName>mod. Scope, 2x Reflex</szLongItemName>
-		<szItemDesc>This type of scope is often found built-in on modern assault rifles, though it will fit a revolver, shotgun, or SMG as well. It also has an added reflex sight for faster target acquisition.</szItemDesc>
-		<szBRName>mod. Scope, 2x Reflex</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szItemName>Pancakes</szItemName>
+		<szLongItemName>Hungry Jacks Canned Pancakes</szLongItemName>
+		<szItemDesc>A boom to the electric scooter industry, this is a divine breakfast for your family, made easy! With enough carbs to send you to the emergency ward before brunch! Nothing says good parenting like serving your kids this every morning to ensure a happy and healthy foundation in life!</szItemDesc>
+		<szBRName>Hungry Jacks Canned Pancakes</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>573</ubGraphicNum>
-		<ubWeight>2</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>12</ItemSize>
-		<usPrice>2700</usPrice>
-		<ubCoolness>5</ubCoolness>
-		<bRepairEase>-5</bRepairEase>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>389</ubGraphicNum>
+		<ubWeight>4</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>13</ItemSize>
+		<usPrice>5</usPrice>
+		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<NotBuyable>1</NotBuyable>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<Inseparable>1</Inseparable>
-		<AimBonus>6</AimBonus>
-		<MinRangeForAimBonus>10</MinRangeForAimBonus>
-		<PercentAPReduction>20</PercentAPReduction>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>10</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<FoodType>13</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2912</uiIndex>
-		<szItemName>LAM-SD</szItemName>
-		<szLongItemName>A. - Combo, Reddot LAM - SD</szLongItemName>
-		<szItemDesc>An advanced reflex sight, suitable for the worst conditions. Can only be combined with a few scopes. Someone also glued a Reddot LAM to it.</szItemDesc>
-		<szBRName>A. - Combo, Reddot LAM - SD</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szItemName>Noodles</szItemName>
+		<szLongItemName>Fu-Wang Noodles</szLongItemName>
+		<szItemDesc>Instant and tasty Fu-Wang noodles. Whenever you are  hungry and time poor, these are ready to eat in two minutes,  just add water. Now contains bits of dolphin, because fawk ayou dawphin!</szItemDesc>
+		<szBRName>Fu-Wang Noodles</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>64</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>332</ubGraphicNum>
+		<ubGraphicNum>388</ubGraphicNum>
 		<ubWeight>3</ubWeight>
-		<ItemSize>18</ItemSize>
-		<usPrice>2900</usPrice>
-		<bRepairEase>-9</bRepairEase>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>13</ItemSize>
+		<usPrice>2</usPrice>
+		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<ToHitBonus>18</ToHitBonus>
-		<BestLaserRange>110</BestLaserRange>
-		<PercentAPReduction>25</PercentAPReduction>
-		<CamoBonus>-11</CamoBonus>
-		<UrbanCamoBonus>-6</UrbanCamoBonus>
-		<DesertCamoBonus>-6</DesertCamoBonus>
-		<SnowCamoBonus>-6</SnowCamoBonus>
-		<StealthBonus>-6</StealthBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>10</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<FoodType>18</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2913</uiIndex>
-		<szItemName>LAM-200</szItemName>
-		<szLongItemName>A. - Laser, Insight LAM</szLongItemName>
-		<szItemDesc>When a standard laser sight isn't enough, the LAM-200 adds Infrared to increase nighttime visibility.</szItemDesc>
-		<szBRName>A. - Laser, Insight LAM</szBRName>
-		<szBRDesc>When a standard laser sight isn't enough, the LAM-200 adds Infrared to increase nighttime visibility.</szBRDesc>
+		<szItemName>Doodles</szItemName>
+		<szLongItemName>Cheez Doodles</szLongItemName>
+		<szItemDesc>Nothing serves heart disease so deliciously like Cheez Doodles! With a stunning 110 calories in a 1 ounce serve you'll have obesity striking in days! Side effects may include allergic reactions, bad breath, body odor, constipation, osteoporosis, heartburn, acne, diarrhea, oh and death...maybe.</szItemDesc>
+		<szBRName>Cheez Doodles</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>128</nasAttachmentClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>654</ubGraphicNum>
-		<ubWeight>2</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>14</ItemSize>
-		<usPrice>1750</usPrice>
-		<ubCoolness>7</ubCoolness>
-		<bRepairEase>-2</bRepairEase>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>381</ubGraphicNum>
+		<ubWeight>5</ubWeight>
+		<ubPerPocket>2</ubPerPocket>
+		<ItemSize>13</ItemSize>
+		<usPrice>6</usPrice>
+		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>130</BestLaserRange>
-		<PercentReadyTimeAPReduction>-1</PercentReadyTimeAPReduction>
-		<CamoBonus>-12</CamoBonus>
-		<UrbanCamoBonus>-7</UrbanCamoBonus>
-		<DesertCamoBonus>-7</DesertCamoBonus>
-		<SnowCamoBonus>-7</SnowCamoBonus>
-		<StealthBonus>-7</StealthBonus>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<Batteries>1</Batteries>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<FoodType>11</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2914</uiIndex>
-		<szItemName>Aiming Module SDA</szItemName>
-		<szLongItemName>A. - Aiming Module SDA</szLongItemName>
-		<szItemDesc>A combination of the Burris Speeddot and the AR scope.</szItemDesc>
-		<szBRName>A. - Aiming Module SDA</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szItemName>Twinkie</szItemName>
+		<szLongItemName>Twinkie</szLongItemName>
+		<szItemDesc>Due to their high chemical composition, this American snack sponge cake is thought to have an infinite shelf life and can last unspoiled in storage for years, probably even past armageddon! Government subsidies make this junk food inexpensive, but the health bills that come with them are by no means a money-saver.</szItemDesc>
+		<szBRName>Twinkie</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>336</ubGraphicNum>
-		<ubWeight>8</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>20</ItemSize>
-		<usPrice>6000</usPrice>
-		<bRepairEase>-7</bRepairEase>
+		<ubGraphicNum>372</ubGraphicNum>
+		<ubWeight>3</ubWeight>
+		<ubPerPocket>3</ubPerPocket>
+		<ItemSize>13</ItemSize>
+		<usPrice>2</usPrice>
+		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<AimBonus>10</AimBonus>
-		<MinRangeForAimBonus>25</MinRangeForAimBonus>
-		<PercentAPReduction>25</PercentAPReduction>
-		<DamageBonus>1</DamageBonus>
-		<NightVisionRangeBonus>40</NightVisionRangeBonus>
-		<DayVisionRangeBonus>40</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<FoodType>12</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2915</uiIndex>
-		<szItemName>Aiming Module SAR</szItemName>
-		<szLongItemName>A. - Aiming Module SAR</szLongItemName>
-		<szItemDesc>A combination of the Burris Speeddot, the AR scope and a Reddot LAM.</szItemDesc>
-		<szBRName>A. - Aiming Module SAR</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szItemName>BBQ Sauce</szItemName>
+		<szLongItemName>Barbecue Sauce</szLongItemName>
+		<szItemDesc>Great horns Texas BBQ sauce with extra flavoring. Seasoned with cumin, chili peppers, bell peppers and ancho powder, lots of black pepper, fresh onion, only a touch of tomato, little  sugar,  meat drippings and smoke flavor. Where's the grill?</szItemDesc>
+		<szBRName>BBQ Sauce</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>337</ubGraphicNum>
-		<ubWeight>9</ubWeight>
+		<ubGraphicNum>375</ubGraphicNum>
+		<ubWeight>3</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>20</ItemSize>
-		<usPrice>6500</usPrice>
-		<bRepairEase>-8</bRepairEase>
+		<ItemSize>13</ItemSize>
+		<usPrice>2</usPrice>
+		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<ToHitBonus>18</ToHitBonus>
-		<BestLaserRange>110</BestLaserRange>
-		<AimBonus>10</AimBonus>
-		<MinRangeForAimBonus>25</MinRangeForAimBonus>
-		<PercentAPReduction>25</PercentAPReduction>
-		<DamageBonus>1</DamageBonus>
-		<CamoBonus>-11</CamoBonus>
-		<UrbanCamoBonus>-6</UrbanCamoBonus>
-		<DesertCamoBonus>-6</DesertCamoBonus>
-		<SnowCamoBonus>-6</SnowCamoBonus>
-		<StealthBonus>-6</StealthBonus>
-		<NightVisionRangeBonus>40</NightVisionRangeBonus>
-		<DayVisionRangeBonus>40</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<FoodType>18</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -78003,173 +78083,6 @@
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
-		<uiIndex>3059</uiIndex>
-		<szItemName>Tru Dot</szItemName>
-		<szLongItemName>Tru Dot Match Sights</szLongItemName>
-		<szItemDesc>Meprolight night sights feature a very distinguishable white outline around the tritium ampule for daylight conditions. In darkness the tritium ampule provides illumination. Meprolight Night Sights provide fast target aquisition in all lighting conditions. Front and rear are both red.</szItemDesc>
-		<szBRName>Tru Dot Match Sights</szBRName>
-		<szBRDesc>Meprolight night sights feature a very distinguishable white outline around the tritium ampule for daylight conditions. In darkness the tritium ampule provides illumination. Meprolight Night Sights provide fast target aquisition in all lighting conditions. Front and rear are both red.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<AttachmentClass>8</AttachmentClass>
-		<nasAttachmentClass>8</nasAttachmentClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>653</ubGraphicNum>
-		<ubWeight>1</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>10</ItemSize>
-		<usPrice>500</usPrice>
-		<ubCoolness>10</ubCoolness>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Attachment>1</Attachment>
-		<BR_NewInventory>1</BR_NewInventory>
-		<RangeBonus>20</RangeBonus>
-		<ToHitBonus>9</ToHitBonus>
-		<AimBonus>1</AimBonus>
-		<PercentBurstFireAPReduction>2</PercentBurstFireAPReduction>
-		<PercentReadyTimeAPReduction>2</PercentReadyTimeAPReduction>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<ScopeMagFactor>1.0</ScopeMagFactor>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS>
-			<AimLevels>-1</AimLevels>
-		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3060</uiIndex>
-		<szItemName>2x R.LAM</szItemName>
-		<szLongItemName>mod. Scope, 2x Reflex &amp; LAM</szLongItemName>
-		<szItemDesc>A useful combination of small scope, Reddot LAM and Reflex Sight. Great if you need to save attachment slots.</szItemDesc>
-		<szBRName>mod. Scope, 2x Reflex &amp; LAM</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>575</ubGraphicNum>
-		<ubWeight>4</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>14</ItemSize>
-		<usPrice>2800</usPrice>
-		<ubCoolness>5</ubCoolness>
-		<bRepairEase>-6</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<ToHitBonus>18</ToHitBonus>
-		<BestLaserRange>200</BestLaserRange>
-		<AimBonus>6</AimBonus>
-		<MinRangeForAimBonus>10</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
-		<PercentAPReduction>20</PercentAPReduction>
-		<CamoBonus>-10</CamoBonus>
-		<UrbanCamoBonus>-10</UrbanCamoBonus>
-		<DesertCamoBonus>-10</DesertCamoBonus>
-		<SnowCamoBonus>-10</SnowCamoBonus>
-		<StealthBonus>-10</StealthBonus>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>10</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3061</uiIndex>
-		<szItemName>LAM</szItemName>
-		<szLongItemName>Insight LAM-1000</szLongItemName>
-		<szItemDesc>Insight Technology Laser Aiming Module ILWLP/LAM-1000 with interface is an advanced single-module, multi-function Insight illuminator flashlight and Insight aiming device derived from the military standard Insight AN/PEQ-6 Infrared / Visible Illuminator Flashlight / Aiming Laser Sight.</szItemDesc>
-		<szBRName>Insight LAM-1000</szBRName>
-		<szBRDesc>Originally designed in response to the U.S. Navy S.E.A.L.'s Assault Pistol program, the Laser Aiming Module, (L.A.M.) pioneered new ground and set the standard for multi-laser/white light capability in a compact pistol mounted package. Today, Insight Tech-Gear's LAM-1000 is known to the U.S. Military as the ILWLP.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<AttachmentClass>4</AttachmentClass>
-		<nasAttachmentClass>4</nasAttachmentClass>
-		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>179</ubGraphicNum>
-		<ubWeight>2</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>14</ItemSize>
-		<usPrice>2000</usPrice>
-		<ubCoolness>9</ubCoolness>
-		<bRepairEase>-2</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>130</BestLaserRange>
-		<CamoBonus>-6</CamoBonus>
-		<UrbanCamoBonus>-6</UrbanCamoBonus>
-		<DesertCamoBonus>-6</DesertCamoBonus>
-		<SnowCamoBonus>-6</SnowCamoBonus>
-		<StealthBonus>-6</StealthBonus>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<ProjectionFactor>1.6</ProjectionFactor>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3062</uiIndex>
-		<szItemName>Magpulgrip</szItemName>
-		<szLongItemName>Magpul PTS Angled Fore-Grip</szLongItemName>
-		<szItemDesc>Compatible with most any 1913 Picatinny-railed hand guard, the Magpul AFG (Angled Fore-Grip) takes into account natural body mechanics and provides a comfortable and stable user interface that reduces fatigue and allows for more precise weapon control. can be attached to most SMGs and rifles to enhance burst and selective fire accuracy.</szItemDesc>
-		<szBRName>Magpul PTS Angled Fore-Grip</szBRName>
-		<szBRDesc>Unlike conventional vertical fore-grips, the AFG helps mitigate recoil and control the weapon to facilitate faster, more accurate follow-up shots.
-can be attached to most SMGs and rifles to enhance burst and selective fire accuracy.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<AttachmentClass>4096</AttachmentClass>
-		<nasAttachmentClass>512</nasAttachmentClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>655</ubGraphicNum>
-		<ubWeight>2</ubWeight>
-		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>18</ItemSize>
-		<usPrice>500</usPrice>
-		<ubCoolness>10</ubCoolness>
-		<bRepairEase>5</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<BR_NewInventory>3</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<ToHitBonus>1</ToHitBonus>
-		<AimBonus>5</AimBonus>
-		<BurstToHitBonus>10</BurstToHitBonus>
-		<AutoFireToHitBonus>10</AutoFireToHitBonus>
-		<PercentAutofireAPReduction>5</PercentAutofireAPReduction>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS>
-			<PercentHandling>-10</PercentHandling>
-			<PercentMaxCounterForce>70</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS>
-			<PercentHandling>0</PercentHandling>
-			<PercentMaxCounterForce>0</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
-		</PRONE_MODIFIERS>
-	</ITEM>
-	<ITEM>
 		<uiIndex>3063</uiIndex>
 		<szItemName>Nada</szItemName>
 		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
@@ -78181,340 +78094,11 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
-		<uiIndex>3064</uiIndex>
-		<szItemName>FLEX LAM</szItemName>
-		<szLongItemName>FLEX E-LAP Laser Aiming Pointer</szLongItemName>
-		<szItemDesc>With the flick of a switch turn your laser unit into a CQB illuminator, taking advantage of the very bright LED unit built in. Included on top of the laser is a 20mm RIS rail, for mounting even more on your gun! Double lasers... mmmmm...The looks? - they just speak for themselves - wipe the dribble from your chin lads!</szItemDesc>
-		<szBRName>FLEX E-LAP Laser Aiming Pointer</szBRName>
-		<szBRDesc>They don't come better than this truffle in the selection of sweet sticky delights. This is a 'big mans laser! This feels both solid and robust, sporting impressive throw-lever QD release, this will make any 20mm RIS rail look incredibly sexy.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<AttachmentClass>4</AttachmentClass>
-		<nasAttachmentClass>4</nasAttachmentClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>657</ubGraphicNum>
-		<ubWeight>5</ubWeight>
-		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>18</ItemSize>
-		<usPrice>3300</usPrice>
-		<ubCoolness>7</ubCoolness>
-		<bRepairEase>-5</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<ToHitBonus>25</ToHitBonus>
-		<BestLaserRange>300</BestLaserRange>
-		<CamoBonus>-15</CamoBonus>
-		<UrbanCamoBonus>-15</UrbanCamoBonus>
-		<DesertCamoBonus>-15</DesertCamoBonus>
-		<SnowCamoBonus>-15</SnowCamoBonus>
-		<StealthBonus>-15</StealthBonus>
-		<NeedsBatteries>1</NeedsBatteries>
-		<ProjectionFactor>3.0</ProjectionFactor>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3065</uiIndex>
-		<szItemName>TBTL</szItemName>
-		<szLongItemName>Twin Beam Target Laser</szLongItemName>
-		<szItemDesc>I.L.E.E. Also offer another twin beam target laser. This design enables users to switch rapidly between two different light sources. Standard light sources available for this design include red (635 nm, 0.5 - 5 mW) and infrared (830 - 850 nm, 0.5 - 3.5 W) beams and an infrared (830 - 850 nm, 0.5 to 30 mW) illuminator, but other options are available if required.</szItemDesc>
-		<szBRName>Twin Beam Target Laser</szBRName>
-		<szBRDesc>I.L.E.E. Also offer another twin beam target laser. This design enables users to switch rapidly between two different light sources. Standard light sources available for this design include red (635 nm, 0.5 - 5 mW) and infrared (830 - 850 nm, 0.5 - 3.5 W) beams and an infrared (830 - 850 nm, 0.5 to 30 mW) illuminator, but other options are available if required.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<AttachmentClass>4</AttachmentClass>
-		<nasAttachmentClass>4</nasAttachmentClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>658</ubGraphicNum>
-		<ubWeight>5</ubWeight>
-		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>18</ItemSize>
-		<usPrice>2200</usPrice>
-		<ubCoolness>10</ubCoolness>
-		<bRepairEase>-3</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<ToHitBonus>21</ToHitBonus>
-		<BestLaserRange>250</BestLaserRange>
-		<AimBonus>1</AimBonus>
-		<PercentBurstFireAPReduction>2</PercentBurstFireAPReduction>
-		<PercentAutofireAPReduction>2</PercentAutofireAPReduction>
-		<PercentReadyTimeAPReduction>1</PercentReadyTimeAPReduction>
-		<CamoBonus>-12</CamoBonus>
-		<UrbanCamoBonus>-12</UrbanCamoBonus>
-		<DesertCamoBonus>-12</DesertCamoBonus>
-		<SnowCamoBonus>-12</SnowCamoBonus>
-		<StealthBonus>-12</StealthBonus>
-		<NightVisionRangeBonus>5</NightVisionRangeBonus>
-		<NeedsBatteries>1</NeedsBatteries>
-		<ProjectionFactor>3.0</ProjectionFactor>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
 		<uiIndex>3066</uiIndex>
 		<szItemName>Nada</szItemName>
 		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
 		<szItemDesc>Index 3066</szItemDesc>
 		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3067</uiIndex>
-		<szItemName>TAM-14</szItemName>
-		<szLongItemName>TAM-14 Thermal Acquisition Monocular</szLongItemName>
-		<szItemDesc>Nivisys currently features the TAM-14 Thermal Acquisition Monocular system designed to meet the needs of the individual user for ground based night operations. The system has set the pace for future hand held thermal devices that are head or helmet mountable as well as weapon mountable.</szItemDesc>
-		<szBRName>TAM-14</szBRName>
-		<szBRDesc>The system was designed to maximize versatility by quickly adapting to weapons, head gear, helmets, video output and more. Incorporating in-service head and helmet mounts designed for the AN/PVS-7 and AN/PVS-14, the TAM-14 is compact, lightweight and intuitive to operate.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<AttachmentClass>12</AttachmentClass>
-		<nasAttachmentClass>8</nasAttachmentClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>660</ubGraphicNum>
-		<ubWeight>5</ubWeight>
-		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>16</ItemSize>
-		<usPrice>8000</usPrice>
-		<ubCoolness>9</ubCoolness>
-		<bRepairEase>-8</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<VisionRangeBonus>0</VisionRangeBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>-40</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>-60</BrightLightVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<PercentTunnelVision>60</PercentTunnelVision>
-		<ThermalOptics>1</ThermalOptics>
-		<NeedsBatteries>1</NeedsBatteries>
-		<ScopeMagFactor>1.0</ScopeMagFactor>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS>
-		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3068</uiIndex>
-		<szItemName>Shock Stock</szItemName>
-		<szLongItemName>Mako Shock Stock</szLongItemName>
-		<szItemDesc>Unique patented тАЬAnti-RattleтАЭ Mechanism with sleek new design with No protruding parts, It will not get caught on gear and webbing. Its unique new slick and quick operated inversed positioning lever Integral and ribbed rubber butt pad with a non slip design Is sure going to be a tactical helper.</szItemDesc>
-		<szBRName>Mako Shock Stock</szBRName>
-		<szBRDesc>The revolutionary patented 'GL-Shock' absorbing Buttstock contains a recoil-reducing mechanism with a built in premium silicon chrome alloy spring creating a State-of-the-Art stock</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<AttachmentClass>32</AttachmentClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>661</ubGraphicNum>
-		<ubWeight>4</ubWeight>
-		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>22</ItemSize>
-		<usPrice>800</usPrice>
-		<ubCoolness>10</ubCoolness>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<BR_NewInventory>3</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<ToHitBonus>5</ToHitBonus>
-		<BurstToHitBonus>10</BurstToHitBonus>
-		<AutoFireToHitBonus>10</AutoFireToHitBonus>
-		<PercentBurstFireAPReduction>5</PercentBurstFireAPReduction>
-		<PercentAutofireAPReduction>5</PercentAutofireAPReduction>
-		<PercentReadyTimeAPReduction>-2</PercentReadyTimeAPReduction>
-		<PercentAPReduction>5</PercentAPReduction>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS>
-			<PercentMaxCounterForce>-40</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
-			<AimLevels>1</AimLevels>
-		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3069</uiIndex>
-		<szItemName>Muscle Mag</szItemName>
-		<szLongItemName>Muscle&amp;Fitness</szLongItemName>
-		<szItemDesc>September 1990 Muscle and Fitness provides readers with oversized tips on how to live a healthy life by eating like a dinosaur, doing the right exercises and maintaining a great attitude about it all. And steroids!</szItemDesc>
-		<szBRName>Muscle&amp;Fitness</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>585</ubGraphicNum>
-		<ubWeight>1</ubWeight>
-		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>20</ItemSize>
-		<usPrice>28</usPrice>
-		<ubCoolness>3</ubCoolness>
-		<Damageable>1</Damageable>
-		<WaterDamages>1</WaterDamages>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3070</uiIndex>
-		<szItemName>Porn</szItemName>
-		<szLongItemName>Guns&amp;Girls Nr.21</szLongItemName>
-		<szItemDesc>40 pages of pure action that specializes in portraying female tactical operators from an ultra-sexy perspective.</szItemDesc>
-		<szBRName>Porno Magazine</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>584</ubGraphicNum>
-		<ubWeight>1</ubWeight>
-		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>20</ItemSize>
-		<usPrice>28</usPrice>
-		<ubCoolness>3</ubCoolness>
-		<Damageable>1</Damageable>
-		<WaterDamages>1</WaterDamages>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3071</uiIndex>
-		<szItemName>TriRail</szItemName>
-		<szLongItemName>Tiberius Arms Tri-Rail</szLongItemName>
-		<szItemDesc>The Tiberius Arms Tri-Rail Riser is a unique scope mounting system that maximizes usable space. This mount is perfect for converting your rifle, shotgun or carbine to tactical configuration. Easy to install in just a few minutes with no gunsmithing required.</szItemDesc>
-		<szBRName>Tiberius Arms Tri-Rail</szBRName>
-		<szBRDesc>The Tiberius Arms Tri-Rail Riser is a unique scope mounting system that maximizes usable space. This mount is perfect for converting your rifle, shotgun or carbine to tactical configuration. Easy to install in just a few minutes with no gunsmithing required.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>632</ubGraphicNum>
-		<BR_NewInventory>5</BR_NewInventory>
-		<BR_UsedInventory>5</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3072</uiIndex>
-		<szItemName>553 Holo sight</szItemName>
-		<szLongItemName>Eotech 553 A65 Holographic Sight</szLongItemName>
-		<szItemDesc>The Eotech 553 A65 Holographic Weapon Sight was developed after extensive testing of various optical sights, and US Special Operations Command has standardized on the Eotech Holographic Weapon Sight as its 1X weapon optic for close quarter and urban combat zones.</szItemDesc>
-		<szBRName>Eotech 553 A65 Holographic Sight</szBRName>
-		<szBRDesc>EOTech 553 A65 Holographic Weapon Sights is its holographic reticle patterns that are instantly visible in any light condition, instinctive to center regardless of shooting angle and always remain in view to achieve lightning quick reticle to target acquisition without covering or obscuring the point of aim.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>64</nasAttachmentClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>662</ubGraphicNum>
-		<ubWeight>6</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>10</ItemSize>
-		<usPrice>1950</usPrice>
-		<ubCoolness>10</ubCoolness>
-		<bRepairEase>-3</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<BR_NewInventory>2</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<ToHitBonus>3</ToHitBonus>
-		<PercentAPReduction>8</PercentAPReduction>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3073</uiIndex>
-		<szItemName>Holo sight</szItemName>
-		<szLongItemName>Holographic Sight XPS2</szLongItemName>
-		<szItemDesc>The XPS2 is the shortest, smallest and lightest EOTech model holographic weapon sight available without night vision. Its size and weight make it convenient for hunters and law enforcement officers to carry.</szItemDesc>
-		<szBRName>Holographic Sight XPS2</szBRName>
-		<szBRDesc>The XPS2 is the shortest, smallest and lightest EOTech model holographic weapon sight available.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>64</nasAttachmentClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>663</ubGraphicNum>
-		<ubWeight>4</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>10</ItemSize>
-		<usPrice>1240</usPrice>
-		<ubCoolness>6</ubCoolness>
-		<bRepairEase>-5</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<BR_NewInventory>2</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<ToHitBonus>1</ToHitBonus>
-		<PercentAPReduction>15</PercentAPReduction>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3074</uiIndex>
-		<szItemName>SM RS</szItemName>
-		<szLongItemName>Sightmark reflex sight</szLongItemName>
-		<szItemDesc>Incredibly lightweight for its size, the Ultra Shot is the biggest and baddest sight in the Sightmark reflex sight line. Perfect for shotguns or rifles, the Ultra Shot Reflex Sight is equipped with a built-in, integrated weaver mount, which fits all standard picatinny or weaver bases.</szItemDesc>
-		<szBRName>Sightmark reflex sight</szBRName>
-		<szBRDesc>Incredibly lightweight for its size, the Ultra Shot is the biggest and baddest sight in the Sightmark reflex sight line. Perfect for shotguns or rifles, the Ultra Shot Reflex Sight is equipped with a built-in, integrated weaver mount, which fits all standard picatinny or weaver bases.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>64</nasAttachmentClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>664</ubGraphicNum>
-		<ubWeight>5</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>10</ItemSize>
-		<usPrice>890</usPrice>
-		<ubCoolness>7</ubCoolness>
-		<bRepairEase>-4</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<BR_NewInventory>2</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<ToHitBonus>2</ToHitBonus>
-		<PercentAPReduction>18</PercentAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -78598,399 +78182,12 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
-		<uiIndex>3082</uiIndex>
-		<szItemName>Bazoombas</szItemName>
-		<szLongItemName>Bazoombas magazine</szLongItemName>
-		<szItemDesc>Busty Bazoombas Magazine is an adult magazine that includes explicit boobantic blouse bunnies. Each monthly issue is packed with humongous yabos! Special article with Centerfolder of the year Candy's 34-FF Snowcones and more boobalicious babes!</szItemDesc>
-		<szBRName>Porno Magazine</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>582</ubGraphicNum>
-		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>20</ItemSize>
-		<usPrice>25</usPrice>
-		<ubCoolness>10</ubCoolness>
-		<Damageable>1</Damageable>
-		<WaterDamages>1</WaterDamages>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3083</uiIndex>
-		<szItemName>Buns mag</szItemName>
-		<szLongItemName>Buns magazine</szLongItemName>
-		<szItemDesc>Vol.6 No.4 June issue Buns adult magazine!</szItemDesc>
-		<szBRName>Buns magazine</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>583</ubGraphicNum>
-		<ubWeight>1</ubWeight>
-		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>20</ItemSize>
-		<usPrice>18</usPrice>
-		<ubCoolness>3</ubCoolness>
-		<Damageable>1</Damageable>
-		<WaterDamages>1</WaterDamages>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3084</uiIndex>
-		<szItemName>Guns&amp;Girls</szItemName>
-		<szLongItemName>Guns&amp;Girls Nr.41</szLongItemName>
-		<szItemDesc>тАЬGuns&amp;Girls" magazine, got 40 pages of hot girls with some of the worldтАЩs most exotic weaponry in unrealistic tactical settings.</szItemDesc>
-		<szBRName>Guns&amp;Girls</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>406</ubGraphicNum>
-		<ubWeight>1</ubWeight>
-		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>20</ItemSize>
-		<usPrice>40</usPrice>
-		<ubCoolness>10</ubCoolness>
-		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3085</uiIndex>
-		<szItemName>Commando</szItemName>
-		<szLongItemName>Commando</szLongItemName>
-		<szItemDesc>A retired elite Black Ops Commando launches a one man war against a group of South American criminals who have kidnapped his daughter to blackmail him into starting a revolution and getting an exiled dictator back into power.</szItemDesc>
-		<szBRName>Commando</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>408</ubGraphicNum>
-		<ubWeight>2</ubWeight>
-		<ubPerPocket>8</ubPerPocket>
-		<ItemSize>21</ItemSize>
-		<usPrice>25</usPrice>
-		<ubCoolness>10</ubCoolness>
-		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3086</uiIndex>
-		<szItemName>Documentary</szItemName>
-		<szLongItemName>What in the World Are They Spraying?</szLongItemName>
-		<szItemDesc>This movie will unfold the truth about the Chemtrail/Geo-Engineering coverup. Rapidly developing industry driven by scientists, corporations, and governments intent on changing global climate, controlling the weather, and altering the chemical composition of soil and water - all supposedly for the betterment of mankind.</szItemDesc>
-		<szBRName>Documentary</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>407</ubGraphicNum>
-		<ubWeight>2</ubWeight>
-		<ubPerPocket>8</ubPerPocket>
-		<ItemSize>21</ItemSize>
-		<usPrice>32</usPrice>
-		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3087</uiIndex>
-		<szItemName>Judge Dredd</szItemName>
-		<szLongItemName>Judge Dredd</szLongItemName>
-		<szItemDesc>Stallone powers this non-stop action hit that's loaded with amazing speacial effects! In a time when all-powerful and coldly efficent "Judges" act with the supreme authority of both the police force and legal system, Judge Dredd (Stallone) is the most feared law enforcer of them all.</szItemDesc>
-		<szBRName>Judge Dredd</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>409</ubGraphicNum>
-		<ubWeight>2</ubWeight>
-		<ubPerPocket>8</ubPerPocket>
-		<ItemSize>21</ItemSize>
-		<usPrice>23</usPrice>
-		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3088</uiIndex>
-		<szItemName>Terminator</szItemName>
-		<szLongItemName>The Terminator</szLongItemName>
-		<szItemDesc>In the year of darkness, 2029, the rulers of this planet devised the ultimate plan. They would reshape the future by changing the past. The plan required something that felt no pity. No pain. No fear. Something unstoppable.</szItemDesc>
-		<szBRName>The Terminator</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>410</ubGraphicNum>
-		<ubWeight>2</ubWeight>
-		<ubPerPocket>8</ubPerPocket>
-		<ItemSize>21</ItemSize>
-		<usPrice>18</usPrice>
-		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3089</uiIndex>
-		<szItemName>They Live</szItemName>
-		<szLongItemName>They Live</szLongItemName>
-		<szItemDesc>This movie follows a nameless drifter referred to as "Nada", who discovers the ruling class are in fact aliens concealing their appearance and manipulating people to spend money, breed and accept the status quo with subliminal messages in mass media.</szItemDesc>
-		<szBRName>They Live</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>411</ubGraphicNum>
-		<ubWeight>2</ubWeight>
-		<ubPerPocket>8</ubPerPocket>
-		<ItemSize>21</ItemSize>
-		<usPrice>21</usPrice>
-		<ubCoolness>10</ubCoolness>
-		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
 		<uiIndex>3090</uiIndex>
 		<szItemName>Nada</szItemName>
 		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
 		<szItemDesc>Index 3090</szItemDesc>
 		<usItemClass>1</usItemClass>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3091</uiIndex>
-		<szItemName>FF Laser</szItemName>
-		<szLongItemName>Firefield Laser</szLongItemName>
-		<szItemDesc>You only need one clean shot to engage your enemy. Make it count. The Firefield Compact Laser is a dynamic, powerful unit built to do the job. This highly versatile unit is equipped with a weaver rail and easily affixes to a wide variety of, it fits onto the trigger guard of most sub-machine guns and pistols.</szItemDesc>
-		<szBRName>Firefield Laser</szBRName>
-		<szBRDesc>Complete with a tactical pressure pad, the Green Compact laser is user friendly with an on/off tilt switch that can be activated with a flick of the userтАЩs finger. Ideal for use in home defense, the powerfully bright green laser can pacify targets and alleviate threats quickly!</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<AttachmentClass>4</AttachmentClass>
-		<nasAttachmentClass>4</nasAttachmentClass>
-		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>51</ubGraphicNum>
-		<ubWeight>1</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>12</ItemSize>
-		<usPrice>1500</usPrice>
-		<ubCoolness>7</ubCoolness>
-		<bRepairEase>-1</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Attachment>1</Attachment>
-		<Electronic>1</Electronic>
-		<BR_NewInventory>2</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>100</BestLaserRange>
-		<CamoBonus>-5</CamoBonus>
-		<UrbanCamoBonus>-5</UrbanCamoBonus>
-		<DesertCamoBonus>-5</DesertCamoBonus>
-		<SnowCamoBonus>-5</SnowCamoBonus>
-		<StealthBonus>-5</StealthBonus>
-		<ProjectionFactor>1.3</ProjectionFactor>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3092</uiIndex>
-		<szItemName>AN/PEQ-15</szItemName>
-		<szLongItemName>AN/PEQ-15 DBALA2</szLongItemName>
-		<szItemDesc>The AN/PEQ-15 and AN/PEQ-15A IR lasers are class IIIB, while the visible-aiming lasers are class IIIA. The IR lasers emit a highly collimated beam of IR light for precise weapon aiming, as well as a separate, IR-illuminating laser with adjustable focus.</szItemDesc>
-		<szBRName>AN/PEQ-15 DBALA2</szBRName>
-		<szBRDesc>The AN/PEQ-15 Advanced Target Pointer/Illuminator/Aiming Light and the AN/PEQ-15A Dual Beam Aiming Laser Advanced (DBALA2) are laser-aiming devices designed to be used in conjunction with night vision devices to engage enemy targets at night.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>128</nasAttachmentClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>659</ubGraphicNum>
-		<ubWeight>4</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>18</ItemSize>
-		<usPrice>2200</usPrice>
-		<ubCoolness>8</ubCoolness>
-		<bRepairEase>-5</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<BR_NewInventory>1</BR_NewInventory>
-		<ToHitBonus>20</ToHitBonus>
-		<BestLaserRange>200</BestLaserRange>
-		<PercentAutofireAPReduction>2</PercentAutofireAPReduction>
-		<PercentReadyTimeAPReduction>-2</PercentReadyTimeAPReduction>
-		<CamoBonus>-10</CamoBonus>
-		<UrbanCamoBonus>-10</UrbanCamoBonus>
-		<DesertCamoBonus>-10</DesertCamoBonus>
-		<SnowCamoBonus>-10</SnowCamoBonus>
-		<StealthBonus>-10</StealthBonus>
-		<NightVisionRangeBonus>2</NightVisionRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3093</uiIndex>
-		<szItemName>CRL Laser Sight</szItemName>
-		<szLongItemName>Sightmark CRL Triple duty Laser</szLongItemName>
-		<szItemDesc>An affordable tactical laser sight inspired by military and law-enforcement applications. The low profile and compact size make it ideal for rapid-fire shooting or home defense. Durable, yet lightweight composite plastic body. Adjustable windage and elevation. 300-yard visibility at night, 20 yards in sunlight.</szItemDesc>
-		<szBRName>Sightmark CRL Triple duty Laser</szBRName>
-		<szBRDesc>An affordable tactical laser sight inspired by military and law-enforcement applications. The low profile and compact size make it ideal for rapid-fire shooting or home defense. Durable, yet lightweight composite plastic body. Adjustable windage and elevation. 300-yard visibility at night, 20 yards in sunlight.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<AttachmentClass>4</AttachmentClass>
-		<nasAttachmentClass>4</nasAttachmentClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>656</ubGraphicNum>
-		<ubWeight>1</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>12</ItemSize>
-		<usPrice>1800</usPrice>
-		<ubCoolness>7</ubCoolness>
-		<bRepairEase>-1</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Attachment>1</Attachment>
-		<Electronic>1</Electronic>
-		<BR_NewInventory>2</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<ToHitBonus>22</ToHitBonus>
-		<BestLaserRange>150</BestLaserRange>
-		<CamoBonus>-7</CamoBonus>
-		<UrbanCamoBonus>-7</UrbanCamoBonus>
-		<DesertCamoBonus>-7</DesertCamoBonus>
-		<SnowCamoBonus>-7</SnowCamoBonus>
-		<StealthBonus>-7</StealthBonus>
-		<ProjectionFactor>1.3</ProjectionFactor>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3094</uiIndex>
-		<szItemName>Agenda 21</szItemName>
-		<szLongItemName>Agenda 21</szLongItemName>
-		<szItemDesc>Think Globally, Enslave Locally. This document was birthed at the 1992 UN Conference on Environment and Development.</szItemDesc>
-		<szBRName>Agenda 21</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>414</ubGraphicNum>
-		<ubWeight>26</ubWeight>
-		<ItemSize>24</ItemSize>
-		<usPrice>200</usPrice>
-		<Damageable>1</Damageable>
-		<WaterDamages>1</WaterDamages>
-		<Sinks>1</Sinks>
-		<SciFi>1</SciFi>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3095</uiIndex>
-		<szItemName>Document</szItemName>
-		<szLongItemName>H.A.A.R.P Document</szLongItemName>
-		<szItemDesc>This 500 page document covering the high frequency active auroral research program and its capabilites. The document is divided into sections as Weather modification, Earthquakes, Ionospheric enhancement and lastly Modulated heating of the auroral electrojet.</szItemDesc>
-		<szBRName>H.A.A.R.P Document</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>415</ubGraphicNum>
-		<ubWeight>24</ubWeight>
-		<ItemSize>24</ItemSize>
-		<usPrice>900</usPrice>
-		<Damageable>1</Damageable>
-		<WaterDamages>1</WaterDamages>
-		<Sinks>1</Sinks>
-		<NotBuyable>1</NotBuyable>
-		<SciFi>1</SciFi>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3096</uiIndex>
-		<szItemName>MKUltra</szItemName>
-		<szLongItemName>Project MKUltra</szLongItemName>
-		<szItemDesc>This how-to guide on mind control by the CIA is a great read. Million dollar studies have honed methods to redirect focus, alter mood, behavior and manipulate personality. It's proven results have helped agencies control the herd since the '50s.</szItemDesc>
-		<szBRName>CIA's Book on Project MK-ultra</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>416</ubGraphicNum>
-		<ubWeight>10</ubWeight>
-		<ItemSize>22</ItemSize>
-		<usPrice>1313</usPrice>
-		<Damageable>1</Damageable>
-		<WaterDamages>1</WaterDamages>
-		<Sinks>1</Sinks>
-		<SciFi>1</SciFi>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3097</uiIndex>
-		<szItemName>Norse S. Sword</szItemName>
-		<szLongItemName>Norse Short Sword</szLongItemName>
-		<szItemDesc>"A cleaved head no longer plots." The Viking swords was made from remarkably high-quality steel, and this old sword seems to have many more decades of good battles to go. This also bears the inscription "+VLFBERH+T"</szItemDesc>
-		<szBRName>Norse Short Sword</szBRName>
-		<szBRDesc>NOT FOR SALE.</szBRDesc>
-		<usItemClass>4</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>3097</ubClassIndex>
-		<ubCursor>4</ubCursor>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>417</ubGraphicNum>
-		<ubWeight>13</ubWeight>
-		<ItemSize>6</ItemSize>
-		<usPrice>50</usPrice>
-		<ubCoolness>3</ubCoolness>
-		<bRepairEase>3</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<SciFi>1</SciFi>
-		<BR_ROF>22</BR_ROF>
-		<StealthBonus>2</StealthBonus>
-		<VisionRangeBonus>1</VisionRangeBonus>
-		<NightVisionRangeBonus>2</NightVisionRangeBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<PoisonPercentage>2</PoisonPercentage>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -79007,156 +78204,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
-		<uiIndex>3099</uiIndex>
-		<szItemName>Norse helm</szItemName>
-		<szLongItemName>Norse helm</szLongItemName>
-		<szItemDesc>Among medieval warriors, few are as well-noted as the Vikings. So infamous as to have an age named after them, the Vikings left a legacy on the face of Europe and on the world, which is remembered to this day as that of a vicious warrior and a skilled explorer.</szItemDesc>
-		<szBRName>Norse helm</szBRName>
-		<szBRDesc>NOT FOR SALE</szBRDesc>
-		<usItemClass>2048</usItemClass>
-		<ubClassIndex>226</ubClassIndex>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>418</ubGraphicNum>
-		<ubWeight>24</ubWeight>
-		<ItemSize>22</ItemSize>
-		<usPrice>15256</usPrice>
-		<ubCoolness>10</ubCoolness>
-		<bRepairEase>3</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<NotBuyable>1</NotBuyable>
-		<SciFi>1</SciFi>
-		<NotInEditor>1</NotInEditor>
-		<APBonus>2</APBonus>
-		<PercentAPReduction>2</PercentAPReduction>
-		<StealthBonus>2</StealthBonus>
-		<VisionRangeBonus>1</VisionRangeBonus>
-		<NightVisionRangeBonus>1</NightVisionRangeBonus>
-		<DayVisionRangeBonus>2</DayVisionRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3100</uiIndex>
-		<szItemName>Flu Vaccine</szItemName>
-		<szLongItemName>Influenza vaccine</szLongItemName>
-		<szItemDesc>Do like the rest get your shot today! No questions asked! This safe never tested before vaccine will help you through this year without dying. Top additives are: Mercury, MSG, formaldehyde and aluminum. May cause mutations in genetic information and migranes. But don't worry, Gardasil got you.</szItemDesc>
-		<szBRName>Influenza vaccine</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>666</ubGraphicNum>
-		<ubWeight>1</ubWeight>
-		<ubPerPocket>8</ubPerPocket>
-		<ItemSize>12</ItemSize>
-		<usPrice>50</usPrice>
-		<Damageable>1</Damageable>
-		<Unaerodynamic>1</Unaerodynamic>
-		<Medical>1</Medical>
-		<DrugType>471166473</DrugType>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3101</uiIndex>
-		<szItemName>Sun Goggles</szItemName>
-		<szLongItemName>Sun Goggles</szLongItemName>
-		<szItemDesc>These paramilitary eye protectors have triple-lenses: an anti-fog interior acetate lens, a tinted middle lens for reduced glare, and a scratch and shatter resistant exterior lens.</szItemDesc>
-		<szBRName>Sun Goggles</szBRName>
-		<szBRDesc>These paramilitary eye goggles feature triple-protection lenses: an interior anti-fog acetate lens, a tinted middle lens for reduced glare, and a scratch and shatter resistant exterior lens. And as an added bonus, they can be worn comfortably over prescription glasses.</szBRDesc>
-		<usItemClass>32768</usItemClass>
-		<nasAttachmentClass>1</nasAttachmentClass>
-		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>55</ubGraphicNum>
-		<ubWeight>2</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>17</ItemSize>
-		<usPrice>200</usPrice>
-		<ubCoolness>2</ubCoolness>
-		<bRepairEase>3</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Attachment>1</Attachment>
-		<SciFi>1</SciFi>
-		<BR_NewInventory>5</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<NightVisionRangeBonus>-10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>10</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>-20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3102</uiIndex>
-		<szItemName>Poly Pants</szItemName>
-		<szLongItemName>MilEx Polyurethane Leggings</szLongItemName>
-		<szItemDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. It features a skeletonized fit, an integrated web platform, a one-handed quick-release/escape system, and elastic tensional bands for stability during periods of high activity.</szItemDesc>
-		<szBRName>MilEx Polyurethane Leggings</szBRName>
-		<szBRDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. It features a skeletonized fit, an integrated web platform, a one-handed quick-release/escape system, and elastic tensional bands for stability during periods of high activity.</szBRDesc>
-		<usItemClass>2048</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>227</ubClassIndex>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>618</ubGraphicNum>
-		<ubWeight>42</ubWeight>
-		<ItemSize>25</ItemSize>
-		<usPrice>3100</usPrice>
-		<ubCoolness>10</ubCoolness>
-		<bReliability>1</bReliability>
-		<bRepairEase>-4</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<BR_NewInventory>2</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<APBonus>-7</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3103</uiIndex>
-		<szItemName>Poly-18 Pants</szItemName>
-		<szLongItemName>Spec-18 MilEx Polyurethane Leggings</szLongItemName>
-		<szItemDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. Has been improved with even more Polyurethane by Compound-18. This is madness!</szItemDesc>
-		<szBRName>Spec-18 MilEx Polyurethane Leggings</szBRName>
-		<szBRDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. Has been improved with even more Polyurethane by Compound-18. This is madness!</szBRDesc>
-		<usItemClass>2048</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>228</ubClassIndex>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>619</ubGraphicNum>
-		<ubWeight>43</ubWeight>
-		<ItemSize>25</ItemSize>
-		<usPrice>3500</usPrice>
-		<ubCoolness>10</ubCoolness>
-		<bReliability>1</bReliability>
-		<bRepairEase>-4</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<NotBuyable>1</NotBuyable>
-		<APBonus>-9</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
 		<uiIndex>3104</uiIndex>
 		<szItemName>Nada</szItemName>
 		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
@@ -79166,510 +78213,5 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3105</uiIndex>
-		<szItemName>Poly-18 Vest</szItemName>
-		<szLongItemName>Spec-18 MilEx Polyurethane Vest</szLongItemName>
-		<szItemDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. Has been improved with even more Polyurethane by Compound-18. This is madness!</szItemDesc>
-		<szBRName>Treated MilEx Polyurethane Vest</szBRName>
-		<szBRDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. Has been improved with even more Polyurethane by Compound-18. This is madness!</szBRDesc>
-		<usItemClass>2048</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>229</ubClassIndex>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>616</ubGraphicNum>
-		<ubWeight>35</ubWeight>
-		<ItemSize>25</ItemSize>
-		<usPrice>4300</usPrice>
-		<ubCoolness>10</ubCoolness>
-		<bReliability>1</bReliability>
-		<bRepairEase>-4</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<NotBuyable>1</NotBuyable>
-		<AimBonus>-4</AimBonus>
-		<APBonus>-5</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS>
-			<PercentBase>-20</PercentBase>
-			<PercentCap>-8</PercentCap>
-			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS>
-			<PercentBase>-40</PercentBase>
-			<PercentCap>-16</PercentCap>
-			<PercentCounterForceAccuracy>-40</PercentCounterForceAccuracy>
-		</CROUCH_MODIFIERS>
-		<PRONE_MODIFIERS>
-			<PercentBase>-26</PercentBase>
-			<PercentCap>-10</PercentCap>
-			<PercentCounterForceAccuracy>-26</PercentCounterForceAccuracy>
-		</PRONE_MODIFIERS>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3106</uiIndex>
-		<szItemName>Poly Vest</szItemName>
-		<szLongItemName>MilEx Polyurethane Vest</szLongItemName>
-		<szItemDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. It features a skeletonized fit, an integrated web platform, a one-handed quick-release/escape system, and elastic tensional bands for stability during periods of high activity.</szItemDesc>
-		<szBRName>MilEx Polyurethane Vest</szBRName>
-		<szBRDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. It features a skeletonized fit, an integrated web platform, a one-handed quick-release/escape system, and elastic tensional bands for stability during periods of high activity.</szBRDesc>
-		<usItemClass>2048</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>230</ubClassIndex>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>615</ubGraphicNum>
-		<ubWeight>34</ubWeight>
-		<ItemSize>25</ItemSize>
-		<usPrice>4000</usPrice>
-		<ubCoolness>10</ubCoolness>
-		<bReliability>1</bReliability>
-		<bRepairEase>-4</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<BR_NewInventory>2</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>-4</AimBonus>
-		<APBonus>-4</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS>
-			<PercentBase>-20</PercentBase>
-			<PercentCap>-8</PercentCap>
-			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS>
-			<PercentBase>-40</PercentBase>
-			<PercentCap>-16</PercentCap>
-			<PercentCounterForceAccuracy>-40</PercentCounterForceAccuracy>
-		</CROUCH_MODIFIERS>
-		<PRONE_MODIFIERS>
-			<PercentBase>-26</PercentBase>
-			<PercentCap>-10</PercentCap>
-			<PercentCounterForceAccuracy>-26</PercentCounterForceAccuracy>
-		</PRONE_MODIFIERS>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3107</uiIndex>
-		<szItemName>C.Poly Vest</szItemName>
-		<szLongItemName>Coated MilEx Polyurethane Vest</szLongItemName>
-		<szItemDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. Coated in queen Crepitus jelly for exceptional protection.</szItemDesc>
-		<szBRName>Coated MilEx Polyurethane Vest</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>2048</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>231</ubClassIndex>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>617</ubGraphicNum>
-		<ubWeight>36</ubWeight>
-		<ItemSize>25</ItemSize>
-		<usPrice>4800</usPrice>
-		<ubCoolness>10</ubCoolness>
-		<bReliability>1</bReliability>
-		<bRepairEase>-4</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<NotBuyable>1</NotBuyable>
-		<AimBonus>-3</AimBonus>
-		<APBonus>-5</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS>
-			<PercentBase>-15</PercentBase>
-			<PercentCap>-6</PercentCap>
-			<PercentCounterForceAccuracy>-15</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS>
-			<PercentBase>-30</PercentBase>
-			<PercentCap>-12</PercentCap>
-			<PercentCounterForceAccuracy>-30</PercentCounterForceAccuracy>
-		</CROUCH_MODIFIERS>
-		<PRONE_MODIFIERS>
-			<PercentBase>-20</PercentBase>
-			<PercentCap>-8</PercentCap>
-			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
-		</PRONE_MODIFIERS>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3108</uiIndex>
-		<szItemName>C.Poly Pants</szItemName>
-		<szLongItemName>Coated MilEx Polyurethane Leggings</szLongItemName>
-		<szItemDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. Coated in queen Crepitus jelly for exceptional protection.</szItemDesc>
-		<szBRName>Coated MilEx Polyurethane Leggings</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>2048</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>232</ubClassIndex>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>620</ubGraphicNum>
-		<ubWeight>44</ubWeight>
-		<ItemSize>25</ItemSize>
-		<usPrice>4200</usPrice>
-		<ubCoolness>10</ubCoolness>
-		<bReliability>1</bReliability>
-		<bRepairEase>-5</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<NotBuyable>1</NotBuyable>
-		<APBonus>-8</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3109</uiIndex>
-		<szItemName>Nachos</szItemName>
-		<szLongItemName>Nachos</szLongItemName>
-		<szItemDesc>These nachos made by 'On The Border Mexican Grill' are truly heavenly! With extra cheese flavourings it will clog your arteries like no other. Packed with MSG, these excitotoxins will ravage brain cells for that great taste! Expect migraines, heart palpitations and seizures if consumed regularly.</szItemDesc>
-		<szBRName>Nachos</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>392</ubGraphicNum>
-		<ubWeight>3</ubWeight>
-		<ubPerPocket>3</ubPerPocket>
-		<ItemSize>13</ItemSize>
-		<usPrice>2</usPrice>
-		<ubCoolness>1</ubCoolness>
-		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<FoodType>12</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3110</uiIndex>
-		<szItemName>Pancakes</szItemName>
-		<szLongItemName>Hungry Jacks Canned Pancakes</szLongItemName>
-		<szItemDesc>A boom to the electric scooter industry, this is a divine breakfast for your family, made easy! With enough carbs to send you to the emergency ward before brunch! Nothing says good parenting like serving your kids this every morning to ensure a happy and healthy foundation in life!</szItemDesc>
-		<szBRName>Hungry Jacks Canned Pancakes</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>389</ubGraphicNum>
-		<ubWeight>4</ubWeight>
-		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>13</ItemSize>
-		<usPrice>5</usPrice>
-		<ubCoolness>1</ubCoolness>
-		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<FoodType>13</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3111</uiIndex>
-		<szItemName>Noodles</szItemName>
-		<szLongItemName>Fu-Wang Noodles</szLongItemName>
-		<szItemDesc>Instant and tasty Fu-Wang noodles. Whenever you are  hungry and time poor, these are ready to eat in two minutes,  just add water. Now contains bits of dolphin, because fawk ayou dawphin!</szItemDesc>
-		<szBRName>Fu-Wang Noodles</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>388</ubGraphicNum>
-		<ubWeight>3</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>13</ItemSize>
-		<usPrice>2</usPrice>
-		<ubCoolness>1</ubCoolness>
-		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<FoodType>18</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3112</uiIndex>
-		<szItemName>Doodles</szItemName>
-		<szLongItemName>Cheez Doodles</szLongItemName>
-		<szItemDesc>Nothing serves heart disease so deliciously like Cheez Doodles! With a stunning 110 calories in a 1 ounce serve you'll have obesity striking in days! Side effects may include allergic reactions, bad breath, body odor, constipation, osteoporosis, heartburn, acne, diarrhea, oh and death...maybe.</szItemDesc>
-		<szBRName>Cheez Doodles</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>381</ubGraphicNum>
-		<ubWeight>5</ubWeight>
-		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>13</ItemSize>
-		<usPrice>6</usPrice>
-		<ubCoolness>1</ubCoolness>
-		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<FoodType>11</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3113</uiIndex>
-		<szItemName>Twinkie</szItemName>
-		<szLongItemName>Twinkie</szLongItemName>
-		<szItemDesc>Due to their high chemical composition, this American snack sponge cake is thought to have an infinite shelf life and can last unspoiled in storage for years, probably even past armageddon! Government subsidies make this junk food inexpensive, but the health bills that come with them are by no means a money-saver.</szItemDesc>
-		<szBRName>Twinkie</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>372</ubGraphicNum>
-		<ubWeight>3</ubWeight>
-		<ubPerPocket>3</ubPerPocket>
-		<ItemSize>13</ItemSize>
-		<usPrice>2</usPrice>
-		<ubCoolness>1</ubCoolness>
-		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<FoodType>12</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3114</uiIndex>
-		<szItemName>BBQ Sauce</szItemName>
-		<szLongItemName>Barbecue Sauce</szLongItemName>
-		<szItemDesc>Great horns Texas BBQ sauce with extra flavoring. Seasoned with cumin, chili peppers, bell peppers and ancho powder, lots of black pepper, fresh onion, only a touch of tomato, little  sugar,  meat drippings and smoke flavor. Where's the grill?</szItemDesc>
-		<szBRName>BBQ Sauce</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>375</ubGraphicNum>
-		<ubWeight>3</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>13</ItemSize>
-		<usPrice>2</usPrice>
-		<ubCoolness>1</ubCoolness>
-		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<FoodType>18</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3115</uiIndex>
-		<szItemName>Ballistic Mask</szItemName>
-		<szLongItemName>Ballistic Face Mask Level IIIA</szLongItemName>
-		<szItemDesc>Ergonomically fit, the Level IIIA Ballistic Face Mask has been designed to maximize comfort while providing total front facial protection. Additional padding at the forehead to maximize shock absorption. A six point elastic attachment system allows the user to adjust.</szItemDesc>
-		<szBRName>Ballistic Face Mask Level IIIA</szBRName>
-		<szBRDesc>Ergonomically fit, the Level IIIA Ballistic Face Mask has been designed to maximize comfort while providing total front facial protection. Additional padding at the forehead to maximize shock absorption. A six point elastic attachment system allows the user to adjust.</szBRDesc>
-		<usItemClass>2048</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>233</ubClassIndex>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>614</ubGraphicNum>
-		<ubWeight>20</ubWeight>
-		<ItemSize>22</ItemSize>
-		<usPrice>2900</usPrice>
-		<ubCoolness>10</ubCoolness>
-		<bRepairEase>-1</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<BigGunList>1</BigGunList>
-		<BR_NewInventory>2</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<AimBonus>-1</AimBonus>
-		<UrbanCamoBonus>5</UrbanCamoBonus>
-		<PercentTunnelVision>5</PercentTunnelVision>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS>
-			<PercentCap>-2</PercentCap>
-			<PercentCounterForceAccuracy>-3</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3116</uiIndex>
-		<szItemName>Rad Shades</szItemName>
-		<szLongItemName>Rad Shades</szLongItemName>
-		<szItemDesc>Any day trip would neither be complete nor rad enough without these neon bodacious tri-tone sunglasses!</szItemDesc>
-		<szBRName>Rad Shades</szBRName>
-		<szBRDesc>NOT FOR SAIL. SALG. SALE.</szBRDesc>
-		<usItemClass>32768</usItemClass>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>421</ubGraphicNum>
-		<ubWeight>1</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>17</ItemSize>
-		<usPrice>25</usPrice>
-		<ubCoolness>10</ubCoolness>
-		<bRepairEase>3</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<SciFi>1</SciFi>
-		<UrbanCamoBonus>25</UrbanCamoBonus>
-		<NightVisionRangeBonus>-20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>-20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>45</BrightLightVisionRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3117</uiIndex>
-		<szItemName>Balaklava</szItemName>
-		<szLongItemName>Balaklava</szLongItemName>
-		<szItemDesc>3 hole balaclava, ideal for those cold days out fishing, hunting or bank robbery. The long length allows it to cover your neck.</szItemDesc>
-		<szBRName>Balaklava</szBRName>
-		<szBRDesc>3 hole balaclava, ideal for those cold days out fishing, hunting or bank robbery. The long length allows it to cover your neck.</szBRDesc>
-		<usItemClass>32768</usItemClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>613</ubGraphicNum>
-		<ubWeight>1</ubWeight>
-		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>13</ItemSize>
-		<usPrice>25</usPrice>
-		<ubCoolness>5</ubCoolness>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<BigGunList>1</BigGunList>
-		<BR_NewInventory>5</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<CamoBonus>10</CamoBonus>
-		<UrbanCamoBonus>10</UrbanCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3118</uiIndex>
-		<szItemName>Pilot Jacket</szItemName>
-		<szLongItemName>Pilot Jacket</szLongItemName>
-		<szItemDesc>Before traveling through the vacuum of space, astronauts don their suits; before delving into the obsidian caverns of our planets watery depth, divers don their suits. It's time for you to don yours. The Pilot Jacket protects you from the nasty elements threatening to ruin your great day.</szItemDesc>
-		<szBRName>Pilot Jacket</szBRName>
-		<szBRDesc>Before traveling through the vacuum of space, astronauts don their suits; before delving into the obsidian caverns of our planets watery depth, divers don their suits. It's time for you to don yours. The Pilot Jacket protects you from the nasty elements threatening to ruin your great day.</szBRDesc>
-		<usItemClass>2048</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>234</ubClassIndex>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>668</ubGraphicNum>
-		<ubWeight>25</ubWeight>
-		<ItemSize>25</ItemSize>
-		<usPrice>900</usPrice>
-		<ubCoolness>2</ubCoolness>
-		<bRepairEase>4</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<NotBuyable>1</NotBuyable>
-		<LeatherJacket>1</LeatherJacket>
-		<BR_NewInventory>0</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>		
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3119</uiIndex>
-		<szItemName>Pilot V Kvlr</szItemName>
-		<szLongItemName>Kevlar Pilot Jacket</szLongItemName>
-		<szItemDesc>Kevlar Flight Jacket Bullet Proof Body Armor Vest Level 3A Protection.</szItemDesc>
-		<szBRName>Kevlar Pilot Jacket</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>2048</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>235</ubClassIndex>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>669</ubGraphicNum>
-		<ubWeight>20</ubWeight>
-		<ItemSize>25</ItemSize>
-		<usPrice>950</usPrice>
-		<ubCoolness>3</ubCoolness>
-		<bRepairEase>2</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<NotBuyable>1</NotBuyable>
-		<AimBonus>-1</AimBonus>
-		<LeatherJacket>1</LeatherJacket>
-		<BR_NewInventory>0</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS>
-			<PercentBase>-5</PercentBase>
-			<PercentCap>-2</PercentCap>
-			<PercentCounterForceAccuracy>-5</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS>
-			<PercentBase>-10</PercentBase>
-			<PercentCap>-4</PercentCap>
-			<PercentCounterForceAccuracy>-10</PercentCounterForceAccuracy>
-		</CROUCH_MODIFIERS>
-		<PRONE_MODIFIERS>
-			<PercentBase>-7</PercentBase>
-			<PercentCap>-3</PercentCap>
-			<PercentCounterForceAccuracy>-7</PercentCounterForceAccuracy>
-		</PRONE_MODIFIERS>
-	</ITEM>
-		<ITEM>
-		<uiIndex>3120</uiIndex>
-		<szItemName>Straight Jacket</szItemName>
-		<szLongItemName>Straight Jacket</szLongItemName>
-		<szItemDesc>This fine jacket is commonly worn by limited edition people, or pill popping wonders of modern medical science.</szItemDesc>
-		<szBRName>Straight Jacket</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
-		<usItemClass>2048</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>236</ubClassIndex>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>565</ubGraphicNum>
-		<ubWeight>30</ubWeight>
-		<ItemSize>25</ItemSize>
-		<usPrice>249</usPrice>
-		<ubCoolness>1</ubCoolness>
-		<bReliability>1</bReliability>
-		<bRepairEase>1</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<ToHitBonus>-100</ToHitBonus>
-		<APBonus>-20</APBonus>
-		<Unaerodynamic>1</Unaerodynamic>
-		<CamoBonus>-20</CamoBonus>
-		<UrbanCamoBonus>-20</UrbanCamoBonus>
-		<DesertCamoBonus>-20</DesertCamoBonus>
-		<SnowCamoBonus>20</SnowCamoBonus>
-		<WaterDamages>1</WaterDamages>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS>
-			<PercentBase>-100</PercentBase>
-			<PercentCap>-100</PercentCap>
-		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS>
-			<PercentBase>-100</PercentBase>
-			<PercentCap>-100</PercentCap>
-		</CROUCH_MODIFIERS>
-		<PRONE_MODIFIERS>
-			<PercentBase>-100</PercentBase>
-			<PercentCap>-100</PercentCap>
-		</PRONE_MODIFIERS>	
 	</ITEM>
 </ITEMLIST>
