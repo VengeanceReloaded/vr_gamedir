@@ -70239,10 +70239,28 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2707</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2707</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>MSA Headset</szItemName>
+		<szLongItemName>MSA Headset High Threat</szLongItemName>
+		<szItemDesc>The MSA Headset are hearing protectors that reproduce a natural and realistic sound. You should have perfect locational hearing without any disturbing noise. Exactly the right device to prevent hearing defects from fire fights.</szItemDesc>
+		<szBRName>MSA Headset High Threat</szBRName>
+		<szBRDesc>The MSA Headset allows you to hear faint whispers, but your hearing will be protected from the concussions of weapon discharge. The twin ear enveloping foam earmuffs are snugly and comfortably positioned over your ear with an adjustable spring headband.</szBRDesc>
+		<usItemClass>32768</usItemClass>
+		<ubGraphicType>5</ubGraphicType>
+		<ubGraphicNum>829</ubGraphicNum>
+		<ubWeight>7</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>17</ItemSize>
+		<usPrice>800</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bRepairEase>-3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Electronic>1</Electronic>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<HearingRangeBonus>3</HearingRangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -70250,10 +70268,28 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2708</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2708</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>Headset - Extended Ear</szItemName>
+		<szLongItemName>Headset - Extended Ear</szLongItemName>
+		<szItemDesc>This quality headset offers highly improved hearing range.</szItemDesc>
+		<szBRName>Headset - Extended Ear</szBRName>
+		<szBRDesc>This quality headset offers highly improved hearing range.</szBRDesc>
+		<usItemClass>32768</usItemClass>
+		<ubGraphicType>5</ubGraphicType>
+		<ubGraphicNum>77</ubGraphicNum>
+		<ubWeight>9</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>20</ItemSize>
+		<usPrice>1000</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<bRepairEase>-6</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Electronic>1</Electronic>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<HearingRangeBonus>5</HearingRangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -73150,64 +73186,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<RangeBonus>10</RangeBonus>
 		<ToHitBonus>2</ToHitBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>2859</uiIndex>
-		<szItemName>MSA Headset</szItemName>
-		<szLongItemName>MSA Headset High Threat</szLongItemName>
-		<szItemDesc>The MSA Headset are hearing protectors that reproduce a natural and realistic sound. You should have perfect locational hearing without any disturbing noise. Exactly the right device to prevent hearing defects from fire fights.</szItemDesc>
-		<szBRName>MSA Headset High Threat</szBRName>
-		<szBRDesc>The MSA Headset allows you to hear faint whispers, but your hearing will be protected from the concussions of weapon discharge. The twin ear enveloping foam earmuffs are snugly and comfortably positioned over your ear with an adjustable spring headband.</szBRDesc>
-		<usItemClass>32768</usItemClass>
-		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>829</ubGraphicNum>
-		<ubWeight>7</ubWeight>
-		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>17</ItemSize>
-		<usPrice>800</usPrice>
-		<ubCoolness>5</ubCoolness>
-		<bRepairEase>-3</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
-		<Metal>1</Metal>
-		<Electronic>1</Electronic>
-		<BR_NewInventory>2</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<HearingRangeBonus>3</HearingRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>2860</uiIndex>
-		<szItemName>Headset - Extended Ear</szItemName>
-		<szLongItemName>Headset - Extended Ear</szLongItemName>
-		<szItemDesc>This quality headset offers highly improved hearing range.</szItemDesc>
-		<szBRName>Headset - Extended Ear</szBRName>
-		<szBRDesc>This quality headset offers highly improved hearing range.</szBRDesc>
-		<usItemClass>32768</usItemClass>
-		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>77</ubGraphicNum>
-		<ubWeight>9</ubWeight>
-		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>20</ItemSize>
-		<usPrice>1000</usPrice>
-		<ubCoolness>7</ubCoolness>
-		<bRepairEase>-6</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
-		<Metal>1</Metal>
-		<Electronic>1</Electronic>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<HearingRangeBonus>5</HearingRangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
