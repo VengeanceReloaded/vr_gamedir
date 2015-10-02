@@ -55,7 +55,7 @@
 <!-- major Skill (8)	Technician/Engineer			-->
 <!-- major Skill (9)	Paramedic/Doctor			-->
 <!-- major Skill (20)	Covert Ops			-->
-<!-- major Skill (22)	Fly-boy/Ace Pilot				-->
+<!-- major Skill (24)	Fly-boy/Ace Pilot				-->
 
 <!-- minor Skill (10)	Ambidexterous				-->
 <!-- minor Skill (11)	Melee						-->	
@@ -9045,8 +9045,8 @@
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>3</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
-		<bNewSkillTrait1>22</bNewSkillTrait1>
-		<bNewSkillTrait2>22</bNewSkillTrait2>
+		<bNewSkillTrait1>24</bNewSkillTrait1>
+		<bNewSkillTrait2>24</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
 		<bBuddy1>255</bBuddy1>
 		<bBuddy2>255</bBuddy2>
@@ -19258,7 +19258,7 @@
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
-		<bNewSkillTrait1>22</bNewSkillTrait1>
+		<bNewSkillTrait1>24</bNewSkillTrait1>
 		<bNewSkillTrait2>0</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
 		<bBuddy1>255</bBuddy1>
@@ -21201,8 +21201,8 @@
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>8</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
-		<bNewSkillTrait2>18</bNewSkillTrait2>
-		<bNewSkillTrait3>21</bNewSkillTrait3>
+		<bNewSkillTrait2>24</bNewSkillTrait2>
+		<bNewSkillTrait3>24</bNewSkillTrait3>
 		<bBuddy1>240</bBuddy1>
 		<bBuddy2>255</bBuddy2>
 		<bBuddy3>255</bBuddy3>
