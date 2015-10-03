@@ -306,7 +306,7 @@
 		<pName>Pistol Mag x1</pName>
 		<pSilhouette>16</pSilhouette>
 		<pType>1</pType>
-		<pRestriction>1024</pRestriction>
+		<pRestriction>268436480</pRestriction>
 		<ItemCapacityPerSize10>2</ItemCapacityPerSize10>
 		<ItemCapacityPerSize12>1</ItemCapacityPerSize12>
 	</POCKET>
@@ -417,7 +417,7 @@
 		<pName>Pistol Mag x2</pName>
 		<pSilhouette>37</pSilhouette>
 		<pType>1</pType>
-		<pRestriction>1024</pRestriction>
+		<pRestriction>268436480</pRestriction>
 		<ItemCapacityPerSize10>4</ItemCapacityPerSize10>
 		<ItemCapacityPerSize12>2</ItemCapacityPerSize12>
 	</POCKET>
@@ -426,7 +426,7 @@
 		<pName>Pistol Mag x3</pName>
 		<pSilhouette>38</pSilhouette>
 		<pType>1</pType>
-		<pRestriction>1024</pRestriction>
+		<pRestriction>268436480</pRestriction>
 		<ItemCapacityPerSize10>4</ItemCapacityPerSize10>
 		<ItemCapacityPerSize12>3</ItemCapacityPerSize12>
 	</POCKET>

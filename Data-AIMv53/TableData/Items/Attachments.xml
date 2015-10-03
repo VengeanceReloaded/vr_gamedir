@@ -5051,6 +5051,11 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>223</attachmentIndex>
+		<itemIndex>2464</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>224</attachmentIndex>
 		<itemIndex>137</itemIndex>
 		<APCost>20</APCost>
@@ -5133,6 +5138,11 @@
 	<ATTACHMENT>
 		<attachmentIndex>224</attachmentIndex>
 		<itemIndex>2441</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>224</attachmentIndex>
+		<itemIndex>2464</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -28407,6 +28417,11 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>1526</attachmentIndex>
+		<itemIndex>2464</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>1527</attachmentIndex>
 		<itemIndex>137</itemIndex>
 		<APCost>20</APCost>
@@ -28489,6 +28504,11 @@
 	<ATTACHMENT>
 		<attachmentIndex>1527</attachmentIndex>
 		<itemIndex>2441</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1527</attachmentIndex>
+		<itemIndex>2464</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -29049,16 +29069,6 @@
 	<ATTACHMENT>
 		<attachmentIndex>2974</attachmentIndex>
 		<itemIndex>138</itemIndex>
-		<APCost>32</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>2974</attachmentIndex>
-		<itemIndex>2462</itemIndex>
-		<APCost>32</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>2974</attachmentIndex>
-		<itemIndex>2463</itemIndex>
 		<APCost>32</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -36322,6 +36332,11 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>2920</attachmentIndex>
+		<itemIndex>2130</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>2959</attachmentIndex>
 		<itemIndex>914</itemIndex>
 		<APCost>20</APCost>
@@ -36333,11 +36348,6 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>2961</attachmentIndex>
-		<itemIndex>2130</itemIndex>
-		<APCost>20</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>2973</attachmentIndex>
 		<itemIndex>2130</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>

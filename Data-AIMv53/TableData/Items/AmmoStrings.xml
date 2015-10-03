@@ -251,6 +251,11 @@
 		<BRCaliber>Pepper Spray</BRCaliber>
 	</AMMO>
 	<AMMO>
+		<uiIndex>60</uiIndex>
+		<AmmoCaliber>14.5x114mm</AmmoCaliber>
+		<BRCaliber>14.5x114mm</BRCaliber>
+	</AMMO>
+	<AMMO>
 		<uiIndex>101</uiIndex>
 		<AmmoCaliber>Bolt</AmmoCaliber>
 		<BRCaliber>Bolt</BRCaliber>

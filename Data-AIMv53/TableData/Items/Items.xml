@@ -1141,9 +1141,9 @@
 	<ITEM>
 		<uiIndex>25</uiIndex>
 		<szItemName>AK-74</szItemName>
-		<szLongItemName>Avtomat Kalashnikova-74</szLongItemName>
+		<szLongItemName>AK-74</szLongItemName>
 		<szItemDesc>This rifle is destined to become one of Russia's greatest exports, second only to tactical nuclear warheads.</szItemDesc>
-		<szBRName>Avtomat Kalashnikova-74</szBRName>
+		<szBRName>AK-74</szBRName>
 		<szBRDesc>Used as the Soviet infantry's standard automatic rifle, the AK-74 is a smaller caliber version of the AKM. While highly efficient and steady, with minimal recoil, it can be nasty to bystanders, as muzzle gases are diverted sideways.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -1176,9 +1176,9 @@
 	<ITEM>
 		<uiIndex>26</uiIndex>
 		<szItemName>AKM</szItemName>
-		<szLongItemName>Avtomat Kalashnikova Modernizirovanniy</szLongItemName>
+		<szLongItemName>AKM</szLongItemName>
 		<szItemDesc>The AKM is the newest version of the infamous AK-47. This line of rifles has been used in Vietnam, Afghanistan, and many passenger jets. This is a rifle that live longer than the user, if it survives the drop, it survives mostly anything.</szItemDesc>
-		<szBRName>Avtomat Kalashnikova Modernizirovanniy</szBRName>
+		<szBRName>AKM</szBRName>
 		<szBRDesc>As the modernized version of the AK-47 automatic rifle, it was one of the best and most widely distributed Soviet weapons. Designed for mass production, you'll find one of these automatic rifles slung over every frugal mercenary's shoulder.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -1245,7 +1245,7 @@
 	<ITEM>
 		<uiIndex>28</uiIndex>
 		<szItemName>FN FAL</szItemName>
-		<szLongItemName>FN Fusil Automatique Leger</szLongItemName>
+		<szLongItemName>FN FAL</szLongItemName>
 		<szItemDesc>The phrase, 'Help, I've FAL-len and I can't get up,' takes on a whole new meaning when this rifle is involved.</szItemDesc>
 		<szBRName>FN Fusil Automatique Leger</szBRName>
 		<szBRDesc>This Belgian automatic rifle set a new standard in weaponry in the early 1950's. Its robust and reliable design made it simple to use and maintain, despite its tendency for excessive climbing in automatic mode.</szBRDesc>
@@ -7326,7 +7326,7 @@
 		<ubGraphicNum>90</ubGraphicNum>
 		<ubWeight>6</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>16</ItemSize>
+		<ItemSize>12</ItemSize>
 		<usPrice>100</usPrice>
 		<ubCoolness>2</ubCoolness>
 		<bRepairEase>5</bRepairEase>
@@ -10096,7 +10096,7 @@
 		<ItemSize>5</ItemSize>
 		<usPrice>1267</usPrice>
 		<ubCoolness>3</ubCoolness>
-		<bReliability>-1</bReliability>
+		<bReliability>0</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -58115,7 +58115,7 @@
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>534</ubGraphicNum>
-		<ubWeight>8</ubWeight>
+		<ubWeight>13</ubWeight>
 		<ItemSize>2</ItemSize>
 		<usPrice>1250</usPrice>
 		<ubCoolness>2</ubCoolness>
@@ -58198,7 +58198,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>30</BR_ROF>
-		<DefaultAttachment>1029</DefaultAttachment>
+		<DefaultAttachment>2850</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -58974,7 +58974,7 @@
 		<BestLaserRange>400</BestLaserRange>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<DefaultAttachment>2961</DefaultAttachment>
-		<DefaultAttachment>2973</DefaultAttachment>
+		<DefaultAttachment>2920</DefaultAttachment>
 		<CamoBonus>-20</CamoBonus>
 		<UrbanCamoBonus>-20</UrbanCamoBonus>
 		<DesertCamoBonus>-20</DesertCamoBonus>
@@ -58990,8 +58990,8 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2131</uiIndex>
-		<szItemName>AK Bayonet</szItemName>
-		<szLongItemName>AK Bayonet</szLongItemName>
+		<szItemName>AKM Bayonet</szItemName>
+		<szLongItemName>AKM Bayonet</szLongItemName>
 		<szItemDesc>A classic bayonet for use with the AKM.</szItemDesc>
 		<szBRName>AK Bayonet</szBRName>
 		<szBRDesc>A classic bayonet for use with the AKM.</szBRDesc>
@@ -59016,6 +59016,7 @@
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BigGunList>0</BigGunList>
+		<WireCutters>1</WireCutters>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>28</BR_ROF>
@@ -59039,8 +59040,8 @@
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2103</ubClassIndex>
 		<ubCursor>3</ubCursor>
-		<ubGraphicType>6</ubGraphicType>
-		<ubGraphicNum>443</ubGraphicNum>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>680</ubGraphicNum>
 		<ubWeight>37</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>950</usPrice>
@@ -59098,98 +59099,409 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2134</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2134</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
+		<szItemName>IMBEL MD2</szItemName>
+		<szLongItemName>IMBEL MD2</szLongItemName>
+		<szItemDesc>Brazilian army's primary assault rifle, it is an FN FAL rifle with M16-type rotating bolt. </szItemDesc>
+		<szBRName>IMBEL MD2</szBRName>
+		<szBRDesc>Brazilian army's primary assault rifle, it is an FN FAL rifle with M16-type rotating bolt. </szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2134</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>670</ubGraphicNum>
+		<ubWeight>41</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>1900</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bReliability>1</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_ROF>700</BR_ROF>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<DamageChance>12</DamageChance>
+		<DirtIncreaseFactor>34.0</DirtIncreaseFactor>
+		<STAND_MODIFIERS>
+			<PercentMaxCounterForce>-5</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>-5</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2135</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2135</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
+		<szItemName>FMK-3</szItemName>
+		<szLongItemName>FMK-3</szLongItemName>
+		<szItemDesc>It was developed by Fabricaciones Militares company of Argentina. FMK-3 is a blowback-operated, selective fire submachine gun.</szItemDesc>
+		<szBRName>FMK-3</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2135</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>671</ubGraphicNum>
+		<ubWeight>34</ubWeight>
+		<ItemSize>5</ItemSize>
+		<usPrice>1180</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<bReliability>0</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_ROF>650</BR_ROF>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<DamageChance>12</DamageChance>
+		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<STAND_MODIFIERS>
+			<PercentMaxCounterForce>-5</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>-5</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2136</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2136</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
+		<szItemName>M3A1</szItemName>
+		<szLongItemName>M3A1</szLongItemName>
+		<szItemDesc>Designed to be cheap and reasonably controllable, the M3A1 drew from lessons learned in during WWII, and did see some use towards the end of that conflict.  The magazine well is shaped for use as a grip.</szItemDesc>
+		<szBRName>M3A1</szBRName>
+		<szBRDesc>Designed to be cheap and reasonably controllable, the M3A1 drew from lessons learned in during WWII, and did see some use towards the end of that conflict.  The magazine well is shaped for use as a grip.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2136</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>672</ubGraphicNum>
+		<ubWeight>37</ubWeight>
+		<ItemSize>5</ItemSize>
+		<usPrice>1160</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<bRepairEase>3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<Unaerodynamic>1</Unaerodynamic>
+		<BR_UsedInventory>5</BR_UsedInventory>
+		<BR_ROF>450</BR_ROF>
+		<usOverheatingCooldownFactor>130</usOverheatingCooldownFactor>
+		<DamageChance>12</DamageChance>
+		<DirtIncreaseFactor>30</DirtIncreaseFactor>
+		<STAND_MODIFIERS>
+			<PercentCap>10</PercentCap>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2137</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2137</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
+		<szItemName>MT-9</szItemName>
+		<szLongItemName>Taurus MT-9 SMG</szLongItemName>
+		<szItemDesc>Taurus MT-9</szItemDesc>
+		<szBRName>Taurus MT-9</szBRName>
+		<szBRDesc>Taurus MT-9</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2137</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>673</ubGraphicNum>
+		<ubWeight>30</ubWeight>
+		<ItemSize>5</ItemSize>
+		<usPrice>1250</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_ROF>1200</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<DamageChance>12</DamageChance>
+		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<STAND_MODIFIERS>
+			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
+			<AimLevels>1</AimLevels>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2138</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2138</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
+		<szItemName>MT-40</szItemName>
+		<szLongItemName>Taurus MT-40 SMG</szLongItemName>
+		<szItemDesc>License built by Taurus, the MT-40 is basically a caliber conversion to .40S&amp;W of the FAMAE SAF with additional picatinny rails.</szItemDesc>
+		<szBRName>Taurus MT-40 SMG</szBRName>
+		<szBRDesc>License built by Taurus, the MT-40 is basically a caliber conversion to .40S&amp;W of the FAMAE SAF with additional picatinny rails.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2138</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>674</ubGraphicNum>
+		<ubWeight>30</ubWeight>
+		<ItemSize>5</ItemSize>
+		<usPrice>1650</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_ROF>1200</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<DamageChance>12</DamageChance>
+		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<STAND_MODIFIERS>
+			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
+			<AimLevels>1</AimLevels>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2139</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2139</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>CT-30</szItemName>
+		<szLongItemName>Taurus CT-30</szLongItemName>
+		<szItemDesc>The CT-30 is a carbine of Chilean origin manufactured by the Brazilian company Taurus.  The weapon is based on the SIG-540 platform and is chambered in the.30 Carbine round.</szItemDesc>
+		<szBRName>Taurus CT-30</szBRName>
+		<szBRDesc>The CT-30 is a carbine of Chilean origin manufactured by the Brazilian company Taurus. The weapon is based on the SIG-540 platform and is chambered in the.30 Carbine round.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2139</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>675</ubGraphicNum>
+		<ubWeight>36</ubWeight>
+		<ItemSize>6</ItemSize>
+		<usPrice>1800</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>-2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_ROF>600</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<DamageChance>10</DamageChance>
+		<DirtIncreaseFactor>20</DirtIncreaseFactor>
+		<STAND_MODIFIERS>
+			<FlatBase>0</FlatBase>
+			<PercentBase>0</PercentBase>
+			<FlatAim>0</FlatAim>
+			<PercentCap>7</PercentCap>
+			<PercentHandling>0</PercentHandling>
+			<PercentTargetTrackingSpeed>2</PercentTargetTrackingSpeed>
+			<PercentDropCompensation>0</PercentDropCompensation>
+			<PercentMaxCounterForce>5</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>9</PercentCounterForceAccuracy>
+			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
+			<AimLevels>0</AimLevels>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<FlatBase>0</FlatBase>
+			<PercentBase>0</PercentBase>
+			<FlatAim>0</FlatAim>
+			<PercentCap>7</PercentCap>
+			<PercentHandling>0</PercentHandling>
+			<PercentTargetTrackingSpeed>2</PercentTargetTrackingSpeed>
+			<PercentDropCompensation>0</PercentDropCompensation>
+			<PercentMaxCounterForce>4</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>9</PercentCounterForceAccuracy>
+			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
+			<AimLevels>0</AimLevels>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<FlatBase>0</FlatBase>
+			<PercentBase>0</PercentBase>
+			<FlatAim>0</FlatAim>
+			<PercentCap>6</PercentCap>
+			<PercentHandling>0</PercentHandling>
+			<PercentTargetTrackingSpeed>0</PercentTargetTrackingSpeed>
+			<PercentDropCompensation>0</PercentDropCompensation>
+			<PercentMaxCounterForce>0</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>9</PercentCounterForceAccuracy>
+			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
+			<AimLevels>0</AimLevels>
+		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2140</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2140</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>Type 56</szItemName>
+		<szLongItemName>Type 56</szLongItemName>
+		<szItemDesc>Chinese AK-47.</szItemDesc>
+		<szBRName>Type 56</szBRName>
+		<szBRDesc>Chinese AK-47.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2140</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>676</ubGraphicNum>
+		<ubWeight>38</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>1230</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<bReliability>1</bReliability>
+		<bRepairEase>4</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_ROF>600</BR_ROF>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<DamageChance>12</DamageChance>
+		<DirtIncreaseFactor>18.0</DirtIncreaseFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2141</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2141</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>P22</szItemName>
+		<szLongItemName>Walther P22</szLongItemName>
+		<szItemDesc>A compact and light pistol in .22 LR.</szItemDesc>
+		<szBRName>Walther P22</szBRName>
+		<szBRDesc>This is an excellent gun for concealed carry. The Walther P22 is light, compact and comfortable to shoot.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2141</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>677</ubGraphicNum>
+		<ubWeight>4</ubWeight>
+		<ItemSize>0</ItemSize>
+		<usPrice>190</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_ROF>38</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<DamageChance>10</DamageChance>
+		<DirtIncreaseFactor>20</DirtIncreaseFactor>
+		<STAND_MODIFIERS>
+			<FlatBase>7</FlatBase>
+			<PercentBase>0</PercentBase>
+			<FlatAim>-2</FlatAim>
+			<PercentCap>0</PercentCap>
+			<PercentHandling>0</PercentHandling>
+			<PercentTargetTrackingSpeed>5</PercentTargetTrackingSpeed>
+			<PercentDropCompensation>0</PercentDropCompensation>
+			<PercentMaxCounterForce>0</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
+			<PercentCounterForceFrequency>0</PercentCounterForceFrequency>
+			<AimLevels>0</AimLevels>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<FlatBase>7</FlatBase>
+			<PercentBase>0</PercentBase>
+			<FlatAim>-2</FlatAim>
+			<PercentCap>0</PercentCap>
+			<PercentHandling>0</PercentHandling>
+			<PercentTargetTrackingSpeed>4</PercentTargetTrackingSpeed>
+			<PercentDropCompensation>0</PercentDropCompensation>
+			<PercentMaxCounterForce>0</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
+			<PercentCounterForceFrequency>0</PercentCounterForceFrequency>
+			<AimLevels>0</AimLevels>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<FlatBase>7</FlatBase>
+			<PercentBase>0</PercentBase>
+			<FlatAim>-2</FlatAim>
+			<PercentCap>0</PercentCap>
+			<PercentHandling>0</PercentHandling>
+			<PercentTargetTrackingSpeed>0</PercentTargetTrackingSpeed>
+			<PercentDropCompensation>0</PercentDropCompensation>
+			<PercentMaxCounterForce>0</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
+			<PercentCounterForceFrequency>0</PercentCounterForceFrequency>
+			<AimLevels>0</AimLevels>
+		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2142</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2142</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>Hi-Standard HD</szItemName>
+		<szLongItemName>Hi-Standard HD</szLongItemName>
+		<szItemDesc>An American classic, the High Standard HD has been used to train generations of soldiers and competition shooters.</szItemDesc>
+		<szBRName>Hi-Standard HDM</szBRName>
+		<szBRDesc>An American classic, the High Standard HD has been used to train generations of soldiers and competition shooters.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2142</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>678</ubGraphicNum>
+		<ubWeight>11</ubWeight>
+		<ItemSize>1</ItemSize>
+		<usPrice>469</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<bReliability>3</bReliability>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_ROF>35</BR_ROF>
+		<PercentNoiseReduction>0</PercentNoiseReduction>
+		<HideMuzzleFlash>0</HideMuzzleFlash>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -59197,53 +59509,269 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2143</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2143</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>PTRD</szItemName>
+		<szLongItemName>PTRD</szLongItemName>
+		<szItemDesc>A heavy soviet WW2 era anti tank rifle. After poor results against enemy tanks the PTRD was finally relegated to anti-materiel duty in 1943 as it still was quite effective against lesser armored vehicles such as armored half-tracks, armored cars and unarmored vehicles.</szItemDesc>
+		<szBRName>PTRD</szBRName>
+		<szBRDesc>A heavy soviet WW2 era anti tank rifle. After poor results against enemy tanks the PTRD was finally relegated to anti-materiel duty in 1943 as it still was quite effective against lesser armored vehicles such as armored half-tracks, armored cars and unarmored vehicles.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2143</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>679</ubGraphicNum>
+		<ubWeight>175</ubWeight>
+		<ItemSize>9</ItemSize>
+		<usPrice>12500</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<Unaerodynamic>1</Unaerodynamic>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_ROF>10</BR_ROF>
+		<Bipod>35</Bipod>
+		<ToHitBonus>-35</ToHitBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<DamageChance>10</DamageChance>
+		<DirtIncreaseFactor>75</DirtIncreaseFactor>
+		<STAND_MODIFIERS>
+			<FlatBase>0</FlatBase>
+			<PercentBase>0</PercentBase>
+			<FlatAim>0</FlatAim>
+			<PercentCap>-25</PercentCap>
+			<PercentHandling>0</PercentHandling>
+			<PercentTargetTrackingSpeed>0</PercentTargetTrackingSpeed>
+			<PercentDropCompensation>0</PercentDropCompensation>
+			<PercentMaxCounterForce>0</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
+			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
+			<AimLevels>0</AimLevels>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<FlatBase>0</FlatBase>
+			<PercentBase>0</PercentBase>
+			<FlatAim>0</FlatAim>
+			<PercentCap>-25</PercentCap>
+			<PercentHandling>0</PercentHandling>
+			<PercentTargetTrackingSpeed>0</PercentTargetTrackingSpeed>
+			<PercentDropCompensation>0</PercentDropCompensation>
+			<PercentMaxCounterForce>0</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
+			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
+			<AimLevels>0</AimLevels>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<FlatBase>0</FlatBase>
+			<PercentBase>0</PercentBase>
+			<FlatAim>0</FlatAim>
+			<PercentCap>10</PercentCap>
+			<PercentHandling>0</PercentHandling>
+			<PercentTargetTrackingSpeed>0</PercentTargetTrackingSpeed>
+			<PercentDropCompensation>0</PercentDropCompensation>
+			<PercentMaxCounterForce>0</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
+			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
+			<AimLevels>0</AimLevels>
+		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2144</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2144</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
+		<szItemName>Uzi MP2</szItemName>
+		<szLongItemName>IMI Uzi MP2</szLongItemName>
+		<szItemDesc>The most well-known SMG in the world, and not without good reason. This 9mm submachin gun is still in use by the secret service and special units around the world.</szItemDesc>
+		<szBRName>Uzi</szBRName>
+		<szBRDesc>Since its introduction in 1948, the Uzi has supplanted the Thompson as the household word in SMG's. This 9mm submachin gun is still in use by the secret service and special units around the world.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2144</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>681</ubGraphicNum>
+		<ubWeight>37</ubWeight>
+		<ItemSize>5</ItemSize>
+		<usPrice>1167</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<bReliability>-1</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_ROF>600</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<DamageChance>12</DamageChance>
+		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<STAND_MODIFIERS>
+			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
+			<AimLevels>1</AimLevels>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2145</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2145</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>Marlin CC 9</szItemName>
+		<szLongItemName>Marlin Camp Carbine 9</szLongItemName>
+		<szItemDesc>As the name implies, the Camp Carbine was designed as a utility firearm to be used around hunting camps for foraging or defense.</szItemDesc>
+		<szBRName>Marlin Camp Carbine 9</szBRName>
+		<szBRDesc>As the name implies, the Camp Carbine was designed as a utility firearm to be used around hunting camps for foraging or defense.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2145</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>682</ubGraphicNum>
+		<ubWeight>30</ubWeight>
+		<ItemSize>6</ItemSize>
+		<usPrice>450</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<bReliability>3</bReliability>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>2</BR_UsedInventory>
+		<BR_ROF>50</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<DamageChance>10</DamageChance>
+		<DirtIncreaseFactor>20</DirtIncreaseFactor>
+		<STAND_MODIFIERS>
+			<FlatBase>0</FlatBase>
+			<PercentBase>0</PercentBase>
+			<FlatAim>0</FlatAim>
+			<PercentCap>8</PercentCap>
+			<PercentHandling>0</PercentHandling>
+			<PercentTargetTrackingSpeed>0</PercentTargetTrackingSpeed>
+			<PercentDropCompensation>0</PercentDropCompensation>
+			<PercentMaxCounterForce>0</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
+			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
+			<AimLevels>0</AimLevels>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<FlatBase>0</FlatBase>
+			<PercentBase>0</PercentBase>
+			<FlatAim>0</FlatAim>
+			<PercentCap>8</PercentCap>
+			<PercentHandling>0</PercentHandling>
+			<PercentTargetTrackingSpeed>0</PercentTargetTrackingSpeed>
+			<PercentDropCompensation>0</PercentDropCompensation>
+			<PercentMaxCounterForce>0</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
+			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
+			<AimLevels>0</AimLevels>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<FlatBase>0</FlatBase>
+			<PercentBase>-2</PercentBase>
+			<FlatAim>0</FlatAim>
+			<PercentCap>8</PercentCap>
+			<PercentHandling>0</PercentHandling>
+			<PercentTargetTrackingSpeed>0</PercentTargetTrackingSpeed>
+			<PercentDropCompensation>0</PercentDropCompensation>
+			<PercentMaxCounterForce>0</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
+			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
+			<AimLevels>0</AimLevels>
+		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2146</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2146</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>MAS-49</szItemName>
+		<szLongItemName>MAS-49</szLongItemName>
+		<szItemDesc>This semi-automatic rifle has been the standard issue service rifle of the French Army.</szItemDesc>
+		<szBRName>MAS-49</szBRName>
+		<szBRDesc>This semi-automatic rifle has been the standard issue service rifle of the French Army.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2146</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>683</ubGraphicNum>
+		<ubWeight>47</ubWeight>
+		<ItemSize>8</ItemSize>
+		<usPrice>2450</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>5</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
+		<BR_ROF>25</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<DamageChance>10</DamageChance>
+		<DirtIncreaseFactor>20</DirtIncreaseFactor>
+		<STAND_MODIFIERS>
+			<FlatBase>0</FlatBase>
+			<PercentBase>0</PercentBase>
+			<FlatAim>0</FlatAim>
+			<PercentCap>10</PercentCap>
+			<PercentHandling>0</PercentHandling>
+			<PercentTargetTrackingSpeed>0</PercentTargetTrackingSpeed>
+			<PercentDropCompensation>0</PercentDropCompensation>
+			<PercentMaxCounterForce>0</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
+			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
+			<AimLevels>0</AimLevels>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<FlatBase>0</FlatBase>
+			<PercentBase>0</PercentBase>
+			<FlatAim>0</FlatAim>
+			<PercentCap>11</PercentCap>
+			<PercentHandling>0</PercentHandling>
+			<PercentTargetTrackingSpeed>0</PercentTargetTrackingSpeed>
+			<PercentDropCompensation>0</PercentDropCompensation>
+			<PercentMaxCounterForce>0</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
+			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
+			<AimLevels>0</AimLevels>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<FlatBase>0</FlatBase>
+			<PercentBase>-3</PercentBase>
+			<FlatAim>0</FlatAim>
+			<PercentCap>11</PercentCap>
+			<PercentHandling>0</PercentHandling>
+			<PercentTargetTrackingSpeed>0</PercentTargetTrackingSpeed>
+			<PercentDropCompensation>0</PercentDropCompensation>
+			<PercentMaxCounterForce>0</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
+			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
+			<AimLevels>0</AimLevels>
+		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2147</uiIndex>
 		<szItemName>Nada</szItemName>
 		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2147</szItemDesc>
+		<szItemDesc>Index 2149</szItemDesc>
 		<usItemClass>1</usItemClass>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -62326,10 +62854,22 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2301</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2301</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>14.5x114mm Ammo, 1</szItemName>
+		<szLongItemName>14.5x114mm Ammo, 1</szLongItemName>
+		<szItemDesc>A heavy 14.5x114mm round, used by some heavy WW2 anti-tank rifles.</szItemDesc>
+		<szBRName>14.5x114mm Ammo, 1</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>706</ubClassIndex>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>443</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ItemSize>12</ItemSize>
+		<usPrice>100</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -62337,10 +62877,25 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2302</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2302</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>Box 14.5mm</szItemName>
+		<szLongItemName>Box 14.5x114mm</szLongItemName>
+		<szItemDesc>This spam can contains 14.5x114mm rounds used by some heavy soviet anti-tank rifles.</szItemDesc>
+		<szBRName>Box 14.5x114mm</szBRName>
+		<szBRDesc>This spam can contains 14.5x114mm rounds used by some heavy soviet anti-tank rifles.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>707</ubClassIndex>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>444</ubGraphicNum>
+		<ubWeight>14</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>26</ItemSize>
+		<usPrice>1000</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<NotInEditor>1</NotInEditor>
+		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -62348,10 +62903,24 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2303</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2303</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>14.5mm Crate</szItemName>
+		<szLongItemName>14.5mm Ammo Crate</szLongItemName>
+		<szItemDesc>ammo crate</szItemDesc>
+		<szBRName>14.5mm Ammo Crate</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<ubClassIndex>708</ubClassIndex>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>445</ubGraphicNum>
+		<ubWeight>400</ubWeight>
+		<ItemSize>34</ItemSize>
+		<usPrice>10000</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<NotInEditor>1</NotInEditor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -62359,33 +62928,75 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2304</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2304</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>.30 Car 15 Tracer</szItemName>
+		<szLongItemName>.30 Car Mag, 15 Tracer</szLongItemName>
+		<szItemDesc>A 15-round .30 Car magazine with tracer ammo.</szItemDesc>
+		<szBRName>.30 Car Mag Tracer</szBRName>
+		<szBRDesc>Tracer .30 Car rounds.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>703</ubClassIndex>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>446</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>13</ItemSize>
+		<usPrice>105</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2305</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2305</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>.30 Car 15 AP</szItemName>
+		<szLongItemName>.30 Car Mag, 15 AP</szLongItemName>
+		<szItemDesc>A 15-round .30 Car magazine with AP ammo.</szItemDesc>
+		<szBRName>.30 Car Mag AP</szBRName>
+		<szBRDesc>AP .30 Car rounds.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>704</ubClassIndex>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>447</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>13</ItemSize>
+		<usPrice>75</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2306</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2306</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>.30 Car 15 HP</szItemName>
+		<szLongItemName>.30 Car Mag, 15 HP</szLongItemName>
+		<szItemDesc>A 15-round .30 Car magazine with HP ammo.</szItemDesc>
+		<szBRName>.30 Car Mag HP</szBRName>
+		<szBRDesc>HP .30 Car rounds.</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>705</ubClassIndex>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>448</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>13</ItemSize>
+		<usPrice>45</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<BigGunList>1</BigGunList>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -64989,7 +65600,7 @@
 		<ubGraphicNum>1039</ubGraphicNum>
 		<ubWeight>3</ubWeight>
 		<ubPerPocket>6</ubPerPocket>
-		<ItemSize>14</ItemSize>
+		<ItemSize>13</ItemSize>
 		<usPrice>85</usPrice>
 		<ubCoolness>2</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
@@ -65140,7 +65751,8 @@
 		<szItemDesc>Good old reliable trinitrotoluene.</szItemDesc>
 		<szBRName>TNT stick</szBRName>
 		<szBRDesc>Good old reliable trinitrotoluene.</szBRDesc>
-		<usItemClass>512</usItemClass>
+		<usItemClass>256</usItemClass>
+		<ubCursor>6</ubCursor>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>184</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -65167,7 +65779,8 @@
 		<szItemDesc>HMX is a mixture of TNT and RDX at a ratio of 50/50.</szItemDesc>
 		<szBRName>HMX stick</szBRName>
 		<szBRDesc>HMX is a mixture of TNT and RDX at a ratio of 50/50.</szBRDesc>
-		<usItemClass>512</usItemClass>
+		<usItemClass>256</usItemClass>
+		<ubCursor>6</ubCursor>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>185</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -65189,10 +65802,25 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2464</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2464</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>Fertilizer Bomb</szItemName>
+		<szLongItemName>Fertilizer Bomb</szLongItemName>
+		<szItemDesc>A mix of gasoline and ammonium nitrate. This is a volatile combination that should be handled with care.</szItemDesc>
+		<szBRName>Fertilizer Bomb</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
+		<usItemClass>512</usItemClass>
+		<ubClassIndex>186</ubClassIndex>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>450</ubGraphicNum>
+		<ubWeight>30</ubWeight>
+		<ItemSize>26</ItemSize>
+		<usPrice>75</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<NotBuyable>1</NotBuyable>
+		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -71925,44 +72553,28 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2821</uiIndex>
-		<szItemName>2x R.LAM</szItemName>
-		<szLongItemName>mod. Scope, 2x Reflex &amp; LAM</szLongItemName>
-		<szItemDesc>A useful combination of small scope, Reddot LAM and Reflex Sight. Great if you need to save attachment slots.</szItemDesc>
-		<szBRName>mod. Scope, 2x Reflex &amp; LAM</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szItemName>.50 Beowulf Adapter</szItemName>
+		<szLongItemName>.50 Beowulf Adapter</szLongItemName>
+		<szItemDesc>This special adapter can be attached to a Beowulf Rifle to allow for the use of the 30-rnd C-Mags.</szItemDesc>
+		<szBRName>.50 Beowulf Adapter</szBRName>
+		<szBRDesc>This special adapter can be attached to a Beowulf Rifle to allow for the use of the 30-rnd C-Mags.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>575</ubGraphicNum>
+		<ubGraphicType>5</ubGraphicType>
+		<ubGraphicNum>161</ubGraphicNum>
 		<ubWeight>4</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>14</ItemSize>
-		<usPrice>2800</usPrice>
-		<ubCoolness>5</ubCoolness>
-		<bRepairEase>-6</bRepairEase>
+		<usPrice>1200</usPrice>
+		<ubCoolness>8</ubCoolness>
+		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<ToHitBonus>18</ToHitBonus>
-		<BestLaserRange>200</BestLaserRange>
-		<AimBonus>6</AimBonus>
-		<MinRangeForAimBonus>10</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
-		<PercentAPReduction>20</PercentAPReduction>
-		<CamoBonus>-10</CamoBonus>
-		<UrbanCamoBonus>-10</UrbanCamoBonus>
-		<DesertCamoBonus>-10</DesertCamoBonus>
-		<SnowCamoBonus>-10</SnowCamoBonus>
-		<StealthBonus>-10</StealthBonus>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>10</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -72872,8 +73484,8 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 	</ITEM>
 	<ITEM>
 		<uiIndex>2850</uiIndex>
-		<szItemName>mod. Scope 2x</szItemName>
-		<szLongItemName>mod. Scope, 2x</szLongItemName>
+		<szItemName>int. Scope 2x</szItemName>
+		<szLongItemName>int. Scope, 2x</szLongItemName>
 		<szItemDesc>This type of scope is often found built-in on modern assault rifles, though it will fit a revolver, shotgun, or SMG as well.</szItemDesc>
 		<szBRName>mod. Scope, 2x</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
@@ -74803,30 +75415,47 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 	</ITEM>
 	<ITEM>
 		<uiIndex>2920</uiIndex>
-		<szItemName>.50 Beowulf Adapter</szItemName>
-		<szLongItemName>.50 Beowulf Adapter</szLongItemName>
-		<szItemDesc>This special adapter can be attached to a Beowulf Rifle to allow for the use of the 30-rnd C-Mags.</szItemDesc>
-		<szBRName>.50 Beowulf Adapter</szBRName>
-		<szBRDesc>This special adapter can be attached to a Beowulf Rifle to allow for the use of the 30-rnd C-Mags.</szBRDesc>
+		<szItemName>int. Thermal sight</szItemName>
+		<szLongItemName>Thermal sight module</szLongItemName>
+		<szItemDesc>Thermal sight module</szItemDesc>
+		<szBRName>Not for sale</szBRName>
+		<szBRDesc>Not for sale</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>161</ubGraphicNum>
-		<ubWeight>4</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>14</ItemSize>
-		<usPrice>1200</usPrice>
-		<ubCoolness>8</ubCoolness>
-		<bRepairEase>-1</bRepairEase>
+		<AttachmentClass>8</AttachmentClass>
+		<nasAttachmentClass>8</nasAttachmentClass>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>660</ubGraphicNum>
+		<ubWeight>5</ubWeight>
+		<ubPerPocket>2</ubPerPocket>
+		<ItemSize>16</ItemSize>
+		<usPrice>8000</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bRepairEase>-8</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
+		<Electronic>1</Electronic>
+		<Inseparable>1</Inseparable>
+		<BlockIronSight>1</BlockIronSight>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<NotBuyable>1</NotBuyable>
+		<VisionRangeBonus>0</VisionRangeBonus>
+		<NightVisionRangeBonus>40</NightVisionRangeBonus>
+		<DayVisionRangeBonus>-40</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>-60</BrightLightVisionRangeBonus>
+		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
+		<PercentTunnelVision>60</PercentTunnelVision>
+		<ThermalOptics>1</ThermalOptics>
+		<NeedsBatteries>0</NeedsBatteries>
+		<ScopeMagFactor>1.0</ScopeMagFactor>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -76292,8 +76921,8 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 	</ITEM>
 	<ITEM>
 		<uiIndex>2959</uiIndex>
-		<szItemName>mod. PGO-7W</szItemName>
-		<szLongItemName>mod. Scope, PGO-7W</szLongItemName>
+		<szItemName>int. PGO-7W</szItemName>
+		<szLongItemName>int. Scope, PGO-7W</szLongItemName>
 		<szItemDesc>This Russian day-time scope was originally developed for the RPG-7 rocket launcher, but it will also fit on rifles with an AK-style receiver.</szItemDesc>
 		<szBRName>mod. Scope, PGO-7W</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
@@ -76331,8 +76960,8 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 	</ITEM>
 	<ITEM>
 		<uiIndex>2960</uiIndex>
-		<szItemName>mod. PSO-3</szItemName>
-		<szLongItemName>mod. Scope, PSO-3</szLongItemName>
+		<szItemName>int. PSO-3</szItemName>
+		<szLongItemName>int. Scope, PSO-3</szLongItemName>
 		<szItemDesc>Better than the PSO-1 (Magnification is 8x), this scope is often used on Russian DMRs and sniper rifles.</szItemDesc>
 		<szBRName>mod. Scope, PSO-3</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
@@ -76741,57 +77370,34 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 	</ITEM>
 	<ITEM>
 		<uiIndex>2973</uiIndex>
-		<szItemName>Thermal sight module</szItemName>
-		<szLongItemName>Thermal sight module</szLongItemName>
-		<szItemDesc>Thermal sight module</szItemDesc>
-		<szBRName>Not for sale</szBRName>
-		<szBRDesc>Not for sale</szBRDesc>
+		<szItemName>Fertilizer</szItemName>
+		<szLongItemName>Fertilizer</szLongItemName>
+		<szItemDesc>A canister of ammonium nitrate, which is commonly used in agriculture as a high-nitrogen fertilizer. Perfect if you want your wheat to grow well.</szItemDesc>
+		<szBRName>Fertilizer</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<AttachmentClass>8</AttachmentClass>
-		<nasAttachmentClass>8</nasAttachmentClass>
-		<ubGraphicType>4</ubGraphicType>
-		<ubGraphicNum>660</ubGraphicNum>
-		<ubWeight>5</ubWeight>
-		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>16</ItemSize>
-		<usPrice>8000</usPrice>
-		<ubCoolness>9</ubCoolness>
-		<bRepairEase>-8</bRepairEase>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>449</ubGraphicNum>
+		<ubWeight>25</ubWeight>
+		<ItemSize>26</ItemSize>
+		<usPrice>45</usPrice>
+		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
-		<Electronic>1</Electronic>
-		<Inseparable>1</Inseparable>
-		<BlockIronSight>1</BlockIronSight>
-		<BR_NewInventory>0</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
-		<NotBuyable>1</NotBuyable>
-		<VisionRangeBonus>0</VisionRangeBonus>
-		<NightVisionRangeBonus>40</NightVisionRangeBonus>
-		<DayVisionRangeBonus>-40</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>-60</BrightLightVisionRangeBonus>
-		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
-		<PercentTunnelVision>60</PercentTunnelVision>
-		<ThermalOptics>1</ThermalOptics>
-		<NeedsBatteries>0</NeedsBatteries>
-		<ScopeMagFactor>1.0</ScopeMagFactor>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS>
-		</STAND_MODIFIERS>
+		<ContainsLiquid>1</ContainsLiquid>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
-	</ITEM>
+        </ITEM>
 	<ITEM>
 		<uiIndex>2974</uiIndex>
-		<szItemName>Fuse</szItemName>
-		<szLongItemName>Fuse</szLongItemName>
-		<szItemDesc>Use to blow up TNT stick.</szItemDesc>
+		<szItemName>Improvised Fuse</szItemName>
+		<szLongItemName>Improvised Fuse</szLongItemName>
+		<szItemDesc>Use to blow up TNT.</szItemDesc>
 		<szBRName>Detonator</szBRName>
-		<szBRDesc>Use to blow up TNT stick.</szBRDesc>
+		<szBRDesc>Use to blow up TNT.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>65536</AttachmentClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -76849,11 +77455,31 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 	</ITEM>
 	<ITEM>
 		<uiIndex>2976</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2976</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>Small Tool Kit</szItemName>
+		<szLongItemName>Tool Kit, small</szLongItemName>
+		<szItemDesc>This small tool kit for field service contains all necessary tools for emergency repairs in the field.</szItemDesc>
+		<szBRName>Tool Kit, small</szBRName>
+		<szBRDesc>This small tool kit for field service contains all necessary tools for emergency repairs in the field.</szBRDesc>
+		<usItemClass>8192</usItemClass>
+		<ubCursor>19</ubCursor>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>451</ubGraphicNum>
+		<ubWeight>28</ubWeight>
+		<ItemSize>26</ItemSize>
+		<usPrice>350</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>3</BR_NewInventory>
+		<PercentStatusDrainReduction>-100</PercentStatusDrainReduction>
+		<Hardware>1</Hardware>
+		<Toolkit>1</Toolkit>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<DisarmModifier>10</DisarmModifier>
+		<RepairModifier>20</RepairModifier>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
