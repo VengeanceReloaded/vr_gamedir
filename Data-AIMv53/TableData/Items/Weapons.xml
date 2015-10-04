@@ -1225,7 +1225,7 @@
 		<ubBulletSpeed>22</ubBulletSpeed>
 		<ubImpact>38</ubImpact>
 		<ubDeadliness>28</ubDeadliness>
-		<bAccuracy>1</bAccuracy>
+		<bAccuracy>2</bAccuracy>
 		<ubMagSize>7</ubMagSize>
 		<usRange>150</usRange>
 		<usReloadDelay>200</usReloadDelay>
@@ -6325,7 +6325,7 @@
 		<ubDeadliness>26</ubDeadliness>
 		<bAccuracy>2</bAccuracy>
 		<ubMagSize>4</ubMagSize>
-		<usRange>150</usRange>
+		<usRange>120</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
 		<ubAttackVolume>85</ubAttackVolume>
@@ -12334,7 +12334,7 @@
 		<ubDeadliness>23</ubDeadliness>
 		<bAccuracy>5</bAccuracy>
 		<ubMagSize>30</ubMagSize>
-		<usRange>200</usRange>
+		<usRange>270</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>43</BurstAniDelay>
 		<ubAttackVolume>55</ubAttackVolume>
@@ -12851,7 +12851,7 @@
 		<ubDeadliness>23</ubDeadliness>
 		<bAccuracy>5</bAccuracy>
 		<ubMagSize>30</ubMagSize>
-		<usRange>200</usRange>
+		<usRange>270</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>43</BurstAniDelay>
 		<ubAttackVolume>55</ubAttackVolume>
@@ -16831,7 +16831,7 @@
 		<ubDeadliness>20</ubDeadliness>
 		<bAccuracy>8</bAccuracy>
 		<ubMagSize>9</ubMagSize>
-		<usRange>300</usRange>
+		<usRange>230</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
 		<ubAttackVolume>52</ubAttackVolume>
@@ -16862,7 +16862,7 @@
 		<ubDeadliness>20</ubDeadliness>
 		<bAccuracy>8</bAccuracy>
 		<ubMagSize>8</ubMagSize>
-		<usRange>320</usRange>
+		<usRange>260</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
 		<ubAttackVolume>68</ubAttackVolume>
@@ -17058,7 +17058,7 @@
 		<ubDeadliness>23</ubDeadliness>
 		<bAccuracy>5</bAccuracy>
 		<ubMagSize>30</ubMagSize>
-		<usRange>190</usRange>
+		<usRange>260</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>43</BurstAniDelay>
 		<ubAttackVolume>54</ubAttackVolume>
@@ -17263,7 +17263,7 @@
 		<ubDeadliness>23</ubDeadliness>
 		<bAccuracy>4</bAccuracy>
 		<ubMagSize>30</ubMagSize>
-		<usRange>200</usRange>
+		<usRange>270</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>43</BurstAniDelay>
 		<ubAttackVolume>55</ubAttackVolume>
@@ -17795,7 +17795,7 @@
 		<ubDeadliness>30</ubDeadliness>
 		<bAccuracy>5</bAccuracy>
 		<ubMagSize>30</ubMagSize>
-		<usRange>340</usRange>
+		<usRange>360</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>40</BurstAniDelay>
 		<ubAttackVolume>75</ubAttackVolume>
@@ -17877,7 +17877,7 @@
 		<ubDeadliness>15</ubDeadliness>
 		<bAccuracy>-5</bAccuracy>
 		<ubMagSize>30</ubMagSize>
-		<usRange>91</usRange>
+		<usRange>160</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>65</BurstAniDelay>
 		<ubAttackVolume>55</ubAttackVolume>
@@ -18003,7 +18003,7 @@
 		<ubDeadliness>23</ubDeadliness>
 		<bAccuracy>5</bAccuracy>
 		<ubMagSize>15</ubMagSize>
-		<usRange>400</usRange>
+		<usRange>260</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>43</BurstAniDelay>
 		<ubAttackVolume>56</ubAttackVolume>
@@ -18015,7 +18015,7 @@
 		<sLocknLoadSound>107</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>12</bBurstAP>
-		<bAutofireShotsPerFiveAP>4</bAutofireShotsPerFiveAP>
+		<bAutofireShotsPerFiveAP>0</bAutofireShotsPerFiveAP>
 		<APsToReload>22</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
@@ -18284,4 +18284,79 @@
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>60</usOverheatingSingleShotTemperature>
 	</WEAPON>
+	<WEAPON>
+		<uiIndex>2147</uiIndex>
+		<szWeaponName>Bataan Modelo 71</szWeaponName>
+		<ubWeaponClass>5</ubWeaponClass>
+		<ubWeaponType>8</ubWeaponType>
+		<ubCalibre>5</ubCalibre>
+		<ubReadyTime>12</ubReadyTime>
+		<ubShotsPer4Turns>10.41</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>38</ubImpact>
+		<ubDeadliness>26</ubDeadliness>
+		<bAccuracy>2</bAccuracy>
+		<ubMagSize>4</ubMagSize>
+		<usRange>140</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>85</ubAttackVolume>
+		<ubHitVolume>8</ubHitVolume>
+		<sSound>435</sSound>
+		<sBurstSound>126</sBurstSound>
+		<sReloadSound>561</sReloadSound>
+		<sLocknLoadSound>555</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>20</bBurstAP>
+		<APsToReload>16</APsToReload>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<APsToReloadManually>10</APsToReloadManually>
+		<ManualReloadSound>555</ManualReloadSound>
+		<nAccuracy>20</nAccuracy>
+		<ubAimLevels>3</ubAimLevels>
+		<Handling>9</Handling>
+		<usOverheatingJamThreshold>40000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>15000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>150</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>2148</uiIndex>
+		<szWeaponName>Taurus CT-40</szWeaponName>
+		<ubWeaponClass>2</ubWeaponClass>
+		<ubWeaponType>3</ubWeaponType>
+		<ubCalibre>23</ubCalibre>
+		<ubReadyTime>7</ubReadyTime>
+		<ubShotsPer4Turns>13.4</ubShotsPer4Turns>
+		<ubBurstPenalty>7</ubBurstPenalty>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>31</ubImpact>
+		<ubDeadliness>20</ubDeadliness>
+		<bAccuracy>5</bAccuracy>
+		<ubMagSize>14</ubMagSize>
+		<usRange>240</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>34</BurstAniDelay>
+		<ubAttackVolume>56</ubAttackVolume>
+		<ubHitVolume>3</ubHitVolume>
+		<sSound>301</sSound>
+		<sBurstSound>15</sBurstSound>
+		<sSilencedBurstSound>62</sSilencedBurstSound>
+		<sReloadSound>101</sReloadSound>
+		<sLocknLoadSound>107</sLocknLoadSound>
+		<SilencedSound>376</SilencedSound>
+		<bBurstAP>7</bBurstAP>
+		<bAutofireShotsPerFiveAP>0</bAutofireShotsPerFiveAP>
+		<APsToReload>22</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<AutoPenalty>7</AutoPenalty>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>30</nAccuracy>
+		<bRecoilY>4</bRecoilY>
+		<ubAimLevels>6</ubAimLevels>
+		<Handling>14</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>50</usOverheatingSingleShotTemperature>
+	</WEAPON>		 	
 </WEAPONLIST>
