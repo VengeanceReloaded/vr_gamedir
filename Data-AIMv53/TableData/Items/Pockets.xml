@@ -260,8 +260,9 @@
 		<pRestriction>268437256</pRestriction>
 		<pType>1</pType>
 		<ItemCapacityPerSize12>2</ItemCapacityPerSize12>
+		<ItemCapacityPerSize13>1</ItemCapacityPerSize13>
 		<ItemCapacityPerSize15>0</ItemCapacityPerSize15>
-		<ItemCapacityPerSize16>1</ItemCapacityPerSize16>
+		<ItemCapacityPerSize16>2</ItemCapacityPerSize16>
 		<ItemCapacityPerSize20>1</ItemCapacityPerSize20>
 	</POCKET>
 	<POCKET>
@@ -345,7 +346,7 @@
 		<pSilhouette>23</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>1024</pRestriction>
-		<ItemCapacityPerSize10>5</ItemCapacityPerSize10>
+		<ItemCapacityPerSize10>0</ItemCapacityPerSize10>
 		<ItemCapacityPerSize14>2</ItemCapacityPerSize14>
 	</POCKET>
 	<POCKET>
@@ -376,7 +377,7 @@
 		<ItemCapacityPerSize13>2</ItemCapacityPerSize13>
 		<ItemCapacityPerSize14>0</ItemCapacityPerSize14>
 		<ItemCapacityPerSize15>2</ItemCapacityPerSize15>
-		<ItemCapacityPerSize16>2</ItemCapacityPerSize16>
+		<ItemCapacityPerSize16>3</ItemCapacityPerSize16>
 		<ItemCapacityPerSize20>2</ItemCapacityPerSize20>
 	</POCKET>
 	<POCKET>
@@ -386,10 +387,10 @@
 		<pType>1</pType>
 		<pRestriction>268437256</pRestriction>
 		<ItemCapacityPerSize12>6</ItemCapacityPerSize12>
-		<ItemCapacityPerSize13>2</ItemCapacityPerSize13>
+		<ItemCapacityPerSize13>3</ItemCapacityPerSize13>
 		<ItemCapacityPerSize14>2</ItemCapacityPerSize14>
 		<ItemCapacityPerSize15>2</ItemCapacityPerSize15>
-		<ItemCapacityPerSize16>3</ItemCapacityPerSize16>
+		<ItemCapacityPerSize16>4</ItemCapacityPerSize16>
 		<ItemCapacityPerSize20>3</ItemCapacityPerSize20>	
 	</POCKET>
 	<POCKET>
@@ -546,10 +547,11 @@
 		<pSilhouette>28</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>1024</pRestriction>
-		<ItemCapacityPerSize10>6</ItemCapacityPerSize10>
-		<ItemCapacityPerSize11>4</ItemCapacityPerSize11>
-		<ItemCapacityPerSize12>3</ItemCapacityPerSize12>
-		<ItemCapacityPerSize13>2</ItemCapacityPerSize13>
+		<ItemCapacityPerSize10>0</ItemCapacityPerSize10>
+		<ItemCapacityPerSize11>6</ItemCapacityPerSize11>
+		<ItemCapacityPerSize12>0</ItemCapacityPerSize12>
+		<ItemCapacityPerSize13>3</ItemCapacityPerSize13>
+		<ItemCapacityPerSize14>2</ItemCapacityPerSize14>
 	</POCKET>
 	<POCKET>
 		<pIndex>41</pIndex>
