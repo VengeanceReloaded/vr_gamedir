@@ -861,6 +861,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<DefaultAttachment>2859</DefaultAttachment>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
@@ -1232,6 +1233,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<DefaultAttachment>1007</DefaultAttachment>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
@@ -6199,7 +6201,7 @@
 		<ubGraphicNum>73</ubGraphicNum>
 		<ubWeight>5</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>18</ItemSize>
+		<ItemSize>17</ItemSize>
 		<usPrice>100</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
@@ -6825,7 +6827,7 @@
 		<ubGraphicNum>423</ubGraphicNum>
 		<ubWeight>1</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>13</ItemSize>
+		<ItemSize>11</ItemSize>
 		<usPrice>100</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<bRepairEase>1</bRepairEase>
@@ -6854,7 +6856,7 @@
 		<ubGraphicNum>47</ubGraphicNum>
 		<ubWeight>1</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>13</ItemSize>
+		<ItemSize>11</ItemSize>
 		<usPrice>200</usPrice>
 		<ubCoolness>4</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
@@ -10223,6 +10225,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<DefaultAttachment>1030</DefaultAttachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -18189,7 +18192,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
-		<DefaultAttachment>208</DefaultAttachment>
+		<DefaultAttachment>1007</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>50.0</DirtIncreaseFactor>
@@ -18663,7 +18666,7 @@
 		<ubGraphicNum>179</ubGraphicNum>
 		<ubWeight>38</ubWeight>
 		<ItemSize>7</ItemSize>
-		<usPrice>3740</usPrice>
+		<usPrice>3140</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -18698,7 +18701,7 @@
 		<ubGraphicNum>181</ubGraphicNum>
 		<ubWeight>42</ubWeight>
 		<ItemSize>5</ItemSize>
-		<usPrice>3160</usPrice>
+		<usPrice>3560</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -20121,6 +20124,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<DefaultAttachment>1181</DefaultAttachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -29421,7 +29425,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>14</ItemSize>
 		<usPrice>3000</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -31074,7 +31078,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>14</ItemSize>
 		<usPrice>900</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -32079,7 +32083,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>400</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -46067,7 +46071,7 @@
 		<ubGraphicNum>188</ubGraphicNum>
 		<ubWeight>16</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>17</ItemSize>
+		<ItemSize>21</ItemSize>
 		<usPrice>1250</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -46159,7 +46163,7 @@
 		<ubGraphicNum>435</ubGraphicNum>
 		<ubWeight>1</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>13</ItemSize>
+		<ItemSize>11</ItemSize>
 		<usPrice>150</usPrice>
 		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
@@ -46190,7 +46194,7 @@
 		<ubGraphicNum>436</ubGraphicNum>
 		<ubWeight>1</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>13</ItemSize>
+		<ItemSize>11</ItemSize>
 		<usPrice>375</usPrice>
 		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
@@ -47633,10 +47637,10 @@
 	<ITEM>
 		<uiIndex>1584</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
-		<szLongItemName>M18 Claymore</szLongItemName>
-		<szItemDesc>This anti-personnel mine will give your opponents balls of steel, 800 to be exact, firing in a 60 degree arc from 1.2 pounds of C4 all wrapped up in a concave plastic shell.</szItemDesc>
-		<szBRName>M18 Claymore</szBRName>
-		<szBRDesc>Lay ambushes with these babies and a network of tripwire. Can also be activated remotely. We accept no responsibility for casualties due to facing mines the wrong way.</szBRDesc>
+		<szLongItemName>M18A1 Claymore Mine NE</szLongItemName>
+		<szItemDesc>Internal Claymore, facing North East.</szItemDesc>
+		<szBRName>M18A1 Claymore Mine NE</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>94</ubClassIndex>
@@ -47645,7 +47649,7 @@
 		<ubGraphicNum>97</ubGraphicNum>
 		<ubWeight>16</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>17</ItemSize>
+		<ItemSize>21</ItemSize>
 		<usPrice>1250</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -47665,10 +47669,10 @@
 	<ITEM>
 		<uiIndex>1585</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
-		<szLongItemName>M18 Claymore</szLongItemName>
-		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
-		<szBRName>M18 Claymore</szBRName>
-		<szBRDesc>Lay ambushes with these babies and a network of tripwire. Can also be activated remotely. We accept no responsibility for casualties due to facing mines the wrong way.</szBRDesc>
+		<szLongItemName>M18A1 Claymore Mine E</szLongItemName>
+		<szItemDesc>Internal Claymore, facing East.</szItemDesc>
+		<szBRName>M18A1 Claymore Mine E</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>95</ubClassIndex>
@@ -47677,7 +47681,7 @@
 		<ubGraphicNum>97</ubGraphicNum>
 		<ubWeight>16</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>17</ItemSize>
+		<ItemSize>21</ItemSize>
 		<usPrice>1250</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -47697,10 +47701,10 @@
 	<ITEM>
 		<uiIndex>1586</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
-		<szLongItemName>M18 Claymore</szLongItemName>
-		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
-		<szBRName>M18 Claymore</szBRName>
-		<szBRDesc>Lay ambushes with these babies and a network of tripwire. Can also be activated remotely. We accept no responsibility for casualties due to facing mines the wrong way.</szBRDesc>
+		<szLongItemName>M18A1 Claymore Mine SE</szLongItemName>
+		<szItemDesc>Internal Claymore, facing South East.</szItemDesc>
+		<szBRName>M18A1 Claymore Mine SE</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>96</ubClassIndex>
@@ -47709,7 +47713,7 @@
 		<ubGraphicNum>97</ubGraphicNum>
 		<ubWeight>16</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>17</ItemSize>
+		<ItemSize>21</ItemSize>
 		<usPrice>1250</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -47729,10 +47733,10 @@
 	<ITEM>
 		<uiIndex>1587</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
-		<szLongItemName>M18 Claymore</szLongItemName>
-		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
-		<szBRName>M18 Claymore</szBRName>
-		<szBRDesc>Lay ambushes with these babies and a network of tripwire. Can also be activated remotely. We accept no responsibility for casualties due to facing mines the wrong way.</szBRDesc>
+		<szLongItemName>M18A1 Claymore Mine S</szLongItemName>
+		<szItemDesc>Internal Claymore, facing South.</szItemDesc>
+		<szBRName>M18A1 Claymore Mine S</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>97</ubClassIndex>
@@ -47741,7 +47745,7 @@
 		<ubGraphicNum>97</ubGraphicNum>
 		<ubWeight>16</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>17</ItemSize>
+		<ItemSize>21</ItemSize>
 		<usPrice>1250</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -47761,10 +47765,10 @@
 	<ITEM>
 		<uiIndex>1588</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
-		<szLongItemName>M18 Claymore</szLongItemName>
-		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
-		<szBRName>M18 Claymore</szBRName>
-		<szBRDesc>Lay ambushes with these babies and a network of tripwire. Can also be activated remotely. We accept no responsibility for casualties due to facing mines the wrong way.</szBRDesc>
+		<szLongItemName>M18A1 Claymore Mine SW</szLongItemName>
+		<szItemDesc>Internal Claymore, facing South West.</szItemDesc>
+		<szBRName>M18A1 Claymore Mine SW</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>98</ubClassIndex>
@@ -47773,7 +47777,7 @@
 		<ubGraphicNum>97</ubGraphicNum>
 		<ubWeight>16</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>17</ItemSize>
+		<ItemSize>21</ItemSize>
 		<usPrice>1250</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -47793,10 +47797,10 @@
 	<ITEM>
 		<uiIndex>1589</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
-		<szLongItemName>M18 Claymore</szLongItemName>
-		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
-		<szBRName>M18 Claymore</szBRName>
-		<szBRDesc>Lay ambushes with these babies and a network of tripwire. Can also be activated remotely. We accept no responsibility for casualties due to facing mines the wrong way.</szBRDesc>
+		<szLongItemName>M18A1 Claymore Mine W</szLongItemName>
+		<szItemDesc>Internal Claymore, facing West.</szItemDesc>
+		<szBRName>M18A1 Claymore Mine W</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>99</ubClassIndex>
@@ -47805,7 +47809,7 @@
 		<ubGraphicNum>97</ubGraphicNum>
 		<ubWeight>16</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>17</ItemSize>
+		<ItemSize>21</ItemSize>
 		<usPrice>1250</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -47825,10 +47829,10 @@
 	<ITEM>
 		<uiIndex>1590</uiIndex>
 		<szItemName>M18 Claymore</szItemName>
-		<szLongItemName>M18 Claymore</szLongItemName>
-		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
-		<szBRName>M18 Claymore</szBRName>
-		<szBRDesc>Lay ambushes with these babies and a network of tripwire. Can also be activated remotely. We accept no responsibility for casualties due to facing mines the wrong way.</szBRDesc>
+		<szLongItemName>M18A1 Claymore Mine NW</szLongItemName>
+		<szItemDesc>Internal Claymore, facing North West.</szItemDesc>
+		<szBRName>M18A1 Claymore Mine NW</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>100</ubClassIndex>
@@ -47837,7 +47841,7 @@
 		<ubGraphicNum>97</ubGraphicNum>
 		<ubWeight>16</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>17</ItemSize>
+		<ItemSize>21</ItemSize>
 		<usPrice>1250</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -47857,10 +47861,10 @@
 	<ITEM>
 		<uiIndex>1591</uiIndex>
 		<szItemName>Tripwire</szItemName>
-		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szLongItemName>Tripwire 1-B</szLongItemName>
+		<szItemDesc>Internal Tripwire, Network 1 - B.</szItemDesc>
+		<szBRName>Tripwire 1-B</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>101</ubClassIndex>
@@ -47887,10 +47891,10 @@
 	<ITEM>
 		<uiIndex>1592</uiIndex>
 		<szItemName>Tripwire</szItemName>
-		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szLongItemName>Tripwire 1-C</szLongItemName>
+		<szItemDesc>Internal Tripwire, Network 1 - C.</szItemDesc>
+		<szBRName>Tripwire 1-C</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>102</ubClassIndex>
@@ -47917,10 +47921,10 @@
 	<ITEM>
 		<uiIndex>1593</uiIndex>
 		<szItemName>Tripwire</szItemName>
-		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szLongItemName>Tripwire 1-D</szLongItemName>
+		<szItemDesc>Internal Tripwire, Network 1 - D.</szItemDesc>
+		<szBRName>Tripwire 1-D</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>103</ubClassIndex>
@@ -47947,10 +47951,10 @@
 	<ITEM>
 		<uiIndex>1594</uiIndex>
 		<szItemName>Tripwire</szItemName>
-		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szLongItemName>Tripwire 2-A</szLongItemName>
+		<szItemDesc>Internal Tripwire, Network 2 - A.</szItemDesc>
+		<szBRName>Tripwire 2-A</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>104</ubClassIndex>
@@ -47977,10 +47981,10 @@
 	<ITEM>
 		<uiIndex>1595</uiIndex>
 		<szItemName>Tripwire</szItemName>
-		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szLongItemName>Tripwire 2-B</szLongItemName>
+		<szItemDesc>Internal Tripwire, Network 2 - B.</szItemDesc>
+		<szBRName>Tripwire 2-B</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>105</ubClassIndex>
@@ -48007,10 +48011,10 @@
 	<ITEM>
 		<uiIndex>1596</uiIndex>
 		<szItemName>Tripwire</szItemName>
-		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szLongItemName>Tripwire 2-C</szLongItemName>
+		<szItemDesc>Internal Tripwire, Network 2 - C.</szItemDesc>
+		<szBRName>Tripwire 2-C</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>106</ubClassIndex>
@@ -48037,10 +48041,10 @@
 	<ITEM>
 		<uiIndex>1597</uiIndex>
 		<szItemName>Tripwire</szItemName>
-		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szLongItemName>Tripwire 2-D</szLongItemName>
+		<szItemDesc>Internal Tripwire, Network 2 - D.</szItemDesc>
+		<szBRName>Tripwire 2-D</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>107</ubClassIndex>
@@ -48067,10 +48071,10 @@
 	<ITEM>
 		<uiIndex>1598</uiIndex>
 		<szItemName>Tripwire</szItemName>
-		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szLongItemName>Tripwire 3-A</szLongItemName>
+		<szItemDesc>Internal Tripwire, Network 3 - A.</szItemDesc>
+		<szBRName>Tripwire 3-A</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>108</ubClassIndex>
@@ -48097,10 +48101,10 @@
 	<ITEM>
 		<uiIndex>1599</uiIndex>
 		<szItemName>Tripwire</szItemName>
-		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szLongItemName>Tripwire 3-B</szLongItemName>
+		<szItemDesc>Internal Tripwire, Network 3 - B.</szItemDesc>
+		<szBRName>Tripwire 3-B</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>109</ubClassIndex>
@@ -48127,10 +48131,10 @@
 	<ITEM>
 		<uiIndex>1600</uiIndex>
 		<szItemName>Tripwire</szItemName>
-		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szLongItemName>Tripwire 3-C</szLongItemName>
+		<szItemDesc>Internal Tripwire, Network 3 - C.</szItemDesc>
+		<szBRName>Tripwire 3-C</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>110</ubClassIndex>
@@ -48157,10 +48161,10 @@
 	<ITEM>
 		<uiIndex>1601</uiIndex>
 		<szItemName>Tripwire</szItemName>
-		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szLongItemName>Tripwire 3-D</szLongItemName>
+		<szItemDesc>Internal Tripwire, Network 3 - D.</szItemDesc>
+		<szBRName>Tripwire 3-D</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>111</ubClassIndex>
@@ -48187,10 +48191,10 @@
 	<ITEM>
 		<uiIndex>1602</uiIndex>
 		<szItemName>Tripwire</szItemName>
-		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szLongItemName>Tripwire 4-A</szLongItemName>
+		<szItemDesc>Internal Tripwire, Network 4 - A.</szItemDesc>
+		<szBRName>Tripwire 4-A</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>112</ubClassIndex>
@@ -48217,10 +48221,10 @@
 	<ITEM>
 		<uiIndex>1603</uiIndex>
 		<szItemName>Tripwire</szItemName>
-		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szLongItemName>Tripwire 4-B</szLongItemName>
+		<szItemDesc>Internal Tripwire, Network 4 - B.</szItemDesc>
+		<szBRName>Tripwire 4-B</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>113</ubClassIndex>
@@ -48247,10 +48251,10 @@
 	<ITEM>
 		<uiIndex>1604</uiIndex>
 		<szItemName>Tripwire</szItemName>
-		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szLongItemName>Tripwire 4-C</szLongItemName>
+		<szItemDesc>Internal Tripwire, Network 4 - C.</szItemDesc>
+		<szBRName>Tripwire 4-C</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>114</ubClassIndex>
@@ -48277,10 +48281,10 @@
 	<ITEM>
 		<uiIndex>1605</uiIndex>
 		<szItemName>Tripwire</szItemName>
-		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szLongItemName>Tripwire 4-D</szLongItemName>
+		<szItemDesc>Internal Tripwire, Network 4 - D.</szItemDesc>
+		<szBRName>Tripwire 4-D</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>115</ubClassIndex>
@@ -55676,6 +55680,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
+		<DefaultAttachment>1029</DefaultAttachment>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>3</BR_NewInventory>
@@ -57717,7 +57722,7 @@
 		<ubWeight>45</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>4500</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -58064,6 +58069,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<DefaultAttachment>1029</DefaultAttachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -58097,6 +58103,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<DefaultAttachment>1029</DefaultAttachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -59156,7 +59163,7 @@
 		<ubWeight>34</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>1180</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<bReliability>0</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -59322,6 +59329,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<DefaultAttachment>1029</DefaultAttachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
@@ -59724,6 +59732,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<DefaultAttachment>1181</DefaultAttachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_ROF>25</BR_ROF>
@@ -66434,7 +66443,7 @@
 		<ubWeight>5</ubWeight>
 		<ItemSize>31</ItemSize>
 		<usPrice>100</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -66462,7 +66471,7 @@
 		<ubWeight>5</ubWeight>
 		<ItemSize>31</ItemSize>
 		<usPrice>150</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -66516,7 +66525,7 @@
 		<ubWeight>5</ubWeight>
 		<ItemSize>31</ItemSize>
 		<usPrice>100</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -66544,7 +66553,7 @@
 		<ubWeight>5</ubWeight>
 		<ItemSize>31</ItemSize>
 		<usPrice>150</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>1</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -67348,10 +67357,27 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2535</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2535</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>Army Cap</szItemName>
+		<szLongItemName>Army Cap</szLongItemName>
+		<szItemDesc>Standard issue headwear used by paramilitary troops, regular grunts, contractors and everyone else who likes a stylish cap.</szItemDesc>
+		<szBRName>Army Cap</szBRName>
+		<szBRDesc>Standard issue headwear used by paramilitary troops, regular grunts, contractors and everyone else who likes a stylish cap.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<ubClassIndex>237</ubClassIndex>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>453</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ItemSize>14</ItemSize>
+		<usPrice>25</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>4</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>7</CamoBonus>
+		<StealthBonus>2</StealthBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -73885,6 +73911,45 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<RangeBonus>10</RangeBonus>
 		<ToHitBonus>2</ToHitBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS />
+		<CROUCH_MODIFIERS />
+		<PRONE_MODIFIERS />
+	</ITEM>
+	<ITEM>
+		<uiIndex>2859</uiIndex>
+		<szItemName>PU Scope</szItemName>
+		<szLongItemName>PU Scope</szLongItemName>
+		<szItemDesc>Another vintage WW-II scope originally used on Mosin-Nagant rifles, this variant of the PU scope has an AK scope mount to fit a wider range of WP guns.</szItemDesc>
+		<szBRName>PU Scope</szBRName>
+		<szBRDesc>Another vintage WW-II scope originally used on Mosin-Nagant rifles, this variant of the PU scope has an AK scope mount to fit a wider range of WP guns.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<AttachmentClass>16</AttachmentClass>
+		<nasAttachmentClass>16</nasAttachmentClass>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>452</ubGraphicNum>
+		<ubWeight>4</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>13</ItemSize>
+		<ItemSizeBonus>1</ItemSizeBonus>
+		<usPrice>350</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<Attachment>1</Attachment>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>4</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<AimBonus>8</AimBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>40</PercentTunnelVision>
+		<ScopeMagFactor>3.5</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
