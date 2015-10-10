@@ -10,13 +10,13 @@ calls to this script:
 
 	1. The strategic layer gets initialized.
 	   Right after a new game is started, the program calls InitializeMines to
-	   gather the data defining the mines (see §1.). It then uses that data to
+	   gather the data defining the mines (see ï¿½1.). It then uses that data to
 	   actually create the mines.
 	
 	2. The player enters a mine sector.
 	   When a mine sector gets loaded (tactical mode), the program calls
 	   InitializeHeadMiners to collect information on creation of head miners
-	   and how to distribute them among the mines (see §2.).
+	   and how to distribute them among the mines (see ï¿½2.).
 
 
 **********************
@@ -47,7 +47,7 @@ calls to this script:
 
 
 ----------------------------------------
--- §0. Some setup code to get started --
+-- ï¿½0. Some setup code to get started --
 ----------------------------------------
 
 -- Initialize the pseudo random number generator
@@ -59,7 +59,7 @@ MineType = { Silver = 0, Gold = 1, Oil = 2 }
 
 
 -----------------------------
--- §1. Mine initialization --
+-- ï¿½1. Mine initialization --
 -----------------------------
 
 --[[
@@ -76,7 +76,7 @@ MineType = { Silver = 0, Gold = 1, Oil = 2 }
       String, defining the sector to place the mine, e.g. "A10".
     
     - Type
-      Use MineType.Gold or MineType.Silver (cp. §0.).
+      Use MineType.Gold or MineType.Silver (cp. ï¿½0.).
     
     - MaxRemovalRate
       Amount of income to be gained at each production period ( = 1/4 of
@@ -101,7 +101,7 @@ MineType = { Silver = 0, Gold = 1, Oil = 2 }
 function InitializeMines()
 
     --------------------------------------
-    -- §1.1. Set up initial mine status --
+    -- ï¿½1.1. Set up initial mine status --
     --------------------------------------
 
     local mines = 
@@ -118,7 +118,7 @@ function InitializeMines()
         -- Drassen
         {
             Location = "D13", Type = MineType.Silver,
-            MinimumProduction = 1000,
+            MinimumProduction = 500,
             AssociatedUnderground = { "D13-1", "E13-1" },
             Infectible = 1,
         },
@@ -142,7 +142,7 @@ function InitializeMines()
         -- Oro Negro //Chitzena
         {
             Location = "B1", Type = MineType.Oil,
-            MinimumProduction = 500,
+            MinimumProduction = 1000,
             AssociatedUnderground = { "B2-1" },
         },
 
@@ -157,7 +157,7 @@ function InitializeMines()
 
 
     -----------------------------------
-    -- §1.2. Vanilla JA2 logic below --
+    -- ï¿½1.2. Vanilla JA2 logic below --
     -----------------------------------
 
     -- create variables for easy identification at quest related stuff
@@ -245,7 +245,7 @@ end -- function InitializeMines
 
 
 ------------------------------------
--- §2. Head miners initialization --
+-- ï¿½2. Head miners initialization --
 ------------------------------------
 
 --[[
@@ -266,7 +266,7 @@ end -- function InitializeMines
       - MaxRemovalRate
     
     - currentMine
-      This is the index of the mine being entered by the player (cp. §1.1.).
+      This is the index of the mine being entered by the player (cp. ï¿½1.1.).
     
     If the function does not return nil but the head miners distribution, it
     must return an array of tables consisting of the following members:
@@ -284,7 +284,7 @@ end -- function InitializeMines
       It is valid to insert -1 for missing quotes.
     
     - MineID
-      The index of the mine the head miner is assigned to (cp. §1.1.).
+      The index of the mine the head miner is assigned to (cp. ï¿½1.1.).
 
  ]]
  
@@ -312,8 +312,8 @@ function InitializeHeadMiners(mines, currentMine)
     local Fred = headMinerInfo[1]
     local Matt = headMinerInfo[2]
 
-    local AlmaID = 3 -- cp. §1.1.
-	local DrassenID = 2 -- cp. §1.1.
+    local AlmaID = 3 -- cp. ï¿½1.1.
+	local DrassenID = 2 -- cp. ï¿½1.1.
 
     -- don't place miners until player enters a producing mine
     if mines[currentMine].MaxRemovalRate == 0 then
