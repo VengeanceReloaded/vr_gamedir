@@ -14541,8 +14541,13 @@
 			<mSmall7>0</mSmall7>
 			<mSmall7Status>0</mSmall7Status>
 			<mSmall7Quantity>0</mSmall7Quantity>
+<<<<<<< .mine
+			<lVest>1089</lVest>
+			<lVestStatus>100</lVestStatus>
+=======
 			<lVest>0</lVest>
 			<lVestStatus>0</lVestStatus>
+>>>>>>> .r940
 			<lLeftThigh>0</lLeftThigh>
 			<lLeftThighStatus>0</lLeftThighStatus>
 			<lRightThigh>0</lRightThigh>
