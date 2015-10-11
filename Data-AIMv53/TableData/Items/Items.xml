@@ -247,7 +247,7 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -282,7 +282,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -317,7 +317,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -351,7 +351,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -396,7 +396,7 @@
 		<bRepairEase>4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -431,7 +431,7 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -464,7 +464,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -497,7 +497,7 @@
 		<ubCoolness>2</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -530,7 +530,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -573,7 +573,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -614,7 +614,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -647,7 +647,7 @@
 		<ubCoolness>4</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -687,7 +687,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -727,7 +727,7 @@
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -762,13 +762,13 @@
 		<ubGraphicNum>15</ubGraphicNum>
 		<ubWeight>25</ubWeight>
 		<ItemSize>5</ItemSize>
-		<usPrice>3177</usPrice>
+		<usPrice>6500</usPrice>
 		<ubCoolness>8</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -815,7 +815,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -856,7 +856,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -891,7 +891,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -926,7 +926,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -961,7 +961,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -1007,7 +1007,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -1042,7 +1042,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -1075,7 +1075,7 @@
 		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -1117,7 +1117,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -1159,7 +1159,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -1194,7 +1194,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -1228,7 +1228,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -1264,7 +1264,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -1300,7 +1300,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -1329,7 +1329,7 @@
 		<ubGraphicNum>30</ubGraphicNum>
 		<ubWeight>36</ubWeight>
 		<ItemSize>7</ItemSize>
-		<usPrice>5299</usPrice>
+		<usPrice>21300</usPrice>
 		<ubCoolness>8</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>-4</bRepairEase>
@@ -1372,7 +1372,7 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -1407,7 +1407,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -1448,7 +1448,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -1484,7 +1484,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -1519,7 +1519,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -1560,7 +1560,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -1601,7 +1601,7 @@
 		<ubCoolness>2</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -1640,7 +1640,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -2064,7 +2064,7 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -2154,7 +2154,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -2275,7 +2275,7 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -2310,7 +2310,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -2339,7 +2339,7 @@
 		<usPrice>3582</usPrice>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -2462,7 +2462,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -2494,7 +2494,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -2527,7 +2527,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -2562,7 +2562,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -3172,7 +3172,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>150</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -3196,7 +3196,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>100</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -3728,7 +3728,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>16</ItemSize>
 		<usPrice>400</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -6169,6 +6169,8 @@
 		<bReliability>1</bReliability>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>
+		<WaterDamages>1</WaterDamages>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -6291,7 +6293,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -6401,9 +6403,10 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>1000</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>9</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -6575,7 +6578,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Attachment>1</Attachment>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -6832,6 +6835,7 @@
 		<ubCoolness>3</ubCoolness>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
@@ -6864,6 +6868,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -7230,12 +7235,13 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>1500</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -7274,6 +7280,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -7626,6 +7633,7 @@
 		<ItemSize>20</ItemSize>
 		<usPrice>20</usPrice>
 		<ubCoolness>3</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -7648,6 +7656,7 @@
 		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Electronic>1</Electronic>
@@ -7674,6 +7683,7 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<RobotRemoteControl>1</RobotRemoteControl>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -7763,6 +7773,7 @@
 		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -7788,6 +7799,7 @@
 		<ubCoolness>2</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -7838,6 +7850,7 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Walkman>1</Walkman>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -7863,6 +7876,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -8064,7 +8078,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<Metal>1</Metal>
-		<NotBuyable>1</NotBuyable>
+		<NotBuyable>1</NotBuyable>		
 		<Electronic>1</Electronic>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -8670,7 +8684,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -8740,7 +8754,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -8778,7 +8792,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -8814,7 +8828,7 @@
 		<bRepairEase>4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -9059,7 +9073,7 @@
 		<ubCoolness>4</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
@@ -9192,6 +9206,7 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<HiddenAddon>1</HiddenAddon>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -9242,6 +9257,7 @@
 		<Repairable>1</Repairable>
 		<HiddenAddon>1</HiddenAddon>
 		<NotBuyable>1</NotBuyable>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -9266,6 +9282,7 @@
 		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -9288,6 +9305,7 @@
 		<ItemSize>16</ItemSize>
 		<usPrice>10</usPrice>
 		<ubCoolness>5</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<HiddenAddon>1</HiddenAddon>
 		<Attachment>1</Attachment>
@@ -9339,6 +9357,7 @@
 		<Metal>1</Metal>
 		<HiddenAddon>1</HiddenAddon>
 		<NotBuyable>1</NotBuyable>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -9411,6 +9430,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<XRay>1</XRay>
 		<NeedsBatteries>1</NeedsBatteries>
@@ -9555,7 +9575,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -9593,7 +9613,7 @@
 		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -9628,7 +9648,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -9659,11 +9679,11 @@
 		<ubWeight>26</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>7785</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -9701,7 +9721,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -9738,7 +9758,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -9775,7 +9795,7 @@
 		<bReliability>2</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -9805,12 +9825,12 @@
 		<ubWeight>6</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>1</ItemSize>
-		<usPrice>1039</usPrice>
+		<usPrice>1950</usPrice>
 		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -9842,7 +9862,7 @@
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -9877,7 +9897,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -9911,7 +9931,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -9952,7 +9972,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -9988,7 +10008,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -10064,7 +10084,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -10102,7 +10122,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -10142,7 +10162,7 @@
 		<ubCoolness>4</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -10184,7 +10204,7 @@
 		<bRepairEase>4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -10220,7 +10240,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -10253,11 +10273,11 @@
 		<ubWeight>21</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>2614</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -10297,7 +10317,7 @@
 		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -11530,7 +11550,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -12436,7 +12456,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>90</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -12463,7 +12483,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>135</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -15155,7 +15175,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>108</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -16541,7 +16561,7 @@
 		<ItemSize>16</ItemSize>
 		<ItemSizeBonus>1</ItemSizeBonus>
 		<usPrice>1200</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bReliability>-1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -16586,7 +16606,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -16622,7 +16642,7 @@
 		<ubCoolness>2</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -16698,7 +16718,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -16733,7 +16753,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -16766,9 +16786,10 @@
 		<ubCoolness>1</ubCoolness>
 		<bReliability>-2</bReliability>
 		<bRepairEase>2</bRepairEase>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -16801,7 +16822,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -16833,7 +16854,7 @@
 		<bReliability>2</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -16868,7 +16889,7 @@
 		<ubCoolness>3</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -16909,7 +16930,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -16950,7 +16971,7 @@
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -16992,7 +17013,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17083,7 +17104,7 @@
 		<bReliability>3</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17124,7 +17145,7 @@
 		<bReliability>3</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17165,7 +17186,7 @@
 		<bReliability>3</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17206,7 +17227,7 @@
 		<bReliability>3</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17247,7 +17268,7 @@
 		<bReliability>3</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17288,7 +17309,7 @@
 		<bReliability>3</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17330,7 +17351,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17372,7 +17393,7 @@
 		<bRepairEase>4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17414,7 +17435,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17456,7 +17477,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17501,7 +17522,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17537,7 +17558,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17581,7 +17602,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17624,7 +17645,7 @@
 		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17662,7 +17683,7 @@
 		<ubCoolness>10</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17698,7 +17719,7 @@
 		<bReliability>2</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17740,7 +17761,7 @@
 		<bReliability>2</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17775,7 +17796,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17809,7 +17830,7 @@
 		<bReliability>2</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17844,7 +17865,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17881,7 +17902,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17923,7 +17944,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -17960,7 +17981,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18002,7 +18023,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18037,7 +18058,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18074,7 +18095,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18107,7 +18128,7 @@
 		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18142,7 +18163,7 @@
 		<bReliability>-1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18183,7 +18204,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18219,7 +18240,7 @@
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18254,7 +18275,7 @@
 		<bReliability>2</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18288,7 +18309,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18322,7 +18343,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18356,7 +18377,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18400,7 +18421,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18435,7 +18456,7 @@
 		<ubCoolness>4</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18481,7 +18502,7 @@
 		<ubCoolness>4</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18521,7 +18542,7 @@
 		<ubCoolness>4</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18564,7 +18585,7 @@
 		<ubCoolness>2</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18600,7 +18621,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18635,7 +18656,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18671,7 +18692,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18706,7 +18727,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18751,7 +18772,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18789,7 +18810,7 @@
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18833,7 +18854,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18876,7 +18897,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18917,7 +18938,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18959,7 +18980,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -18997,7 +19018,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19038,7 +19059,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19079,7 +19100,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19118,7 +19139,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19152,7 +19173,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19188,7 +19209,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19235,7 +19256,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19278,7 +19299,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19315,12 +19336,12 @@
 		<ubWeight>12</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>2</ItemSize>
-		<usPrice>1890</usPrice>
+		<usPrice>6500</usPrice>
 		<ubCoolness>8</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19356,7 +19377,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19398,7 +19419,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19440,7 +19461,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19481,7 +19502,7 @@
 		<bReliability>2</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19523,7 +19544,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19565,7 +19586,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19640,7 +19661,7 @@
 		<ubCoolness>4</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19681,7 +19702,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19730,7 +19751,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19778,7 +19799,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19815,7 +19836,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19849,7 +19870,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19888,7 +19909,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19930,7 +19951,7 @@
 		<ubCoolness>2</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -19964,7 +19985,7 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20000,7 +20021,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20036,7 +20057,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20080,7 +20101,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20119,7 +20140,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20156,7 +20177,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20192,7 +20213,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20236,6 +20257,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -20278,7 +20300,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20325,7 +20347,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20365,7 +20387,7 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20399,7 +20421,7 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20433,7 +20455,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20474,7 +20496,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20514,7 +20536,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20523,6 +20545,7 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
+		<DefaultAttachment>1182</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -20549,7 +20572,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20584,7 +20607,7 @@
 		<ubCoolness>2</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20618,7 +20641,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20654,7 +20677,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20691,7 +20714,7 @@
 		<ubCoolness>8</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20728,7 +20751,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20764,7 +20787,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20804,7 +20827,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20844,7 +20867,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20879,7 +20902,7 @@
 		<ubCoolness>3</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20913,7 +20936,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20948,7 +20971,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -20984,7 +21007,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21026,7 +21049,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21061,7 +21084,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21102,7 +21125,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21139,7 +21162,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21175,7 +21198,7 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21210,7 +21233,7 @@
 		<ubCoolness>6</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21246,7 +21269,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21290,7 +21313,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21333,7 +21356,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21376,7 +21399,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21412,7 +21435,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21446,7 +21469,7 @@
 		<bReliability>2</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21481,7 +21504,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21516,7 +21539,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21557,7 +21580,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21592,7 +21615,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21623,11 +21646,11 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>1</ItemSize>
 		<usPrice>910</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21662,7 +21685,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21695,7 +21718,7 @@
 		<ubCoolness>3</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21736,7 +21759,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21783,7 +21806,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21829,7 +21852,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21872,7 +21895,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21909,7 +21932,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -21953,7 +21976,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22000,7 +22023,7 @@
 		<ubCoolness>4</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22047,7 +22070,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22089,7 +22112,7 @@
 		<ubCoolness>8</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22132,7 +22155,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22169,7 +22192,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22203,7 +22226,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22249,7 +22272,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22283,7 +22306,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22319,7 +22342,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22364,7 +22387,7 @@
 		<ubCoolness>6</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22399,7 +22422,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22441,7 +22464,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22477,7 +22500,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22507,12 +22530,12 @@
 		<ubWeight>37</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>4740</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>-1</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22550,7 +22573,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22586,7 +22609,7 @@
 		<ubCoolness>3</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22675,7 +22698,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22718,7 +22741,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22761,7 +22784,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22803,7 +22826,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22846,7 +22869,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22881,7 +22904,7 @@
 		<ubCoolness>3</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22917,7 +22940,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -22965,7 +22988,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23012,7 +23035,7 @@
 		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23053,7 +23076,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23088,7 +23111,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23122,7 +23145,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23157,7 +23180,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23198,7 +23221,7 @@
 		<bReliability>-1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23233,7 +23256,7 @@
 		<bReliability>-1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23274,7 +23297,7 @@
 		<bReliability>-1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23309,7 +23332,7 @@
 		<bReliability>-1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23343,7 +23366,7 @@
 		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23376,7 +23399,7 @@
 		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23411,7 +23434,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23445,7 +23468,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23485,7 +23508,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23521,7 +23544,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23556,7 +23579,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23589,7 +23612,7 @@
 		<ubCoolness>3</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23624,7 +23647,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23663,7 +23686,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23705,7 +23728,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23714,6 +23737,7 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>26</BR_ROF>
+		<DefaultAttachment>1180</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>12</DamageChance>
 		<DirtIncreaseFactor>24.0</DirtIncreaseFactor>
@@ -23739,7 +23763,7 @@
 		<ubCoolness>7</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23774,7 +23798,7 @@
 		<ubCoolness>7</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23811,7 +23835,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23847,7 +23871,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23882,7 +23906,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23917,7 +23941,7 @@
 		<bReliability>-1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23959,7 +23983,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -23994,7 +24018,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -24032,7 +24056,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -24080,7 +24104,7 @@
 		<ubCoolness>2</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -24117,7 +24141,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -24158,7 +24182,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -24198,7 +24222,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -24235,7 +24259,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -24276,7 +24300,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -24317,7 +24341,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -24358,7 +24382,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -24396,7 +24420,7 @@
 		<ubCoolness>4</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -24437,7 +24461,7 @@
 		<bReliability>2</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -24470,7 +24494,7 @@
 		<ubCoolness>8</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -24510,7 +24534,7 @@
 		<ubCoolness>7</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -24552,7 +24576,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -27602,7 +27626,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -27633,12 +27657,12 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>2</ItemSize>
 		<usPrice>680</usPrice>
-		<ubCoolness>2</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<bReliability>3</bReliability>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -27673,7 +27697,7 @@
 		<bReliability>2</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -27708,7 +27732,7 @@
 		<bReliability>2</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -27742,7 +27766,7 @@
 		<ubCoolness>2</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -27777,7 +27801,7 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -27812,7 +27836,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -27848,7 +27872,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -27907,7 +27931,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -27941,7 +27965,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -27975,7 +27999,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -28011,7 +28035,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -28047,7 +28071,7 @@
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -28335,6 +28359,7 @@
 		<ubCoolness>9</ubCoolness>
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -29513,13 +29538,14 @@
 		<ubWeight>10</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>1500</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -29563,6 +29589,7 @@
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -29595,13 +29622,14 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>18</ItemSize>
 		<usPrice>2500</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -31086,6 +31114,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -31121,6 +31150,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -31162,6 +31192,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -31314,6 +31345,7 @@
 		<Attachment>1</Attachment>
 		<BlockIronSight>1</BlockIronSight>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -31350,7 +31382,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>14</ItemSize>
 		<usPrice>2000</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -31358,6 +31390,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -31392,7 +31425,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>1400</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -31400,6 +31433,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -31429,6 +31463,7 @@
 		<usPrice>600</usPrice>
 		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
@@ -31507,7 +31542,7 @@
 		<ItemSize>22</ItemSize>
 		<ItemSizeBonus>-1</ItemSizeBonus>
 		<usPrice>400</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -31573,7 +31608,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>16</ItemSize>
 		<usPrice>300</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bRepairEase>5</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -31676,7 +31711,7 @@
 		<ItemSize>17</ItemSize>
 		<usPrice>500</usPrice>
 		<ubCoolness>2</ubCoolness>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -31733,7 +31768,7 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>150</usPrice>
 		<ubCoolness>4</ubCoolness>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
@@ -31758,7 +31793,7 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>600</usPrice>
 		<ubCoolness>5</ubCoolness>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
@@ -31783,7 +31818,7 @@
 		<ItemSize>14</ItemSize>
 		<usPrice>50</usPrice>
 		<ubCoolness>5</ubCoolness>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -31851,7 +31886,7 @@
 		<ItemSize>25</ItemSize>
 		<usPrice>1000</usPrice>
 		<ubCoolness>6</ubCoolness>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -31877,7 +31912,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>1</usPrice>
-		<ubCoolness>1</ubCoolness>
+		<ubCoolness>1</ubCoolness>		
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -31928,6 +31963,7 @@
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -31963,6 +31999,7 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -32085,6 +32122,7 @@
 		<usPrice>400</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
@@ -32130,6 +32168,7 @@
 		<Attachment>1</Attachment>
 		<BlockIronSight>1</BlockIronSight>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -32163,7 +32202,7 @@
 		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
@@ -32190,7 +32229,7 @@
 		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -32218,7 +32257,7 @@
 		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
@@ -32245,7 +32284,7 @@
 		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -32273,7 +32312,7 @@
 		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -32301,7 +32340,7 @@
 		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -32329,7 +32368,7 @@
 		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -32356,7 +32395,7 @@
 		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -32383,7 +32422,7 @@
 		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
@@ -32410,7 +32449,7 @@
 		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -32438,7 +32477,7 @@
 		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -32466,7 +32505,7 @@
 		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -32494,7 +32533,7 @@
 		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -32521,7 +32560,7 @@
 		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -32548,7 +32587,7 @@
 		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
@@ -32575,7 +32614,7 @@
 		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -32759,7 +32798,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -32827,7 +32866,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -32856,7 +32895,7 @@
 		<ubPerPocket>3</ubPerPocket>
 		<ItemSize>24</ItemSize>
 		<usPrice>140</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -32881,7 +32920,7 @@
 		<ubPerPocket>3</ubPerPocket>
 		<ItemSize>24</ItemSize>
 		<usPrice>150</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -32986,7 +33025,7 @@
 		<ubPerPocket>3</ubPerPocket>
 		<ItemSize>24</ItemSize>
 		<usPrice>126</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -33013,7 +33052,7 @@
 		<ubPerPocket>3</ubPerPocket>
 		<ItemSize>24</ItemSize>
 		<usPrice>189</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -33105,7 +33144,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -33141,7 +33180,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -33183,7 +33222,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -33260,7 +33299,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -33304,7 +33343,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -33346,7 +33385,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -33392,7 +33431,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -33435,7 +33474,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -33471,7 +33510,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -33508,7 +33547,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -33544,7 +33583,7 @@
 		<ubCoolness>6</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -33587,7 +33626,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -33628,7 +33667,7 @@
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -33987,7 +34026,6 @@
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
 		<ubClassIndex>16</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>695</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -36963,7 +37001,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -37011,7 +37049,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -37060,7 +37098,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -37095,6 +37133,7 @@
 		<ubCoolness>4</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -37133,6 +37172,7 @@
 		<ubCoolness>4</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -37171,6 +37211,7 @@
 		<ubCoolness>4</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -37267,7 +37308,7 @@
 		<ubCoolness>6</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -37296,7 +37337,7 @@
 		<ubCoolness>6</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -37328,7 +37369,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -37376,7 +37417,7 @@
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -37441,7 +37482,7 @@
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -37481,7 +37522,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -37514,7 +37555,7 @@
 		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -37549,7 +37590,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -37586,7 +37627,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -37619,7 +37660,7 @@
 		<bReliability>-2</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -37789,7 +37830,6 @@
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
 		<ubClassIndex>33</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>344</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -37827,7 +37867,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -39534,7 +39574,7 @@
 		<ubWeight>833</ubWeight>
 		<ItemSize>34</ItemSize>
 		<usPrice>30000</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -39684,7 +39724,7 @@
 		<ubWeight>600</ubWeight>
 		<ItemSize>34</ItemSize>
 		<usPrice>60000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -41033,7 +41073,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
-		<RangeBonus>30</RangeBonus>
+		<RangeBonus>20</RangeBonus>
 		<spreadPattern>ChokeImpModSpread</spreadPattern>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -41064,7 +41104,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
-		<RangeBonus>40</RangeBonus>
+		<RangeBonus>30</RangeBonus>
 		<spreadPattern>ChokeFullSpread</spreadPattern>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -41095,7 +41135,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
-		<RangeBonus>60</RangeBonus>
+		<RangeBonus>0</RangeBonus>
 		<ToHitBonus>20</ToHitBonus>
 		<spreadPattern>ChokeRifledSpread</spreadPattern>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -41117,12 +41157,12 @@
 		<ubGraphicNum>359</ubGraphicNum>
 		<ubWeight>30</ubWeight>
 		<ItemSize>7</ItemSize>
-		<usPrice>3240</usPrice>
+		<usPrice>4900</usPrice>
 		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -41156,12 +41196,12 @@
 		<ubGraphicNum>360</ubGraphicNum>
 		<ubWeight>29</ubWeight>
 		<ItemSize>6</ItemSize>
-		<usPrice>3240</usPrice>
+		<usPrice>4500</usPrice>
 		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -41195,12 +41235,12 @@
 		<ubGraphicNum>361</ubGraphicNum>
 		<ubWeight>30</ubWeight>
 		<ItemSize>6</ItemSize>
-		<usPrice>3240</usPrice>
+		<usPrice>5500</usPrice>
 		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -41234,11 +41274,11 @@
 		<ubGraphicNum>362</ubGraphicNum>
 		<ubWeight>20</ubWeight>
 		<ItemSize>24</ItemSize>
-		<usPrice>695</usPrice>
+		<usPrice>2900</usPrice>
 		<ubCoolness>6</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -41262,11 +41302,11 @@
 		<ubGraphicNum>363</ubGraphicNum>
 		<ubWeight>19</ubWeight>
 		<ItemSize>24</ItemSize>
-		<usPrice>695</usPrice>
+		<usPrice>2500</usPrice>
 		<ubCoolness>6</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -41290,11 +41330,11 @@
 		<ubGraphicNum>364</ubGraphicNum>
 		<ubWeight>20</ubWeight>
 		<ItemSize>24</ItemSize>
-		<usPrice>895</usPrice>
+		<usPrice>3500</usPrice>
 		<ubCoolness>6</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -41697,7 +41737,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -41779,7 +41819,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>100</usPrice>
 		<ubCoolness>5</ubCoolness>
-		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Electronic>1</Electronic>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -42355,7 +42394,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -42385,7 +42424,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -42415,7 +42454,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -42445,7 +42484,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -42475,7 +42514,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>2</BR_NewInventory>
@@ -43759,7 +43798,7 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>24</ItemSize>
 		<usPrice>500</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>4</BR_NewInventory>
@@ -43783,7 +43822,7 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>24</ItemSize>
 		<usPrice>334</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>6</BR_NewInventory>
@@ -44417,7 +44456,7 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>1600</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -45336,7 +45375,7 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>600</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -46040,7 +46079,7 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -46172,6 +46211,7 @@
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -46203,6 +46243,7 @@
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -46601,7 +46642,7 @@
 		<ItemSize>22</ItemSize>
 		<usPrice>2</usPrice>
 		<ubCoolness>2</ubCoolness>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -46624,7 +46665,7 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>75</usPrice>
 		<ubCoolness>2</ubCoolness>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<BR_NewInventory>10</BR_NewInventory>
 		<BR_UsedInventory>6</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -46795,6 +46836,7 @@
 		<ItemSize>13</ItemSize>
 		<usPrice>4</usPrice>
 		<ubCoolness>1</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<DrugType>17408</DrugType>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -46817,8 +46859,9 @@
 		<ubWeight>5</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>13</ItemSize>
-		<usPrice>6</usPrice>
+		<usPrice>6</usPrice>	
 		<ubCoolness>1</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<DrugType>16384</DrugType>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -46843,6 +46886,7 @@
 		<ItemSize>13</ItemSize>
 		<usPrice>2</usPrice>
 		<ubCoolness>1</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<DrugType>19456</DrugType>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -46867,6 +46911,7 @@
 		<ItemSize>13</ItemSize>
 		<usPrice>5</usPrice>
 		<ubCoolness>1</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<DrugType>16384</DrugType>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -47058,6 +47103,7 @@
 		<ItemSize>14</ItemSize>
 		<usPrice>22</usPrice>
 		<ubCoolness>1</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>21</FoodType>
@@ -47081,6 +47127,7 @@
 		<ItemSize>14</ItemSize>
 		<usPrice>7</usPrice>
 		<ubCoolness>1</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>22</FoodType>
@@ -47104,6 +47151,7 @@
 		<ItemSize>14</ItemSize>
 		<usPrice>6</usPrice>
 		<ubCoolness>1</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>23</FoodType>
@@ -47127,6 +47175,7 @@
 		<ItemSize>14</ItemSize>
 		<usPrice>23</usPrice>
 		<ubCoolness>1</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>24</FoodType>
@@ -47150,6 +47199,7 @@
 		<ItemSize>14</ItemSize>
 		<usPrice>21</usPrice>
 		<ubCoolness>1</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>25</FoodType>
@@ -47174,6 +47224,7 @@
 		<ItemSize>30</ItemSize>
 		<usPrice>12</usPrice>
 		<ubCoolness>1</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>26</FoodType>
@@ -47198,6 +47249,7 @@
 		<ItemSize>22</ItemSize>
 		<usPrice>60</usPrice>
 		<ubCoolness>1</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>27</FoodType>
@@ -47221,6 +47273,7 @@
 		<ItemSize>14</ItemSize>
 		<usPrice>4</usPrice>
 		<ubCoolness>1</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>28</FoodType>
@@ -47244,6 +47297,7 @@
 		<ItemSize>14</ItemSize>
 		<usPrice>8</usPrice>
 		<ubCoolness>1</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>29</FoodType>
@@ -47410,8 +47464,9 @@
 		<ubWeight>4</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>22</ItemSize>
-		<usPrice>4</usPrice>
+		<usPrice>4</usPrice>		
 		<ubCoolness>1</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<DrugType>1025</DrugType>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -47604,6 +47659,7 @@
 		<ItemSize>14</ItemSize>
 		<usPrice>4</usPrice>
 		<ubCoolness>1</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>37</FoodType>
@@ -47627,6 +47683,7 @@
 		<ItemSize>14</ItemSize>
 		<usPrice>20</usPrice>
 		<ubCoolness>1</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>38</FoodType>
@@ -48844,6 +48901,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>3</BR_UsedInventory>
@@ -49081,13 +49139,14 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>18</ItemSize>
 		<usPrice>2500</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>300</BestLaserRange>
@@ -49131,6 +49190,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>3</BR_UsedInventory>
@@ -49168,6 +49228,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_ROF>30</BR_ROF>
 		<DefaultAttachment>322</DefaultAttachment>
@@ -49201,7 +49262,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -51076,6 +51137,7 @@
 		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<Attachment>1</Attachment>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>3</BR_NewInventory>
 		<Batteries>1</Batteries>
@@ -54581,7 +54643,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -54680,7 +54742,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -54712,7 +54774,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -54745,7 +54807,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -54777,7 +54839,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -54811,7 +54873,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -54844,7 +54906,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -54889,6 +54951,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -54918,7 +54981,7 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -54953,7 +55016,7 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -54984,7 +55047,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55026,7 +55089,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55059,7 +55122,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55088,11 +55151,11 @@
 		<ubWeight>31</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>3100</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>0</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55126,7 +55189,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55157,13 +55220,13 @@
 		<ubGraphicNum>421</ubGraphicNum>
 		<ubWeight>26</ubWeight>
 		<ItemSize>5</ItemSize>
-		<usPrice>4177</usPrice>
+		<usPrice>6850</usPrice>
 		<ubCoolness>8</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55196,7 +55259,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55224,7 +55287,7 @@
 		<ubGraphicNum>435</ubGraphicNum>
 		<ubWeight>34</ubWeight>
 		<ItemSize>7</ItemSize>
-		<usPrice>6299</usPrice>
+		<usPrice>23000</usPrice>
 		<ubCoolness>8</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>-4</bRepairEase>
@@ -55261,7 +55324,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55293,7 +55356,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55331,7 +55394,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55366,7 +55429,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55495,7 +55558,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55529,7 +55592,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55641,7 +55704,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55676,11 +55739,10 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<DefaultAttachment>1029</DefaultAttachment>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>3</BR_NewInventory>
@@ -55710,7 +55772,7 @@
 		<bRepairEase>-5</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55747,7 +55809,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55790,7 +55852,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
@@ -55823,7 +55885,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55856,7 +55918,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55917,7 +55979,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55950,7 +56012,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55980,7 +56042,7 @@
 		<bReliability>7</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56039,7 +56101,7 @@
 		<bReliability>7</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56104,7 +56166,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56137,7 +56199,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56170,7 +56232,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56234,7 +56296,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56265,7 +56327,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56296,7 +56358,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56328,7 +56390,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56361,7 +56423,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56394,7 +56456,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56426,7 +56488,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56459,7 +56521,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56493,7 +56555,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56527,7 +56589,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56561,7 +56623,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56592,7 +56654,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56622,7 +56684,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56656,7 +56718,7 @@
 		<bReliability>7</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56690,7 +56752,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56723,7 +56785,7 @@
 		<bReliability>3</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56758,7 +56820,7 @@
 		<bReliability>2</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56794,7 +56856,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56830,7 +56892,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56865,7 +56927,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56899,7 +56961,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56933,7 +56995,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -56965,12 +57027,12 @@
 		<ubWeight>37</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>2500</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57005,7 +57067,7 @@
 		<bReliability>6</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57040,7 +57102,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57076,7 +57138,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57148,7 +57210,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57186,7 +57248,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57221,7 +57283,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57254,7 +57316,7 @@
 		<ubCoolness>6</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57289,7 +57351,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57324,7 +57386,7 @@
 		<bReliability>5</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57358,7 +57420,7 @@
 		<bReliability>5</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57422,7 +57484,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57457,7 +57519,7 @@
 		<bRepairEase>-5</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57491,7 +57553,7 @@
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57500,7 +57562,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
-		<DefaultAttachment>1872</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -57526,15 +57587,15 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
+		<DefaultAttachment>2810</DefaultAttachment>
 		<BR_ROF>30</BR_ROF>
-		<DefaultAttachment>1922</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -57559,7 +57620,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57626,7 +57687,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57658,7 +57719,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57692,7 +57753,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57758,7 +57819,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57959,7 +58020,7 @@
 		<bReliability>5</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -57992,7 +58053,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -58026,7 +58087,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -58064,12 +58125,11 @@
 		<bReliability>4</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<DefaultAttachment>1029</DefaultAttachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -58098,12 +58158,11 @@
 		<bReliability>4</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<DefaultAttachment>1029</DefaultAttachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -58133,7 +58192,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -58167,7 +58226,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -58200,7 +58259,7 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -58234,7 +58293,7 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -58267,7 +58326,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -58301,7 +58360,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -58337,7 +58396,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -58371,7 +58430,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -58406,7 +58465,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -58444,7 +58503,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -58479,7 +58538,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -58515,7 +58574,7 @@
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -58548,7 +58607,7 @@
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -58581,7 +58640,7 @@
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -58615,7 +58674,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -58645,7 +58704,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -58678,7 +58737,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -58897,7 +58956,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -59060,7 +59119,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -59095,7 +59154,7 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -59128,7 +59187,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -59168,7 +59227,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -59205,7 +59264,7 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
@@ -59241,7 +59300,7 @@
 		<ubCoolness>3</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -59282,7 +59341,7 @@
 		<ubCoolness>4</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -59324,7 +59383,7 @@
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -59397,7 +59456,7 @@
 		<bRepairEase>4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -59433,7 +59492,7 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -59503,7 +59562,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -59538,7 +59597,7 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -59614,7 +59673,7 @@
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -59655,7 +59714,7 @@
 		<bReliability>3</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -59727,7 +59786,7 @@
 		<bRepairEase>5</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -59799,7 +59858,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -59834,7 +59893,7 @@
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -60687,7 +60746,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>16</ItemSize>
 		<usPrice>350</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<PercentNoiseReduction>20</PercentNoiseReduction>
@@ -60711,7 +60770,7 @@
 		<ubWeight>819</ubWeight>
 		<ItemSize>34</ItemSize>
 		<usPrice>105000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -61543,7 +61602,7 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>12</ItemSize>
 		<usPrice>72</usPrice>
-		<ubCoolness>3</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -61596,7 +61655,7 @@
 		<ubWeight>669</ubWeight>
 		<ItemSize>34</ItemSize>
 		<usPrice>20000</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
@@ -61859,7 +61918,7 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>1260</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
@@ -64452,7 +64511,7 @@
 		<ubGraphicNum>805</ubGraphicNum>
 		<ubWeight>5</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>24</ItemSize>
+		<ItemSize>20</ItemSize>
 		<usPrice>290</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
@@ -70816,7 +70875,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
@@ -70847,7 +70906,7 @@
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
@@ -72063,6 +72122,7 @@
 		<ItemSize>10</ItemSize>
 		<usPrice>250</usPrice>
 		<ubCoolness>4</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<Attachment>1</Attachment>
 		<Unaerodynamic>1</Unaerodynamic>
@@ -72111,7 +72171,7 @@
 		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -72137,7 +72197,7 @@
 		<ubCoolness>8</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -72163,7 +72223,7 @@
 		<ubCoolness>7</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -72189,7 +72249,7 @@
 		<ubCoolness>4</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -72215,7 +72275,7 @@
 		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -72241,7 +72301,7 @@
 		<ubCoolness>7</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -72267,7 +72327,7 @@
 		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -72301,6 +72361,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -72386,6 +72447,7 @@
 		<bReliability>1</bReliability>
 		<bRepairEase>-5</bRepairEase>
 		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -72461,6 +72523,7 @@
 		<bReliability>2</bReliability>
 		<bRepairEase>-5</bRepairEase>
 		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -72503,6 +72566,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -72537,6 +72601,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Bipod>-2</Bipod>
 		<ToHitBonus>1</ToHitBonus>
@@ -72573,6 +72638,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -72612,6 +72678,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<ToHitBonus>18</ToHitBonus>
@@ -72717,6 +72784,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -72802,6 +72870,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -72842,6 +72911,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -72889,6 +72959,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -72962,7 +73033,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubCoolness>4</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -72988,7 +73059,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -73014,7 +73085,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -73040,7 +73111,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubCoolness>6</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -73066,7 +73137,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubCoolness>6</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -73092,7 +73163,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubCoolness>7</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -73118,7 +73189,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubCoolness>8</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -73167,6 +73238,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<AimBonus>15</AimBonus>
 		<MinRangeForAimBonus>45</MinRangeForAimBonus>
@@ -73275,6 +73347,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ItemSize>25</ItemSize>
 		<usPrice>25</usPrice>
 		<bRepairEase>-2</bRepairEase>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
@@ -73299,6 +73372,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ItemSize>25</ItemSize>
 		<usPrice>45</usPrice>
 		<bRepairEase>-2</bRepairEase>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
@@ -73330,6 +73404,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>18</ToHitBonus>
@@ -73368,6 +73443,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<NotBuyable>1</NotBuyable>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<PercentAPReduction>20</PercentAPReduction>
@@ -73400,6 +73476,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<NotBuyable>1</NotBuyable>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<PercentReadyTimeAPReduction>-2</PercentReadyTimeAPReduction>
@@ -73433,6 +73510,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<NotBuyable>1</NotBuyable>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>1</ToHitBonus>
@@ -73467,6 +73545,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
 		<Attachment>1</Attachment>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>18</ToHitBonus>
@@ -73507,6 +73586,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<NotBuyable>1</NotBuyable>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>15</ToHitBonus>
@@ -73546,6 +73626,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<NotBuyable>1</NotBuyable>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>20</ToHitBonus>
@@ -73654,6 +73735,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<NotBuyable>1</NotBuyable>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<AimBonus>12</AimBonus>
@@ -73692,6 +73774,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<NotBuyable>1</NotBuyable>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<AimBonus>12</AimBonus>
@@ -73730,6 +73813,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<NotBuyable>1</NotBuyable>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<AimBonus>13</AimBonus>
@@ -73806,6 +73890,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
 		<Attachment>1</Attachment>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<AimBonus>15</AimBonus>
@@ -73846,6 +73931,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<NotBuyable>1</NotBuyable>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>18</ToHitBonus>
@@ -73978,6 +74064,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -74011,6 +74098,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -74059,7 +74147,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubCoolness>7</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -74085,7 +74173,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubCoolness>8</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -74111,7 +74199,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubCoolness>8</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -74137,7 +74225,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubCoolness>6</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -74163,7 +74251,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubCoolness>7</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -74189,7 +74277,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubCoolness>6</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -74215,7 +74303,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -74385,6 +74473,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -74418,6 +74507,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -74449,6 +74539,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>2</ToHitBonus>
@@ -74481,6 +74572,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -74520,6 +74612,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<ToHitBonus>20</ToHitBonus>
@@ -74559,6 +74652,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -74621,6 +74715,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>15</ToHitBonus>
@@ -74906,6 +75001,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ItemSize>20</ItemSize>
 		<usPrice>28</usPrice>
 		<ubCoolness>3</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -74995,6 +75091,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ItemSize>21</ItemSize>
 		<usPrice>25</usPrice>
 		<ubCoolness>10</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -75117,7 +75214,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -75141,6 +75238,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>32</usPrice>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -75161,6 +75259,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>23</usPrice>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -75181,6 +75280,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>18</usPrice>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -75202,6 +75302,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ItemSize>21</ItemSize>
 		<usPrice>21</usPrice>
 		<ubCoolness>10</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -75291,6 +75392,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ItemSize>13</ItemSize>
 		<usPrice>2</usPrice>
 		<ubCoolness>1</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>12</FoodType>
@@ -75314,6 +75416,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ItemSize>13</ItemSize>
 		<usPrice>5</usPrice>
 		<ubCoolness>1</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>13</FoodType>
@@ -75337,6 +75440,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ItemSize>13</ItemSize>
 		<usPrice>2</usPrice>
 		<ubCoolness>1</ubCoolness>
+		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>18</FoodType>
@@ -75361,6 +75465,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<usPrice>6</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>11</FoodType>
 		<STAND_MODIFIERS />
@@ -75384,6 +75489,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<usPrice>2</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>12</FoodType>
 		<STAND_MODIFIERS />
@@ -75427,7 +75533,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubWeight>3</ubWeight>
 		<ItemSize>18</ItemSize>
 		<usPrice>1500</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -75435,6 +75541,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<ToHitBonus>20</ToHitBonus>
@@ -75503,6 +75610,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>25</MinRangeForAimBonus>
@@ -75542,6 +75650,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
@@ -75590,6 +75699,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<BlockIronSight>1</BlockIronSight>
@@ -75633,6 +75743,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<Bipod>75</Bipod>
@@ -75674,6 +75785,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
@@ -75718,6 +75830,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>18</ToHitBonus>
@@ -75762,6 +75875,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>18</ToHitBonus>
@@ -75808,6 +75922,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>18</ToHitBonus>
@@ -75856,6 +75971,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>18</ToHitBonus>
@@ -75902,6 +76018,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>18</ToHitBonus>
@@ -75949,6 +76066,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<AimBonus>10</AimBonus>
@@ -75989,6 +76107,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<AimBonus>10</AimBonus>
@@ -76029,6 +76148,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>18</ToHitBonus>
@@ -76075,6 +76195,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>15</ToHitBonus>
@@ -76183,6 +76304,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>18</ToHitBonus>
@@ -76226,6 +76348,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
@@ -76263,6 +76386,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>21</ToHitBonus>
@@ -76360,6 +76484,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<PercentAPReduction>10</PercentAPReduction>
@@ -76394,6 +76519,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<Bipod>-2</Bipod>
@@ -76463,6 +76589,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>20</ToHitBonus>
@@ -76509,6 +76636,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>20</ToHitBonus>
@@ -76553,6 +76681,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>20</ToHitBonus>
@@ -76592,6 +76721,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>20</ToHitBonus>
@@ -76629,6 +76759,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>20</ToHitBonus>
@@ -76668,6 +76799,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>25</ToHitBonus>
@@ -76800,6 +76932,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<PercentAPReduction>25</PercentAPReduction>
@@ -76835,6 +76968,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<AimBonus>19</AimBonus>
@@ -76874,6 +77008,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<AimBonus>10</AimBonus>
@@ -76913,6 +77048,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<AimBonus>10</AimBonus>
@@ -77021,6 +77157,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<AimBonus>12</AimBonus>
@@ -77094,6 +77231,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<AimBonus>7</AimBonus>
@@ -77132,6 +77270,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<AimBonus>18</AimBonus>
@@ -77445,7 +77584,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubCoolness>6</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -78004,6 +78143,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -78098,6 +78238,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<Unaerodynamic>1</Unaerodynamic>
+		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<UrbanCamoBonus>2</UrbanCamoBonus>
 		<HearingRangeBonus>-1</HearingRangeBonus>
