@@ -120,27 +120,27 @@
 		<ItemCapacityPerSize8>1</ItemCapacityPerSize8>
 		<ItemCapacityPerSize9>1</ItemCapacityPerSize9>
 		<ItemCapacityPerSize10>24</ItemCapacityPerSize10>
-		<ItemCapacityPerSize11>12</ItemCapacityPerSize11>
-		<ItemCapacityPerSize12>9</ItemCapacityPerSize12>
-		<ItemCapacityPerSize13>6</ItemCapacityPerSize13>
-		<ItemCapacityPerSize14>6</ItemCapacityPerSize14>
-		<ItemCapacityPerSize15>4</ItemCapacityPerSize15>
-		<ItemCapacityPerSize16>4</ItemCapacityPerSize16>
+		<ItemCapacityPerSize11>20</ItemCapacityPerSize11>
+		<ItemCapacityPerSize12>16</ItemCapacityPerSize12>
+		<ItemCapacityPerSize13>12</ItemCapacityPerSize13>
+		<ItemCapacityPerSize14>8</ItemCapacityPerSize14>
+		<ItemCapacityPerSize15>8</ItemCapacityPerSize15>
+		<ItemCapacityPerSize16>8</ItemCapacityPerSize16>
 		<ItemCapacityPerSize17>6</ItemCapacityPerSize17>
 		<ItemCapacityPerSize18>6</ItemCapacityPerSize18>
 		<ItemCapacityPerSize19>4</ItemCapacityPerSize19>
-		<ItemCapacityPerSize20>3</ItemCapacityPerSize20>
-		<ItemCapacityPerSize21>2</ItemCapacityPerSize21>
+		<ItemCapacityPerSize20>6</ItemCapacityPerSize20>
+		<ItemCapacityPerSize21>4</ItemCapacityPerSize21>
 		<ItemCapacityPerSize22>4</ItemCapacityPerSize22>
 		<ItemCapacityPerSize23>4</ItemCapacityPerSize23>
-		<ItemCapacityPerSize24>3</ItemCapacityPerSize24>
-		<ItemCapacityPerSize25>4</ItemCapacityPerSize25>
-		<ItemCapacityPerSize26>6</ItemCapacityPerSize26>
+		<ItemCapacityPerSize24>4</ItemCapacityPerSize24>
+		<ItemCapacityPerSize25>2</ItemCapacityPerSize25>
+		<ItemCapacityPerSize26>4</ItemCapacityPerSize26>
 		<ItemCapacityPerSize27>2</ItemCapacityPerSize27>
-		<ItemCapacityPerSize28>3</ItemCapacityPerSize28>
+		<ItemCapacityPerSize28>2</ItemCapacityPerSize28>
 		<ItemCapacityPerSize29>2</ItemCapacityPerSize29>
-		<ItemCapacityPerSize30>3</ItemCapacityPerSize30>
-		<ItemCapacityPerSize31>2</ItemCapacityPerSize31>
+		<ItemCapacityPerSize30>2</ItemCapacityPerSize30>
+		<ItemCapacityPerSize31>1</ItemCapacityPerSize31>
 		<ItemCapacityPerSize32>1</ItemCapacityPerSize32>
 		<ItemCapacityPerSize33>0</ItemCapacityPerSize33>
 	</POCKET>
@@ -151,7 +151,7 @@
 		<pType>3</pType>
 		<ItemCapacityPerSize0>2</ItemCapacityPerSize0>
 		<ItemCapacityPerSize1>2</ItemCapacityPerSize1>
-		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
+		<ItemCapacityPerSize2>2</ItemCapacityPerSize2>
 		<ItemCapacityPerSize3>1</ItemCapacityPerSize3>
 		<ItemCapacityPerSize4>1</ItemCapacityPerSize4>
 		<ItemCapacityPerSize5>1</ItemCapacityPerSize5>
@@ -159,20 +159,20 @@
 		<ItemCapacityPerSize7>1</ItemCapacityPerSize7>
 		<ItemCapacityPerSize10>10</ItemCapacityPerSize10>
 		<ItemCapacityPerSize11>8</ItemCapacityPerSize11>
-		<ItemCapacityPerSize12>6</ItemCapacityPerSize12>
-		<ItemCapacityPerSize13>5</ItemCapacityPerSize13>
-		<ItemCapacityPerSize14>5</ItemCapacityPerSize14>
-		<ItemCapacityPerSize15>4</ItemCapacityPerSize15>
-		<ItemCapacityPerSize16>3</ItemCapacityPerSize16>
-		<ItemCapacityPerSize17>3</ItemCapacityPerSize17>
-		<ItemCapacityPerSize18>3</ItemCapacityPerSize18>
-		<ItemCapacityPerSize19>2</ItemCapacityPerSize19>
-		<ItemCapacityPerSize20>2</ItemCapacityPerSize20>
-		<ItemCapacityPerSize21>1</ItemCapacityPerSize21>
-		<ItemCapacityPerSize22>3</ItemCapacityPerSize22>
+		<ItemCapacityPerSize12>8</ItemCapacityPerSize12>
+		<ItemCapacityPerSize13>6</ItemCapacityPerSize13>
+		<ItemCapacityPerSize14>6</ItemCapacityPerSize14>
+		<ItemCapacityPerSize15>6</ItemCapacityPerSize15>
+		<ItemCapacityPerSize16>5</ItemCapacityPerSize16>
+		<ItemCapacityPerSize17>4</ItemCapacityPerSize17>
+		<ItemCapacityPerSize18>4</ItemCapacityPerSize18>
+		<ItemCapacityPerSize19>4</ItemCapacityPerSize19>
+		<ItemCapacityPerSize20>4</ItemCapacityPerSize20>
+		<ItemCapacityPerSize21>2</ItemCapacityPerSize21>
+		<ItemCapacityPerSize22>2</ItemCapacityPerSize22>
 		<ItemCapacityPerSize23>2</ItemCapacityPerSize23>
 		<ItemCapacityPerSize24>2</ItemCapacityPerSize24>
-		<ItemCapacityPerSize25>3</ItemCapacityPerSize25>
+		<ItemCapacityPerSize25>2</ItemCapacityPerSize25>
 		<ItemCapacityPerSize26>4</ItemCapacityPerSize26>
 		<ItemCapacityPerSize27>2</ItemCapacityPerSize27>
 		<ItemCapacityPerSize28>2</ItemCapacityPerSize28>
@@ -355,7 +355,7 @@
 		<pSilhouette>24</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>4096</pRestriction>
-		<ItemCapacityPerSize18>2</ItemCapacityPerSize18>
+		<ItemCapacityPerSize17>1</ItemCapacityPerSize17>
 	</POCKET>
 	<POCKET>	<!-- Syringe Pocket -->
 		<pIndex>21</pIndex>
@@ -619,24 +619,27 @@
 		<pType>3</pType>
 		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
 		<ItemCapacityPerSize1>1</ItemCapacityPerSize1>
+		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
+		<ItemCapacityPerSize3>0</ItemCapacityPerSize3>
+		<ItemCapacityPerSize4>0</ItemCapacityPerSize4>
 		<ItemCapacityPerSize10>6</ItemCapacityPerSize10>
 		<ItemCapacityPerSize11>5</ItemCapacityPerSize11>
 		<ItemCapacityPerSize12>5</ItemCapacityPerSize12>
 		<ItemCapacityPerSize13>4</ItemCapacityPerSize13>
 		<ItemCapacityPerSize14>4</ItemCapacityPerSize14>
 		<ItemCapacityPerSize15>2</ItemCapacityPerSize15>
-		<ItemCapacityPerSize16>2</ItemCapacityPerSize16>
-		<ItemCapacityPerSize17>1</ItemCapacityPerSize17>
-		<ItemCapacityPerSize18>1</ItemCapacityPerSize18>
+		<ItemCapacityPerSize16>3</ItemCapacityPerSize16>
+		<ItemCapacityPerSize17>2</ItemCapacityPerSize17>
+		<ItemCapacityPerSize18>2</ItemCapacityPerSize18>
 		<ItemCapacityPerSize19>2</ItemCapacityPerSize19>
-		<ItemCapacityPerSize20>1</ItemCapacityPerSize20>
+		<ItemCapacityPerSize20>2</ItemCapacityPerSize20>
 		<ItemCapacityPerSize22>1</ItemCapacityPerSize22>
 		<ItemCapacityPerSize23>1</ItemCapacityPerSize23>
 		<ItemCapacityPerSize24>2</ItemCapacityPerSize24>
-		<ItemCapacityPerSize25>2</ItemCapacityPerSize25>
-		<ItemCapacityPerSize26>2</ItemCapacityPerSize26>
-		<ItemCapacityPerSize28>1</ItemCapacityPerSize28>
-		<ItemCapacityPerSize30>1</ItemCapacityPerSize30>
+		<ItemCapacityPerSize25>0</ItemCapacityPerSize25>
+		<ItemCapacityPerSize26>0</ItemCapacityPerSize26>
+		<ItemCapacityPerSize28>0</ItemCapacityPerSize28>
+		<ItemCapacityPerSize30>0</ItemCapacityPerSize30>
 	</POCKET>
 	<POCKET>
 		<pIndex>49</pIndex>
@@ -651,7 +654,8 @@
 		<pName>RPG Rocket</pName>
 		<pSilhouette>45</pSilhouette>
 		<pType>3</pType>
-		<pRestriction>256</pRestriction>
+		<pRestriction>768</pRestriction>
+		<ItemCapacityPerSize24>2</ItemCapacityPerSize24>
 		<ItemCapacityPerSize32>2</ItemCapacityPerSize32>
 	</POCKET>
 	<POCKET>
@@ -767,4 +771,42 @@
 		<ItemCapacityPerSize18>1</ItemCapacityPerSize18>
 		<ItemCapacityPerSize22>1</ItemCapacityPerSize22>
 	</POCKET>
+	<POCKET>
+		<pIndex>62</pIndex>
+		<pName>Combat Pack Medium</pName>
+		<pSilhouette>57</pSilhouette>
+		<pType>3</pType>
+		<ItemCapacityPerSize0>2</ItemCapacityPerSize0>
+		<ItemCapacityPerSize1>2</ItemCapacityPerSize1>
+		<ItemCapacityPerSize2>2</ItemCapacityPerSize2>
+		<ItemCapacityPerSize3>1</ItemCapacityPerSize3>
+		<ItemCapacityPerSize4>1</ItemCapacityPerSize4>
+		<ItemCapacityPerSize5>1</ItemCapacityPerSize5>
+		<ItemCapacityPerSize6>0</ItemCapacityPerSize6>
+		<ItemCapacityPerSize7>0</ItemCapacityPerSize7>
+		<ItemCapacityPerSize10>10</ItemCapacityPerSize10>
+		<ItemCapacityPerSize11>8</ItemCapacityPerSize11>
+		<ItemCapacityPerSize12>8</ItemCapacityPerSize12>
+		<ItemCapacityPerSize13>6</ItemCapacityPerSize13>
+		<ItemCapacityPerSize14>6</ItemCapacityPerSize14>
+		<ItemCapacityPerSize15>6</ItemCapacityPerSize15>
+		<ItemCapacityPerSize16>6</ItemCapacityPerSize16>
+		<ItemCapacityPerSize17>4</ItemCapacityPerSize17>
+		<ItemCapacityPerSize18>4</ItemCapacityPerSize18>
+		<ItemCapacityPerSize19>4</ItemCapacityPerSize19>
+		<ItemCapacityPerSize20>4</ItemCapacityPerSize20>
+		<ItemCapacityPerSize21>2</ItemCapacityPerSize21>
+		<ItemCapacityPerSize22>2</ItemCapacityPerSize22>
+		<ItemCapacityPerSize23>2</ItemCapacityPerSize23>
+		<ItemCapacityPerSize24>2</ItemCapacityPerSize24>
+		<ItemCapacityPerSize25>1</ItemCapacityPerSize25>
+		<ItemCapacityPerSize26>1</ItemCapacityPerSize26>
+		<ItemCapacityPerSize27>1</ItemCapacityPerSize27>
+		<ItemCapacityPerSize28>1</ItemCapacityPerSize28>
+		<ItemCapacityPerSize29>1</ItemCapacityPerSize29>
+		<ItemCapacityPerSize30>1</ItemCapacityPerSize30>
+		<ItemCapacityPerSize31>1</ItemCapacityPerSize31>
+		<ItemCapacityPerSize32>0</ItemCapacityPerSize32>
+	</POCKET>
+
 </POCKETLIST>
