@@ -305,4 +305,13 @@ MouthY		 -  position of mouth Y (required)
 		<MouthX>12</MouthX>
 		<MouthY>26</MouthY>
 	</FACE>
+	<FACE>
+		<uiIndex>33</uiIndex>
+		<Name>Mike</Name>
+		<FaceIndex>149</FaceIndex>
+		<EyesX>6</EyesX>
+		<EyesY>8</EyesY>
+		<MouthX>6</MouthX>
+		<MouthY>23</MouthY>
+	</FACE>
 </SMALLFACE>
