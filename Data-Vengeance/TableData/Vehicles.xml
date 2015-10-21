@@ -2459,7 +2459,7 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 		<ShortName>Jeep</ShortName>		
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon>INTERFACE\ice Cream Truck.sti</StiFaceIcon>
-		<SeatingCapacities>6</SeatingCapacities>
+		<SeatingCapacities>4</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
@@ -2476,7 +2476,7 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 		<ShortName>Heli</ShortName>	
 		<MvtTypes>4</MvtTypes>
 		<StiFaceIcon></StiFaceIcon>
-		<SeatingCapacities>6</SeatingCapacities>
+		<SeatingCapacities>7</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
