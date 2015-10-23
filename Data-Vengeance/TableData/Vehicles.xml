@@ -2425,9 +2425,9 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 		<Name>Truck</Name>
 		<LongName>Truck</LongName>
 		<ShortName>Truck</ShortName>
-		<MvtTypes>1</MvtTypes>
+		<MvtTypes>2</MvtTypes>
 		<StiFaceIcon>INTERFACE\Hummer.sti</StiFaceIcon>
-		<SeatingCapacities>6</SeatingCapacities>
+		<SeatingCapacities>8</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>167</VehicleArmourType>
@@ -2457,7 +2457,7 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 		<Name>Jeep</Name>	
 		<LongName>Military Jeep</LongName>
 		<ShortName>Jeep</ShortName>		
-		<MvtTypes>1</MvtTypes>
+		<MvtTypes>2</MvtTypes>
 		<StiFaceIcon>INTERFACE\ice Cream Truck.sti</StiFaceIcon>
 		<SeatingCapacities>4</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
