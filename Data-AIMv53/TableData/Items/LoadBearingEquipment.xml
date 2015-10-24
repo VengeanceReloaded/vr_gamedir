@@ -8,7 +8,7 @@
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
 		<lbePocketIndex1>17</lbePocketIndex1>
-		<lbePocketIndex2>61</lbePocketIndex2>
+		<lbePocketIndex2>18</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
@@ -100,17 +100,17 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- 40mm Grenade Panel Leg Rig -->
 		<lbeIndex>5</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>13</lbePocketIndex1>
-		<lbePocketIndex2>13</lbePocketIndex2>
-		<lbePocketIndex3>13</lbePocketIndex3>
-		<lbePocketIndex4>13</lbePocketIndex4>
+		<lbePocketIndex1>49</lbePocketIndex1>
+		<lbePocketIndex2>49</lbePocketIndex2>
+		<lbePocketIndex3>49</lbePocketIndex3>
+		<lbePocketIndex4>49</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -120,15 +120,15 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Double Large Mag Leg Rig -->
 		<lbeIndex>6</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>9</lbePocketIndex1>
-		<lbePocketIndex2>9</lbePocketIndex2>
+		<lbePocketIndex1>59</lbePocketIndex1>
+		<lbePocketIndex2>59</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
@@ -140,7 +140,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- MG Belt Pouch Leg Rig -->
 		<lbeIndex>7</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -340,7 +340,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Holster Rig -->
 		<lbeIndex>17</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -360,7 +360,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- MP Holster -->
 		<lbeIndex>18</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -500,17 +500,17 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- AR-Mag / Grenade Pouch Leg Rig -->
 		<lbeIndex>25</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>10</lbePocketIndex1>
-		<lbePocketIndex2>14</lbePocketIndex2>
-		<lbePocketIndex3>14</lbePocketIndex3>
-		<lbePocketIndex4>14</lbePocketIndex4>
+		<lbePocketIndex1>17</lbePocketIndex1>
+		<lbePocketIndex2>23</lbePocketIndex2>
+		<lbePocketIndex3>52</lbePocketIndex3>
+		<lbePocketIndex4>52</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -520,18 +520,18 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- AR-Mag / Equipment Pouch Leg Rig -->
 		<lbeIndex>26</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>0</lbePocketIndex1>
-		<lbePocketIndex2>0</lbePocketIndex2>
+		<lbePocketIndex1>23</lbePocketIndex1>
+		<lbePocketIndex2>30</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
-		<lbePocketIndex4>10</lbePocketIndex4>
-		<lbePocketIndex5>8</lbePocketIndex5>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
 		<lbePocketIndex8>0</lbePocketIndex8>
@@ -540,18 +540,18 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Canteen / Equipment Pouch Leg Rig -->
 		<lbeIndex>27</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>0</lbePocketIndex1>
-		<lbePocketIndex2>0</lbePocketIndex2>
+		<lbePocketIndex1>18</lbePocketIndex1>
+		<lbePocketIndex2>30</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
-		<lbePocketIndex4>18</lbePocketIndex4>
-		<lbePocketIndex5>8</lbePocketIndex5>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
 		<lbePocketIndex8>0</lbePocketIndex8>
@@ -560,18 +560,18 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Equipment / Grenade Pouch Leg Rig -->
 		<lbeIndex>28</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>0</lbePocketIndex1>
-		<lbePocketIndex2>14</lbePocketIndex2>
-		<lbePocketIndex3>14</lbePocketIndex3>
-		<lbePocketIndex4>14</lbePocketIndex4>
-		<lbePocketIndex5>8</lbePocketIndex5>
+		<lbePocketIndex1>52</lbePocketIndex1>
+		<lbePocketIndex2>30</lbePocketIndex2>
+		<lbePocketIndex3>52</lbePocketIndex3>
+		<lbePocketIndex4>52</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
 		<lbePocketIndex8>0</lbePocketIndex8>
@@ -580,18 +580,18 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Large Mag / Equipment Pouch Leg Rig -->
 		<lbeIndex>29</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>0</lbePocketIndex1>
-		<lbePocketIndex2>9</lbePocketIndex2>
-		<lbePocketIndex3>0</lbePocketIndex3>
-		<lbePocketIndex4>9</lbePocketIndex4>
-		<lbePocketIndex5>8</lbePocketIndex5>
+		<lbePocketIndex1>59</lbePocketIndex1>
+		<lbePocketIndex2>30</lbePocketIndex2>
+		<lbePocketIndex3>59</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
 		<lbePocketIndex8>0</lbePocketIndex8>
@@ -600,17 +600,17 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Large Mag / Grenade Pouch Leg Rig -->
 		<lbeIndex>30</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>9</lbePocketIndex1>
-		<lbePocketIndex2>14</lbePocketIndex2>
-		<lbePocketIndex3>9</lbePocketIndex3>
-		<lbePocketIndex4>14</lbePocketIndex4>
+		<lbePocketIndex1>59</lbePocketIndex1>
+		<lbePocketIndex2>52</lbePocketIndex2>
+		<lbePocketIndex3>59</lbePocketIndex3>
+		<lbePocketIndex4>52</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -700,18 +700,18 @@
 		<lbePocketIndex11>22</lbePocketIndex11>
 		<lbePocketIndex12>22</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- First Aid Rig -->
 		<lbeIndex>35</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>21</lbePocketIndex1>
-		<lbePocketIndex2>21</lbePocketIndex2>
+		<lbePocketIndex1>17</lbePocketIndex1>
+		<lbePocketIndex2>61</lbePocketIndex2>
 		<lbePocketIndex3>20</lbePocketIndex3>
-		<lbePocketIndex4>0</lbePocketIndex4>
-		<lbePocketIndex5>8</lbePocketIndex5>
+		<lbePocketIndex4>21</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
 		<lbePocketIndex8>0</lbePocketIndex8>
@@ -720,7 +720,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Medical Pouch Leg Rig -->
 		<lbeIndex>36</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -730,7 +730,7 @@
 		<lbePocketIndex1>21</lbePocketIndex1>
 		<lbePocketIndex2>21</lbePocketIndex2>
 		<lbePocketIndex3>20</lbePocketIndex3>
-		<lbePocketIndex4>18</lbePocketIndex4>
+		<lbePocketIndex4>30</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -740,17 +740,17 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Canteen / Grenade Pouch Leg Rig -->
 		<lbeIndex>37</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>18</lbePocketIndex1>
-		<lbePocketIndex2>14</lbePocketIndex2>
-		<lbePocketIndex3>14</lbePocketIndex3>
-		<lbePocketIndex4>14</lbePocketIndex4>
+		<lbePocketIndex1>17</lbePocketIndex1>
+		<lbePocketIndex2>18</lbePocketIndex2>
+		<lbePocketIndex3>52</lbePocketIndex3>
+		<lbePocketIndex4>52</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -760,7 +760,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- AR-Mag. / Canteen / Grenade Panel Leg Rig -->
 		<lbeIndex>38</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -768,9 +768,9 @@
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
 		<lbePocketIndex1>10</lbePocketIndex1>
-		<lbePocketIndex2>14</lbePocketIndex2>
-		<lbePocketIndex3>18</lbePocketIndex3>
-		<lbePocketIndex4>14</lbePocketIndex4>
+		<lbePocketIndex2>18</lbePocketIndex2>
+		<lbePocketIndex3>52</lbePocketIndex3>
+		<lbePocketIndex4>52</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -780,17 +780,17 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Large Mag. / Canteen / Grenade Panel Leg Rig -->
 		<lbeIndex>39</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>9</lbePocketIndex1>
+		<lbePocketIndex1>59</lbePocketIndex1>
 		<lbePocketIndex2>18</lbePocketIndex2>
-		<lbePocketIndex3>9</lbePocketIndex3>
-		<lbePocketIndex4>14</lbePocketIndex4>
+		<lbePocketIndex3>59</lbePocketIndex3>
+		<lbePocketIndex4>52</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -860,14 +860,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- SMG Leg Rig -->
 		<lbeIndex>43</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>16</lbePocketIndex1>
+		<lbePocketIndex1>17</lbePocketIndex1>
 		<lbePocketIndex2>12</lbePocketIndex2>
 		<lbePocketIndex3>12</lbePocketIndex3>
 		<lbePocketIndex4>12</lbePocketIndex4>
@@ -880,17 +880,17 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Throwing Knives Leg Rig -->
 		<lbeIndex>44</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>16</lbePocketIndex1>
-		<lbePocketIndex2>26</lbePocketIndex2>
-		<lbePocketIndex3>26</lbePocketIndex3>
-		<lbePocketIndex4>26</lbePocketIndex4>
+		<lbePocketIndex1>37</lbePocketIndex1>
+		<lbePocketIndex2>37</lbePocketIndex2>
+		<lbePocketIndex3>37</lbePocketIndex3>
+		<lbePocketIndex4>37</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -900,14 +900,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Pistol Magazines Leg Rig -->
 		<lbeIndex>45</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>16</lbePocketIndex1>
+		<lbePocketIndex1>17</lbePocketIndex1>
 		<lbePocketIndex2>15</lbePocketIndex2>
 		<lbePocketIndex3>15</lbePocketIndex3>
 		<lbePocketIndex4>15</lbePocketIndex4>
@@ -927,10 +927,10 @@
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>16</lbePocketIndex1>
-		<lbePocketIndex2>16</lbePocketIndex2>
-		<lbePocketIndex3>17</lbePocketIndex3>
-		<lbePocketIndex4>30</lbePocketIndex4>
+		<lbePocketIndex1>17</lbePocketIndex1>
+		<lbePocketIndex2>30</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -940,17 +940,17 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Bomb Pouch Leg Rig -->
 		<lbeIndex>47</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>16</lbePocketIndex1>
+		<lbePocketIndex1>17</lbePocketIndex1>
 		<lbePocketIndex2>17</lbePocketIndex2>
-		<lbePocketIndex3>28</lbePocketIndex3>
-		<lbePocketIndex4>28</lbePocketIndex4>
+		<lbePocketIndex3>56</lbePocketIndex3>
+		<lbePocketIndex4>56</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -980,7 +980,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- 3.11 Thigh Rig -->
 		<lbeIndex>49</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -1000,7 +1000,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Utility Pouch -->
 		<lbeIndex>50</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -1040,7 +1040,7 @@
 		<lbePocketIndex11>49</lbePocketIndex11>
 		<lbePocketIndex12>8</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Ammo Belt Pouch -->
 		<lbeIndex>52</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -1060,7 +1060,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Holster Pouch -->
 		<lbeIndex>53</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -1080,14 +1080,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Mini Frag Pouches -->
 		<lbeIndex>54</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>50</lbePocketIndex1>
+		<lbePocketIndex1>14</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -1100,14 +1100,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Double SMG Mag Pouch -->
 		<lbeIndex>55</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>43</lbePocketIndex1>
+		<lbePocketIndex1>25</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -1120,14 +1120,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC H2O Carrier -->
 		<lbeIndex>56</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>35</lbePocketIndex1>
+		<lbePocketIndex1>18</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -1140,14 +1140,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Single AR Mag Pouch -->
 		<lbeIndex>57</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>46</lbePocketIndex1>
+		<lbePocketIndex1>10</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -1160,7 +1160,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Medical Pouch -->
 		<lbeIndex>58</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -1180,14 +1180,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Double Pistol Mag -->
 		<lbeIndex>59</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>40</lbePocketIndex1>
+		<lbePocketIndex1>27</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -1200,7 +1200,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Nylon Knife Sheath -->
 		<lbeIndex>60</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -1220,14 +1220,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Explosives Pouch -->
 		<lbeIndex>61</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>28</lbePocketIndex1>
+		<lbePocketIndex1>56</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -1240,7 +1240,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Syringe Pouch -->
 		<lbeIndex>62</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -1260,14 +1260,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- 7 RD Shotgun Bandolier -->
 		<lbeIndex>63</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>42</lbePocketIndex1>
+		<lbePocketIndex1>40</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -1280,7 +1280,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Document Drop Pouch -->
 		<lbeIndex>64</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -1300,7 +1300,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Drop Leg Holster -->
 		<lbeIndex>65</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -1320,7 +1320,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Casualty Response Kit -->
 		<lbeIndex>66</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -1331,7 +1331,7 @@
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
-		<lbePocketIndex5>37</lbePocketIndex5>
+		<lbePocketIndex5>20</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
 		<lbePocketIndex8>0</lbePocketIndex8>
@@ -1340,7 +1340,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Black Modular Vest -->
 		<lbeIndex>67</lbeIndex>
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -1380,7 +1380,7 @@
 		<lbePocketIndex11>23</lbePocketIndex11>
 		<lbePocketIndex12>23</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Throwing Knife Sheath -->
 		<lbeIndex>69</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -1400,14 +1400,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- 3.11 Shotgun Ammo Pouch -->
 		<lbeIndex>70</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>24</lbePocketIndex1>
+		<lbePocketIndex1>40</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -1420,7 +1420,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Small Drop Pouch -->
 		<lbeIndex>71</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -1440,14 +1440,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Sniper Ammo Pouch -->
 		<lbeIndex>72</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>34</lbePocketIndex1>
+		<lbePocketIndex1>41</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -1460,14 +1460,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Rifle Ammo Pouch -->
 		<lbeIndex>73</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>29</lbePocketIndex1>
+		<lbePocketIndex1>39</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -1480,7 +1480,8 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- AK Bayonet Sheath -->
+					<!-- Leather Knife Sheath -->
 		<lbeIndex>74</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -1520,14 +1521,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Specter Thigh Rig -->
 		<lbeIndex>76</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>27</lbeAvailableVolume>
 		<lbePocketsAvailable>30</lbePocketsAvailable>
-		<lbePocketIndex1>38</lbePocketIndex1>
+		<lbePocketIndex1>61</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -1560,14 +1561,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Projectile Grenade Pouch -->
 		<lbeIndex>78</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>41</lbePocketIndex1>
+		<lbePocketIndex1>13</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -1580,7 +1581,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Single Pistol Mag Pouch -->
 		<lbeIndex>79</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -1600,14 +1601,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Modular AR Mag -->
 		<lbeIndex>80</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>45</lbePocketIndex1>
+		<lbePocketIndex1>23</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -1620,7 +1621,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Kit Drop Pouch -->
 		<lbeIndex>81</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -1680,14 +1681,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Medium Drop Pouch -->
 		<lbeIndex>84</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>27</lbePocketIndex1>
+		<lbePocketIndex1>30</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -1700,7 +1701,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC BigMag Pouch -->
 		<lbeIndex>85</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -1720,14 +1721,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Triple Grenade Pouch -->
 		<lbeIndex>86</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>39</lbePocketIndex1>
+		<lbePocketIndex1>14</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -1740,14 +1741,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Triple Flashbang Pouch -->
 		<lbeIndex>87</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>47</lbePocketIndex1>
+		<lbePocketIndex1>38</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -1760,14 +1761,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Triple Pistol Mag Pouch -->
 		<lbeIndex>88</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>48</lbePocketIndex1>
+		<lbePocketIndex1>28</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -1780,14 +1781,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Triple SMG Mag Pouch -->
 		<lbeIndex>89</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>51</lbePocketIndex1>
+		<lbePocketIndex1>26</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -1800,7 +1801,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Large Modular Thigh Rig -->
 		<lbeIndex>90</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -1920,14 +1921,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Double Grenade Pouch -->
 		<lbeIndex>96</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>55</lbePocketIndex1>
+		<lbePocketIndex1>14</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -2080,15 +2081,15 @@
 		<lbePocketIndex11>8</lbePocketIndex11>
 		<lbePocketIndex12>31</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Throwing Knives Leg Rig -->
 		<lbeIndex>104</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>17</lbePocketIndex1>
-		<lbePocketIndex2>17</lbePocketIndex2>
+		<lbePocketIndex1>37</lbePocketIndex1>
+		<lbePocketIndex2>37</lbePocketIndex2>
 		<lbePocketIndex3>37</lbePocketIndex3>
 		<lbePocketIndex4>37</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
@@ -2160,15 +2161,15 @@
 		<lbePocketIndex11>30</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- 12g Shotgun Shells Leg Rig -->
 		<lbeIndex>108</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>16</lbePocketIndex1>
-		<lbePocketIndex2>17</lbePocketIndex2>
+		<lbePocketIndex1>17</lbePocketIndex1>
+		<lbePocketIndex2>40</lbePocketIndex2>
 		<lbePocketIndex3>40</lbePocketIndex3>
 		<lbePocketIndex4>40</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
@@ -2340,14 +2341,14 @@
 		<lbePocketIndex11>8</lbePocketIndex11>
 		<lbePocketIndex12>31</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- BP Black Kit Leg Rig -->
 		<lbeIndex>117</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>16</lbePocketIndex1>
+		<lbePocketIndex1>17</lbePocketIndex1>
 		<lbePocketIndex2>25</lbePocketIndex2>
 		<lbePocketIndex3>25</lbePocketIndex3>
 		<lbePocketIndex4>25</lbePocketIndex4>
@@ -2360,17 +2361,17 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- SVD Leg Rig -->
 		<lbeIndex>118</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>16</lbePocketIndex1>
-		<lbePocketIndex2>17</lbePocketIndex2>
-		<lbePocketIndex3>39</lbePocketIndex3>
-		<lbePocketIndex4>39</lbePocketIndex4>
+		<lbePocketIndex1>39</lbePocketIndex1>
+		<lbePocketIndex2>39</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -2380,17 +2381,17 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Sniper Magazines Leg Rig -->
 		<lbeIndex>119</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>16</lbePocketIndex1>
-		<lbePocketIndex2>17</lbePocketIndex2>
-		<lbePocketIndex3>41</lbePocketIndex3>
-		<lbePocketIndex4>41</lbePocketIndex4>
+		<lbePocketIndex1>41</lbePocketIndex1>
+		<lbePocketIndex2>41</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -2400,17 +2401,17 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Quiver Leg Rig -->
 		<lbeIndex>120</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>16</lbePocketIndex1>
-		<lbePocketIndex2>16</lbePocketIndex2>
-		<lbePocketIndex3>45</lbePocketIndex3>
-		<lbePocketIndex4>45</lbePocketIndex4>
+		<lbePocketIndex1>45</lbePocketIndex1>
+		<lbePocketIndex2>45</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -2451,7 +2452,7 @@
 		<lbePocketIndex2>44</lbePocketIndex2>
 		<lbePocketIndex3>44</lbePocketIndex3>
 		<lbePocketIndex4>30</lbePocketIndex4>
-		<lbePocketIndex5>62</lbePocketIndex5>
+		<lbePocketIndex5>8</lbePocketIndex5>
 		<lbePocketIndex6>62</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
 		<lbePocketIndex8>0</lbePocketIndex8>
@@ -2467,10 +2468,10 @@
 		<lbeFilledSize>31</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>16</lbePocketIndex1>
-		<lbePocketIndex2>16</lbePocketIndex2>
-		<lbePocketIndex3>17</lbePocketIndex3>
-		<lbePocketIndex4>30</lbePocketIndex4>
+		<lbePocketIndex1>17</lbePocketIndex1>
+		<lbePocketIndex2>30</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -2520,37 +2521,17 @@
 		<lbePocketIndex11>34</lbePocketIndex11>
 		<lbePocketIndex12>34</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Arulcan Rocket Rifle Leg Rig -->
 		<lbeIndex>126</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>16</lbePocketIndex1>
-		<lbePocketIndex2>17</lbePocketIndex2>
-		<lbePocketIndex3>17</lbePocketIndex3>
-		<lbePocketIndex4>17</lbePocketIndex4>
-		<lbePocketIndex5>34</lbePocketIndex5>
-		<lbePocketIndex6>0</lbePocketIndex6>
-		<lbePocketIndex7>0</lbePocketIndex7>
-		<lbePocketIndex8>0</lbePocketIndex8>
-		<lbePocketIndex9>0</lbePocketIndex9>
-		<lbePocketIndex10>0</lbePocketIndex10>
-		<lbePocketIndex11>0</lbePocketIndex11>
-		<lbePocketIndex12>0</lbePocketIndex12>
-	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
-		<lbeIndex>127</lbeIndex>
-		<lbeClass>1</lbeClass>
-		<lbeCombo>0</lbeCombo>
-		<lbeFilledSize>31</lbeFilledSize>
-		<lbeAvailableVolume>0</lbeAvailableVolume>
-		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>16</lbePocketIndex1>
-		<lbePocketIndex2>35</lbePocketIndex2>
-		<lbePocketIndex3>35</lbePocketIndex3>
-		<lbePocketIndex4>35</lbePocketIndex4>
+		<lbePocketIndex1>34</lbePocketIndex1>
+		<lbePocketIndex2>34</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -2560,14 +2541,34 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- 60mm Shells Leg Rig -->
+		<lbeIndex>127</lbeIndex>
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>31</lbeFilledSize>
+		<lbeAvailableVolume>0</lbeAvailableVolume>
+		<lbePocketsAvailable>0</lbePocketsAvailable>
+		<lbePocketIndex1>35</lbePocketIndex1>
+		<lbePocketIndex2>35</lbePocketIndex2>
+		<lbePocketIndex3>35</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Large Grenades Leg Rig -->
 		<lbeIndex>128</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>16</lbePocketIndex1>
+		<lbePocketIndex1>17</lbePocketIndex1>
 		<lbePocketIndex2>53</lbePocketIndex2>
 		<lbePocketIndex3>53</lbePocketIndex3>
 		<lbePocketIndex4>53</lbePocketIndex4>
@@ -2620,17 +2621,17 @@
 		<lbePocketIndex11>8</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Small 40mm Grenades Leg Rig -->
 		<lbeIndex>131</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>13</lbePocketIndex1>
-		<lbePocketIndex2>13</lbePocketIndex2>
-		<lbePocketIndex3>0</lbePocketIndex3>
-		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex1>17</lbePocketIndex1>
+		<lbePocketIndex2>0</lbePocketIndex2>
+		<lbePocketIndex3>49</lbePocketIndex3>
+		<lbePocketIndex4>49</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -2640,15 +2641,15 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Small BP Black Kit Leg Rig -->
 		<lbeIndex>132</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>16</lbePocketIndex1>
-		<lbePocketIndex2>17</lbePocketIndex2>
+		<lbePocketIndex1>17</lbePocketIndex1>
+		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>25</lbePocketIndex3>
 		<lbePocketIndex4>25</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
@@ -2660,7 +2661,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Sniper Combat Pack -->
 		<lbeIndex>133</lbeIndex>
 		<lbeClass>3</lbeClass>
 		<lbeCombo>6</lbeCombo>
@@ -2671,8 +2672,8 @@
 		<lbePocketIndex2>41</lbePocketIndex2>
 		<lbePocketIndex3>53</lbePocketIndex3>
 		<lbePocketIndex4>30</lbePocketIndex4>
-		<lbePocketIndex5>48</lbePocketIndex5>
-		<lbePocketIndex6>48</lbePocketIndex6>
+		<lbePocketIndex5>62</lbePocketIndex5>
+		<lbePocketIndex6>62</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
 		<lbePocketIndex8>0</lbePocketIndex8>
 		<lbePocketIndex9>0</lbePocketIndex9>
@@ -2720,7 +2721,7 @@
 		<lbePocketIndex11>8</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- AK Chest Rig Vest -->
 		<lbeIndex>136</lbeIndex>
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -2820,20 +2821,20 @@
 		<lbePocketIndex11>8</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>	<!-- Eagle Recon Combat Pack -->
 		<lbeIndex>141</lbeIndex>
 		<lbeClass>3</lbeClass>
 		<lbeCombo>6</lbeCombo>
 		<lbeFilledSize>33</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>13</lbePocketIndex1>
-		<lbePocketIndex2>13</lbePocketIndex2>
-		<lbePocketIndex3>13</lbePocketIndex3>
+		<lbePocketIndex1>29</lbePocketIndex1>
+		<lbePocketIndex2>29</lbePocketIndex2>
+		<lbePocketIndex3>30</lbePocketIndex3>
 		<lbePocketIndex4>30</lbePocketIndex4>
-		<lbePocketIndex5>48</lbePocketIndex5>
-		<lbePocketIndex6>48</lbePocketIndex6>
-		<lbePocketIndex7>57</lbePocketIndex7>
+		<lbePocketIndex5>62</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
 		<lbePocketIndex8>0</lbePocketIndex8>
 		<lbePocketIndex9>0</lbePocketIndex9>
 		<lbePocketIndex10>0</lbePocketIndex10>
@@ -2920,17 +2921,17 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Drum Magazine Leg Rig -->
 		<lbeIndex>146</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>16</lbePocketIndex1>
-		<lbePocketIndex2>17</lbePocketIndex2>
-		<lbePocketIndex3>17</lbePocketIndex3>
-		<lbePocketIndex4>17</lbePocketIndex4>
+		<lbePocketIndex1>17</lbePocketIndex1>
+		<lbePocketIndex2>0</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
 		<lbePocketIndex5>51</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -2940,17 +2941,17 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC RPK Magazines Pouch -->
 		<lbeIndex>147</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>17</lbePocketIndex1>
-		<lbePocketIndex2>53</lbePocketIndex2>
-		<lbePocketIndex3>9</lbePocketIndex3>
-		<lbePocketIndex4>9</lbePocketIndex4>
+		<lbePocketIndex1>23</lbePocketIndex1>
+		<lbePocketIndex2>0</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -3060,7 +3061,7 @@
 		<lbePocketIndex11>30</lbePocketIndex11>
 		<lbePocketIndex12>31</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC MG Combat Pack -->
 		<lbeIndex>153</lbeIndex>
 		<lbeClass>3</lbeClass>
 		<lbeCombo>6</lbeCombo>
@@ -3068,9 +3069,9 @@
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
 		<lbePocketIndex1>18</lbePocketIndex1>
-		<lbePocketIndex2>17</lbePocketIndex2>
-		<lbePocketIndex3>17</lbePocketIndex3>
-		<lbePocketIndex4>30</lbePocketIndex4>
+		<lbePocketIndex2>30</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
 		<lbePocketIndex5>6</lbePocketIndex5>
 		<lbePocketIndex6>6</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -3732,7 +3733,7 @@
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
-		<lbePocketIndex5>37</lbePocketIndex5>
+		<lbePocketIndex5>20</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
 		<lbePocketIndex8>0</lbePocketIndex8>
@@ -3788,7 +3789,7 @@
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>41</lbePocketIndex1>
+		<lbePocketIndex1>9</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -3908,7 +3909,7 @@
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>31</lbePocketIndex1>
+		<lbePocketIndex1>30</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -4122,5 +4123,44 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-
+	<LOADBEARINGEQUIPMENT>		<!-- Carabiner LR -->
+		<lbeIndex>206</lbeIndex>
+		<lbeClass>1</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>10</lbeFilledSize>
+		<lbeAvailableVolume>0</lbeAvailableVolume>
+		<lbePocketsAvailable>0</lbePocketsAvailable>
+		<lbePocketIndex1>17</lbePocketIndex1>
+		<lbePocketIndex2>61</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>0</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Rifle Sling LBE -->
+		<lbeIndex>207</lbeIndex>
+		<lbeClass>3</lbeClass>
+		<lbeCombo>6</lbeCombo>
+		<lbeFilledSize>0</lbeFilledSize>
+		<lbeAvailableVolume>0</lbeAvailableVolume>
+		<lbePocketsAvailable>0</lbePocketsAvailable>
+		<lbePocketIndex1>61</lbePocketIndex1>
+		<lbePocketIndex2>61</lbePocketIndex2>
+		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex5>57</lbePocketIndex5>
+		<lbePocketIndex6>0</lbePocketIndex6>
+		<lbePocketIndex7>0</lbePocketIndex7>
+		<lbePocketIndex8>0</lbePocketIndex8>
+		<lbePocketIndex9>0</lbePocketIndex9>
+		<lbePocketIndex10>0</lbePocketIndex10>
+		<lbePocketIndex11>0</lbePocketIndex11>
+		<lbePocketIndex12>0</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>
 </LOADBEARINGEQUIPMENTLIST>

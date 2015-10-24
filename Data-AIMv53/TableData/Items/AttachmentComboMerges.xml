@@ -151,6 +151,7 @@
 		<usResult>1360</usResult>
 	</ATTACHMENTCOMBOMERGE>
 
+	<!-- Attaching 7.62x39mm Drum Adapter converts gun to drum version -->
 	<ATTACHMENTCOMBOMERGE>
 		<uiIndex>6</uiIndex>
 		<usItem>26</usItem>
@@ -453,5 +454,4 @@
 		<usAttachment20>0</usAttachment20>
 		<usResult>2045</usResult>
 	</ATTACHMENTCOMBOMERGE>
-
 </ATTACHMENTCOMBOMERGELIST>

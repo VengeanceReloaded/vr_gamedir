@@ -861,7 +861,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<DefaultAttachment>2859</DefaultAttachment>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
@@ -4366,7 +4365,7 @@
 		<ubGraphicNum>432</ubGraphicNum>
 		<ubWeight>8</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>17</ItemSize>
+		<ItemSize>22</ItemSize>
 		<usPrice>300</usPrice>
 		<ubCoolness>4</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -6202,7 +6201,7 @@
 		<ubGraphicNum>73</ubGraphicNum>
 		<ubWeight>5</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>17</ItemSize>
+		<ItemSize>18</ItemSize>
 		<usPrice>100</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
@@ -31500,7 +31499,7 @@
 		<ubGraphicNum>234</ubGraphicNum>
 		<ubWeight>3</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>25</ItemSize>
+		<ItemSize>21</ItemSize>
 		<ItemSizeBonus>-1</ItemSizeBonus>
 		<usPrice>400</usPrice>
 		<ubCoolness>5</ubCoolness>
@@ -31538,7 +31537,7 @@
 		<ubGraphicNum>235</ubGraphicNum>
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>22</ItemSize>
+		<ItemSize>21</ItemSize>
 		<ItemSizeBonus>-1</ItemSizeBonus>
 		<usPrice>400</usPrice>
 		<ubCoolness>6</ubCoolness>
@@ -32117,7 +32116,7 @@
 		<ubGraphicNum>525</ubGraphicNum>
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>12</ItemSize>
+		<ItemSize>16</ItemSize>
 		<usPrice>400</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
@@ -34046,7 +34045,7 @@
 		<uiIndex>1092</uiIndex>
 		<szItemName>Holster Rig</szItemName>
 		<szLongItemName>Holster Rig</szLongItemName>
-		<szItemDesc>If youтАЩre looking for a comfortable, durable leg rig with medium pistol holster and a triple pistol mag pouch this EWF tactical is the ultimate choice..</szItemDesc>
+		<szItemDesc>If you're looking for a comfortable, durable leg rig with medium pistol holster and a triple pistol mag pouch this EWF tactical is the ultimate choice..</szItemDesc>
 		<szBRName>Holster Rig</szBRName>
 		<szBRDesc>This EWF tactical Leg Rig can carry a pistol and three magazines.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -36798,9 +36797,9 @@
 		<uiIndex>1170</uiIndex>
 		<szItemName>AR-Gren.</szItemName>
 		<szLongItemName>AR-Mag / Grenade Pouch Leg Rig</szLongItemName>
-		<szItemDesc>A combination of a double AR-Mag pouch with three grenade pouches. This rig, features heavy duty side release buckles and fully adjustable double leg straps that are made with durable webbing with solid side release buckles and elastic loops to allow for expansion of the thigh straps during movement.</szItemDesc>
+		<szItemDesc>A combination of a double AR-Mag pouch with two grenade pouches. This rig, features heavy duty side release buckles and fully adjustable double leg straps that are made with durable webbing with solid side release buckles and elastic loops to allow for expansion of the thigh straps during movement.</szItemDesc>
 		<szBRName>AR-Mag / Grenade Pouch Leg Rig</szBRName>
-		<szBRDesc>This leg rig mounts a double AR-magazine pouch and three individual grenade pouches. Great for your primary combat soldiers.</szBRDesc>
+		<szBRDesc>This leg rig mounts a double AR-magazine pouch and two individual grenade pouches. Great for your primary combat soldiers.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
 		<ubClassIndex>25</ubClassIndex>
@@ -36809,7 +36808,7 @@
 		<ubWeight>8</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>85</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -36823,11 +36822,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1171</uiIndex>
-		<szItemName>AR-Util.</szItemName>
-		<szLongItemName>AR-Mag / Utility Pouch Leg Rig</szLongItemName>
-		<szItemDesc>A combination of a double AR-Mag pouch and a utility pouch. This rig, features heavy duty side release buckles and fully adjustable double leg straps that are made with durable webbing with solid side release buckles and elastic loops to allow for expansion of the thigh straps during movement.</szItemDesc>
-		<szBRName>AR-Mag / Utility Pouch Leg Rig</szBRName>
-		<szBRDesc>A double AR-magazine pouch and a larger utility pouch mounted together on a leg rig, this is useful for carrying larger things like explosives.</szBRDesc>
+		<szItemName>AR-Equip.</szItemName>
+		<szLongItemName>AR-Mag / Equipment Pouch Leg Rig</szLongItemName>
+		<szItemDesc>A combination of a double AR-Mag pouch and a equipment pouch. This rig, features heavy duty side release buckles and fully adjustable double leg straps that are made with durable webbing with solid side release buckles and elastic loops to allow for expansion of the thigh straps during movement.</szItemDesc>
+		<szBRName>AR-Mag / Equipment Pouch Leg Rig</szBRName>
+		<szBRDesc>A double AR-magazine pouch and a equipment pouch mounted together on a leg rig, this is useful for carrying larger things like explosives.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
 		<ubClassIndex>26</ubClassIndex>
@@ -36836,7 +36835,7 @@
 		<ubWeight>8</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>80</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -36850,11 +36849,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1172</uiIndex>
-		<szItemName>Cant.-Util.</szItemName>
-		<szLongItemName>Canteen / Utility Pouch Leg Rig</szLongItemName>
-		<szItemDesc>This leg rig has a utility pouch mounted and a canteen pouch. This rig, features heavy duty side release buckles and fully adjustable double leg straps that are made with durable webbing with solid side release buckles and elastic loops to allow for expansion of the thigh straps during movement.</szItemDesc>
-		<szBRName>Canteen / Utility Pouch Leg Rig</szBRName>
-		<szBRDesc>This leg rig has a utility pouch mounted and a canteen pouch.</szBRDesc>
+		<szItemName>Cant.-Equip.</szItemName>
+		<szLongItemName>Canteen / Equipment Pouch Leg Rig</szLongItemName>
+		<szItemDesc>This leg rig has a equipment pouch mounted and a canteen pouch. This rig, features heavy duty side release buckles and fully adjustable double leg straps that are made with durable webbing with solid side release buckles and elastic loops to allow for expansion of the thigh straps during movement.</szItemDesc>
+		<szBRName>Canteen / Equipment Pouch Leg Rig</szBRName>
+		<szBRDesc>This leg rig has a equipment pouch mounted and a canteen pouch.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
 		<ubClassIndex>27</ubClassIndex>
@@ -36863,7 +36862,7 @@
 		<ubWeight>8</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>85</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -36877,11 +36876,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1173</uiIndex>
-		<szItemName>Util.-Gren.</szItemName>
-		<szLongItemName>Utility / Grenade Pouch Leg Rig</szLongItemName>
-		<szItemDesc>A combination of a utility pouch with three grenade pouches. This rig, features heavy duty side release buckles and fully adjustable double leg straps that are made with durable webbing with solid side release buckles and elastic loops to allow for expansion of the thigh straps during movement.</szItemDesc>
-		<szBRName>Utility / Grenade Pouch Leg Rig</szBRName>
-		<szBRDesc>Here we have a utility pouch combined with three individual grenade pouches.</szBRDesc>
+		<szItemName>Equip.-Gren.</szItemName>
+		<szLongItemName>Equipment / Grenade Pouch Leg Rig</szLongItemName>
+		<szItemDesc>A combination of a equipment pouch with three grenade pouches. This rig, features heavy duty side release buckles and fully adjustable double leg straps that are made with durable webbing with solid side release buckles and elastic loops to allow for expansion of the thigh straps during movement.</szItemDesc>
+		<szBRName>Equipment / Grenade Pouch Leg Rig</szBRName>
+		<szBRDesc>Here we have a equipment pouch combined with three individual grenade pouches.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>28</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -36889,7 +36888,7 @@
 		<ubWeight>9</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>85</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -36903,11 +36902,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1174</uiIndex>
-		<szItemName>L.Mag-Util.</szItemName>
-		<szLongItemName>Large Mag / Utility Pouch Leg Rig</szLongItemName>
-		<szItemDesc>This combo has a utility pouch with two pouches for oddly shaped magazines. This rig, features heavy duty side release buckles and fully adjustable double leg straps that are made with durable webbing with solid side release buckles and elastic loops to allow for expansion of the thigh straps during movement.</szItemDesc>
-		<szBRName>Large Mag / Utility Pouch Leg Rig</szBRName>
-		<szBRDesc>This leg rig offers a utility pouch together with two large mag pouches for those extremely long P90 or G11 magazines (or similar odd magazines).</szBRDesc>
+		<szItemName>L.Mag-Equip.</szItemName>
+		<szLongItemName>Large Mag / Equipment Pouch Leg Rig</szLongItemName>
+		<szItemDesc>This combo has a equipment pouch with two pouches for oddly shaped magazines. This rig, features heavy duty side release buckles and fully adjustable double leg straps that are made with durable webbing with solid side release buckles and elastic loops to allow for expansion of the thigh straps during movement.</szItemDesc>
+		<szBRName>Large Mag / Equipment Pouch Leg Rig</szBRName>
+		<szBRDesc>This leg rig offers a equipment pouch together with two large mag pouches for those extremely long P90 or G11 magazines (or similar odd magazines).</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
 		<ubClassIndex>29</ubClassIndex>
@@ -36916,7 +36915,7 @@
 		<ubWeight>8</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>85</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -36943,7 +36942,7 @@
 		<ubWeight>7</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>85</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -37952,7 +37951,7 @@
 		<ubWeight>8</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>80</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -37978,7 +37977,7 @@
 		<ubWeight>9</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>80</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -37993,9 +37992,9 @@
 		<uiIndex>1206</uiIndex>
 		<szItemName>Cant.-Gren.</szItemName>
 		<szLongItemName>Canteen / Grenade Pouch Leg Rig</szLongItemName>
-		<szItemDesc>A leg panel with a canteen pouch and three grenade pouches.This rig, features heavy duty side release buckles and fully adjustable double leg straps that are made with durable webbing with solid side release buckles and elastic loops to allow for expansion of the thigh straps during movement.</szItemDesc>
+		<szItemDesc>A leg panel with a canteen pouch and two grenade pouches.This rig, features heavy duty side release buckles and fully adjustable double leg straps that are made with durable webbing with solid side release buckles and elastic loops to allow for expansion of the thigh straps during movement.</szItemDesc>
 		<szBRName>Canteen / Grenade Pouch Leg Rig</szBRName>
-		<szBRDesc>This panel is equipped with a canteen pouch and three grenade pouches.</szBRDesc>
+		<szBRDesc>This panel is equipped with a canteen pouch and two grenade pouches.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
 		<ubClassIndex>37</ubClassIndex>
@@ -38004,7 +38003,7 @@
 		<ubWeight>8</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>85</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>2</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -38031,7 +38030,7 @@
 		<ubWeight>9</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>90</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -38058,7 +38057,7 @@
 		<ubWeight>8</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>90</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -49517,7 +49516,7 @@
 		<ubWeight>4</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>95</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -64663,7 +64662,7 @@
 		<ubGraphicNum>46</ubGraphicNum>
 		<ubWeight>4</ubWeight>
 		<ubPerPocket>3</ubPerPocket>
-		<ItemSize>14</ItemSize>
+		<ItemSize>19</ItemSize>
 		<usPrice>250</usPrice>
 		<ubCoolness>4</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
@@ -64692,7 +64691,7 @@
 		<ubGraphicNum>433</ubGraphicNum>
 		<ubWeight>40</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>17</ItemSize>
+		<ItemSize>22</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>7</ubCoolness>
 		<bRepairEase>-3</bRepairEase>
@@ -65190,7 +65189,7 @@
 		<ubGraphicNum>848</ubGraphicNum>
 		<ubWeight>6</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>19</ItemSize>
+		<ItemSize>18</ItemSize>
 		<usPrice>200</usPrice>
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
@@ -65384,7 +65383,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>15</ItemSize>
 		<usPrice>450</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>-1</bReliability>
 		<bRepairEase>-5</bRepairEase>
 		<Damageable>1</Damageable>
@@ -65448,7 +65447,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>15</ItemSize>
 		<usPrice>1250</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bReliability>-1</bReliability>
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
@@ -65479,7 +65478,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>15</ItemSize>
 		<usPrice>2450</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>0</ubCoolness>
 		<bReliability>-1</bReliability>
 		<bRepairEase>-6</bRepairEase>
 		<Damageable>1</Damageable>
@@ -65511,7 +65510,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>15</ItemSize>
 		<usPrice>150</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>-1</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -65542,7 +65541,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>15</ItemSize>
 		<usPrice>250</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>-1</bReliability>
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
@@ -65573,7 +65572,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>15</ItemSize>
 		<usPrice>290</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>-1</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -65636,7 +65635,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>15</ItemSize>
 		<usPrice>450</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>-2</bReliability>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
@@ -65666,7 +65665,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>15</ItemSize>
 		<usPrice>590</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>-2</bReliability>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
@@ -65696,7 +65695,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>15</ItemSize>
 		<usPrice>330</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>-2</bReliability>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
@@ -65726,7 +65725,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>15</ItemSize>
 		<usPrice>400</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>-2</bReliability>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
@@ -68570,7 +68569,7 @@
 		<ubWeight>4</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>120</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -68866,7 +68865,7 @@
 		<ubWeight>5</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>95</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>3</ubCoolness>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -68977,7 +68976,7 @@
 		<ubWeight>3</ubWeight>
 		<ItemSize>30</ItemSize>
 		<usPrice>90</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -70835,22 +70834,58 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2699</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2699</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>Carabiner LR</szItemName>
+		<szLongItemName>Carabiner LR</szLongItemName>
+		<szItemDesc>Functional shape is easy to hold; deep basket accepts loads of slings and runners.</szItemDesc>
+		<szBRName>Carabiner</szBRName>
+		<szBRDesc>Functional shape is easy to hold; deep basket accepts loads of slings and runners</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<AttachmentClass>16777216</AttachmentClass>
+		<nasAttachmentClass>4096</nasAttachmentClass>
+		<nasLayoutClass>4</nasLayoutClass>
+		<ubClassIndex>206</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>215</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ItemSize>10</ItemSize>
+		<usPrice>20</usPrice>
+		<ubCoolness>0</ubCoolness>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<Attachment>1</Attachment>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<StealthBonus>-10</StealthBonus>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2700</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2700</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>Rifle Sling LBE</szItemName>
+		<szLongItemName>Rifle Sling LBE</szLongItemName>
+		<szItemDesc>This simple sling prevents you from losing your gun in the heat of combat.</szItemDesc>
+		<szBRName>Rifle Sling</szBRName>
+		<szBRDesc>Don't waste time putting your rifle back into your inventory. With this you can just drop your rifle and grab your trusted sidearm.</szBRDesc>
+		<usItemClass>131072</usItemClass>
+		<nasLayoutClass>16</nasLayoutClass>
+		<ubClassIndex>207</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>218</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>16</ItemSize>
+		<usPrice>80</usPrice>
+		<ubCoolness>0</ubCoolness>
+		<Sinks>1</Sinks>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -74014,7 +74049,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubGraphicNum>452</ubGraphicNum>
 		<ubWeight>4</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>13</ItemSize>
+		<ItemSize>17</ItemSize>
 		<ItemSizeBonus>1</ItemSizeBonus>
 		<usPrice>350</usPrice>
 		<ubCoolness>3</ubCoolness>
@@ -74438,7 +74473,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubGraphicNum>847</ubGraphicNum>
 		<ubWeight>4</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>19</ItemSize>
+		<ItemSize>18</ItemSize>
 		<usPrice>10</usPrice>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>

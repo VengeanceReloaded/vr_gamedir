@@ -355,12 +355,15 @@
 		<pSilhouette>24</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>4096</pRestriction>
-		<ItemCapacityPerSize17>1</ItemCapacityPerSize17>
+		<ItemCapacityPerSize18>1</ItemCapacityPerSize18>		
 	</POCKET>
 	<POCKET>	<!-- Syringe Pocket -->
 		<pIndex>21</pIndex>
-		<pName>nothing</pName>
-		<pRestriction>1</pRestriction>
+		<pSilhouette>59</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>268435456</pRestriction>
+		<pVolume>2</pVolume>
+		<ItemCapacityPerSize12>4</ItemCapacityPerSize12>
 	</POCKET>
 	<POCKET>
 		<pIndex>22</pIndex>
@@ -450,7 +453,7 @@
 		<ItemCapacityPerSize13>2</ItemCapacityPerSize13>
 		<ItemCapacityPerSize14>2</ItemCapacityPerSize14>
 		<ItemCapacityPerSize17>1</ItemCapacityPerSize17>
-		<ItemCapacityPerSize19>0</ItemCapacityPerSize19>
+		<ItemCapacityPerSize19>1</ItemCapacityPerSize19>
 	</POCKET>
 	<POCKET>
 		<pIndex>31</pIndex>
@@ -597,7 +600,7 @@
 		<ItemCapacityPerSize15>1</ItemCapacityPerSize15>
 		<ItemCapacityPerSize16>1</ItemCapacityPerSize16>
 		<ItemCapacityPerSize18>1</ItemCapacityPerSize18>
-		<ItemCapacityPerSize22>2</ItemCapacityPerSize22>
+		<ItemCapacityPerSize22>1</ItemCapacityPerSize22>
 	</POCKET>
 	<POCKET>
 		<pIndex>46</pIndex>
@@ -612,7 +615,7 @@
 		<pRestriction>768</pRestriction>
 		<ItemCapacityPerSize15>6</ItemCapacityPerSize15>
 	</POCKET>
-	<POCKET>
+	<POCKET>		<!-- not used -->
 		<pIndex>48</pIndex>
 		<pName>Combat Pack small</pName>
 		<pSilhouette>8</pSilhouette>
@@ -808,5 +811,4 @@
 		<ItemCapacityPerSize31>1</ItemCapacityPerSize31>
 		<ItemCapacityPerSize32>0</ItemCapacityPerSize32>
 	</POCKET>
-
 </POCKETLIST>
