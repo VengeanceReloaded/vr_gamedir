@@ -240,4 +240,14 @@
 		<BlastFilename>TILECACHE\flare.sti</BlastFilename>
 		<BlastSpeed>80</BlastSpeed>
 	</EXPDATA>
+	<EXPDATA>
+		<uiIndex>24</uiIndex>
+		<name>C1</name>
+		<TransKeyFrame>12</TransKeyFrame>
+		<DamageKeyFrame>5</DamageKeyFrame>
+		<ExplosionSoundID>61</ExplosionSoundID>
+		<AltExplosionSoundID>285</AltExplosionSoundID>
+		<BlastFilename>TILECACHE\c1.sti</BlastFilename>
+		<BlastSpeed>80</BlastSpeed>
+	</EXPDATA>
 </EXPDATALIST>
