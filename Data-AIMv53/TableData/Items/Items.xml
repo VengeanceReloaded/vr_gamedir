@@ -54636,7 +54636,7 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>8</ItemSize>
 		<usPrice>8500</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>0</ubCoolness>
 		<bReliability>-3</bReliability>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
@@ -54646,7 +54646,8 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BR_NewInventory>1</BR_NewInventory>
+		<BR_NewInventory>0</BR_NewInventory>
+		<NotBuyable>1</NotBuyable>
 		<BR_ROF>20</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -65046,6 +65047,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<buddyitem>2465</buddyitem>
+		<ItemFlag>536870912</ItemFlag>
 		<BR_NewInventory>3</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -65980,10 +65983,12 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2465</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2465</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>INCENDIARY_ANIMATION</szItemName>
+		<szLongItemName>INCENDIARY_ANIMATION</szLongItemName>
+		<szBRName>INCENDIARY_ANIMATION</szBRName>
+		<usItemClass>512</usItemClass>
+		<ubClassIndex>187</ubClassIndex>
+		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />

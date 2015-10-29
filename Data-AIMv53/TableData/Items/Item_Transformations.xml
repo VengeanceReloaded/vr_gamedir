@@ -991,4 +991,22 @@
 		<szMenuRowText>Rifle Sling</szMenuRowText>
 		<szTooltipText>Rifle Sling.</szTooltipText>
 	</TRANSFORM>
+	<!-- Parachute transformation -->
+	<TRANSFORM>
+		<usItem>3001</usItem>
+		<usResult1>1022</usResult1>
+		<usResult2>1022</usResult2>
+		<usResult3>311</usResult3>
+		<usResult4>2699</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>150</usAPCost>
+		<iBPCost>10</iBPCost>
+		<szMenuRowText>Disassemble</szMenuRowText>
+		<szTooltipText>Disassemble.</szTooltipText>
+	</TRANSFORM>
 </TRANSFORMATIONS_LIST>

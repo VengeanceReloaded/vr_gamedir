@@ -2615,7 +2615,7 @@
 	<EXPLOSIVE>	<!-- Flamethrower Fire -->
 		<uiIndex>123</uiIndex>
 		<ubType>8</ubType>
-		<ubDamage>40</ubDamage>
+		<ubDamage>20</ubDamage>
 		<ubStunDamage>10</ubStunDamage>
 		<ubRadius>1</ubRadius>
 		<ubVolume>15</ubVolume>
@@ -2825,7 +2825,7 @@
 	<EXPLOSIVE>	<!-- AN/M14 Incendiary Grenade -->
 		<uiIndex>133</uiIndex>
 		<ubType>8</ubType>
-		<ubDamage>16</ubDamage>
+		<ubDamage>30</ubDamage>
 		<ubStunDamage>15</ubStunDamage>
 		<ubRadius>3</ubRadius>
 		<ubVolume>25</ubVolume>
@@ -3244,15 +3244,15 @@
 	</EXPLOSIVE>
 	<EXPLOSIVE>	<!-- M34 WP Grenade Phosphor -->
 		<uiIndex>153</uiIndex>
-		<ubType>8</ubType>
-		<ubDamage>18</ubDamage>
-		<ubStunDamage>15</ubStunDamage>
-		<ubRadius>2</ubRadius>
+		<ubType>0</ubType>
+		<ubDamage>25</ubDamage>
+		<ubStunDamage>10</ubStunDamage>
+		<ubRadius>3</ubRadius>
 		<ubVolume>35</ubVolume>
 		<ubVolatility>1</ubVolatility>
-		<ubAnimationID>13</ubAnimationID>
-		<ubDuration>8</ubDuration>
-		<ubStartRadius>2</ubStartRadius>
+		<ubAnimationID>14</ubAnimationID>
+		<ubDuration>0</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>0</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
@@ -3947,6 +3947,27 @@
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>	<!-- Incendiary animation -->
+		<uiIndex>187</uiIndex>
+		<ubType>0</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>1</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>13</ubAnimationID>
+		<ubDuration>0</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>0</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
 		<ubFragType>0</ubFragType>

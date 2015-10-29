@@ -527,9 +527,9 @@
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>23</lbePocketIndex1>
-		<lbePocketIndex2>30</lbePocketIndex2>
-		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex1>17</lbePocketIndex1>
+		<lbePocketIndex2>23</lbePocketIndex2>
+		<lbePocketIndex3>30</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
@@ -547,9 +547,9 @@
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>18</lbePocketIndex1>
-		<lbePocketIndex2>30</lbePocketIndex2>
-		<lbePocketIndex3>0</lbePocketIndex3>
+		<lbePocketIndex1>17</lbePocketIndex1>
+		<lbePocketIndex2>18</lbePocketIndex2>
+		<lbePocketIndex3>30</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
@@ -567,9 +567,9 @@
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>52</lbePocketIndex1>
-		<lbePocketIndex2>30</lbePocketIndex2>
-		<lbePocketIndex3>52</lbePocketIndex3>
+		<lbePocketIndex1>17</lbePocketIndex1>
+		<lbePocketIndex2>52</lbePocketIndex2>
+		<lbePocketIndex3>30</lbePocketIndex3>
 		<lbePocketIndex4>52</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
@@ -587,10 +587,10 @@
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>59</lbePocketIndex1>
-		<lbePocketIndex2>30</lbePocketIndex2>
-		<lbePocketIndex3>59</lbePocketIndex3>
-		<lbePocketIndex4>0</lbePocketIndex4>
+		<lbePocketIndex1>17</lbePocketIndex1>
+		<lbePocketIndex2>59</lbePocketIndex2>
+		<lbePocketIndex3>30</lbePocketIndex3>
+		<lbePocketIndex4>59</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -607,10 +607,10 @@
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>59</lbePocketIndex1>
-		<lbePocketIndex2>52</lbePocketIndex2>
-		<lbePocketIndex3>59</lbePocketIndex3>
-		<lbePocketIndex4>52</lbePocketIndex4>
+		<lbePocketIndex1>17</lbePocketIndex1>
+		<lbePocketIndex2>59</lbePocketIndex2>
+		<lbePocketIndex3>52</lbePocketIndex3>
+		<lbePocketIndex4>59</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
@@ -767,9 +767,9 @@
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>10</lbePocketIndex1>
+		<lbePocketIndex1>17</lbePocketIndex1>
 		<lbePocketIndex2>18</lbePocketIndex2>
-		<lbePocketIndex3>52</lbePocketIndex3>
+		<lbePocketIndex3>10</lbePocketIndex3>
 		<lbePocketIndex4>52</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
@@ -787,9 +787,9 @@
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>59</lbePocketIndex1>
+		<lbePocketIndex1>17</lbePocketIndex1>
 		<lbePocketIndex2>18</lbePocketIndex2>
-		<lbePocketIndex3>59</lbePocketIndex3>
+		<lbePocketIndex3>9</lbePocketIndex3>
 		<lbePocketIndex4>52</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
@@ -840,18 +840,18 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Shotgun holster -->
 		<lbeIndex>42</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>16</lbePocketIndex1>
-		<lbePocketIndex2>17</lbePocketIndex2>
-		<lbePocketIndex3>24</lbePocketIndex3>
-		<lbePocketIndex4>24</lbePocketIndex4>
-		<lbePocketIndex5>25</lbePocketIndex5>
+		<lbePocketIndex1>17</lbePocketIndex1>
+		<lbePocketIndex2>0</lbePocketIndex2>
+		<lbePocketIndex3>40</lbePocketIndex3>
+		<lbePocketIndex4>40</lbePocketIndex4>
+		<lbePocketIndex5>7</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
 		<lbePocketIndex8>0</lbePocketIndex8>
@@ -2761,7 +2761,7 @@
 		<lbePocketIndex11>8</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>	<!-- 40mm VOG Grenades Rig Combat Pack -->
+	<LOADBEARINGEQUIPMENT>		<!-- 40mm VOG Grenades Rig Combat Pack -->
 		<lbeIndex>138</lbeIndex>
 		<lbeClass>3</lbeClass>
 		<lbeCombo>6</lbeCombo>
@@ -2901,14 +2901,14 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Grenade Launcher Holster -->
 		<lbeIndex>145</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>31</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>16</lbePocketIndex1>
+		<lbePocketIndex1>17</lbePocketIndex1>
 		<lbePocketIndex2>49</lbePocketIndex2>
 		<lbePocketIndex3>49</lbePocketIndex3>
 		<lbePocketIndex4>49</lbePocketIndex4>
@@ -2948,7 +2948,7 @@
 		<lbeFilledSize>31</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>23</lbePocketIndex1>
+		<lbePocketIndex1>64</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
@@ -3789,7 +3789,7 @@
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>9</lbePocketIndex1>
+		<lbePocketIndex1>59</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>

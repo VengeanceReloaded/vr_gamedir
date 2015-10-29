@@ -262,7 +262,7 @@
 		<ItemCapacityPerSize12>2</ItemCapacityPerSize12>
 		<ItemCapacityPerSize13>1</ItemCapacityPerSize13>
 		<ItemCapacityPerSize15>0</ItemCapacityPerSize15>
-		<ItemCapacityPerSize16>2</ItemCapacityPerSize16>
+		<ItemCapacityPerSize16>2</ItemCapacityPerSize16>		
 		<ItemCapacityPerSize20>1</ItemCapacityPerSize20>
 	</POCKET>
 	<POCKET>
@@ -381,6 +381,7 @@
 		<ItemCapacityPerSize14>0</ItemCapacityPerSize14>
 		<ItemCapacityPerSize15>2</ItemCapacityPerSize15>
 		<ItemCapacityPerSize16>3</ItemCapacityPerSize16>
+		<ItemCapacityPerSize18>1</ItemCapacityPerSize18>
 		<ItemCapacityPerSize20>2</ItemCapacityPerSize20>
 	</POCKET>
 	<POCKET>
@@ -394,6 +395,7 @@
 		<ItemCapacityPerSize14>2</ItemCapacityPerSize14>
 		<ItemCapacityPerSize15>2</ItemCapacityPerSize15>
 		<ItemCapacityPerSize16>4</ItemCapacityPerSize16>
+		<ItemCapacityPerSize18>1</ItemCapacityPerSize18>
 		<ItemCapacityPerSize20>3</ItemCapacityPerSize20>	
 	</POCKET>
 	<POCKET>
@@ -810,5 +812,33 @@
 		<ItemCapacityPerSize30>1</ItemCapacityPerSize30>
 		<ItemCapacityPerSize31>1</ItemCapacityPerSize31>
 		<ItemCapacityPerSize32>0</ItemCapacityPerSize32>
+	</POCKET>
+	<POCKET>
+		<pIndex>63</pIndex>
+		<pName>RPK Mag x1</pName>
+		<pSilhouette>18</pSilhouette>
+		<pRestriction>268437256</pRestriction>
+		<pType>1</pType>
+		<ItemCapacityPerSize12>2</ItemCapacityPerSize12>
+		<ItemCapacityPerSize13>1</ItemCapacityPerSize13>
+		<ItemCapacityPerSize15>0</ItemCapacityPerSize15>
+		<ItemCapacityPerSize16>2</ItemCapacityPerSize16>		
+		<ItemCapacityPerSize20>1</ItemCapacityPerSize20>
+		<ItemCapacityPerSize24>1</ItemCapacityPerSize24>
+	</POCKET>
+	<POCKET>
+		<pIndex>64</pIndex>
+		<pName>RPK Mag x2</pName>
+		<pSilhouette>41</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>268437256</pRestriction>
+		<ItemCapacityPerSize12>4</ItemCapacityPerSize12>
+		<ItemCapacityPerSize13>2</ItemCapacityPerSize13>
+		<ItemCapacityPerSize14>0</ItemCapacityPerSize14>
+		<ItemCapacityPerSize15>2</ItemCapacityPerSize15>
+		<ItemCapacityPerSize16>3</ItemCapacityPerSize16>
+		<ItemCapacityPerSize18>1</ItemCapacityPerSize18>
+		<ItemCapacityPerSize20>2</ItemCapacityPerSize20>
+		<ItemCapacityPerSize24>2</ItemCapacityPerSize24>
 	</POCKET>
 </POCKETLIST>
