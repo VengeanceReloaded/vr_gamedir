@@ -6410,19 +6410,19 @@
 		<bAgility>57</bAgility>
 		<bDexterity>67</bDexterity>
 		<bWisdom>78</bWisdom>
-		<bMarksmanship>68</bMarksmanship>
-		<bExplosive>9</bExplosive>
+		<bMarksmanship>78</bMarksmanship>
+		<bExplosive>29</bExplosive>
 		<bLeadership>8</bLeadership>
 		<bMedical>21</bMedical>
-		<bMechanical>67</bMechanical>
-		<bExpLevel>1</bExpLevel>
+		<bMechanical>87</bMechanical>
+		<bExpLevel>2</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>1</bOldSkillTrait>
 		<bOldSkillTrait2>1</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
 		<bNewSkillTrait2>8</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
-		<bBuddy1>67</bBuddy1>
+		<bBuddy1>255</bBuddy1>
 		<bBuddy2>255</bBuddy2>
 		<bBuddy3>255</bBuddy3>
 		<bBuddy4>255</bBuddy4>
@@ -6458,7 +6458,7 @@
 		<sSectorY>10</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
-		<bTown>3</bTown>
+		<bTown>4</bTown>
 		<bTownAttachment>18</bTownAttachment>
 	</PROFILE>
 	<PROFILE>
@@ -6539,7 +6539,7 @@
 		<usApproachFactorThreaten>70</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
 		<sSectorX>9</sSectorX>
-		<sSectorY>10</sSectorY>
+		<sSectorY>65520</sSectorY>
 		<sSectorZ>1</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>4</bTown>
@@ -11694,19 +11694,19 @@
 	<PROFILE>
 		<uiIndex>129</uiIndex>
 		<Type>4</Type>
-		<zName>Tyra Elzan</zName>
-		<zNickname>Tyra</zNickname>
+		<zName>Tina Elzan</zName>
+		<zNickname>Tina</zNickname>
 		<ubFaceIndex>129</ubFaceIndex>
-		<usEyesX>22</usEyesX>
-		<usEyesY>32</usEyesY>
+		<usEyesX>21</usEyesX>
+		<usEyesY>28</usEyesY>
 		<usMouthX>21</usMouthX>
 		<usMouthY>54</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
-		<PANTS>BEIGEPANTS</PANTS>
-		<VEST>BLUEVEST</VEST>
+		<PANTS>GREENPANTS</PANTS>
+		<VEST>BROWNVEST</VEST>
 		<SKIN>BLACKSKIN</SKIN>
 		<HAIR>BLACKHEAD</HAIR>
 		<bSex>1</bSex>
@@ -11723,13 +11723,13 @@
 		<bStrength>51</bStrength>
 		<bAgility>81</bAgility>
 		<bDexterity>98</bDexterity>
-		<bWisdom>78</bWisdom>
+		<bWisdom>60</bWisdom>
 		<bMarksmanship>14</bMarksmanship>
 		<bExplosive>0</bExplosive>
-		<bLeadership>62</bLeadership>
+		<bLeadership>2</bLeadership>
 		<bMedical>2</bMedical>
 		<bMechanical>5</bMechanical>
-		<bExpLevel>2</bExpLevel>
+		<bExpLevel>1</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
@@ -11760,7 +11760,7 @@
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
-		<usOptionalGearCost>50</usOptionalGearCost>
+		<usOptionalGearCost>0</usOptionalGearCost>
 		<bArmourAttractiveness>-1</bArmourAttractiveness>
 		<bMainGunAttractiveness>-1</bMainGunAttractiveness>
 		<fGoodGuy>1</fGoodGuy>
@@ -11769,10 +11769,10 @@
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
 		<sSectorX>13</sSectorX>
-		<sSectorY>16</sSectorY>
+		<sSectorY>3</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
-		<bTown>7</bTown>
+		<bTown>2</bTown>
 		<bTownAttachment>41</bTownAttachment>
 	</PROFILE>
 	<PROFILE>
@@ -12114,45 +12114,45 @@
 	<PROFILE>
 		<uiIndex>134</uiIndex>
 		<Type>4</Type>
-		<zName>Rojo "Big Red" Moreno</zName>
-		<zNickname>Big Red</zNickname>
+		<zName>Tyra Elzan</zName>
+		<zNickname>Tyra</zNickname>
 		<ubFaceIndex>134</ubFaceIndex>
-		<usEyesX>11</usEyesX>
-		<usEyesY>30</usEyesY>
-		<usMouthX>14</usMouthX>
-		<usMouthY>63</usMouthY>
+		<usEyesX>22</usEyesX>
+		<usEyesY>32</usEyesY>
+		<usMouthX>21</usMouthX>
+		<usMouthY>54</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
-		<PANTS>BLACKPANTS</PANTS>
-		<VEST>PURPLESHIRT</VEST>
-		<SKIN>TANSKIN</SKIN>
-		<HAIR>REDHEAD</HAIR>
-		<bSex>0</bSex>
-		<ubBodyType>1</ubBodyType>
+		<PANTS>BEIGEPANTS</PANTS>
+		<VEST>BLUEVEST</VEST>
+		<SKIN>BLACKSKIN</SKIN>
+		<HAIR>BLACKHEAD</HAIR>
+		<bSex>1</bSex>
+		<ubBodyType>14</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
-		<bAttitude>8</bAttitude>
+		<bAttitude>0</bAttitude>
 		<bCharacterTrait>0</bCharacterTrait>
 		<bDisability>0</bDisability>
 		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>89</bLifeMax>
-		<bLife>89</bLife>
-		<bStrength>95</bStrength>
-		<bAgility>59</bAgility>
-		<bDexterity>62</bDexterity>
-		<bWisdom>64</bWisdom>
-		<bMarksmanship>85</bMarksmanship>
-		<bExplosive>5</bExplosive>
-		<bLeadership>1</bLeadership>
-		<bMedical>0</bMedical>
-		<bMechanical>20</bMechanical>
-		<bExpLevel>4</bExpLevel>
+		<bLifeMax>88</bLifeMax>
+		<bLife>88</bLife>
+		<bStrength>51</bStrength>
+		<bAgility>81</bAgility>
+		<bDexterity>98</bDexterity>
+		<bWisdom>78</bWisdom>
+		<bMarksmanship>14</bMarksmanship>
+		<bExplosive>0</bExplosive>
+		<bLeadership>62</bLeadership>
+		<bMedical>2</bMedical>
+		<bMechanical>5</bMechanical>
+		<bExpLevel>2</bExpLevel>
 		<bEvolution>0</bEvolution>
-		<bOldSkillTrait>2</bOldSkillTrait>
-		<bOldSkillTrait2>8</bOldSkillTrait2>
+		<bOldSkillTrait>0</bOldSkillTrait>
+		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
 		<bNewSkillTrait2>0</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
@@ -12180,20 +12180,20 @@
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
-		<usOptionalGearCost>5682</usOptionalGearCost>
-		<bArmourAttractiveness>24</bArmourAttractiveness>
-		<bMainGunAttractiveness>26</bMainGunAttractiveness>
-		<fGoodGuy>0</fGoodGuy>
+		<usOptionalGearCost>600</usOptionalGearCost>
+		<bArmourAttractiveness>20</bArmourAttractiveness>
+		<bMainGunAttractiveness>-1</bMainGunAttractiveness>
+		<fGoodGuy>1</fGoodGuy>
 		<usApproachFactorFriendly>100</usApproachFactorFriendly>
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
 		<sSectorX>13</sSectorX>
-		<sSectorY>2</sSectorY>
+		<sSectorY>16</sSectorY>
 		<sSectorZ>0</sSectorZ>
-		<ubCivilianGroup>16</ubCivilianGroup>
-		<bTown>5</bTown>
-		<bTownAttachment>1</bTownAttachment>
+		<ubCivilianGroup>0</ubCivilianGroup>
+		<bTown>7</bTown>
+		<bTownAttachment>41</bTownAttachment>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>135</uiIndex>

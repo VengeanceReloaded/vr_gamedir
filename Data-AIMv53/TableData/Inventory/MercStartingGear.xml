@@ -9935,7 +9935,7 @@
 			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>299</mBig0>
+			<mBig0>598</mBig0>
 			<mBig0Status>98</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
 			<mBig0Drop>0</mBig0Drop>
@@ -15395,27 +15395,27 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>134</mIndex>
-		<mName>Brewster</mName>
+		<mName>Tyra</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
 			<mAbsolutePrice>-1</mAbsolutePrice>
-			<mHelmet>288</mHelmet>
-			<mHelmetDrop>1</mHelmetDrop>
-			<mHelmetStatus>99</mHelmetStatus>
-			<mVest>161</mVest>
-			<mVestDrop>1</mVestDrop>
-			<mVestStatus>100</mVestStatus>
+			<mHelmet>0</mHelmet>
+			<mHelmetDrop>0</mHelmetDrop>
+			<mHelmetStatus>0</mHelmetStatus>
+			<mVest>0</mVest>
+			<mVestDrop>0</mVestDrop>
+			<mVestStatus>0</mVestStatus>
 			<mLeg>0</mLeg>
 			<mLegDrop>0</mLegDrop>
 			<mLegStatus>0</mLegStatus>
 			<mWeapon>0</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>0</mWeaponStatus>
-			<mBig0>275</mBig0>
+			<mBig0>3038</mBig0>
 			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
-			<mBig0Drop>1</mBig0Drop>
+			<mBig0Drop>0</mBig0Drop>
 			<mBig1>0</mBig1>
 			<mBig1Status>0</mBig1Status>
 			<mBig1Quantity>0</mBig1Quantity>
