@@ -18358,5 +18358,39 @@
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>50</usOverheatingSingleShotTemperature>
-	</WEAPON>		 	
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>2149</uiIndex>
+		<szWeaponName>SKS PU</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>4</ubWeaponType>
+		<ubCalibre>10</ubCalibre>
+		<ubReadyTime>17</ubReadyTime>
+		<ubShotsPer4Turns>12.11</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>33</ubImpact>
+		<ubDeadliness>22</ubDeadliness>
+		<bAccuracy>3</bAccuracy>
+		<ubMagSize>10</ubMagSize>
+		<usRange>375</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>80</ubAttackVolume>
+		<ubHitVolume>8</ubHitVolume>
+		<sSound>303</sSound>
+		<sReloadSound>576</sReloadSound>
+		<sLocknLoadSound>575</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>20</bBurstAP>
+		<APsToReload>24</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>575</ManualReloadSound>
+		<nAccuracy>68</nAccuracy>
+		<ubAimLevels>6</ubAimLevels>
+		<Handling>17</Handling>
+		<usOverheatingJamThreshold>40000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>9360</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>117</usOverheatingSingleShotTemperature>
+        </WEAPON>
 </WEAPONLIST>

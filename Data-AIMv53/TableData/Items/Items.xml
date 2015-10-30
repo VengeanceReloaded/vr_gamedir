@@ -581,7 +581,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1100</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -656,7 +655,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>15</DamageChance>
 		<DirtIncreaseFactor>40.0</DirtIncreaseFactor>
@@ -696,7 +694,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>30.0</DirtIncreaseFactor>
@@ -736,7 +733,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>735</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>7</DamageChance>
 		<DirtIncreaseFactor>18.0</DirtIncreaseFactor>
@@ -824,7 +820,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>34</DamageChance>
 		<DirtIncreaseFactor>32.0</DirtIncreaseFactor>
@@ -1083,7 +1078,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1030</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -1414,7 +1408,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -1526,7 +1519,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>209</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -2107,7 +2099,6 @@
 		<BestLaserRange>100</BestLaserRange>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<RocketRifle>1</RocketRifle>
 		<CamoBonus>-5</CamoBonus>
 		<UrbanCamoBonus>-5</UrbanCamoBonus>
@@ -2416,7 +2407,6 @@
 		<BestLaserRange>90</BestLaserRange>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<RocketRifle>1</RocketRifle>
 		<CamoBonus>-5</CamoBonus>
 		<UrbanCamoBonus>-5</UrbanCamoBonus>
@@ -2571,7 +2561,6 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -6414,7 +6403,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>20</AimBonus>
 		<MinRangeForAimBonus>70</MinRangeForAimBonus>
-		<PercentAPReduction>-9</PercentAPReduction>
+		<PercentReadyTimeAPReduction>-30</PercentReadyTimeAPReduction>
 		<DamageBonus>2</DamageBonus>
 		<NightVisionRangeBonus>45</NightVisionRangeBonus>
 		<DayVisionRangeBonus>90</DayVisionRangeBonus>
@@ -9581,7 +9570,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1250</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -9939,7 +9927,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -10051,7 +10038,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -10130,7 +10116,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -10170,7 +10155,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>42.0</DirtIncreaseFactor>
@@ -10285,7 +10269,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>36.0</DirtIncreaseFactor>
@@ -10325,7 +10308,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>22.0</DirtIncreaseFactor>
@@ -16896,7 +16878,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -16938,7 +16919,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>7</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -16979,7 +16959,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>7</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -17112,7 +17091,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>7</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -17153,7 +17131,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>7</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -17194,7 +17171,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>7</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -17235,7 +17211,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>7</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -17276,7 +17251,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>850</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>7</DamageChance>
 		<DirtIncreaseFactor>21.0</DirtIncreaseFactor>
@@ -17317,7 +17291,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>7</DamageChance>
 		<DirtIncreaseFactor>21.0</DirtIncreaseFactor>
@@ -17359,7 +17332,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>11</DamageChance>
 		<DirtIncreaseFactor>19.0</DirtIncreaseFactor>
@@ -17401,7 +17373,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>8</DamageChance>
 		<DirtIncreaseFactor>19.0</DirtIncreaseFactor>
@@ -17443,7 +17414,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>8</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -17568,7 +17538,6 @@
 		<PercentNoiseReduction>85</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>43.0</DirtIncreaseFactor>
@@ -17611,7 +17580,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>208</DefaultAttachment>
 		<DefaultAttachment>209</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -17651,7 +17619,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>29.0</DirtIncreaseFactor>
@@ -17727,7 +17694,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -17910,7 +17876,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -17989,7 +17954,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -18171,7 +18135,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>950</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>44.3</DirtIncreaseFactor>
@@ -18465,7 +18428,6 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -18510,7 +18472,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1200</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -18552,7 +18513,6 @@
 		<PercentNoiseReduction>90</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -18735,7 +18695,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1006</DefaultAttachment>
 		<DefaultAttachment>1011</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -18818,7 +18777,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -18862,7 +18820,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>10.0</DirtIncreaseFactor>
@@ -18905,7 +18862,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>10.0</DirtIncreaseFactor>
@@ -18947,7 +18903,6 @@
 		<BR_ROF>750</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -19026,7 +18981,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>21.0</DirtIncreaseFactor>
@@ -19067,7 +19021,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>12</DamageChance>
 		<DirtIncreaseFactor>24.0</DirtIncreaseFactor>
@@ -19307,7 +19260,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>14.0</DirtIncreaseFactor>
@@ -19385,7 +19337,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>33.0</DirtIncreaseFactor>
@@ -19427,7 +19378,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>33.0</DirtIncreaseFactor>
@@ -19469,7 +19419,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>33.0</DirtIncreaseFactor>
@@ -19510,7 +19459,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -19552,7 +19500,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>33.0</DirtIncreaseFactor>
@@ -19594,7 +19541,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>209</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -19669,7 +19615,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -19711,7 +19656,6 @@
 		<BR_ROF>620</BR_ROF>
 		<ToHitBonus>19</ToHitBonus>
 		<BestLaserRange>100</BestLaserRange>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<CamoBonus>-5</CamoBonus>
 		<UrbanCamoBonus>-5</UrbanCamoBonus>
 		<DesertCamoBonus>-5</DesertCamoBonus>
@@ -19760,7 +19704,6 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -19917,7 +19860,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -20354,7 +20296,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1200</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -20463,7 +20404,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -20503,7 +20443,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>950</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -20834,7 +20773,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -21015,7 +20953,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>209</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -21092,7 +21029,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -21278,7 +21214,6 @@
 		<BR_ROF>700</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>209</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -21322,7 +21257,6 @@
 		<BR_ROF>700</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>24.0</DirtIncreaseFactor>
@@ -21365,7 +21299,6 @@
 		<BR_ROF>700</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>24.0</DirtIncreaseFactor>
@@ -21546,7 +21479,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>850</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -21726,7 +21658,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>550</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>31.0</DirtIncreaseFactor>
@@ -21986,7 +21917,6 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -22120,7 +22050,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>999</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -22430,7 +22359,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>26.0</DirtIncreaseFactor>
@@ -22707,7 +22635,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>946</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -22750,7 +22677,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>946</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -22793,7 +22719,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>12.0</DirtIncreaseFactor>
@@ -22835,7 +22760,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>946</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -22950,7 +22874,6 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<VisionRangeBonus>25</VisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
@@ -22998,7 +22921,6 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<VisionRangeBonus>25</VisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
@@ -23043,7 +22965,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>35.0</DirtIncreaseFactor>
@@ -23188,7 +23109,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>480</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>25.0</DirtIncreaseFactor>
@@ -23264,7 +23184,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>60.0</DirtIncreaseFactor>
@@ -23694,7 +23613,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -23948,7 +23866,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>650</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1012</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>14</DamageChance>
@@ -24066,7 +23983,6 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>9</DamageChance>
 		<DirtIncreaseFactor>19.0</DirtIncreaseFactor>
@@ -24147,7 +24063,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>10.0</DirtIncreaseFactor>
@@ -24188,7 +24103,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>10.0</DirtIncreaseFactor>
@@ -24265,7 +24179,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>10.0</DirtIncreaseFactor>
@@ -24306,7 +24219,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>10.0</DirtIncreaseFactor>
@@ -24347,7 +24259,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>10.0</DirtIncreaseFactor>
@@ -24388,7 +24299,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>10.0</DirtIncreaseFactor>
@@ -24428,7 +24338,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -24502,7 +24411,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>550</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>34.0</DirtIncreaseFactor>
@@ -24541,7 +24449,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>550</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>34.0</DirtIncreaseFactor>
@@ -28145,6 +28052,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
+		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>12</BR_ROF>
@@ -28217,6 +28125,7 @@
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>12</BR_ROF>
@@ -28254,6 +28163,7 @@
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>12</BR_ROF>
@@ -28546,6 +28456,7 @@
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>12</BR_ROF>
@@ -28832,6 +28743,7 @@
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>12</BR_ROF>
@@ -29459,6 +29371,7 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
+		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>20</ToHitBonus>
@@ -29508,6 +29421,7 @@
 		<Bipod>7</Bipod>
 		<BurstToHitBonus>4</BurstToHitBonus>
 		<AutoFireToHitBonus>4</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>5</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentHandling>-5</PercentHandling>
@@ -29549,6 +29463,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>25</ToHitBonus>
 		<BestLaserRange>400</BestLaserRange>
+		<PercentReadyTimeAPReduction>15</PercentReadyTimeAPReduction>		
 		<PercentAPReduction>10</PercentAPReduction>
 		<CamoBonus>-20</CamoBonus>
 		<UrbanCamoBonus>-20</UrbanCamoBonus>
@@ -31078,6 +30993,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<ToHitBonus>-5</ToHitBonus>
 		<MagSizeBonus>45</MagSizeBonus>
+		<PercentReadyTimeAPReduction>-10</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
@@ -31114,6 +31030,7 @@
 		<BigGunList>1</BigGunList>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
+		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<PercentAPReduction>20</PercentAPReduction>
@@ -31149,11 +31066,12 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<WaterDamages>1</WaterDamages>
-		<Electronic>1</Electronic>
+		<Electronic>1</Electronic>	
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>-5</ToHitBonus>
 		<AimBonus>11</AimBonus>
+		<PercentReadyTimeAPReduction>-15</PercentReadyTimeAPReduction>
 		<MinRangeForAimBonus>40</MinRangeForAimBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<DayVisionRangeBonus>40</DayVisionRangeBonus>
@@ -31192,6 +31110,7 @@
 		<BigGunList>1</BigGunList>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
+		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>-8</ToHitBonus>
@@ -31234,6 +31153,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<PercentReadyTimeAPReduction>-10</PercentReadyTimeAPReduction>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>-5</ToHitBonus>
@@ -31277,6 +31197,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>-5</ToHitBonus>
 		<MagSizeBonus>70</MagSizeBonus>
+		<PercentReadyTimeAPReduction>-10</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
@@ -31350,6 +31271,7 @@
 		<ToHitBonus>-5</ToHitBonus>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
@@ -31435,6 +31357,7 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
@@ -31472,6 +31395,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>-7</ToHitBonus>
 		<AimBonus>15</AimBonus>
+		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<MinRangeForAimBonus>45</MinRangeForAimBonus>
 		<DamageBonus>1</DamageBonus>
 		<NightVisionRangeBonus>25</NightVisionRangeBonus>
@@ -31513,7 +31437,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>-5</ToHitBonus>
-		<PercentReadyTimeAPReduction>33</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-40</PercentMaxCounterForce>
@@ -31551,7 +31474,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>-5</ToHitBonus>
-		<PercentReadyTimeAPReduction>33</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-40</PercentMaxCounterForce>
@@ -31617,6 +31539,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
+		<PercentReadyTimeAPReduction>5</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentHandling>-10</PercentHandling>
@@ -32131,6 +32054,7 @@
 		<ToHitBonus>-2</ToHitBonus>
 		<AimBonus>5</AimBonus>
 		<MinRangeForAimBonus>10</MinRangeForAimBonus>
+		<PercentReadyTimeAPReduction>-10</PercentReadyTimeAPReduction>
 		<NightVisionRangeBonus>5</NightVisionRangeBonus>
 		<DayVisionRangeBonus>10</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
@@ -32173,6 +32097,7 @@
 		<ToHitBonus>-5</ToHitBonus>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<PercentReadyTimeAPReduction>-15</PercentReadyTimeAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
@@ -33188,7 +33113,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>14.6</DirtIncreaseFactor>
@@ -33232,7 +33156,6 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>24.0</DirtIncreaseFactor>
@@ -33307,7 +33230,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1007</DefaultAttachment>
 		<DefaultAttachment>209</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -33351,7 +33273,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>14.0</DirtIncreaseFactor>
@@ -33439,7 +33360,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>209</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -33591,7 +33511,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1000</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1011</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -33634,7 +33553,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>15.0</DirtIncreaseFactor>
@@ -37011,7 +36929,6 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -37059,7 +36976,6 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -37142,6 +37058,7 @@
 		<ToHitBonus>-5</ToHitBonus>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<PercentReadyTimeAPReduction>-15</PercentReadyTimeAPReduction>
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
@@ -37181,6 +37098,7 @@
 		<ToHitBonus>-5</ToHitBonus>
 		<AimBonus>11</AimBonus>
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<PercentReadyTimeAPReduction>-15</PercentReadyTimeAPReduction>
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
@@ -37220,6 +37138,7 @@
 		<ToHitBonus>-4</ToHitBonus>
 		<AimBonus>9</AimBonus>
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<PercentReadyTimeAPReduction>-15</PercentReadyTimeAPReduction>
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
@@ -37251,6 +37170,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<RangeBonus>20</RangeBonus>
 		<ToHitBonus>7</ToHitBonus>
 		<ScopeMagFactor>1.0</ScopeMagFactor>
@@ -37379,7 +37299,6 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<VisionRangeBonus>25</VisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
@@ -37488,7 +37407,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>30.0</DirtIncreaseFactor>
@@ -37668,7 +37586,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -41168,7 +41085,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -41207,7 +41123,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -41248,7 +41163,6 @@
 		<PercentNoiseReduction>75</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -46084,8 +45998,9 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>4</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>		
 		<BR_ROF>24</BR_ROF>
+		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>		
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -54716,7 +54631,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>950</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1030</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -54780,7 +54694,6 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>30</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -55058,7 +54971,6 @@
 		<MinRangeForAimBonus>12</MinRangeForAimBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>10</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>15</DayVisionRangeBonus>
@@ -55096,7 +55008,6 @@
 		<BR_ROF>750</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>10</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -55129,7 +55040,6 @@
 		<BR_ROF>750</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>10</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -55163,7 +55073,6 @@
 		<BR_ROF>750</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>10</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -55199,7 +55108,6 @@
 		<ToHitBonus>-5</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>10</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -55469,7 +55377,6 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -55500,7 +55407,6 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>700</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -55531,7 +55437,6 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -55602,7 +55507,6 @@
 		<PercentNoiseReduction>10</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1600</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -55639,7 +55543,6 @@
 		<PercentNoiseReduction>10</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1928</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -55676,7 +55579,6 @@
 		<PercentNoiseReduction>10</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1004</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -55820,7 +55722,6 @@
 		<MinRangeForAimBonus>12</MinRangeForAimBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>10</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>15</DayVisionRangeBonus>
@@ -55924,6 +55825,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>800</BR_ROF>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -55954,6 +55856,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>800</BR_ROF>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -55985,6 +55888,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>800</BR_ROF>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<PercentNoiseReduction>92</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -56018,6 +55922,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>900</BR_ROF>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56047,6 +55952,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>600</BR_ROF>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56077,6 +55983,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>600</BR_ROF>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56108,7 +56015,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56140,7 +56047,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56173,7 +56080,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56206,7 +56113,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56239,7 +56146,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56270,7 +56177,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56302,6 +56209,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>800</BR_ROF>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56333,6 +56241,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>800</BR_ROF>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56364,7 +56273,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56397,7 +56306,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>950</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56431,7 +56340,7 @@
 		<BR_ROF>800</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56462,7 +56371,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56495,7 +56404,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56529,7 +56438,7 @@
 		<BR_ROF>700</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56563,7 +56472,7 @@
 		<BR_ROF>700</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56597,7 +56506,7 @@
 		<BR_ROF>700</BR_ROF>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56629,7 +56538,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56659,6 +56568,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BR_ROF>650</BR_ROF>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56692,7 +56602,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56726,7 +56635,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>950</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56794,7 +56702,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56865,7 +56772,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56901,7 +56807,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56935,7 +56840,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56969,7 +56873,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -57005,7 +56908,6 @@
 		<PercentNoiseReduction>80</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -57526,7 +57428,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -57629,7 +57530,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -57728,7 +57628,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -57760,7 +57659,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -57827,6 +57726,7 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>400</BR_ROF>
+		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -57859,6 +57759,7 @@
 		<Inseparable>1</Inseparable>
 		<BR_ROF>12</BR_ROF>
 		<GrenadeLauncher>1</GrenadeLauncher>
+		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -57891,6 +57792,7 @@
 		<BigGunList>1</BigGunList>
 		<Inseparable>1</Inseparable>
 		<BR_ROF>12</BR_ROF>
+		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -57924,6 +57826,7 @@
 		<BigGunList>1</BigGunList>
 		<Inseparable>1</Inseparable>
 		<BR_ROF>12</BR_ROF>
+		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -57958,6 +57861,7 @@
 		<BigGunList>1</BigGunList>
 		<Inseparable>1</Inseparable>
 		<BR_ROF>12</BR_ROF>
+		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -57992,6 +57896,7 @@
 		<BigGunList>1</BigGunList>
 		<Inseparable>1</Inseparable>
 		<BR_ROF>12</BR_ROF>
+		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<GrenadeLauncher>1</GrenadeLauncher>
@@ -58369,7 +58274,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>500</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -58475,7 +58379,6 @@
 		<BR_ROF>18</BR_ROF>
 		<Bipod>15</Bipod>
 		<ToHitBonus>-11</ToHitBonus>
-		<PercentReadyTimeAPReduction>-25</PercentReadyTimeAPReduction>
 		<DefaultAttachment>208</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -58511,7 +58414,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>22</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -58548,7 +58450,6 @@
 		<BR_ROF>700</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>10</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -58710,7 +58611,6 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>24</BR_ROF>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -58745,7 +58645,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>35</BR_ROF>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -58780,7 +58679,6 @@
 		<ToHitBonus>10</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<DefaultAttachment>913</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -58816,7 +58714,6 @@
 		<ToHitBonus>5</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>5</PercentReadyTimeAPReduction>
 		<DefaultAttachment>50</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -58851,7 +58748,6 @@
 		<BR_ROF>22</BR_ROF>
 		<ToHitBonus>20</ToHitBonus>
 		<AimBonus>5</AimBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>5</PercentReloadTimeAPReduction>
 		<PercentAPReduction>10</PercentAPReduction>
 		<DefaultAttachment>1010</DefaultAttachment>
@@ -58890,7 +58786,6 @@
 		<BR_ROF>16</BR_ROF>
 		<Bipod>25</Bipod>
 		<ToHitBonus>10</ToHitBonus>
-		<PercentReadyTimeAPReduction>5</PercentReadyTimeAPReduction>
 		<DefaultAttachment>2211</DefaultAttachment>
 		<DefaultAttachment>2183</DefaultAttachment>
 		<NewInv>1</NewInv>
@@ -58927,7 +58822,6 @@
 		<ToHitBonus>15</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DefaultAttachment>1636</DefaultAttachment>
 		<DefaultAttachment>1007</DefaultAttachment>
 		<VisionRangeBonus>10</VisionRangeBonus>
@@ -58998,7 +58892,6 @@
 		<BR_ROF>12</BR_ROF>
 		<Bipod>25</Bipod>
 		<ToHitBonus>15</ToHitBonus>
-		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<DefaultAttachment>2211</DefaultAttachment>
 		<DefaultAttachment>2183</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -59309,7 +59202,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1200</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>12</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -59350,7 +59242,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>1200</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>12</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -59681,7 +59572,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>12</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -59944,11 +59834,38 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2149</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2149</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>SKS PU</szItemName>
+		<szLongItemName>SKS PU</szLongItemName>
+		<szItemDesc>This extremely common semi-automatic carbine weapon has seen action in almost every Communist country in the world. This 7.62x39mm carbine was mass produced numbering 15,000,000 to this day. Great for hunting everything from animals to man.</szItemDesc>
+		<szBRName>SKS</szBRName>
+		<szBRDesc>The Simonov self-loading SKS automatic rifle has a simple design and is easy to operate. Developed during WWII, it was later distributed to most Warsaw Pact members. Its only weak spot: it's a little heavy for its cartridge.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2149</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>686</ubGraphicNum>
+		<ubWeight>39</ubWeight>
+		<ItemSize>8</ItemSize>
+		<usPrice>870</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>0</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<DefaultAttachment>2859</DefaultAttachment>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<NotBuyable>1</NotBuyable>
+		<BR_ROF>24</BR_ROF>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<DamageChance>10</DamageChance>
+		<DirtIncreaseFactor>24.0</DirtIncreaseFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72643,9 +72560,9 @@
 		<Electronic>1</Electronic>
 		<Bipod>-2</Bipod>
 		<ToHitBonus>1</ToHitBonus>
+		<PercentReadyTimeAPReduction>5</PercentReadyTimeAPReduction>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>8</PercentReadyTimeAPReduction>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -72758,8 +72675,8 @@
 		<RangeBonus>20</RangeBonus>
 		<ToHitBonus>9</ToHitBonus>
 		<AimBonus>1</AimBonus>
+		<PercentReadyTimeAPReduction>25</PercentReadyTimeAPReduction>
 		<PercentBurstFireAPReduction>2</PercentBurstFireAPReduction>
-		<PercentReadyTimeAPReduction>2</PercentReadyTimeAPReduction>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<ScopeMagFactor>1.0</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -72956,9 +72873,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ToHitBonus>21</ToHitBonus>
 		<BestLaserRange>250</BestLaserRange>
 		<AimBonus>1</AimBonus>
-		<PercentBurstFireAPReduction>2</PercentBurstFireAPReduction>
-		<PercentAutofireAPReduction>2</PercentAutofireAPReduction>
-		<PercentReadyTimeAPReduction>1</PercentReadyTimeAPReduction>
 		<CamoBonus>-12</CamoBonus>
 		<UrbanCamoBonus>-12</UrbanCamoBonus>
 		<DesertCamoBonus>-12</DesertCamoBonus>
@@ -73042,10 +72956,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ToHitBonus>5</ToHitBonus>
 		<BurstToHitBonus>10</BurstToHitBonus>
 		<AutoFireToHitBonus>10</AutoFireToHitBonus>
-		<PercentBurstFireAPReduction>5</PercentBurstFireAPReduction>
-		<PercentAutofireAPReduction>5</PercentAutofireAPReduction>
-		<PercentReadyTimeAPReduction>-2</PercentReadyTimeAPReduction>
-		<PercentAPReduction>5</PercentAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-40</PercentMaxCounterForce>
@@ -73322,7 +73232,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -73517,8 +73426,8 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
-		<PercentReadyTimeAPReduction>-2</PercentReadyTimeAPReduction>
 		<PercentAPReduction>33</PercentAPReduction>
+		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -73629,7 +73538,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>15</ToHitBonus>
 		<BestLaserRange>350</BestLaserRange>
-		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentAPReduction>33</PercentAPReduction>
 		<CamoBonus>-17</CamoBonus>
 		<UrbanCamoBonus>-17</UrbanCamoBonus>
@@ -73669,7 +73577,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>300</BestLaserRange>
-		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<CamoBonus>-15</CamoBonus>
 		<UrbanCamoBonus>-15</UrbanCamoBonus>
 		<DesertCamoBonus>-15</DesertCamoBonus>
@@ -73707,7 +73614,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Bipod>-2</Bipod>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>10</PercentReadyTimeAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -73974,7 +73880,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>200</BestLaserRange>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<CamoBonus>-20</CamoBonus>
 		<UrbanCamoBonus>-20</UrbanCamoBonus>
 		<DesertCamoBonus>-20</DesertCamoBonus>
@@ -74034,7 +73939,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<RangeBonus>10</RangeBonus>
 		<ToHitBonus>2</ToHitBonus>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74069,6 +73974,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>8</AimBonus>
+		<PercentReadyTimeAPReduction>-15</PercentReadyTimeAPReduction>
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
@@ -74107,6 +74013,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>3</ToHitBonus>
+		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<PercentAPReduction>8</PercentAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -74141,6 +74048,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>1</ToHitBonus>
+		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<PercentAPReduction>15</PercentAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -74517,6 +74425,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>2</ToHitBonus>
 		<PercentAPReduction>18</PercentAPReduction>
+		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74551,6 +74460,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>2</ToHitBonus>
 		<PercentAPReduction>10</PercentAPReduction>
+		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -74582,6 +74492,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>2</ToHitBonus>
 		<PercentAPReduction>10</PercentAPReduction>
+		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -74656,7 +74567,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>200</BestLaserRange>
 		<PercentAutofireAPReduction>2</PercentAutofireAPReduction>
-		<PercentReadyTimeAPReduction>-2</PercentReadyTimeAPReduction>
 		<CamoBonus>-10</CamoBonus>
 		<UrbanCamoBonus>-10</UrbanCamoBonus>
 		<DesertCamoBonus>-10</DesertCamoBonus>
@@ -74758,7 +74668,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>15</ToHitBonus>
 		<BestLaserRange>350</BestLaserRange>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<CamoBonus>-17</CamoBonus>
 		<UrbanCamoBonus>-17</UrbanCamoBonus>
 		<DesertCamoBonus>-17</DesertCamoBonus>
@@ -75967,7 +75876,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<BestLaserRange>200</BestLaserRange>
 		<AimBonus>15</AimBonus>
 		<MinRangeForAimBonus>45</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
 		<CamoBonus>-10</CamoBonus>
@@ -76016,7 +75924,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<BestLaserRange>200</BestLaserRange>
 		<AimBonus>12</AimBonus>
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
 		<CamoBonus>-10</CamoBonus>
 		<UrbanCamoBonus>-10</UrbanCamoBonus>
@@ -76240,7 +76147,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<BestLaserRange>350</BestLaserRange>
 		<AimBonus>13</AimBonus>
 		<MinRangeForAimBonus>40</MinRangeForAimBonus>
-		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentAPReduction>33</PercentAPReduction>
 		<CamoBonus>-17</CamoBonus>
 		<UrbanCamoBonus>-17</UrbanCamoBonus>
@@ -76280,7 +76186,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Attachment>1</Attachment>
 		<Inseparable>1</Inseparable>
 		<Bipod>10</Bipod>
-		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -76313,7 +76218,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ToHitBonus>-3</ToHitBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-15</PercentReadyTimeAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -76429,7 +76333,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>21</ToHitBonus>
 		<BestLaserRange>300</BestLaserRange>
-		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<CamoBonus>-15</CamoBonus>
 		<UrbanCamoBonus>-15</UrbanCamoBonus>
 		<DesertCamoBonus>-15</DesertCamoBonus>
@@ -76564,7 +76467,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ToHitBonus>1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>8</PercentReadyTimeAPReduction>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
 		<AttachmentSystem>1</AttachmentSystem>
@@ -76596,9 +76498,9 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<BigGunList>1</BigGunList>
 		<Inseparable>1</Inseparable>
 		<Bipod>7</Bipod>
+		<PercentReadyTimeAPReduction>5</PercentReadyTimeAPReduction>
 		<BurstToHitBonus>4</BurstToHitBonus>
 		<AutoFireToHitBonus>4</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>8</PercentReadyTimeAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -76802,7 +76704,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>130</BestLaserRange>
-		<PercentReadyTimeAPReduction>-1</PercentReadyTimeAPReduction>
 		<CamoBonus>-6</CamoBonus>
 		<UrbanCamoBonus>-6</UrbanCamoBonus>
 		<DesertCamoBonus>-6</DesertCamoBonus>
@@ -76842,7 +76743,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Inseparable>1</Inseparable>
 		<ToHitBonus>25</ToHitBonus>
 		<BestLaserRange>400</BestLaserRange>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentAPReduction>10</PercentAPReduction>
 		<CamoBonus>-20</CamoBonus>
 		<UrbanCamoBonus>-20</UrbanCamoBonus>
@@ -77274,6 +77174,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Inseparable>1</Inseparable>
 		<AimBonus>7</AimBonus>
 		<MinRangeForAimBonus>15</MinRangeForAimBonus>
+		<PercentReadyTimeAPReduction>-10</PercentReadyTimeAPReduction>
 		<NightVisionRangeBonus>5</NightVisionRangeBonus>
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
@@ -77313,6 +77214,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Inseparable>1</Inseparable>
 		<AimBonus>18</AimBonus>
 		<MinRangeForAimBonus>70</MinRangeForAimBonus>
+		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<DamageBonus>1</DamageBonus>
 		<VisionRangeBonus>10</VisionRangeBonus>
 		<NightVisionRangeBonus>35</NightVisionRangeBonus>
@@ -77429,7 +77331,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>-1</BurstToHitBonus>
 		<AutoFireToHitBonus>-1</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -77463,7 +77364,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ToHitBonus>2</ToHitBonus>
 		<BurstToHitBonus>3</BurstToHitBonus>
 		<AutoFireToHitBonus>3</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-100</PercentReadyTimeAPReduction>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -77498,7 +77398,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ToHitBonus>-2</ToHitBonus>
 		<BurstToHitBonus>-1</BurstToHitBonus>
 		<AutoFireToHitBonus>-1</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>35</PercentReadyTimeAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -77532,7 +77431,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ToHitBonus>1</ToHitBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-75</PercentReadyTimeAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -77565,7 +77463,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Inseparable>1</Inseparable>
 		<PercentNoiseReduction>60</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -77599,7 +77496,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>2</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
