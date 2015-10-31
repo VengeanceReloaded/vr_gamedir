@@ -33411,9 +33411,9 @@
 		<uiIndex>1074</uiIndex>
 		<szItemName>HEZI SM-1</szItemName>
 		<szLongItemName>HEZI SM-1</szLongItemName>
-		<szItemDesc>Actually a M1 Carbine in a new dress.</szItemDesc>
+		<szItemDesc>Actually an M1 Carbine in a new Israeli dress, courtesy on Advance Combat Systems.</szItemDesc>
 		<szBRName>HEZI SM-1</szBRName>
-		<szBRDesc>A very new weapon for an old caliber, the HEZI is quite effective for its odd shape.</szBRDesc>
+		<szBRDesc>A new weapon for an old caliber, the HEZI is quite effective for its odd shape. You can send your old M1 to be retrofitted by ACS, but why wait? just buy direct from us.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1074</ubClassIndex>
@@ -33447,9 +33447,9 @@
 		<uiIndex>1075</uiIndex>
 		<szItemName>MG3</szItemName>
 		<szLongItemName>Rheinmetall MG3</szLongItemName>
-		<szItemDesc>When the Germans build up the Bundeswehr they took the MG42, renamed it MG3, and took down the firing rate somewhat. Because, it was still the best GPMG of the world at that time. In use in several other countries as well.</szItemDesc>
+		<szItemDesc>When the Germans built the Bundeswehr they took the MG 42, renamed it MG 3, and took down the firing rate somewhat. Considered the best GPMG of the world at that time it remains in use by several other countries.</szItemDesc>
 		<szBRName>Rheinmetall MG3</szBRName>
-		<szBRDesc>Despite various nicknames, this is a dead serious gun. With attachment points for both a bipod or a tripod, an Anti-Air sight, and very easily replaced barrels, you can see why this is THE General Purpose Machine Gun.</szBRDesc>
+		<szBRDesc>Despite various nicknames, this is a dead serious gun. With attachment points for both a bipod or a tripod, an anti-air sight, and easily replaced barrels, you can see why this is THE general-purpose machine gun.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1075</ubClassIndex>
@@ -33488,7 +33488,7 @@
 		<szLongItemName>Ares M4 Shrike</szLongItemName>
 		<szItemDesc>The LMG version of the M4 assault rifle.</szItemDesc>
 		<szBRName>Ares M4 Shrike</szBRName>
-		<szBRDesc>Ares changed the M4 assault rifle to a LMG with a completely new upper receiver. Comes with a foregrip for better control during fullauto.</szBRDesc>
+		<szBRDesc>Ares changed the M4 assault rifle to an LMG with a completely new upper receiver. Comes with a foregrip for better control during full auto.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1076</ubClassIndex>
@@ -33570,7 +33570,7 @@
 		<szLongItemName>Beretta Cx4 Storm</szLongItemName>
 		<szItemDesc>The action of Beretta's Storm pistol inside a rifle stock.</szItemDesc>
 		<szBRName>Beretta Cx4 Storm</szBRName>
-		<szBRDesc>A futuristic looking rifle firing an unsurpassed pistol round, the .45ACP. This version has a magazine well that accepts hi-cap magazines.</szBRDesc>
+		<szBRDesc>A futuristic looking rifle firing an unsurpassed pistol round. This version has a magazine well that accepts hi-capacity magazines.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1078</ubClassIndex>
@@ -33604,7 +33604,7 @@
 		<szLongItemName>TT Assault Vest</szLongItemName>
 		<szItemDesc>A vest designed for carrying quite some of the most important consumables on a battlefield: ammo.</szItemDesc>
 		<szBRName>TT Assault Vest</szBRName>
-		<szBRDesc>The Tactical Tailor Assault Vest is for primary combat soldiers, and can carry 12 AR magazines, or whatever you need.</szBRDesc>
+		<szBRDesc>The Tactical Tailor Assault Vest is primarily for combat soldiers, and can carry 12 AR magazines, or whatever you need.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>8</nasLayoutClass>
 		<ubClassIndex>4</ubClassIndex>
@@ -33632,7 +33632,7 @@
 		<szLongItemName>40mm Grenade Panel Leg Rig</szLongItemName>
 		<szItemDesc>A panel with four individual pockets to store up to four 40mm grenades.</szItemDesc>
 		<szBRName>40mm Grenade Panel Leg Rig</szBRName>
-		<szBRDesc>A quadruple pouch mounted on a leg rig. The long adjustable straps let you store 40mm grenades on any length.</szBRDesc>
+		<szBRDesc>A quadruple pouch mounted on a leg rig. The long adjustable straps let you store 40mm grenades of any length.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
 		<ubClassIndex>5</ubClassIndex>
@@ -33740,9 +33740,9 @@
 		<uiIndex>1084</uiIndex>
 		<szItemName>Police Vest</szItemName>
 		<szLongItemName>Hongkong Police Vest</szLongItemName>
-		<szItemDesc>A versatile vest with pockets of different sizes, 4 of them designed especially for 40mm grenades.</szItemDesc>
+		<szItemDesc>A versatile vest with pockets of different sizes, 4 of them designed specifcially for 40mm grenades.</szItemDesc>
 		<szBRName>Hongkong Police Vest</szBRName>
-		<szBRDesc>Your dedicated grenadier will love this vest, with its four 40mm grenade pockets. Although it's a police vest, you need not necessarily load only tear gas...</szBRDesc>
+		<szBRDesc>Your dedicated grenadier will love this vest, with its four 40mm grenade pockets. Although it's a police vest, you don't necessarily have to load only tear gas...</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>8</nasLayoutClass>
 		<ubClassIndex>9</ubClassIndex>
@@ -33798,7 +33798,7 @@
 		<szLongItemName>Russian 106 Vest</szLongItemName>
 		<szItemDesc>A very versatile vest.</szItemDesc>
 		<szBRName>Russian 106 Vest</szBRName>
-		<szBRDesc>The high number of pockets of various sizes lets you carry a lot of different things. Russian ingenuity at its best.</szBRDesc>
+		<szBRDesc>The high number of pockets of various sizes lets you carry a lot of different things. Russian ingenuity at it's best.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>8</nasLayoutClass>
 		<ubClassIndex>11</ubClassIndex>
@@ -33854,7 +33854,7 @@
 		<szLongItemName>Russian RM22SF Vest</szLongItemName>
 		<szItemDesc>A versatile Russian special forces vest.</szItemDesc>
 		<szBRName>Russian RM22SF Vest</szBRName>
-		<szBRDesc>Designed for carrying magazines, grenades, and a few other things, this is the Russian special forces vest.</szBRDesc>
+		<szBRDesc>Designed for carrying magazines, grenades, and sundry items, this is THE Russian special forces vest.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>8</nasLayoutClass>
 		<ubClassIndex>13</ubClassIndex>
@@ -33908,7 +33908,7 @@
 		<uiIndex>1090</uiIndex>
 		<szItemName>LBE Harness</szItemName>
 		<szLongItemName>Load Bearing Equipment Harness</szLongItemName>
-		<szItemDesc>This heavy-duty, abrasion and water resistant 1000 denier nylon exterior construction is fully adjustable for height and girth, and comes with several pouches.</szItemDesc>
+		<szItemDesc>This heavy-duty harness is constructed of abrasion and water resistant 1000 denier nylon and is fully adjustable for height and girth, and comes with several pouches.</szItemDesc>
 		<szBRName>LBE Harness</szBRName>
 		<szBRDesc>Load Bearing Equipment lets you carry your equipment into battle.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -33963,7 +33963,7 @@
 		<uiIndex>1092</uiIndex>
 		<szItemName>Holster Rig</szItemName>
 		<szLongItemName>Holster Rig</szLongItemName>
-		<szItemDesc>If you're looking for a comfortable, durable leg rig with medium pistol holster and a triple pistol mag pouch this EWF tactical is the ultimate choice..</szItemDesc>
+		<szItemDesc>If you're looking for a comfortable, durable leg rig with medium pistol holster and a triple pistol mag pouch this EWF tactical is the ultimate choice.</szItemDesc>
 		<szBRName>Holster Rig</szBRName>
 		<szBRDesc>This EWF tactical Leg Rig can carry a pistol and three magazines.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -34073,7 +34073,7 @@
 		<szLongItemName>MALICE3 Backpack</szLongItemName>
 		<szItemDesc>A backpack with lots of outer pockets. Camo: Desert MARPAT.</szItemDesc>
 		<szBRName>MALICE3 Backpack</szBRName>
-		<szBRDesc>You do not want to rummage through the main compartment of your backpack for that elusive piece of gear that always sits at the bottom? This one has lots of outer pockets, to store your items for easy access. Camo: Desert MARPAT.</szBRDesc>
+		<szBRDesc>When you don't want to rummage through the main compartment of your backpack for that elusive piece of gear that always sits at the bottom. This one has lots of outer pockets, for easy access to your items. Camo: Desert MARPAT.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>32</nasLayoutClass>
 		<ubClassIndex>21</ubClassIndex>
@@ -34127,7 +34127,7 @@
 		<szLongItemName>Tactical Tailor 3-Day Pack</szLongItemName>
 		<szItemDesc>A combat pack with an extra pocket on the outside.</szItemDesc>
 		<szBRName>Tactical Tailor 3-Day Pack</szBRName>
-		<szBRDesc>You want storage capacity to lug some things around during combat, but a backpack slows you down to much. This smaller combat pack may be the solution to your needs.</szBRDesc>
+		<szBRDesc>You want storage capacity to lug things around during combat, but a backpack slows you down to much? This smaller combat pack may be the solution to your needs.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>16</nasLayoutClass>
 		<ubClassIndex>23</ubClassIndex>
@@ -34154,7 +34154,7 @@
 		<szLongItemName>Blackhawk Patrol Pack</szLongItemName>
 		<szItemDesc>A multi-pocket combat pack.</szItemDesc>
 		<szBRName>Blackhawk Patrol Pack</szBRName>
-		<szBRDesc>If you need to carry a very diverse assortment of goodies into combat, this is the combat pack for you!</szBRDesc>
+		<szBRDesc>If you need to carry a very diverse assortment of goodies into combat, this is the combat pack for you.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>16</nasLayoutClass>
 		<ubClassIndex>24</ubClassIndex>
@@ -34179,7 +34179,7 @@
 		<uiIndex>1100</uiIndex>
 		<szItemName>SO-18 Helmet</szItemName>
 		<szLongItemName>Treated Stealth Ops Helmet</szLongItemName>
-		<szItemDesc>This helmet will protect you from small caliber rounds effectively, providing maximal stealth. For those really quiet operatives only.  Treated with C-18 for added protection.</szItemDesc>
+		<szItemDesc>With added C-18 treatment, this helmet will protect you from small caliber rounds effectively while still providing stealth capablities. For those really quiet operatives only.</szItemDesc>
 		<szBRName>Treated Stealth Ops Helmet</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -34308,7 +34308,7 @@
 		<uiIndex>1104</uiIndex>
 		<szItemName>Recon T. Guard. Vest</szItemName>
 		<szLongItemName>Treated Recon Guardian Vest</szLongItemName>
-		<szItemDesc>This camouflaged guardian vest is the best solution for any recon activity. Treated with C-18 for added protection.</szItemDesc>
+		<szItemDesc>This camouflaged Guardian vest is the best solution for any recon activity. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Recon Guardian Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -34350,7 +34350,7 @@
 		<uiIndex>1105</uiIndex>
 		<szItemName>Recon Tw.-18 Vest</szItemName>
 		<szLongItemName>Treated Recon Twaron Vest</szLongItemName>
-		<szItemDesc>This camouflaged twaron vest is the best solution for any recon activity. Treated with C-18 for added protection.</szItemDesc>
+		<szItemDesc>This camouflaged Twaron vest is the best solution for any recon activity. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Recon Twaron Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -34422,7 +34422,7 @@
 		<uiIndex>1107</uiIndex>
 		<szItemName>Recon Tw.-18 Leggings</szItemName>
 		<szLongItemName>Treated Recon Twaron Leggings</szLongItemName>
-		<szItemDesc>Comfortable and camouflaged, these twaron leggings are made for reconnaissance in the first place. Treated with C-18 for added protection.</szItemDesc>
+		<szItemDesc>Comfortable and camouflaged, these Twaron leggings are made for reconnaissance in the first place. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Recon Twaron Leggings</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -35614,7 +35614,7 @@
 		<uiIndex>1140</uiIndex>
 		<szItemName>Recon C. Tw. Vest</szItemName>
 		<szLongItemName>Coated Recon Twaron Vest</szLongItemName>
-		<szItemDesc>This camouflaged twaron vest is the best solution for any recon activity. Coated with Royal Jelly for added protection.</szItemDesc>
+		<szItemDesc>This camouflaged Twaron vest is the best solution for any recon activity. Coated with Royal Jelly for added protection.</szItemDesc>
 		<szBRName>Coated Recon Twaron Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -35686,7 +35686,7 @@
 		<uiIndex>1142</uiIndex>
 		<szItemName>Recon C. Tw. Leggings</szItemName>
 		<szLongItemName>Coated Recon Twaron Leggings</szLongItemName>
-		<szItemDesc>Comfortable and camouflaged, these twaron leggings are made for reconnaissance in the first place. Coated with Royal Jelly for added protection.</szItemDesc>
+		<szItemDesc>Comfortable and camouflaged, these Twaron leggings are made for reconnaissance in the first place. Coated with Royal Jelly for added protection.</szItemDesc>
 		<szBRName>Coated Recon Twaron Leggings</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
