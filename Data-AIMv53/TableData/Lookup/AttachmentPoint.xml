@@ -16,4 +16,269 @@
 		<id>3</id>
 		<name>All Molle</name>
 	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>4</id>
+		<name>Laser - Small</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>8</id>
+		<name>Laser - LAM</name>
+	</AttachmentPoint>			
+	<AttachmentPoint>
+		<id>16</id>
+		<name>Laser - Rifle Lam</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>32</id>
+		<name>Laser - Old Aimpoint</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>64</id>
+		<name>Muzzle - Bayonet</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>128</id>
+		<name>Muzzle - AK Bayonet</name>
+	</AttachmentPoint>				
+	<AttachmentPoint>
+		<id>256</id>
+		<name>Muzzle - Pistol Suppressor</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>512</id>
+		<name>Muzzle - SMG Suppressor</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>1024</id>
+		<name>Muzzle - AR Suppressor</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>2048</id>
+		<name>Muzzle - Sniper Suppressor</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>4096</id>
+		<name>Muzzle - Flash Suppressor</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>8192</id>
+		<name>Muzzle - Muzzle Brake</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>16384</id>
+		<name>Muzzle - Rifle Grenade</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>32768</id>
+		<name>Muzzle - Gun Barrel Extender</name>
+	</AttachmentPoint>			
+	<AttachmentPoint>
+		<id>65536</id>
+		<name>Muzzle - Duckbill</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>131072</id>
+		<name>Muzzle - Choke</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>262144</id>
+		<name>Sights - Match Sights</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>524288</id>
+		<name>Sights - Aperture Sights</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>1048576</id>
+		<name>Sights - Reflex</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>2097152</id>
+		<name>Sights - Holo/ISM-V-IR</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>4194304</id>
+		<name>Sights - Night/Termal Sight</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>8388608</id>
+		<name>Sights - AK Night Sight</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>16777216</id>
+		<name>Sights - Kobra</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>33554432</id>
+		<name>UB - Bipod</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>67108864</id>
+		<name>UB - Heavy Bipod</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>134217728</id>
+		<name>UB - Foregrip</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>268435456</id>
+		<name>UB - Grippod/GripLight</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>536870912</id>
+		<name>UB - Shotgun</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>1073741824</id>
+		<name>Adapter - 7.62x39 WP Drum</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>2147483648</id>
+		<name>Adapter - 5.56x45 C-Mag</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>4294967296</id>
+		<name>Adapter - 9x19mm C-Mag</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>8589934592</id>
+		<name>Internal - Trigger Group</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>17179869184</id>
+		<name>Internal - Match Trigger</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>34359738368</id>
+		<name>Internal - Rod and Spring</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>68719476736</id>
+		<name>Stock - Folding</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>137438953472</id>
+		<name>Stock - Retractable, Shock</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>274877906944</id>
+		<name>Laser - AK Corsac</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>549755813888</id>
+		<name>Rifle Sling</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>1099511627776</id>
+		<name>Scopes - Small 2x</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>2199023255552</id>
+		<name>Scopes - Rifle 3.5x</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>4398046511104</id>
+		<name>Scopes - Acog 4x</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>8796093022208</id>
+		<name>Scopes - Battle 7x</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>17592186044416</id>
+		<name>Scopes - Sniper 10x</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>35184372088832</id>
+		<name>Scopes - PSO-1</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>70368744177664</id>
+		<name>Scopes - PSO-3</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>140737488355328</id>
+		<name>Scopes - ZF-42</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>281474976710656</id>
+		<name>Scopes - No.32</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>562949953421312</id>
+		<name>Scopes - PEM</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>1125899906842624</id>
+		<name>Scopes - PU</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>2251799813685248</id>
+		<name>Armour Helmet - Face</name>
+	</AttachmentPoint>			
+	<AttachmentPoint>
+		<id>4503599627370496</id>
+		<name>Armour Helmet - Cover</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>9007199254740992</id>
+		<name>Armour Vest - Plates</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>18014398509481984</id>
+		<name>Armour Vest - Camo Shirt</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>36028797018963968</id>
+		<name>Armour Leggings - Protectors</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>72057594037927936</id>
+		<name>Armour Leggings - Camo</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>144115188075855872</id>
+		<name>Explosives - Detonator</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>288230376151711744</id>
+		<name>Misc - Batteries</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>576460752303423488</id>
+		<name>UB Launcher - M203PI</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>1152921504606846976</id>
+		<name>UB Launcher - GP-30</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>2305843009213693952</id>
+		<name>UB Launcher - AG-36</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>4611686018427387904</id>
+		<name>UB Launcher - HK-79</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>9223372036854775808</id>
+		<name>UB Launcher - EGLM</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>18446744073709551615</id>
+		<name>***Upper Limit***</name>
+	</AttachmentPoint>
+
+	<AttachmentPoint>
+		<id>36009022600196</id>
+		<name>* AK Main</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>167772288</id>
+		<name>* AK UB</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>17042464838728</id>
+		<name>* AR Main</name>
+	</AttachmentPoint>
 </JA2Data>
