@@ -5119,9 +5119,9 @@
 		<uiIndex>167</uiIndex>
 		<szItemName>Spectra Vest</szItemName>
 		<szLongItemName>Spectra Vest</szLongItemName>
-		<szItemDesc>This vest is made of Spectra Shield, an ultra high-performance ballistic sheet that dramatically reduces blunt trauma from multiple hits and angled shots. Its carrier pocket can hold an additional trauma plate.</szItemDesc>
+		<szItemDesc>This vest is made of Spectra Shield, an ultra high-performance ballistic sheet that dramatically reduces blunt trauma from multiple hits and angled shots. It's carrier pocket can hold an additional trauma plate.</szItemDesc>
 		<szBRName>Spectra Vest</szBRName>
-		<szBRDesc>The most advanced technology in body armor. This vest is made of Spectra Shield, an ultra high-performance ballistic sheet that dramatically reduces blunt trauma from multiple hits and angled shots. Its carrier pocket can hold an additional trauma plate.</szBRDesc>
+		<szBRDesc>The most advanced technology in body armor. This vest is made of Spectra Shield, an ultra high-performance ballistic sheet that dramatically reduces blunt trauma from multiple hits and angled shots. It's carrier pocket can hold an additional trauma plate.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>6</ubClassIndex>
@@ -5528,7 +5528,7 @@
 		<szLongItemName>Spectra Helmet</szLongItemName>
 		<szItemDesc>This light Spectra composite helmet, known for its anti-ballistic qualities,has an IR-absorbing black finish, cushioning foam, and an adjustable harness system with a leather head band and rubber chin strap.</szItemDesc>
 		<szBRName>Spectra Helmet</szBRName>
-		<szBRDesc>This helmet is made from a light Spectra composite that is famous for its superior anti-ballistic qualities. It features an IR-absorbing black finish, cushioning foam and an adjustable harness system with a leather headband and rubber chin strap.</szBRDesc>
+		<szBRDesc>This helmet is made from a light Spectra composite that is famous for it's superior anti-ballistic qualities. It features an IR-absorbing black finish, cushioning foam and an adjustable harness system with a leather headband and rubber chin strap.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>19</ubClassIndex>
@@ -26520,7 +26520,7 @@
 		<uiIndex>856</uiIndex>
 		<szItemName>Mech. Kev. Vest</szItemName>
 		<szLongItemName>Mechanic Kevlar Vest</szLongItemName>
-		<szItemDesc>For all mechanic and demolitions freaks such upgraded vest is a fulfilled dream.</szItemDesc>
+		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled.</szItemDesc>
 		<szBRName>Mechanic Kevlar Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -26563,7 +26563,7 @@
 		<uiIndex>857</uiIndex>
 		<szItemName>Mech. Guard. Vest</szItemName>
 		<szLongItemName>Mechanic Guardian Vest</szLongItemName>
-		<szItemDesc>For all mechanic and demolitions freaks such upgraded vest is a fulfilled dream.</szItemDesc>
+		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled.</szItemDesc>
 		<szBRName>Mechanic Guardian Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -26606,7 +26606,7 @@
 		<uiIndex>858</uiIndex>
 		<szItemName>Mech. Tw. Vest</szItemName>
 		<szLongItemName>Mechanic Twaron Vest</szLongItemName>
-		<szItemDesc>For all mechanic and demolitions freaks such upgraded vest is a fulfilled dream.</szItemDesc>
+		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled.</szItemDesc>
 		<szBRName>Mechanic Twaron Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -26649,7 +26649,7 @@
 		<uiIndex>859</uiIndex>
 		<szItemName>Mech. Spec. Vest</szItemName>
 		<szLongItemName>Mechanic Spectra Vest</szLongItemName>
-		<szItemDesc>For all mechanic and demolitions freaks such upgraded vest is a fulfilled dream.</szItemDesc>
+		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled.</szItemDesc>
 		<szBRName>Mechanic Spectra Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -26692,7 +26692,7 @@
 		<uiIndex>860</uiIndex>
 		<szItemName>Mech. Dyn. Vest</szItemName>
 		<szLongItemName>Mechanic Dyneema Vest</szLongItemName>
-		<szItemDesc>For all mechanic and demolitions freaks such upgraded vest is a fulfilled dream.</szItemDesc>
+		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled.</szItemDesc>
 		<szBRName>Mechanic Dyneema Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -27323,9 +27323,9 @@
 		<uiIndex>879</uiIndex>
 		<szItemName>Medic Vest Kit</szItemName>
 		<szLongItemName>Medic Vest Upgrade Kit</szLongItemName>
-		<szItemDesc>This upgrade kit contains the necessary components and tools to convert a kevlar, guardian, twaron, spectra or dyneema vest into medic vest.</szItemDesc>
+		<szItemDesc>This upgrade kit contains the necessary components and tools to convert a Kevlar, Guardian, Twaron, Spectra or Dyneema vest into a medic vest.</szItemDesc>
 		<szBRName>Medic Vest Upgrade Kit</szBRName>
-		<szBRDesc>You don't have to worry where to put the first aid kit. With this upgrade kit you'll get enough place for all important medicine you need in your vest.</szBRDesc>
+		<szBRDesc>You don't have to worry where to put the first aid kit. With this upgrade kit you'll have enough places for all important medicine you need.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -27349,7 +27349,7 @@
 		<uiIndex>880</uiIndex>
 		<szItemName>Medic Legg. Kit</szItemName>
 		<szLongItemName>Medic Leggings Upgrade Kit</szLongItemName>
-		<szItemDesc>All you ever need to upgrade your kevlar, twaron, spectra or dyneema leggings to those used by medic operatives.</szItemDesc>
+		<szItemDesc>All you ever need to upgrade your Kevlar, Twaron, Spectra or Dyneema leggings to those used by medic operatives.</szItemDesc>
 		<szBRName>Medic Leggings Upgrade Kit</szBRName>
 		<szBRDesc>Get this kit before your buddy bleeds to death and upgrade your leggings today! A serious medic wouldn't neglect this one.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -27375,7 +27375,7 @@
 		<uiIndex>881</uiIndex>
 		<szItemName>Mechanic Vest Kit</szItemName>
 		<szLongItemName>Mechanic Vest Upgrade Kit</szLongItemName>
-		<szItemDesc>This upgrade kit contains the necessary components and tools to convert a kevlar, guardian, twaron, spectra or dyneema vest into mechanic-demolitions vest.</szItemDesc>
+		<szItemDesc>This upgrade kit contains the necessary components and tools to convert a Kevlar, Guardian, Twaron, Spectra or Dyneema vest into mechanic-demolitions vest.</szItemDesc>
 		<szBRName>Mechanic Vest Upgrade Kit</szBRName>
 		<szBRDesc>Never enough room for your tools? Need an extra pocket for the remote bomb trigger? With this upgrade kit your vest will make a difference.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -27401,7 +27401,7 @@
 		<uiIndex>882</uiIndex>
 		<szItemName>Mechanic Legg. Kit</szItemName>
 		<szLongItemName>Mechanic Leggings Upgrade Kit</szLongItemName>
-		<szItemDesc>All you ever need to upgrade your kevlar, twaron, spectra or dyneema leggings to those used by mechanic and demolitions operatives.</szItemDesc>
+		<szItemDesc>All you ever need to upgrade your Kevlar, Twaron, Spectra or Dyneema leggings to those used by mechanic and demolitions operatives.</szItemDesc>
 		<szBRName>Mechanic Leggings Upgrade Kit</szBRName>
 		<szBRDesc>Ideal upgrade for mechanic and demolitions operatives! More pockets for your tools and demolitions equipment will give you more satisfaction, guaranteed!</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -27427,7 +27427,7 @@
 		<uiIndex>883</uiIndex>
 		<szItemName>FO Vest Kit</szItemName>
 		<szLongItemName>Field Ops Vest Upgrade Kit</szLongItemName>
-		<szItemDesc>This upgrade kit contains the necessary components and tools to convert a kevlar, guardian, twaron, spectra or dyneema vest into field operative vest.</szItemDesc>
+		<szItemDesc>This upgrade kit contains the necessary components and tools to convert a Kevlar, Guardian, Twaron, Spectra or Dyneema vest into field operative vest.</szItemDesc>
 		<szBRName>Field Ops Vest Upgrade Kit</szBRName>
 		<szBRDesc>Spending too much time outside? Upgrade your vest using this kit and enjoy more comfort and protection than ever!</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -27453,7 +27453,7 @@
 		<uiIndex>884</uiIndex>
 		<szItemName>FO Leggings Kit</szItemName>
 		<szLongItemName>Field Ops Leggings Upgrade Kit</szLongItemName>
-		<szItemDesc>All you ever need to upgrade your kevlar, twaron, spectra or dyneema leggings to those used by field operatives.</szItemDesc>
+		<szItemDesc>All you ever need to upgrade your Kevlar, Twaron, Spectra or Dyneema leggings to those used by field operatives.</szItemDesc>
 		<szBRName>Field Ops Leggings Upgrade Kit</szBRName>
 		<szBRDesc>No matter if you're a professional merc or a kid spending too much time playing outside - this upgrade kit is all your leggings need.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -33467,9 +33467,9 @@
 		<uiIndex>1074</uiIndex>
 		<szItemName>HEZI SM-1</szItemName>
 		<szLongItemName>HEZI SM-1</szLongItemName>
-		<szItemDesc>Actually an M1 Carbine in a new Israeli dress, courtesy on Advance Combat Systems.</szItemDesc>
+		<szItemDesc>Actually an M1 Carbine in a new Israeli dress, courtesy of Advance Combat Systems.</szItemDesc>
 		<szBRName>HEZI SM-1</szBRName>
-		<szBRDesc>A new weapon for an old caliber, the HEZI is quite effective for its odd shape. You can send your old M1 to be retrofitted by ACS, but why wait? just buy direct from us.</szBRDesc>
+		<szBRDesc>A new weapon for an old caliber, the HEZI is quite effective for its odd shape. You could send your old M1 to be retrofitted by ACS, but why wait? just buy direct from us.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1074</ubClassIndex>
@@ -34779,7 +34779,7 @@
 		<uiIndex>1115</uiIndex>
 		<szItemName>Medic Spec.-18 Legg.</szItemName>
 		<szLongItemName>Treated Medic Spectra Leggings</szLongItemName>
-		<szItemDesc>Nothing like an useful place for First Aid Kit, Canteen or Condoms. With these leggings you'll get it. Treated with C-18 for added protection.</szItemDesc>
+		<szItemDesc>Nothing like a useful place for a First Aid kit, canteen or condoms. With these leggings you'll get them. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Medic Spectra Leggings</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -34838,7 +34838,7 @@
 		<uiIndex>1117</uiIndex>
 		<szItemName>Mech. Kev.-18 Vest</szItemName>
 		<szLongItemName>Treated Mechanic Kevlar Vest</szLongItemName>
-		<szItemDesc>For all mechanic and demolitions freaks such upgraded vest is a fulfilled dream. Treated with C-18 for added protection.</szItemDesc>
+		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Mechanic Kevlar Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -34880,7 +34880,7 @@
 		<uiIndex>1118</uiIndex>
 		<szItemName>Mech. T. Guard. Vest</szItemName>
 		<szLongItemName>Treated Mechanic Guardian Vest</szLongItemName>
-		<szItemDesc>For all mechanic and demolitions freaks such upgraded vest is a fulfilled dream. Treated with C-18 for added protection.</szItemDesc>
+		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Mechanic Guardian Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -34922,7 +34922,7 @@
 		<uiIndex>1119</uiIndex>
 		<szItemName>Mech. Tw.-18 Vest</szItemName>
 		<szLongItemName>Treated Mechanic Twaron Vest</szLongItemName>
-		<szItemDesc>For all mechanic and demolitions freaks such upgraded vest is a fulfilled dream. Treated with C-18 for added protection.</szItemDesc>
+		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Mechanic Twaron Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -34965,7 +34965,7 @@
 		<uiIndex>1120</uiIndex>
 		<szItemName>Mech. Spec.-18 Vest</szItemName>
 		<szLongItemName>Treated Mechanic Spectra Vest</szLongItemName>
-		<szItemDesc>For all mechanic and demolitions freaks such upgraded vest is a fulfilled dream. Treated with C-18 for added protection.</szItemDesc>
+		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Mechanic Spectra Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -35007,7 +35007,7 @@
 		<uiIndex>1121</uiIndex>
 		<szItemName>Mech. Dyn.-18 Vest</szItemName>
 		<szLongItemName>Treated Mechanic Dyneema Vest</szLongItemName>
-		<szItemDesc>For all mechanic and demolitions freaks such upgraded vest is a fulfilled dream.</szItemDesc>
+		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled.</szItemDesc>
 		<szBRName>Treated Mechanic Dyneema Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -36105,7 +36105,7 @@
 		<uiIndex>1152</uiIndex>
 		<szItemName>Mech. C. Kev. Vest</szItemName>
 		<szLongItemName>Coated Mechanic Kevlar Vest</szLongItemName>
-		<szItemDesc>For all mechanic and demolitions freaks such upgraded vest is a fulfilled dream. Coated with Royal Jelly for added protection.</szItemDesc>
+		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled. Coated with Royal Jelly for added protection.</szItemDesc>
 		<szBRName>Coated Mechanic Kevlar Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -36147,7 +36147,7 @@
 		<uiIndex>1153</uiIndex>
 		<szItemName>Mech. C. Guard. Vest</szItemName>
 		<szLongItemName>Coated Mechanic Guardian Vest</szLongItemName>
-		<szItemDesc>For all mechanic and demolitions freaks such upgraded vest is a fulfilled dream. Coated with Royal Jelly for added protection.</szItemDesc>
+		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled. Coated with Royal Jelly for added protection.</szItemDesc>
 		<szBRName>Coated Mechanic Guardian Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -36190,7 +36190,7 @@
 		<uiIndex>1154</uiIndex>
 		<szItemName>Mech. C. Tw. Vest</szItemName>
 		<szLongItemName>Coated Mechanic Twaron Vest</szLongItemName>
-		<szItemDesc>For all mechanic and demolitions freaks such upgraded vest is a fulfilled dream. Coated with Royal Jelly for added protection.</szItemDesc>
+		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled. Coated with Royal Jelly for added protection.</szItemDesc>
 		<szBRName>Coated Mechanic Twaron Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -36233,7 +36233,7 @@
 		<uiIndex>1155</uiIndex>
 		<szItemName>Mech. C. Spec. Vest</szItemName>
 		<szLongItemName>Coated Mechanic Spectra Vest</szLongItemName>
-		<szItemDesc>For all mechanic and demolitions freaks such upgraded vest is a fulfilled dream. Coated with Royal Jelly for added protection.</szItemDesc>
+		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled. Coated with Royal Jelly for added protection.</szItemDesc>
 		<szBRName>Coated Mechanic Spectra Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -36276,7 +36276,7 @@
 		<uiIndex>1156</uiIndex>
 		<szItemName>Mech. C. Dyn. Vest</szItemName>
 		<szLongItemName>Coated Mechanic Dyneema Vest</szLongItemName>
-		<szItemDesc>For all mechanic and demolitions freaks such upgraded vest is a fulfilled dream.</szItemDesc>
+		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled.</szItemDesc>
 		<szBRName>Coated Mechanic Dyneema Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -68339,9 +68339,9 @@
 		<uiIndex>2604</uiIndex>
 		<szItemName>Demolitions Vest</szItemName>
 		<szLongItemName>Demolitions Expert Vest</szLongItemName>
-		<szItemDesc>Whether if you're working in a gold mine or as a frontline demolitions expert, you'll want to know where your bombs are. The demolitioner vest offers plenty of store room for all the needed accesoires for fireworks for all occassions.</szItemDesc>
+		<szItemDesc>Whether you're working in a gold mine or as a frontline demolitions expert, you'll want to know where your bombs are. The demolitioner vest offers plenty of store room for all the needed accessories for fireworks for all occassions.</szItemDesc>
 		<szBRName>Demolitions Expert Vest</szBRName>
-		<szBRDesc>Whether if you're working in a gold mine or as a frontline demolitions expert, you'll want to know where your bombs are. The demolitioner vest offers plenty of store room for all the needed accesoires for fireworks for all occassions.</szBRDesc>
+		<szBRDesc>Whether you're working in a gold mine or as a frontline demolitions expert, you'll want to know where your bombs are. The demolitioner vest offers plenty of store room for all the needed accessories for fireworks for all occassions.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>105</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
