@@ -362,4 +362,13 @@ Changes require starting of a new game.
 		<DesiredPopulation>13</DesiredPopulation>
 		<StartPopulation>13</StartPopulation>
 	</COMPOSITION>
+	<COMPOSITION>
+		<Index>32</Index>
+		<Priority>74</Priority>
+		<ElitePercentage>90</ElitePercentage>
+		<TroopPercentage>10</TroopPercentage>
+		<AdminPercentage>0</AdminPercentage>
+		<DesiredPopulation>16</DesiredPopulation>
+		<StartPopulation>18</StartPopulation>
+	</COMPOSITION>
 </COMPOSITION_INFO>
