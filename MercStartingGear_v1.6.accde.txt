@@ -1,0 +1,45 @@
+MERCSTARTINGGEAR EDITOR FOR VENGEANCE:RELOADED (and other mods)
+
+1)  Rename the file MercStartingGear_v1.6.accde.RENAME to MercStartingGear_v1.6.accde
+2)  Install AccessRuntime.exe (32-bit) if you don't have MS Access installed (link below)
+3) 'Import XML-files' to catch any changes to items
+4) 'Import MercStartingGear' so you are working with the latest version
+5) 'Export MercStartingGear' writes a new MercStartingGear.xml to the gamedir
+
+Things to remember:
+
+-  All your changes are kept in the file MercStartingGear_v1.6.accde
+-  Do not upload MercStartingGear_v1.6.accde to SVN
+-  Commit changes to SVN early ('Export MercStartingGear' and commit)
+-  Update from SVN and 'Import MercStartingGear' regularly
+
+-----------------------------------------------------------------------
+
+MercStartingGear_v1.6.accde is a small Access application for creating multiple gearkits (NSGI), which has been updated for current releases of JA2 1.13 (stable 7435, unstable 7991).
+
+You can only view three kits side-by-side, but all five kits are configurable. Naming the gearkits and setting an absolute price is now supported.
+
+It's available for download in case anyone else is interested, at least until the xml editor is brought up-to-date.
+
+Should works with any NSGI-compatible mod. Confirmed to work with 
+ - 1.13 release 7435 (stable)
+ - 1.13 release 7991 (unstable)
+
+If you don't have MS Access installed, you will need to download the free Access 2010 Runtime from http://www.microsoft.com/en-us/download/details.aspx?id=10910. (AccessRuntime.exe, the 32-bit version)
+
+Please report any problems on the Bear's Pit forums at 
+http://thepit.ja-galaxy-forum.com/index.php?t=msg&th=17838&goto=270448&#msg_270448
+
+
+changelog:
+1.6 XML files are read from and written to user definable folders
+1.5 Updated to new MercStartingGear.xml format
+1.3 More resilient to changes in supporting xml-files
+1.2 Updated to work with latest SVN xml files
+1.1 Switch between categories of items to display: all, guns, explosives etc. New price calculation for a small speed improvement
+1.0 Edit gear for everybody: AIM, MERC, RPC, NPC. Also includes alternative interface to enter item IDs directly. 
+0.9 Allows editing MERC starting gear as well as AIM gear
+0.8 Converts MercStartingGear.xml with unix line endings to CrLf
+0.7 Removed AimAvailability.xml dependency
+0.6 Imports existing MercStartingGear.xml
+0.5 Import support data from xml, should work with all NSGI-compatible mods
