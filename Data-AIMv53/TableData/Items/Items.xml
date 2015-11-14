@@ -79055,7 +79055,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>3039</uiIndex>
 		<szItemName>Authorisation</szItemName>
 		<szLongItemName>SCUD Authorisation</szLongItemName>
-		<szItemDesc>The explicit authorisation to deploy the SCUD weapon system against Mela. For this copy both files from the folder "Extras/Scud" into the "maps" folder.</szItemDesc>
+		<szItemDesc>The explicit authorisation to deploy the SCUD weapon system against I14 and H14 sectors of Mela.</szItemDesc>
 		<szBRName>SCUD Authorisation</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
