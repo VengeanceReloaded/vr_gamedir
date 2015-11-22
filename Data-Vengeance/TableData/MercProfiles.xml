@@ -18234,7 +18234,7 @@
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
 		<PANTS>BLUEPANTS</PANTS>
 		<VEST>WHITEVEST</VEST>
-		<SKIN>TANSKIN</SKIN>
+		<SKIN>PINKSKIN</SKIN>
 		<HAIR>BLACKHEAD</HAIR>
 		<bSex>0</bSex>
 		<ubBodyType>0</ubBodyType>
@@ -18245,18 +18245,18 @@
 		<ubNeedForSleep>0</ubNeedForSleep>
 		<bReputationTolerance>0</bReputationTolerance>
 		<bDeathRate>0</bDeathRate>
-		<bLifeMax>50</bLifeMax>
-		<bLife>50</bLife>
-		<bStrength>50</bStrength>
-		<bAgility>50</bAgility>
-		<bDexterity>50</bDexterity>
-		<bWisdom>50</bWisdom>
-		<bMarksmanship>50</bMarksmanship>
-		<bExplosive>50</bExplosive>
-		<bLeadership>50</bLeadership>
-		<bMedical>50</bMedical>
-		<bMechanical>50</bMechanical>
-		<bExpLevel>1</bExpLevel>
+		<bLifeMax>88</bLifeMax>
+		<bLife>88</bLife>
+		<bStrength>78</bStrength>
+		<bAgility>80</bAgility>
+		<bDexterity>60</bDexterity>
+		<bWisdom>82</bWisdom>
+		<bMarksmanship>85</bMarksmanship>
+		<bExplosive>51</bExplosive>
+		<bLeadership>80</bLeadership>
+		<bMedical>45</bMedical>
+		<bMechanical>39</bMechanical>
+		<bExpLevel>4</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
@@ -18321,7 +18321,7 @@
 		<SKIN>TANSKIN</SKIN>
 		<HAIR>BLACKHEAD</HAIR>
 		<bSex>0</bSex>
-		<ubBodyType>0</ubBodyType>
+		<ubBodyType>1</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
 		<bAttitude>0</bAttitude>
 		<bCharacterTrait>0</bCharacterTrait>
@@ -18329,18 +18329,18 @@
 		<ubNeedForSleep>0</ubNeedForSleep>
 		<bReputationTolerance>0</bReputationTolerance>
 		<bDeathRate>0</bDeathRate>
-		<bLifeMax>50</bLifeMax>
-		<bLife>50</bLife>
-		<bStrength>50</bStrength>
-		<bAgility>50</bAgility>
-		<bDexterity>50</bDexterity>
+		<bLifeMax>94</bLifeMax>
+		<bLife>94</bLife>
+		<bStrength>85</bStrength>
+		<bAgility>70</bAgility>
+		<bDexterity>48</bDexterity>
 		<bWisdom>50</bWisdom>
-		<bMarksmanship>50</bMarksmanship>
-		<bExplosive>50</bExplosive>
-		<bLeadership>50</bLeadership>
-		<bMedical>50</bMedical>
-		<bMechanical>50</bMechanical>
-		<bExpLevel>1</bExpLevel>
+		<bMarksmanship>80</bMarksmanship>
+		<bExplosive>47</bExplosive>
+		<bLeadership>69</bLeadership>
+		<bMedical>29</bMedical>
+		<bMechanical>47</bMechanical>
+		<bExpLevel>3</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
