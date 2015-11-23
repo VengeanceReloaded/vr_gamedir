@@ -422,6 +422,11 @@ Strings containing combinations of % characters are special format characters to
   <TEXT>
 	<!-- HISTORY_TRACONA_ACCESS -->
 	<uiIndex>81</uiIndex>
-    <sHistory>Gained artillery support for planned Tracona asault.</sHistory>
+    <sHistory>Gained artillery support for planned Tracona assault.</sHistory>
+  </TEXT> 
+    <TEXT>
+	<!-- HISTORY_SCUD_ACCESS -->
+	<uiIndex>82</uiIndex>
+    <sHistory>Gained SCUD support for planned Mela military base attack.</sHistory>
   </TEXT> 
 </STRINGS>
