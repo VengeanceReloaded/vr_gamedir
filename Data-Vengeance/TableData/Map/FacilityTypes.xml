@@ -1,5 +1,11 @@
 <FACILITYTYPES>
 	<FACILITYTYPE>
+		<ubIndex>0</ubIndex>
+		<szFacilityName>Default</szFacilityName>
+		<szFacilityShortName>Default</szFacilityShortName>
+		<ubTotalStaffLimit>0</ubTotalStaffLimit>
+	</FACILITYTYPE>
+	<FACILITYTYPE>
 		<ubIndex>1</ubIndex>
 		<szFacilityName>Field Hospital</szFacilityName>
 		<szFacilityShortName>Field Hospital</szFacilityShortName>
@@ -222,7 +228,19 @@
 		<ubIndex>11</ubIndex>
 		<szFacilityName>Mine</szFacilityName>
 		<szFacilityShortName>Mine</szFacilityShortName>
-		<ubTotalStaffLimit>6</ubTotalStaffLimit>	
+		<ubTotalStaffLimit>7</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>MANAGE_MINE</ubAssignmentType>
+			<szTooltipText>Making mine run efficiently is not an easy task. Without anyone competent at this position, mine income will drop.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usMineIncomeModifier>110</usMineIncomeModifier>
+			<fOnlyLocalMineAffected>1</fOnlyLocalMineAffected>
+			<CONDITIONS>
+				<ubMinimumWisdom>70</ubMinimumWisdom>
+				<ubMinimumLeadership>70</ubMinimumLeadership>
+				<ubMinimumLoyaltyHere>70</ubMinimumLoyaltyHere>
+			</CONDITIONS>
+		</ASSIGNMENT>		
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_EXPLOSIVES</ubAssignmentType>
 			<szTooltipText>Anyone who knows how to set explosives will be welcome in a mine. Increases efficiency of EXPLOSIVES training.</szTooltipText>
@@ -1178,7 +1196,6 @@
 		</ASSIGNMENT>
 	</FACILITYTYPE>
 
-
 	<FACILITYTYPE>
 		<ubIndex>49</ubIndex>
 		<szFacilityName>Waldo's Airport Workshop</szFacilityName>
@@ -1248,5 +1265,45 @@
 			<usKitDegrade>25</usKitDegrade>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
-
+	
+	<FACILITYTYPE>
+		<ubIndex>51</ubIndex>
+		<szFacilityName>Oil Rig</szFacilityName>
+		<szFacilityShortName>Oil Rig</szFacilityShortName>
+		<ubTotalStaffLimit>7</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>MANAGE_OIL_RIG</ubAssignmentType>
+			<szTooltipText>Making oil rig run efficiently is not an easy task. Without anyone competent at this position, rig income will drop.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usMineIncomeModifier>110</usMineIncomeModifier>
+			<fOnlyLocalMineAffected>1</fOnlyLocalMineAffected>
+			<CONDITIONS>
+				<ubMinimumWisdom>70</ubMinimumWisdom>
+				<ubMinimumLeadership>70</ubMinimumLeadership>
+				<ubMinimumLoyaltyHere>70</ubMinimumLoyaltyHere>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MECHANICAL</ubAssignmentType>
+			<szTooltipText>This facility and the service manuals are a great aid for enhancing your mechanical skill.</szTooltipText>
+			<ubStaffLimit>3</ubStaffLimit>
+			<usPerformance>120</usPerformance>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
+			<szTooltipText>Spend some time lugging barrels from here to there. Increases the efficiency of STRENGTH practice, and when the citizens see you sweaty and dirty from rig work they just might think better of you!</szTooltipText>
+			<ubStaffLimit>3</ubStaffLimit>
+			<usPerformance>133</usPerformance>
+			<MORALE>
+				<ubChance>99</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>3</ubRange>
+			</MORALE>
+			<LOYALTY_LOCAL>
+				<ubChance>86</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>1</ubRange>
+			</LOYALTY_LOCAL>
+		</ASSIGNMENT>
+	</FACILITYTYPE>	
 </FACILITYTYPES>

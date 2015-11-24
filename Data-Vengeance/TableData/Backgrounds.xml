@@ -1457,12 +1457,13 @@
 	<!-- Fred -->
 	<BACKGROUND>
 		<uiIndex>106</uiIndex>
-		<szName>Miner</szName>
-		<szShortName>Miner</szShortName>
+		<szName>Mining Foreman</szName>
+		<szShortName>Foreman</szShortName>
 		<szDescription>Working in a mine is hard, punishing work. No wonder some start &#10;to look for easier cash.</szDescription>
 		<ap_fortify>-20</ap_fortify>
 		<strength>5</strength>
 		<level_underground>1</level_underground>
+		<mine_income>20</mine_income>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -1919,12 +1920,13 @@
 	<!-- Matt -->
 	<BACKGROUND>
 		<uiIndex>148</uiIndex>
-		<szName>Miner</szName>
-		<szShortName>Miner</szShortName>
+		<szName>Mining Foreman</szName>
+		<szShortName>Foreman</szShortName>
 		<szDescription>Working in a mine is hard, punishing work. No wonder some start &#10;to look for easier cash.</szDescription>
 		<ap_fortify>-20</ap_fortify>
 		<strength>5</strength>
 		<level_underground>1</level_underground>
+		<mine_income>20</mine_income>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -2021,36 +2023,39 @@
 	<!-- Oswald -->
 	<BACKGROUND>
 		<uiIndex>156</uiIndex>
-		<szName>Miner</szName>
-		<szShortName>Miner</szShortName>
-		<szDescription>Working in a mine is hard, punishing work. No wonder some start &#10;to look for easier cash.</szDescription>
+		<szName>Drilling Foreman</szName>
+		<szShortName>Foreman</szShortName>
+		<szDescription>Working on an oil rig is hard, punishing work. No wonder some start &#10;to look for easier cash.</szDescription>
 		<ap_fortify>-20</ap_fortify>
 		<strength>5</strength>
 		<level_underground>1</level_underground>
+		<oil_rig_income>20</oil_rig_income>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Calvin -->
 	<BACKGROUND>
 		<uiIndex>157</uiIndex>
-		<szName>Miner</szName>
-		<szShortName>Miner</szShortName>
-		<szDescription>Working in a mine is hard, punishing work. No wonder some start &#10;to look for easier cash.</szDescription>
+		<szName>Drilling Foreman</szName>
+		<szShortName>Foreman</szShortName>
+		<szDescription>Working on an oil rig is hard, punishing work. No wonder some start &#10;to look for easier cash.</szDescription>
 		<ap_fortify>-20</ap_fortify>
 		<strength>5</strength>
 		<level_underground>1</level_underground>
+		<oil_rig_income>-10</oil_rig_income>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Carl -->
 	<BACKGROUND>
 		<uiIndex>158</uiIndex>
-		<szName>Miner</szName>
-		<szShortName>Miner</szShortName>
-		<szDescription>Working in a mine is hard, punishing work. No wonder some start &#10;to look for easier cash.</szDescription>
+		<szName>Drilling Foreman</szName>
+		<szShortName>Foreman</szShortName>
+		<szDescription>Working on an oil rig is hard, punishing work. No wonder some start &#10;to look for easier cash.</szDescription>
 		<ap_fortify>-20</ap_fortify>
 		<strength>5</strength>
 		<level_underground>1</level_underground>
+		<oil_rig_income>20</oil_rig_income>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
