@@ -1463,7 +1463,7 @@
 		<ap_fortify>-20</ap_fortify>
 		<strength>5</strength>
 		<level_underground>1</level_underground>
-		<mine_income>20</mine_income>
+		<mine_income>50</mine_income>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -1926,7 +1926,7 @@
 		<ap_fortify>-20</ap_fortify>
 		<strength>5</strength>
 		<level_underground>1</level_underground>
-		<mine_income>20</mine_income>
+		<mine_income>50</mine_income>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -2029,7 +2029,7 @@
 		<ap_fortify>-20</ap_fortify>
 		<strength>5</strength>
 		<level_underground>1</level_underground>
-		<oil_rig_income>20</oil_rig_income>
+		<oil_rig_income>50</oil_rig_income>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -2055,7 +2055,7 @@
 		<ap_fortify>-20</ap_fortify>
 		<strength>5</strength>
 		<level_underground>1</level_underground>
-		<oil_rig_income>20</oil_rig_income>
+		<oil_rig_income>50</oil_rig_income>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>

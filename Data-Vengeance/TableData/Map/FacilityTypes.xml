@@ -233,7 +233,7 @@
 			<ubAssignmentType>MANAGE_MINE</ubAssignmentType>
 			<szTooltipText>Making mine run efficiently is not an easy task. Without anyone competent at this position, mine income will drop.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
-			<usMineIncomeModifier>110</usMineIncomeModifier>
+			<usMineIncomeModifier>125</usMineIncomeModifier>
 			<fOnlyLocalMineAffected>1</fOnlyLocalMineAffected>
 			<CONDITIONS>
 				<ubMinimumWisdom>70</ubMinimumWisdom>
@@ -1275,7 +1275,7 @@
 			<ubAssignmentType>MANAGE_OIL_RIG</ubAssignmentType>
 			<szTooltipText>Making oil rig run efficiently is not an easy task. Without anyone competent at this position, rig income will drop.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
-			<usMineIncomeModifier>110</usMineIncomeModifier>
+			<usMineIncomeModifier>125</usMineIncomeModifier>
 			<fOnlyLocalMineAffected>1</fOnlyLocalMineAffected>
 			<CONDITIONS>
 				<ubMinimumWisdom>70</ubMinimumWisdom>
