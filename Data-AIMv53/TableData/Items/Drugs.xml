@@ -23,8 +23,8 @@
 	<DRUG>
 		<ubType>2</ubType>
 		<name>Alcohol</name>
-		<ubDrugTravelRate>2</ubDrugTravelRate>
-		<ubDrugWearoffRate>2</ubDrugWearoffRate>
+		<ubDrugTravelRate>4</ubDrugTravelRate>
+		<ubDrugWearoffRate>1</ubDrugWearoffRate>
 		<ubDrugEffect>8</ubDrugEffect>
 		<ubDrugSideEffect>10</ubDrugSideEffect>
 		<ubDrugSideEffectRate>1</ubDrugSideEffectRate>
