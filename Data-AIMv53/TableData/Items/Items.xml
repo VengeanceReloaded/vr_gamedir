@@ -78896,7 +78896,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>3030</uiIndex>
 		<szItemName>Briefing</szItemName>
 		<szLongItemName>Mission Briefing</szLongItemName>
-		<szItemDesc>This briefing contains information about your missions. Specifically it indicates to search for witnesses or survivors of attack in sector B9 and to seek out your contact in the A10 hideout.</szItemDesc>
+		<szItemDesc>This contains information about your mission. It indicates searching for witnesses or survivors of the attack at the training camp at B9 and to seek out a contact in the A10 hideout.</szItemDesc>
 		<szBRName>Mission Briefing</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -78935,7 +78935,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>3032</uiIndex>
 		<szItemName>Contract</szItemName>
 		<szLongItemName>Articles of Traineeship</szLongItemName>
-		<szItemDesc>A contract between the A.I.M. personnel office and Kevin Rubins. It states that he will complete his apprenticeship (with certificate) for a security specialist free of charge if he gains practical experience within a relief project.</szItemDesc>
+		<szItemDesc>A contract between the A.I.M. personnel office and Kevin Rubins. It states that he will complete his apprenticeship (with certificate) for a security specialist free of charge when gaining practical experience within a relief project.</szItemDesc>
 		<szBRName>Articles of Traineeship</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -78954,7 +78954,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>3033</uiIndex>
 		<szItemName>Instructions</szItemName>
 		<szLongItemName>Instructions</szLongItemName>
-		<szItemDesc>Hand written instructions directed to James Tnagal and countersigned by his superior Igmus Palkov. "Hi James! We received a new weapon system, which I will provide to you for testing purposes."</szItemDesc>
+		<szItemDesc>Hand written instructions directed to James Tnagal and countersigned by his superior Igmus Palkov. "Hi James, we received a new weapon system, which I will provide to you for testing purposes."</szItemDesc>
 		<szBRName>Instructions</szBRName>
 		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -78973,7 +78973,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>3034</uiIndex>
 		<szItemName>Video</szItemName>
 		<szLongItemName>Video Recording</szLongItemName>
-		<szItemDesc>Hi, Natsuko here, your frantic female reporter! And what you will hear soon, will make it clear to you, what the Arulco conflict is all about, since I am going to inconspicuously eavesdrop on a very important meeting.</szItemDesc>
+		<szItemDesc>Hi, Natsuko here, your frantic female reporter. What you will hear soon, will make it clear what the Arulco conflict is all about, since I am going to inconspicuously eavesdrop on a very important meeting.</szItemDesc>
 		<szBRName>Video Recording</szBRName>
 		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -78992,7 +78992,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>3035</uiIndex>
 		<szItemName>Letter</szItemName>
 		<szLongItemName>Letter</szLongItemName>
-		<szItemDesc>A confidential letter addressed to the supreme command of Tracona, Col. Morris. "PS: I have seen to you performing secret missions within Arulco to take care of jobs which our army cannot conduct. Signed - Lt. Gilitt."</szItemDesc>
+		<szItemDesc>A confidential letter addressed to the supreme command of Tracona, Col. Morris. "PS: I have observed you performing secret missions within Arulco, to take care of jobs which our army cannot conduct. Signed - Lt. Gilitt."</szItemDesc>
 		<szBRName>Letter</szBRName>
 		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -79011,7 +79011,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>3036</uiIndex>
 		<szItemName>Notes</szItemName>
 		<szLongItemName>Notes</szLongItemName>
-		<szItemDesc>Notes on scrunched paper bearing the sign of the Arulcan internment camp: "My life as a body guard, chapter 2, assignment in Arulco: This is how I failed for the first time when my target was shot right in front of my eyes."</szItemDesc>
+		<szItemDesc>Notes on scrunched paper bearing the sign of the Arulcan internment camp: "My life as a body guard, chapter 2, assignment in Arulco: This is how I failed for the first time; when my target was shot right in front of my eyes."</szItemDesc>
 		<szBRName>Notes</szBRName>
 		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -79049,7 +79049,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>3038</uiIndex>
 		<szItemName>Authorisation</szItemName>
 		<szLongItemName>MLRS Authorisation</szLongItemName>
-		<szItemDesc>These hand-written orders from Enrico Chivaldori give you a full cooperation from Arulcan MLRS units during your planned incursion into Tracona territory.</szItemDesc>
+		<szItemDesc>These handwritten orders from Enrico Chivaldori give you full co-operation from Arulcan MLRS units during your planned incursion into Tracona territory.</szItemDesc>
 		<szBRName>MLRS Authorisation</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -79092,7 +79092,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>3040</uiIndex>
 		<szItemName>Voodoo Doll</szItemName>
 		<szLongItemName>Voodoo Barbie Doll</szLongItemName>
-		<szItemDesc>It's an old Barbie doll with what looks like used up syringe needles pierced in all over. Its empty eye sockets look at you with contempt. Hope you didn't plan on sleeping today.</szItemDesc>
+		<szItemDesc>An old Barbie doll with what looks like used syringe needles pierced all over it. Its empty eye sockets look at you with contempt. Hope you didn't plan on sleeping today.</szItemDesc>
 		<szBRName>Voodoo Barbie Doll</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
