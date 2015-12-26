@@ -73417,9 +73417,9 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>2837</uiIndex>
 		<szItemName>SMG Suppressor</szItemName>
 		<szLongItemName>SMG Suppressor</szLongItemName>
-		<szItemDesc>A long sound suppressor that can be attached to certain submachine guns. Due to the length it adds additional stability during burst fire.</szItemDesc>
+		<szItemDesc>A long sound suppressor that can be attached to certain submachine guns. Due to it's length it adds additional stability during burst fire.</szItemDesc>
 		<szBRName>SMG Suppressor</szBRName>
-		<szBRDesc>This sound suppressor can be attached to certain submachineguns. Due to the length it adds additional stability during burst fire. Fits the Ingram MAC-10, most of the MP5 series  and similiar guns.</szBRDesc>
+		<szBRDesc>This sound suppressor can be attached to certain submachineguns. Due to it's length it adds additional stability during burst fire. Fits the Ingram MAC-10, most of the MP5 series  and similiar guns.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
 		<AttachmentPoint>512</AttachmentPoint>	<!-- Muzzle - SMG Suppressor -->
@@ -73494,7 +73494,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>2840</uiIndex>
 		<szItemName>Flare</szItemName>
 		<szLongItemName>Modified Flare</szLongItemName>
-		<szItemDesc>This emergency flare has been modified with a detonator. All you need now is some kind of trip wire to get a trip flare.</szItemDesc>
+		<szItemDesc>This emergency flare has been modified with a detonator. All you need now is some kind of tripwire to get a trip flare.</szItemDesc>
 		<szBRName>Modified Flare</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -73519,7 +73519,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>2841</uiIndex>
 		<szItemName>Walkman</szItemName>
 		<szLongItemName>Modified Walkman</szLongItemName>
-		<szItemDesc>Attaching a detonator to a walkman may seem stupid, but once you got rid of unneccessary parts you got a basic alarm trap. All you need now is some kind of trip wire.</szItemDesc>
+		<szItemDesc>Attaching a detonator to a walkman may seem stupid, but once you got rid of unneccessary parts you got a basic alarm trap. All you need now is some kind of tripwire.</szItemDesc>
 		<szBRName>Modified Walkman</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -73725,7 +73725,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>2847</uiIndex>
 		<szItemName>mod. CORSAK - Kobra</szItemName>
 		<szLongItemName>mod. Combo, CORSAK - Kobra</szLongItemName>
-		<szItemDesc>A combination of CORSAK and Kobra. If you are short on attachment slots, try one of these. Will fit only on certain Russian guns, as it requires an AK stlye receiver. Somehow this thing feels sticky.</szItemDesc>
+		<szItemDesc>A combination of CORSAK and Kobra. If you are short on attachment slots, try one of these. Will fit only on certain Russian guns, as it requires an AK style receiver. Somehow this thing feels sticky.</szItemDesc>
 		<szBRName>mod. Combo, CORSAK - Kobra</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -73836,7 +73836,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>2850</uiIndex>
 		<szItemName>int. Scope 2x</szItemName>
 		<szLongItemName>int. Scope, 2x</szLongItemName>
-		<szItemDesc>This type of scope is often found built-in on modern assault rifles, though it will fit a revolver, shotgun, or SMG as well.</szItemDesc>
+		<szItemDesc>This type of scope is often found built-in on modern assault rifles, though it could fit on a revolver, shotgun, or SMG as well.</szItemDesc>
 		<szBRName>mod. Scope, 2x</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -74207,9 +74207,9 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>2861</uiIndex>
 		<szItemName>553 Holo sight</szItemName>
 		<szLongItemName>Eotech 553 A65 Holographic Sight</szLongItemName>
-		<szItemDesc>The Eotech 553 A65 Holographic Weapon Sight was developed after extensive testing of various optical sights, and US Special Operations Command has standardized on the Eotech Holographic Weapon Sight as its 1X weapon optic for close quarter and urban combat zones.</szItemDesc>
+		<szItemDesc>After extensive testing of various optical sights US Special Operations Command standardized the Eotech HWS as it's 1X weapon optic for close quarter and urban combat zones. Eotech developed this battle proven design further with additional features for the 553 A65 Holographic Weapon Sight.</szItemDesc>
 		<szBRName>Eotech 553 A65 Holographic Sight</szBRName>
-		<szBRDesc>EOTech 553 A65 Holographic Weapon Sights is its holographic reticle patterns that are instantly visible in any light condition, instinctive to center regardless of shooting angle and always remain in view to achieve lightning quick reticle to target acquisition without covering or obscuring the point of aim.</szBRDesc>
+		<szBRDesc>EOTech's 553 A65 Holographic Weapon Sight's strength is it's holographic reticle pattern which is instantly visible in any lighting condition, instinctive to center regardless of shooting angle and always remaining in view to achieve a lightning quick target acquisition.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>8</AttachmentClass>
 		<nasAttachmentClass>8</nasAttachmentClass>
@@ -74244,7 +74244,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>2862</uiIndex>
 		<szItemName>Holo sight</szItemName>
 		<szLongItemName>Holographic Sight XPS2</szLongItemName>
-		<szItemDesc>The XPS2 is the shortest, smallest and lightest EOTech model holographic weapon sight available without night vision. Its size and weight make it convenient for hunters and law enforcement officers to carry.</szItemDesc>
+		<szItemDesc>The XPS2 is the shortest, smallest and lightest EOTech model holographic weapon sight available without night vision. It's size and weight make it convenient for hunters and law enforcement officers to carry.</szItemDesc>
 		<szBRName>Holographic Sight XPS2</szBRName>
 		<szBRDesc>The XPS2 is the shortest, smallest and lightest EOTech model holographic weapon sight available.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -74727,9 +74727,9 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>2879</uiIndex>
 		<szItemName>FF Laser</szItemName>
 		<szLongItemName>Firefield Laser</szLongItemName>
-		<szItemDesc>You only need one clean shot to engage your enemy. Make it count. The Firefield Compact Laser is a dynamic, powerful unit built to do the job. This highly versatile unit is equipped with a weaver rail and easily affixes to a wide variety of, it fits onto the trigger guard of most sub-machine guns and pistols.</szItemDesc>
+		<szItemDesc>You only need one clean shot to engage your enemy. Make it count. The Firefield Compact Laser is a dynamic, powerful unit built to do the job. This highly versatile unit is equipped with a weaver rail and easily affixes to a wide variety of firearms including SMG's and pistols, and fits onto the trigger guard.</szItemDesc>
 		<szBRName>Firefield Laser</szBRName>
-		<szBRDesc>Complete with a tactical pressure pad, the Green Compact laser is user friendly with an on/off tilt switch that can be activated with a flick of the userтАЩs finger. Ideal for use in home defense, the powerfully bright green laser can pacify targets and alleviate threats quickly!</szBRDesc>
+		<szBRDesc>Complete with a tactical pressure pad, the Green Compact laser is user friendly with an on/off tilt switch that can be activated with a flick of the userтАЩs finger. Ideal for use in home defense, the powerful bright green laser can pacify targets and alleviate threats quickly!</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
@@ -78211,7 +78211,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>3001</uiIndex>
 		<szItemName>Parachute</szItemName>
 		<szLongItemName>MC-4 Parachute</szLongItemName>
-		<szItemDesc>As one can see from the cut ropes, this parachute has been already used and its one-time performance is a thing of the past. At least now the quality fabric keeps the wearer nicely warm.</szItemDesc>
+		<szItemDesc>As one can see from the cut ropes, this parachute has been already used and it's one-time performance is a thing of the past. At least the quality fabric cab keep the wearer nice and warm.</szItemDesc>
 		<szBRName>MC-4 Parachute</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>131072</usItemClass>
