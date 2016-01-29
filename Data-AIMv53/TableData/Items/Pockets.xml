@@ -553,10 +553,10 @@
 		<pType>1</pType>
 		<pRestriction>1024</pRestriction>
 		<ItemCapacityPerSize10>0</ItemCapacityPerSize10>
-		<ItemCapacityPerSize11>6</ItemCapacityPerSize11>
+		<ItemCapacityPerSize11>4</ItemCapacityPerSize11>
 		<ItemCapacityPerSize12>0</ItemCapacityPerSize12>
-		<ItemCapacityPerSize13>3</ItemCapacityPerSize13>
-		<ItemCapacityPerSize14>2</ItemCapacityPerSize14>
+		<ItemCapacityPerSize13>2</ItemCapacityPerSize13>
+		<ItemCapacityPerSize14>1</ItemCapacityPerSize14>
 	</POCKET>
 	<POCKET>
 		<pIndex>41</pIndex>
