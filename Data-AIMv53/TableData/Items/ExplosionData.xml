@@ -260,4 +260,24 @@
 		<BlastFilename>TILECACHE\RPG.STI</BlastFilename>
 		<BlastSpeed>60</BlastSpeed>
 	</EXPDATA>
+	<EXPDATA>
+		<uiIndex>26</uiIndex>
+		<name>20mm</name>
+		<TransKeyFrame>12</TransKeyFrame>
+		<DamageKeyFrame>3</DamageKeyFrame>
+		<ExplosionSoundID>602</ExplosionSoundID>
+		<AltExplosionSoundID>-1</AltExplosionSoundID>
+		<BlastFilename>TILECACHE\20mm.sti</BlastFilename>
+		<BlastSpeed>40</BlastSpeed>
+	</EXPDATA>
+	<EXPDATA>
+		<uiIndex>27</uiIndex>
+		<name>25mm Thermobaric</name>
+		<TransKeyFrame>16</TransKeyFrame>
+		<DamageKeyFrame>3</DamageKeyFrame>
+		<ExplosionSoundID>602</ExplosionSoundID>
+		<AltExplosionSoundID>-1</AltExplosionSoundID>
+		<BlastFilename>TILECACHE\25mm_Thermobaric.sti</BlastFilename>
+		<BlastSpeed>40</BlastSpeed>
+	</EXPDATA>
 </EXPDATALIST>

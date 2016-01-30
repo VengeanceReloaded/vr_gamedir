@@ -730,7 +730,7 @@
 		<ubRadius>3</ubRadius>
 		<ubVolume>20</ubVolume>
 		<ubVolatility>1</ubVolatility>
-		<ubAnimationID>18</ubAnimationID>
+		<ubAnimationID>26</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>6</ubMagSize>
@@ -793,7 +793,7 @@
 		<ubRadius>3</ubRadius>
 		<ubVolume>0</ubVolume>
 		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>4</ubAnimationID>
+		<ubAnimationID>26</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>6</ubMagSize>
@@ -835,7 +835,7 @@
 		<ubRadius>4</ubRadius>
 		<ubVolume>50</ubVolume>
 		<ubVolatility>1</ubVolatility>
-		<ubAnimationID>1</ubAnimationID>
+		<ubAnimationID>26</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>6</ubMagSize>
@@ -856,7 +856,7 @@
 		<ubRadius>4</ubRadius>
 		<ubVolume>22</ubVolume>
 		<ubVolatility>1</ubVolatility>
-		<ubAnimationID>18</ubAnimationID>
+		<ubAnimationID>26</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>6</ubMagSize>
@@ -919,7 +919,7 @@
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
 		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>4</ubAnimationID>
+		<ubAnimationID>26</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>6</ubMagSize>
@@ -961,7 +961,7 @@
 		<ubRadius>5</ubRadius>
 		<ubVolume>50</ubVolume>
 		<ubVolatility>1</ubVolatility>
-		<ubAnimationID>1</ubAnimationID>
+		<ubAnimationID>26</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>6</ubMagSize>
@@ -3965,6 +3965,27 @@
 		<ubVolume>0</ubVolume>
 		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>13</ubAnimationID>
+		<ubDuration>0</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>0</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>	<!-- 25mm Thermobaric animation -->
+		<uiIndex>188</uiIndex>
+		<ubType>0</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>1</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>27</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>0</ubMagSize>

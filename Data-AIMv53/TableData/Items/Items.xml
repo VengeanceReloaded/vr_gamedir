@@ -29812,6 +29812,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<buddyitem>2466</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29991,6 +29992,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<buddyitem>2466</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -66107,10 +66109,12 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2466</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2466</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>25MM_THERMOBARIC_ANIMATION</szItemName>
+		<szLongItemName>25MM_THERMOBARIC_ANIMATION</szLongItemName>
+		<szBRName>25MM_THERMOBARIC_ANIMATION</szBRName>
+		<usItemClass>512</usItemClass>
+		<ubClassIndex>188</ubClassIndex>
+		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
