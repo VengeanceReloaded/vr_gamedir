@@ -280,4 +280,24 @@
 		<BlastFilename>TILECACHE\25mm_Thermobaric.sti</BlastFilename>
 		<BlastSpeed>40</BlastSpeed>
 	</EXPDATA>
+	<EXPDATA>
+		<uiIndex>28</uiIndex>
+		<name>RPG Thermobaric</name>
+		<TransKeyFrame>16</TransKeyFrame>
+		<DamageKeyFrame>3</DamageKeyFrame>
+		<ExplosionSoundID>61</ExplosionSoundID>
+		<AltExplosionSoundID>285</AltExplosionSoundID>
+		<BlastFilename>TILECACHE\RPG_Thermobaric.sti</BlastFilename>
+		<BlastSpeed>20</BlastSpeed>
+	</EXPDATA>
+	<EXPDATA>
+		<uiIndex>29</uiIndex>
+		<name>RPG Napalm</name>
+		<TransKeyFrame>16</TransKeyFrame>
+		<DamageKeyFrame>16</DamageKeyFrame>
+		<ExplosionSoundID>61</ExplosionSoundID>
+		<AltExplosionSoundID>285</AltExplosionSoundID>
+		<BlastFilename>TILECACHE\RPG_Napalm.sti</BlastFilename>
+		<BlastSpeed>40</BlastSpeed>
+	</EXPDATA>
 </EXPDATALIST>

@@ -1276,7 +1276,7 @@
 		<ubRadius>7</ubRadius>
 		<ubVolume>65</ubVolume>
 		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>2</ubAnimationID>
+		<ubAnimationID>28</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
@@ -3326,15 +3326,15 @@
 		<ubVerticalDegree>0</ubVerticalDegree>
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
-	<EXPLOSIVE>	<!-- FFV441B Napalm Eocket -->
+	<EXPLOSIVE>	<!-- FFV441B Napalm Rocket -->
 		<uiIndex>157</uiIndex>
 		<ubType>8</ubType>
-		<ubDamage>20</ubDamage>
+		<ubDamage>40</ubDamage>
 		<ubStunDamage>50</ubStunDamage>
 		<ubRadius>5</ubRadius>
 		<ubVolume>40</ubVolume>
 		<ubVolatility>1</ubVolatility>
-		<ubAnimationID>9</ubAnimationID>
+		<ubAnimationID>29</ubAnimationID>
 		<ubDuration>8</ubDuration>
 		<ubStartRadius>4</ubStartRadius>
 		<ubMagSize>0</ubMagSize>
@@ -3880,7 +3880,7 @@
 		<ubRadius>8</ubRadius>
 		<ubVolume>65</ubVolume>
 		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>2</ubAnimationID>
+		<ubAnimationID>28</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
