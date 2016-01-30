@@ -13202,7 +13202,7 @@
 		<szBRDesc>If you happen to have a M1 Garand around, here's some ammo for it.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>658</ubClassIndex>
+		<ubClassIndex>661</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>682</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -13361,7 +13361,7 @@
 		<szBRDesc>Hollowpoint rounds for the old M1 Carbine.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>646</ubClassIndex>
+		<ubClassIndex>649</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>683</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -13516,7 +13516,7 @@
 		<szBRDesc>Full Metal Jacket ammo for the old M1 Carbine.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>647</ubClassIndex>
+		<ubClassIndex>650</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>684</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -29057,7 +29057,7 @@
 		<szBRDesc>Here's what you need for your shiny new 6x35mm PDW: 30 rounds tipped with hollowpoint bullets for anti-personnel work.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>668</ubClassIndex>
+		<ubClassIndex>671</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>713</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -29082,7 +29082,7 @@
 		<szBRDesc>30 full metal jacket rounds for 6x35mm personal defense weapons, if hollowpoints won't do it any longer.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>669</ubClassIndex>
+		<ubClassIndex>672</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>712</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -39590,7 +39590,7 @@
 		<szBRDesc>We are now providing several types of ammunition in bulk.  Please note the prices and weights of ammunition crates before purchasing.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>654</ubClassIndex>
+		<ubClassIndex>657</ubClassIndex>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>588</ubGraphicNum>
 		<ubWeight>667</ubWeight>
@@ -39615,7 +39615,7 @@
 		<szBRDesc>We are now providing several types of ammunition in bulk.  Please note the prices and weights of ammunition crates before purchasing.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>653</ubClassIndex>
+		<ubClassIndex>656</ubClassIndex>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>590</ubGraphicNum>
 		<ubWeight>667</ubWeight>
@@ -40299,7 +40299,7 @@
 		<szBRDesc>We are now providing several types of ammunition in bulk.  Please note the prices and weights of ammunition crates before purchasing.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>666</ubClassIndex>
+		<ubClassIndex>669</ubClassIndex>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>588</ubGraphicNum>
 		<ubWeight>750</ubWeight>
@@ -40548,7 +40548,7 @@
 		<szBRDesc>We are now providing several types of ammunition in bulk.  Please note the prices and weights of ammunition crates before purchasing.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>673</ubClassIndex>
+		<ubClassIndex>676</ubClassIndex>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>588</ubGraphicNum>
 		<ubWeight>500</ubWeight>
@@ -40573,7 +40573,7 @@
 		<szBRDesc>We are now providing several types of ammunition in bulk.  Please note the prices and weights of ammunition crates before purchasing.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>672</ubClassIndex>
+		<ubClassIndex>675</ubClassIndex>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>590</ubGraphicNum>
 		<ubWeight>500</ubWeight>
@@ -41784,7 +41784,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>674</ubClassIndex>
+		<ubClassIndex>677</ubClassIndex>
 		<ubGraphicNum>368</ubGraphicNum>
 		<ubWeight>25</ubWeight>
 		<ubPerPocket>8</ubPerPocket>
@@ -45864,7 +45864,7 @@
 		<szBRName>.30-06 Box AP</szBRName>
 		<szBRDesc>If you happen to have a M1 Garand around, here's some ammo for it.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>662</ubClassIndex>
+		<ubClassIndex>665</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>886</ubGraphicNum>
 		<ubWeight>19</ubWeight>
@@ -45889,7 +45889,7 @@
 		<szBRName>.30 Car Box</szBRName>
 		<szBRDesc>Steel Core ammo for the old M1 Carbine.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>649</ubClassIndex>
+		<ubClassIndex>652</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>883</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -45913,7 +45913,7 @@
 		<szBRName>.30 Car Box AP</szBRName>
 		<szBRDesc>Full Metal Jacket ammo for the old M1 Carbine.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>651</ubClassIndex>
+		<ubClassIndex>654</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>884</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -45938,7 +45938,7 @@
 		<szBRName>.30 Car Box HP</szBRName>
 		<szBRDesc>Hollowpoint ammo for the old M1 Carbine.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>650</ubClassIndex>
+		<ubClassIndex>653</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>885</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -45963,7 +45963,7 @@
 		<szBRName>6x35mm Box AP</szBRName>
 		<szBRDesc>Full metal jacket rounds for 6x35mm personal defense weapons, if hollowpoints won't do it any longer.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>671</ubClassIndex>
+		<ubClassIndex>674</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>887</ubGraphicNum>
 		<ubWeight>10</ubWeight>
@@ -45988,7 +45988,7 @@
 		<szBRName>6x35mm Box HP</szBRName>
 		<szBRDesc>Here's what you need for your shiny new 6x35mm PDW: hollowpoint bullets for anti-personnel work.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>670</ubClassIndex>
+		<ubClassIndex>673</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>888</ubGraphicNum>
 		<ubWeight>10</ubWeight>
@@ -48951,7 +48951,7 @@
 		<szBRDesc>Though one might think so, putting this on your food is not the best idea you could have.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>675</ubClassIndex>
+		<ubClassIndex>678</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>156</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -60649,7 +60649,7 @@
 		<szBRName>Bolts, 5</szBRName>
 		<szBRDesc>These lightweight aluminium crossbow bolts are tipped with a special 4 blade steel hunting arrow-head.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>676</ubClassIndex>
+		<ubClassIndex>679</ubClassIndex>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>407</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -60674,7 +60674,7 @@
 		<szBRName>Bolts, 5 HE</szBRName>
 		<szBRDesc>These steel-made crossbow bolts contain a nasty surprise. The high explosive arrow-heads will turn your crossbow to a silent "grenade launcher".</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>677</ubClassIndex>
+		<ubClassIndex>680</ubClassIndex>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>408</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -60898,7 +60898,7 @@
 		<szBRName>.30-06 AP, 5</szBRName>
 		<szBRDesc>5 Rounds of .30-06 ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>656</ubClassIndex>
+		<ubClassIndex>659</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>839</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -60922,7 +60922,7 @@
 		<szBRName>.30-06 AP, BAR 20</szBRName>
 		<szBRDesc>This magazine for the M1918A2 BAR holds 20 rounds of .30-06 ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>660</ubClassIndex>
+		<ubClassIndex>663</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>840</ubGraphicNum>
 		<ubWeight>7</ubWeight>
@@ -61240,7 +61240,7 @@
 		<szBRName>.30-06 XP3, 5</szBRName>
 		<szBRDesc>The XP3 bullet starts with a 2-stage expansion design, then combines all the best-known bullet technology into one bullet. It delivers precision accuracy, awesome knockdown power, and deep penetration all in one package.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>657</ubClassIndex>
+		<ubClassIndex>660</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>896</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -61266,7 +61266,7 @@
 		<szBRName>.30-06 XP3, 8</szBRName>
 		<szBRDesc>The XP3 bullet starts with a 2-stage expansion design, then combines all the best-known bullet technology into one bullet. It delivers precision accuracy, awesome knockdown power, and deep penetration all in one package.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>659</ubClassIndex>
+		<ubClassIndex>662</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>897</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -61292,7 +61292,7 @@
 		<szBRName>.30-06 XP3, 20</szBRName>
 		<szBRDesc>The XP3 bullet starts with a 2-stage expansion design, then combines all the best-known bullet technology into one bullet. It delivers precision accuracy, awesome knockdown power, and deep penetration all in one package.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>661</ubClassIndex>
+		<ubClassIndex>664</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>898</ubGraphicNum>
 		<ubWeight>7</ubWeight>
@@ -61318,7 +61318,7 @@
 		<szBRName>.30-06 XP3 ammo crate</szBRName>
 		<szBRDesc>Not buyable at BR</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>667</ubClassIndex>
+		<ubClassIndex>670</ubClassIndex>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>591</ubGraphicNum>
 		<ubWeight>873</ubWeight>
@@ -61341,7 +61341,7 @@
 		<szBRName>.30-06 AP, Ammo Belt</szBRName>
 		<szBRDesc>100 Rounds of .30-06 ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>664</ubClassIndex>
+		<ubClassIndex>667</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1008</ubGraphicNum>
 		<ubWeight>35</ubWeight>
@@ -61363,7 +61363,7 @@
 		<szBRName>.30-06 XP3, Ammo Belt</szBRName>
 		<szBRDesc>.30-06 Springfield XP3 ammunition .</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>665</ubClassIndex>
+		<ubClassIndex>668</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1009</ubGraphicNum>
 		<ubWeight>35</ubWeight>
@@ -61993,7 +61993,7 @@
 		<szBRName>.30-06 Box XP3</szBRName>
 		<szBRDesc>The XP3 bullet starts with a 2-stage expansion design, then combines all the best-known bullet technology into one bullet. It delivers precision accuracy, awesome knockdown power, and deep penetration all in one package. Save 10 percent on buying this box with 50 rounds.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>663</ubClassIndex>
+		<ubClassIndex>666</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>931</ubGraphicNum>
 		<ubWeight>18</ubWeight>
@@ -62168,7 +62168,7 @@
 		<szBRName>.22 LR Box</szBRName>
 		<szBRDesc>A box with 150 Rounds of .22 LR ball ammunition. Excellent for target practice and quite cheap.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>686</ubClassIndex>
+		<ubClassIndex>689</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1013</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -62193,7 +62193,7 @@
 		<szBRName>.22 LR Box M</szBRName>
 		<szBRDesc>A box with 150 Rounds of .22 LR match ammunition. Excellent for target practice and quite cheap.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>688</ubClassIndex>
+		<ubClassIndex>691</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1014</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -62219,7 +62219,7 @@
 		<szBRName>.22 LR Box RS</szBRName>
 		<szBRDesc>A box with 150 Rounds of .22 LR Ratshot. If you need to get rid of vermin, try these.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>689</ubClassIndex>
+		<ubClassIndex>692</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1015</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -62245,7 +62245,7 @@
 		<szBRName>.22 LR Box HP</szBRName>
 		<szBRDesc>This box contains .22 LR hyper velocity hollow point ammunition. Great to hunt small animals with.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>687</ubClassIndex>
+		<ubClassIndex>690</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1016</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -62270,7 +62270,7 @@
 		<szBRName>.22 LR Crate</szBRName>
 		<szBRDesc>Not buyable at BR</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>694</ubClassIndex>
+		<ubClassIndex>697</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>728</ubGraphicNum>
 		<ubWeight>750</ubWeight>
@@ -62294,7 +62294,7 @@
 		<szBRName>.22 LR Crate M</szBRName>
 		<szBRDesc>Not buyable at BR</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>696</ubClassIndex>
+		<ubClassIndex>699</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>731</ubGraphicNum>
 		<ubWeight>750</ubWeight>
@@ -62319,7 +62319,7 @@
 		<szBRName>.22 LR Crate, RS</szBRName>
 		<szBRDesc>Not buyable at BR</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>697</ubClassIndex>
+		<ubClassIndex>700</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>733</ubGraphicNum>
 		<ubWeight>750</ubWeight>
@@ -62344,7 +62344,7 @@
 		<szBRName>.22 LR Crate HP</szBRName>
 		<szBRDesc>Not buyable at BR</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>695</ubClassIndex>
+		<ubClassIndex>698</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>729</ubGraphicNum>
 		<ubWeight>750</ubWeight>
@@ -62367,7 +62367,7 @@
 		<szItemDesc>A 10 round magazine .22 LR ammunition.</szItemDesc>
 		<szBRName>.22 LR Mag, 10</szBRName>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>678</ubClassIndex>
+		<ubClassIndex>681</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1018</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -62391,7 +62391,7 @@
 		<szItemDesc>A 10 round magazine .22 LR Match ammunition.</szItemDesc>
 		<szBRName>.22 LR Mag Match, 10</szBRName>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>680</ubClassIndex>
+		<ubClassIndex>683</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1019</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -62415,7 +62415,7 @@
 		<szItemDesc>A 10 round magazine .22 LR Ratshot.</szItemDesc>
 		<szBRName>.22 LR Mag Ratshot, 10</szBRName>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>681</ubClassIndex>
+		<ubClassIndex>684</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1020</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -62440,7 +62440,7 @@
 		<szItemDesc>A 10 round magazine high velocity .22 LR hollow point ammunition.</szItemDesc>
 		<szBRName>.22 LR Mag HP, 10</szBRName>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>679</ubClassIndex>
+		<ubClassIndex>682</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1021</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -62463,7 +62463,7 @@
 		<szItemDesc>A drum magazine .22 LR ammunition.</szItemDesc>
 		<szBRName>.22 LR Drum, 200</szBRName>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>690</ubClassIndex>
+		<ubClassIndex>693</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1022</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -62487,7 +62487,7 @@
 		<szItemDesc>A drum magazine .22 LR ammunition.</szItemDesc>
 		<szBRName>.22 LR Drum Match, 200</szBRName>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>692</ubClassIndex>
+		<ubClassIndex>695</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1023</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -62511,7 +62511,7 @@
 		<szItemDesc>A drum magazine .22 LR ammunition.</szItemDesc>
 		<szBRName>.22 LR Drum Ratshot, 200</szBRName>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>693</ubClassIndex>
+		<ubClassIndex>696</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1024</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -62536,7 +62536,7 @@
 		<szItemDesc>A drum magazine .22 LR ammunition.</szItemDesc>
 		<szBRName>.22 LR Drum HP, 200</szBRName>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>691</ubClassIndex>
+		<ubClassIndex>694</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1025</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -62633,7 +62633,7 @@
 		<szBRName>.408 Box</szBRName>
 		<szBRDesc>A box with 25 Rounds of .408 CheyTac ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>699</ubClassIndex>
+		<ubClassIndex>702</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1028</ubGraphicNum>
 		<ubWeight>16</ubWeight>
@@ -62658,7 +62658,7 @@
 		<szBRName>.408 CheyTac Ammo Crate</szBRName>
 		<szBRDesc>Not buyable at BR</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>700</ubClassIndex>
+		<ubClassIndex>703</ubClassIndex>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>588</ubGraphicNum>
 		<ubWeight>778</ubWeight>
@@ -62681,7 +62681,7 @@
 		<szBRName>.408 CheyTac Mag</szBRName>
 		<szBRDesc>The CheyTac .408 round has excellent ballistic capabilities.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>698</ubClassIndex>
+		<ubClassIndex>701</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1029</ubGraphicNum>
 		<ubWeight>6</ubWeight>
@@ -62803,7 +62803,7 @@
 		<szBRName>.22 LR Mag, 100</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>682</ubClassIndex>
+		<ubClassIndex>685</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1043</ubGraphicNum>
 		<ubWeight>8</ubWeight>
@@ -62828,7 +62828,7 @@
 		<szBRName>.22 LR Mag Match, 100</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>684</ubClassIndex>
+		<ubClassIndex>687</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1044</ubGraphicNum>
 		<ubWeight>8</ubWeight>
@@ -62853,7 +62853,7 @@
 		<szBRName>.22 LR Mag Ratshot, 100</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>685</ubClassIndex>
+		<ubClassIndex>688</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1045</ubGraphicNum>
 		<ubWeight>8</ubWeight>
@@ -62878,7 +62878,7 @@
 		<szBRName>.22 LR Mag HP, 100</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>683</ubClassIndex>
+		<ubClassIndex>686</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1046</ubGraphicNum>
 		<ubWeight>8</ubWeight>
@@ -63001,7 +63001,7 @@
 		<szBRName>.30 Car Magazine, Tracer</szBRName>
 		<szBRDesc>Tracer ammo for the old M1 Carbine.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>648</ubClassIndex>
+		<ubClassIndex>651</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1050</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -63025,7 +63025,7 @@
 		<szBRName>.30 Car Ammo Crate, Tracer</szBRName>
 		<szBRDesc>Not buyable at BR</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>655</ubClassIndex>
+		<ubClassIndex>658</ubClassIndex>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>593</ubGraphicNum>
 		<ubWeight>760</ubWeight>
@@ -63048,7 +63048,7 @@
 		<szBRName>.30 Car Box, Tracer</szBRName>
 		<szBRDesc>Tracer ammo for the full auto .30 carbine variants.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>652</ubClassIndex>
+		<ubClassIndex>655</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>932</ubGraphicNum>
 		<ubWeight>12</ubWeight>
@@ -63073,7 +63073,7 @@
 		<szBRName>Railgun Magazine</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>701</ubClassIndex>
+		<ubClassIndex>704</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>385</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -63099,7 +63099,7 @@
 		<szBRName>Railgun Dart</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>1024</usItemClass>
-		<ubClassIndex>702</ubClassIndex>
+		<ubClassIndex>705</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>390</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -63199,7 +63199,7 @@
 		<szBRDesc>Tracer .30 Car rounds.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>703</ubClassIndex>
+		<ubClassIndex>646</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>446</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -63224,7 +63224,7 @@
 		<szBRDesc>AP .30 Car rounds.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>704</ubClassIndex>
+		<ubClassIndex>647</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>447</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -63249,7 +63249,7 @@
 		<szBRDesc>HP .30 Car rounds.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>705</ubClassIndex>
+		<ubClassIndex>648</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>448</ubGraphicNum>
 		<ubWeight>2</ubWeight>
