@@ -1234,7 +1234,7 @@
 		<ubRadius>6</ubRadius>
 		<ubVolume>55</ubVolume>
 		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>1</ubAnimationID>
+		<ubAnimationID>25</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
@@ -1255,7 +1255,7 @@
 		<ubRadius>3</ubRadius>
 		<ubVolume>75</ubVolume>
 		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>1</ubAnimationID>
+		<ubAnimationID>25</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
@@ -3292,7 +3292,7 @@
 		<ubRadius>3</ubRadius>
 		<ubVolume>65</ubVolume>
 		<ubVolatility>1</ubVolatility>
-		<ubAnimationID>1</ubAnimationID>
+		<ubAnimationID>25</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>0</ubMagSize>
@@ -3313,7 +3313,7 @@
 		<ubRadius>9</ubRadius>
 		<ubVolume>70</ubVolume>
 		<ubVolatility>1</ubVolatility>
-		<ubAnimationID>2</ubAnimationID>
+		<ubAnimationID>25</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>0</ubMagSize>
@@ -3817,7 +3817,7 @@
 		<ubRadius>3</ubRadius>
 		<ubVolume>100</ubVolume>
 		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>1</ubAnimationID>
+		<ubAnimationID>25</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
@@ -3838,7 +3838,7 @@
 		<ubRadius>3</ubRadius>
 		<ubVolume>75</ubVolume>
 		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>1</ubAnimationID>
+		<ubAnimationID>25</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
@@ -3859,7 +3859,7 @@
 		<ubRadius>2</ubRadius>
 		<ubVolume>75</ubVolume>
 		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>1</ubAnimationID>
+		<ubAnimationID>25</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
