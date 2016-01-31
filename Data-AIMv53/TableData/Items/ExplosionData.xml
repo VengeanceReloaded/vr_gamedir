@@ -93,12 +93,12 @@
 	<EXPDATA>
 		<uiIndex>9</uiIndex>
 		<name>Flame</name>
-		<TransKeyFrame>1</TransKeyFrame>
-		<DamageKeyFrame>12</DamageKeyFrame>
+		<TransKeyFrame>12</TransKeyFrame>
+		<DamageKeyFrame>4</DamageKeyFrame>
 		<ExplosionSoundID>61</ExplosionSoundID>
 		<AltExplosionSoundID>-1</AltExplosionSoundID>
 		<BlastFilename>TILECACHE\Napalm.STI</BlastFilename>
-		<BlastSpeed>20</BlastSpeed>
+		<BlastSpeed>40</BlastSpeed>
 	</EXPDATA>
 	<EXPDATA>
 		<uiIndex>10</uiIndex>
@@ -135,10 +135,10 @@
 		<name>Incendiary</name>
 		<TransKeyFrame>1</TransKeyFrame>
 		<DamageKeyFrame>12</DamageKeyFrame>
-		<ExplosionSoundID>600</ExplosionSoundID>
+		<ExplosionSoundID>-1</ExplosionSoundID>
 		<AltExplosionSoundID>-1</AltExplosionSoundID>
 		<BlastFilename>TILECACHE\Incendiary.sti</BlastFilename>
-		<BlastSpeed>1</BlastSpeed>
+		<BlastSpeed>5</BlastSpeed>
 	</EXPDATA>
 	<EXPDATA>
 		<uiIndex>14</uiIndex>
@@ -262,12 +262,12 @@
 	</EXPDATA>
 	<EXPDATA>
 		<uiIndex>26</uiIndex>
-		<name>20mm</name>
+		<name>25mm</name>
 		<TransKeyFrame>12</TransKeyFrame>
 		<DamageKeyFrame>3</DamageKeyFrame>
 		<ExplosionSoundID>602</ExplosionSoundID>
 		<AltExplosionSoundID>-1</AltExplosionSoundID>
-		<BlastFilename>TILECACHE\20mm.sti</BlastFilename>
+		<BlastFilename>TILECACHE\25mm.sti</BlastFilename>
 		<BlastSpeed>40</BlastSpeed>
 	</EXPDATA>
 	<EXPDATA>
@@ -292,12 +292,22 @@
 	</EXPDATA>
 	<EXPDATA>
 		<uiIndex>29</uiIndex>
-		<name>RPG Napalm</name>
+		<name>GAS</name>
 		<TransKeyFrame>16</TransKeyFrame>
 		<DamageKeyFrame>16</DamageKeyFrame>
 		<ExplosionSoundID>61</ExplosionSoundID>
 		<AltExplosionSoundID>285</AltExplosionSoundID>
-		<BlastFilename>TILECACHE\RPG_Napalm.sti</BlastFilename>
+		<BlastFilename>TILECACHE\GAS.sti</BlastFilename>
+		<BlastSpeed>40</BlastSpeed>
+	</EXPDATA>
+	<EXPDATA>
+		<uiIndex>30</uiIndex>
+		<name>Signal Mine</name>
+		<TransKeyFrame>12</TransKeyFrame>
+		<DamageKeyFrame>12</DamageKeyFrame>
+		<ExplosionSoundID>617</ExplosionSoundID>
+		<AltExplosionSoundID>-1</AltExplosionSoundID>
+		<BlastFilename>TILECACHE\SignalMine.sti</BlastFilename>
 		<BlastSpeed>40</BlastSpeed>
 	</EXPDATA>
 </EXPDATALIST>

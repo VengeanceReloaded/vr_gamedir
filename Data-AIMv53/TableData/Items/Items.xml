@@ -64604,6 +64604,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<buddyitem>2465</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -65286,6 +65287,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<RangeBonus>-100</RangeBonus>
+		<buddyitem>2465</buddyitem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -66122,11 +66124,29 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2467</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2467</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>Signal Mine</szItemName>
+		<szLongItemName>Signal Mine SM</szLongItemName>
+		<szItemDesc>Signal Mine.</szItemDesc>
+		<szBRName>Signal Mine</szBRName>
+		<szBRDesc>Signal Mine.</szBRDesc>
+		<usItemClass>512</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>189</ubClassIndex>
+		<ubCursor>18</ubCursor>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>43</ubGraphicNum>
+		<ubWeight>4</ubWeight>
+		<ubPerPocket>2</ubPerPocket>
+		<ItemSize>21</ItemSize>
+		<bRepairEase>-2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<NotBuyable>1</NotBuyable>
+		<buddyitem>2457</buddyitem>
+		<Mine>1</Mine>
+		<TripWireActivation>1</TripWireActivation>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
