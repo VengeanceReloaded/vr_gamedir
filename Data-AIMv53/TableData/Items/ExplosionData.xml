@@ -135,7 +135,7 @@
 		<name>Incendiary</name>
 		<TransKeyFrame>1</TransKeyFrame>
 		<DamageKeyFrame>12</DamageKeyFrame>
-		<ExplosionSoundID>-1</ExplosionSoundID>
+		<ExplosionSoundID>618</ExplosionSoundID>	<!-- dummy sound -->
 		<AltExplosionSoundID>-1</AltExplosionSoundID>
 		<BlastFilename>TILECACHE\Incendiary.sti</BlastFilename>
 		<BlastSpeed>5</BlastSpeed>
