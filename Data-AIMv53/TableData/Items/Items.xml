@@ -6295,6 +6295,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Hardware>1</Hardware>
 		<LocksmithKit>1</LocksmithKit>
+		<LockPickModifier>15</LockPickModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47319,7 +47320,7 @@
 		<ItemFlag>16</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>131</ubGraphicNum>
-		<ubWeight>10000</ubWeight>
+		<ubWeight>1200</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>30</ItemSize>
 		<usPrice>65</usPrice>
@@ -60068,12 +60069,33 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2150</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2150</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>Hunter Knife</szItemName>
+		<szLongItemName>Russian Hunter Knife</szLongItemName>
+		<szItemDesc>Russian Hunter Knife.</szItemDesc>
+		<szBRName>Hunter Knife</szBRName>
+		<szBRDesc>Russian Hunter Knife.</szBRDesc>
+		<usItemClass>4</usItemClass>
+		<ubClassIndex>37</ubClassIndex>
+		<ubCursor>4</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>687</ubGraphicNum>
+		<ubWeight>7</ubWeight>
+		<ubPerPocket>2</ubPerPocket>
+		<ItemSize>24</ItemSize>
+		<usPrice>150</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>0</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<BR_ROF>28</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
+		<STAND_MODIFIERS>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -77970,10 +77992,25 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 	</ITEM>
 	<ITEM>
 		<uiIndex>2977</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2977</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>Traumapack</szItemName>
+		<szLongItemName>Traumapack</szLongItemName>
+		<szItemDesc>An easy to use emergency bandage.</szItemDesc>
+		<szBRName>Traumapack</szBRName>
+		<szBRDesc>The emergency bandage is an elasticized bandage with a non-adhesive bandage pad sewn in. The bandage has a built-in pressure bar, which allows the soldier to twist the bandage around the wound once, and then change the direction of the bandage, wrapping it around the limb or body part, to create pressure on the wound.</szBRDesc>
+		<usItemClass>4096</usItemClass>
+		<ubCursor>5</ubCursor>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>454</ubGraphicNum>
+		<ubWeight>3</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>17</ItemSize>
+		<usPrice>40</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<Damageable>1</Damageable>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>5</BR_NewInventory>
+		<PercentStatusDrainReduction>-100</PercentStatusDrainReduction>
+		<FirstAidKit>1</FirstAidKit>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -77981,11 +78018,28 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 	</ITEM>
 	<ITEM>
 		<uiIndex>2978</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2978</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>Big Med Kit</szItemName>
+		<szLongItemName>Big Medical Kit</szLongItemName>
+		<szItemDesc>Aside from standard first aid supplies, this kit includes: a suture set and scissors, prep pads, a scalpel, Kelly forceps, tweezers, pain killers, anesthetic, antibiotics, a pen light, and a surgical manual.</szItemDesc>
+		<szBRName>Big Medical Kit</szBRName>
+		<szBRDesc>It's a first aid kit and then some. Aside from standard first aid supplies, this kit includes: a suture set, prep pads, suture scissors, a scalpel, Kelly forceps, tweezers, anesthetic, pain killers, antibiotics, a pen light, and the "Emergency War Surgery" manual.</szBRDesc>
+		<usItemClass>4096</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubCursor>5</ubCursor>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>455</ubGraphicNum>
+		<ubWeight>20</ubWeight>
+		<ItemSize>27</ItemSize>
+		<usPrice>500</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<Medical>1</Medical>
+		<MedicalKit>1</MedicalKit>
+		<PercentStatusDrainReduction>50</PercentStatusDrainReduction>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
