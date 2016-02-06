@@ -6978,6 +6978,7 @@
 		<ItemSize>25</ItemSize>
 		<usPrice>3000</usPrice>
 		<NotBuyable>1</NotBuyable>
+		<ItemFlag>4096</ItemFlag>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -7639,6 +7640,7 @@
 		<ubCoolness>3</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
+		<ItemFlag>4096</ItemFlag>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -7806,6 +7808,7 @@
 		<WaterDamages>1</WaterDamages>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
+		<ItemFlag>4096</ItemFlag>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -7919,6 +7922,7 @@
 		<usPrice>30</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
+		<ItemFlag>4096</ItemFlag>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -8897,6 +8901,7 @@
 		<ubCoolness>2</ubCoolness>
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
+		<ItemFlag>4096</ItemFlag>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -31753,6 +31758,7 @@
 		<Metal>1</Metal>
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
+		<ItemFlag>4096</ItemFlag>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -31846,6 +31852,7 @@
 		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<BigGunList>1</BigGunList>
+		<ItemFlag>4096</ItemFlag>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -31872,6 +31879,7 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
+		<ItemFlag>4096</ItemFlag>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -31917,6 +31925,7 @@
 		<usPrice>100</usPrice>
 		<ubCoolness>2</ubCoolness>
 		<BigGunList>1</BigGunList>
+		<ItemFlag>4096</ItemFlag>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -41930,6 +41939,7 @@
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<ItemFlag>4096</ItemFlag>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -67605,10 +67615,27 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2536</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2536</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>Gorka</szItemName>
+		<szLongItemName>"Gorka" Uniform</szLongItemName>
+		<szItemDesc>Russian "Gorka" uniform.</szItemDesc>
+		<szBRName>"Gorka" Uniform</szBRName>
+		<szBRDesc>Russian "Gorka" uniform.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<ubClassIndex>238</ubClassIndex>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>456</ubGraphicNum>
+		<ubWeight>5</ubWeight>
+		<ItemSize>31</ItemSize>
+		<usPrice>120</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<ShowStatus>1</ShowStatus>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<CamoBonus>18</CamoBonus>
+		<StealthBonus>10</StealthBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -72328,6 +72355,7 @@
 		<Unaerodynamic>1</Unaerodynamic>
 		<Medical>1</Medical>
 		<DrugType>1</DrugType>
+		<ItemFlag>4096</ItemFlag>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -75202,6 +75230,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubCoolness>3</ubCoolness>
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
+		<ItemFlag>4096</ItemFlag>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -75226,6 +75255,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
+		<ItemFlag>4096</ItemFlag>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -75248,6 +75278,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubCoolness>10</ubCoolness>
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
+		<ItemFlag>4096</ItemFlag>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -75271,6 +75302,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubCoolness>3</ubCoolness>
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
+		<ItemFlag>4096</ItemFlag>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -75293,6 +75325,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<usPrice>40</usPrice>
 		<ubCoolness>10</ubCoolness>
 		<Damageable>1</Damageable>
+		<ItemFlag>4096</ItemFlag>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />

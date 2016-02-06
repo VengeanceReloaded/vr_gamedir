@@ -1666,4 +1666,11 @@
 		<ubCoverage>30</ubCoverage>
 		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
+	<ARMOUR>	<!-- Gorka -->
+		<uiIndex>238</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
 </ARMOURLIST>

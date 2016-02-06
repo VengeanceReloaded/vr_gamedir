@@ -13266,6 +13266,8 @@
 		<szWeaponName>Stun Gun</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>15</ubShotsPer4Turns>
+		<ubAttackVolume>5</ubAttackVolume>
+		<ubHitVolume>5</ubHitVolume>
 		<ubImpact>14</ubImpact>
 		<ubDeadliness>1</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
@@ -13280,6 +13282,8 @@
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>49</ubCalibre>
+		<ubAttackVolume>5</ubAttackVolume>
+		<ubHitVolume>1</ubHitVolume>
 		<ubShotsPer4Turns>22</ubShotsPer4Turns>
 		<ubBulletSpeed>21</ubBulletSpeed>
 		<ubMagSize>8</ubMagSize>
@@ -13359,6 +13363,8 @@
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>16</ubCalibre>
 		<ubReadyTime>5</ubReadyTime>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>1</ubHitVolume>
 		<ubShotsPer4Turns>13.70</ubShotsPer4Turns>
 		<ubBulletSpeed>20</ubBulletSpeed>
 		<ubImpact>40</ubImpact>
@@ -13398,7 +13404,7 @@
 		<usRange>180</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>2</ubAttackVolume>
+		<ubAttackVolume>5</ubAttackVolume>
 		<ubHitVolume>1</ubHitVolume>
 		<sSound>497</sSound>
 		<sReloadSound>498</sReloadSound>
