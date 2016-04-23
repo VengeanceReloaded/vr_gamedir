@@ -177,17 +177,17 @@ uiFlags must be of
     <uiIndex>0</uiIndex>
     <szName>Tony</szName>
     <dBuyModifier>0.75</dBuyModifier>
-    <dSellModifier>1.25</dSellModifier>
+    <dSellModifier>2.0</dSellModifier>
     <ubShopKeeperID>91</ubShopKeeperID>
     <ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
     <iInitialCash>15000</iInitialCash>
-    <uiFlags>1342177280</uiFlags>
+    <uiFlags>268435456</uiFlags>
     <dailyIncrement>15000</dailyIncrement>
     <dailyMaximum>15000</dailyMaximum>
     <dailyRetained>0</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
-    <addToCoolness>1</addToCoolness>
+    <addToCoolness>0</addToCoolness>
     <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>2</daysDelayMin>
     <daysDelayMax>3</daysDelayMax>
@@ -281,8 +281,8 @@ uiFlags must be of
 	<MERCHANT>
     <uiIndex>5</uiIndex>
     <szName>Devin</szName>
-    <dBuyModifier>0.75</dBuyModifier>
-    <dSellModifier>1.25</dSellModifier>
+    <dBuyModifier>0.5</dBuyModifier>
+    <dSellModifier>2.0</dSellModifier>
     <ubShopKeeperID>61</ubShopKeeperID>
     <ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
     <iInitialCash>5000</iInitialCash>
@@ -292,8 +292,8 @@ uiFlags must be of
     <dailyRetained>0</dailyRetained>
     <minCoolness>3</minCoolness>
     <maxCoolness>10</maxCoolness>
-    <addToCoolness>0</addToCoolness>
-    <coolnessProgressRate>100</coolnessProgressRate>
+    <addToCoolness>1</addToCoolness>
+    <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>2</daysDelayMin>
     <daysDelayMax>3</daysDelayMax>
     <useBRSetting>0</useBRSetting>
