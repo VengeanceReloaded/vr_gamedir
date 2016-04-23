@@ -1913,7 +1913,7 @@ INFO: Hight resolution loadscreens must be postfixed in the filesystem with _800
 		<szLocation>L12</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayBalime</szDay>
+		<szDay>Loadscreens\LS_House_pool</szDay>
 		<szNight>Loadscreens\LS_NightBalime</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -2557,7 +2557,7 @@ INFO: Hight resolution loadscreens must be postfixed in the filesystem with _800
 		<szLocation>P12</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayTown1</szDay>
+		<szDay>Loadscreens\LS_House_pool</szDay>
 		<szNight>Loadscreens\LS_NightTown1</szNight>
 		<szDayAlt>Loadscreens\LS_DayTown2</szDayAlt>
 		<szNightAlt>Loadscreens\LS_NightTown2</szNightAlt>
