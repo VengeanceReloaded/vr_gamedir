@@ -390,7 +390,7 @@
 		<ubGraphicNum>5</ubGraphicNum>
 		<ubWeight>7</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<usPrice>633</usPrice>
+		<usPrice>433</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>4</bRepairEase>
@@ -20367,7 +20367,7 @@
 		<ubGraphicNum>147</ubGraphicNum>
 		<ubWeight>7</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<usPrice>170</usPrice>
+		<usPrice>270</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
@@ -20401,7 +20401,7 @@
 		<ubGraphicNum>149</ubGraphicNum>
 		<ubWeight>8</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<usPrice>210</usPrice>
+		<usPrice>310</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
@@ -78053,7 +78053,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>451</ubGraphicNum>
 		<ubWeight>28</ubWeight>
-		<ItemSize>26</ItemSize>
+		<ItemSize>22</ItemSize>
 		<usPrice>350</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<Damageable>1</Damageable>
