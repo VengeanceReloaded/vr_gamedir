@@ -390,6 +390,7 @@
 		<ubGraphicNum>5</ubGraphicNum>
 		<ubWeight>7</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>0</ItemSize>
 		<usPrice>433</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<bReliability>2</bReliability>
@@ -8850,6 +8851,7 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>44</BR_ROF>
+		<ItemFlag>16384</ItemFlag>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -21442,6 +21444,7 @@
 		<ubGraphicNum>189</ubGraphicNum>
 		<ubWeight>9</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>0</ItemSize>
 		<usPrice>600</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<bReliability>2</bReliability>
@@ -22278,6 +22281,7 @@
 		<ubGraphicNum>216</ubGraphicNum>
 		<ubWeight>9</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>0</ItemSize>
 		<usPrice>810</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
@@ -23952,6 +23956,7 @@
 		<ubGraphicNum>297</ubGraphicNum>
 		<ubWeight>7</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>0</ItemSize>
 		<usPrice>710</usPrice>
 		<ubCoolness>2</ubCoolness>
 		<bReliability>2</bReliability>
@@ -48977,6 +48982,7 @@
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<ShowStatus>1</ShowStatus>
+		<ItemFlag>16384</ItemFlag>
 		<BR_NewInventory>6</BR_NewInventory>
 		<BR_ROF>36</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -64856,7 +64862,7 @@
 		<ubWeight>4</ubWeight>
 		<ubPerPocket>3</ubPerPocket>
 		<ItemSize>19</ItemSize>
-		<usPrice>250</usPrice>
+		<usPrice>150</usPrice>
 		<ubCoolness>4</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -64915,7 +64921,7 @@
 		<ubWeight>1</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>13</ItemSize>
-		<usPrice>1500</usPrice>
+		<usPrice>50</usPrice>
 		<ubCoolness>7</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
@@ -64943,11 +64949,12 @@
 		<ubWeight>6</ubWeight>
 		<ubPerPocket>3</ubPerPocket>
 		<ItemSize>13</ItemSize>
-		<usPrice>400</usPrice>
+		<usPrice>350</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<ItemFlag>16384</ItemFlag>
 		<BR_NewInventory>3</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -64974,6 +64981,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<ItemFlag>16384</ItemFlag>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -67652,7 +67660,6 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>7</CamoBonus>
-		<StealthBonus>2</StealthBonus>
 		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
