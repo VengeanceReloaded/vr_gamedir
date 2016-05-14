@@ -1665,7 +1665,7 @@
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>57</ubGraphicNum>
-		<ubWeight>5</ubWeight>
+		<ubWeight>4</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>14</ItemSize>
 		<NotBuyable>1</NotBuyable>
@@ -6589,6 +6589,13 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<ToHitBonus>-15</ToHitBonus>
+		<APBonus>-4</APBonus>
+		<NightVisionRangeBonus>-20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>-10</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>-20</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>-10</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
 		<GasMask>1</GasMask>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -71154,11 +71161,14 @@
 		<Repairable>1</Repairable>
 		<WaterDamages>0</WaterDamages>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<ToHitBonus>-10</ToHitBonus>
+		<APBonus>-4</APBonus>
+		<NightVisionRangeBonus>-5</NightVisionRangeBonus>
 		<DayVisionRangeBonus>-10</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>10</PercentTunnelVision>
+		<CaveVisionRangeBonus>-5</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>-10</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>30</PercentTunnelVision>
 		<GasMask>1</GasMask>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -71185,9 +71195,14 @@
 		<Repairable>1</Repairable>
 		<WaterDamages>0</WaterDamages>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<ToHitBonus>-10</ToHitBonus>
+		<APBonus>0</APBonus>
+		<NightVisionRangeBonus>-20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>-5</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>-20</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>-5</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>20</PercentTunnelVision>
 		<GasMask>1</GasMask>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />

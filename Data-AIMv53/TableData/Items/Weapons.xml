@@ -7527,14 +7527,14 @@
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
 		<ubCalibre>5</ubCalibre>
-		<ubReadyTime>1</ubReadyTime>
-		<ubShotsPer4Turns>11.99</ubShotsPer4Turns>
+		<ubReadyTime>4</ubReadyTime>
+		<ubShotsPer4Turns>22.94</ubShotsPer4Turns>
 		<ubShotsPerBurst>2</ubShotsPerBurst>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>36</ubImpact>
+		<ubImpact>43</ubImpact>
 		<ubDeadliness>25</ubDeadliness>
 		<ubMagSize>2</ubMagSize>
-		<usRange>90</usRange>
+		<usRange>65</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>10</BurstAniDelay>
 		<ubAttackVolume>85</ubAttackVolume>
@@ -7545,8 +7545,9 @@
 		<sLocknLoadSound>558</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>4</bBurstAP>
-		<APsToReload>14</APsToReload>
+		<APsToReload>16</APsToReload>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<EasyUnjam>1</EasyUnjam>
 		<ManualReloadSound>558</ManualReloadSound>
 		<nAccuracy>3</nAccuracy>
 		<ubAimLevels>2</ubAimLevels>
@@ -9176,12 +9177,13 @@
 		<sLocknLoadSound>558</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>20</bBurstAP>
-		<APsToReload>14</APsToReload>
+		<APsToReload>16</APsToReload>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
 		<ManualReloadSound>558</ManualReloadSound>
 		<nAccuracy>29</nAccuracy>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>17</Handling>
+		<SwapClips>1</SwapClips>
 		<usOverheatingJamThreshold>40000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>15000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>150</usOverheatingSingleShotTemperature>
