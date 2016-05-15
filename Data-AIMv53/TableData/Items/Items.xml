@@ -19887,9 +19887,9 @@
 		<uiIndex>677</uiIndex>
 		<szItemName>UMP45</szItemName>
 		<szLongItemName>HK UMP45</szLongItemName>
-		<szItemDesc>The UMP (Universal Machinenpistole = Universal Submachine Gun) was developed by the Heckler &amp; Koch company of Germany in the mid-to-late 1990s.</szItemDesc>
+		<szItemDesc>The UMP (Universal Machine Pistol) was developed by the Heckler &amp; Koch as a more powerful yet cheaper alternative to the MP5.</szItemDesc>
 		<szBRName>HK UMP45</szBRName>
-		<szBRDesc>The UMP (Universal Machinen-Pistole = Universal Submachine Gun) was developed by the Heckler &amp; Koch company of Germany in the mid- to-late 1990s.</szBRDesc>
+		<szBRDesc>The UMP (Universal Machinen-Pistole = Universal Submachine Gun) was developed by the Heckler &amp; Koch company of Germany in the late 90s.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>677</ubClassIndex>
@@ -19930,9 +19930,9 @@
 		<uiIndex>678</uiIndex>
 		<szItemName>USP</szItemName>
 		<szLongItemName>HK USP</szLongItemName>
-		<szItemDesc>The HK USP (Universal Self-loading Pistol) appeared in 1993.  It is a serious combat/self defence weapon.</szItemDesc>
+		<szItemDesc>The HK USP (Universal Self-loading Pistol) appeared in 1993 and features a maintenance free mechanical recoil reduction system</szItemDesc>
 		<szBRName>HK USP</szBRName>
-		<szBRDesc>The HK USP (Universal Self-loading Pistol) appeared in 1993, designed to be a police and military sidearm. All USP pistols are built on the same modified Browning linkless locked breech action with patented recoil reduction system.</szBRDesc>
+		<szBRDesc>The HK Universal Self-loading Pistol appeared in 1993, designed to be a police and military sidearm. All USP pistols are built on the same modified Browning linkless locked breech action with patented recoil reduction system.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>678</ubClassIndex>
@@ -20156,9 +20156,9 @@
 		<uiIndex>684</uiIndex>
 		<szItemName>M21</szItemName>
 		<szLongItemName>M21 Tactical</szLongItemName>
-		<szItemDesc>The M21 tactical rifle is the sniper version of the M14.  An accurate rifle with good stopping power.</szItemDesc>
+		<szItemDesc>The M21 tactical rifle is the sniper version of the M14.  A reliable, accurate rifle with good stopping power.</szItemDesc>
 		<szBRName>M21 Tactical</szBRName>
-		<szBRDesc>The M21 sniper rifle is a semi-automatic version of the M14, and is fitted with a longer barrel for increased range and accuracy.</szBRDesc>
+		<szBRDesc>This sniper rifle is a semi-automatic version of the M14, first used by the US Army in the Vietnam war, it is fitted with a longer barrel for increased range and accuracy.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>684</ubClassIndex>
