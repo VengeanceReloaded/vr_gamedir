@@ -4066,6 +4066,7 @@
 		<szBRDesc>This grenade creates a massive vacuum which deprives the surrounding impact area of oxygen as waves of air rush back into its core. Anyone standing within the detonated area won't know what hit them as they frantically gasp for air.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>38</ubGraphicNum>
@@ -4079,6 +4080,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<HiddenAddon>1</HiddenAddon>
 		<Attachment>1</Attachment>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -4095,8 +4097,9 @@
 		<szBRName>Tear Gas Grenade</szBRName>
 		<szBRDesc>Guaranteed to make its victims cry like the babies they are. This grenade releases tactical dispersion gas that reeks havoc on exposed eyes and skin. It'll send everyone in its radius running for clearer pastures.</szBRDesc>
 		<usItemClass>256</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>48</ubGraphicNum>
@@ -4111,6 +4114,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -4125,9 +4129,10 @@
 		<szItemDesc>This grenade releases a colorless, odorless, and tasteless gas that causes intense burning and blistering of the lungs. Sufferers can die without prompt medical attention.</szItemDesc>
 		<szBRName>Mustard Gas Grenade</szBRName>
 		<szBRDesc>This ain't no hot dog garnish. This grenade releases a colorless, odorless, and tasteless gas that causes intense burning and blistering of the lungs. Sufferers can die without prompt medical attention.</szBRDesc>
-		<usItemClass>256</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
+		<usItemClass>256</usItemClass>		
 		<ubClassIndex>2</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>41</ubGraphicNum>
@@ -4142,6 +4147,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -4157,8 +4163,9 @@
 		<szBRName>Mini Grenade</szBRName>
 		<szBRDesc>This small grenade was developed for maximum throwing range combined with effective fragmentation. The body is loaded with TNT and provides good lethal coverage. Because of its size, even women find this grenade an easy toss.</szBRDesc>
 		<usItemClass>256</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>3</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>		
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>50</ubGraphicNum>
@@ -4173,6 +4180,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -4188,8 +4196,9 @@
 		<szBRName>Mk2 Defensive Grenade</szBRName>
 		<szBRDesc>This "pineapple" may be older than you are, but it's no less effective on the modern battlefield. Jam packed with TNT, this pressure-released firing device with pull-ring provides great lethal coverage. Stop 'em dead in their tracks, every time.</szBRDesc>
 		<usItemClass>256</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>4</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>		
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>49</ubGraphicNum>
@@ -4204,6 +4213,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -4220,6 +4230,7 @@
 		<szBRDesc>A jar of RDX crystals are more powerful than TNT and easier to detonate. Better be forewarned, this stuff isn't too stable and can be set off by a moderate shock.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>5</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>3</ubGraphicNum>
@@ -4231,6 +4242,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -4247,6 +4259,7 @@
 		<szBRDesc>Good old reliable trinitrotoluene is the second oldest and most commonly used explosive known to man-the first is dynamite. These sticks of explosives are highly stable, strawboard rolled and contain a quarter- pound charge.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>6</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubWeight>11</ubWeight>
@@ -4257,6 +4270,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -4273,6 +4287,7 @@
 		<szBRDesc>This explosive packs a real punch. HMX is a mixture of TNT and RDX at a ratio of 50/50, by weight. Although it is not as powerful as straight RDX, it is certainly more stable.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>7</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>23</ubGraphicNum>
@@ -4284,6 +4299,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -4300,6 +4316,7 @@
 		<szBRDesc>Composition C1 is a highly explosive solution of RDX, mixed with a small amount of mineral oil. This composition is just as effective as straight RDX, but it won't accidentally blow up in your face.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>8</ubClassIndex>
 		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
@@ -4312,6 +4329,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -4360,6 +4378,7 @@
 		<szBRDesc>Designed to stop enemies dead in their tracks, or at least slow them up a while. This anti-personnel mine is a fragmentation weapon that blows up when stepped on. It includes a built-in anti-disturbance device to inhibit clearance, and a sensor that neutralizes the minefield after a while.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>10</ubClassIndex>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>6</ubGraphicType>
@@ -4377,6 +4396,7 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Mine>1</Mine>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -4391,6 +4411,7 @@
 		<szBRDesc>This white plastic explosive packs a bigger punch than TNT. Composition C4 comes in a plastic-covered block with a threaded-cap-well at each end. Unlike C1, its sister composition, this one's odorless.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>11</ubClassIndex>
 		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
@@ -4403,6 +4424,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -4419,6 +4441,7 @@
 		<szBRDesc>This illuminating mine with an attached tripwire will shine light on the situation every time. Pull pressure or cutting the tripwire will ignite the flare, visually announcing that enemies are about.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>12</ubClassIndex>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
@@ -4432,6 +4455,7 @@
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
 		<Flare>1</Flare>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -4446,6 +4470,7 @@
 		<szBRDesc>This illuminating mine with an attached tripwire will brighten up the place with a resounding roar. Pull pressure or cutting the tripwire will ignite the flare, which is followed by a wailing siren, letting nearby mercenaries know that enemies are skulking about the area.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>13</ubClassIndex>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
@@ -4458,6 +4483,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -4472,6 +4498,7 @@
 		<szBRDesc>Don't get left out in the cold just because you forgot your key. This trusty shaped-charge will solve all your problems. Place this small tungsten-backed plastique explosive against any door to blow the lock right off.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>14</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>107</ubGraphicNum>
@@ -4488,6 +4515,7 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<LockBomb>1</LockBomb>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -4502,6 +4530,7 @@
 		<szBRDesc>These one time use chemical break lights will certainly help to lighten up those dreary night missions. Stock up on these handy little babies 'cause you'll never know when you'll need them. Simply break 'n' shake to brighten your way.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>15</ubClassIndex>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>2</ubGraphicType>
@@ -4514,6 +4543,7 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Flare>1</Flare>
@@ -4664,6 +4694,8 @@
 		<usItemClass>256</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>20</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>		
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>98</ubGraphicNum>
@@ -4678,6 +4710,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -4694,6 +4727,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>21</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>40</ubGraphicNum>
@@ -4705,6 +4739,7 @@
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
 		<NotInEditor>1</NotInEditor>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -7381,8 +7416,8 @@
 		<szBRName>Bottle of Alcohol</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>106</ubGraphicNum>
 		<ubWeight>10</ubWeight>
@@ -7393,6 +7428,7 @@
 		<Damageable>1</Damageable>
 		<Alcohol>1</Alcohol>
 		<DrugType>2</DrugType>
+		<buddyitem>979</buddyitem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -9200,6 +9236,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>122</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -9210,6 +9247,8 @@
 		<Damageable>1</Damageable>
 		<NotBuyable>1</NotBuyable>
 		<Marbles>1</Marbles>
+		<buddyitem>1704</buddyitem>
+		<Attachment>1</Attachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -9427,15 +9466,16 @@
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<Attachment>1</Attachment>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>123</ubGraphicNum>
 		<ubWeight>1</ubWeight>
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
-		<ubCoolness>1</ubCoolness>
-		<Attachment>1</Attachment>
+		<ubCoolness>1</ubCoolness>		
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -9521,6 +9561,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>23</ubCursor>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>39</ubGraphicNum>
@@ -9530,6 +9571,8 @@
 		<Damageable>1</Damageable>
 		<GasCan>1</GasCan>
 		<ContainsLiquid>1</ContainsLiquid>
+		<buddyitem>1703</buddyitem>
+		<Attachment>1</Attachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -30528,9 +30571,10 @@
 		<szItemDesc>Teach them the hard way that flammable and inflammable mean the same damn thing.</szItemDesc>
 		<szBRName>Molotov Cocktail</szBRName>
 		<szBRDesc>Arguably one of Russia's most deadly exports, next to the Vodka itself, a bottle of alcohol with a cloth fuse is, like a good Vodka, simple and powerful.</szBRDesc>
-		<usItemClass>256</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
+		<usItemClass>256</usItemClass>		
 		<ubClassIndex>60</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>		
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>200</ubGraphicNum>
@@ -30540,6 +30584,7 @@
 		<usPrice>50</usPrice>
 		<Damageable>1</Damageable>
 		<BigGunList>1</BigGunList>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -30985,9 +31030,10 @@
 		<szItemDesc>Flashbangs are used to confuse and disorient a potential threat for up to five seconds.  They work best indoors, and are only partially effective outdoors at night.</szItemDesc>
 		<szBRName>Flashbang Grenade</szBRName>
 		<szBRDesc>The flash of light from this grenade momentarily activates all sensory pigment in the retina, making vision impossible for approximately five seconds until the eye restores the pigment to its original, unstimulated state.</szBRDesc>
-		<usItemClass>256</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
+		<usItemClass>256</usItemClass>		
 		<ubClassIndex>75</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>		
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>524</ubGraphicNum>
@@ -31002,6 +31048,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
@@ -37520,6 +37567,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>3</BR_NewInventory>
 		<Flare>1</Flare>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<buddyitem>2457</buddyitem>
 		<STAND_MODIFIERS />
@@ -46169,6 +46217,7 @@
 		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casulties due to setting it up in the wrong way.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>85</ubClassIndex>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>6</ubGraphicType>
@@ -46188,6 +46237,7 @@
 		<Mine>1</Mine>
 		<Directional>1</Directional>
 		<TripWireActivation>1</TripWireActivation>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<usActionItemFlag>256</usActionItemFlag>
 		<STAND_MODIFIERS />
@@ -46220,6 +46270,7 @@
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
 		<TripWire>1</TripWire>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<usActionItemFlag>17</usActionItemFlag>
 		<STAND_MODIFIERS />
@@ -46329,6 +46380,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>87</ubClassIndex>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
@@ -46345,6 +46397,7 @@
 		<Sinks>1</Sinks>
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -46359,6 +46412,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>88</ubClassIndex>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
@@ -46375,6 +46429,7 @@
 		<Sinks>1</Sinks>
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -46389,6 +46444,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>89</ubClassIndex>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
@@ -46405,6 +46461,7 @@
 		<Sinks>1</Sinks>
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -46419,6 +46476,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>90</ubClassIndex>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
@@ -46435,6 +46493,7 @@
 		<Sinks>1</Sinks>
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -46449,6 +46508,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>91</ubClassIndex>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
@@ -46465,6 +46525,7 @@
 		<Sinks>1</Sinks>
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -46479,6 +46540,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>92</ubClassIndex>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>2</ubGraphicType>
@@ -46493,6 +46555,7 @@
 		<Mine>1</Mine>
 		<Flare>1</Flare>
 		<TripWireActivation>1</TripWireActivation>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<buddyitem>2457</buddyitem>
 		<STAND_MODIFIERS />
@@ -46508,6 +46571,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>93</ubClassIndex>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
@@ -46524,6 +46588,7 @@
 		<Sinks>1</Sinks>
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -51301,6 +51366,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -64501,6 +64567,8 @@
 		<szBRDesc>The HG 85 consists of a plastic body, an inner liner carrying the preformed fragments, and a filling of PentaErythritol TetraNitrate (PETN) high explosive. Despite its compact size it packs quite a punch and scatters its fragments over an area of up to 50 meters.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>125</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>		
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>807</ubGraphicNum>
@@ -64515,6 +64583,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -64529,6 +64598,8 @@
 		<szBRName>Mills Bomb No. 36M</szBRName>
 		<szBRDesc>Without a doubt the most successful hand grenade of the 20th Century, having the longest continuous service life of any other type. The No.36M Mk.I remained the standard grenade of the British Armed Forces and was manufactured in the UK until 1972.</szBRDesc>
 		<usItemClass>256</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>		
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>126</ubClassIndex>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
@@ -64543,8 +64614,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<HiddenAddon>1</HiddenAddon>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -64561,6 +64632,8 @@
 		<szBRDesc>The M61 is a Vietnam War era hand grenade. It is basically an improved MK2 defensive grenade. If you liked the "pineapple", you'll love the lemon.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>127</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>		
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>802</ubGraphicNum>
@@ -64574,8 +64647,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<HiddenAddon>1</HiddenAddon>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -64592,6 +64665,8 @@
 		<szBRDesc>The RGD-5 is an affordable post World War II Russian anti-personnel fragmentation grenade. The design dates from the late 1950s. It is still in service in many of Russia's former client states.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>128</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>808</ubGraphicNum>
@@ -64605,8 +64680,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<HiddenAddon>1</HiddenAddon>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -64623,6 +64698,8 @@
 		<szBRDesc>This is the updated version of the Soviet World War II fragmentation grenade.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>129</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>809</ubGraphicNum>
@@ -64636,8 +64713,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<HiddenAddon>1</HiddenAddon>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -64653,6 +64730,8 @@
 		<szBRDesc>The V40 grenade is spherical in shape, very light weight and approximately only the size of a golf-ball, therefore considerable amounts of this grenade can be carried.. You won't find a smaller hand grenade in our stock.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>130</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>803</ubGraphicNum>
@@ -64668,6 +64747,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<PercentAPReduction>-20</PercentAPReduction>
@@ -64685,6 +64765,8 @@
 		<szBRDesc>The hard to get RGN hand grenade (Ruchnaya Granata Oboronitel'naya) is an offensive Russian fragmentation hand grenade. The grenade shell consists of two internally serrated aluminium hemispheres. The fragments produced by the grenade generate a lethal radius of between 5 and 20 meters</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>131</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>813</ubGraphicNum>
@@ -64699,8 +64781,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<HiddenAddon>1</HiddenAddon>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -64716,6 +64798,8 @@
 		<szBRDesc>The hard to get RGO hand grenade (Ruchnaya Granata Oboronitel'naya) is a defensive Russian fragmentation hand grenade. It consists of a double layered aluminium pre-fragmented body. The fragments produced by the grenade generate a lethal radius of between 6 and 30 meters</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>132</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>814</ubGraphicNum>
@@ -64729,8 +64813,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<HiddenAddon>1</HiddenAddon>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -64746,6 +64830,8 @@
 		<szBRDesc>The AN-M14 TH3 incendiary hand grenade is used to destroy equipment. It can damage, immobilize, or destroy vehicles, weapons systems, shelters, or munitions. But of course this device can also be used to start fires in areas containing flammable materials.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>133</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>800</ubGraphicNum>
@@ -64759,8 +64845,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<HiddenAddon>1</HiddenAddon>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -64778,6 +64864,8 @@
 		<szBRDesc>Rare collectors item! We just got our hands on some very hard to find vintage WW 2 German stick grenades.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>134</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>805</ubGraphicNum>
@@ -64792,6 +64880,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -64807,6 +64896,8 @@
 		<szBRDesc>This M-DN 11 Fragmentation Grenade was designed by Diehl of Germany to replace DM-51 grenades employed by German forces. Due to the relatively high price, only a very limited amount has been used by German GSG-9 and KSK forces.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>135</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>804</ubGraphicNum>
@@ -64821,8 +64912,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<HiddenAddon>1</HiddenAddon>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -64838,6 +64929,8 @@
 		<szBRDesc>The MK3A2 offensive hand grenade is a concussion grenade designed to produce casualties during close combat while minimizing danger to friendly personnel.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>136</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>806</ubGraphicNum>
@@ -64851,8 +64944,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<HiddenAddon>1</HiddenAddon>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -64932,6 +65025,8 @@
 		<szBRDesc>A point defense land mine, with limited effect radius. Ideal for blocking small entrances.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>139</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>46</ubGraphicNum>
@@ -64947,6 +65042,7 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Mine>1</Mine>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -64961,6 +65057,8 @@
 		<szBRDesc>The German S-mine, also known as the Bouncing Betty, is the best-known version of a class of mines known as bounding mines. The explosion projects a lethal spray of steel balls and fragments in all directions.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>140</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>433</ubGraphicNum>
@@ -64977,6 +65075,7 @@
 		<Mine>1</Mine>
 		<ItemFlag>262144</ItemFlag>
 		<TripWireActivation>1</TripWireActivation>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -64991,6 +65090,8 @@
 		<szBRDesc>The Dragontooth was designed during the Vietnam War with helicopter deployment in mind. Small but lethal.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>141</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>434</ubGraphicNum>
@@ -65005,6 +65106,7 @@
 		<Metal>0</Metal>
 		<NotBuyable>1</NotBuyable>
 		<Mine>1</Mine>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -65019,6 +65121,7 @@
 		<szBRDesc>Composition C1 is a solution of RDX and a small amount of mineral oil. This combination retains the explosive power of RDX while increasing its stability. This small charge has a slightly decreased blast radius for those situations you want a more controlled explosion.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>142</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>44</ubGraphicNum>
@@ -65031,6 +65134,7 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ItemFlag>16384</ItemFlag>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>3</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -65046,6 +65150,7 @@
 		<szBRDesc>Composition C4 is a white plastic explosive that is more powerful than TNT.  Compared to a regular chunk of C4, this small charge has a slightly decreased blast radius for those situations you want a more controlled explosion.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>143</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>45</ubGraphicNum>
@@ -65058,6 +65163,7 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ItemFlag>16384</ItemFlag>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -65073,6 +65179,7 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>144</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>179</ubGraphicNum>
@@ -65084,6 +65191,7 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2456</buddyitem>
 		<STAND_MODIFIERS />
@@ -65099,6 +65207,7 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>145</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>182</ubGraphicNum>
@@ -65110,6 +65219,7 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2201</buddyitem>
 		<STAND_MODIFIERS />
@@ -65125,6 +65235,7 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>146</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>181</ubGraphicNum>
@@ -65136,6 +65247,7 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2201</buddyitem>
 		<STAND_MODIFIERS />
@@ -65151,6 +65263,7 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>147</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>183</ubGraphicNum>
@@ -65162,6 +65275,7 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2419</buddyitem>
 		<STAND_MODIFIERS />
@@ -65177,6 +65291,7 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>148</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>180</ubGraphicNum>
@@ -65188,6 +65303,7 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2456</buddyitem>
 		<STAND_MODIFIERS />
@@ -65203,6 +65319,7 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>149</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>184</ubGraphicNum>
@@ -65214,6 +65331,7 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2456</buddyitem>
 		<STAND_MODIFIERS />
@@ -65229,6 +65347,8 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>150</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>835</ubGraphicNum>
@@ -65241,6 +65361,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -65255,6 +65376,8 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>151</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>835</ubGraphicNum>
@@ -65267,6 +65390,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -65280,6 +65404,7 @@
 		<szBRName>Flashbang Mine</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>152</ubClassIndex>
 		<ubCursor>18</ubCursor>
@@ -65296,6 +65421,7 @@
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
 		<Mine>1</Mine>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -65310,6 +65436,8 @@
 		<szBRDesc>The M34 White Phosphorous grenade, also referred to as Willie Pete, is a small but nasty incendiary grenade. These weapons are particularly dangerous to exposed people because white phosphorus continues to burn unless deprived of oxygen or until it is completely consumed.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>153</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>838</ubGraphicNum>
@@ -65325,6 +65453,7 @@
 		<Sinks>1</Sinks>
 		<buddyitem>2465</buddyitem>
 		<ItemFlag>536870912</ItemFlag>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>3</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -65464,6 +65593,8 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>158</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>848</ubGraphicNum>
@@ -65476,6 +65607,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -65490,6 +65622,8 @@
 		<szBRDesc>This small tear gas grenade is pretty useful if you need to clear rooms of vermin.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>159</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>857</ubGraphicNum>
@@ -65503,6 +65637,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>3</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -65529,6 +65664,7 @@
 		<Repairable>1</Repairable>
 		<Attachment>1</Attachment>
 		<Flare>1</Flare>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2457</buddyitem>
 		<STAND_MODIFIERS />
@@ -65544,6 +65680,8 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>161</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>861</ubGraphicNum>
@@ -65554,6 +65692,7 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<BigGunList>1</BigGunList>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -65567,6 +65706,7 @@
 		<szBRName>Mustard Gas Mine</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>162</ubClassIndex>
 		<ubCursor>18</ubCursor>
@@ -65583,6 +65723,7 @@
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
 		<Mine>1</Mine>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -65596,6 +65737,7 @@
 		<szBRName>Tear Gas Mine</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>163</ubClassIndex>
 		<ubCursor>18</ubCursor>
@@ -65612,6 +65754,7 @@
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
 		<Mine>1</Mine>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -65625,6 +65768,7 @@
 		<szBRName>Smoke Mine</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>164</ubClassIndex>
 		<ubCursor>18</ubCursor>
@@ -65641,6 +65785,7 @@
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
 		<Mine>1</Mine>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -66027,6 +66172,8 @@
 		<szBRDesc>The Stinger Grenade is filled with more than 800 small rubber balls. It is an effective stun grenade for a lot of different tactical scenarios.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>177</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1039</ubGraphicNum>
@@ -66042,6 +66189,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>5</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -66057,6 +66205,8 @@
 		<szBRDesc>Regular large stun grenade for crowd control.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>178</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1040</ubGraphicNum>
@@ -66072,8 +66222,8 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>2</BR_NewInventory>
-		<NeedsBatteries>1</NeedsBatteries>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -66185,8 +66335,9 @@
 		<szBRDesc>Good old reliable trinitrotoluene.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubCursor>6</ubCursor>
-		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>184</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>437</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -66196,7 +66347,8 @@
 		<ubCoolness>2</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
-		<Repairable>0</Repairable>		
+		<Repairable>0</Repairable>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>0</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -66213,8 +66365,9 @@
 		<szBRDesc>HMX is a mixture of TNT and RDX at a ratio of 50/50.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubCursor>6</ubCursor>
-		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>185</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>438</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -66225,6 +66378,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>0</Repairable>
+		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>0</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -66239,8 +66393,10 @@
 		<szItemDesc>A mix of gasoline and ammonium nitrate. This is a volatile combination that should be handled with care.</szItemDesc>
 		<szBRName>Fertilizer Bomb</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
-		<usItemClass>512</usItemClass>
+		<usItemClass>512</usItemClass>	
 		<ubClassIndex>186</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>450</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -66253,6 +66409,7 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<BigGunList>1</BigGunList>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -66293,6 +66450,7 @@
 		<szBRDesc>Signal Mine.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>189</ubClassIndex>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
@@ -66308,6 +66466,7 @@
 		<buddyitem>2457</buddyitem>
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
