@@ -18412,7 +18412,7 @@
         </WEAPON>	
 	<WEAPON>
 		<uiIndex>2150</uiIndex>
-		<szWeaponName>Combat Knife</szWeaponName>
+		<szWeaponName>Hunter Knife</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>14</ubShotsPer4Turns>
 		<ubImpact>17</ubImpact>
@@ -18423,5 +18423,39 @@
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>2151</uiIndex>
+		<szWeaponName>M1 Garand T26</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>4</ubWeaponType>
+		<ubCalibre>46</ubCalibre>
+		<ubReadyTime>16</ubReadyTime>
+		<ubShotsPer4Turns>12.8</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>35</ubImpact>
+		<ubDeadliness>37</ubDeadliness>
+		<bAccuracy>4</bAccuracy>
+		<ubMagSize>8</ubMagSize>
+		<usRange>480</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>85</ubAttackVolume>
+		<ubHitVolume>8</ubHitVolume>
+		<sSound>610</sSound>
+		<sReloadSound>525</sReloadSound>
+		<sLocknLoadSound>524</sLocknLoadSound>
+		<SilencedSound>611</SilencedSound>
+		<bBurstAP>20</bBurstAP>
+		<APsToReload>28</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>12</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>82</nAccuracy>
+		<ubAimLevels>6</ubAimLevels>
+		<Handling>17</Handling>
+		<usOverheatingJamThreshold>40000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>19000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>136</usOverheatingSingleShotTemperature>
 	</WEAPON>
 </WEAPONLIST>

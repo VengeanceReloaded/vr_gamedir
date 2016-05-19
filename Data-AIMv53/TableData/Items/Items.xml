@@ -1670,6 +1670,7 @@
 		<ItemSize>14</ItemSize>
 		<NotBuyable>1</NotBuyable>
 		<Rock>1</Rock>
+		<Sinks>1</Sinks>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -60189,11 +60190,38 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2151</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2151</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>M1 Garand T26</szItemName>
+		<szLongItemName>M1 Garand T26</szLongItemName>
+		<szItemDesc>This M1 Garand variant has an 6 inches shorter barrel than a regualr Garand.</szItemDesc>
+		<szBRName>M1 Garand T26</szBRName>
+		<szBRDesc>Also known as the Tanker Garand, the T26 arose from requests by various Army combat commands for a shortened version of the standard M1 rifle for use in jungle or mobile warfare.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>683</ubClassIndex>
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>688</ubGraphicNum>
+		<ubWeight>38</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>2300</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>-3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>0</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<DefaultAttachment>1181</DefaultAttachment>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<BR_ROF>24</BR_ROF>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<DamageChance>10</DamageChance>
+		<DirtIncreaseFactor>40.0</DirtIncreaseFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
