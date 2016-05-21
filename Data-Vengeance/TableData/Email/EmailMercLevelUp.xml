@@ -977,7 +977,7 @@ Message:		The email message body
 	<!-- Lance -->
 		<uiIndex>188</uiIndex>
 		<Subject>Notice of Fee Increase</Subject>
-		<Message>Please be advised that Lance's progressively better performance no the battlefield deserves an increase in salary. ± ± Speck T. Kline ± </Message>
+		<Message>Please be advised that Lance's progressively better performance on the battlefield have resulted in an adjustment of his salary, effective as of this date. ± ± Speck T. Kline ± </Message>
 	</EMAIL>
 	<EMAIL>
 	<!-- Raffi -->
@@ -1082,9 +1082,10 @@ Message:		The email message body
 		<Message>Message : None</Message>
 	</EMAIL>
 	<EMAIL>
+		<!-- Arsenal -->
 		<uiIndex>208</uiIndex>
-		<Subject>Subject: None</Subject>
-		<Message>Message : None</Message>
+		<Subject>Notice of Fee Increase</Subject>
+		<Message>Please note due to Arsenal's outstanding performance in Arulco his experience is now reflected with a salary increase. ± ± Speck T. Kline ± </Message>
 	</EMAIL>
 	<EMAIL>
 		<uiIndex>209</uiIndex>
@@ -1149,12 +1150,12 @@ Message:		The email message body
 	<EMAIL>
 		<uiIndex>221</uiIndex>
 		<Subject>Notice of Fee Increase</Subject>
-		<Message>Please take note, due to the improvement in Reuban's performance his compensation for services render has undergone a revaluation.  ± ± Speck T. Kline ± </Message>
+		<Message>Please take note, due to the improvement in Reuban's performance his compensation for services rendered has undergone a revaluation.  ± ± Speck T. Kline ± </Message>
 	</EMAIL>
 	<EMAIL>
 		<uiIndex>222</uiIndex>
 		<Subject>Notice of Fee Increase</Subject>
-		<Message>Please take note, due to the improvement in Leon's performance his compensation for services render has undergone a revaluation.  ± ± Speck T. Kline ± </Message>
+		<Message>Please take note, due to the improvement in Leon's performance his compensation for services rendered has undergone a revaluation.  ± ± Speck T. Kline ± </Message>
 	</EMAIL>
 	<EMAIL>
 		<uiIndex>223</uiIndex>
