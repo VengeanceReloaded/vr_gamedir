@@ -57,7 +57,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>5</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
@@ -78,7 +78,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>5</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
@@ -393,7 +393,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -414,7 +414,7 @@
 		<ubStunDamage>140</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>4</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
@@ -435,7 +435,7 @@
 		<ubStunDamage>0</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -456,7 +456,7 @@
 		<ubStunDamage>0</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
@@ -687,7 +687,7 @@
 		<ubStunDamage>3</ubStunDamage>
 		<ubRadius>6</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>8</ubDuration>
 		<ubStartRadius>4</ubStartRadius>
@@ -708,7 +708,7 @@
 		<ubStunDamage>50</ubStunDamage>
 		<ubRadius>6</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>8</ubDuration>
 		<ubStartRadius>4</ubStartRadius>
@@ -750,7 +750,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>2</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>4</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -771,7 +771,7 @@
 		<ubStunDamage>0</ubStunDamage>
 		<ubRadius>2</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>4</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -792,7 +792,7 @@
 		<ubStunDamage>100</ubStunDamage>
 		<ubRadius>3</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>26</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
@@ -813,7 +813,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>2</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>4</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -876,7 +876,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>3</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -897,7 +897,7 @@
 		<ubStunDamage>0</ubStunDamage>
 		<ubRadius>3</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -918,7 +918,7 @@
 		<ubStunDamage>120</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>26</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
@@ -939,7 +939,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>3</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>5</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -1002,7 +1002,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -1023,7 +1023,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -1044,7 +1044,7 @@
 		<ubStunDamage>0</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -1065,7 +1065,7 @@
 		<ubStunDamage>140</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>4</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
@@ -1086,7 +1086,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -1149,7 +1149,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -1170,7 +1170,7 @@
 		<ubStunDamage>0</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>7</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -1191,7 +1191,7 @@
 		<ubStunDamage>150</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>4</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
@@ -1212,7 +1212,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>7</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -1293,13 +1293,13 @@
 		<uiIndex>60</uiIndex>
 		<ubType>8</ubType>
 		<ubDamage>20</ubDamage>
-		<ubStunDamage>10</ubStunDamage>
+		<ubStunDamage>20</ubStunDamage>
 		<ubRadius>2</ubRadius>
 		<ubVolume>15</ubVolume>
 		<ubVolatility>1</ubVolatility>
 		<ubAnimationID>10</ubAnimationID>
-		<ubDuration>4</ubDuration>
-		<ubStartRadius>2</ubStartRadius>
+		<ubDuration>3</ubDuration>
+		<ubStartRadius>1</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
@@ -1401,7 +1401,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -1422,7 +1422,7 @@
 		<ubStunDamage>0</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -1443,7 +1443,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -1485,7 +1485,7 @@
 		<ubStunDamage>140</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>4</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
@@ -1611,7 +1611,7 @@
 		<ubStunDamage>10</ubStunDamage>
 		<ubRadius>5</ubRadius>
 		<ubVolume>80</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>11</ubAnimationID>
 		<ubDuration>2</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
@@ -1716,7 +1716,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -1737,7 +1737,7 @@
 		<ubStunDamage>0</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>7</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -1758,7 +1758,7 @@
 		<ubStunDamage>150</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>4</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
@@ -1779,7 +1779,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>7</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -1863,7 +1863,7 @@
 		<ubStunDamage>140</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>10</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>4</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
@@ -1884,7 +1884,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>5</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
@@ -1905,7 +1905,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>5</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
@@ -1989,7 +1989,7 @@
 		<ubStunDamage>0</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
@@ -2556,7 +2556,7 @@
 		<ubStunDamage>0</ubStunDamage>
 		<ubRadius>1</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>2</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
@@ -2913,7 +2913,7 @@
 		<ubStunDamage>0</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>25</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -2934,7 +2934,7 @@
 		<ubStunDamage>50</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>25</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -3060,7 +3060,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>6</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>4</ubStartRadius>
@@ -3144,7 +3144,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>6</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>4</ubStartRadius>
@@ -3165,7 +3165,7 @@
 		<ubStunDamage>0</ubStunDamage>
 		<ubRadius>6</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>4</ubStartRadius>
@@ -3228,7 +3228,7 @@
 		<ubStunDamage>10</ubStunDamage>
 		<ubRadius>5</ubRadius>
 		<ubVolume>80</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>11</ubAnimationID>
 		<ubDuration>2</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
@@ -3375,7 +3375,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -3438,7 +3438,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>5</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
@@ -3459,7 +3459,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>5</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
@@ -3480,7 +3480,7 @@
 		<ubStunDamage>0</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>1</ubStartRadius>
@@ -3543,7 +3543,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>8</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -3585,7 +3585,7 @@
 		<ubStunDamage>0</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -3606,7 +3606,7 @@
 		<ubStunDamage>140</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>4</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
@@ -3627,7 +3627,7 @@
 		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -3711,7 +3711,7 @@
 		<ubStunDamage>0</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>25</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>7</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -3732,7 +3732,7 @@
 		<ubStunDamage>50</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>25</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>6</ubAnimationID>
 		<ubDuration>6</ubDuration>
 		<ubStartRadius>2</ubStartRadius>
@@ -3753,7 +3753,7 @@
 		<ubStunDamage>85</ubStunDamage>
 		<ubRadius>3</ubRadius>
 		<ubVolume>0</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>4</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
@@ -3775,7 +3775,7 @@
 		<ubRadius>5</ubRadius>
 		<ubVolume>0</ubVolume>
 		<ubVolatility>1</ubVolatility>
-		<ubAnimationID>4</ubAnimationID>
+		<ubAnimationID>0</ubAnimationID>
 		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
 		<ubMagSize>0</ubMagSize>
@@ -3795,7 +3795,7 @@
 		<ubStunDamage>0</ubStunDamage>
 		<ubRadius>1</ubRadius>
 		<ubVolume>5</ubVolume>
-		<ubVolatility>1</ubVolatility>
+		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>23</ubAnimationID>
 		<ubDuration>1</ubDuration>
 		<ubStartRadius>1</ubStartRadius>

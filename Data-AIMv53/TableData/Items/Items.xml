@@ -196,7 +196,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>0</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>0</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
@@ -209,7 +208,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>0</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>0</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
@@ -222,7 +220,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>0</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>0</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</PRONE_MODIFIERS>
 	</ITEM>
@@ -4082,6 +4079,7 @@
 		<Sinks>1</Sinks>
 		<HiddenAddon>1</HiddenAddon>
 		<Attachment>1</Attachment>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -4115,6 +4113,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -4148,6 +4147,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -4181,6 +4181,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -4214,6 +4215,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -4544,6 +4546,7 @@
 		<Repairable>1</Repairable>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Flare>1</Flare>
@@ -4711,6 +4714,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -7429,6 +7433,7 @@
 		<Alcohol>1</Alcohol>
 		<DrugType>2</DrugType>
 		<buddyitem>979</buddyitem>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -9249,6 +9254,7 @@
 		<Marbles>1</Marbles>
 		<buddyitem>1704</buddyitem>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -9573,6 +9579,7 @@
 		<ContainsLiquid>1</ContainsLiquid>
 		<buddyitem>1703</buddyitem>
 		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -31050,6 +31057,7 @@
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
 		<BigGunList>1</BigGunList>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -37552,7 +37560,8 @@
 		<szBRName>Emergency Flare</szBRName>
 		<szBRDesc>Brighter than chemical lightsticks, but also comparatively short-lived, these flares can light up the night for you.</szBRDesc>
 		<usItemClass>256</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
+		<nasLayoutClass>1</nasLayoutClass>		
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>77</ubClassIndex>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>2</ubGraphicType>
@@ -37568,6 +37577,7 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<Flare>1</Flare>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<buddyitem>2457</buddyitem>
 		<STAND_MODIFIERS />
@@ -51367,6 +51377,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -59605,7 +59616,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>5</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>9</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
@@ -59618,7 +59628,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>4</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>9</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
@@ -59631,7 +59640,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>0</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>9</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</PRONE_MODIFIERS>
 	</ITEM>
@@ -59720,7 +59728,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>0</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>0</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
@@ -59733,7 +59740,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>0</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>0</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
@@ -59746,7 +59752,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>0</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>0</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</PRONE_MODIFIERS>
 	</ITEM>
@@ -59837,7 +59842,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>0</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
@@ -59850,7 +59854,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>0</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
@@ -59863,7 +59866,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>0</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</PRONE_MODIFIERS>
 	</ITEM>
@@ -59966,7 +59968,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>0</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
@@ -59979,7 +59980,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>0</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
@@ -59992,7 +59992,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>0</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</PRONE_MODIFIERS>
 	</ITEM>
@@ -60045,7 +60044,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>0</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
@@ -60058,7 +60056,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>0</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
@@ -60071,7 +60068,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>0</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</PRONE_MODIFIERS>
 	</ITEM>
@@ -60164,7 +60160,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>5</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>10</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
@@ -60177,7 +60172,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>4</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>10</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
@@ -60190,7 +60184,6 @@
 			<PercentDropCompensation>0</PercentDropCompensation>
 			<PercentMaxCounterForce>0</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>10</PercentCounterForceAccuracy>
-			<PercentCounterForceFrequency>25</PercentCounterForceFrequency>
 			<AimLevels>0</AimLevels>
 		</PRONE_MODIFIERS>
 	</ITEM>
@@ -64584,6 +64577,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -64602,7 +64596,7 @@
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>126</ubClassIndex>
 		<ubCursor>6</ubCursor>
-		<ubGraphicType>5</ubGraphicType>
+		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>49</ubGraphicNum>
 		<ubWeight>4</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
@@ -64616,6 +64610,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -64649,6 +64644,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -64682,6 +64678,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -64715,6 +64712,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -64748,6 +64746,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<PercentAPReduction>-20</PercentAPReduction>
@@ -64783,6 +64782,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -64815,7 +64815,8 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
-		<BR_UsedInventory>1</BR_UsedInventory>
+		<TripWireActivation>1</TripWireActivation>
+		<BR_UsedInventory>1</BR_UsedInventory>		
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -64847,6 +64848,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -64881,6 +64883,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -64914,6 +64917,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -64946,6 +64950,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -65454,6 +65459,7 @@
 		<buddyitem>2465</buddyitem>
 		<ItemFlag>536870912</ItemFlag>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>3</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -65638,6 +65644,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>3</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -65653,6 +65660,8 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>160</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>		
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>863</ubGraphicNum>
@@ -65665,6 +65674,7 @@
 		<Attachment>1</Attachment>
 		<Flare>1</Flare>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2457</buddyitem>
 		<STAND_MODIFIERS />
@@ -65693,6 +65703,7 @@
 		<Repairable>1</Repairable>
 		<BigGunList>1</BigGunList>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -66190,6 +66201,7 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>5</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -66223,6 +66235,7 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<HiddenAddon>1</HiddenAddon>
+		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -73872,6 +73885,8 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szBRName>Modified Flare</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>		
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>42</ubGraphicNum>
 		<ubWeight>4</ubWeight>

@@ -245,7 +245,7 @@
 		<uiIndex>6</uiIndex>
 		<szName>Bodyguard</szName>
 		<szShortName>Bodyguard</szShortName>
-		<szDescription>Superbly trained, utterly loyal, and willing to pay the ultimate price. What more could a potential employer want?.</szDescription>
+		<szDescription>Superbly trained, utterly loyal, and willing to pay the ultimate price. What more could a potential employer want?</szDescription>
 		<strength>1</strength>
 		<resistance_physical>20</resistance_physical>
 		<resistance_fear>20</resistance_fear>
@@ -961,7 +961,7 @@
 	<BACKGROUND>
 		<uiIndex>35</uiIndex>
 		<szName>New Age Spiritualist</szName>
-		<szShortName>New Age Spiritualist</szShortName>
+		<szShortName>Spiritualist</szShortName>
 		<szDescription>Who needs an exam to be a practicing healer?</szDescription>
 		<medical>5</medical>
 		<wisdom>5</wisdom>
