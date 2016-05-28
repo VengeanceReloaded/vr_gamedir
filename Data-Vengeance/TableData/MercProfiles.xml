@@ -19963,7 +19963,7 @@
 		<usMouthY>20</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
-		<uiBlinkFrequency>2800</uiBlinkFrequency>
+		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
 		<PANTS>BLACKPANTS</PANTS>
 		<VEST>greyVEST</VEST>
@@ -19972,8 +19972,8 @@
 		<bSex>0</bSex>
 		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
-		<bAttitude>0</bAttitude>
-		<bCharacterTrait>0</bCharacterTrait>
+		<bAttitude>1</bAttitude>
+		<bCharacterTrait>1</bCharacterTrait>
 		<bDisability>5</bDisability>
 		<ubNeedForSleep>9</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
