@@ -143,7 +143,6 @@
 		<carrystrength>4</carrystrength>
 		<camo>10</camo>
 		<stealth>10</stealth>
-		<increased_maxcth>3</increased_maxcth>
 		<hearing_night>1</hearing_night>
 		<hearing_day>1</hearing_day>
 		<drink_energyregen>150</drink_energyregen>
@@ -200,7 +199,7 @@
 		<szDescription>Working day and night in her car repair shop when she's not travelling around the world, Vicky is a very versed mechanic. But she never overcame her fear of heights.</szDescription>
 		<dexterity>3</dexterity>
 		<mechanical>6</mechanical>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>2</leadership>
 		<ap_assault>3</ap_assault>
 		<ap_height>-8</ap_height>
@@ -341,7 +340,7 @@
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-15</ap_fortify>
 		<ap_artillery>-5</ap_artillery> 
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<travel_foot>5</travel_foot>
 		<speed_run>5</speed_run>
 		<food>-10</food>
@@ -388,14 +387,13 @@
 		<szShortName>Hitman</szShortName>
 		<szDescription>Professional assassins are obviously used to killing, though might come in conflict with more idealistic team members.</szDescription>
 		<stealth>10</stealth>
-		<marksmanship>5</marksmanship>
+		<marksmanship>3</marksmanship>
 		<ap_urban>3</ap_urban>
 		<ap_assault>5</ap_assault>
 		<ap_inventory>-3</ap_inventory>
 		<resistance_fear>10</resistance_fear>
 		<resistance_suppression>5</resistance_suppression>
 		<resistance_physical>5</resistance_physical>
-		<increased_maxcth>5</increased_maxcth>
 		<cth_blades>3</cth_blades>
 		<approach_friendly>-10</approach_friendly>
 		<approach_direct>5</approach_direct>
@@ -432,7 +430,7 @@
 		<szShortName>Nurse/Mercenary</szShortName>
 		<szDescription>This is a grim business, and combat medics are valuable personnel -- Fox is priceless.</szDescription>
 		<dexterity>3</dexterity>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<medical>7</medical>
 		<leadership>2</leadership>
 		<ap_fortify>20</ap_fortify>
@@ -459,7 +457,7 @@
 		<szName>Nobility/Mercenary</szName>
 		<szShortName>Nobility/Mercenary</szShortName>
 		<szDescription>Some people join this business not out of necessity. While easy to label them as sissy aristocrats, some are actually quite capable, as they have received the best training money can buy.</szDescription>
-		<marksmanship>5</marksmanship>
+		<marksmanship>3</marksmanship>
 		<leadership>5</leadership>
 		<ap_assault>3</ap_assault>
 		<ap_fortify>20</ap_fortify>
@@ -516,7 +514,7 @@
 		<wisdom>1</wisdom>
 		<agility>2</agility>
 		<dexterity>4</dexterity>
-		<marksmanship>8</marksmanship>
+		<marksmanship>3</marksmanship>
 		<medical>7</medical>
 		<ap_inventory>-10</ap_inventory>
 		<resistance_poison>5</resistance_poison>
@@ -529,7 +527,6 @@
 		<ap_fortify>-13</ap_fortify>
 		<carrystrength>3</carrystrength>
 		<prisonguard>10</prisonguard>
-		<increased_maxcth>5</increased_maxcth>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -624,7 +621,7 @@
 		<szDescription>This might be Frank's last tour - there are several private organisations that are interested in recruiting him to train their staff.</szDescription>
 		<leadership>6</leadership>
 		<agility>-5</agility>
-		<marksmanship>5</marksmanship>
+		<marksmanship>3</marksmanship>
 		<stealth>10</stealth>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-15</ap_fortify>
@@ -678,7 +675,7 @@
 		<szName>SWAT Member</szName>
 		<szShortName>SWAT</szShortName>
 		<szDescription>Blurring the line between police and military, SWAT teams are used in urban operations too dangerous for normal law enforcement.</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>3</leadership>
 		<ap_urban>5</ap_urban>
 		<ap_assault>3</ap_assault>
@@ -700,7 +697,7 @@
 		<szName>SWAT Sniper</szName>
 		<szShortName>SWAT Sniper</szShortName>
 		<szDescription>Blurring the line between police and military, SWAT teams are used in urban operations too dangerous for normal law enforcement.</szDescription>
-		<marksmanship>6</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>3</leadership>
 		<ap_urban>5</ap_urban>
 		<ap_height>3</ap_height>
@@ -708,7 +705,6 @@
 		<resistance_physical>3</resistance_physical>
 		<resistance_fear>5</resistance_fear>
 		<resistance_suppression>5</resistance_suppression>
-		<increased_maxcth>5</increased_maxcth>
 		<interrogation>75</interrogation>
 		<prisonguard>75</prisonguard>
 		<breachingcharge>50</breachingcharge>
@@ -725,7 +721,7 @@
 		<szShortName>Tech Crew/Vet Merc</szShortName>
 		<szDescription>Blasting sounds, fireworks, screaming people - isn't it odd how similar stage is to the battlefield?</szDescription>
 		<mechanical>3</mechanical>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-18</ap_fortify>
@@ -752,7 +748,7 @@
 		<szName>Green Beret</szName>
 		<szShortName>Green Beret</szShortName>
 		<szDescription>The Green Berets are a special operations force tasked with unconventional warfare.</szDescription>
-		<marksmanship>4</marksmanship>
+		<marksmanship>3</marksmanship>
 		<leadership>5</leadership>
 		<ap_airdrop>-1</ap_airdrop>
 		<ap_assault>5</ap_assault>
@@ -863,7 +859,7 @@
 		<szName>Veteran Mercenary</szName>
 		<szShortName>Veteran Merc</szShortName>
 		<szDescription>While others may keep to their pasts and its labels, you've chosen the life of a gun for hire - and embraced it. This is who you really are.</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<ap_coastal>5</ap_coastal>
 		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
@@ -919,7 +915,6 @@
 		<cth_blades>10</cth_blades>
 		<stealth>10</stealth>
 		<drink_energyregen>300</drink_energyregen>
-		<increased_maxcth>4</increased_maxcth>
 		<food>-50</food>
 		<water>-50</water>
 		<no_male>1</no_male>
@@ -982,7 +977,7 @@
 		<szName>SAS</szName>
 		<szShortName>SAS</szShortName>
 		<szDescription>The british Special Air Service is one of the world's most famous special forces units, and is not only trained in survival techniques in all environments, it is also exceptionally well versed in airborne missions.</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<ap_polar>3</ap_polar>
 		<ap_desert>3</ap_desert>
 		<ap_swamp>3</ap_swamp>
@@ -1054,7 +1049,7 @@
 		<szName>Mercenary</szName>
 		<szShortName>Merc</szShortName>
 		<szDescription>While others may keep to their pasts and its labels, you've chosen the life of a gun for hire - and embraced it. This is who you really are.</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>2</leadership>
 		<ap_assault>3</ap_assault>
 		<resistance_physical>5</resistance_physical>
@@ -1099,7 +1094,7 @@
 		<szName>Wanna-be Mercenary</szName>
 		<szShortName>Wanna-be Merc</szShortName>
 		<szDescription>You chose the awesome life of a mercenary, visit new places, meet new people, kill them, and even GET PAID for it.</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<ap_assault>1</ap_assault>
 		<meleedamage>3</meleedamage>
 		<cth_blades>5</cth_blades>
@@ -1457,7 +1452,6 @@
 		<carrystrength>4</carrystrength>
 		<camo>10</camo>
 		<stealth>10</stealth>
-		<increased_maxcth>2</increased_maxcth>
 		<hearing_night>1</hearing_night>
 		<hearing_day>1</hearing_day>
 		<drink_energyregen>100</drink_energyregen>
@@ -1534,14 +1528,13 @@
 		<szName>Sniper Terrorist</szName>
 		<szShortName>Sniper Terrorist</szShortName>
 		<szDescription>Nobody admits it, but the same governments that hunt him employ him.</szDescription>
-		<marksmanship>7</marksmanship>
+		<marksmanship>3</marksmanship>
 		<ap_urban>2</ap_urban>
 		<ap_height>4</ap_height>
 		<ap_assault>2</ap_assault>
 		<resistance_fear>5</resistance_fear>
 		<resistance_suppression>2</resistance_suppression>
 		<capitulation>10</capitulation>
-		<increased_maxcth>5</increased_maxcth>
 		<spotter>15</spotter>
 		<approach_friendly>-15</approach_friendly>
 		<approach_threaten>10</approach_threaten>
@@ -1609,7 +1602,7 @@
 		<szShortName>Knife-Thrower</szShortName>
 		<szDescription>Being held and tortured in a regime prison left you scarred for the rest of your life. You've come a long way from being a party trickster playing knife throwing games.</szDescription>
 		<dexterity>8</dexterity>
-		<marksmanship>5</marksmanship>
+		<marksmanship>3</marksmanship>
 		<cth_blades>5</cth_blades>
 		<resistance_fear>20</resistance_fear>
 		<resistance_physical>10</resistance_physical>
@@ -1629,7 +1622,7 @@
 		<szName>Sniper/Teacher</szName>
 		<szShortName>Sniper/Teacher</szShortName>
 		<szDescription>Nobody fails your classes . . . and lives!</szDescription>
-		<marksmanship>6</marksmanship>
+		<marksmanship>3</marksmanship>
 		<leadership>-3</leadership>
 		<ap_urban>5</ap_urban>
 		<ap_height>3</ap_height>
@@ -1637,7 +1630,6 @@
 		<resistance_physical>3</resistance_physical>
 		<resistance_fear>5</resistance_fear>
 		<resistance_suppression>5</resistance_suppression>
-		<increased_maxcth>5</increased_maxcth>
 		<interrogation>75</interrogation>
 		<approach_threaten>20</approach_threaten>
 		<capitulation>50</capitulation>
@@ -1881,7 +1873,6 @@
 		<travel_boat>2</travel_boat>
 		<speed_run>10</speed_run>
 		<stealth>10</stealth>
-		<increased_maxcth>1</increased_maxcth>
 		<approach_direct>10</approach_direct>
 		<approach_threaten>10</approach_threaten>
 		<hearing_night>1</hearing_night>
@@ -1952,7 +1943,7 @@
 		<szShortName>Terrorist Bomber</szShortName>
 		<szDescription>Notorious mass-murderer? Insane criminal? They're just jealous.</szDescription>
 		<agility>6</agility>
-		<marksmanship>6</marksmanship>
+		<marksmanship>3</marksmanship>
 		<explosives>10</explosives>
 		<ap_assault>6</ap_assault>
 		<stealth>6</stealth>
@@ -2153,7 +2144,7 @@
 		<wisdom>1</wisdom>
 		<dexterity>3</dexterity>
 		<mechanical>3</mechanical>
-		<marksmanship>7</marksmanship>
+		<marksmanship>3</marksmanship>
 		<resistance_fear>15</resistance_fear>
 		<approach_direct>10</approach_direct>
 		<approach_threaten>20</approach_threaten>
@@ -2245,7 +2236,7 @@
 		<szName>Poacher/Smuggler</szName>
 		<szShortName>Poacher/Smuggler</szShortName>
 		<szDescription>Travel to virgin soil, seek rare species, kill them, and SELL THEIR BODYPARTS.</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<ap_polar>1</ap_polar>
 		<ap_desert>1</ap_desert>
 		<ap_swamp>2</ap_swamp>
@@ -2380,7 +2371,7 @@
 		<szName>Warden</szName>
 		<szShortName>Warden</szShortName>
 		<szDescription>Former law enforcement personnel often seek work in the mercenary world, and are the logical choice for handling captives.</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<resistance_fear>10</resistance_fear>
 		<approach_direct>5</approach_direct>
@@ -2397,7 +2388,7 @@
 		<szName>Hitman</szName>
 		<szShortName>Hitman</szShortName>
 		<szDescription>Professional assassins are obviously used to killing, though might come in conflict with more idealistic team members.</szDescription>
-		<marksmanship>5</marksmanship>
+		<marksmanship>3</marksmanship>
 		<mechanical>5</mechanical>
 		<stealth>10</stealth>
 		<ap_urban>3</ap_urban>
@@ -2406,7 +2397,6 @@
 		<resistance_fear>10</resistance_fear>
 		<resistance_suppression>5</resistance_suppression>
 		<resistance_physical>5</resistance_physical>
-		<increased_maxcth>5</increased_maxcth>
 		<cth_blades>3</cth_blades>
 		<approach_friendly>-10</approach_friendly>
 		<approach_direct>5</approach_direct>
@@ -2545,7 +2535,7 @@
 		<szDescription>Mess with him, you mess with the entire family...</szDescription>
 		<agility>2</agility>
 		<dexterity>2</dexterity>
-		<marksmanship>5</marksmanship>
+		<marksmanship>3</marksmanship>
 		<stealth>10</stealth>
 		<ap_assault>2</ap_assault>
 		<betterprices_guns>5</betterprices_guns>
@@ -2755,7 +2745,7 @@
 		<szName>General</szName>
 		<szShortName>General</szShortName>
 		<szDescription>This mercenary General is definitely not in your squad!</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>10</leadership>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-13</ap_fortify>
@@ -2992,7 +2982,7 @@
 		<szName>Assassin\Guard\Mercenary</szName>
 		<szShortName>Assassin\Guard\Merc</szShortName>
 		<szDescription>Professional assassins are obviously used to killing, though might come in conflict with more idealistic team members.</szDescription>
-		<marksmanship>5</marksmanship>
+		<marksmanship>3</marksmanship>
 		<leadership>3</leadership>
 		<stealth>10</stealth>
 		<ap_urban>3</ap_urban>
@@ -3003,7 +2993,6 @@
 		<resistance_fear>10</resistance_fear>
 		<resistance_suppression>10</resistance_suppression>
 		<resistance_physical>5</resistance_physical>
-		<increased_maxcth>5</increased_maxcth>
 		<cth_blades>3</cth_blades>
 		<approach_friendly>-10</approach_friendly>
 		<approach_direct>20</approach_direct>
@@ -3164,7 +3153,7 @@
 		<szName>Red Army/Veteran Mercenary</szName>
 		<szShortName>Red Army/Vet Merc</szShortName>
 		<szDescription>A veteran of international conflict, Iggy found himself on the wrong side of the conflict until he joined the rebellion.</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>7</leadership>
 		<ap_polar>2</ap_polar>
 		<ap_mountain>3</ap_mountain>
@@ -3195,7 +3184,6 @@
 		<resistance_alcohol>10</resistance_alcohol>
 		<betterprices_guns>10</betterprices_guns>
 		<betterprices>20</betterprices>
-		<increased_maxcth>5</increased_maxcth>
 		<interrogation>300</interrogation>
 		<approach_friendly>20</approach_friendly>
 		<approach_direct>20</approach_direct>
@@ -3213,7 +3201,7 @@
 		<szName>Hitman</szName>
 		<szShortName>Hitman</szShortName>
 		<szDescription>Professional assassins are obviously used to killing, though might come in conflict with more idealistic team members.</szDescription>
-		<marksmanship>5</marksmanship>
+		<marksmanship>3</marksmanship>
 		<stealth>10</stealth>
 		<ap_urban>3</ap_urban>
 		<ap_assault>5</ap_assault>
@@ -3221,7 +3209,6 @@
 		<resistance_fear>10</resistance_fear>
 		<resistance_suppression>5</resistance_suppression>
 		<resistance_physical>5</resistance_physical>
-		<increased_maxcth>5</increased_maxcth>
 		<cth_blades>3</cth_blades>
 		<approach_friendly>-10</approach_friendly>
 		<approach_direct>5</approach_direct>
@@ -3269,7 +3256,7 @@
 		<szName>Hitman</szName>
 		<szShortName>Hitman</szShortName>
 		<szDescription>Professional assassins are obviously used to killing, though might come in conflict with more idealistic team members.</szDescription>
-		<marksmanship>5</marksmanship>
+		<marksmanship>3</marksmanship>
 		<stealth>10</stealth>
 		<ap_urban>3</ap_urban>
 		<ap_assault>5</ap_assault>
@@ -3277,7 +3264,6 @@
 		<resistance_fear>10</resistance_fear>
 		<resistance_suppression>5</resistance_suppression>
 		<resistance_physical>5</resistance_physical>
-		<increased_maxcth>5</increased_maxcth>
 		<cth_blades>3</cth_blades>
 		<approach_friendly>-10</approach_friendly>
 		<approach_direct>5</approach_direct>
@@ -3295,7 +3281,7 @@
 		<szName>Hitman</szName>
 		<szShortName>Hitman</szShortName>
 		<szDescription>Professional assassins are obviously used to killing, though might come in conflict with more idealistic team members.</szDescription>
-		<marksmanship>5</marksmanship>
+		<marksmanship>3</marksmanship>
 		<stealth>10</stealth>
 		<ap_urban>3</ap_urban>
 		<ap_assault>5</ap_assault>
@@ -3303,7 +3289,6 @@
 		<resistance_fear>10</resistance_fear>
 		<resistance_suppression>5</resistance_suppression>
 		<resistance_physical>5</resistance_physical>
-		<increased_maxcth>5</increased_maxcth>
 		<cth_blades>3</cth_blades>
 		<approach_friendly>-10</approach_friendly>
 		<approach_direct>5</approach_direct>
@@ -3377,7 +3362,6 @@
 		<cth_blades>3</cth_blades>
 		<stealth>3</stealth>
 		<sleep>-1</sleep>
-		<increased_maxcth>2</increased_maxcth>
 		<drink_energyregen>100</drink_energyregen>
 		<approach_friendly>10</approach_friendly>
 		<approach_direct>15</approach_direct>
@@ -3393,7 +3377,7 @@
 		<szName>Veteran Mercenary</szName>
 		<szShortName>Veteran Merc</szShortName>
 		<szDescription>While others may keep to their pasts and its labels, you've chosen the life of a gun for hire - and embraced it. This is who you really are.</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-15</ap_fortify>
@@ -3637,7 +3621,7 @@
 		<szName>UN Peacekeeper\Sniper</szName>
 		<szShortName>UN</szShortName>
 		<szDescription>Nations provide these troops to solve conflicts without any violence. Sadly, this statment is false -- which is why Gaston is also a sniper.</szDescription>
-		<marksmanship>6</marksmanship>
+		<marksmanship>3</marksmanship>
 		<medical>2</medical>
 		<mechanical>2</mechanical>
 		<wisdom>2</wisdom>
@@ -3649,7 +3633,6 @@
 		<resistance_physical>5</resistance_physical>
 		<resistance_fear>10</resistance_fear>
 		<resistance_suppression>10</resistance_suppression>
-		<increased_maxcth>5</increased_maxcth>
 		<capitulation>20</capitulation>
 		<speed_bandaging>10</speed_bandaging>
 		<approach_friendly>5</approach_friendly>
@@ -3668,7 +3651,7 @@
 		<szName>Veteran Mercenary</szName>
 		<szShortName>Veteran Merc</szShortName>
 		<szDescription>While others may keep to their pasts and its labels, you've chosen the life of a gun for hire - and embraced it. This is who you really are.</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-15</ap_fortify>
@@ -3694,7 +3677,7 @@
 		<szName>B-Movie Star/Veteran Mercenary</szName>
 		<szShortName>Movie Star/Vet Merc</szShortName>
 		<szDescription>Target of thrown popcorn in cinemas around the world, scoffed by critics yet adored by loyal fans.</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<ap_fortify>-15</ap_fortify>
 		<ap_artillery>-3</ap_artillery>
@@ -3723,7 +3706,7 @@
 		<szName>Veteran Mercenary/Bomber</szName>
 		<szShortName>Veteran Merc/Bomber</szShortName>
 		<szDescription>You were already famous in this business before those youngsters were even born. After years of battles, there's hardly anything that can shake you up.</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<explosives>10</explosives>
 		<ap_assault>5</ap_assault>
@@ -4065,7 +4048,7 @@
 		<szName>Veteran Mercenary/Undertaker</szName>
 		<szShortName>Vet Merc/Undertaker</szShortName>
 		<szDescription>When you've seen it all, nothing can frighten you anymore.</szDescription>
-		<marksmanship>6</marksmanship>
+		<marksmanship>3</marksmanship>
 		<leadership>6</leadership>
 		<ap_assault>6</ap_assault>
 		<ap_fortify>-15</ap_fortify>
@@ -4549,7 +4532,6 @@
 		<resistance_suppression>15</resistance_suppression>
 		<meleedamage>4</meleedamage>
 		<cth_blades>3</cth_blades>
-		<increased_maxcth>2</increased_maxcth>
 		<stealth>3</stealth>
 		<approach_friendly>3</approach_friendly>
 		<approach_direct>5</approach_direct>
@@ -4568,7 +4550,7 @@
 		<szName>Sniper</szName>
 		<szShortName>Sniper</szShortName>
 		<szDescription>Rooftops and shadows are your best friend.</szDescription>
-		<marksmanship>6</marksmanship>
+		<marksmanship>3</marksmanship>
 		<agility>3</agility>
 		<leadership>-3</leadership>
 		<ap_urban>5</ap_urban>
@@ -4577,7 +4559,6 @@
 		<resistance_physical>5</resistance_physical>
 		<resistance_fear>5</resistance_fear>
 		<resistance_suppression>5</resistance_suppression>
-		<increased_maxcth>5</increased_maxcth>
 		<approach_threaten>20</approach_threaten>
 		<capitulation>50</capitulation>
 		<spotter>20</spotter>
@@ -4793,7 +4774,7 @@
 		<szName>Veteran Mercenary/Snitch</szName>
 		<szShortName>Vet Merc/Snitch</szShortName>
 		<szDescription>You were already famous in this business before those youngsters were even born. After years of battles, there's hardly anything that can shake you up.</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-15</ap_fortify>
@@ -4889,7 +4870,7 @@
 		<szName>Veteran Mercenary</szName>
 		<szShortName>Veteran Merc</szShortName>
 		<szDescription>You were already famous in this business before those youngsters were even born. After years of battles, there's hardly anything that can shake you up.</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>8</leadership>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-15</ap_fortify>
@@ -4967,7 +4948,7 @@
 		<szDescription>Very useful, as long as you HAVE a car.</szDescription>
 		<dexterity>3</dexterity>
 		<mechanical>6</mechanical>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<ap_fortify>-15</ap_fortify>
 		<ap_artillery>-3</ap_artillery> 
@@ -4997,7 +4978,7 @@
 		<szShortName>Hitman/Sneak</szShortName>
 		<szDescription>Professional assassins are obviously used to killing, though might come in conflict with more idealistic team members.</szDescription>
 		<agility>5</agility>
-		<marksmanship>5</marksmanship>
+		<marksmanship>3</marksmanship>
 		<stealth>10</stealth>
 		<ap_urban>3</ap_urban>
 		<ap_assault>5</ap_assault>
@@ -5005,7 +4986,6 @@
 		<resistance_fear>10</resistance_fear>
 		<resistance_suppression>5</resistance_suppression>
 		<resistance_physical>5</resistance_physical>
-		<increased_maxcth>5</increased_maxcth>
 		<cth_blades>3</cth_blades>
 		<approach_friendly>-10</approach_friendly>
 		<approach_direct>5</approach_direct>
@@ -5046,7 +5026,7 @@
 		<szShortName>Veteran Ranger/Merc</szShortName>
 		<szDescription>The Rangers form the elite of US Army infantry.</szDescription>
 		<leadership>8</leadership>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<ap_assault>6</ap_assault>
 		<ap_fortify>-15</ap_fortify>
 		<ap_artillery>-5</ap_artillery> 
@@ -5106,8 +5086,7 @@
 		<wisdom>1</wisdom>
 		<agility>2</agility>
 		<dexterity>2</dexterity>
-		<marksmanship>8</marksmanship>
-		<increased_maxcth>5</increased_maxcth>
+		<marksmanship>4</marksmanship>
 		<approach_friendly>-5</approach_friendly>
 		<approach_threaten>5</approach_threaten>
 		<approach_recruit>-5</approach_recruit>
@@ -5143,7 +5122,7 @@
 		<szName>Veteran Mercenary</szName>
 		<szShortName>Veteran Mercenary</szShortName>
 		<szDescription>While others may keep to their pasts and its labels, you've chosen the life of a gun for hire - and embraced it. This is who you really are.</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<ap_desert>3</ap_desert>
 		<ap_swamp>3</ap_swamp>
@@ -5304,7 +5283,6 @@
 		<approach_friendly>-9</approach_friendly>
 		<approach_threaten>9</approach_threaten>
 		<approach_recruit>-3</approach_recruit>
-		<increased_maxcth>2</increased_maxcth>
 		<capitulation>10</capitulation>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -5474,7 +5452,7 @@
 		<szName>Veteran Mercenary</szName>
 		<szShortName>Veteran Mercenary</szShortName>
 		<szDescription>You were already famous in this business before those youngsters were even born. After years of battles, there's hardly anything that can shake you up.</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-15</ap_fortify>
@@ -5545,7 +5523,7 @@
 		<szShortName>Detective/Veteran</szShortName>
 		<szDescription>Hey detective, did you manage to solve the case of the disappearing donuts yet?</szDescription>
 		<wisdom>3</wisdom>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<ap_urban>5</ap_urban>
 		<ap_assault>6</ap_assault>
 		<ap_fortify>-15</ap_fortify>
@@ -5608,7 +5586,7 @@
 		<wisdom>1</wisdom>
 		<dexterity>3</dexterity>
 		<mechanical>3</mechanical>
-		<marksmanship>7</marksmanship>
+		<marksmanship>3</marksmanship>
 		<resistance_fear>15</resistance_fear>
 		<approach_direct>10</approach_direct>
 		<approach_threaten>20</approach_threaten>
@@ -5713,7 +5691,7 @@
 		<szName>Nobility</szName>
 		<szShortName>Nobility</szShortName>
 		<szDescription>Some people join this business not out of necessity. While easy to label them as sissy aristocrats, some are actually quite capable, as they have received the best training money can buy.</szDescription>
-				<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>3</leadership>
 		<ap_fortify>30</ap_fortify>
 		<ap_artillery>10</ap_artillery>
@@ -5837,7 +5815,7 @@
 		<szShortName>Drill Sergeant</szShortName>
 		<szDescription>A drill sergeant's job is to create armies and traumatise young men and women.</szDescription>
 		<leadership>8</leadership>
-		<marksmanship>7</marksmanship>
+		<marksmanship>3</marksmanship>
 		<ap_assault>8</ap_assault>
 		<ap_height>-2</ap_height>
 		<ap_swimming>-5</ap_swimming>
@@ -5897,7 +5875,7 @@
 		<szName>Hitman</szName>
 		<szShortName>Hitman</szShortName>
 		<szDescription>Professional assassins are obviously used to killing, though might come in conflict with more idealistic team members.</szDescription>
-		<marksmanship>5</marksmanship>
+		<marksmanship>3</marksmanship>
 		<stealth>10</stealth>
 		<ap_urban>3</ap_urban>
 		<ap_assault>5</ap_assault>
@@ -5905,7 +5883,6 @@
 		<resistance_fear>10</resistance_fear>
 		<resistance_suppression>5</resistance_suppression>
 		<resistance_physical>5</resistance_physical>
-		<increased_maxcth>5</increased_maxcth>
 		<cth_blades>3</cth_blades>
 		<approach_friendly>-10</approach_friendly>
 		<approach_direct>5</approach_direct>
@@ -5950,7 +5927,7 @@
 		<szName>SWAT Member</szName>
 		<szShortName>SWAT</szShortName>
 		<szDescription>Blurring the line between police and military, SWAT teams are used in urban operations too dangerous for normal law enforcement.</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>3</leadership>
 		<ap_urban>5</ap_urban>
 		<ap_assault>3</ap_assault>
@@ -6189,7 +6166,7 @@
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-15</ap_fortify>
 		<ap_artillery>-5</ap_artillery> 
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<resistance_physical>5</resistance_physical>
 		<resistance_fear>15</resistance_fear>
 		<resistance_suppression>15</resistance_suppression>
@@ -6243,8 +6220,7 @@
 		<wisdom>1</wisdom>
 		<agility>2</agility>
 		<dexterity>2</dexterity>
-		<marksmanship>8</marksmanship>
-		<increased_maxcth>5</increased_maxcth>
+		<marksmanship>4</marksmanship>
 		<approach_direct>5</approach_direct>
 		<approach_threaten>6</approach_threaten>
 		<approach_recruit>10</approach_recruit>
@@ -6675,7 +6651,7 @@
 		<szName>Mercenary</szName>
 		<szShortName>Mercenary</szShortName>
 		<szDescription>While others may keep to their pasts and its labels, you've chosen the life of a gun for hire - and embraced it. This is who you really are.</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>2</leadership>
 		<ap_assault>3</ap_assault>
 		<resistance_physical>5</resistance_physical>
@@ -6694,7 +6670,7 @@
 		<szName>Veteran Mercenary</szName>
 		<szShortName>Veteran Mercenary</szShortName>
 		<szDescription>You were already famous in this business before those youngsters were even born. After years of battles, there's hardly anything that can shake you up.</szDescription>
-		<marksmanship>3</marksmanship>
+		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-15</ap_fortify>
@@ -6728,7 +6704,6 @@
 		<carrystrength>5</carrystrength>
 		<camo>10</camo>
 		<stealth>10</stealth>
-		<increased_maxcth>3</increased_maxcth>
 		<hearing_night>1</hearing_night>
 		<hearing_day>1</hearing_day>
 		<approach_direct>5</approach_direct>
@@ -7074,7 +7049,7 @@
 		<szDescription>An expert in cement . . . overcoats and shoes.</szDescription>
 		<agility>2</agility>
 		<dexterity>2</dexterity>
-		<marksmanship>5</marksmanship>
+		<marksmanship>3</marksmanship>
 		<stealth>10</stealth>
 		<ap_assault>2</ap_assault>
 		<betterprices_guns>5</betterprices_guns>
@@ -7144,7 +7119,6 @@
 		<travel_boat>2</travel_boat>
 		<speed_run>10</speed_run>
 		<stealth>10</stealth>
-		<increased_maxcth>1</increased_maxcth>
 		<approach_direct>10</approach_direct>
 		<approach_threaten>10</approach_threaten>
 		<hearing_night>1</hearing_night>
@@ -7168,7 +7142,6 @@
 		<carrystrength>4</carrystrength>
 		<camo>10</camo>
 		<stealth>10</stealth>
-		<increased_maxcth>2</increased_maxcth>
 		<hearing_night>1</hearing_night>
 		<hearing_day>1</hearing_day>
 		<drink_energyregen>100</drink_energyregen>
