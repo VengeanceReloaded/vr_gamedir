@@ -640,7 +640,7 @@
 	<PROFILE>
 		<uiIndex>58</uiIndex>
 		<Name>Sandman</Name>
-		<QuoteExpHeadShotOnly>0</QuoteExpHeadShotOnly>
+		<QuoteExpHeadShotOnly>1</QuoteExpHeadShotOnly>
 		<QuoteExpTeamSpecific>0</QuoteExpTeamSpecific>
 		<QuoteExpGenderCode>0</QuoteExpGenderCode>
 		<QuoteExpGotGunOrUsedGun>61</QuoteExpGotGunOrUsedGun>
@@ -651,7 +651,7 @@
 	<PROFILE>
 		<uiIndex>59</uiIndex>
 		<Name>Sparky</Name>
-		<QuoteExpHeadShotOnly>0</QuoteExpHeadShotOnly>
+		<QuoteExpHeadShotOnly>1</QuoteExpHeadShotOnly>
 		<QuoteExpTeamSpecific>0</QuoteExpTeamSpecific>
 		<QuoteExpGenderCode>0</QuoteExpGenderCode>
 		<QuoteExpGotGunOrUsedGun>62</QuoteExpGotGunOrUsedGun>
@@ -662,22 +662,22 @@
 	<PROFILE>
 		<uiIndex>60</uiIndex>
 		<Name>Frazzler</Name>
-		<QuoteExpHeadShotOnly>0</QuoteExpHeadShotOnly>
+		<QuoteExpHeadShotOnly>1</QuoteExpHeadShotOnly>
 		<QuoteExpTeamSpecific>1</QuoteExpTeamSpecific>
-		<QuoteExpGenderCode>0</QuoteExpGenderCode>
+		<QuoteExpGenderCode>2</QuoteExpGenderCode>
 		<QuoteExpGotGunOrUsedGun>61</QuoteExpGotGunOrUsedGun>
 		<QuoteExpPassingDislike>1</QuoteExpPassingDislike>
 		<QuoteExpWitnessQueenBugDeath>0</QuoteExpWitnessQueenBugDeath>
-		<QuoteExpWitnessDeidrannaDeath>0</QuoteExpWitnessDeidrannaDeath>
+		<QuoteExpWitnessDeidrannaDeath>1</QuoteExpWitnessDeidrannaDeath>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>61</uiIndex>
 		<Name>TNT</Name>
-		<QuoteExpHeadShotOnly>0</QuoteExpHeadShotOnly>
-		<QuoteExpTeamSpecific>0</QuoteExpTeamSpecific>
+		<QuoteExpHeadShotOnly>1</QuoteExpHeadShotOnly>
+		<QuoteExpTeamSpecific>1</QuoteExpTeamSpecific>
 		<QuoteExpGenderCode>0</QuoteExpGenderCode>
-		<QuoteExpGotGunOrUsedGun>0</QuoteExpGotGunOrUsedGun>
-		<QuoteExpPassingDislike>0</QuoteExpPassingDislike>
+		<QuoteExpGotGunOrUsedGun>62</QuoteExpGotGunOrUsedGun>
+		<QuoteExpPassingDislike>2</QuoteExpPassingDislike>
 		<QuoteExpWitnessQueenBugDeath>1</QuoteExpWitnessQueenBugDeath>
 		<QuoteExpWitnessDeidrannaDeath>0</QuoteExpWitnessDeidrannaDeath>
 	</PROFILE>
@@ -695,13 +695,13 @@
 	<PROFILE>
 		<uiIndex>63</uiIndex>
 		<Name>Cobra</Name>
-		<QuoteExpHeadShotOnly>0</QuoteExpHeadShotOnly>
+		<QuoteExpHeadShotOnly>1</QuoteExpHeadShotOnly>
 		<QuoteExpTeamSpecific>0</QuoteExpTeamSpecific>
 		<QuoteExpGenderCode>0</QuoteExpGenderCode>
-		<QuoteExpGotGunOrUsedGun>0</QuoteExpGotGunOrUsedGun>
-		<QuoteExpPassingDislike>0</QuoteExpPassingDislike>
-		<QuoteExpWitnessQueenBugDeath>0</QuoteExpWitnessQueenBugDeath>
-		<QuoteExpWitnessDeidrannaDeath>0</QuoteExpWitnessDeidrannaDeath>
+		<QuoteExpGotGunOrUsedGun>61</QuoteExpGotGunOrUsedGun>
+		<QuoteExpPassingDislike>1</QuoteExpPassingDislike>
+		<QuoteExpWitnessQueenBugDeath>1</QuoteExpWitnessQueenBugDeath>
+		<QuoteExpWitnessDeidrannaDeath>1</QuoteExpWitnessDeidrannaDeath>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>64</uiIndex>
@@ -717,13 +717,13 @@
 	<PROFILE>
 		<uiIndex>65</uiIndex>
 		<Name>Eagle</Name>
-		<QuoteExpHeadShotOnly>0</QuoteExpHeadShotOnly>
+		<QuoteExpHeadShotOnly>1</QuoteExpHeadShotOnly>
 		<QuoteExpTeamSpecific>0</QuoteExpTeamSpecific>
 		<QuoteExpGenderCode>0</QuoteExpGenderCode>
-		<QuoteExpGotGunOrUsedGun>0</QuoteExpGotGunOrUsedGun>
+		<QuoteExpGotGunOrUsedGun>61</QuoteExpGotGunOrUsedGun>
 		<QuoteExpPassingDislike>0</QuoteExpPassingDislike>
-		<QuoteExpWitnessQueenBugDeath>0</QuoteExpWitnessQueenBugDeath>
-		<QuoteExpWitnessDeidrannaDeath>0</QuoteExpWitnessDeidrannaDeath>
+		<QuoteExpWitnessQueenBugDeath>1</QuoteExpWitnessQueenBugDeath>
+		<QuoteExpWitnessDeidrannaDeath>1</QuoteExpWitnessDeidrannaDeath>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>66</uiIndex>
@@ -750,7 +750,7 @@
 	<PROFILE>
 		<uiIndex>68</uiIndex>
 		<Name>Ilya</Name>
-		<QuoteExpHeadShotOnly>0</QuoteExpHeadShotOnly>
+		<QuoteExpHeadShotOnly>1</QuoteExpHeadShotOnly>
 		<QuoteExpTeamSpecific>0</QuoteExpTeamSpecific>
 		<QuoteExpGenderCode>2</QuoteExpGenderCode>
 		<QuoteExpGotGunOrUsedGun>62</QuoteExpGotGunOrUsedGun>
@@ -761,11 +761,11 @@
 	<PROFILE>
 		<uiIndex>69</uiIndex>
 		<Name>Fish</Name>
-		<QuoteExpHeadShotOnly>0</QuoteExpHeadShotOnly>
-		<QuoteExpTeamSpecific>0</QuoteExpTeamSpecific>
-		<QuoteExpGenderCode>0</QuoteExpGenderCode>
-		<QuoteExpGotGunOrUsedGun>0</QuoteExpGotGunOrUsedGun>
-		<QuoteExpPassingDislike>0</QuoteExpPassingDislike>
+		<QuoteExpHeadShotOnly>1</QuoteExpHeadShotOnly>
+		<QuoteExpTeamSpecific>1</QuoteExpTeamSpecific>
+		<QuoteExpGenderCode>2</QuoteExpGenderCode>
+		<QuoteExpGotGunOrUsedGun>61</QuoteExpGotGunOrUsedGun>
+		<QuoteExpPassingDislike>1</QuoteExpPassingDislike>
 		<QuoteExpWitnessQueenBugDeath>1</QuoteExpWitnessQueenBugDeath>
 		<QuoteExpWitnessDeidrannaDeath>1</QuoteExpWitnessDeidrannaDeath>
 	</PROFILE>
@@ -783,13 +783,13 @@
 	<PROFILE>
 		<uiIndex>71</uiIndex>
 		<Name>Joey</Name>
-		<QuoteExpHeadShotOnly>0</QuoteExpHeadShotOnly>
+		<QuoteExpHeadShotOnly>1</QuoteExpHeadShotOnly>
 		<QuoteExpTeamSpecific>0</QuoteExpTeamSpecific>
 		<QuoteExpGenderCode>0</QuoteExpGenderCode>
-		<QuoteExpGotGunOrUsedGun>0</QuoteExpGotGunOrUsedGun>
+		<QuoteExpGotGunOrUsedGun>61</QuoteExpGotGunOrUsedGun>
 		<QuoteExpPassingDislike>0</QuoteExpPassingDislike>
-		<QuoteExpWitnessQueenBugDeath>0</QuoteExpWitnessQueenBugDeath>
-		<QuoteExpWitnessDeidrannaDeath>0</QuoteExpWitnessDeidrannaDeath>
+		<QuoteExpWitnessQueenBugDeath>1</QuoteExpWitnessQueenBugDeath>
+		<QuoteExpWitnessDeidrannaDeath>1</QuoteExpWitnessDeidrannaDeath>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>72</uiIndex>
@@ -804,14 +804,14 @@
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>73</uiIndex>
-		<Name>Greig</Name>
-		<QuoteExpHeadShotOnly>0</QuoteExpHeadShotOnly>
-		<QuoteExpTeamSpecific>0</QuoteExpTeamSpecific>
-		<QuoteExpGenderCode>0</QuoteExpGenderCode>
-		<QuoteExpGotGunOrUsedGun>0</QuoteExpGotGunOrUsedGun>
+		<Name>Babyface</Name>
+		<QuoteExpHeadShotOnly>1</QuoteExpHeadShotOnly>
+		<QuoteExpTeamSpecific>1</QuoteExpTeamSpecific>
+		<QuoteExpGenderCode>2</QuoteExpGenderCode>
+		<QuoteExpGotGunOrUsedGun>61</QuoteExpGotGunOrUsedGun>
 		<QuoteExpPassingDislike>0</QuoteExpPassingDislike>
-		<QuoteExpWitnessQueenBugDeath>0</QuoteExpWitnessQueenBugDeath>
-		<QuoteExpWitnessDeidrannaDeath>0</QuoteExpWitnessDeidrannaDeath>
+		<QuoteExpWitnessQueenBugDeath>1</QuoteExpWitnessQueenBugDeath>
+		<QuoteExpWitnessDeidrannaDeath>1</QuoteExpWitnessDeidrannaDeath>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>74</uiIndex>
@@ -2270,10 +2270,10 @@
 		<Name>Wildcat</Name>
 		<QuoteExpHeadShotOnly>1</QuoteExpHeadShotOnly>
 		<QuoteExpTeamSpecific>0</QuoteExpTeamSpecific>
-		<QuoteExpGenderCode>1</QuoteExpGenderCode>
+		<QuoteExpGenderCode>0</QuoteExpGenderCode>
 		<QuoteExpGotGunOrUsedGun>62</QuoteExpGotGunOrUsedGun>
 		<QuoteExpPassingDislike>4</QuoteExpPassingDislike>
-		<QuoteExpWitnessQueenBugDeath>0</QuoteExpWitnessQueenBugDeath>
+		<QuoteExpWitnessQueenBugDeath>1</QuoteExpWitnessQueenBugDeath>
 		<QuoteExpWitnessDeidrannaDeath>1</QuoteExpWitnessDeidrannaDeath>
 	</PROFILE>
 	<PROFILE>
@@ -2282,7 +2282,7 @@
 		<QuoteExpHeadShotOnly>1</QuoteExpHeadShotOnly>
 		<QuoteExpTeamSpecific>0</QuoteExpTeamSpecific>
 		<QuoteExpGenderCode>1</QuoteExpGenderCode>
-		<QuoteExpGotGunOrUsedGun>62</QuoteExpGotGunOrUsedGun>
+		<QuoteExpGotGunOrUsedGun>61</QuoteExpGotGunOrUsedGun>
 		<QuoteExpPassingDislike>4</QuoteExpPassingDislike>
 		<QuoteExpWitnessQueenBugDeath>0</QuoteExpWitnessQueenBugDeath>
 		<QuoteExpWitnessDeidrannaDeath>1</QuoteExpWitnessDeidrannaDeath>
@@ -2290,13 +2290,13 @@
 	<PROFILE>
 		<uiIndex>208</uiIndex>
 		<Name>Arsenal</Name>
-		<QuoteExpHeadShotOnly>0</QuoteExpHeadShotOnly>
+		<QuoteExpHeadShotOnly>1</QuoteExpHeadShotOnly>
 		<QuoteExpTeamSpecific>0</QuoteExpTeamSpecific>
-		<QuoteExpGenderCode>0</QuoteExpGenderCode>
-		<QuoteExpGotGunOrUsedGun>0</QuoteExpGotGunOrUsedGun>
+		<QuoteExpGenderCode>2</QuoteExpGenderCode>
+		<QuoteExpGotGunOrUsedGun>61</QuoteExpGotGunOrUsedGun>
 		<QuoteExpPassingDislike>1</QuoteExpPassingDislike>
-		<QuoteExpWitnessQueenBugDeath>0</QuoteExpWitnessQueenBugDeath>
-		<QuoteExpWitnessDeidrannaDeath>0</QuoteExpWitnessDeidrannaDeath>
+		<QuoteExpWitnessQueenBugDeath>1</QuoteExpWitnessQueenBugDeath>
+		<QuoteExpWitnessDeidrannaDeath>1</QuoteExpWitnessDeidrannaDeath>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>209</uiIndex>
