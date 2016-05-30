@@ -5455,8 +5455,10 @@
 		<szItemDesc>This steel helmet provides protection from small firearms, shrapnel and other projectiles. It has a padded leather and nylon suspension, with an adjustable chin strap.</szItemDesc>
 		<szBRName>Steel Helmet</szBRName>
 		<szBRDesc>Comfortable and extremely practical. This steel helmet provides protection from small firearms, shrapnel and other projectiles. It has a padded leather and nylon suspension, with an adjustable chin strap.</szBRDesc>
-		<usItemClass>2048</usItemClass>
+		<usItemClass>2048</usItemClass>	
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AvailableAttachmentPoint>4503599627370496</AvailableAttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubClassIndex>15</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>61</ubGraphicNum>
@@ -5490,6 +5492,8 @@
 		<szBRDesc>For above average protection, the wise merc always wears the Personal Armor System Ground Troops Helmet. It's made from Kevlar, and has a comfortable suspension system, sweatband and chin strap. It also extends further over the ear and neck than average helmets.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AvailableAttachmentPoint>4503599627370496</AvailableAttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubClassIndex>16</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>63</ubGraphicNum>
@@ -5521,6 +5525,8 @@
 		<szBRDesc>Made from Kevlar, for above average protection, This Personal Armor System Ground Troops Helmet has been treated with Compound 18 to further enhance its defensive purposes.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AvailableAttachmentPoint>4503599627370496</AvailableAttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubClassIndex>17</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>15</ubGraphicNum>
@@ -5551,6 +5557,8 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AvailableAttachmentPoint>4503599627370496</AvailableAttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubClassIndex>18</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>8</ubGraphicNum>
@@ -5577,6 +5585,8 @@
 		<szBRDesc>This helmet is made from a light Spectra composite that is famous for it's superior anti-ballistic qualities. It features an IR-absorbing black finish, cushioning foam and an adjustable harness system with a leather headband and rubber chin strap.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AvailableAttachmentPoint>4503599627370496</AvailableAttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubClassIndex>19</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>62</ubGraphicNum>
@@ -5609,6 +5619,8 @@
 		<szBRDesc>Dipped in Compound 18, this light Spectra composite helmet offers the maximum amount of anti-ballistic protection possible. Rumor has it that this type of helmet has made a world of difference for some mercs who actually make it back from the front line.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AvailableAttachmentPoint>4503599627370496</AvailableAttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubClassIndex>20</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>14</ubGraphicNum>
@@ -5639,6 +5651,8 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AvailableAttachmentPoint>4503599627370496</AvailableAttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubClassIndex>21</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>7</ubGraphicNum>
@@ -6534,7 +6548,7 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<HearingRangeBonus>5</HearingRangeBonus>
+		<HearingRangeBonus>3</HearingRangeBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -6582,6 +6596,7 @@
 		<szBRName>Ballistic Combat Goggles</szBRName>
 		<szBRDesc>Favored by U.S. Special Forces groups, these ESS Ballistic goggles are better and tougher than ever. These designs feature vast improvements such as extra-thick polycarbonate lenses which offer maximum protection and filter 100% of UVA/UVB rays.</szBRDesc>
 		<usItemClass>32768</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>2251799813685248</AttachmentPoint>	<!-- Armour Helmet - Face -->
 		<ubGraphicType>5</ubGraphicType>
@@ -6595,12 +6610,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Attachment>1</Attachment>
-		<BR_NewInventory>5</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<NightVisionRangeBonus>-10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>10</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>-20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>0</NightVisionRangeBonus>
+		<DayVisionRangeBonus>0</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>0</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>5</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -8380,6 +8395,7 @@
 		<szBRDesc>As seen on TV!  This is the same hat that "Wild Bill" wore on the GI Joe Saturday morning cartoon.  Ok, so it's not the same hat.  But's its still a nice hat.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
 		<ubClassIndex>42</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>208</ubGraphicNum>
@@ -8610,6 +8626,7 @@
 		<szBRDesc>Standard issue SWAT armour.  Strong, resilient and flexible.  An excellent choice for situations which require light armour and high mobility.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
 		<ubClassIndex>50</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>193</ubGraphicNum>
@@ -8915,6 +8932,7 @@
 		<szBRDesc>Comfortable and extremely practical. This steel helmet provides protection from small firearms, shrapnel and other projectiles. It has a padded leather and nylon suspension, with an adjustable chin strap.  Provides limited camouflage.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
 		<ubClassIndex>54</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>236</ubGraphicNum>
@@ -24710,6 +24728,7 @@
 		<szBRDesc>"BOOM! Headshot!" Who cares? With this helmet you are protected from bullets and you'll still score with the ladies.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
 		<ubClassIndex>55</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>178</ubGraphicNum>
@@ -24933,6 +24952,7 @@
 		<szBRDesc>The finishing touch for your ghillie suit. Also usefull to keep the sun out of your eyes and as mosquito net.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
 		<ubClassIndex>61</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>221</ubGraphicNum>
@@ -25043,6 +25063,7 @@
 		<szBRDesc>One of the best helmets money can buy!  Contact us if you want them in blue for that genuine "UN-look".</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
 		<ubClassIndex>64</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>176</ubGraphicNum>
@@ -25152,6 +25173,7 @@
 		<szBRDesc>Catching a bullet high and inside ruins anyone's day. Prevent it with a C-18 treated helmet.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
 		<ubClassIndex>67</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>43</ubGraphicNum>
@@ -25355,6 +25377,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
 		<ubClassIndex>73</ubClassIndex>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>600</ubGraphicNum>
@@ -25455,6 +25478,7 @@
 		<szBRDesc>A treated ballistic helmet, because your head is worth it.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
 		<ubClassIndex>76</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>49</ubGraphicNum>
@@ -25555,6 +25579,7 @@
 		<szBRDesc>Coating with Crepitus goo makes this item the ultimate in protective head gear.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
 		<ubClassIndex>79</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>46</ubGraphicNum>
@@ -25756,6 +25781,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
 		<ubClassIndex>85</ubClassIndex>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>603</ubGraphicNum>
@@ -25852,6 +25878,7 @@
 		<szBRDesc>Keep your brains inside your skull where they belong with this coated helmet.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
 		<ubClassIndex>88</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>52</ubGraphicNum>
@@ -26026,6 +26053,7 @@
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
 		<ubClassIndex>93</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>478</ubGraphicNum>
@@ -34368,6 +34396,7 @@
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>128</ubClassIndex>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>646</ubGraphicNum>
 		<ubWeight>11</ubWeight>
@@ -35631,6 +35660,7 @@
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>163</ubClassIndex>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>681</ubGraphicNum>
 		<ubWeight>9</ubWeight>
@@ -60275,7 +60305,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>683</ubClassIndex>
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
-        <AvailableAttachmentPoint>64</AvailableAttachmentPoint>		<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>		<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>281474976710656</AvailableAttachmentPoint>	<!-- Scopes - No.32 -->
@@ -60295,7 +60325,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<DefaultAttachment>1181</DefaultAttachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>0</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
@@ -71458,7 +71487,7 @@
 		<szBRName>Sun Glasses</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>32768</usItemClass>
-		<nasAttachmentClass>8</nasAttachmentClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>2251799813685248</AttachmentPoint>	<!-- Armour Helmet - Face -->
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>581</ubGraphicNum>
@@ -71471,11 +71500,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Attachment>1</Attachment>
-		<SciFi>1</SciFi>
-		<NightVisionRangeBonus>-20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>-20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>45</BrightLightVisionRangeBonus>
+		<SciFi>0</SciFi>
+		<NightVisionRangeBonus>-10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>5</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>-10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
+		<StealthBonus>-5</StealthBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -71503,12 +71533,12 @@
 		<Repairable>1</Repairable>
 		<Attachment>1</Attachment>
 		<SciFi>1</SciFi>
-		<BR_NewInventory>5</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<NightVisionRangeBonus>-10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>10</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>-20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>-5</NightVisionRangeBonus>
+		<DayVisionRangeBonus>0</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>-5</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -71521,6 +71551,7 @@
 		<szItemDesc>Any day trip would neither be complete nor rad enough without these neon bodacious tri-tone sunglasses!</szItemDesc>
 		<szBRName>Rad Shades</szBRName>
 		<szBRDesc>NOT FOR SAIL. SALG. SALE.</szBRDesc>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>2251799813685248</AttachmentPoint>	<!-- Armour Helmet - Face -->
 		<usItemClass>32768</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -71533,12 +71564,18 @@
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<Attachment>1</Attachment>
 		<SciFi>1</SciFi>
 		<UrbanCamoBonus>25</UrbanCamoBonus>
-		<NightVisionRangeBonus>-20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>-20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>45</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>-10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>5</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>-10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
+		<CamoBonus>-10</CamoBonus>
+		<UrbanCamoBonus>-10</UrbanCamoBonus>
+		<DesertCamoBonus>-10</DesertCamoBonus>
+		<SnowCamoBonus>-10</SnowCamoBonus>
+		<StealthBonus>-10</StealthBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -71566,7 +71603,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<CamoBonus>10</CamoBonus>
+		<StealthBonus>5</StealthBonus>
 		<UrbanCamoBonus>10</UrbanCamoBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -71585,8 +71622,8 @@
 		<ubGraphicNum>829</ubGraphicNum>
 		<ubWeight>7</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>17</ItemSize>
-		<usPrice>800</usPrice>
+		<ItemSize>22</ItemSize>
+		<usPrice>1000</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
@@ -71594,9 +71631,9 @@
 		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Electronic>1</Electronic>
-		<BR_NewInventory>2</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<HearingRangeBonus>3</HearingRangeBonus>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<HearingRangeBonus>4</HearingRangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -71614,8 +71651,8 @@
 		<ubGraphicNum>77</ubGraphicNum>
 		<ubWeight>9</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>20</ItemSize>
-		<usPrice>1000</usPrice>
+		<ItemSize>22</ItemSize>
+		<usPrice>1200</usPrice>
 		<ubCoolness>7</ubCoolness>
 		<bRepairEase>-6</bRepairEase>
 		<Damageable>1</Damageable>
@@ -71624,7 +71661,7 @@
 		<Metal>1</Metal>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<HearingRangeBonus>5</HearingRangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -74876,7 +74913,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szBRName>Camo Cover MK.III Wood</szBRName>
 		<szBRDesc>This helmet camo cover offers nice camouflage in woodland regions.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>4</nasAttachmentClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>308</ubGraphicNum>
@@ -74906,7 +74943,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szBRName>Camo Cover MK.III Desert</szBRName>
 		<szBRDesc>This helmet camo cover offers nice camouflage in desert regions.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>4</nasAttachmentClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>309</ubGraphicNum>
@@ -74936,7 +74973,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szBRName>Camo Cover MK.III Urban</szBRName>
 		<szBRDesc>This helmet camo cover offers nice camouflage in urban regions.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>4</nasAttachmentClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>310</ubGraphicNum>
@@ -74966,7 +75003,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szBRName>Camo Cover MK.III Night</szBRName>
 		<szBRDesc>This helmet camo cover conceals helmets for night operations.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>4</nasAttachmentClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>311</ubGraphicNum>
@@ -79069,12 +79106,13 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
-		<APBonus>5</APBonus>
-		<CamoBonus>10</CamoBonus>
+		<APBonus>4</APBonus>
 		<HearingRangeBonus>3</HearingRangeBonus>
-		<VisionRangeBonus>9</VisionRangeBonus>
-		<NightVisionRangeBonus>4</NightVisionRangeBonus>
-		<DayVisionRangeBonus>6</DayVisionRangeBonus>
+		<DayVisionRangeBonus>0</DayVisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>0</BrightLightVisionRangeBonus>
+		<StealthBonus>5</StealthBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -79270,9 +79308,8 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<SciFi>1</SciFi>
-		<APBonus>2</APBonus>
+		<APBonus>4</APBonus>
 		<StealthBonus>7</StealthBonus>
-		<VisionRangeBonus>10</VisionRangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
