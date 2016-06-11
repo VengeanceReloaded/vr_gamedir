@@ -1177,9 +1177,9 @@
 		<uiIndex>26</uiIndex>
 		<szItemName>AKM</szItemName>
 		<szLongItemName>AKM</szLongItemName>
-		<szItemDesc>The AKM is the newest version of the infamous AK-47. This line of rifles has been used in Vietnam, Afghanistan, and many passenger jets. This is a rifle that live longer than the user, if it survives the drop, it survives mostly anything.</szItemDesc>
+		<szItemDesc>The AKM is the newer improved version of the original AK-47. This line of rifles has been used in Vietnam, Afghanistan, and many passenger jets. This rifle has been known to outlive it's user, if it survives the drop, it'll mostly survive anything.</szItemDesc>
 		<szBRName>AKM</szBRName>
-		<szBRDesc>As the modernized version of the AK-47 automatic rifle, it was one of the best and most widely distributed Soviet weapons. Designed for mass production, you'll find one of these automatic rifles slung over every frugal mercenary's shoulder.</szBRDesc>
+		<szBRDesc>As the modernized version of the AK-47 automatic rifle, it is one of the best and most widely distributed Soviet weapons. Designed for mass production, you'll find one of these automatic rifles slung over many frugal mercenary's shoulder.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>26</ubClassIndex>
@@ -59463,9 +59463,9 @@
 		<uiIndex>2136</uiIndex>
 		<szItemName>M3A1</szItemName>
 		<szLongItemName>M3A1</szLongItemName>
-		<szItemDesc>Designed to be cheap and reasonably controllable, the M3A1 drew from lessons learned in during WWII, and did see some use towards the end of that conflict.  The magazine well is shaped for use as a grip.</szItemDesc>
+		<szItemDesc>The 'Grease Gun' was a cheap and reasonably controllable SMG which drew lessons learned in later years of WWII. The magazine well is shaped for use as a grip.</szItemDesc>
 		<szBRName>M3A1</szBRName>
-		<szBRDesc>Designed to be cheap and reasonably controllable, the M3A1 drew from lessons learned in during WWII, and did see some use towards the end of that conflict.  The magazine well is shaped for use as a grip.</szBRDesc>
+		<szBRDesc>Cheap and reasonably controllable, the M3A1 drew from lessons learned during WWII, and did see some use towards the end of the conflict favoured by tank crews or those in tight spaces.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>2136</ubClassIndex>
@@ -71614,7 +71614,7 @@
 		<uiIndex>2707</uiIndex>
 		<szItemName>MSA Headset</szItemName>
 		<szLongItemName>MSA Headset High Threat</szLongItemName>
-		<szItemDesc>The MSA Headset are hearing protectors that reproduce a natural and realistic sound. You should have perfect locational hearing without any disturbing noise. Exactly the right device to prevent hearing defects from fire fights.</szItemDesc>
+		<szItemDesc>Protect your hearing while reproducing your teammates transmissions with realistic, natural sound. Pinpoints sounds you seek while reducing excessive noise. Exactly the right device to prevent hearing loss during fire fights.</szItemDesc>
 		<szBRName>MSA Headset High Threat</szBRName>
 		<szBRDesc>The MSA Headset allows you to hear faint whispers, but your hearing will be protected from the concussions of weapon discharge. The twin ear enveloping foam earmuffs are snugly and comfortably positioned over your ear with an adjustable spring headband.</szBRDesc>
 		<usItemClass>32768</usItemClass>
@@ -78217,7 +78217,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>2971</uiIndex>
 		<szItemName>Blood Bag</szItemName>
 		<szLongItemName>Blood Bag</szLongItemName>
-		<szItemDesc>A Blood Bag is a medical item that is used to transfer blood from one person to another. It is used to fully restore a person's Blood in the form of a blood transfusion. Universal blood: type 0- Still cheaper than HP printer Ink.</szItemDesc>
+		<szItemDesc>This plastic bag may well save your life. It is used to restore a person's blood during a blood transfusion. Blood type 0- is universal in emergencies and still cheaper than HP printer ink.</szItemDesc>
 		<szBRName>Blood Bag</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -78237,7 +78237,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>2972</uiIndex>
 		<szItemName>Transfusion Bag</szItemName>
 		<szLongItemName>Transfusion Bag</szLongItemName>
-		<szItemDesc>Blood transfusion is generally the process of receiving blood products into one's circulation intravenously. Transfusions are used for various medical conditions to replace lost components of the blood. Give blood, save a life. Universal blood: type 0-</szItemDesc>
+		<szItemDesc>You'll need this bag to conduct a blood transfusion by intravenously inserting blood products into your patient's circulation. Used for various medical conditions, they replace lost components of the blood. Give blood, save a life. Universal blood: type 0-</szItemDesc>
 		<szBRName>Blood Transfusion Bag</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
