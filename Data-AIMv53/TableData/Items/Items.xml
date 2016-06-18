@@ -57448,6 +57448,9 @@
 		<szBRDesc>Want to bring back the 80's Miami Vice style? Grab one of the guns Sonny Crockett used. The Bren Ten is a mean little package in the 10mm Auto caliber.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2079</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>	<!-- Laser - Small -->
+		<AvailableAttachmentPoint>256</AvailableAttachmentPoint>	<!-- Muzzle - Pistol Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>510</ubGraphicNum>
