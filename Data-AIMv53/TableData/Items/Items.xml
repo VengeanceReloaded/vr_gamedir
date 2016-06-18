@@ -10204,7 +10204,7 @@
 		<uiIndex>345</uiIndex>
 		<szItemName>Uzi</szItemName>
 		<szLongItemName>Uzi</szLongItemName>
-		<szItemDesc>The most well-known SMG in the world, and not without good reason. This 9mm submachin gun is still in use by the secret service and special units around the world.</szItemDesc>
+		<szItemDesc>The most well-known SMG in the world, and not without good reason. This 9mm submachine gun is still in use by the secret service and special units around the world not to mention the odd Hollywood cyborg.</szItemDesc>
 		<szBRName>Uzi</szBRName>
 		<szBRDesc>Since its introduction in 1948, the Uzi has supplanted the Thompson as the household word in SMG's. This 9mm submachin gun is still in use by the secret service and special units around the world.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -22116,9 +22116,9 @@
 		<uiIndex>733</uiIndex>
 		<szItemName>SV-98</szItemName>
 		<szLongItemName>SV-98</szLongItemName>
-		<szItemDesc>A new Russian military sniper rifle intended for elite units. It has an integral bipod. Maintenance on the barrel is important on this one!</szItemDesc>
+		<szItemDesc>Based on the backbone of a sporting rifle this Russian military offering claims trophies of a different kind. It has an integral bipod. Maintenance on the barrel is important on this one!</szItemDesc>
 		<szBRName>SV-98</szBRName>
-		<szBRDesc>We were able to get a few of these new Russian sniper rifles. Please state if you want a wooden or fiberglass stock. The Bipod is integral.</szBRDesc>
+		<szBRDesc>We were able to get a few of these Russian sniper rifles for competition use. Please state if you want a wooden or fiberglass stock. The Bipod is integral.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>733</ubClassIndex>
@@ -22274,7 +22274,7 @@
 		<szLongItemName>Thompson M1928</szLongItemName>
 		<szItemDesc>Venerated by the same mobsters it ventilated, the 1928A1 is by no means a museum piece, having roared its way out of the roaring twenties and beyond.</szItemDesc>
 		<szBRName>Thompson M1928</szBRName>
-		<szBRDesc>Employed by gangsters and G-Men alike, the Tommy gun's status as an antique shouldn't deter modern users from making use of its firepower.</szBRDesc>
+		<szBRDesc>Employed by gangsters and G-Men alike, the Tommy gun's status as an antique shouldn't deter modern users from making use of it's firepower.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>737</ubClassIndex>
@@ -22697,9 +22697,9 @@
 		<uiIndex>748</uiIndex>
 		<szItemName>OICW</szItemName>
 		<szLongItemName>XM-29 OICW</szLongItemName>
-		<szItemDesc>The XM-29 is part 20mm magazine fed grenade launcher, part G36 5.56mm assault rifle, and all kinds of whoop-ass.</szItemDesc>
+		<szItemDesc>The XM-29 is part 20mm magazine-fed grenade launcher, part G36 5.56mm assault rifle, and all kinds of whoop-ass.</szItemDesc>
 		<szBRName>XM-29 OICW</szBRName>
-		<szBRDesc>The XM-29 is a combination weapon, part 20mm magazine fed grenade launcher and part 5.56mm assault rifle.  Both parts are assembled into the single one-man portable unit with a built-in target acquisition / fire control system (TA/FCS).</szBRDesc>
+		<szBRDesc>The XM-29 is a combination weapon, part 20mm magazine-fed grenade launcher and part 5.56mm assault rifle.  Both parts are assembled into the single one-man portable unit with a built-in target acquisition / fire control system (TA/FCS).</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>748</ubClassIndex>
@@ -71415,7 +71415,7 @@
 		<uiIndex>2701</uiIndex>
 		<szItemName>S10 Gas Mask</szItemName>
 		<szLongItemName>Avon S10 Gas Mask</szLongItemName>
-		<szItemDesc>This British SAS Gas Mask has special night sight lenses.</szItemDesc>
+		<szItemDesc>This British SAS Gas Mask has special night sight lenses and is likely to spread extra fear among Iranian Arab terrorists.</szItemDesc>
 		<szBRName>Avon S10 Gas Mask</szBRName>
 		<szBRDesc>This British Gas Mask has night vision capable lenses, which, although restricting the field of view, are also quite practical to protect the eyes from bright lights. It can't be combined with sun goggles or night vision goggles.</szBRDesc>
 		<usItemClass>32768</usItemClass>
@@ -71583,11 +71583,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2706</uiIndex>
-		<szItemName>Balaklava</szItemName>
-		<szLongItemName>Balaklava</szLongItemName>
-		<szItemDesc>3 hole balaclava, ideal for those cold days out fishing, hunting or bank robbery. The long length allows it to cover your neck.</szItemDesc>
-		<szBRName>Balaklava</szBRName>
-		<szBRDesc>3 hole balaclava, ideal for those cold days out fishing, hunting or bank robbery. The long length allows it to cover your neck.</szBRDesc>
+		<szItemName>Balaclava</szItemName>
+		<szLongItemName>Balaclava</szLongItemName>
+		<szItemDesc>Keeping fighters warm since the Crimean war. This three hole balaclava's ideal for cold days out fishing, hunting or robbing banks. The long length keeps your neck covered.</szItemDesc>
+		<szBRName>Balaclava</szBRName>
+		<szBRDesc>A three hole balaclava, ideal for those cold days out fishing, hunting or robbing banks. The long length allows it to cover your neck.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>613</ubGraphicNum>
