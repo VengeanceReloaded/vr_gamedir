@@ -494,16 +494,16 @@
   </MERC>
 -->
   <MERC>
-	<uiIndex>40</uiIndex>
-	<Name>Speck</Name>
+  	<uiIndex>40</uiIndex>
+	<Name>Arsenal</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
-	<StartMercsAvailable>0</StartMercsAvailable>
+	<StartMercsAvailable>1</StartMercsAvailable>
 	<NewMercsAvailable>0</NewMercsAvailable>
-	<MercBioID>38</MercBioID>
-	<ProfilId>191</ProfilId>
-	<usMoneyPaid>5000</usMoneyPaid>
-	<usDay>7</usDay>
+	<MercBioID>44</MercBioID>
+	<ProfilId>208</ProfilId>
+	<usMoneyPaid>0</usMoneyPaid>
+	<usDay>0</usDay>
   </MERC>
    <MERC>
 	<uiIndex>41</uiIndex>
@@ -519,14 +519,14 @@
   </MERC>
    <MERC>
 	<uiIndex>42</uiIndex>
-	<Name>Arsenal</Name>
+	<Name>Speck</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
-	<StartMercsAvailable>1</StartMercsAvailable>
+	<StartMercsAvailable>0</StartMercsAvailable>
 	<NewMercsAvailable>0</NewMercsAvailable>
-	<MercBioID>44</MercBioID>
-	<ProfilId>208</ProfilId>
-	<usMoneyPaid>0</usMoneyPaid>
-	<usDay>0</usDay>
+	<MercBioID>38</MercBioID>
+	<ProfilId>191</ProfilId>
+	<usMoneyPaid>5000</usMoneyPaid>
+	<usDay>7</usDay>
   </MERC>
 </MERC_AVAILABLES>
