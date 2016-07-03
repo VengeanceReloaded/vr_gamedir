@@ -47,7 +47,11 @@
 	<AttachmentPoint>
 		<id>512</id>
 		<name>Muzzle - SMG Suppressor</name>
-	</AttachmentPoint>	
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>768</id>
+		<name>Muzzle - Pistol/SMG Suppressor</name>
+	</AttachmentPoint>
 	<AttachmentPoint>
 		<id>1024</id>
 		<name>Muzzle - AR Suppressor</name>
