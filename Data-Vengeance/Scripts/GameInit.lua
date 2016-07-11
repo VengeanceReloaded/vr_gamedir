@@ -516,6 +516,8 @@ function InitNewGame()
 		if( iniMERC_WEBSITE_IMMEDIATELY_AVAILABLE == true ) then
 			AddEmail (MERC_INTRO, MERC_INTRO_LENGTH, Sender.SPECK_FROM_MERC, -1, -1)
 		end
+		
+		SetBobbyRSiteCanBeAccessed(true)
 	end
 		
 	if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
