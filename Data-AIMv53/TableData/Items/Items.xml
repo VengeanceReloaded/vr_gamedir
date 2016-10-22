@@ -59506,9 +59506,9 @@
 		<uiIndex>2137</uiIndex>
 		<szItemName>MT-9</szItemName>
 		<szLongItemName>Taurus MT-9 SMG</szLongItemName>
-		<szItemDesc>Taurus MT-9</szItemDesc>
+		<szItemDesc>This compact weapon of Brazilian police forces is a classic example of globalisation, taking a tried and tested Swiss design and making it for cheaper bucks in a sweatshop in Chile.</szItemDesc>
 		<szBRName>Taurus MT-9</szBRName>
-		<szBRDesc>Taurus MT-9</szBRDesc>
+		<szBRDesc>Get Swiss design at a South American price. If it's good enough for the Brazilian police it should be good enough for you.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>2137</ubClassIndex>
@@ -59602,9 +59602,9 @@
 		<uiIndex>2139</uiIndex>
 		<szItemName>CT-30</szItemName>
 		<szLongItemName>Taurus CT-30</szLongItemName>
-		<szItemDesc>The CT-30 is a carbine of Chilean origin manufactured by the Brazilian company Taurus.  The weapon is based on the SIG-540 platform and is chambered in the.30 Carbine round.</szItemDesc>
+		<szItemDesc>This Chilean carbine is made by Brazilian company Taurus but based on the SIG-540 platform and is chambered in the.30 Carbine round. Just check the magazine for defects before letting loose.</szItemDesc>
 		<szBRName>Taurus CT-30</szBRName>
-		<szBRDesc>The CT-30 is a carbine of Chilean origin manufactured by the Brazilian company Taurus. The weapon is based on the SIG-540 platform and is chambered in the.30 Carbine round.</szBRDesc>
+		<szBRDesc>This Chilean Carbine is manufactured by Brazilian company Taurus. Based on the Swiss SIG-540 platform and chambered in the goold ol' classic .30 round.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2139</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
@@ -59679,9 +59679,9 @@
 		<uiIndex>2140</uiIndex>
 		<szItemName>Type 56</szItemName>
 		<szLongItemName>Type 56</szLongItemName>
-		<szItemDesc>Chinese AK-47.</szItemDesc>
+		<szItemDesc>As if there weren't enough cheap Chinese knock-offs in the world this AK-47 clone proves cheap can be cheerful with both the People's Liberation Army and collectors alike making this a highly respected rifle.</szItemDesc>
 		<szBRName>Type 56</szBRName>
-		<szBRDesc>Chinese AK-47.</szBRDesc>
+		<szBRDesc>Our Chinese copies of the AK-47 still prove popular with revolutionaries and collectors alike. 15 million units sold worldwide shouldn't be sniffed at.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>2140</ubClassIndex>
@@ -67265,7 +67265,7 @@
 		<uiIndex>2515</uiIndex>
 		<szItemName>Jeans</szItemName>
 		<szLongItemName>Jeans</szLongItemName>
-		<szItemDesc>Classic Denim Jeans. If you don't want to walk the countryside naked, but have no better leg protection, try one of these.</szItemDesc>
+		<szItemDesc>Classic Denim Jeans. If you want to avoid walking the countryside naked, but have no better leg protection, try a pair of these.</szItemDesc>
 		<szBRName>Jeans</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2048</usItemClass>
