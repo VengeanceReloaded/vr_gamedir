@@ -412,7 +412,7 @@
 		<uiIndex>6</uiIndex>
 		<szItemName>Barracuda</szItemName>
 		<szLongItemName>Barracuda</szLongItemName>
-		<szItemDesc>The go-to revolver for that extra knockdown effect, this Belgian revolver has found its way into many American police holsters.</szItemDesc>
+		<szItemDesc>The go-to revolver for that extra knockdown effect, this Belgian revolver has found it's way into many American police holsters.</szItemDesc>
 		<szBRName>Barracuda</szBRName>
 		<szBRDesc>The Belgian .357 magnum Barracuda revolver is a powerful choice for both offense and defense. Numerous test trials have shown that both men and women find it easier to handle than most handguns.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -449,7 +449,7 @@
 		<szLongItemName>Desert Eagle .357</szLongItemName>
 		<szItemDesc>This former Israeli pistol that is about as subtle as a hand-held cannon, is now being produced in the good ol' USA. If you require to make your targets dissapear, this gun is the right one for you.</szItemDesc>
 		<szBRName>Desert Eagle .357</szBRName>
-		<szBRDesc>This single-action, power-packed, gas-operated pistol is one hundred per cent U.S. made. Originally produced in Israel, it features a rotating bolt for positive lock-up, an ambidextrous safety, a steel frame, and a nickel or chrome finish.</szBRDesc>
+		<szBRDesc>This single-action, power-packed, gas-operated pistol is one hundred per cent U.S. made. Originally produced in Israel, it features a rotating bolt for positive lock-up, an ambidextrous safety, and steel frame. Please ask if you require a nickel or chrome finish.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>7</ubClassIndex>
@@ -480,9 +480,9 @@
 		<uiIndex>8</uiIndex>
 		<szItemName>M1911A1</szItemName>
 		<szLongItemName>Colt M1911A1</szLongItemName>
-		<szItemDesc>This pistol was designed in 1911, it has proven to be one of the best handguns yet. It was the standard issue US Army handgun from the first world war to the Vietnam war, although it was not standard issue later on, many US soldiers used this handgun in the gulf, Iraq and Afghanistan. Chambering the .45 acp round.</szItemDesc>
+		<szItemDesc>Some classics just never die. Despite being created in 1911 this handgun is as popular as ever. Standard US Army issue from WW1 to the Vietnam war is hell of a run. Civilians, troops and Chow Yun-Fat have chosen to take their prized '45's' to the Gulf, Afghanistan and most metropolitan areas.</szItemDesc>
 		<szBRName>Colt M1911A1</szBRName>
-		<szBRDesc>This American made semi automatic pistol of classic design, is one of the most successful combat pistols ever invented. A proven man-stopper, it creates a wide wound channel that can cause severe nerve trauma.</szBRDesc>
+		<szBRDesc>This American made semi-automatic classic design is one of the most successful combat pistols ever invented. A proven man-stopper, it creates a wide wound channel that can cause severe nerve trauma.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>8</ubClassIndex>
@@ -49483,7 +49483,7 @@
 		<uiIndex>1640</uiIndex>
 		<szItemName>Tripwire Roll</szItemName>
 		<szLongItemName>Tripwire Roll</szLongItemName>
-		<szItemDesc>TRipwire can be deployed directly frm this roll.</szItemDesc>
+		<szItemDesc>Tripwire can be deployed directly from this roll.</szItemDesc>
 		<szBRName>Tripwire Roll</szBRName>
 		<szBRDesc>A roll of tripwire. In case you need to boobytrap your house, your car, and your cat.</szBRDesc>
 		<usItemClass>512</usItemClass>
@@ -49572,7 +49572,7 @@
 		<szLongItemName>SMG Leg Rig</szLongItemName>
 		<szItemDesc>A leg pouch to carry SMG ammunition, as used by SAS teams during hostage rescue operations.</szItemDesc>
 		<szBRName>SMG Leg Rig</szBRName>
-		<szBRDesc>A leg pouch to carry SMG ammunition, as used by SAS teams during hostage rescue operations.</szBRDesc>
+		<szBRDesc>When your vest is already carrying too much gear, buy one of our quality leg pouches for that much needed SMG ammo.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
 		<ubClassIndex>43</ubClassIndex>
@@ -49600,7 +49600,7 @@
 		<szLongItemName>Throwing Knives Leg Rig</szLongItemName>
 		<szItemDesc>Stealthy assassins like their knives. This rig can hold several knives.</szItemDesc>
 		<szBRName>TK Rig</szBRName>
-		<szBRDesc>Stealthy assassins like their knives. This rig can hold several knives.</szBRDesc>
+		<szBRDesc>Multiple silent death can be at your fingertips in an instant with our made in Mexico knife leg rig.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
 		<ubClassIndex>44</ubClassIndex>
@@ -49628,7 +49628,7 @@
 		<szLongItemName>Pistol Magazines Leg Rig</szLongItemName>
 		<szItemDesc>A leg rig with three pouches for pistol magazines.</szItemDesc>
 		<szBRName>Pistol Magazines Leg Rig</szBRName>
-		<szBRDesc>A leg rig with three pouches for pistol magazines.</szBRDesc>
+		<szBRDesc>Our heavy duty leg rig features three pouches for pistol magazines.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
 		<ubClassIndex>45</ubClassIndex>
@@ -49738,7 +49738,7 @@
 		<szLongItemName>3.11 Thigh Rig</szLongItemName>
 		<szItemDesc>The face of the rig features MOLLE attachment straps which can accommodate all of our NAS accessories and pouches providing rapid access to critical gear.</szItemDesc>
 		<szBRName>3.11 Thigh Rig</szBRName>
-		<szBRDesc>A highly useful accessory used by sportsmen, patrol officers, and tactical operators across the country, the 3.11 Thigh Rig is a lightweight, reliable, and completely customizable.</szBRDesc>
+		<szBRDesc>A highly useful accessory used by sportsmen, patrol officers, and tactical operators across the country, the 3.11 Thigh Rig is lightweight, reliable, and completely customizable.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
 		<AvailableAttachmentPoint>1</AvailableAttachmentPoint>
@@ -49767,7 +49767,7 @@
 		<szLongItemName>ETAC Utility Pouch</szLongItemName>
 		<szItemDesc>ETAC Utility Pouches are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
 		<szBRName>ETAC Utility Pouch</szBRName>
-		<szBRDesc>ETAC Utility Pouches are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szBRDesc>
+		<szBRDesc>The new standard in utility storage for the next-gen soldier. Designed to provide maximum durability in any environment, our lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and repels moisture.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>8192</nasAttachmentClass>
@@ -79560,7 +79560,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>3040</uiIndex>
 		<szItemName>Voodoo Doll</szItemName>
 		<szLongItemName>Voodoo Barbie Doll</szLongItemName>
-		<szItemDesc>An old Barbie doll with what looks like used syringe needles pierced all over it. Its empty eye sockets look at you with contempt. Hope you didn't plan on sleeping today.</szItemDesc>
+		<szItemDesc>An old Barbie doll with what looks like used syringe needles pierced all through it. Her empty eye sockets look at you with contempt. Hope you didn't plan on sleeping tonight.</szItemDesc>
 		<szBRName>Voodoo Barbie Doll</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
