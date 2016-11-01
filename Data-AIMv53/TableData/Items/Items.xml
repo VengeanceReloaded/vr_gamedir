@@ -594,9 +594,9 @@
 		<uiIndex>11</uiIndex>
 		<szItemName>Thompson M1A1</szItemName>
 		<szLongItemName>Thompson M1A1</szLongItemName>
-		<szItemDesc>Nicknamed the "Tommy Gun", this weapon became very popular on the streets of prohibition-Chicago and throughout the second world war. Invented in1918 by John T. Thompson, it first entered production as the "M1921" and was available for anyone. It chambers a .45 caliber acp round and fires that at a rate of 700 rpm.</szItemDesc>
+		<szItemDesc>Nicknamed the "Tommy Gun", this weapon became popular on the streets of prohibition-Chicago and throughout the second world war. Invented in 1918 by John T. Thompson, it first entered production as the "M1921" and was available to anyone. It chambers a .45 caliber ACP round and fires that at a rate of 700 RPM.</szItemDesc>
 		<szBRName>Thompson M1A1</szBRName>
-		<szBRDesc>Although heavier than most submachine guns, the 'Tommy Gun' is still favored by Commando and Ranger forces. None have been built since the 1960's, but they are still very common, and have definitely weathered the test of time.</szBRDesc>
+		<szBRDesc>Although heavier than most submachine guns, the 'Tommy Gun' is still favored by Commando and Ranger forces. None have been built since the '60's, but there are still plenty around having weathered the test of time.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>11</ubClassIndex>
@@ -47046,7 +47046,7 @@
 		<uiIndex>1551</uiIndex>
 		<szItemName>Fries</szItemName>
 		<szLongItemName>French Fries</szLongItemName>
-		<szItemDesc>The additives used to preserving fat was early shown to cause birth defects, infertility and cancer.. Or 'Freedom Fries', as some people like to call them.</szItemDesc>
+		<szItemDesc> These 'Freedom Fries', as some people like to call them are riddled with additives used to preserve their high fat content. Unfortunately for you, early tests showed these can cause birth defects, infertility and cancer. Yum.</szItemDesc>
 		<szBRName>Fries</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -47506,9 +47506,9 @@
 		<uiIndex>1570</uiIndex>
 		<szItemName>PET bottle</szItemName>
 		<szLongItemName>PET bottle</szLongItemName>
-		<szItemDesc>1 liter natural mineral water with unique origins from the volcanic highlands. Its advanced filtering methods ensures removal of impurities like chlorine and heavy metals, all tapped into a BPA free bottle. Probably the most friendly item in whole of Arulco.</szItemDesc>
+		<szItemDesc>1 liter of natural mineral water with origins from the volcanic highlands. Their natural and advanced filtering ensures removal of impurities like chlorine and heavy metals, all poured into a BPA free bottle. Probably the most friendly item in all of Arulco.</szItemDesc>
 		<szBRName>PET bottle</szBRName>
-		<szBRDesc>1 liter of healthy Volvic mineral water, in a one-use bottle.</szBRDesc>
+		<szBRDesc>1 liter of healthy volcanic filtered mineral water, in a one-use bottle.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -60107,9 +60107,9 @@
 		<uiIndex>2147</uiIndex>
 		<szItemName>Modelo 71</szItemName>
 		<szLongItemName>Bataan Modelo 71</szLongItemName>
-		<szItemDesc>Ithaca Model 37 copy, manufactured in Argentina.</szItemDesc>
+		<szItemDesc>If imitation is the best compliment, this cheeky Argentinean copy of the Ithaca 37 shotgun ought to have John Browning blushing in his grave.</szItemDesc>
 		<szBRName>Modelo 71</szBRName>
-		<szBRDesc>Ithaca Model 37 copy, manufactured in Argentina.</szBRDesc>
+		<szBRDesc>Get all of the features you expect from an Ithaca 37 while saving yourself 200 bucks and keeping another Argentinian in work.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>2147</ubClassIndex>
