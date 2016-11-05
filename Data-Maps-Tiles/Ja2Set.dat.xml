@@ -795,7 +795,7 @@
 			</Files>
 		</Tileset>
 		<Tileset index="18">
-			<Name>LAWLESS 2 (burnt-c5)</Name>
+			<Name>SAN MONA STRIP</Name>
 			<AmbientID>32</AmbientID>
 			<Files>
 				<file index="6">dirtrock.sti</file>
@@ -815,6 +815,8 @@
 				<file index="69">slant_12.sti</file>
 				<file index="77">basefrn1.sti</file>
 				<file index="80">burnmark.sti</file>
+				<file index="89">Streetlight.sti</file>
+				<file index="91">Streetlight_S.sti</file>
 				<file index="98">furn_mix.sti</file>
 				<file index="100">furnmixs.sti</file>
 				<file index="107">lawless.sti</file>
