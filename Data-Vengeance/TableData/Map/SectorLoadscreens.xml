@@ -404,9 +404,9 @@ INFO: Hight resolution loadscreens must be postfixed in the filesystem with _800
 		<szLocation>C6</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayTown1</szDay>
+		<szDay>Loadscreens\LS_Hotel</szDay>
 		<szNight>Loadscreens\LS_NightTown1</szNight>
-		<szDayAlt>Loadscreens\LS_DayTown2</szDayAlt>
+		<szDayAlt>Loadscreens\LS_Hotel</szDayAlt>
 		<szNightAlt>Loadscreens\LS_NightTown2</szNightAlt>
 	</SECTOR>
 	<SECTOR>
