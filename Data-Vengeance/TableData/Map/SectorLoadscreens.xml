@@ -1332,7 +1332,7 @@ INFO: Hight resolution loadscreens must be postfixed in the filesystem with _800
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Oil_barrels</szDay>
 		<szNight>Loadscreens\LS_NightTropical</szNight>
-		<szDayAlt></szDayAlt>
+		<szDayAlt>Loadscreens\LS_Beach_trash</szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -1803,7 +1803,7 @@ INFO: Hight resolution loadscreens must be postfixed in the filesystem with _800
 		<szLocation>L1</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayTropical</szDay>
+		<szDay>Loadscreens\LS_Beach_trash</szDay>
 		<szNight>Loadscreens\LS_NightTropical</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
