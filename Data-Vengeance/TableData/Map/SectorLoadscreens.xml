@@ -806,9 +806,9 @@ INFO: Hight resolution loadscreens must be postfixed in the filesystem with _800
 		<szLocation>E14</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Arulco_troop</szDay>
+		<szDay>Loadscreens\LS_Bol_river</szDay>
 		<szNight>Loadscreens\LS_Swampedge_dusk</szNight>
-		<szDayAlt></szDayAlt>
+		<szDayAlt>LS_Arulco_troop</szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -1299,9 +1299,9 @@ INFO: Hight resolution loadscreens must be postfixed in the filesystem with _800
 		<szLocation>H15</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Arulco_troop</szDay>
+		<szDay>Loadscreens\LS_Bol_river</szDay>
 		<szNight>Loadscreens\LS_Night_stream</szNight>
-		<szDayAlt></szDayAlt>
+		<szDayAlt>Arulco_troop</szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -1935,7 +1935,7 @@ INFO: Hight resolution loadscreens must be postfixed in the filesystem with _800
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Rainforest</szDay>
 		<szNight>Loadscreens\LS_NightForest</szNight>
-		<szDayAlt></szDayAlt>
+		<szDayAlt>LS_Bol_river</szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -2094,9 +2094,9 @@ INFO: Hight resolution loadscreens must be postfixed in the filesystem with _800
 		<szLocation>M14</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Arulco_troopt</szDay>
+		<szDay>Loadscreens\LS_Arulco_troop</szDay>
 		<szNight>Loadscreens\LS_Night_stream</szNight>
-		<szDayAlt></szDayAlt>
+		<szDayAlt>LS_Bol_river</szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
