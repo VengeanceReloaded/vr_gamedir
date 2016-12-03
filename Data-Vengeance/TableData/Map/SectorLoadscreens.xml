@@ -1211,7 +1211,7 @@ INFO: Hight resolution loadscreens must be postfixed in the filesystem with _800
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_HillsideRoad</szDay>
 		<szNight>Loadscreens\LS_NightWild</szNight>
-		<szDayAlt></szDayAlt>
+		<szDayAlt>LS_Valley_road</szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
