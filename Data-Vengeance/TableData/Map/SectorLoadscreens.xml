@@ -1702,9 +1702,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>K7</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayDesert</szDay>
+		<szDay>Loadscreens\LS_Desert_mounds</szDay>
 		<szNight>Loadscreens\LS_NightDesert</szNight>
-		<szDayAlt></szDayAlt>
+		<szDayAlt>Loadscreens\LS_DayDesert</szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -1712,9 +1712,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>K8</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayDesert</szDay>
+		<szDay>Loadscreens\LS_Desert_mounds</szDay>
 		<szNight>Loadscreens\LS_NightDesert</szNight>
-		<szDayAlt></szDayAlt>
+		<szDayAlt>Loadscreens\LS_DayDesert</szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
