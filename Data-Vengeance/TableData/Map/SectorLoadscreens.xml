@@ -1963,9 +1963,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<uiIndex>193</uiIndex>
 		<szLocation>M1</szLocation>
 		<RandomAltSector>0</RandomAltSector>
-		<szImageFormat></szImageFormat>
-		<szDay></szDay>
-		<szNight></szNight>
+		<szImageFormat>STI</szImageFormat>
+		<szDay>Loadscreens\LS_Bridge_to_Balime</szDay>
+		<szNight>Loadscreens\LS_3_mercs</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
