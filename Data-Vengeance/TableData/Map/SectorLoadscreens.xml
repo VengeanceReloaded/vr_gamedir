@@ -193,7 +193,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>B1</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayTropical</szDay>
+		<szDay>Loadscreens\LS_Burnoff</szDay>
 		<szNight>Loadscreens\LS_NightOilrig</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>		
@@ -917,9 +917,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>F9</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayTown2</szDay>
+		<szDay>Loadscreens\LS_Class_wrecked</szDay>
 		<szNight>Loadscreens\LS_NightTown2</szNight>
-		<szDayAlt>Loadscreens\LS_DayTown1</szDayAlt>
+		<szDayAlt></szDayAlt>
 		<szNightAlt>Loadscreens\LS_NightTown1</szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -1340,7 +1340,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>I3</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayTropical</szDay>
+		<szDay>Loadscreens\LS_Burnoff</szDay>
 		<szNight>Loadscreens\LS_NightOilrig</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -1903,7 +1903,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>L11</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayBalime</szDay>
+		<szDay>Loadscreens\LS_Villa_bay</szDay>
 		<szNight>Loadscreens\LS_NightBalime</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -2054,7 +2054,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>M10</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayTropical</szDay>
+		<szDay>Loadscreens\LS_Burnoff</szDay>
 		<szNight>Loadscreens\LS_NightOilrig</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
