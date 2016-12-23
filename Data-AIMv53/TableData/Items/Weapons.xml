@@ -9162,6 +9162,8 @@
 		<ubCalibre>5</ubCalibre>
 		<ubReadyTime>17</ubReadyTime>
 		<ubShotsPer4Turns>9.83</ubShotsPer4Turns>
+		<ubShotsPerBurst>0</ubShotsPerBurst>
+		<ubBurstPenalty>10</ubBurstPenalty>
 		<ubBulletSpeed>22</ubBulletSpeed>
 		<ubImpact>40</ubImpact>
 		<ubDeadliness>29</ubDeadliness>
@@ -9172,7 +9174,7 @@
 		<ubAttackVolume>85</ubAttackVolume>
 		<ubHitVolume>8</ubHitVolume>
 		<sSound>434</sSound>
-		<sBurstSound>125</sBurstSound>
+		<sBurstSound>142</sBurstSound>
 		<sReloadSound>565</sReloadSound>
 		<sLocknLoadSound>558</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
