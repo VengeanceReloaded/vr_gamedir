@@ -58353,8 +58353,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<SciFi>1</SciFi>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
 		<ToHitBonus>20</ToHitBonus>
 		<AimBonus>5</AimBonus>
@@ -58466,8 +58466,8 @@
 		<BigGunList>1</BigGunList>
 		<DefaultAttachment>2881</DefaultAttachment>
 		<DefaultAttachment>2850</DefaultAttachment>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />

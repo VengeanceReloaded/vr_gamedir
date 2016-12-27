@@ -8,6 +8,7 @@
 	<INVENTORY>
 		<uiIndex>1</uiIndex>
 		<sItemIndex>41</sItemIndex>
+		<ubOptimalNumber>1</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>2</uiIndex>
@@ -520,5 +521,10 @@
 	<INVENTORY>
 		<uiIndex>112</uiIndex>
 		<sItemIndex>2458</sItemIndex>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>113</uiIndex>
+		<sItemIndex>2094</sItemIndex>
+		<ubOptimalNumber>1</ubOptimalNumber>
 	</INVENTORY>
 </INVENTORYLIST>
