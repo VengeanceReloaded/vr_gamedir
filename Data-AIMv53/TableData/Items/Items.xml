@@ -445,7 +445,7 @@
 		<szLongItemName>Desert Eagle .357</szLongItemName>
 		<szItemDesc>This former Israeli pistol that is about as subtle as a hand-held cannon, is now being produced in the good ol' USA. If you require to make your targets dissapear, this gun is the right one for you.</szItemDesc>
 		<szBRName>Desert Eagle .357</szBRName>
-		<szBRDesc>This single-action, power-packed, gas-operated pistol is one hundred per cent U.S. made. Originally produced in Israel, it features a rotating bolt for positive lock-up, an ambidextrous safety, and steel frame. Please ask if you require a nickel or chrome finish.</szBRDesc>
+		<szBRDesc>This single-action, power-packed, gas-operated pistol is one hundred percent U.S. made. Originally produced in Israel, it features a rotating bolt for positive lock-up, an ambidextrous safety, and steel frame. Please ask if you require a nickel or chrome finish.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>7</ubClassIndex>
@@ -3336,7 +3336,7 @@
 		<uiIndex>104</uiIndex>
 		<szItemName>4.7mm Mag 45 AP</szItemName>
 		<szLongItemName>4.7x33mm Mag, 45 AP</szLongItemName>
-		<szItemDesc>This 45-round magazine contains 4.7mm caseless ammunition. This round possesses wound and range capabilites that are comparable to the 5.56mm NATO round, but is 40 per cent lighter.</szItemDesc>
+		<szItemDesc>This 45-round magazine contains 4.7mm caseless ammunition. This round possesses wound and range capabilites that are comparable to the 5.56mm NATO round, but is 40 percent lighter.</szItemDesc>
 		<szBRName>4.7x33mm Mag 45 AP</szBRName>
 		<szBRDesc>Recovered crates from a classified German warehouse have supplied us with these 45-round magazines. They come complete with a full load of the legandary 4.7mm caseless ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
@@ -3386,7 +3386,7 @@
 		<szLongItemName>5.7x28mm Mag, 50 HP</szLongItemName>
 		<szItemDesc>These 50 rounds of 5.7mm hollow point ammunition have enhanced injury inflicting capabilities over the basic 5.7 and have retained most of its armor piercing capabilities.</szItemDesc>
 		<szBRName>5.7x28mm Mag 50 HP</szBRName>
-		<szBRDesc>Get the job done right the first time. You're kill-rate will be the best around if you use this 50-round magazine of 5.7mm Hollow Point ammunition. Your victim's chance at survival: roughly zero per cent, give or take a few points.</szBRDesc>
+		<szBRDesc>Get the job done right the first time. You're kill-rate will be the best around if you use this 50-round magazine of 5.7mm Hollow Point ammunition. Your victim's chance at survival: roughly zero percent, give or take a few points.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>358</ubClassIndex>
@@ -5910,7 +5910,7 @@
 		<uiIndex>194</uiIndex>
 		<szItemName>T-Shirt</szItemName>
 		<szLongItemName>Arulco T-Shirt</szLongItemName>
-		<szItemDesc>No tourist could ever resist one of these trendy 'I love Arulco' t-shirts. Made from 100 per cent pre-shrunk cotton, it was a popular buy before the days of Deidranna.</szItemDesc>
+		<szItemDesc>No tourist could ever resist one of these trendy 'I love Arulco' t-shirts. Made from 100 percent pre-shrunk cotton, it was a popular buy before the days of Deidranna.</szItemDesc>
 		<szBRName>Arulco T-Shirt</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -6501,9 +6501,9 @@
 		<uiIndex>212</uiIndex>
 		<szItemName>Combat Goggles</szItemName>
 		<szLongItemName>Ballistic Combat Goggles</szLongItemName>
-		<szItemDesc>A favorite of U.S. Special Forces, ESS Ballistic combat goggles are better than ever. Following a series of vast improvements, The extra-thick 2.8mm polycarbonate lenses offer maximum impact protection and 100% UVA/UVB filtration.</szItemDesc>
+		<szItemDesc>A favorite of U.S. Special Forces these ESS Ballistic combat goggles have a series of vast improvements including extra-thick 2.8mm polycarbonate lenses which offer maximum impact protection and 100 percent UVA/UVB filtration.</szItemDesc>
 		<szBRName>Ballistic Combat Goggles</szBRName>
-		<szBRDesc>Favored by U.S. Special Forces groups, these ESS Ballistic goggles are better and tougher than ever. These designs feature vast improvements such as extra-thick polycarbonate lenses which offer maximum protection and filter 100% of UVA/UVB rays.</szBRDesc>
+		<szBRDesc>Favored by U.S. Special Forces groups, these ESS Ballistic goggles are better and tougher than ever. These designs feature vast improvements such as extra-thick polycarbonate lenses offering maximum protection and filtering 100 percent of UVA/UVB rays.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -7576,7 +7576,7 @@
 		<uiIndex>256</uiIndex>
 		<szItemName>Beer</szItemName>
 		<szLongItemName>Beer</szLongItemName>
-		<szItemDesc>At 6.9 per cent alcohol, who the hell cares where this stuff came from? This ice beer will even put a Russian under the table.</szItemDesc>
+		<szItemDesc>At 6.9 percent alcohol, who the hell cares where this stuff came from? This ice beer will even put a Russian under the table.</szItemDesc>
 		<szBRName>Beer</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -8627,7 +8627,7 @@
 		<uiIndex>296</uiIndex>
 		<szItemName>T-Shirt</szItemName>
 		<szLongItemName>T-Shirt</szLongItemName>
-		<szItemDesc>Legendary Bear's Pit t-shirt, made from 100% high quality cotton and ballistic kevlar.</szItemDesc>
+		<szItemDesc>Legendary Bear's Pit t-shirt, made from 100 percent high quality cotton and ballistic kevlar.</szItemDesc>
 		<szBRName>T-Shirt</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -12441,7 +12441,7 @@
 		<uiIndex>433</uiIndex>
 		<szItemName>5.56x45mm Mag 30 C</szItemName>
 		<szLongItemName>5.56x45mm Mag, 30 Cold</szLongItemName>
-		<szItemDesc>Pump em' full of holes without waking up the countryside. Cold loaded ammo is 40% quieter than standard ball rounds.</szItemDesc>
+		<szItemDesc>Pump em' full of holes without waking up the countryside. Cold loaded ammo is 40 percent quieter than standard ball rounds.</szItemDesc>
 		<szBRName>5.56x45mm Mag 30 Cold</szBRName>
 		<szBRDesc>This 30-round magazine of ammunition will leave your enemies as cold as the rounds themselves, and is as silent as an Artic wind.</szBRDesc>
 		<usItemClass>1024</usItemClass>
@@ -16880,7 +16880,7 @@
 		<szLongItemName>AEK-971</szLongItemName>
 		<szItemDesc>A relatively recent Russian manufactured AK variant.  This model fires 5.45mm rounds.</szItemDesc>
 		<szBRName>AEK-971</szBRName>
-		<szBRDesc>Reckoned to be 15-20% more accurate than the AK-74 by some shooters. Discerning mercenaries should give this assault rifle a try.  This model fires 5.45mm rounds.</szBRDesc>
+		<szBRDesc>Reckoned to be 15-20 percent more accurate than the AK-74 by some shooters. Discerning mercenaries should give this assault rifle a try.  This model fires 5.45mm rounds.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>602</ubClassIndex>
@@ -16917,9 +16917,9 @@
 		<uiIndex>603</uiIndex>
 		<szItemName>AEK-973</szItemName>
 		<szLongItemName>AEK-973</szLongItemName>
-		<szItemDesc>A relatively recent Russian manufactured AK variant.  This model fires 7.62mm WP rounds.</szItemDesc>
+		<szItemDesc>A relatively recent Russian manufactured AK variant that has seen limited action in places like Chechnya.  This model fires 7.62mm WP rounds.</szItemDesc>
 		<szBRName>AEK-973</szBRName>
-		<szBRDesc>Reckoned to be 15-20% more accurate than the AK-74 by some shooters. Give this new assault rifle a try.  This model fires 7.62mm WP rounds.</szBRDesc>
+		<szBRDesc>Using a Balanced Automatics Recoil System, some shooters claim improved accuraccy than the AK-74. Give this new assault rifle a try.  This model fires 7.62mm WP rounds.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>603</ubClassIndex>
@@ -32681,7 +32681,7 @@
 		<uiIndex>1062</uiIndex>
 		<szItemName>5.56x45mm Mag 42 C</szItemName>
 		<szLongItemName>5.56x45mm Mag, 42 Cold</szLongItemName>
-		<szItemDesc>Pump em' full of holes without waking up the countryside. Cold loaded ammo is 40% quieter than standard ball rounds.</szItemDesc>
+		<szItemDesc>Pump em' full of holes without waking up the countryside. Cold loaded ammo is 40 percent quieter than standard ball rounds.</szItemDesc>
 		<szBRName>5.56x45mm Mag 42 Cold</szBRName>
 		<szBRDesc>This 42-round magazine of ammunition will leave your enemies as cold as the rounds themselves, and is as silent as an Artic wind.</szBRDesc>
 		<usItemClass>1024</usItemClass>
@@ -41007,7 +41007,7 @@
 		<uiIndex>1339</uiIndex>
 		<szItemName>5.45x39mm Mag 30 C</szItemName>
 		<szLongItemName>5.45x39mm Mag, 30 Cold</szLongItemName>
-		<szItemDesc>Pump em' full of holes without waking up the countryside. Cold loaded ammo is 40% quieter than standard ball rounds.</szItemDesc>
+		<szItemDesc>Pump em' full of holes without waking up the countryside. Cold loaded ammo is 40 percent quieter than standard ball rounds.</szItemDesc>
 		<szBRName>5.45x39mm Mag 30 Cold</szBRName>
 		<szBRDesc>This 30-round magazine of ammunition will leave your enemies as cold as the rounds themselves, and is as silent as an Artic wind.</szBRDesc>
 		<usItemClass>1024</usItemClass>
@@ -43442,9 +43442,9 @@
 		<uiIndex>1434</uiIndex>
 		<szItemName>5.56x45mm Box C</szItemName>
 		<szLongItemName>5.56x45mm Box, Cold</szLongItemName>
-		<szItemDesc>Pump em' full of holes without waking up the countryside. Cold loaded ammo is 40% quieter than standard ball rounds.</szItemDesc>
+		<szItemDesc>Pump em' full of holes without waking up the countryside. Cold loaded ammo is 40 percent quieter than standard ball rounds.</szItemDesc>
 		<szBRName>5.56x45mm Box Cold</szBRName>
-		<szBRDesc>Pump em' full of holes without waking up the countryside. Cold loaded ammo is 40% quieter than standard ball rounds.</szBRDesc>
+		<szBRDesc>Pump em' full of holes without waking up the countryside. Cold loaded ammo is 40 percent quieter than standard ball rounds.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>264</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -43941,7 +43941,7 @@
 		<szLongItemName>5.7x28mm Box, HP</szLongItemName>
 		<szItemDesc>These rounds of 5.7mm hollow point ammunition have enhanced injury inflicting capabilities over the basic 5.7 and have retained most of its armor piercing capabilities.</szItemDesc>
 		<szBRName>5.7x28mm Box HP</szBRName>
-		<szBRDesc>Get the job done right the first time. You're kill-rate will be the best around if you use this 5.7mm Hollow Point ammunition. Your victim's chance at survival: roughly zero per cent, give or take a few points.</szBRDesc>
+		<szBRDesc>Get the job done right the first time. You're kill-rate will be the best around if you use this 5.7mm Hollow Point ammunition. Your victim's chance at survival: roughly zero percent, give or take a few points.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>361</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -46778,7 +46778,7 @@
 		<uiIndex>1565</uiIndex>
 		<szItemName>Cow meat</szItemName>
 		<szLongItemName>Cow meat</szLongItemName>
-		<szItemDesc>Meat from 100 per cent corn fed cows, packed in poisonous carbon monoxide, it keeps meat fresh and red even if it's spoiled. Be sure not to grill it too much or the chemical reactions inside will create PhIP, a carcinogen with potent estrogen effects. Or just it eat it raw.</szItemDesc>
+		<szItemDesc>Meat from 100 percent corn fed cows, packed in poisonous carbon monoxide, it keeps meat fresh and red even if it's spoiled. Be sure not to grill it too much or the chemical reactions inside will create PhIP, a carcinogen with potent estrogen effects. Or just it eat it raw.</szItemDesc>
 		<szBRName>Cow meat</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -57574,9 +57574,9 @@
 		<uiIndex>2103</uiIndex>
 		<szItemName>MP40 folded</szItemName>
 		<szLongItemName>Erma MP40 folded</szLongItemName>
-		<szItemDesc>Due to relatively low rate of fire this gun is easily controlable in full auto. Though the selection of attachments is rather limited, the MP40 is still a fine gun.</szItemDesc>
+		<szItemDesc>Due to relatively low rate of fire this gun is easily controllable in full auto. Though the selection of attachments is rather limited, the MP40 is still a fine gun.</szItemDesc>
 		<szBRName>Erma MP40</szBRName>
-		<szBRDesc>Classic WW2 SMG. Due to relatively low rate of fire this gun is easily controlable in full auto.</szBRDesc>
+		<szBRDesc>The Classic WWII SMG from the Nazis has a relatively low rate of fire making this gun easily controllable in full auto.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2103</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
@@ -58607,9 +58607,9 @@
 		<uiIndex>2132</uiIndex>
 		<szItemName>MP40</szItemName>
 		<szLongItemName>Erma MP40</szLongItemName>
-		<szItemDesc>Due to relatively low rate of fire this gun is easily controlable in full auto. Though the selection of attachments is rather limited, the MP40 is still a fine gun.</szItemDesc>
+		<szItemDesc>Due to relatively low rate of fire this gun is easily controllable in full auto. Though the selection of attachments is rather limited, the MP40 is still a fine gun.</szItemDesc>
 		<szBRName>Erma MP40</szBRName>
-		<szBRDesc>Classic WW2 SMG. Due to relatively low rate of fire this gun is easily controlable in full auto.</szBRDesc>
+		<szBRDesc>The Classic WWII SMG from the Nazis has a relatively low rate of fire making this gun easily controllable in full auto.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2103</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
@@ -61437,7 +61437,7 @@
 		<szLongItemName>.454 Box</szLongItemName>
 		<szItemDesc>.454 Casull is a round developed for some truly large revolvers.</szItemDesc>
 		<szBRName>.454 Box</szBRName>
-		<szBRDesc>.454 Casull is a round developed for some truly large revolvers. Save 10 per cent on buying this box with 60 rounds.</szBRDesc>
+		<szBRDesc>.454 Casull is a round developed for some truly large revolvers. Save 10 percent on buying this box with 60 rounds.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>599</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -61463,7 +61463,7 @@
 		<szLongItemName>.454 Box, AP</szLongItemName>
 		<szItemDesc>.454 Casull Armor Piercers meet any need for self-defense ammo.</szItemDesc>
 		<szBRName>.454 Box AP</szBRName>
-		<szBRDesc>.454 Casull Armor Piercers meet any need for self-defense ammo. Save 10 per cent on buying this box with 60 rounds.</szBRDesc>
+		<szBRDesc>.454 Casull Armor Piercers meet any need for self-defense ammo. Save 10 percent on buying this box with 60 rounds.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>598</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -61488,7 +61488,7 @@
 		<szLongItemName>.454 Box, HP</szLongItemName>
 		<szItemDesc>.454 Casull Hollow Point ammunition, if you use your revolver for hunting.</szItemDesc>
 		<szBRName>.454 Box HP</szBRName>
-		<szBRDesc>.454 Casull Hollow Point ammunition, if you use your revolver for hunting. Save 10 per cent on buying this box with 60 rounds.</szBRDesc>
+		<szBRDesc>.454 Casull Hollow Point ammunition, if you use your revolver for hunting. Save 10 percent on buying this box with 60 rounds.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>597</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -70671,7 +70671,7 @@
 		<szLongItemName>XM50 Gas Mask</szLongItemName>
 		<szItemDesc>An advanced gas mask for day time missions.</szItemDesc>
 		<szBRName>XM50 Gas Mask</szBRName>
-		<szBRDesc>The XM50 Joint Service General Purpose Mask (JSGPM) incorporates some very advanced technologies including reduced breathing resistance (estimated at 50%), improved vision, and greater comfort.</szBRDesc>
+		<szBRDesc>The XM50 Joint Service General Purpose Mask (JSGPM) incorporates some very advanced technologies including reduced breathing resistance (estimated at 50 percent), improved vision, and greater comfort.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>864</ubGraphicNum>
