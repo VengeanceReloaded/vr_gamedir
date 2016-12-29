@@ -188,8 +188,8 @@
 	<NewMercsAvailable>0</NewMercsAvailable>
 	<MercBioID>27</MercBioID>
 	<ProfilId>227</ProfilId>
-	<usMoneyPaid>0</usMoneyPaid>
-	<usDay>0</usDay>
+	<usMoneyPaid>1200</usMoneyPaid>
+	<usDay>11</usDay>
   </MERC>
   <MERC>
 	<uiIndex>16</uiIndex>
@@ -333,7 +333,7 @@
 	<MercBioID>17</MercBioID>
 	<ProfilId>222</ProfilId>
 	<usMoneyPaid>800</usMoneyPaid>
-	<usDay>10</usDay>
+	<usDay>13</usDay>
   </MERC>
   <MERC>
 	<uiIndex>28</uiIndex>
@@ -344,8 +344,8 @@
 	<NewMercsAvailable>0</NewMercsAvailable>
 	<MercBioID>19</MercBioID>
 	<ProfilId>224</ProfilId>
-	<usMoneyPaid>100</usMoneyPaid>
-	<usDay>2</usDay>
+	<usMoneyPaid>800</usMoneyPaid>
+	<usDay>10</usDay>
   </MERC>
   <MERC>
 	<uiIndex>29</uiIndex>
@@ -452,8 +452,8 @@
 	<NewMercsAvailable>0</NewMercsAvailable>
 	<MercBioID>14</MercBioID>
 	<ProfilId>168</ProfilId>
-	<usMoneyPaid>18000</usMoneyPaid>
-	<usDay>18</usDay>
+	<usMoneyPaid>15000</usMoneyPaid>
+	<usDay>15</usDay>
   </MERC>
   <MERC>
 	<uiIndex>38</uiIndex>
@@ -476,8 +476,8 @@
 	<NewMercsAvailable>0</NewMercsAvailable>
 	<MercBioID>11</MercBioID>
 	<ProfilId>165</ProfilId>
-	<usMoneyPaid>20000</usMoneyPaid>
-	<usDay>20</usDay>
+	<usMoneyPaid>16000</usMoneyPaid>
+	<usDay>17</usDay>
   </MERC>
   <MERC>
 	<uiIndex>40</uiIndex>
@@ -488,8 +488,8 @@
 	<NewMercsAvailable>0</NewMercsAvailable>
 	<MercBioID>12</MercBioID>
 	<ProfilId>166</ProfilId>
-	<usMoneyPaid>22000</usMoneyPaid>
-	<usDay>28</usDay>
+	<usMoneyPaid>18000</usMoneyPaid>
+	<usDay>18</usDay>
   </MERC>
 <!--
   <MERC>
