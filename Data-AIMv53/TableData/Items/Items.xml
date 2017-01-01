@@ -7395,7 +7395,7 @@
 		<uiIndex>247</uiIndex>
 		<szItemName>Discarded LAW</szItemName>
 		<szLongItemName>Discarded LAW</szLongItemName>
-		<szItemDesc>Having already delivered the hammer of justice upon its target, this empty LAW rocket launcher will live out the rest of its Dredd-ful existence as a glorified paper weight.</szItemDesc>
+		<szItemDesc>Having already delivered the hammer of justice upon it's target, this empty rocket launcher will live out the rest of it's dreadful existence as a glorified paper weight.</szItemDesc>
 		<szBRName>Discarded LAW</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -11505,7 +11505,7 @@
 		<szLongItemName>FN Browning HP-35</szLongItemName>
 		<szItemDesc>Originally designed in 1925, the High Power didn't see military service until 1935, and was the only sidearm that served for both sides in WW2.</szItemDesc>
 		<szBRName>FN Browning HP-35</szBRName>
-		<szBRDesc>Originally designed in 1925, the High Power didn't see military service until 1935, and was the only sidearm that served for both sides in WW2.  The latest incarnation, the HP-35, is in use today in the Belgian Military.</szBRDesc>
+		<szBRDesc>Originally designed in 1925, the High Power didn't see military service until 1935, and was the only sidearm that served for both sides in WW2.  The latest incarnation, the HP-35, is in use today by the Belgian Military.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>397</ubClassIndex>
@@ -18453,7 +18453,7 @@
 		<szLongItemName>FN Browning HP-35 .40</szLongItemName>
 		<szItemDesc>Originally designed in 1925, the High Power didn't see military service until 1935, and was the only sidearm that served for both sides in WW2. This one is chambered in .40S&amp;W.</szItemDesc>
 		<szBRName>FN Browning HP-35 .40</szBRName>
-		<szBRDesc>Originally designed in 1925, the High Power didn't see military service until 1935. The latest incarnation, the HP-35, is in use today in the Belgian Military. This one is chambered in .40S&amp;W.</szBRDesc>
+		<szBRDesc>Originally designed in 1925, the High Power didn't see military service until 1935. The latest incarnation, the HP-35, is in use today by the Belgian Military. This one is chambered in .40S&amp;W.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>644</ubClassIndex>
@@ -27347,9 +27347,9 @@
 		<uiIndex>889</uiIndex>
 		<szItemName>PRO-9</szItemName>
 		<szLongItemName>FN PRO-9</szLongItemName>
-		<szItemDesc>Yet another fine service pistol from FN.</szItemDesc>
+		<szItemDesc>Yet another fine service pistol using a collection of proven design features from other FN pistols.</szItemDesc>
 		<szBRName>FN PRO-9</szBRName>
-		<szBRDesc>This is the civilian version of the new all-black military FNP-9, with the same qualities, of course.</szBRDesc>
+		<szBRDesc>This is the civilian version of the new all-black military FNP-9, with the same qualities but with a stainless steel finish on the slide.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>889</ubClassIndex>
@@ -27384,7 +27384,7 @@
 		<szLongItemName>FN Forty-Nine</szLongItemName>
 		<szItemDesc>Another pistol from FN. A little bit harder to control due to the heavy trigger-pull, but a bit more reliable if ammo of dubious quality is used.</szItemDesc>
 		<szBRName>FN Forty-Nine</szBRName>
-		<szBRDesc>A new service pistol from FN, this one is a true DAO pistol, which makes it somewhat more reliable, thought the trigger-pull may be a bit much for some people.</szBRDesc>
+		<szBRDesc>A recent service pistol from FN, this one is a true DAO pistol, which makes it somewhat more reliable, though the trigger-pull may be a bit much for lighter fingered people.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>890</ubClassIndex>
@@ -27417,9 +27417,9 @@
 		<uiIndex>891</uiIndex>
 		<szItemName>FNP-45</szItemName>
 		<szLongItemName>FN FNP-45</szLongItemName>
-		<szItemDesc>Announced in 2007, this new pistol is FN's latest addition to the civilian and law enforcement market.</szItemDesc>
+		<szItemDesc>Announced in 2007, this pistol is FN's latest addition to the civilian and law enforcement market, it may be bigger and heavier than it's 9mm cousins but makes up in stopping power.</szItemDesc>
 		<szBRName>FN FNP-45</szBRName>
-		<szBRDesc>Brand new in the line of FN's new pistols (Forty-Nine, PRO-9), this one is chambered for the good old and never dying .45ACP-round.</szBRDesc>
+		<szBRDesc>One of the first ever polymer-framed autoloading pistols on the market, this one is chambered for the good old and never dying .45ACP-round.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>891</ubClassIndex>
