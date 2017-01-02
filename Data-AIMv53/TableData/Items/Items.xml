@@ -57513,6 +57513,12 @@
 		<szBRDesc>The Armalon PC is a manually operated bolt-action carbine in the heavy pistol calibre .50 AE.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2101</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
+		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>	<!-- UB - Foregrip -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>529</ubGraphicNum>
@@ -57794,11 +57800,17 @@
 		<uiIndex>2109</uiIndex>
 		<szItemName>Ruger 10/22</szItemName>
 		<szLongItemName>Ruger 10/22</szLongItemName>
-		<szItemDesc>Basic rifle in .22 LR. The magazine release is a bit odd and rather complicated to use.</szItemDesc>
+		<szItemDesc>An all American classic, this basic rifle fires .22 LR rimfire catridges. The magazine release is a bit odd and rather complicated to use.</szItemDesc>
 		<szBRName>Ruger 10/22</szBRName>
-		<szBRDesc>An affordable and reliable rifle in .22 LR. Ideally for target practice and plinking.</szBRDesc>
+		<szBRDesc>Our all American classic is affordable and reliable rifle comes ready in .22 LR. Ideally for target practice and plinking this rifle is popular with young learners and adults alike.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2109</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>	<!-- UB - Foregrip -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>537</ubGraphicNum>
@@ -58236,6 +58248,12 @@
 		<szBRDesc>Calicos .22 LR carbine uses a similiar Helix Magazine as other Calico guns.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2122</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
+		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>	<!-- UB - Foregrip -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>550</ubGraphicNum>
