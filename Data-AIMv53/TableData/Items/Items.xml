@@ -297,7 +297,7 @@
 		<szLongItemName>Beretta 92F</szLongItemName>
 		<szItemDesc>This Italian double action pistol has been turning mercs into Lethal Weapons since 1972. The US Army's standard issue sidearm since 1985.</szItemDesc>
 		<szBRName>Beretta 92F</szBRName>
-		<szBRDesc>U.S. Army issued, under the M9 name tag, the Beretta 92F is a standard 9mm Parabellum pistol, with a modified trigger-guard to allow a two-handed grip. A very functional weapon</szBRDesc>
+		<szBRDesc>U.S. Army issued, under the M9 name tag, the Beretta 92F is a standard 9mm pistol, with a modified trigger-guard to allow a two-handed grip. A very functional weapon.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>3</ubClassIndex>
@@ -19778,9 +19778,9 @@
 		<uiIndex>679</uiIndex>
 		<szItemName>Ithaca 37</szItemName>
 		<szLongItemName>Ithaca Model 37</szLongItemName>
-		<szItemDesc>The archtypal pump-action shotgun. In three quarters of a century of production, it has lost none of its potency.</szItemDesc>
+		<szItemDesc>The archetypal pump-action shotgun. In three quarters of a century of production, it has lost none of its potency.</szItemDesc>
 		<szBRName>Ithaca Model 37</szBRName>
-		<szBRDesc>Few things make a potential enemy vacate the premises like a solid, reliable shotgun. Chamber a round in the middle of a crowd and watch em' fight to maintain bowel control.</szBRDesc>
+		<szBRDesc>Few things make a potential enemy vacate the premises like a solid, reliable shotgun. Chamber a round in the middle of a crowd and watch 'em fight to maintain bowel control.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>679</ubClassIndex>
@@ -23178,9 +23178,9 @@
 		<uiIndex>770</uiIndex>
 		<szItemName>Encore</szItemName>
 		<szLongItemName>Thompson Contender Encore</szLongItemName>
-		<szItemDesc>The Contender pistol exists in a wide variety of calibers, this one is chambered for .454 Casull.</szItemDesc>
+		<szItemDesc>Created in 1967, this break-action target pistol can be made to fire a wide variety of calibers, this one is chambered for .454 Casull.</szItemDesc>
 		<szBRName>Contender Encore</szBRName>
-		<szBRDesc>The Thompson Contender Encore is a one-shot targetpistol that can also be used for hunting, if equipped with a suitable scope. Chambered for .454 Casull, this is a most powerful gun.</szBRDesc>
+		<szBRDesc>The Thompson Contender Encore is a one-shot target pistol that can also be used for hunting, if equipped with a scope. Chambered for .454 Casull, this is a most powerful gun, so make that one shot last!</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>770</ubClassIndex>
@@ -27313,7 +27313,7 @@
 		<szLongItemName>Manurhin MR-96</szLongItemName>
 		<szItemDesc>Another French quality revolver. Its only drawback is the smaller ammo capacity, compared to a .357 Desert Eagle pistol.</szItemDesc>
 		<szBRName>Manurhin MR-96</szBRName>
-		<szBRDesc>The patented Manurhin MR96 design is a revolution in revolver engineering. The grip - a long-lasting rubber design specific to this revolver - allows continuous firing of the most powerful loads without fatigue.</szBRDesc>
+		<szBRDesc>The patented Manurhin MR96 design is a revolution in revolver engineering. The unique long-lasting grip design allows continuous firing of the most powerful loads without fatigue.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>888</ubClassIndex>
@@ -27522,9 +27522,9 @@
 		<uiIndex>894</uiIndex>
 		<szItemName>MR-73</szItemName>
 		<szLongItemName>Manurhin MR-73</szLongItemName>
-		<szItemDesc>Mostly based on S&amp;W revolvers, but with a few features of its own, the MR-73 is the backbone of Manurhin's revolver production.</szItemDesc>
+		<szItemDesc>Mostly based on S&amp;W revolvers, but with a few features of its own, the MR-73 is the backbone of Manurhin's revolver catalog.</szItemDesc>
 		<szBRName>Manurhin MR-73</szBRName>
-		<szBRDesc>A French police revolver in use with GIGN, the French counter-terrorist unit, which tells alot about the quality of this gun.</szBRDesc>
+		<szBRDesc>This French police revolver is in use with GIGN, the French counter-terrorist unit, clear indication of the quality of this gun.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>894</ubClassIndex>
