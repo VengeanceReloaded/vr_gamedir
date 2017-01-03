@@ -5702,9 +5702,9 @@
 		<usApproachFactorDirect>200</usApproachFactorDirect>
 		<usApproachFactorThreaten>150</usApproachFactorThreaten>
 		<usApproachFactorRecruit>350</usApproachFactorRecruit>
-		<sSectorX>10</sSectorX>
-		<sSectorY>1</sSectorY>
-		<sSectorZ>1</sSectorZ>
+		<sSectorX>11</sSectorX>
+		<sSectorY>11</sSectorY>
+		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>1</ubCivilianGroup>
 		<bTown>1</bTown>
 		<bTownAttachment>90</bTownAttachment>
