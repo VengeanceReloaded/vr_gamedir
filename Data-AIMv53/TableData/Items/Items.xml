@@ -3920,9 +3920,9 @@
 		<uiIndex>128</uiIndex>
 		<szItemName>A.L.I.C.E.</szItemName>
 		<szLongItemName>A.L.I.C.E. Pack</szLongItemName>
-		<szItemDesc>A buttpack for storing up to 4 different items.</szItemDesc>
+		<szItemDesc>When you just have to bring along everything but the kitchen sink this buttpack helps for carry up to 4 additional items into the bush.</szItemDesc>
 		<szBRName>A.L.I.C.E. Buttpack</szBRName>
-		<szBRDesc>Need more room to store things? This buttpack has enough pockets to carry several items</szBRDesc>
+		<szBRDesc>Need more room to store things? This buttpack has enough pockets to carry several items.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -6570,9 +6570,9 @@
 		<uiIndex>214</uiIndex>
 		<szItemName>Canteen</szItemName>
 		<szLongItemName>Canteen</szLongItemName>
-		<szItemDesc>This polyethylene canteen is extremely practical. Whenever you encounter a fresh mountain spring, you can refill it again.</szItemDesc>
+		<szItemDesc>This polyethylene canteen is extremely practical. Whenever you encounter a fresh mountain spring, you can refill it again. If only there was a way to remove that plastic after-taste.</szItemDesc>
 		<szBRName>Canteen</szBRName>
-		<szBRDesc>Any sensible mercenary would carry such a useful item with him. This water-filled polyetherene canteen is refillable and reusable so be sure to have one nearby.</szBRDesc>
+		<szBRDesc>Any sensible mercenary would carry such a useful item with them. This water-filled polyethylene canteen is refillable and reusable so be sure to have one nearby.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -7269,9 +7269,9 @@
 		<uiIndex>243</uiIndex>
 		<szItemName>Wire Cutters</szItemName>
 		<szLongItemName>Wire Cutters</szLongItemName>
-		<szItemDesc>Your average everyday handyman's wire cutters. You have probably seen similar tools at your friendly dentist.</szItemDesc>
+		<szItemDesc>Your average everyday handyman's wire cutters. You have probably seen similar tools at your friendly dentist. 'Is it safe?'</szItemDesc>
 		<szBRName>Wire Cutters</szBRName>
-		<szBRDesc>Your average everyday handyman's wire cutters. Extremely useful and versatile-don't leave home without them!</szBRDesc>
+		<szBRDesc>Every handyman should have a pair of these wire cutters in their inventory. Extremely useful and versatile whether you're a sparky, farmer or burglar, don't leave home without them!</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubCursor>16</ubCursor>
@@ -30912,9 +30912,9 @@
 		<uiIndex>1003</uiIndex>
 		<szItemName>Flash Suppressor</szItemName>
 		<szLongItemName>Flash Suppressor</szLongItemName>
-		<szItemDesc>Standard equipment for keeping those  pesky muzzle flashes from giving away your position.</szItemDesc>
+		<szItemDesc>Standard equipment for keeping those pesky muzzle flashes from giving away your position.</szItemDesc>
 		<szBRName>Flash Suppressor</szBRName>
-		<szBRDesc>Standard equipment for keeping those  pesky muzzle flashes from giving away your position.</szBRDesc>
+		<szBRDesc>Standard equipment for keeping those pesky muzzle flashes from giving away your position.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>2</AttachmentClass>
 		<nasAttachmentClass>2</nasAttachmentClass>
@@ -57802,7 +57802,7 @@
 		<szLongItemName>Ruger 10/22</szLongItemName>
 		<szItemDesc>An all American classic, this basic rifle fires .22 LR rimfire catridges. The magazine release is a bit odd and rather complicated to use.</szItemDesc>
 		<szBRName>Ruger 10/22</szBRName>
-		<szBRDesc>Our all American classic is affordable and reliable rifle comes ready in .22 LR. Ideally for target practice and plinking this rifle is popular with young learners and adults alike.</szBRDesc>
+		<szBRDesc>Our all American classic is affordable,reliable and comes ready to chamber .22 LR. Ideal for plinking this rifle is popular with young learners and adults alike.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2109</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
@@ -77579,7 +77579,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>Tool Kit, small</szLongItemName>
 		<szItemDesc>This small tool kit for field service contains all necessary tools for emergency repairs in the field.</szItemDesc>
 		<szBRName>Tool Kit, small</szBRName>
-		<szBRDesc>This small tool kit for field service contains all necessary tools for emergency repairs in the field.</szBRDesc>
+		<szBRDesc>When space and weight is at a premium our small tool kit contains all necessary tools for emergency repairs in the field in a pint-sized package.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<ubCursor>19</ubCursor>
 		<ubGraphicType>6</ubGraphicType>
@@ -77606,11 +77606,11 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 	</ITEM>
 	<ITEM>
 		<uiIndex>2977</uiIndex>
-		<szItemName>Traumapack</szItemName>
-		<szLongItemName>Traumapack</szLongItemName>
-		<szItemDesc>An easy to use emergency bandage.</szItemDesc>
-		<szBRName>Traumapack</szBRName>
-		<szBRDesc>The emergency bandage is an elasticized bandage with a non-adhesive bandage pad sewn in. The bandage has a built-in pressure bar, which allows the soldier to twist the bandage around the wound once, and then change the direction of the bandage, wrapping it around the limb or body part, to create pressure on the wound.</szBRDesc>
+		<szItemName>Trauma pack</szItemName>
+		<szLongItemName>Trauma pack</szLongItemName>
+		<szItemDesc>An easy-to-use pre-packed sterile emergency bandage for when that wound turns into a gusher.</szItemDesc>
+		<szBRName>Trauma pack</szBRName>
+		<szBRDesc>This emergency bandage is elasticized with a non-adhesive pad sewn in. With it's built-in pressure bar it can apply pressure to any site, can be easily wrapped and secured to almost all wounds.</szBRDesc>
 		<usItemClass>4096</usItemClass>
 		<ubCursor>5</ubCursor>
 		<ubGraphicType>6</ubGraphicType>
@@ -77634,9 +77634,9 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>2978</uiIndex>
 		<szItemName>Big Med Kit</szItemName>
 		<szLongItemName>Big Medical Kit</szLongItemName>
-		<szItemDesc>Aside from standard first aid supplies, this kit includes: a suture set and scissors, prep pads, a scalpel, Kelly forceps, tweezers, pain killers, anesthetic, antibiotics, a pen light, and a surgical manual.</szItemDesc>
+		<szItemDesc>If bigger is better then this big med kit ups the ante and includes all the usual things you expect in a standard med kit, only more!</szItemDesc>
 		<szBRName>Big Medical Kit</szBRName>
-		<szBRDesc>It's a first aid kit and then some. Aside from standard first aid supplies, this kit includes: a suture set, prep pads, suture scissors, a scalpel, Kelly forceps, tweezers, anesthetic, pain killers, antibiotics, a pen light, and the "Emergency War Surgery" manual.</szBRDesc>
+		<szBRDesc>For those extended journeys or longer operations this large kit includes all the items you expect in a standard med kit only more of them and in a larger capacity pack.</szBRDesc>
 		<usItemClass>4096</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubCursor>5</ubCursor>
