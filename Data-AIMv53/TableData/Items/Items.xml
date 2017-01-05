@@ -10134,7 +10134,15 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>346</ubClassIndex>
+        <AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+  		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>109</ubGraphicNum>
 		<ubWeight>26</ubWeight>
@@ -23469,6 +23477,17 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>778</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+  		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>	<!-- Sights - Match Sights -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>288</ubGraphicNum>
 		<ubWeight>50</ubWeight>
@@ -48420,7 +48439,7 @@
 		<szLongItemName>Handcuffs</szLongItemName>
 		<szItemDesc>If you want to arrest someone, it is helpful to keep them from using their hands.</szItemDesc>
 		<szBRName>Handcuffs</szBRName>
-		<szBRDesc>Standard police handcuffs.</szBRDesc>
+		<szBRDesc>These rigid handcuffs have rotating arm backloads for speed cuffing and double locking mechanisms ensure they do not open unexpectedly. Standard issue for European police and fans of BDSM.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ItemFlag>524288</ItemFlag>
@@ -48735,9 +48754,9 @@
 		<uiIndex>1636</uiIndex>
 		<szItemName>Flashlight</szItemName>
 		<szLongItemName>Flashlight</szLongItemName>
-		<szItemDesc>I am... the light! No wait, that ain't right. I'm just a flashlight. But I'm still useful. If everything else fails, use me to knock people over the head with.</szItemDesc>
+		<szItemDesc>I am... the light! No wait, that ain't right. I'm just a flashlight. But I'm still useful. If all else fails, use me to knock people over the head with.</szItemDesc>
 		<szBRName>Flashlight</szBRName>
-		<szBRDesc>We say: let there be light! Batteries included.</szBRDesc>
+		<szBRDesc>We say; 'Let there be light!' Batteries included.</szBRDesc>
 		<usItemClass>128</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1636</ubClassIndex>
@@ -56887,6 +56906,17 @@
 		<szBRDesc>The Blaser R93 Tactical is another futuristic german design. It has a quick interchangeable barrel system that allows for changing barrels without the need to resight the scope. This version is chambered in 7.62x51mm.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2082</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+  		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>	<!-- Sights - Match Sights -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>288</ubGraphicNum>
@@ -56919,6 +56949,17 @@
 		<szBRDesc>The Blaser R93 Tactical is another futuristic german design. It has a quick interchangeable barrel system that allows for changing barrels without the need to resight the scope. This version uses .30-06 rounds.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2083</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+  		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>	<!-- Sights - Match Sights -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>288</ubGraphicNum>
@@ -57517,7 +57558,6 @@
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
-		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>	<!-- UB - Foregrip -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
@@ -57802,13 +57842,12 @@
 		<szLongItemName>Ruger 10/22</szLongItemName>
 		<szItemDesc>An all American classic, this basic rifle fires .22 LR rimfire catridges. The magazine release is a bit odd and rather complicated to use.</szItemDesc>
 		<szBRName>Ruger 10/22</szBRName>
-		<szBRDesc>Our all American classic is affordable,reliable and comes ready to chamber .22 LR. Ideal for plinking this rifle is popular with young learners and adults alike.</szBRDesc>
+		<szBRDesc>Our all American classic is affordable, reliable and comes ready to chamber .22 LR. Ideal for plinking this rifle is popular with young learners and adults alike.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2109</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
-		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>	<!-- UB - Foregrip -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
 		<ubCursor>3</ubCursor>
@@ -57845,7 +57884,15 @@
 		<szBRDesc>Variety is the spice of life, try out the SMG in its 9x18mm Makarov variant.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2110</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+  		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>538</ubGraphicNum>
@@ -58076,11 +58123,19 @@
 		<uiIndex>2117</uiIndex>
 		<szItemName>M2 Carbine</szItemName>
 		<szLongItemName>M2 Carbine</szLongItemName>
-		<szItemDesc>This M2 Carbine is basically an M1 Carbine with full auto capability.</szItemDesc>
+		<szItemDesc>From WWII, Korea, Vietnam and onward the M2 Carbine has been doing what the M1 Carbine has but with full auto capability.</szItemDesc>
 		<szBRName>M2 Carbine</szBRName>
-		<szBRDesc>This M2 Carbine is basically an M1 Carbine with full auto capability.</szBRDesc>
+		<szBRDesc>The M1's more active brother features full auto capability, just don't tell anyone you bought if from us if the feds intercept it for homeland use.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2117</ubClassIndex>
+        <AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+  		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>545</ubGraphicNum>
@@ -58252,7 +58307,6 @@
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
-		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>	<!-- UB - Foregrip -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
@@ -58582,9 +58636,9 @@
 		<uiIndex>2131</uiIndex>
 		<szItemName>AKM Bayonet</szItemName>
 		<szLongItemName>AKM Bayonet</szLongItemName>
-		<szItemDesc>A classic bayonet for use with the AKM.</szItemDesc>
+		<szItemDesc>A classic bayonet for use with the AKM. Among it's many useful features is it's saw-teeth that can double as wire cutters.</szItemDesc>
 		<szBRName>AK Bayonet</szBRName>
-		<szBRDesc>A classic bayonet for use with the AKM.</szBRDesc>
+		<szBRDesc>This type II bayonet was way ahead of it's time when it first came out and makes practical use of plastic and steel along with the rot and rust free stainless steel blade.</szBRDesc>
 		<usItemClass>4</usItemClass>
 		<AttachmentClass>2</AttachmentClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
