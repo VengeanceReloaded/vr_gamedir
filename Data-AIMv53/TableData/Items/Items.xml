@@ -6487,9 +6487,10 @@
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
 		<Electronic>1</Electronic>
+		<ToHitBonus>-20</ToHitBonus>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -6554,12 +6555,12 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>-15</ToHitBonus>
-		<APBonus>-4</APBonus>
-		<NightVisionRangeBonus>-20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>-10</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>-20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>-10</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<APBonus>-8</APBonus>
+		<NightVisionRangeBonus>0</NightVisionRangeBonus>
+		<DayVisionRangeBonus>0</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>0</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>0</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>0</PercentTunnelVision>
 		<GasMask>1</GasMask>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -7380,11 +7381,12 @@
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
 		<Electronic>1</Electronic>
+		<ToHitBonus>-15</ToHitBonus>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<CaveVisionRangeBonus>0</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -31612,12 +31614,13 @@
 		<BigGunList>1</BigGunList>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
+		<ToHitBonus>-10</ToHitBonus>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<NightVisionRangeBonus>30</NightVisionRangeBonus>
 		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
+		<CaveVisionRangeBonus>0</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>-30</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -31649,12 +31652,13 @@
 		<SciFi>1</SciFi>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
+		<ToHitBonus>-5</ToHitBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<NightVisionRangeBonus>40</NightVisionRangeBonus>
+		<NightVisionRangeBonus>30</NightVisionRangeBonus>
 		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
+		<CaveVisionRangeBonus>0</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>-20</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -48566,6 +48570,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>4</BR_UsedInventory>
+		<PercentTunnelVision>20</PercentTunnelVision>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -65695,7 +65700,7 @@
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>437</ubGraphicNum>
 		<ubWeight>4</ubWeight>
-		<ubPerPocket>1</ubPerPocket>
+		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>150</usPrice>
 		<ubCoolness>2</ubCoolness>
@@ -70728,12 +70733,12 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<ToHitBonus>-10</ToHitBonus>
-		<APBonus>-4</APBonus>
-		<NightVisionRangeBonus>-5</NightVisionRangeBonus>
-		<DayVisionRangeBonus>-10</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>-5</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>-10</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>30</PercentTunnelVision>
+		<APBonus>-8</APBonus>
+		<NightVisionRangeBonus>0</NightVisionRangeBonus>
+		<DayVisionRangeBonus>0</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>0</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>5</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>0</PercentTunnelVision>
 		<GasMask>1</GasMask>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -70762,12 +70767,12 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<ToHitBonus>-10</ToHitBonus>
-		<APBonus>0</APBonus>
+		<APBonus>-4</APBonus>
 		<NightVisionRangeBonus>-20</NightVisionRangeBonus>
 		<DayVisionRangeBonus>-5</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>-20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-5</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>20</PercentTunnelVision>
+		<PercentTunnelVision>0</PercentTunnelVision>
 		<GasMask>1</GasMask>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -78597,6 +78602,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<SciFi>1</SciFi>
 		<APBonus>4</APBonus>
 		<StealthBonus>7</StealthBonus>
+		<PercentTunnelVision>30</PercentTunnelVision>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
