@@ -8292,10 +8292,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>285</uiIndex>
-		<szItemName>Boonie Hat</szItemName>
-		<szLongItemName>Boonie Hat</szLongItemName>
-		<szItemDesc>Keep your head shaded from the sun when your helmet gets too hot.  Provides limited camouflage.</szItemDesc>
-		<szBRName>Boonie Hat</szBRName>
+		<szItemName>Hat</szItemName>
+		<szLongItemName>Hat</szLongItemName>
+		<szItemDesc>A nice hat to wear when your helmet gets too hot.  Provides limited camouflage.</szItemDesc>
+		<szBRName>Hat</szBRName>
 		<szBRDesc>As seen on TV!  This is the same hat that "Wild Bill" wore on the GI Joe Saturday morning cartoon.  Ok, so it's not the same hat.  But's its still a nice hat.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -8314,7 +8314,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<CamoBonus>7</CamoBonus>
+		<CamoBonus>5</CamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -66616,7 +66616,7 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
-		<CamoBonus>10</CamoBonus>
+		<CamoBonus>5</CamoBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -67238,7 +67238,7 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<CamoBonus>6</CamoBonus>
+		<CamoBonus>7</CamoBonus>
 		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -70717,7 +70717,7 @@
 		<szLongItemName>Avon S10 Gas Mask</szLongItemName>
 		<szItemDesc>This British SAS Gas Mask has special night sight lenses and is likely to spread extra fear among Iranian Arab terrorists.</szItemDesc>
 		<szBRName>Avon S10 Gas Mask</szBRName>
-		<szBRDesc>As used by the SAS, this extremely durable British Gas Mask comes with night vision enhancing lenses as well as laser rejection filter outserts to protect eyes from blinding flashes. Comes in S, M & L sizes.</szBRDesc>
+		<szBRDesc>This British Gas Mask has night vision capable lenses, which, although restricting the field of view, are also quite practical to protect the eyes from bright lights. It can't be combined with sun goggles or night vision goggles.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>834</ubGraphicNum>
