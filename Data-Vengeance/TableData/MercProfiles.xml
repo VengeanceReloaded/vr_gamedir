@@ -9417,7 +9417,7 @@
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>97</uiIndex>
-		<Type>3</Type>
+		<Type>4</Type>
 		<zName>James "Skyrider" Bullock</zName>
 		<zNickname>Skyrider</zNickname>
 		<ubFaceIndex>97</ubFaceIndex>
@@ -11524,7 +11524,7 @@
 		<SKIN>TANSKIN</SKIN>
 		<HAIR>BROWNHEAD</HAIR>
 		<bSex>1</bSex>
-		<ubBodyType>3</ubBodyType>
+		<ubBodyType>14</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
 		<bAttitude>1</bAttitude>
 		<bCharacterTrait>10</bCharacterTrait>
