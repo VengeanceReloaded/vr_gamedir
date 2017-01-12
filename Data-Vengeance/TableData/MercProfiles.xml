@@ -15034,11 +15034,11 @@
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
 		<PANTS>BLUEPANTS</PANTS>
-		<VEST>JEANVEST</VEST>
+		<VEST>REDVEST</VEST>
 		<SKIN>BLACKSKIN</SKIN>
 		<HAIR>BLACKHEAD</HAIR>
 		<bSex>0</bSex>
-		<ubBodyType>1</ubBodyType>
+		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
 		<bAttitude>0</bAttitude>
 		<bCharacterTrait>8</bCharacterTrait>
