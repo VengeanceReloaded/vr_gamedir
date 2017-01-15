@@ -30,6 +30,15 @@
 		<ubHidden>1</ubHidden>
 	</FACILITY>
 
+
+	<!-- OMERTA CAMP -->
+	<FACILITY>
+		<SectorGrid>B9</SectorGrid>
+		<FacilityType>54</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+
 	<!-- FARM, WEST DRASSEN -->
 	<FACILITY>
 		<SectorGrid>B12</SectorGrid>
@@ -120,6 +129,14 @@
 	</FACILITY>
 
 
+	<!-- DRASSEN DAM SITE -->
+	<FACILITY>
+		<SectorGrid>D14</SectorGrid>
+		<FacilityType>55</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+
 	<!-- DRASSEN SAM SITE -->
 	<FACILITY>
 		<SectorGrid>D15</SectorGrid>
@@ -154,6 +171,15 @@
 		<FacilityType>30</FacilityType>
 		<ubHidden>1</ubHidden>
 	</FACILITY>
+
+
+	<!-- Hale and Burton Distro -->
+	<FACILITY>
+		<SectorGrid>F10</SectorGrid>
+		<FacilityType>53</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
 
 	<!-- SMUGGLER HIDEOUT 2 -->
 	<FACILITY>
@@ -686,6 +712,13 @@
 		<SectorGrid>M12</SectorGrid>
 		<FacilityType>27</FacilityType>
 		<ubHidden>2</ubHidden>
+	</FACILITY>
+
+	<!-- ELITE BARRACKS -->
+	<FACILITY>
+		<SectorGrid>M13</SectorGrid>
+		<FacilityType>52</FacilityType>
+		<ubHidden>1</ubHidden>
 	</FACILITY>
 
 	<!-- ORTA -->

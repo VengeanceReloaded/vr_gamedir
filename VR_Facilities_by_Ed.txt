@@ -1,4 +1,4 @@
-Facilities for Vengeance: Reloaded by edmortimer (last updated: 14.03.2015):
+Facilities for Vengeance: Reloaded by edmortimer (last updated: 15.01.2017):
 
 
 Ambient Facilities are not staffed, and their effects affect everyone in the sector. 
@@ -46,3 +46,14 @@ Fatigue Effect = 150%, Sleep Effect = 50%
 Killing Fields: This is the scene of a desperate pitched battle between government and rebel forces. 
 Evidence of mass carnage is everywhere. Being here will either alarm your fear of death, or reinforce your determination to kill the Queen. 
 Fatigue Effect = 125%, Sleep Effect = 66%, Morale Effect Chance = 9.9%, Morale Effect = 0 +/- 5
+
+
+
+Facilities-VR-Beta-Update by edmortimer (15.01.2017):
+
+Here are the Facility changes. I think I fixed everything, and added the following:
+
+DAM: Repair Items/Vehicle/Robot, Train/Student/Practice Mechanical, Staff
+TRAINING CAMP: Staff, Rest, Repair Items, Practice Leadership, Practice/Trainer/Student Strength & Marksmanship
+HB DISTRO CENTER: Staff, Rest, Repair Items/Vehicle/Robot, Trainer/Student/Practice Mechanical, Practice Leadership
+ELITE BARRACKS: Staff, Rest, Repair Items, Practice Leadership

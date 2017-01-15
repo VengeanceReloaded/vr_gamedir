@@ -1,6 +1,6 @@
 "Playable Characters Mod" (PCM) for Vengeance-1.13 Reloaded (English Test-File composed by Scheinworld)
 
-(last updated 08.03.2015)
+(last updated 15.01.2017)
 
 Original idea and concept by Smilingassassin aka "The_Scorpion"
 
@@ -25,7 +25,6 @@ he'll do his usual speech, after that Skyrider will walk towards his chopper.
 If you want to avoid Skyrider to join the squad but want him as a pilot only as usual, 
 go to the strategic map before Skyrider has reached his chopper. Then everything will be as in the Vanilla game.
 If you want him to join, wait for him to reach his chopper, after that he will become playable.
-(His 'twin brother' will be piloting the heli then, so you do not lose any functionality on recruiting Skyrider)
 
 John and Mary* will be automatically added to the player's squad after he is escorted to the airport.
 If you don't want them, you can just dismiss them.
@@ -57,6 +56,8 @@ Let the escorted persons go off on their own upon completion of their quest, the
 
 
 Known Bugs / personal experience:
+
+Type 4 mercs like Skyrider, Carmen, John & Mary should not be used for talking/interacting with other RPC's/NPC's!
 
 Try to avoid using the characters Perko or TNT for interactions with NPCs, as certain actions like NPC's handing over an item (like Carmen's disk) cause the game to crash.
 

@@ -47,9 +47,9 @@
 				<ubRange>0</ubRange>
 			</LOYALTY_LOCAL>
 			<DRUNK>
-				<ubChance>500</ubChance>
-				<bBaseEffect>1</bBaseEffect>
-				<ubRange>0</ubRange>
+				<ubChance>13</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>1</ubRange>
 			</DRUNK>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
@@ -71,9 +71,9 @@
 				<ubRange>0</ubRange>
 			</LOYALTY_LOCAL>
 			<DRUNK>
-				<ubChance>100</ubChance>
-				<bBaseEffect>1</bBaseEffect>
-				<ubRange>0</ubRange>
+				<ubChance>13</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>1</ubRange>
 			</DRUNK>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
@@ -128,7 +128,7 @@
 			<usKitDegrade>30</usKitDegrade>
 			<CONDITIONS>
 				<ubMinimumMechanical>60</ubMinimumMechanical>
-				<ubMinimumDexterity>70</ubMinimumDexterity>
+				<ubMinimumDexterity>60</ubMinimumDexterity>
 			</CONDITIONS>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
@@ -137,12 +137,12 @@
 		<ubIndex>6</ubIndex>
 		<szFacilityName>Military Barracks</szFacilityName>
 		<szFacilityShortName>Barracks</szFacilityShortName>
-		<ubTotalStaffLimit>10</ubTotalStaffLimit>
+		<ubTotalStaffLimit>20</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
 			<szTooltipText>There are plenty of beds here. It's a bit basic, but certainly better than resting outside!</szTooltipText>
 			<ubStaffLimit>10</ubStaffLimit>
-			<usPerformance>110</usPerformance>
+			<usPerformance>120</usPerformance>
 			<usSleep>120</usSleep>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
@@ -168,7 +168,7 @@
 			<ubStaffLimit>1</ubStaffLimit>
 			<CONDITIONS>
 				<ubMinimumWisdom>60</ubMinimumWisdom>
-				<ubMinimumLeadership>50</ubMinimumLeadership>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
 				<usPerformance>80</usPerformance>
 			</CONDITIONS>
 		</ASSIGNMENT>
@@ -208,11 +208,11 @@
 			<ubAssignmentType>SPREAD_PROPAGANDA</ubAssignmentType>
 			<szTooltipText>Turn this small local office into well-oiled propaganda machine, suppressing any bad news reaching town and showing our actions in the best possible light.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>150</usPerformance>
 			<CONDITIONS>
 				<ubMinimumWisdom>60</ubMinimumWisdom>
 				<ubMinimumLeadership>20</ubMinimumLeadership>
-				<ubMinimumLoyaltyHere>20</ubMinimumLoyaltyHere>
-				<usPerformance>150</usPerformance>
+				<ubMinimumLoyaltyHere>10</ubMinimumLoyaltyHere>
 			</CONDITIONS>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
@@ -236,19 +236,20 @@
 			<usMineIncomeModifier>125</usMineIncomeModifier>
 			<fOnlyLocalMineAffected>1</fOnlyLocalMineAffected>
 			<CONDITIONS>
-				<ubMinimumWisdom>70</ubMinimumWisdom>
-				<ubMinimumLeadership>70</ubMinimumLeadership>
-				<ubMinimumLoyaltyHere>70</ubMinimumLoyaltyHere>
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
+				<ubMinimumLoyaltyHere>30</ubMinimumLoyaltyHere>
 			</CONDITIONS>
-		</ASSIGNMENT>		
+		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_EXPLOSIVES</ubAssignmentType>
 			<szTooltipText>Anyone who knows how to set explosives will be welcome in a mine. Increases efficiency of EXPLOSIVES training.</szTooltipText>
-			<ubStaffLimit>1</ubStaffLimit>
+			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>150</usPerformance>
+			<usMineIncomeModifier>105</usMineIncomeModifier>
 			<CONDITIONS>
-				<ubMinimumExplosives>40</ubMinimumExplosives>
-				<ubMinimumLoyaltyHere>70</ubMinimumLoyaltyHere>
+				<ubMinimumExplosives>30</ubMinimumExplosives>
+				<ubMinimumLoyaltyHere>30</ubMinimumLoyaltyHere>
 			</CONDITIONS>
 			<MORALE>
 				<ubChance>86</ubChance>
@@ -258,12 +259,13 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>TRAINER_EXPLOSIVES</ubAssignmentType>
-			<szTooltipText>Train the less accurate of your mercs in the finer points of Marksmanship. . . their life, and yours, may depend on it.</szTooltipText>
+			<szTooltipText>Train your mercs in the finer points of blowing things up . . . so they only blow up the right things.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>125</usPerformance>
+			<usMineIncomeModifier>110</usMineIncomeModifier>
 			<CONDITIONS>
-				<ubMinimumExplosives>70</ubMinimumExplosives>
-				<ubMinimumLoyaltyHere>70</ubMinimumLoyaltyHere>
+				<ubMinimumExplosives>50</ubMinimumExplosives>
+				<ubMinimumLoyaltyHere>30</ubMinimumLoyaltyHere>
 			</CONDITIONS>
 			<MORALE>
 				<ubChance>99</ubChance>
@@ -273,12 +275,12 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>STUDENT_EXPLOSIVES</ubAssignmentType>
-			<szTooltipText>Learn from the expert on your squad about the finer points of Marksmanship. . . your life, and theirs, may depend on it.</szTooltipText>
-			<ubStaffLimit>1</ubStaffLimit>
+			<szTooltipText>Learn from the expert on your squad about the finer points of blowing things up without blowing yourself up.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>125</usPerformance>
 			<CONDITIONS>
-				<ubMinimumExplosives>35</ubMinimumExplosives>
-				<ubMinimumLoyaltyHere>70</ubMinimumLoyaltyHere>
+				<ubMinimumExplosives>10</ubMinimumExplosives>
+				<ubMinimumLoyaltyHere>30</ubMinimumLoyaltyHere>
 			</CONDITIONS>
 			<MORALE>
 				<ubChance>99</ubChance>
@@ -289,8 +291,9 @@
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
 			<szTooltipText>Spend some time lugging ore from here to there. Increases the efficiency of STRENGTH practice, and when the citizens see you sweaty and dirty from mine work they just might think better of you!</szTooltipText>
-			<ubStaffLimit>3</ubStaffLimit>
+			<ubStaffLimit>6</ubStaffLimit>
 			<usPerformance>133</usPerformance>
+			<usMineIncomeModifier>102</usMineIncomeModifier>
 			<MORALE>
 				<ubChance>99</ubChance>
 				<bBaseEffect>0</bBaseEffect>
@@ -302,6 +305,7 @@
 				<ubRange>1</ubRange>
 			</LOYALTY_LOCAL>
 		</ASSIGNMENT>
+	</FACILITYTYPE>
 
 	<FACILITYTYPE>
 		<ubIndex>12</ubIndex>
@@ -312,12 +316,12 @@
 			<ubAssignmentType>REST</ubAssignmentType>
 			<szTooltipText>A solemn hour of prayer and devotion in a quiet little church can help raise anyone's spirit. It might also convince the locals that you respect their way of life.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
-			<usPerformance>110</usPerformance>
+			<usPerformance>130</usPerformance>
 			<CONDITIONS>
 			</CONDITIONS>
 			<MORALE>
 				<ubChance>200</ubChance>
-				<bBaseEffect>10</bBaseEffect>
+				<bBaseEffect>1</bBaseEffect>
 				<ubRange>10</ubRange>
 			</MORALE>
 			<LOYALTY_LOCAL>
@@ -332,16 +336,16 @@
 		<ubIndex>13</ubIndex>
 		<szFacilityName>Boxing Club</szFacilityName>
 		<szFacilityShortName>Club</szFacilityShortName>
-		<ubTotalStaffLimit>2</ubTotalStaffLimit>	
+		<ubTotalStaffLimit>8</ubTotalStaffLimit>	
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_HEALTH</ubAssignmentType>
 			<szTooltipText>A great place to get a balanced work-out that might improve your shape considerably. Increases the efficiency of HEALTH training.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 			<CONDITIONS>
-				<ubMinimumHealth>60</ubMinimumHealth>
-				<ubMinimumStrength>40</ubMinimumStrength>
-				<ubMinimumAgility>40</ubMinimumAgility>
+				<ubMinimumHealth>50</ubMinimumHealth>
+				<ubMinimumStrength>30</ubMinimumStrength>
+				<ubMinimumAgility>30</ubMinimumAgility>
 			</CONDITIONS>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
@@ -351,9 +355,9 @@
 			<usPerformance>200</usPerformance>
 			<CONDITIONS>
 				<ubMinimumHealth>80</ubMinimumHealth>
-				<ubMinimumStrength>70</ubMinimumStrength>
-				<ubMinimumAgility>70</ubMinimumAgility>
-				<ubMinimumLeadership>50</ubMinimumLeadership>
+				<ubMinimumStrength>60</ubMinimumStrength>
+				<ubMinimumAgility>60</ubMinimumAgility>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
 			</CONDITIONS>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
@@ -375,7 +379,7 @@
 			<usPerformance>200</usPerformance>
 			<CONDITIONS>
 				<ubMinimumStrength>80</ubMinimumStrength>
-				<ubMinimumLeadership>50</ubMinimumLeadership>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
 			</CONDITIONS>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
@@ -384,7 +388,6 @@
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 		</ASSIGNMENT>
-	</FACILITYTYPE>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_AGILITY</ubAssignmentType>
 			<szTooltipText>Use the equipment here to focus on increasing your AGILITY.</szTooltipText>
@@ -398,7 +401,7 @@
 			<usPerformance>200</usPerformance>
 			<CONDITIONS>
 				<ubMinimumAgility>80</ubMinimumAgility>
-				<ubMinimumLeadership>50</ubMinimumLeadership>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
 			</CONDITIONS>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
@@ -438,15 +441,15 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
-			<szTooltipText>This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.</szTooltipText>
+			<szTooltipText>This place is a vehicle graveyard. This will certainly make vehicle repair-work considerably easier.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
-			<usPerformance>120</usPerformance>
+			<usPerformance>150</usPerformance>
 			<usFatigue>125</usFatigue>
 			<usKitDegrade>66</usKitDegrade>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.</szTooltipText>
+			<szTooltipText>This place is a great source of mechanical odds and ends. This will certainly make robot repair-work considerably easier.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>186</usPerformance>
 			<usFatigue>120</usFatigue>
@@ -462,7 +465,7 @@
 			<usPerformance>125</usPerformance>
 			<CONDITIONS>
 				<ubMinimumWisdom>60</ubMinimumWisdom>
-				<ubMinimumLeadership>50</ubMinimumLeadership>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
 			</CONDITIONS>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
@@ -505,7 +508,7 @@
 		<ubIndex>19</ubIndex>  
 		<szFacilityName>Combat Support Hospital</szFacilityName>  
 		<szFacilityShortName>Camp Hospital</szFacilityShortName>  
-		<ubTotalStaffLimit>2</ubTotalStaffLimit>  
+		<ubTotalStaffLimit>4</ubTotalStaffLimit>  
 		<ASSIGNMENT> 
 			<ubAssignmentType>DOCTOR</ubAssignmentType>  
 			<szTooltipText>Perform urgent life-saving treatment on your wounded men in this medical field station. Increases the DOCTOR's efficiency. Doesn't use up your kit.</szTooltipText>  
@@ -513,8 +516,8 @@
 			<usPerformance>133</usPerformance>  
 			<usKitDegrade>0</usKitDegrade>  
 			<CONDITIONS> 
-				<ubMinimumMedical>60</ubMinimumMedical>  
-				<ubMinimumWisdom>60</ubMinimumWisdom>  
+				<ubMinimumMedical>50</ubMinimumMedical>  
+				<ubMinimumWisdom>50</ubMinimumWisdom>  
 			</CONDITIONS>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
@@ -534,7 +537,7 @@
 			<usPerformance>125</usPerformance>
 			<CONDITIONS>
 				<ubMinimumWisdom>60</ubMinimumWisdom>
-				<ubMinimumLeadership>50</ubMinimumLeadership>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
 			</CONDITIONS>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
@@ -563,11 +566,6 @@
 				<bBaseEffect>1</bBaseEffect>
 				<ubRange>0</ubRange>
 			</MORALE>
-			<DRUNK>
-				<ubChance>400</ubChance>
-				<bBaseEffect>1</bBaseEffect>
-				<ubRange>0</ubRange>
-			</DRUNK>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
 	
@@ -649,7 +647,7 @@
 			<usPerformance>125</usPerformance>
 			<CONDITIONS>
 				<ubMinimumWisdom>60</ubMinimumWisdom>
-				<ubMinimumLeadership>50</ubMinimumLeadership>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
 			</CONDITIONS>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
@@ -754,7 +752,7 @@
 			<usPerformance>125</usPerformance>
 			<CONDITIONS>
 				<ubMinimumWisdom>60</ubMinimumWisdom>
-				<ubMinimumLeadership>50</ubMinimumLeadership>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
 			</CONDITIONS>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
@@ -836,9 +834,9 @@
 			<szTooltipText>Chow down on some good, old, greasy, soul, comfort food here -- and maybe a beer or two! If your Mercs decide to pig out they will spend their own money here.</szTooltipText>
 			<usFatigue>75</usFatigue>
 			<DRUNK>
-				<ubChance>86</ubChance>
+				<ubChance>9</ubChance>
 				<bBaseEffect>0</bBaseEffect>
-				<ubRange>2</ubRange>
+				<ubRange>1</ubRange>
 			</DRUNK>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
@@ -856,7 +854,7 @@
 			<usFatigue>80</usFatigue>
 			<usSleep>120</usSleep>
 			<CONDITIONS>
-				<ubMinimumLoyaltyHere>86</ubMinimumLoyaltyHere>
+				<ubMinimumLoyaltyHere>75</ubMinimumLoyaltyHere>
 			</CONDITIONS>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
@@ -867,7 +865,7 @@
 		<ubIndex>35</ubIndex>
 		<szFacilityName>Clothing Factory</szFacilityName>
 		<szFacilityShortName>Factory</szFacilityShortName>
-		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ubTotalStaffLimit>4</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
 			<szTooltipText>The clothing factory equipment can be useful in helping with some basic repairs, assuming you are at least a junior MacGyver.</szTooltipText>
@@ -886,7 +884,7 @@
 			<usPerformance>125</usPerformance>
 			<CONDITIONS>
 				<ubMinimumWisdom>60</ubMinimumWisdom>
-				<ubMinimumLeadership>50</ubMinimumLeadership>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
 			</CONDITIONS>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
@@ -894,6 +892,12 @@
 			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical. . . maybe then you can keep your own gear in better shape.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>125</usPerformance>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MECHANICAL</ubAssignmentType>
+			<szTooltipText>This manufacturing facility and the service manuals here are a great aid for enhancing your mechanical skill.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>133</usPerformance>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
 
@@ -935,7 +939,7 @@
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
 			<szTooltipText>Loot the local stores of supplies to help make basic repairs a bit easier. Might not exactly endear you to the citizenry, however.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
-			<usPerformance>125</usPerformance>
+			<usPerformance>130</usPerformance>
 			<usFatigue>90</usFatigue>
 			<usKitDegrade>0</usKitDegrade>
 			<LOYALTY_LOCAL>
@@ -956,9 +960,9 @@
 			<ubAssignmentType>AMBIENT</ubAssignmentType>
 			<szTooltipText>Booze, booze, and MORE booze! They sell beer in kegs! Lucky for you your Mercs will spend their own cash if they decide to paint the town red!</szTooltipText>
 			<DRUNK>
-				<ubChance>99</ubChance>
+				<ubChance>13</ubChance>
 				<bBaseEffect>0</bBaseEffect>
-				<ubRange>10</ubRange>
+				<ubRange>1</ubRange>
 			</DRUNK>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
@@ -972,9 +976,9 @@
 			<ubAssignmentType>AMBIENT</ubAssignmentType>
 			<szTooltipText>A quaint wine shop, even has the local variety -- it's the cheapest wine in the shop! If your Mercs decide to imbibe they will spend their own cash.</szTooltipText>
 			<DRUNK>
-				<ubChance>86</ubChance>
+				<ubChance>13</ubChance>
 				<bBaseEffect>0</bBaseEffect>
-				<ubRange>5</ubRange>
+				<ubRange>1</ubRange>
 			</DRUNK>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
@@ -1039,7 +1043,7 @@
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>A vehicle repair station used by the military. This will definitely make any repair-work easier, especially for vehicles.</szTooltipText>
+			<szTooltipText>A vehicle repair station used by the military. This will definitely make any repair-work easier.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>140</usPerformance>
 			<usFatigue>90</usFatigue>
@@ -1047,7 +1051,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
-			<szTooltipText>A vehicle repair station complete with tools and spare parts. This will definitely make any repair-work easier, especially for vehicles.</szTooltipText>
+			<szTooltipText>A vehicle repair station complete with tools and spare parts. This will definitely make vehicle repair-work easier.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 			<usFatigue>90</usFatigue>
@@ -1055,7 +1059,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>A vehicle repair station complete with tools and spare parts. This will definitely make any repair-work easier, especially for vehicles.</szTooltipText>
+			<szTooltipText>A vehicle repair station complete with tools and spare parts. This will definitely make robot repair-work easier.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>175</usPerformance>
 			<usFatigue>90</usFatigue>
@@ -1074,7 +1078,7 @@
 			<usPerformance>125</usPerformance>
 			<CONDITIONS>
 				<ubMinimumWisdom>60</ubMinimumWisdom>
-				<ubMinimumLeadership>50</ubMinimumLeadership>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
 			</CONDITIONS>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
@@ -1100,9 +1104,9 @@
 			<ubAssignmentType>AMBIENT</ubAssignmentType>
 			<szTooltipText>A small but well-stocked liquor shop. If your Mercs decide to imbibe they will spend their own cash.</szTooltipText>
 			<DRUNK>
-				<ubChance>86</ubChance>
+				<ubChance>13</ubChance>
 				<bBaseEffect>0</bBaseEffect>
-				<ubRange>7</ubRange>
+				<ubRange>1</ubRange>
 			</DRUNK>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
@@ -1134,9 +1138,9 @@
 				<ubRange>1</ubRange>
 			</LOYALTY_LOCAL>
 			<DRUNK>
-				<ubChance>333</ubChance>
+				<ubChance>86</ubChance>
 				<bBaseEffect>0</bBaseEffect>
-				<ubRange>10</ubRange>
+				<ubRange>2</ubRange>
 			</DRUNK>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
@@ -1153,9 +1157,9 @@
 				<ubRange>3</ubRange>
 			</LOYALTY_LOCAL>
 			<DRUNK>
-				<ubChance>86</ubChance>
+				<ubChance>13</ubChance>
 				<bBaseEffect>0</bBaseEffect>
-				<ubRange>3</ubRange>
+				<ubRange>1</ubRange>
 			</DRUNK>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
@@ -1200,10 +1204,10 @@
 		<ubIndex>49</ubIndex>
 		<szFacilityName>Waldo's Airport Workshop</szFacilityName>
 		<szFacilityShortName>Airport Workshop</szFacilityShortName>
-		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ubTotalStaffLimit>4</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>Waldo's airport workshop has many of the tools necessary for all types of repair work, including repairing vehicles!</szTooltipText>
+			<szTooltipText>Waldo's airport workshop has many of the tools necessary for all types of repair work!</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>140</usPerformance>
 			<usFatigue>86</usFatigue>
@@ -1219,7 +1223,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>Waldo's airport workshop has many of the tools necessary for all types of repair work, including repairing vehicles!</szTooltipText>
+			<szTooltipText>Waldo's airport workshop has many of the tools necessary for all types of repair work, including repairing robots!</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>166</usPerformance>
 			<usFatigue>86</usFatigue>
@@ -1235,13 +1239,13 @@
 			<usPerformance>125</usPerformance>
 			<CONDITIONS>
 				<ubMinimumWisdom>60</ubMinimumWisdom>
-				<ubMinimumLeadership>50</ubMinimumLeadership>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
 			</CONDITIONS>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
 			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical. . . maybe then you can keep your own gear in better shape.</szTooltipText>
-			<ubStaffLimit>1</ubStaffLimit>
+			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>125</usPerformance>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
@@ -1270,7 +1274,7 @@
 		<ubIndex>51</ubIndex>
 		<szFacilityName>Oil Rig</szFacilityName>
 		<szFacilityShortName>Oil Rig</szFacilityShortName>
-		<ubTotalStaffLimit>7</ubTotalStaffLimit>
+		<ubTotalStaffLimit>9</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>MANAGE_OIL_RIG</ubAssignmentType>
 			<szTooltipText>Making oil rig run efficiently is not an easy task. Without anyone competent at this position, rig income will drop.</szTooltipText>
@@ -1278,21 +1282,37 @@
 			<usMineIncomeModifier>125</usMineIncomeModifier>
 			<fOnlyLocalMineAffected>1</fOnlyLocalMineAffected>
 			<CONDITIONS>
-				<ubMinimumWisdom>70</ubMinimumWisdom>
-				<ubMinimumLeadership>70</ubMinimumLeadership>
-				<ubMinimumLoyaltyHere>70</ubMinimumLoyaltyHere>
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
+				<ubMinimumLoyaltyHere>30</ubMinimumLoyaltyHere>
 			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Train mercs in the finer points of mechanics, including the tricks of the trade.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>130</usPerformance>
+			<CONDITIONS>
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical. . . maybe then you can keep your own gear in better shape.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>130</usPerformance>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_MECHANICAL</ubAssignmentType>
 			<szTooltipText>This facility and the service manuals are a great aid for enhancing your mechanical skill.</szTooltipText>
 			<ubStaffLimit>3</ubStaffLimit>
-			<usPerformance>120</usPerformance>
+			<usPerformance>125</usPerformance>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
 			<szTooltipText>Spend some time lugging barrels from here to there. Increases the efficiency of STRENGTH practice, and when the citizens see you sweaty and dirty from rig work they just might think better of you!</szTooltipText>
-			<ubStaffLimit>3</ubStaffLimit>
+			<ubStaffLimit>9</ubStaffLimit>
 			<usPerformance>133</usPerformance>
 			<MORALE>
 				<ubChance>99</ubChance>
@@ -1305,5 +1325,282 @@
 				<ubRange>1</ubRange>
 			</LOYALTY_LOCAL>
 		</ASSIGNMENT>
-	</FACILITYTYPE>	
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>52</ubIndex>
+		<szFacilityName>Elite Barracks</szFacilityName>
+		<szFacilityShortName>Barracks</szFacilityShortName>
+		<ubTotalStaffLimit>20</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>The military equipment and infrastructure in place here allows you to maintain surveillance of enemy troop movements in the local region.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<fDetectEnemiesDynamic>1</fDetectEnemiesDynamic>
+			<ubDetectEnemiesImmediate>3</ubDetectEnemiesImmediate>
+			<CONDITIONS>
+				<ubMinimumWisdom>75</ubMinimumWisdom>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>There are plenty of beds and food here. It's got almost all the comforts of home!</szTooltipText>
+			<ubStaffLimit>10</ubStaffLimit>
+			<usPerformance>130</usPerformance>
+			<usSleep>130</usSleep>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>This military installation has the necessary tools and materials for the quick repair of all military gear.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>160</usPerformance>
+			<usKitDegrade>25</usKitDegrade>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_LEADERSHIP</ubAssignmentType>
+			<szTooltipText>Use the environment and facilities within this military installation to instill a sense of order and discipline into your operations.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>135</usPerformance>
+			<CONDITIONS>
+				<ubMinimumWisdom>50</ubMinimumWisdom>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>53</ubIndex>
+		<szFacilityName>HB Distro Ctr</szFacilityName>
+		<szFacilityShortName>HB Distro</szFacilityShortName>
+		<ubTotalStaffLimit>20</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>Increase oil rig and mine profits by supervising distribution of supplies. Also receive reports of enemy movements in the local region.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<fDetectEnemiesDynamic>1</fDetectEnemiesDynamic>
+			<ubDetectEnemiesImmediate>2</ubDetectEnemiesImmediate>
+			<usMineIncomeModifier>120</usMineIncomeModifier>
+			<CONDITIONS>
+				<ubMinimumWisdom>40</ubMinimumWisdom>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>There are plenty of beds and food here. It's got all the comforts of a first class transportation center.</szTooltipText>
+			<ubStaffLimit>10</ubStaffLimit>
+			<usPerformance>130</usPerformance>
+			<usSleep>130</usSleep>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>This corporate installation has the necessary tools and materials for the quick repair of all kinds of gear.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>150</usPerformance>
+			<usKitDegrade>25</usKitDegrade>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
+			<szTooltipText>This corporate transport center makes vehicle repiar a dream job!</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>160</usPerformance>
+			<usFatigue>50</usFatigue>
+			<usKitDegrade>25</usKitDegrade>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
+			<szTooltipText>This place is a great source of quality odds and ends. This will certainly make robot repair-work considerably easier.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>186</usPerformance>
+			<usFatigue>80</usFatigue>
+			<usKitDegrade>50</usKitDegrade>
+			<CONDITIONS>
+				<ubMinimumMechanical>60</ubMinimumMechanical>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Train mercs in the finer points of mechanics, including the tricks of the trade.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>150</usPerformance>
+			<CONDITIONS>
+				<ubMinimumWisdom>40</ubMinimumWisdom>
+				<ubMinimumLeadership>20</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical. . . maybe then you can keep your own gear in better shape.</szTooltipText>
+			<ubStaffLimit>4</ubStaffLimit>
+			<usPerformance>130</usPerformance>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Waldo's knowledge and service manuals are a great way to increase your own mechanical knowledge. Having long discussions with Waldo can be a little slow and frustrating, though.</szTooltipText>
+			<ubStaffLimit>4</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_LEADERSHIP</ubAssignmentType>
+			<szTooltipText>Use the environment and facilities within this corporate installation to instill a sense of order and efficiency into your operations.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>130</usPerformance>
+			<CONDITIONS>
+				<ubMinimumWisdom>40</ubMinimumWisdom>
+				<ubMinimumLeadership>20</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>54</ubIndex>
+		<szFacilityName>Training Camp</szFacilityName>
+		<szFacilityShortName>Camp</szFacilityShortName>
+		<ubTotalStaffLimit>20</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>The military equipment and infrastructure in place here allows you to maintain surveillance of enemy troop movements in the local region.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<fDetectEnemiesDynamic>1</fDetectEnemiesDynamic>
+			<ubDetectEnemiesImmediate>2</ubDetectEnemiesImmediate>
+			<CONDITIONS>
+				<ubMinimumWisdom>75</ubMinimumWisdom>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>There are plenty of beds here, even if it is missing a few walls! Must be a dry place to sleep here.</szTooltipText>
+			<ubStaffLimit>10</ubStaffLimit>
+			<usPerformance>120</usPerformance>
+			<usSleep>130</usSleep>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>This camp has the basic tools and materials for the quick repair of military gear.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>130</usPerformance>
+			<usKitDegrade>30</usKitDegrade>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_LEADERSHIP</ubAssignmentType>
+			<szTooltipText>Use the environment and facilities within this military installation to instill a sense of order and discipline into your operations.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>135</usPerformance>
+			<CONDITIONS>
+				<ubMinimumWisdom>50</ubMinimumWisdom>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MARKSMANSHIP</ubAssignmentType>
+			<szTooltipText>A great place to plink away all afternoon! Increases the efficiency of MARKSMANSHIP training.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MARKSMANSHIP</ubAssignmentType>
+			<szTooltipText>Teach these recruits how to hit what they aim at with some MARKSMANSHIP lessons.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+			<CONDITIONS>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MARKSMANSHIP</ubAssignmentType>
+			<szTooltipText>Learn how to conserve ammo by hitting your target the first time.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
+			<szTooltipText>Use the equipment here to focus on increasing your Strength.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>133</usPerformance>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_STRENGTH</ubAssignmentType>
+			<szTooltipText>Utilize this gym to provide some STRENGTH training to the scrawniest member of your squad.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+			<CONDITIONS>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_STRENGTH</ubAssignmentType>
+			<szTooltipText>Build up those biceps! Learn some STRENGTH training from musclebound member in your squad.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>55</ubIndex>
+		<szFacilityName>Dam</szFacilityName>
+		<szFacilityShortName>Dam</szFacilityShortName>
+		<ubTotalStaffLimit>6</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>The people in the region would probably like someone competent managing this Dam so they don't get flooded.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usFatigue>110</usFatigue>
+			<LOYALTY_GLOBAL>
+				<ubChance>42</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>3</ubRange>
+			</LOYALTY_GLOBAL>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>The Dam workshop has many of the tools necessary for all types of repair work!</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>150</usPerformance>
+			<usFatigue>75</usFatigue>
+			<usKitDegrade>15</usKitDegrade>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
+			<szTooltipText>The Dam workshop has many of the tools necessary for all types of repair work, including repairing vehicles!</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+			<usFatigue>75</usFatigue>
+			<usKitDegrade>20</usKitDegrade>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
+			<szTooltipText>The Dam workshop has many of the tools necessary for all types of repair work, including repairing robots!</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>175</usPerformance>
+			<usFatigue>75</usFatigue>
+			<usKitDegrade>50</usKitDegrade>
+			<CONDITIONS>
+				<ubMinimumMechanical>50</ubMinimumMechanical>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Train mercs in the finer points of mechanics, including the tricks of the trade.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+			<CONDITIONS>
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical. . . maybe then you can keep your own gear in better shape.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Waldo's knowledge and service manuals are a great way to increase your own mechanical knowledge. Having long discussions with Waldo can be a little slow and frustrating, though.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>125</usPerformance>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
 </FACILITYTYPES>
