@@ -48477,7 +48477,7 @@
 		<szLongItemName>Stun Gun</szLongItemName>
 		<szItemDesc>If applied correctly, this stun gun will hit anyone it touches with over 2 million volts. In case you find yourself in need of a drooling, helpless victim.</szItemDesc>
 		<szBRName>Stun Gun</szBRName>
-		<szBRDesc>At 2 million V, this baby will leave even the sturdiest men helpless on the floor. Batteries not included!</szBRDesc>
+		<szBRDesc>At 2 million volts, this baby will leave even the sturdiest men helpless on the floor gibbering like a retard. Batteries not included.</szBRDesc>
 		<usItemClass>128</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1626</ubClassIndex>
@@ -57647,10 +57647,10 @@
 		<szBRDesc>The Classic WWII SMG from the Nazis has a relatively low rate of fire making this gun easily controllable in full auto.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2103</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>524288</AvailableAttachmentPoint>	<!-- Sights - Aperture Sights -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>531</ubGraphicNum>
@@ -58706,10 +58706,10 @@
 		<szBRDesc>The Classic WWII SMG from the Nazis has a relatively low rate of fire making this gun easily controllable in full auto.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2103</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
-		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
-		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>			<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>524288</AvailableAttachmentPoint>			<!-- Sights - Aperture Sights -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>680</ubGraphicNum>
