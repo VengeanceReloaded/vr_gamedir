@@ -3953,6 +3953,14 @@
 		<mergeType>4</mergeType>
 		<APCost>40</APCost>
 	</MERGE>
+		<MERGE>
+		<firstItemIndex>2821</firstItemIndex>
+		<secondItemIndex>760</secondItemIndex>
+		<firstResultingItemIndex>2095</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>40</APCost>
+	</MERGE>
 	<MERGE>
 		<firstItemIndex>2917</firstItemIndex>
 		<secondItemIndex>147</secondItemIndex>
