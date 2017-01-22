@@ -54539,6 +54539,18 @@
 		<szBRDesc>The full automatic Auto Assault 12 Close Quarter shotgun is a devestating weapon system that can empty its 20 shell drum magazine with an insane rate of 360 rounds per minute.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2008</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>				<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>				<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>				<!-- Laser - Rifle Lam -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
+		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>414</ubGraphicNum>
@@ -54568,9 +54580,22 @@
 		<szLongItemName>Whisper Kitty</szLongItemName>
 		<szItemDesc>The Whisper Kitty is a new generation silenced rifle for black ops, that uses the rare 7.62x37mm subsonic bullet. It's fitted with a picatinny rail, allowing a wide variety of attachments.</szItemDesc>
 		<szBRName>Whisper Kitty</szBRName>
-		<szBRDesc>The Whisper Kitty is a new generation silenced rifle for black ops, that uses the rare 7.62x37mm subsonic bullet. It's fitted with a picatinny rail, allowing a wide variety of attachments.</szBRDesc>
+		<szBRDesc>The Whisper Kitty is a new generation silenced rifle for black ops using 7.62x37mm subsonic bullets. It's fitted with a picatinny rail, allowing a wide variety of attachments.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2009</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>				<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>				<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>				<!-- Laser - Rifle Lam -->
+		<AvailableAttachmentPoint>2048</AvailableAttachmentPoint>			<!-- Muzzle - Sniper Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>418</ubGraphicNum>
@@ -54779,6 +54804,14 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2015</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>423</ubGraphicNum>
@@ -54797,6 +54830,7 @@
 		<BR_ROF>750</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
+		<DefaultAttachment>1010</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
