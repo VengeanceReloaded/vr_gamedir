@@ -8304,7 +8304,8 @@
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>208</ubGraphicNum>
 		<ubWeight>1</ubWeight>
-		<ItemSize>18</ItemSize>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>13</ItemSize>
 		<usPrice>20</usPrice>
 		<ubCoolness>4</ubCoolness>
 		<Damageable>1</Damageable>
