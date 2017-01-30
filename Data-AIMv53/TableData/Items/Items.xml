@@ -823,8 +823,8 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
 		<AvailableAttachmentPoint>128</AvailableAttachmentPoint>	<!-- UB - AK Bayonet -->
+		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>	<!-- Muzzle - AR Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<ubClassIndex>17</ubClassIndex>		
 		<ubCursor>3</ubCursor>
@@ -864,6 +864,12 @@
 		<ubClassIndex>18</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>18</ubGraphicNum>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>2048</AvailableAttachmentPoint>	<!-- Muzzle - Sniper Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>	<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>35184372088832</AvailableAttachmentPoint>	<!-- Scopes - PSO-1 -->
+		<AvailableAttachmentPoint>70368744177664</AvailableAttachmentPoint>	<!-- Scopes - PSO-3 -->
 		<ubWeight>37</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>6449</usPrice>
@@ -20343,6 +20349,10 @@
 		<ubClassIndex>693</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>212</ubGraphicNum>
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>16384</AvailableAttachmentPoint>	<!-- Muzzle - Rifle Grenade -->
+		<AvailableAttachmentPoint>562949953421312</AvailableAttachmentPoint>	<!-- Scopes - PEM -->
+		<AvailableAttachmentPoint>1125899906842624</AvailableAttachmentPoint>	<!-- Scopes - PU -->
 		<ubWeight>39</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>2190</usPrice>
@@ -29006,9 +29016,11 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<Flare>1</Flare>
 		<buddyitem>2457</buddyitem>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<ItemChoiceTimeSetting>2</ItemChoiceTimeSetting>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -54412,36 +54424,19 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2005</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>	<!-- Laser - Small -->
-		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>	<!-- Laser - LAM -->
-		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>	<!-- Laser - Rifle Lam -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>128</AvailableAttachmentPoint>	<!-- UB - AK Bayonet -->
 		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>	<!-- Muzzle - AR Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>	<!-- Muzzle - Gun Barrel Extender -->
-		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>	<!-- Sights - Match Sights -->
-		<AvailableAttachmentPoint>524288</AvailableAttachmentPoint>	<!-- Sights - Aperture Sights -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>8388608</AvailableAttachmentPoint>	<!-- Sights - AK Night Sight -->
 		<AvailableAttachmentPoint>16777216</AvailableAttachmentPoint>	<!-- Sights - Kobra -->
-		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>	<!-- UB - Bipod -->
-		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>	<!-- UB - Foregrip -->
-		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>	<!-- UB - Grippod/GripLight -->
-		<AvailableAttachmentPoint>1073741824</AvailableAttachmentPoint>	<!-- Adapter - 7.62x39 WP Drum -->
-		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>	<!-- Internal - Trigger Group -->
-		<AvailableAttachmentPoint>17179869184</AvailableAttachmentPoint>	<!-- Internal - Match Trigger -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>137438953472</AvailableAttachmentPoint>	<!-- Stock - Retractable, Shock -->
-		<AvailableAttachmentPoint>274877906944</AvailableAttachmentPoint>	<!-- Laser - AK Corsac -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
-		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
-		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
 		<AvailableAttachmentPoint>35184372088832</AvailableAttachmentPoint>	<!-- Scopes - PSO-1 -->
 		<AvailableAttachmentPoint>70368744177664</AvailableAttachmentPoint>	<!-- Scopes - PSO-3 -->
-		<AvailableAttachmentPoint>1125899906842624</AvailableAttachmentPoint>	<!-- Scopes - PU -->
-		<AvailableAttachmentPoint>1152921504606846976</AvailableAttachmentPoint>	<!-- UB Launcher - GP-30 -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>415</ubGraphicNum>
@@ -55148,27 +55143,13 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2023</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>	<!-- Laser - Small -->
-		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>	<!-- Laser - LAM -->
-		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>	<!-- Laser - Rifle Lam -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>	<!-- Muzzle - Gun Barrel Extender -->
-		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>	<!-- Sights - Match Sights -->
-		<AvailableAttachmentPoint>524288</AvailableAttachmentPoint>	<!-- Sights - Aperture Sights -->
-		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>2048</AvailableAttachmentPoint>	<!-- Muzzle - Sniper Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>8388608</AvailableAttachmentPoint>	<!-- Sights - AK Night Sight -->
-		<AvailableAttachmentPoint>16777216</AvailableAttachmentPoint>	<!-- Sights - Kobra -->
-		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>	<!-- Internal - Trigger Group -->
-		<AvailableAttachmentPoint>17179869184</AvailableAttachmentPoint>	<!-- Internal - Match Trigger -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
-		<AvailableAttachmentPoint>274877906944</AvailableAttachmentPoint>	<!-- Laser - AK Corsac -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
-		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
-		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
-		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
-		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
 		<AvailableAttachmentPoint>35184372088832</AvailableAttachmentPoint>	<!-- Scopes - PSO-1 -->
 		<AvailableAttachmentPoint>70368744177664</AvailableAttachmentPoint>	<!-- Scopes - PSO-3 -->
-		<AvailableAttachmentPoint>1125899906842624</AvailableAttachmentPoint>	<!-- Scopes - PU -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>94</ubGraphicNum>
@@ -55678,11 +55659,8 @@
 		<szBRDesc>This rare self-loading semi-automatic rifle has an odd ejection mechanism, which ejects the empty cases upwards. Therefore it will only accept  the ancient PEM scope. It is still a formidable weapon.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2036</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
-		<AvailableAttachmentPoint>128</AvailableAttachmentPoint>	<!-- UB - AK Bayonet -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
-		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>562949953421312</AvailableAttachmentPoint>	<!-- Scopes - PEM -->
 		<AvailableAttachmentPoint>1125899906842624</AvailableAttachmentPoint>	<!-- Scopes - PU -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
@@ -59986,8 +59964,8 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
 		<AvailableAttachmentPoint>128</AvailableAttachmentPoint>	<!-- UB - AK Bayonet -->
+		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>	<!-- Muzzle - AR Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>1125899906842624</AvailableAttachmentPoint>	<!-- Scopes - PU -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<DefaultAttachment>2131</DefaultAttachment>

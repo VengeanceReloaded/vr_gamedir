@@ -680,7 +680,7 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- LRAK MG-Vest -->
 		<lbeIndex>34</lbeIndex>
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
@@ -697,8 +697,8 @@
 		<lbePocketIndex8>0</lbePocketIndex8>
 		<lbePocketIndex9>0</lbePocketIndex9>
 		<lbePocketIndex10>0</lbePocketIndex10>
-		<lbePocketIndex11>22</lbePocketIndex11>
-		<lbePocketIndex12>22</lbePocketIndex12>
+		<lbePocketIndex11>6</lbePocketIndex11>
+		<lbePocketIndex12>6</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>		<!-- First Aid Rig -->
 		<lbeIndex>35</lbeIndex>
@@ -1841,15 +1841,15 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>
+	<LOADBEARINGEQUIPMENT>		<!-- Sporting Clay Vest -->
 		<lbeIndex>92</lbeIndex>
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>29</lbeFilledSize>
 		<lbeAvailableVolume>12</lbeAvailableVolume>
 		<lbePocketsAvailable>96</lbePocketsAvailable>
-		<lbePocketIndex1>42</lbePocketIndex1>
-		<lbePocketIndex2>42</lbePocketIndex2>
+		<lbePocketIndex1>40</lbePocketIndex1>
+		<lbePocketIndex2>40</lbePocketIndex2>
 		<lbePocketIndex3>16</lbePocketIndex3>
 		<lbePocketIndex4>16</lbePocketIndex4>
 		<lbePocketIndex5>0</lbePocketIndex5>
