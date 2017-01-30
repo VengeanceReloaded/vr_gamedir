@@ -669,7 +669,7 @@
 		<ubVolatility>0</ubVolatility>
 		<ubAnimationID>1</ubAnimationID>
 		<ubDuration>6</ubDuration>
-		<ubStartRadius>8</ubStartRadius>
+		<ubStartRadius>6</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
 		<usNumFragments>0</usNumFragments>
