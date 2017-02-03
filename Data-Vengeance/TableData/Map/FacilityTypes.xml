@@ -8,7 +8,7 @@
 	<FACILITYTYPE>
 		<ubIndex>1</ubIndex>
 		<szFacilityName>Field Hospital</szFacilityName>
-		<szFacilityShortName>Field Hospital</szFacilityShortName>
+		<szFacilityShortName>Field Hosp.</szFacilityShortName>
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>DOCTOR</ubAssignmentType>
@@ -315,7 +315,7 @@
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
 			<szTooltipText>A solemn hour of prayer and devotion in a quiet little church can help raise anyone's spirit. It might also convince the locals that you respect their way of life.</szTooltipText>
-			<ubStaffLimit>1</ubStaffLimit>
+			<ubStaffLimit>6</ubStaffLimit>
 			<usPerformance>130</usPerformance>
 			<CONDITIONS>
 			</CONDITIONS>
@@ -339,7 +339,7 @@
 		<ubTotalStaffLimit>8</ubTotalStaffLimit>	
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_HEALTH</ubAssignmentType>
-			<szTooltipText>A great place to get a balanced work-out that might improve your shape considerably. Increases the efficiency of HEALTH training.</szTooltipText>
+			<szTooltipText>A great place to get a balanced work-out that might improve your fitness considerably. Increases the efficiency of HEALTH training.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 			<CONDITIONS>
@@ -661,7 +661,7 @@
 	<FACILITYTYPE>
 		<ubIndex>24</ubIndex>
 		<szFacilityName>Public Aid Station</szFacilityName>
-		<szFacilityShortName>Aid Station</szFacilityShortName>
+		<szFacilityShortName>Aid Stn</szFacilityShortName>
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>	
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_MEDICAL</ubAssignmentType>
@@ -716,7 +716,7 @@
 	<FACILITYTYPE>
 		<ubIndex>27</ubIndex>
 		<szFacilityName>Dave's Race Course</szFacilityName>
-		<szFacilityShortName>Race Course</szFacilityShortName>
+		<szFacilityShortName>Race Trk</szFacilityShortName>
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
@@ -1168,7 +1168,7 @@
 	<FACILITYTYPE> 
 		<ubIndex>47</ubIndex>  
 		<szFacilityName>Toxic Waste Site</szFacilityName>  
-		<szFacilityShortName>Toxic Waste</szFacilityShortName>  
+		<szFacilityShortName>Toxic</szFacilityShortName>  
 		<ASSIGNMENT> 
 			<ubAssignmentType>AMBIENT</ubAssignmentType>
 			<szTooltipText>The oil and poisonous waste chemicals that coat everything here are not exactly healthy . . . the smell in the air actually makes you feel queasy, and it is hard to breathe.</szTooltipText>  
@@ -1186,7 +1186,7 @@
 	<FACILITYTYPE> 
 		<ubIndex>48</ubIndex>  
 		<szFacilityName>Killing Fields</szFacilityName>  
-		<szFacilityShortName>Killing Fields</szFacilityShortName>  
+		<szFacilityShortName>Graves</szFacilityShortName>  
 		<ASSIGNMENT> 
 			<ubAssignmentType>AMBIENT</ubAssignmentType>
 			<szTooltipText>This is the scene of a desperate pitched battle between government and rebel forces. Evidence of mass carnage is everywhere. Being here will either alarm your fear of death, or reinforce your determination to kill the Queen.</szTooltipText>  
@@ -1203,7 +1203,7 @@
 	<FACILITYTYPE>
 		<ubIndex>49</ubIndex>
 		<szFacilityName>Waldo's Airport Workshop</szFacilityName>
-		<szFacilityShortName>Airport Workshop</szFacilityShortName>
+		<szFacilityShortName>Workshop</szFacilityShortName>
 		<ubTotalStaffLimit>4</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>

@@ -171,7 +171,7 @@ Changes do not require starting of a new game.
 			<uiIndex>10</uiIndex>
 			<townName>Malino</townName>
 			<townUsesLoyalty>1</townUsesLoyalty>
-			<townRebelSentiment>12</townRebelSentiment>
+			<townRebelSentiment>6</townRebelSentiment>
 			<townMilitiaAllowed>1</townMilitiaAllowed>
 			<baseSector>
 				<x>9</x>
@@ -186,7 +186,7 @@ Changes do not require starting of a new game.
 			<uiIndex>11</uiIndex>
 			<townName>Burton</townName>
 			<townUsesLoyalty>1</townUsesLoyalty>
-			<townRebelSentiment>10</townRebelSentiment>
+			<townRebelSentiment>5</townRebelSentiment>
 			<townMilitiaAllowed>1</townMilitiaAllowed>
 			<baseSector>
 				<x>2</x>
