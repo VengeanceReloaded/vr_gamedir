@@ -42658,6 +42658,8 @@
 		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -42830,6 +42832,8 @@
 		<ubCoolness>2</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -43054,6 +43058,8 @@
 		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -43201,6 +43207,8 @@
 		<ubCoolness>3</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -43377,6 +43385,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<RangeBonus>50</RangeBonus>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -43424,6 +43434,8 @@
 		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -43475,6 +43487,8 @@
 		<BulletSpeedBonus>-10</BulletSpeedBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>6</AutoFireToHitBonus>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -43548,6 +43562,8 @@
 		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -43699,6 +43715,8 @@
 		<BulletSpeedBonus>-10</BulletSpeedBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>6</AutoFireToHitBonus>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -43722,6 +43740,8 @@
 		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -43847,6 +43867,8 @@
 		<BulletSpeedBonus>-10</BulletSpeedBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>6</AutoFireToHitBonus>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -43896,6 +43918,8 @@
 		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -43947,6 +43971,8 @@
 		<BulletSpeedBonus>-10</BulletSpeedBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>6</AutoFireToHitBonus>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -43996,6 +44022,8 @@
 		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44069,6 +44097,8 @@
 		<ubCoolness>5</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44092,7 +44122,7 @@
 		<ubCoolness>4</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<BR_NewInventory>4</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44140,6 +44170,8 @@
 		<usPrice>100</usPrice>
 		<ubCoolness>2</ubCoolness>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44164,6 +44196,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44213,7 +44247,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44264,6 +44299,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44413,6 +44450,8 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>5</BR_NewInventory>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44437,7 +44476,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>4</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44462,6 +44501,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44510,7 +44551,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>4</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44535,7 +44576,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>3</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44560,6 +44601,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44608,7 +44651,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>2</BR_NewInventory>
+		<BR_NewInventory>1</BR_NewInventory>
 		<RangeBonus>70</RangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -44660,6 +44703,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44688,6 +44733,8 @@
 		<BulletSpeedBonus>-10</BulletSpeedBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>6</AutoFireToHitBonus>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44713,7 +44760,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>2</BR_NewInventory>
+		<BR_NewInventory>1</BR_NewInventory>
 		<RangeBonus>120</RangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -44739,6 +44786,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44763,7 +44812,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>4</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44788,7 +44837,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>3</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44813,6 +44862,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44886,7 +44937,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>4</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44911,7 +44962,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>3</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -44936,6 +44987,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45009,7 +45062,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>2</BR_NewInventory>
+		<BR_NewInventory>1</BR_NewInventory>
 		<RangeBonus>70</RangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -45035,7 +45088,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>3</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45060,7 +45113,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>2</BR_NewInventory>
+		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45182,6 +45235,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45206,7 +45261,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>3</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45231,7 +45286,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>3</BR_NewInventory>
+		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45256,7 +45311,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>2</BR_NewInventory>
+		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45281,6 +45336,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45305,7 +45362,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>3</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45355,6 +45412,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45379,6 +45438,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45403,7 +45464,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>3</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45428,6 +45489,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45452,7 +45515,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>4</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45477,6 +45540,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45550,6 +45615,8 @@
 		<ubCoolness>7</ubCoolness>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45574,6 +45641,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45597,7 +45666,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>4</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45622,6 +45691,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45646,7 +45717,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>3</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45671,6 +45742,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45695,7 +45768,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>3</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45719,7 +45792,9 @@
 		<ubCoolness>7</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<BigGunList>1</BigGunList>	
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>	
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45744,7 +45819,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>3</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -62241,7 +62316,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>3</BR_NewInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -62266,7 +62341,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>2</BR_NewInventory>
+		<BR_NewInventory>1</BR_NewInventory>
 		<RangeBonus>50</RangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -63121,6 +63196,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
