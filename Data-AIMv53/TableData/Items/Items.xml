@@ -4344,6 +4344,8 @@
 		<Attachment>1</Attachment>
 		<Mine>1</Mine>
 		<HiddenAddon>1</HiddenAddon>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -4459,6 +4461,8 @@
 		<Attachment>1</Attachment>
 		<LockBomb>1</LockBomb>
 		<HiddenAddon>1</HiddenAddon>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -45811,6 +45815,8 @@
 		<Directional>1</Directional>
 		<TripWireActivation>1</TripWireActivation>
 		<HiddenAddon>1</HiddenAddon>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<usActionItemFlag>256</usActionItemFlag>
 		<STAND_MODIFIERS />
@@ -64874,6 +64880,8 @@
 		<Metal>1</Metal>
 		<Mine>1</Mine>
 		<HiddenAddon>1</HiddenAddon>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -66293,6 +66301,8 @@
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
 		<HiddenAddon>1</HiddenAddon>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
