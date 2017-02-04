@@ -10108,9 +10108,7 @@
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>		<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>		<!-- Muzzle - Gun Barrel Extender -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>		<!-- Internal - Trigger Group -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
@@ -18086,12 +18084,10 @@
 		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>		<!-- Muzzle - Gun Barrel Extender -->
-		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
-		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
-		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>	<!-- UB - Grippod/GripLight -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
 		<AvailableAttachmentPoint>2147483648</AvailableAttachmentPoint>		<!-- Adapter - 5.56x45 C-Mag -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>576460752303423488</AvailableAttachmentPoint>	<!-- UB Launcher - M203PI -->
@@ -21587,7 +21583,6 @@
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<ubCursor>3</ubCursor>
@@ -54296,12 +54291,7 @@
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2002</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>				<!-- Laser - Small -->
-		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>				<!-- Laser - LAM -->
-		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>				<!-- Laser - Rifle Lam -->
-		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
-		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
-		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
-		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>406</ubGraphicNum>
@@ -54338,17 +54328,14 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2003</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>		<!-- Muzzle - Gun Barrel Extender -->
-		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
-		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
-		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>	<!-- UB - Grippod/GripLight -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
 		<AvailableAttachmentPoint>2147483648</AvailableAttachmentPoint>		<!-- Adapter - 5.56x45 C-Mag -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>137438953472</AvailableAttachmentPoint>	<!-- Stock - Retractable, Shock -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
@@ -54385,20 +54372,17 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2004</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>				<!-- Laser - Small -->
-		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>				<!-- Laser - LAM -->
-		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>				<!-- Laser - Rifle Lam -->
-		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>				<!-- UB - Bayonet -->
-		<AvailableAttachmentPoint>2048</AvailableAttachmentPoint>			<!-- Muzzle - Sniper Suppressor -->
-		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>			<!-- Muzzle - Gun Barrel Extender -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>2048</AvailableAttachmentPoint>		<!-- Muzzle - Sniper Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
-		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>	<!-- UB - Foregrip -->
+		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
 		<AvailableAttachmentPoint>2147483648</AvailableAttachmentPoint>		<!-- Adapter - 5.56x45 C-Mag -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
@@ -54435,13 +54419,13 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2005</ubClassIndex>
-		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
-		<AvailableAttachmentPoint>128</AvailableAttachmentPoint>	<!-- UB - AK Bayonet -->
-		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>	<!-- Muzzle - AR Suppressor -->
-		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
-		<AvailableAttachmentPoint>8388608</AvailableAttachmentPoint>	<!-- Sights - AK Night Sight -->
-		<AvailableAttachmentPoint>16777216</AvailableAttachmentPoint>	<!-- Sights - Kobra -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>128</AvailableAttachmentPoint>		<!-- UB - AK Bayonet -->
+		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>		<!-- Muzzle - AR Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>8388608</AvailableAttachmentPoint>		<!-- Sights - AK Night Sight -->
+		<AvailableAttachmentPoint>16777216</AvailableAttachmentPoint>		<!-- Sights - Kobra -->
 		<AvailableAttachmentPoint>137438953472</AvailableAttachmentPoint>	<!-- Stock - Retractable, Shock -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
@@ -54475,7 +54459,7 @@
 		<szItemName>KRISS</szItemName>
 		<szLongItemName>KRISS Super V</szLongItemName>
 		<szItemDesc>The KRISS Super V is a new generation PDW with a very high rate of fire. Due to it's new recoil system it's very easy to control during burst fire.</szItemDesc>
-		<szBRName>KRISSSuper V</szBRName>
+		<szBRName>KRISS Super V</szBRName>
 		<szBRDesc>The KRISS Super V is a new generation PDW with a very high rate of fire but due to a new recoil system is very easy to control during burst fire. The KRISS makes good use of the old .45 ACP caliber.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2006</ubClassIndex>
@@ -54549,16 +54533,15 @@
 		<szBRDesc>The full automatic Auto Assault 12 Close Quarter shotgun is a devestating weapon system that can empty its 20 shell drum magazine with an insane rate of 360 rounds per minute.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2008</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>				<!-- Laser - Small -->
-		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>				<!-- Laser - LAM -->
-		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>				<!-- Laser - Rifle Lam -->
-		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>65536</AvailableAttachmentPoint>			<!-- Muzzle - Duckbill -->
-		<AvailableAttachmentPoint>131072</AvailableAttachmentPoint>			<!-- Muzzle - Choke -->
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>65536</AvailableAttachmentPoint>		<!-- Muzzle - Duckbill -->
+		<AvailableAttachmentPoint>131072</AvailableAttachmentPoint>		<!-- Muzzle - Choke -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
@@ -54595,14 +54578,12 @@
 		<szBRDesc>The Whisper Kitty is a new generation silenced rifle for black ops using 7.62x37mm subsonic bullets. It's fitted with a picatinny rail, allowing a wide variety of attachments.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2009</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>				<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>				<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>				<!-- Laser - Rifle Lam -->
 		<AvailableAttachmentPoint>2048</AvailableAttachmentPoint>			<!-- Muzzle - Sniper Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
@@ -54816,12 +54797,10 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2015</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<ubCursor>3</ubCursor>
@@ -54857,13 +54836,11 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2016</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<ubCursor>3</ubCursor>
@@ -54934,12 +54911,10 @@
 		<szBRDesc>Chews through Kevlar like it was butter. The FN-P90 is a blowback machine pistol with truly powerful ballistic capabilities. All controls are fully ambidextrous, with a cocking handle fitted on both sides and two open sights. This version is fitted with the Picatinny rail.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2018</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->	
 		<ubCursor>3</ubCursor>
@@ -54984,7 +54959,6 @@
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->	
 		<ubCursor>3</ubCursor>
@@ -55020,14 +54994,12 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2020</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->	
 		<ubCursor>3</ubCursor>
@@ -55062,7 +55034,6 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2021</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>				<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>				<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>				<!-- Laser - Rifle Lam -->
 		<AvailableAttachmentPoint>65536</AvailableAttachmentPoint>			<!-- Muzzle - Duckbill -->
@@ -55070,7 +55041,6 @@
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
@@ -55109,7 +55079,6 @@
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
@@ -55320,16 +55289,12 @@
 		<szBRDesc>This sniper variant of the Noveske N4 rifle has a 20" barrel and fires 6.8 SPC ammunition.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2028</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>				<!-- Laser - Small -->
-		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>				<!-- Laser - LAM -->
-		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>				<!-- Laser - Rifle Lam -->
-		<AvailableAttachmentPoint>2048</AvailableAttachmentPoint>			<!-- Muzzle - Sniper Suppressor -->
-		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
+		<AvailableAttachmentPoint>2048</AvailableAttachmentPoint>		<!-- Muzzle - Sniper Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->		
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
-		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
-		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
 		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->
@@ -55365,20 +55330,16 @@
 		<szBRDesc>Noveske Rifleworks is known for making some of the most innovative and rugged rifles in the world, and their Leonidas continues the tradition. This 7.62mm battle rifle is the universal answer to problems foreign and domestic.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2029</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>				<!-- Laser - Small -->
-		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>				<!-- Laser - LAM -->
-		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>				<!-- Laser - Rifle Lam -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>			<!-- Muzzle - Gun Barrel Extender -->
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
+		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>		<!-- Muzzle - AR Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
-		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
-		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>		<!-- Rifle Sling -->
-		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>		<!-- Scopes - Rifle 3.5x -->
-		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>		<!-- Scopes - Acog 4x -->
-		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>		<!-- Internal - Trigger Group -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>443</ubGraphicNum>
@@ -55399,7 +55360,8 @@
 		<PercentNoiseReduction>10</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<DefaultAttachment>1003</DefaultAttachment>
+		<DefaultAttachment>949</DefaultAttachment>
+		<DefaultAttachment>1011</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -55414,18 +55376,16 @@
 		<szBRDesc>The Noveske Diplomat is a very compact 5.56mm assault rifle.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2030</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>				<!-- Laser - Small -->
-		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>				<!-- Laser - LAM -->
-		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>				<!-- Laser - Rifle Lam -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>			<!-- Muzzle - Gun Barrel Extender -->
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
+		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>		<!-- Muzzle - AR Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
-		<AvailableAttachmentPoint>2147483648</AvailableAttachmentPoint>			<!-- Adapter - 5.56x45 C-Mag -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
-		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>		<!-- Scopes - Rifle 3.5x -->
-		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>		<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>2147483648</AvailableAttachmentPoint>		<!-- Adapter - 5.56x45 C-Mag -->
+		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>		<!-- Internal - Trigger Group -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>441</ubGraphicNum>
@@ -55445,7 +55405,8 @@
 		<PercentNoiseReduction>10</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<DefaultAttachment>1003</DefaultAttachment>
+		<DefaultAttachment>1005</DefaultAttachment>
+		<DefaultAttachment>1006</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -55460,21 +55421,17 @@
 		<szBRDesc>The Noveske Complete is a reliable and accurate 5.56mm assault rifle, especially designed for close quarters.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2031</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>				<!-- Laser - Small -->
-		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>				<!-- Laser - LAM -->
-		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>				<!-- Laser - Rifle Lam -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>			<!-- Muzzle - Gun Barrel Extender -->
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
+		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>		<!-- Muzzle - AR Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
-		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
-		<AvailableAttachmentPoint>2147483648</AvailableAttachmentPoint>			<!-- Adapter - 5.56x45 C-Mag -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
-		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>		<!-- Rifle Sling -->
-		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>		<!-- Scopes - Rifle 3.5x -->
-		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>		<!-- Scopes - Acog 4x -->
-		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>2147483648</AvailableAttachmentPoint>		<!-- Adapter - 5.56x45 C-Mag -->
+		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>		<!-- Internal - Trigger Group -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>442</ubGraphicNum>
@@ -55494,8 +55451,7 @@
 		<PercentNoiseReduction>10</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<ToHitBonus>-1</ToHitBonus>
-		<DefaultAttachment>1003</DefaultAttachment>
-		<DefaultAttachment>1004</DefaultAttachment>
+		<DefaultAttachment>1007</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -55511,15 +55467,12 @@
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2032</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
-		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>		<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>			<!-- Muzzle - Gun Barrel Extender -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->	
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
@@ -55556,16 +55509,12 @@
 		<szBRDesc>Simple and rugged and with that oh so familiar Garand style action the Ruger Mini-30 combines classic features made from quality materials. Chambered in 7.62x39.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2033</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>				<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>				<!-- Laser - LAM -->
-		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>				<!-- Laser - Rifle Lam -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
-		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->	
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>445</ubGraphicNum>
@@ -55603,9 +55552,7 @@
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
-		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
 		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->
 		<ubCursor>3</ubCursor>
@@ -55642,16 +55589,13 @@
 		<szBRDesc>The Styer AUG-A1 is a reliable assault rifle with integrated scope. It has a slightly higher rate of rate than the A2, but is not as accurate.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2035</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>				<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>				<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>				<!-- Laser - Rifle Lam -->
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>				<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>			<!-- Muzzle - Gun Barrel Extender -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>2305843009213693952</AvailableAttachmentPoint>	<!-- UB Launcher - AG-36 -->
@@ -55732,32 +55676,19 @@
 		<szBRDesc>Quite a recent Russian SMG design. The Vityaz is based on the AKS-74U and can be considered a true contender to the HK MP5.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2037</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>	<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>	<!-- Laser - LAM -->
-		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>	<!-- Laser - Rifle Lam -->
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>	<!-- Muzzle - Gun Barrel Extender -->
-		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>	<!-- Sights - Match Sights -->
-		<AvailableAttachmentPoint>524288</AvailableAttachmentPoint>	<!-- Sights - Aperture Sights -->
-		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
-		<AvailableAttachmentPoint>8388608</AvailableAttachmentPoint>	<!-- Sights - AK Night Sight -->
 		<AvailableAttachmentPoint>16777216</AvailableAttachmentPoint>	<!-- Sights - Kobra -->
 		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>	<!-- UB - Foregrip -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>	<!-- UB - Grippod/GripLight -->
-		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>	<!-- Internal - Trigger Group -->
-		<AvailableAttachmentPoint>17179869184</AvailableAttachmentPoint>	<!-- Internal - Match Trigger -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
-		<AvailableAttachmentPoint>137438953472</AvailableAttachmentPoint>	<!-- Stock - Retractable, Shock -->
 		<AvailableAttachmentPoint>274877906944</AvailableAttachmentPoint>	<!-- Laser - AK Corsac -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
-		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
 		<AvailableAttachmentPoint>35184372088832</AvailableAttachmentPoint>	<!-- Scopes - PSO-1 -->
 		<AvailableAttachmentPoint>70368744177664</AvailableAttachmentPoint>	<!-- Scopes - PSO-3 -->
-		<AvailableAttachmentPoint>1125899906842624</AvailableAttachmentPoint>	<!-- Scopes - PU -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>454</ubGraphicNum>
@@ -56221,16 +56152,13 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2050</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>		<!-- Muzzle - Gun Barrel Extender -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>	<!-- UB - Grippod/GripLight -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>576460752303423488</AvailableAttachmentPoint>	<!-- UB Launcher - M203PI -->
@@ -56252,7 +56180,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>800</BR_ROF>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
-		<DefaultAttachment>1001</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56267,16 +56194,13 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2051</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>		<!-- Muzzle - Gun Barrel Extender -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>	<!-- UB - Grippod/GripLight -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>576460752303423488</AvailableAttachmentPoint>	<!-- UB Launcher - M203PI -->
@@ -56298,7 +56222,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>800</BR_ROF>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
-		<DefaultAttachment>1001</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56313,15 +56236,12 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2052</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>		<!-- Muzzle - Gun Barrel Extender -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>	<!-- UB - Grippod/GripLight -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<ubCursor>3</ubCursor>
@@ -56342,7 +56262,6 @@
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
-		<DefaultAttachment>1001</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56357,16 +56276,13 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2053</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>		<!-- Muzzle - Gun Barrel Extender -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>	<!-- UB - Grippod/GripLight -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>576460752303423488</AvailableAttachmentPoint>	<!-- UB Launcher - M203PI -->
@@ -56389,7 +56305,6 @@
 		<BR_ROF>950</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
-		<DefaultAttachment>1001</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -56408,9 +56323,7 @@
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>		<!-- Muzzle - Gun Barrel Extender -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>576460752303423488</AvailableAttachmentPoint>	<!-- UB Launcher - M203PI -->
@@ -57140,14 +57053,12 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2076</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->	
 		<ubCursor>3</ubCursor>
@@ -57196,7 +57107,6 @@
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
@@ -59746,7 +59656,6 @@
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>	<!-- Internal - Trigger Group -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
