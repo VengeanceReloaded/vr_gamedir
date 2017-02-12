@@ -57156,6 +57156,17 @@
 		<szBRDesc>The Smith&amp;Wesson M&amp;P15R is a conversion of a regular M4A1 carbine to the calibre 5.45x39.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2063</ubClassIndex>
+		<ubClassIndex>633</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>576460752303423488</AvailableAttachmentPoint>	<!-- UB Launcher - M203PI -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>551</ubGraphicNum>
@@ -57176,6 +57187,7 @@
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>950</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
+		<DefaultAttachment>1009</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -57190,7 +57202,14 @@
 		<szBRDesc>Known for their innovative alterations to the traditional MAC-10, MasterPiece Arms has taken the simplicity of the firearmтАЩs function and added rifle barrels and several stock options to form a rifle line that is sure to please any varmint hunter or collector.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2064</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>68719476736</AvailableAttachmentPoint>	<!-- Stock - Folding -->
+		<AvailableAttachmentPoint>137438953472</AvailableAttachmentPoint>	<!-- Stock - Retractable, Shock -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>526</ubGraphicNum>
@@ -57219,11 +57238,24 @@
 		<uiIndex>2065</uiIndex>
 		<szItemName>AEK-973S</szItemName>
 		<szLongItemName>AEK-973S</szLongItemName>
-		<szItemDesc>A relatively recent Russian manufactured AK variant.  This model fires 7.62mm WP rounds. It's very light, but somehow hard to control in autofire mode.</szItemDesc>
+		<szItemDesc>This Russian MOD manufactured AK variant fires 7.62mm WP rounds. It's very light, but somehow hard to control in autofire mode.</szItemDesc>
 		<szBRName>AEK-973S</szBRName>
-		<szBRDesc>This recent Russian AK variant has an ergonomic pistol grip and a telescopic stock, making for a very compact, yet deadly little package.</szBRDesc>
+		<szBRDesc>Dircect from Russia's ministry of defense, this AK variant provides modern improvements to the classic AK rifle platform in both performance and weight.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2065</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>	<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>16777216</AvailableAttachmentPoint>	<!-- Sights - Kobra -->
+		<AvailableAttachmentPoint>274877906944</AvailableAttachmentPoint>	<!-- Laser - AK Corsac -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>68719476736</AvailableAttachmentPoint>	<!-- Stock - Folding -->
+		<AvailableAttachmentPoint>137438953472</AvailableAttachmentPoint>	<!-- Stock - Retractable, Shock -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>35184372088832</AvailableAttachmentPoint>	<!-- Scopes - PSO-1 -->
+		<AvailableAttachmentPoint>70368744177664</AvailableAttachmentPoint>	<!-- Scopes - PSO-3 -->
+		<AvailableAttachmentPoint>1152921504606846976</AvailableAttachmentPoint>	<!-- UB Launcher - GP-30 -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>525</ubGraphicNum>
@@ -57253,11 +57285,19 @@
 		<uiIndex>2066</uiIndex>
 		<szItemName>M82A1M</szItemName>
 		<szLongItemName>Barrett M82A1M</szLongItemName>
-		<szItemDesc>The Model 82A1M is what you expect in a Barrett. Dependable. Reliable. Well-designed.</szItemDesc>
+		<szItemDesc>The 'Light 50' is a rugged semi-automatic rifle. Despite being designed for anti-materiel purposes it can be used to take names in biblical proportions.</szItemDesc>
 		<szBRName>Barrett M82A1M</szBRName>
-		<szBRDesc>The Model 82 series rifle is a rugged, dependable semi-automatic rifle. In simple terms, it has earned unmatched respect because it works in battlefield conditions. And it packs the punch of a .50 BMG.</szBRDesc>
+		<szBRDesc>The Model 82A1M is what you expect from a Barrett. Dependable. Reliable. Well-designed.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2066</ubClassIndex>
+		<AvailableAttachmentPoint>2048</AvailableAttachmentPoint>			<!-- Muzzle - Sniper Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>517</ubGraphicNum>
@@ -57277,6 +57317,7 @@
 		<Bipod>25</Bipod>
 		<ToHitBonus>-20</ToHitBonus>
 		<DefaultAttachment>208</DefaultAttachment>
+		<DefaultAttachment>209</DefaultAttachment>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -57290,9 +57331,19 @@
 		<szLongItemName>HK 417 16"</szLongItemName>
 		<szItemDesc>This is the basic assault version of the HK 417.</szItemDesc>
 		<szBRName>HK 417 16"</szBRName>
-		<szBRDesc>This is the basic assault version of Heckler &amp; Koch's new HK 417.</szBRDesc>
+		<szBRDesc>Compliment your HK collection with this assault version of Heckler &amp; Koch's new HK 417, providing improved accuracy over rate of fire than previous models.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2067</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>	<!-- UB - Grippod/GripLight -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>576460752303423488</AvailableAttachmentPoint>	<!-- UB Launcher - M203PI -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>325</ubGraphicNum>
@@ -57312,6 +57363,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
+		<DefaultAttachment>1009</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
