@@ -57547,7 +57547,7 @@
 		<szLongItemName>DeLisle Carbine</szLongItemName>
 		<szItemDesc>A special silenced .45 ACP bolt-action carbine.</szItemDesc>
 		<szBRName>DeLisle Carbine</szBRName>
-		<szBRDesc>This is a rare collector's item. Only very few of this special operations silenced bolt.action carbine were manufactured.</szBRDesc>
+		<szBRDesc>This is a rare collector's item. Only very few of this special operations silenced boltaction carbine were manufactured.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2072</ubClassIndex>
 		<ubCursor>3</ubCursor>
@@ -57570,6 +57570,7 @@
 		<BR_ROF>15</BR_ROF>
 		<PercentNoiseReduction>90</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
+		<DefaultAttachment>207</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -57584,6 +57585,14 @@
 		<szBRDesc>A modified Remington 700 that fires .30-06 Springfield rounds. Nice for hunting deer.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2073</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>499</ubGraphicNum>
@@ -57655,6 +57664,12 @@
 		<szBRDesc>This hungarian bullpup anti-material rifle packs quite a punch.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2075</ubClassIndex>
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>501</ubGraphicNum>
@@ -57782,9 +57797,17 @@
 		<szLongItemName>Browning BAR Mk. II</szLongItemName>
 		<szItemDesc>The Browning BAR Mark II is one of the most popular of all semi-automatic hunting rifles.</szItemDesc>
 		<szBRName>Browning BAR Mk. II</szBRName>
-		<szBRDesc>The Browning BAR Mark II is one of the most popular of all semi-automatic hunting rifles.</szBRDesc>
+		<szBRDesc>As reliable as it is accurate, this is one autoloader that literally shoots as well as a bolt action.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2078</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>509</ubGraphicNum>
@@ -57886,11 +57909,12 @@
 		<uiIndex>2081</uiIndex>
 		<szItemName>Carl-Gustaf M3</szItemName>
 		<szLongItemName>Carl-Gustaf M3</szLongItemName>
-		<szItemDesc>The Carl-Gustaf recoilless rifle is a devestating anti-tank, anti-personnel weapon, firing 84mm rockets.</szItemDesc>
+		<szItemDesc>For a neutral country it's sometimes bemusing to ponder how Sweden created such a devestating anti-tank, anti-personnel weapon.</szItemDesc>
 		<szBRName>Carl-Gustaf M3</szBRName>
 		<szBRDesc>The Carl-Gustaf recoilless rifle is a devestating anti-tank, anti-personnel weapon, firing 84mm rockets.</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<ubClassIndex>2081</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
@@ -58017,6 +58041,9 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2084</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>	<!-- Laser - Small -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>515</ubGraphicNum>
@@ -58041,11 +58068,17 @@
 		<uiIndex>2085</uiIndex>
 		<szItemName>L86A2</szItemName>
 		<szLongItemName>L86A2</szLongItemName>
-		<szItemDesc>The L86A2 could be considered a design failure. Rather than a light support weapon it's more a heavy designated marksman rifle, due to poor reliability in auto fire mode.</szItemDesc>
+		<szItemDesc>The L86A2/LSW could be considered a design failure. Rather than a light support weapon it's more a heavy designated marksman rifle, but the bugbears of it's L85 predecessor are at least gone.</szItemDesc>
 		<szBRName>L86A2</szBRName>
 		<szBRDesc>The big brother of the L85A2. This gun is a true squad support weapon. If you liked the L85, but need more fire power, give the L86 a try.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2085</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>516</ubGraphicNum>
