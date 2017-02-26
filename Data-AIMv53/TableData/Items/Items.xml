@@ -58077,8 +58077,8 @@
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
-		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>516</ubGraphicNum>
@@ -58113,6 +58113,19 @@
 		<szBRDesc>Not for sale</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2086</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->
+		<AvailableAttachmentPoint>9223372036854775808</AvailableAttachmentPoint>	<!-- UB Launcher - EGLM -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>877</ubGraphicNum>
@@ -58142,11 +58155,14 @@
 		<uiIndex>2087</uiIndex>
 		<szItemName>M1903A4</szItemName>
 		<szLongItemName>Springfield M1903A4</szLongItemName>
-		<szItemDesc>The M1903A4 was the U.S. Army's first attempt at a standardized sniper weapon.</szItemDesc>
+		<szItemDesc>The M1903A4 was the U.S. Army's first attempt at a standardized sniper weapon and saw service from WWI to the Vietnam war.</szItemDesc>
 		<szBRName>Springfield M1903A4</szBRName>
-		<szBRDesc>The M1903A4 was the U.S. Army's first attempt at a standardized sniper weapon. Comes with an M84 scope.</szBRDesc>
+		<szBRDesc>Despite it's age this military drill rifle is not just for show. Comes with an M84 scope.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2087</ubClassIndex>
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>518</ubGraphicNum>
@@ -58167,6 +58183,7 @@
 		<BR_NewInventory>0</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
+		<DefaultAttachment>1029</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -58178,9 +58195,18 @@
 		<szLongItemName>Tabuk DMR</szLongItemName>
 		<szItemDesc>Because the Tabuk is chambered in the soviet 7.62x39mm cartridge, it cannot technically function as a sniper rifle (by western standards). With a maximum effective range of only 600m, the Tabuk should instead be considered a designated marksman's rifle.</szItemDesc>
 		<szBRName>Tabuk DMR</szBRName>
-		<szBRDesc>Because the Tabuk is chambered in the soviet 7.62x39mm cartridge, it cannot technically function as a sniper rifle (by western standards). With a maximum effective range of only 600m, the Tabuk should instead be considered a designated marksman's rifle.</szBRDesc>
+		<szBRDesc>Whether you should thank Slobodan Milosevic or Saddam Hussein this Iraqi DMR made from Yugoslavian parts should provide those wanting a longer reach than the average WP assault rifle.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2088</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>	<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>		<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>16777216</AvailableAttachmentPoint>	<!-- Sights - Kobra -->
+		<AvailableAttachmentPoint>274877906944</AvailableAttachmentPoint>	<!-- Laser - AK Corsac -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>519</ubGraphicNum>
@@ -58216,7 +58242,11 @@
 		<szBRDesc>This conversion of the proven 9mm Colt SMG uses the bigger .45 ACP round.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2089</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>109</ubGraphicNum>
@@ -58237,6 +58267,7 @@
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
+		<DefaultAttachment>1009</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -58282,6 +58313,14 @@
 		<szBRDesc>The Molot Vepr is a rugged beast sharing DNA from the Russian RPK machinegun. The rifle has some American parts to assist in compliance but make no mistake the Russian tenacity remains.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2091</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>	<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>16777216</AvailableAttachmentPoint>	<!-- Sights - Kobra -->
+		<AvailableAttachmentPoint>274877906944</AvailableAttachmentPoint>	<!-- Laser - AK Corsac -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>131</ubGraphicNum>
@@ -58311,11 +58350,22 @@
 		<uiIndex>2092</uiIndex>
 		<szItemName>HK 33KE</szItemName>
 		<szLongItemName>HK 33KE</szLongItemName>
-		<szItemDesc>This assault rifle is a 5.56mm variant of the G3.</szItemDesc>
+		<szItemDesc>This assault rifle is a 5.56mm variant sharing the same gene pool as the G3.</szItemDesc>
 		<szBRName>HK 33KE</szBRName>
-		<szBRDesc>The HK33 is essentially a G3 chambered in 5.56x45mm NATO, usually fed from a 30 round magazine. Like its older brother, the G3, the HK 33 comes in various sizes. The HK 33KE variant is a number one choice if you need high fire power for close protection (body guarding) duties.</szBRDesc>
+		<szBRDesc>The HK33 is essentially a revitalised G3 chambered in 5.56x45mm NATO, usually fed from a 30 round magazine. Like its older brother, the HK 33 comes in various sizes. The HK 33KE variant is a number one choice if you need high fire power for close protection (body guarding) duties.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2092</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>				<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>				<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>4611686018427387904</AvailableAttachmentPoint>	<!-- UB Launcher - HK-79 -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>480</ubGraphicNum>
@@ -58351,6 +58401,18 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2093</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>				<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>				<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>2147483648</AvailableAttachmentPoint>		<!-- Adapter - 5.56x45 C-Mag -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>4611686018427387904</AvailableAttachmentPoint>	<!-- UB Launcher - HK-79 -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>481</ubGraphicNum>
@@ -58369,6 +58431,7 @@
 		<BR_ROF>750</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReloadTimeAPReduction>-30</PercentReloadTimeAPReduction>
+		<DefaultAttachment>1001</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
