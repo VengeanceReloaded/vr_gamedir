@@ -55017,9 +55017,9 @@
 		<uiIndex>2010</uiIndex>
 		<szItemName>Metalstorm Launcher</szItemName>
 		<szLongItemName>Metalstorm Launcher System</szLongItemName>
-		<szItemDesc>The Metalstorm Launcher System is a standalone launcher for metalstorm grenades. Capable of full automatic fire to fire a complete stack in one burst.</szItemDesc>
+		<szItemDesc>Showing there is an exception to every rule, the Metalstorm Launcher System, capable of full automatic fire to release a complete stack of grenades in one burst, proves not everything from Queensland is slow.</szItemDesc>
 		<szBRName>Metalstorm Launcher System</szBRName>
-		<szBRDesc>The Metalstorm Launcher System is a standalone launcher for metalstorm grenades. Capable of full automatic fire to fire a complete stack in one burst.</szBRDesc>
+		<szBRDesc>The Metalstorm Launcher System is a standalone launcher for Metalstorm grenades. Capable of full automatic fire to fire a complete stack in one burst. Bonza!</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<nasLayoutClass>2</nasLayoutClass>
 		<ubClassIndex>2010</ubClassIndex>
@@ -58360,8 +58360,8 @@
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>				<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>				<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
-		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>			<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>			<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
@@ -58849,7 +58849,7 @@
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2105</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
-                <AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+        <AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>	<!-- Sights - Match Sights -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
@@ -59204,11 +59204,19 @@
 		<uiIndex>2114</uiIndex>
 		<szItemName>CheyTac M200</szItemName>
 		<szLongItemName>CheyTac Intervention M200</szLongItemName>
-		<szItemDesc>The entire idea behind the CheyTac Intervention is to provide long range soft target interdiction. The rifle is relatively compact and light.</szItemDesc>
+		<szItemDesc>Based on the EDM Arms Windrunner this relatively compact and light rifle holds the world record for best group at a distance, landing 3 bullets within 42 cm at 2,122 m firing it's unique cartridge.</szItemDesc>
 		<szBRName>CheyTac Intervention M200</szBRName>
-		<szBRDesc>The entire idea behind the CheyTac Intervention is to provide long range soft target interdiction. The rifle is relatively compact and light.</szBRDesc>
+		<szBRDesc>Combined with its ability to easily engage targets at 2500 yards and CheyTac’s patented Balance Flight Projectiles, you have a rifle that delivers accuracy with less bullet drop and drift than any other in the world.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2114</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>		<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>		<!-- Scopes - Sniper 10x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>542</ubGraphicNum>
@@ -59242,9 +59250,22 @@
 		<szLongItemName>Vepr 12 Tactical</szLongItemName>
 		<szItemDesc>The Vepr 12 Tactical shotgun is a direct rival to the Saiga 12k shotgun. Due to additional picatinny rails it can take a wider selection of attachments, but is also a bit heavier than the Saiga 12k.</szItemDesc>
 		<szBRName>Vepr 12 Tactical</szBRName>
-		<szBRDesc>The Vepr 12 Tactical shotgun is a direct rival to the Saiga 12k shotgun. Due to additional picatinny rails it can take a wider selection of attachments, but is also a bit heavier than the Saiga 12k.</szBRDesc>
+		<szBRDesc>A Semi-auto AK-style shotgun ideal for home defense. The bolt on this Volot remains open after the last shot, so no guessing when you need to reload.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2115</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>				<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>				<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>				<!-- Laser - Rifle Lam -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>65536</AvailableAttachmentPoint>			<!-- Muzzle - Duckbill -->
+		<AvailableAttachmentPoint>131072</AvailableAttachmentPoint>			<!-- Muzzle - Choke -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
+		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
+		<AvailableAttachmentPoint>137438953472</AvailableAttachmentPoint>	<!-- Stock - Retractable, Shock -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>543</ubGraphicNum>
@@ -59266,6 +59287,7 @@
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
+		<DefaultAttachment>1008</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -59275,9 +59297,9 @@
 		<uiIndex>2116</uiIndex>
 		<szItemName>Owen .38</szItemName>
 		<szLongItemName>Owen .38</szLongItemName>
-		<szItemDesc>A rather simple and sturdy vintage SMG.</szItemDesc>
+		<szItemDesc>A piece from here and a peice from there and some Australian lateral thinking resulted in this rather simple but sturdy vintage SMG.</szItemDesc>
 		<szBRName>Owen .38</szBRName>
-		<szBRDesc>This Australian made SMG uses the .38 SPC revolver cartridge.</szBRDesc>
+		<szBRDesc>Add this Australian made SMG using the .38 SPC revolver cartridge to your vintage collection. She'll be right, mate.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2116</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
@@ -59351,11 +59373,17 @@
 		<uiIndex>2118</uiIndex>
 		<szItemName>AC-556</szItemName>
 		<szLongItemName>Ruger AC-556</szLongItemName>
-		<szItemDesc>The Ruger AC-556 is a full automatic version of the popular Mini-14 hunting rifle.</szItemDesc>
+		<szItemDesc>Make like Hannibal Smith and B. A. Baracus with this fully automatic version of the popular Mini-14 rifle.</szItemDesc>
 		<szBRName>Ruger AC-556</szBRName>
-		<szBRDesc>The Ruger AC-556 is a full automatic version of the popular Mini-14 hunting rifle, intended for military and law enforcement use.</szBRDesc>
+		<szBRDesc>The full automatic version of the popular Mini-14 rifle, intended for military and law enforcement use. I love it when a plan comes together.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2118</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>				<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>546</ubGraphicNum>
@@ -59389,6 +59417,12 @@
 		<szBRDesc>A full auto variant of the Ruger Mini-30.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2119</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>				<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>547</ubGraphicNum>
@@ -59532,11 +59566,21 @@
 		<uiIndex>2123</uiIndex>
 		<szItemName>HK AG3</szItemName>
 		<szLongItemName>HK AG3 F1 MOD</szLongItemName>
-		<szItemDesc>AG-3F1 with this grotesque construction of an assault rifle discharging 7.62 caliber dissolution and hammering down 40mm carnage you can say: The right man in the wrong place can make all the difference in the world.</szItemDesc>
+		<szItemDesc>With this grotesque construction of an assault rifle discharging 7.62 caliber dissolution and hammering down 40mm carnage you can say: The right man in the wrong place can make all the difference in the world.</szItemDesc>
 		<szBRName>HK AG3 F1 MOD</szBRName>
 		<szBRDesc>This AG-3F1: An AG-3 with a retractable stock as on G3A4. Produced by Kongsberg Vaapenfabrikk. A retractable stock was required by certain groups of soldiers within the Norwegian Armed Forces. This has attached a 40 mm HK79 grenade launcher. It will eat resistance for breakfast!</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2123</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>				<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>				<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>		<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>558</ubGraphicNum>
@@ -59568,11 +59612,22 @@
 		<uiIndex>2124</uiIndex>
 		<szItemName>M16A2</szItemName>
 		<szLongItemName>Colt M16A2 M203</szLongItemName>
-		<szItemDesc>This variant is equipped with the M203 single-shot 40mm grenade launcher. Using the M203's leaf sight, grenades can be accurately put on target even up to 200 meters away.</szItemDesc>
+		<szItemDesc>The standard issue rifle for U.S. forces since the Vietnam war. Accurate and lightweight, though lacking in effective range. This variant is equipped with the M203 single-shot 40mm grenade launcher. Using it's leaf sight, grenades can be accurately targeted up to 200 meters away.</szItemDesc>
 		<szBRName>Colt M16A2 M203</szBRName>
-		<szBRDesc>Standard issue rifle for U.S. forces since the Vietnam war. Accurate and lightweight, though lacking in effective range. This variant is equipped with the M203 single-shot 40mm grenade launcher. Using the M203's leaf sight, grenades can be accurately put on target even up to 200 meters away.</szBRDesc>
+		<szBRDesc>The 'Plastic fantastic' needs no introduction but with the added lethality of a single-shot M203 grenade launcher underneath you'll have all bases covered. Optional Punisher skull T-shirts come free with this gun while stocks last.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2124</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
+		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>	<!-- UB - Grippod/GripLight -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>		<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>557</ubGraphicNum>
@@ -59609,6 +59664,16 @@
 		<szBRDesc>The Model 1200 and Model 1300 were two American pump-action shotguns that were manufactured by the Winchester-Western Division of Olin Corporation. Even if it has some minor wear it makes up for it with having these great pistol grips installed from previous owner.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2125</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>				<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>				<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>65536</AvailableAttachmentPoint>			<!-- Muzzle - Duckbill -->
+		<AvailableAttachmentPoint>131072</AvailableAttachmentPoint>			<!-- Muzzle - Choke -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
+		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>556</ubGraphicNum>
@@ -59646,6 +59711,13 @@
 		<szBRDesc>The M107 Semi-Automatic Long Range Sniper Rifle (LRSR) is a commercial, off-the-shelf, anti-materiel and counter-sniper semi-automatic, direct-line-of-sight .50 caliber rifle.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2126</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>		<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>		<!-- Scopes - Sniper 10x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>555</ubGraphicNum>
@@ -59680,11 +59752,16 @@
 		<uiIndex>2127</uiIndex>
 		<szItemName>MAC-10</szItemName>
 		<szLongItemName>Custom MAC-10</szLongItemName>
-		<szItemDesc>I see humans, but no humanity, fire away! This beat up worn out Mac-10 is fitted with a sound suppressor; a rifle scope and mount are attached to the suppressor. This gun must have fired thousands of rounds. It is stamped with "USPF" and also have the initials which appears to be "S.P" on its pistol grip.</szItemDesc>
+		<szItemDesc>I see humans, but no humanity, fire away! This beat up, worn out MAC-10 is fitted with a sound suppressor, rifle scope and a mount attached to the suppressor. This gun must have fired thousands of rounds. It is stamped with "USPF" and has the initials "S.P." on the grip.</szItemDesc>
 		<szBRName>MAC-10</szBRName>
-		<szBRDesc>The MAC-10 (Military Armament Corporation Model 10, officially the M-10) is a highly compact, blowback operated machine pistol developed by Gordon B. Ingram in 1964.</szBRDesc>
+		<szBRDesc>The Military Armament Corporation Model 10 is a highly compact machine pistol developed by Gordon B. Ingram in 1964. And can be a hello of a lot more deadly outside of that 'Operation Thunderbolt' games cabinet.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2127</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
+		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>554</ubGraphicNum>
