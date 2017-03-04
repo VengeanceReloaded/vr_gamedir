@@ -58716,13 +58716,21 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2102</uiIndex>
-		<szItemName>DTA SRS</szItemName>
-		<szLongItemName>Desert Tactical Arms SRS</szLongItemName>
-		<szItemDesc>The Stealth Recon Scout sniper rifle by Desert Tactical Arms is a bullpup sniper rifle in the calibre 7.62x51.</szItemDesc>
-		<szBRName>Desert Tactical Arms SRS</szBRName>
-		<szBRDesc>The Stealth Recon Scout sniper rifle by Desert Tactical Arms is a bullpup sniper rifle in the calibre 7.62x51. According to the manufacturer the rifle is capable of shooting with 0.5 MOA accuracy.</szBRDesc>
+		<szItemName>Desert Tech SRS</szItemName>
+		<szLongItemName>Desert Tech SRS</szLongItemName>
+		<szItemDesc>The USA made Stealth Recon Scout sniper rifle by Desert Tech uses a bullpup layout with a bolt-action for better balancing and accuracy.</szItemDesc>
+		<szBRName>Desert Tech Arms SRS</szBRName>
+		<szBRDesc>The Stealth Recon Scout sniper rifle from Desert Tech makes use of a clever bullpup and bolt-action configuration firing 7.62x51 bullets. This innovative design comes with a manufacturer's 0.5 MOA accuracy guarantee.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2102</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>		<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>		<!-- Scopes - Sniper 10x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>530</ubGraphicNum>
@@ -58874,11 +58882,15 @@
 		<uiIndex>2106</uiIndex>
 		<szItemName>Hi-Standard</szItemName>
 		<szLongItemName>Hi-Standard HDM</szLongItemName>
-		<szItemDesc>This .22 LR Pistol is as silent as it gets, though it really needs a couple of good aimed shots to get the job done.</szItemDesc>
+		<szItemDesc>This special services .22 LR Pistol is as silent as it gets with it's integral suppressor, making short work of guard dogs and men at close range.</szItemDesc>
 		<szBRName>Hi-Standard HDM</szBRName>
-		<szBRDesc>Known as the Hushpuppy, because one of its prime uses is against guard dogs. This .22 LR Pistol was used by CIA agents and Navy SEALS covert-ops alike.</szBRDesc>
+		<szBRDesc>Known as the Hush puppy, because of its prime use against guard dogs. This .22 LR Pistol was used by the OSS, CIA agents and Navy SEALS alike.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2106</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>			<!-- Sights - Match Sights -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>534</ubGraphicNum>
@@ -58907,11 +58919,14 @@
 		<uiIndex>2107</uiIndex>
 		<szItemName>American-180</szItemName>
 		<szLongItemName>American-180</szLongItemName>
-		<szItemDesc>This interesting submachinegun uses the rather weak .22 LR bullet, but more than makes up for it by its insane rate of fire.</szItemDesc>
+		<szItemDesc>It might look like a drunken cousin of a drum Thompson SMG but it's targets will be looking like a dog's dinner after a full burst of it's .22 ammo at 1200 RPM.</szItemDesc>
 		<szBRName>American-180</szBRName>
-		<szBRDesc>This interesting submachinegun uses the rather weak .22 LR bullet, but more than makes up for it by its insane rate of fire.</szBRDesc>
+		<szBRDesc>This curious submachinegun from the 60's uses the rather weak .22 LR bullet, but more than makes up for it by its insane rate of fire.</szBRDesc>
 		<usItemClass>2</usItemClass>
-		<ubClassIndex>2107</ubClassIndex>		
+		<ubClassIndex>2107</ubClassIndex>	
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->	
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>535</ubGraphicNum>
@@ -58945,6 +58960,9 @@
 		<szBRDesc>This very light and affordable .22 rifle is popular with pilots and those trekking off the beaten track. Good for target practice. Includes a small scope.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2108</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>	<!-- Laser - Small -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>536</ubGraphicNum>
@@ -59056,12 +59074,20 @@
 		<uiIndex>2111</uiIndex>
 		<szItemName>IMI Magal</szItemName>
 		<szLongItemName>IMI Magal</szLongItemName>
-		<szItemDesc>The Magal is a compact and reliable SMG in calibre .30.</szItemDesc>
+		<szItemDesc>The Magal is a compact and reliable SMG in calibre .30 taking design cues from the Galil assault rifle and used heavily on the streets of Israel.</szItemDesc>
 		<szBRName>IMI Magal</szBRName>
-		<szBRDesc>The Magal is a compact and reliable SMG in calibre .30.</szBRDesc>
+		<szBRDesc>We have a limited number of these Israeli puppies that were originally overstocks heading to the Brazilian Para State Military Police. Purchase one of these compact urban SMG's while you still can.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2111</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+  		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>539</ubGraphicNum>
@@ -59081,6 +59107,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>500</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
+		<DefaultAttachment>1008</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -59090,11 +59117,21 @@
 		<uiIndex>2112</uiIndex>
 		<szItemName>IMI Negev</szItemName>
 		<szLongItemName>IMI Negev</szLongItemName>
-		<szItemDesc>The Negev is a light machinegun comparable to the FN Minimi.</szItemDesc>
+		<szItemDesc>Sixteen and a half lbs of Isreali ingenuity provides everything a Minimi can, only better, including the ablility to change barrels with one hand and easier reloading.</szItemDesc>
 		<szBRName>IMI Negev</szBRName>
-		<szBRDesc>The Negev is a light machinegun comparable to the FN Minimi.</szBRDesc>
+		<szBRDesc>A common sense upgrade for all you M249 owners, this Israeli LMG provides improvements everywhere including weight and the ability to use standard magazines in the field.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2112</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>2147483648</AvailableAttachmentPoint>		<!-- Adapter - 5.56x45 C-Mag -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>540</ubGraphicNum>
@@ -59115,6 +59152,8 @@
 		<BR_ROF>750</BR_ROF>
 		<Bipod>20</Bipod>
 		<ToHitBonus>-10</ToHitBonus>
+		<DefaultAttachment>209</DefaultAttachment>
+		<DefaultAttachment>1008</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -59124,11 +59163,20 @@
 		<uiIndex>2113</uiIndex>
 		<szItemName>OTs 48K</szItemName>
 		<szLongItemName>OTs 48K</szLongItemName>
-		<szItemDesc>This is a Mosin Nagant with a new bullpup stock. Reloading is a bit difficult, but the OTs 48K is quite accurate.</szItemDesc>
+		<szItemDesc>Making use of surplus Mosin Nagant rifles the Ruskies put together this updated sniper rifle in 2000 with a new bullpup stock. Reloading is a bit difficult, but the OTs 48K is quite accurate.</szItemDesc>
 		<szBRName>OTs 48K</szBRName>
-		<szBRDesc>The OTs 48K is basically a Mosin Nagant in a bullpup sniper configuration. A very affordable and accurate gun.</szBRDesc>
+		<szBRDesc>Our Eastern European contacts have come up trumps again with a number of these very affordable and accurate rifles based on the Mosin Nagant.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2113</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->	
+		<AvailableAttachmentPoint>8388608</AvailableAttachmentPoint>		<!-- Sights - AK Night Sight -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>35184372088832</AvailableAttachmentPoint>	<!-- Scopes - PSO-1 -->
+		<AvailableAttachmentPoint>70368744177664</AvailableAttachmentPoint>	<!-- Scopes - PSO-3 -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>541</ubGraphicNum>
@@ -59146,7 +59194,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>22</BR_ROF>
-		<DefaultAttachment>999</DefaultAttachment>
+		<DefaultAttachment>1000</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
