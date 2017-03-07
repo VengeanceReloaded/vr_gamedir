@@ -9059,6 +9059,8 @@
 		<ItemSize>16</ItemSize>
 		<usPrice>100</usPrice>
 		<ubCoolness>5</ubCoolness>
+		<bReliability>-2</bReliability>
+		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
@@ -9067,10 +9069,13 @@
 		<Attachment>1</Attachment>
 		<HiddenAttachment>1</HiddenAttachment>
 		<Inseparable>1</Inseparable>
-		<PercentBurstFireAPReduction>80</PercentBurstFireAPReduction>
-		<PercentAutofireAPReduction>50</PercentAutofireAPReduction>
+		<PercentBurstFireAPReduction>30</PercentBurstFireAPReduction>
+		<PercentAutofireAPReduction>30</PercentAutofireAPReduction>
+		<BurstToHitBonus>-5</BurstToHitBonus>
+		<AutoFireToHitBonus>-6</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
+			<PercentCounterForceAccuracy>-50</PercentCounterForceAccuracy>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -10288,7 +10293,7 @@
 		<ubWeight>38</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>1273</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<bReliability>3</bReliability>
 		<bRepairEase>4</bRepairEase>
 		<Damageable>1</Damageable>

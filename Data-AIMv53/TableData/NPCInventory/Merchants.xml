@@ -187,7 +187,7 @@ uiFlags must be of
     <dailyRetained>0</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
-    <addToCoolness>0</addToCoolness>
+    <addToCoolness>1</addToCoolness>
     <coolnessProgressRate>10</coolnessProgressRate>
     <daysDelayMin>2</daysDelayMin>
     <daysDelayMax>3</daysDelayMax>
