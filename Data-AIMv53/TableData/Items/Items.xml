@@ -10288,6 +10288,14 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>347</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>128</AvailableAttachmentPoint>	<!-- UB - AK Bayonet -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>1073741824</AvailableAttachmentPoint>	<!-- Adapter - 7.62x39 WP Drum -->
+		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>	<!-- Internal - Trigger Group -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>68719476736</AvailableAttachmentPoint>	<!-- Stock - Folding -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>136</ubGraphicNum>
 		<ubWeight>38</ubWeight>
@@ -17454,6 +17462,13 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>613</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>128</AvailableAttachmentPoint>	<!-- UB - AK Bayonet -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>1073741824</AvailableAttachmentPoint>	<!-- Adapter - 7.62x39 WP Drum -->
+		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>	<!-- Internal - Trigger Group -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>175</ubGraphicNum>
 		<ubWeight>41</ubWeight>
@@ -23991,15 +24006,24 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>785</uiIndex>
-		<szItemName>AKMSU</szItemName>
-		<szLongItemName>AKMSU</szLongItemName>
+		<szItemName>AKMSU folded</szItemName>
+		<szLongItemName>AKMSU folded</szLongItemName>
 		<szItemDesc>A shorter variant of the AKMS for special forces use. The U-shaped buttplate of the stock allows folding/unfolding while a clip is in place.</szItemDesc>
 		<szBRName>AKMSU</szBRName>
 		<szBRDesc>This even more shortened variant of the AKM comes with a folding stock that allows folding/unfolding while a magazine is in the gun. Designed for paratroopers and special forces units, it's quite functional despite the rather unusual foregrip.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>785</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>	<!-- Muzzle - AR Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>8192</AvailableAttachmentPoint>	<!-- Muzzle - Muzzle Brake -->
+		<AvailableAttachmentPoint>16777216</AvailableAttachmentPoint>	<!-- Sights - Kobra -->
+		<AvailableAttachmentPoint>1073741824</AvailableAttachmentPoint>	<!-- Adapter - 7.62x39 WP Drum -->
+		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>	<!-- Internal - Trigger Group -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>274877906944</AvailableAttachmentPoint>	<!-- Laser - AK Corsac -->
+		<AvailableAttachmentPoint>35184372088832</AvailableAttachmentPoint>	<!-- Scopes - PSO-1 -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>298</ubGraphicNum>
@@ -24018,9 +24042,9 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>650</BR_ROF>
-		<ToHitBonus>-1</ToHitBonus>
-		<BurstToHitBonus>5</BurstToHitBonus>
-		<AutoFireToHitBonus>5</AutoFireToHitBonus>
+		<ToHitBonus>-5</ToHitBonus>
+		<BurstToHitBonus>-5</BurstToHitBonus>
+		<AutoFireToHitBonus>-5</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>9</DamageChance>
 		<DirtIncreaseFactor>19.0</DirtIncreaseFactor>
@@ -61057,11 +61081,46 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2152</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2152</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>AKMSU</szItemName>
+		<szLongItemName>AKMSU</szLongItemName>
+		<szItemDesc>A shorter variant of the AKMS for special forces use. The U-shaped buttplate of the stock allows folding/unfolding while a clip is in place.</szItemDesc>
+		<szBRName>AKMSU</szBRName>
+		<szBRDesc>This even more shortened variant of the AKM comes with a folding stock that allows folding/unfolding while a magazine is in the gun. Designed for paratroopers and special forces units, it's quite functional despite the rather unusual foregrip.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2152</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>	<!-- Muzzle - AR Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>8192</AvailableAttachmentPoint>	<!-- Muzzle - Muzzle Brake -->
+		<AvailableAttachmentPoint>16777216</AvailableAttachmentPoint>	<!-- Sights - Kobra -->
+		<AvailableAttachmentPoint>1073741824</AvailableAttachmentPoint>	<!-- Adapter - 7.62x39 WP Drum -->
+		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>	<!-- Internal - Trigger Group -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>274877906944</AvailableAttachmentPoint>	<!-- Laser - AK Corsac -->
+		<AvailableAttachmentPoint>35184372088832</AvailableAttachmentPoint>	<!-- Scopes - PSO-1 -->
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>689</ubGraphicNum>
+		<ubWeight>28</ubWeight>
+		<ItemSize>6</ItemSize>
+		<usPrice>2340</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>0</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_ROF>650</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<DamageChance>9</DamageChance>
+		<DirtIncreaseFactor>19.0</DirtIncreaseFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />

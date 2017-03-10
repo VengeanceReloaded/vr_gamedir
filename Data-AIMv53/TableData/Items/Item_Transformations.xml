@@ -921,6 +921,41 @@
 		<szMenuRowText>Unfold stock</szMenuRowText>
 		<szTooltipText>Unfold stock.</szTooltipText>
 	</TRANSFORM>
+	<!-- AKMSU fold/unfold -->
+	<TRANSFORM>
+		<usItem>2152</usItem>
+		<usResult1>785</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>20</usAPCost>
+		<iBPCost>10</iBPCost>
+		<szMenuRowText>Fold stock</szMenuRowText>
+		<szTooltipText>Fold stock.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>785</usItem>
+		<usResult1>2152</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>20</usAPCost>
+		<iBPCost>10</iBPCost>
+		<szMenuRowText>Unfold stock</szMenuRowText>
+		<szTooltipText>Unfold stock.</szTooltipText>
+	</TRANSFORM>
 	<!-- Carabiner - Carabiner LR -->
 	<TRANSFORM>
 		<usItem>1695</usItem>
