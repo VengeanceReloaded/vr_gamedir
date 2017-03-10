@@ -40,7 +40,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 	<SECTOR>
 		<uiIndex>2</uiIndex>
 		<szLocation>A2</szLocation>		
-		<RandomAltSector>0</RandomAltSector>
+		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Chit_horizon</szDay>
 		<szNight>Loadscreens\LS_NightChitzena</szNight>
