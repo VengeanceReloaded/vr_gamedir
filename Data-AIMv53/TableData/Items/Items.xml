@@ -20071,6 +20071,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>681</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>191</ubGraphicNum>
 		<ubWeight>17</ubWeight>
@@ -20223,9 +20224,9 @@
 		<uiIndex>685</uiIndex>
 		<szItemName>M40A1</szItemName>
 		<szLongItemName>M40A1</szLongItemName>
-		<szItemDesc>Standard issue sniper rifle with the US Marine Corps.  Highly accurate with good penetration and stopping power.</szItemDesc>
+		<szItemDesc>The US Marine Corps standard issue sniper rifle. Highly accurate with good penetration and stopping power.</szItemDesc>
 		<szBRName>M40A1</szBRName>
-		<szBRDesc>SPECIAL PRICE!  The USMC standard issue M40A1 sniper rifle of the is being replaced by the M40A3, which means we are receiving more shipments of these babies than we can handle and they all must go!  Get one for yourself, one for your old lady and one for your kid!</szBRDesc>
+		<szBRDesc>SPECIAL PRICE! The USMC standard issue M40A1 sniper rifle is being replaced by the M40A3, which means we are receiving more shipments of these babies than we can handle and they all must go!  Get one for yourself, one for your old lady and one for your kid!</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>685</ubClassIndex>
@@ -20313,6 +20314,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>687</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>93</ubGraphicNum>
@@ -20466,6 +20468,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>691</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>226</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -20504,6 +20507,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>692</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>227</ubGraphicNum>
 		<ubWeight>27</ubWeight>
@@ -20757,6 +20761,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>699</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>187</ubGraphicNum>
@@ -20793,6 +20798,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>700</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>95</ubGraphicNum>
@@ -20827,12 +20833,13 @@
 		<uiIndex>701</uiIndex>
 		<szItemName>PP-93</szItemName>
 		<szLongItemName>PP-93</szLongItemName>
-		<szItemDesc>Smoother than fine vodka, the Pp-93 is a favorite among Russian police and security forces.</szItemDesc>
+		<szItemDesc>Smoother than fine vodka, the PP-93 is a favorite among Russian police and security forces.</szItemDesc>
 		<szBRName>PP-93</szBRName>
-		<szBRDesc>A true machine-pistol, the Pp-93 offers compact concealability in a slim, stamped metal package.</szBRDesc>
+		<szBRDesc>A true machine-pistol, the PP-93 offers compact concealability in a slim, stamped metal package.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>701</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>242</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -20869,7 +20876,7 @@
 		<szLongItemName>PPsh-41</szLongItemName>
 		<szItemDesc>Feared and respected among SMGs for its range and rate of fire, the Ppsh is the tommy gun's hulking Eastern cousin.</szItemDesc>
 		<szBRName>PPsh-41</szBRName>
-		<szBRDesc>Known as the "Burp-gun" for the sound produced by its high cyclic rate, the Ppsh41 belches death at 900rpm.</szBRDesc>
+		<szBRDesc>Known as the "Burp-gun" for the sound produced by its high cyclic rate, the Ppsh41 belches death at over 900rpm.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>702</ubClassIndex>
@@ -20935,12 +20942,14 @@
 		<uiIndex>704</uiIndex>
 		<szItemName>QBZ-97</szItemName>
 		<szLongItemName>QBZ-97</szLongItemName>
-		<szItemDesc>This export version of the Chinese assault rifle attempts to further tip the trade balance in China's favor, but when all's said and done, it's still "Made in China".</szItemDesc>
+		<szItemDesc>This export version of the Chinese assault rifle attempts to further tip the trade balance in China's favor, although annoying features such as no provision for lefties, high sights, and an odd selector switch certainly earn it the stamp "Made in China".
+		.</szItemDesc>
 		<szBRName>QBZ-97</szBRName>
-		<szBRDesc>This export version of the Chinese assault rifle attempts to further tip the trade balance in China's favor, although the annoying little features of this gun (no provision for lefties, high sights, and an odd selector switch) certainly earn it the stamp "Made in China".</szBRDesc>
+		<szBRDesc>Our export version of the Chinese People's Liberation Army assault rifle provides good quality for the price but we'd strongly suggest accessorizing with aftermarket sights.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>704</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>178</ubGraphicNum>
 		<ubWeight>34</ubWeight>
@@ -20974,6 +20983,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>705</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>141</ubGraphicNum>
 		<ubWeight>74</ubWeight>
@@ -21009,6 +21019,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>706</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>120</ubGraphicNum>
 		<ubWeight>48</ubWeight>
@@ -21085,6 +21096,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>708</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>239</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -21227,6 +21239,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>712</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>89</ubGraphicNum>
 		<ubWeight>36</ubWeight>
@@ -21261,6 +21274,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>713</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>184</ubGraphicNum>
 		<ubWeight>41</ubWeight>
@@ -21304,6 +21318,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>714</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>185</ubGraphicNum>
 		<ubWeight>34</ubWeight>
@@ -21346,6 +21361,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>715</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>186</ubGraphicNum>
 		<ubWeight>32</ubWeight>
@@ -21523,12 +21539,13 @@
 		<uiIndex>720</uiIndex>
 		<szItemName>Skorpion</szItemName>
 		<szLongItemName>Skorpion vz.82</szLongItemName>
-		<szItemDesc>Offering the same stealthiness but requiring less money, this weapon is a competitor to both MicroUZI and MP-5K.</szItemDesc>
+		<szItemDesc>Offering the same stealthiness but requiring less money, this weapon is a competitor to both Micro UZI and MP-5K.</szItemDesc>
 		<szBRName>Skorpion vz.82</szBRName>
 		<szBRDesc>Loved and used both by counter-terrorist forces and by terrorists, this weapon packs a significant close-range punch for its size and cost.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>720</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>152</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -21701,11 +21718,20 @@
 		<szLongItemName>Sterling L2A3</szLongItemName>
 		<szItemDesc>This SMG provided more than fifty years of reliability and accuracy to British armed forces.</szItemDesc>
 		<szBRName>Sterling L2A3</szBRName>
-		<szBRDesc>This SMG provided more than fifty years of reliability and accuracy to British armed forces.</szBRDesc>
+		<szBRDesc>A fan favourite, this SMG has decades of proven reliability and accuracy to our customers whether they be Stormtroopers, Wild Geese or African dictatorships.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>725</ubClassIndex>
-		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>			<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>			<!-- Muzzle - Gun Barrel Extender -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>			<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>		<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>202</ubGraphicNum>
 		<ubWeight>27</ubWeight>
@@ -21722,6 +21748,7 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>550</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
+		<DefaultAttachment>1008</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>31.0</DirtIncreaseFactor>
@@ -21743,6 +21770,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>726</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>98</ubGraphicNum>
 		<ubWeight>39</ubWeight>
@@ -21796,6 +21824,7 @@
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<ubCursor>3</ubCursor>
@@ -21921,6 +21950,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>730</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>99</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -22213,6 +22243,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>737</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>107</ubGraphicNum>
 		<ubWeight>49</ubWeight>
@@ -22326,6 +22357,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>740</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>248</ubGraphicNum>
@@ -22366,12 +22398,13 @@
 		<uiIndex>741</uiIndex>
 		<szItemName>USAS-12</szItemName>
 		<szLongItemName>USAS-12</szLongItemName>
-		<szItemDesc>Capable of fully automatic fire, the USAS-12 is designed to provide sustained firepower in close combat scenarios.</szItemDesc>
+		<szItemDesc>When tear gas just isn't cutting the mustard in a riot Daewoo's fully automatic combat shotgun is designed to provide sustained firepower to keep the masses in check.</szItemDesc>
 		<szBRName>USAS-12</szBRName>
 		<szBRDesc>Capable of fully automatic fire, the USAS-12 is designed to provide sustained firepower in close combat scenarios.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>741</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>119</ubGraphicNum>
 		<ubWeight>55</ubWeight>
@@ -22404,6 +22437,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>742</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>265</ubGraphicNum>
 		<ubWeight>36</ubWeight>
@@ -22442,6 +22476,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>743</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>234</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -22511,6 +22546,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>745</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>241</ubGraphicNum>
 		<ubWeight>37</ubWeight>
@@ -22584,7 +22620,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>747</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
-                <AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+        <AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>	<!-- Sights - Match Sights -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
@@ -22623,6 +22659,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>748</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>73</ubGraphicNum>
@@ -22678,6 +22715,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>749</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>158</ubGraphicNum>
 		<ubWeight>28</ubWeight>
@@ -22720,6 +22758,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>750</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>159</ubGraphicNum>
 		<ubWeight>27</ubWeight>
@@ -22762,6 +22801,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>751</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>161</ubGraphicNum>
 		<ubWeight>22</ubWeight>
