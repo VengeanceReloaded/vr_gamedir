@@ -6546,9 +6546,9 @@
 		<uiIndex>211</uiIndex>
 		<szItemName>NVG I</szItemName>
 		<szLongItemName>Night Vision Goggles, Gen. I</szLongItemName>
-		<szItemDesc>The first generation of light amplification goggles. Picture is somewhat grainy and light amplification has just begun to be researched.</szItemDesc>
+		<szItemDesc>The first generation of light amplification goggles. Their picture is somewhat grainy and light amplification has only just begun to be researched.</szItemDesc>
 		<szBRName>Night Vision Goggles I</szBRName>
-		<szBRDesc>The first generation of nightvision gear, still available for those who cannot afford the luxury stuff.</szBRDesc>
+		<szBRDesc>Just for those night stalkers who are short of cash, our first generation of nightvision gear is still available for those who cannot afford the luxury stuff.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>2251799813685248</AttachmentPoint>	<!-- Armour Helmet - Face -->
