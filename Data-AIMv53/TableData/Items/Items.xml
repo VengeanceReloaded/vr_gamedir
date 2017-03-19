@@ -10071,9 +10071,9 @@
 		<uiIndex>342</uiIndex>
 		<szItemName>MP5A4</szItemName>
 		<szLongItemName>HK MP5A4</szLongItemName>
-		<szItemDesc>The MP-5A4, basically, is no more than the scaled-down version of the Heckler-Koch G3 battle rifle. It is the go-to weapon for law-enforcement and military special forces units for urban and cqb. It can cut those flowers down quickly with its 800 rpm.</szItemDesc>
+		<szItemDesc>The MP-5A4, basically, is no more than the scaled-down version of the Heckler-Koch G3 battle rifle. It is the go-to weapon for law-enforcement and military special forces units for urban and CQB. It can cut those flowers down quickly with its 800 rpm.</szItemDesc>
 		<szBRName>HK MP5A4</szBRName>
-		<szBRDesc>The MP-5A4, basically, is no more than the scaled-down version of the Heckler-Koch G3 battle rifle. It is the go-to weapon for law-enforcement and military special forces units for urban and cqb. It can cut those flowers down quickly with its 800 rpm.</szBRDesc>
+		<szBRDesc>The MP5's success knows no bounds with HK providing a suite of variants to choose from, all of which have unsurpassed build quality and ergonomics. This fixed stock version is used worldwide by law-enforcement and military special forces units in CQB engagements. </szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>342</ubClassIndex>
@@ -16969,9 +16969,9 @@
 		<uiIndex>601</uiIndex>
 		<szItemName>AEK-919K</szItemName>
 		<szLongItemName>AEK-919K "Kashtan"</szLongItemName>
-		<szItemDesc>9x18mm Makarov SMG in use with Russian special forces and police.</szItemDesc>
+		<szItemDesc>An ultra compact 9x18mm Makarov SMG in use with Russian special forces and police.</szItemDesc>
 		<szBRName>AEK-919K "Kashtan"</szBRName>
-		<szBRDesc>Compact and solid SMG has an extending stock for faster draw time.</szBRDesc>
+		<szBRDesc>Compact and solid this Russian SMG has an extendable stock for faster draw times as well as a polygonal grooved barrel reducing wear and bullet scattering.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>601</ubClassIndex>
@@ -17345,6 +17345,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>610</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>137</ubGraphicNum>
 		<ubWeight>38</ubWeight>
@@ -17377,12 +17378,13 @@
 		<uiIndex>611</uiIndex>
 		<szItemName>AK-108</szItemName>
 		<szLongItemName>AK-108</szLongItemName>
-		<szItemDesc>The 5.56x45 has finally invaded Russia. Like the Beatles in 1962, it's new, but it's popular. The AK-108 is a NATO standard Alexandrov-Kalashnikov . Go figure.</szItemDesc>
+		<szItemDesc>The 5.56x45 has finally invaded Russia. Like the Beatles in 1962, it's new, but it's popular. The AK-108 is a NATO standard Alexandrov-Kalashnikov. Go figure.</szItemDesc>
 		<szBRName>AK-108</szBRName>
 		<szBRDesc>Who says Russians can't use NATO ammunition? Not the Russians! The AK-108 is built for the 5.56mm round, and performs admirably with it's new partner.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>611</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>115</ubGraphicNum>
 		<ubWeight>38</ubWeight>
@@ -17421,6 +17423,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>612</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>174</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -17466,7 +17469,7 @@
 		<AvailableAttachmentPoint>128</AvailableAttachmentPoint>	<!-- UB - AK Bayonet -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>1073741824</AvailableAttachmentPoint>	<!-- Adapter - 7.62x39 WP Drum -->
-		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>	<!-- Internal - Trigger Group -->
+		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>	 <!-- Internal - Trigger Group -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<ubCursor>3</ubCursor>
@@ -17506,10 +17509,11 @@
 		<szLongItemName>AKS-74</szLongItemName>
 		<szItemDesc>Successor to the AKS-47, this select fire rifle is chambered for 5.45mm rounds and is known for its noise and large muzzle flash.</szItemDesc>
 		<szBRName>AKS-74</szBRName>
-		<szBRDesc>If the AKS-47 was a Walkman, this baby is an iPod. The modernized 5.45mm version of the rereleased classic comes in just as many colors as its MP3 companion, but is decidedly harder to dance with. That is, of course, unless you're an Islamic Fundamentalist.</szBRDesc>
+		<szBRDesc>If the AKS-47 was a Walkman, this baby is an iPod. The modernized 5.45mm version of the re-released classic comes in just as many colors as its MP3 companion, but is decidedly harder to dance with. That is, of course, unless you're an Islamic Fundamentalist.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>614</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>135</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -17551,6 +17555,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>615</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>208</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -17589,12 +17594,14 @@
 		<uiIndex>616</uiIndex>
 		<szItemName>AN-94</szItemName>
 		<szLongItemName>AN-94 "Abakan"</szLongItemName>
-		<szItemDesc>The new AN-94 Abakan design enables the gun to "pulse", firing a very fast two bullet burst before the recoil affects the user.</szItemDesc>
+		<szItemDesc>This weapon was designed by Gennadiy Nikonov. Another leap forward in gun making, you can be sure to see it soon on a hijacked airliner near you.
+		</szItemDesc>
 		<szBRName>AN-94 "Abakan"</szBRName>
-		<szBRDesc>This weapon was designed by Gennadiy Nikonov. Another leap forward in gun making, you can be sure to see it soon on a hijacked airliner near you.</szBRDesc>
+		<szBRDesc>The new AN-94 Abakan design enables the gun to "pulse", firing a very fast two bullet burst before the recoil affects the user.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>616</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>87</ubGraphicNum>
 		<ubWeight>39</ubWeight>
@@ -17628,6 +17635,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>617</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>56</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -17707,12 +17715,13 @@
 		<uiIndex>619</uiIndex>
 		<szItemName>Veresk</szItemName>
 		<szLongItemName>SR-2 Veresk</szLongItemName>
-		<szItemDesc>In use with Russian elite law-enforcement units, this SMG fires the same armor-piercing round as the Gyurza pistol.</szItemDesc>
+		<szItemDesc>Would it be ironic to leave flowers on a grave to the victims of a gun nicknamed 'Heather?' This SMG fires the same armor-piercing round as the Gyurza pistol.</szItemDesc>
 		<szBRName>SR-2 Veresk</szBRName>
-		<szBRDesc>This SMG is small and light enough for easy carrying, yet fires the powerful 9x21mm round. 30rnd mags available now!</szBRDesc>
+		<szBRDesc>This SMG is small and light enough for easy carrying, yet fires the powerful 9x21mm round. 30 rnd mags available now!</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>619</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>125</ubGraphicNum>
 		<ubWeight>17</ubWeight>
@@ -17892,10 +17901,11 @@
 		<szLongItemName>Beretta AR-70/90</szLongItemName>
 		<szItemDesc>Italian designed and manufactured assault rifle, the AR-70/90 can be a platform for a dazzling array of attachments. Who knew Frankenstein could be this deadly?</szItemDesc>
 		<szBRName>Beretta AR-70/90</szBRName>
-		<szBRDesc>Yet another Kalashnikov-inspired weapon, this 5.56mm assault rifle has a quality all its own.</szBRDesc>
+		<szBRDesc>Yet another Kalashnikov-inspired weapon, this 5.56mm assault rifle has a quality all its own and includes both full auto and three round burst modes.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>624</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>221</ubGraphicNum>
 		<ubWeight>41</ubWeight>
@@ -17959,13 +17969,14 @@
 		<uiIndex>626</uiIndex>
 		<szItemName>Bizon 2-07</szItemName>
 		<szLongItemName>Bizon 2-07</szLongItemName>
-		<szItemDesc>This Bizon SMG is chambered to accept 7.62 Tokarev box magazines. This ugly looking SMG, comes with a selective fire switch and a lot of pain.</szItemDesc>
+		<szItemDesc>Containing 60% part with the AKS-74 this SMG is chambered to accept 7.62 Tokarev box magazines and comes with a selective fire switch and a lot of pain.</szItemDesc>
 		<szBRName>Bizon 2-07</szBRName>
-		<szBRDesc>Variety is the spice of life, try out the SMG in its 7.62 Tk variant.</szBRDesc>
+		<szBRDesc>Variety is the spice of life so why not try out this select fire SMG in its 7.62 Tk variant using a more conventional column magazine.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>626</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>129</ubGraphicNum>
@@ -18007,6 +18018,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>627</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>205</ubGraphicNum>
@@ -18041,11 +18053,12 @@
 		<szLongItemName>Kulsprutepistol m/45</szLongItemName>
 		<szItemDesc>This Swedish SMG and its variants have been in service with the Swedish military since 1937. This kulsprutepistol or Submachine gun, was used by the Swedish homeguard until 2007, so it has a good 70 years of service under its belt. In all those years it was only fired once, by accident.</szItemDesc>
 		<szBRName>Kulsprutepistol m/45</szBRName>
-		<szBRDesc>A Stranger to conflict, the Swedish K was made by Husqvarna Vapenfabrik AB in Sweden. It is Swedish.</szBRDesc>
+		<szBRDesc>For those wanting to be their own Omega Men buy yourself one of these classic Swedish K's to accompany your safari suit and red Ford XL.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>628</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>203</ubGraphicNum>
 		<ubWeight>34</ubWeight>
@@ -18078,12 +18091,13 @@
 		<uiIndex>629</uiIndex>
 		<szItemName>Modelo C</szItemName>
 		<szLongItemName>CETME Modelo C</szLongItemName>
-		<szItemDesc>The Modelo C is a dependable 7.62mm NATO Spanish Assault rifle.</szItemDesc>
+		<szItemDesc>Not a lot of people know it but Modelo rifle was the foundation of HK's G3. It's a dependable 7.62mm NATO Spanish Assault rifle.</szItemDesc>
 		<szBRName>CETME Modelo C</szBRName>
 		<szBRDesc>The H&amp;K line of rifles got their design and license from the CETME model, which speaks volumes about its performance.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>629</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>222</ubGraphicNum>
 		<ubWeight>44</ubWeight>
@@ -18484,7 +18498,7 @@
 		<szLongItemName>Erma SR-100</szLongItemName>
 		<szItemDesc>Just about as accurate (and expensive) as you can make a gun, the SR-100 can shoot groupings other rifles can only dream of.</szItemDesc>
 		<szBRName>Erma SR-100</szBRName>
-		<szBRDesc>Comes with muzzle break, forged barrel, 3-lug bolt action and adjustable match trigger. If you're planning on competing in the Olympics in-between assignments, this gun's for you.</szBRDesc>
+		<szBRDesc>Comes with a muzzle break, forged barrel, 3-lug bolt action and adjustable match trigger. If you're planning on competing in the Olympics in-between assignments, this is the gun for you.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>640</ubClassIndex>
@@ -18517,9 +18531,9 @@
 		<uiIndex>641</uiIndex>
 		<szItemName>Mini SAF</szItemName>
 		<szLongItemName>FAMAE Mini SAF</szLongItemName>
-		<szItemDesc>9mm Machine pistol designed for security forces and support troops.</szItemDesc>
+		<szItemDesc>Chile's FAMAE cut-down machine pistol is designed for security forces and support troops.</szItemDesc>
 		<szBRName>FAMAE Mini SAF</szBRName>
-		<szBRDesc>A Chilean made clone of Heckler and Koch's MP5K.</szBRDesc>
+		<szBRDesc>A Chilean made clone of Heckler and Koch's MP5K, the Mini SAF is only 12 inches long but can still shoot at a high rate of fire.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>641</ubClassIndex>
@@ -18560,7 +18574,7 @@
 		<uiIndex>642</uiIndex>
 		<szItemName>SAF</szItemName>
 		<szLongItemName>FAMAE SAF</szLongItemName>
-		<szItemDesc>Swiss designed, Chilean manufactured 9mm SMG.</szItemDesc>
+		<szItemDesc>Spitting lead faster than a scalded dog this Swiss designed, Chilean manufactured 9mm SMG has got your back.</szItemDesc>
 		<szBRName>FAMAE SAF</szBRName>
 		<szBRDesc>Strongly influenced by the Sig 540, the SAF adds to the ranks of quality Subguns.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -18598,9 +18612,9 @@
 		<uiIndex>643</uiIndex>
 		<szItemName>SAF Silenciada</szItemName>
 		<szLongItemName>FAMAE SAF Silenciada</szLongItemName>
-		<szItemDesc>This model of the SAF includes an integral silencer.</szItemDesc>
+		<szItemDesc>The best of both worlds, this SMG can strike more passionately than a jealous latino mistress scorned, but with it's an integral silencer does so with little noise.</szItemDesc>
 		<szBRName>FAMAE SAF Silenciada</szBRName>
-		<szBRDesc>This silenced SMG is just the thing for your next covert operation.</szBRDesc>
+		<szBRDesc>This silenced SMG is just the thing for your next covert operation, just remember to pack plenty of ammo as this puppy eats bullets at 1200 RPM.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>643</ubClassIndex>
@@ -18709,10 +18723,11 @@
 		<szLongItemName>FN F2000</szLongItemName>
 		<szItemDesc>This futuristic and fearsome looking rifle is Fabrique Nationale's latest entry into Law Enforcement weaponry.</szItemDesc>
 		<szBRName>FN F2000</szBRName>
-		<szBRDesc>The F2000 is a gas operated, rotating bolt, select-fire weapon. It features polymer stock with bull-pup layout. It comes standard with a 40mm grenade launcher.</szBRDesc>
+		<szBRDesc>The F2000 diminutive size hides a host of features within its polymer stock and bull-pup layout. It comes standard with a 40mm grenade launcher.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>646</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>114</ubGraphicNum>
 		<ubWeight>36</ubWeight>
@@ -18748,6 +18763,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>647</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>179</ubGraphicNum>
 		<ubWeight>38</ubWeight>
@@ -18777,12 +18793,13 @@
 		<uiIndex>648</uiIndex>
 		<szItemName>FAL OSW</szItemName>
 		<szLongItemName>FN FAL OSW</szLongItemName>
-		<szItemDesc>A heavily modified FAL, its compact size, portability, light weight, and power combine to make this a formidable battle rifle.</szItemDesc>
+		<szItemDesc>The Operational Special Weapon's compact size, portability, light weight, and power combine to make this a formidable battle rifle from FN.</szItemDesc>
 		<szBRName>FN FAL OSW</szBRName>
 		<szBRDesc>The FAL OSW is extremely versatile. Featuring picatinny rails and a folding stock, this carbine is for someone who means business.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>648</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>181</ubGraphicNum>
 		<ubWeight>42</ubWeight>
@@ -18902,6 +18919,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>651</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>576</ubGraphicNum>
@@ -18944,6 +18962,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>652</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>577</ubGraphicNum>
@@ -18982,10 +19001,11 @@
 		<szLongItemName>FN FNC</szLongItemName>
 		<szItemDesc>A red headed bastard step child of the Eastern AK-47 and the Western M-16, this Belgian beauty has an integral flash suppressor.</szItemDesc>
 		<szBRName>FN FNC</szBRName>
-		<szBRDesc>A red headed bastard step child of the Eastern AK-47 and the Western M-16, this Belgian beauty has an integral flash suppressor and a Swedish twin. In the words of Gershwin, who could ask for anything more... besides a lighter trigger pull.</szBRDesc>
+		<szBRDesc>This Belgian beauty has an integral flash suppressor and a Swedish twin. In the words of Gershwin, who could ask for anything more... besides a lighter trigger pull.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>653</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>180</ubGraphicNum>
 		<ubWeight>38</ubWeight>
@@ -19060,6 +19080,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>655</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>237</ubGraphicNum>
 		<ubWeight>40</ubWeight>
@@ -19099,6 +19120,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>656</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>236</ubGraphicNum>
 		<ubWeight>38</ubWeight>
@@ -19210,6 +19232,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>659</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>100</ubGraphicNum>
 		<ubWeight>40</ubWeight>
@@ -19246,6 +19269,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>660</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>211</ubGraphicNum>
 		<ubWeight>28</ubWeight>
@@ -19289,6 +19313,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>661</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>270</ubGraphicNum>
@@ -19327,12 +19352,13 @@
 		<uiIndex>662</uiIndex>
 		<szItemName>HK 416 14"</szItemName>
 		<szLongItemName>HK 416 14"</szLongItemName>
-		<szItemDesc>Combine the best features of the G36 and the M4 with Heckler &amp;amp; Koch's HK416. This is the m4's better cousin, it is the HK of the AR platform. Be it naval, infantry or air force; This weapon does it all.</szItemDesc>
+		<szItemDesc>Combine the best features of the G36 and the M4 with Heckler &amp;amp; Koch's HK416. This is the M4's better cousin, it is the HK of the AR platform. Be it naval, infantry or air force; This weapon does it all.</szItemDesc>
 		<szBRName>HK 416 14"</szBRName>
 		<szBRDesc>After fixing England's SA80, now Heckler &amp; Koch wants to improve America's M4. The HK416 is available in both an upgrade kit for M4s or as a complete weapon with an HK made lower receiver.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>662</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>165</ubGraphicNum>
 		<ubWeight>35</ubWeight>
@@ -19370,7 +19396,7 @@
 		<szLongItemName>HK G11 PDW</szLongItemName>
 		<szItemDesc>A personal defence weapon designed to compliment the G11 rifle. Feel extra-special knowing you now own one of only a 1000 prototypes ever made.</szItemDesc>
 		<szBRName>HK G11 PDW</szBRName>
-		<szBRDesc>SPECIAL!  Available for a limited time only: G11 sidearm prototypes with glow-in-the-dark keychain!</szBRDesc>
+		<szBRDesc>ONCE IN A LIFETIME PROTOTYPE SPECIAL! This G11 sidearm comes with a glow-in-the-dark keychain!</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>663</ubClassIndex>
@@ -19404,10 +19430,11 @@
 		<szLongItemName>HK G36C</szLongItemName>
 		<szItemDesc>The G36 is a conventional gas operated, selective fire rifle, made from mostly modern materials and using mostly modern technologies.  The G36C is the compact version.</szItemDesc>
 		<szBRName>HK G36C</szBRName>
-		<szBRDesc>The G36 is a conventional gas operated, selective fire rifle, made from mostly modern materials and using mostly modern technologies.  The G36C is the compact or commando version.</szBRDesc>
+		<szBRDesc>If you need the power and quality of fire from a G36 but are tight for space, choose one of our compact versions to save on space and weight.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>664</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>254</ubGraphicNum>
 		<ubWeight>28</ubWeight>
@@ -19445,10 +19472,11 @@
 		<szLongItemName>HK G36 RAS</szLongItemName>
 		<szItemDesc>The G36 RAS is a conventional gas operated, selective fire rifle, made from mostly modern materials and using mostly modern technologies.</szItemDesc>
 		<szBRName>HK G36 RAS</szBRName>
-		<szBRDesc>The G36 RAS is a conventional gas operated, selective fire rifle, using mostly modern materials and technologies. Unlike the 'E'-version, the 'RAS' is outfitted with Picatinny rails.</szBRDesc>
+		<szBRDesc>Our G36's are quality German designed items made in Spain. Unlike the 'E'-version, the 'RAS' is outfitted with Picatinny rails.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>665</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>72</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -19484,10 +19512,11 @@
 		<szLongItemName>HK G36K RAS</szLongItemName>
 		<szItemDesc>The G36 RAS is a conventional gas operated, selective fire rifle, using mostly modern materials and technologies.  The G36K RAS is the carbine version.</szItemDesc>
 		<szBRName>HK G36K RAS</szBRName>
-		<szBRDesc>The G36 RAS is a conventional gas operated, selective fire rifle, using mostly modern materials and technologies.  The G36K RAS is the carbine version.</szBRDesc>
+		<szBRDesc>Pushed as a contender to replace the M16 for US forces, our G36 carbines are quality German designed items made in Spain. Ensure you use quality ammo with thick copper jackets to avoid overheating issues.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>666</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>251</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -19527,6 +19556,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>667</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>90</ubGraphicNum>
 		<ubWeight>40</ubWeight>
@@ -19567,6 +19597,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>668</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>334</ubGraphicNum>
 		<ubWeight>35</ubWeight>
@@ -19606,6 +19637,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>669</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>238</ubGraphicNum>
@@ -19683,6 +19715,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>671</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>97</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -19723,6 +19756,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>672</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>323</ubGraphicNum>
 		<ubWeight>18</ubWeight>
@@ -19849,7 +19883,7 @@
 		<szLongItemName>HK P7M8</szLongItemName>
 		<szItemDesc>The P7 pistols are known for their low barrel axis and slim profile, which makes them accurate and easily concealable pistols.</szItemDesc>
 		<szBRName>HK P7M8</szBRName>
-		<szBRDesc>The P7 pistols are known for their low barrel axis and slim profile, which makes them accurate and easily concealable pistols. They also are somewhat expensive, but have a strong following among many shooters.</szBRDesc>
+		<szBRDesc>Celebrate the P7 police pistols success with this premium M8 model. Features larger trigger guard, lengthened trigger, heat shield, thumb operated magazine release, larger rear sight dovetail, protruding firing pin bushing and lanyard ring.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>675</ubClassIndex>
@@ -19924,6 +19958,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>677</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>62</ubGraphicNum>
 		<ubWeight>23</ubWeight>
@@ -20035,6 +20070,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>680</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>199</ubGraphicNum>
@@ -59187,7 +59223,7 @@
 		<szLongItemName>Bizon PP-19</szLongItemName>
 		<szItemDesc>This Bizon SMG is chambered to accept 9x18mm Makarov box magazines.</szItemDesc>
 		<szBRName>Bizon PP-19</szBRName>
-		<szBRDesc>Variety is the spice of life, try out the SMG in its 9x18mm Makarov variant.</szBRDesc>
+		<szBRDesc>We have a number of these impressive lightweight SMG's in our catalogue, this is the 9x18mm Makarov variant.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2110</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
