@@ -10195,6 +10195,7 @@
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>		<!-- Internal - Trigger Group -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>68719476736</AvailableAttachmentPoint>	<!-- Stock - Folding -->
@@ -16975,6 +16976,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>601</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>151</ubGraphicNum>
 		<ubWeight>17</ubWeight>
@@ -17014,6 +17016,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>602</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>88</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -17055,6 +17058,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>603</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>117</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -17089,12 +17093,13 @@
 		<uiIndex>604</uiIndex>
 		<szItemName>Agram 2000</szItemName>
 		<szLongItemName>Agram 2000</szLongItemName>
-		<szItemDesc>The Agram 2000 has high marks and styling that make it popular not only with Eastern Block police forces, but their mafia counterparts as well.</szItemDesc>
+		<szItemDesc>While the rest of the world was checking out new websites such as Ebay and Wikipedia, Croatian's were spending 1995 creating this compact 9mm SMG mechanically based on the Beretta M-12.</szItemDesc>
 		<szBRName>Agram 2000</szBRName>
-		<szBRDesc>This 9mm submachine gun is one of the sportiest we have to offer!</szBRDesc>
+		<szBRDesc>The Agram 2000 has high marks and styling that make it popular not only with Eastern Block police forces, but their mafia counterparts as well.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>604</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>150</ubGraphicNum>
 		<ubWeight>18</ubWeight>
@@ -17134,12 +17139,13 @@
 		<uiIndex>605</uiIndex>
 		<szItemName>AICW</szItemName>
 		<szLongItemName>AICW</szLongItemName>
-		<szItemDesc>Fresh from testing, Australia's Advanced Infantry Combat Weapon, is the lightest assault rifle/multi-shot grenade launcher concept out there.</szItemDesc>
+		<szItemDesc>Australia's Advanced Infantry Combat Weapon, is the lightest assault rifle/multi-shot grenade launcher prototype out there.</szItemDesc>
 		<szBRName>AICW</szBRName>
-		<szBRDesc>The Aussies have solved the weight and bulk problems associated with merging an assault rifle caliber firearm with a multi-shot grenade launcher. While the hi-tech Metal Storm based launcher is compact, it still fires a big 40mm round. The AUG carbine is no compromise either.</szBRDesc>
+		<szBRDesc>The Aussies have solved the weight and bulk problems associated with merging an assault rifle with a multi-shot grenade launcher. While the hi-tech Metal Storm based launcher is compact, it still fires a big 40mm round. The AUG carbine is no compromise either.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>605</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>164</ubGraphicNum>
 		<ubWeight>61</ubWeight>
@@ -17179,12 +17185,13 @@
 		<uiIndex>606</uiIndex>
 		<szItemName>AK-102</szItemName>
 		<szLongItemName>AK-102</szLongItemName>
-		<szItemDesc>An AK-clone; this carbine was designed for export to other nations.</szItemDesc>
+		<szItemDesc>AK's are spreading like wildfire! This carbine was designed for export and makes use more durable and weight saving materials.</szItemDesc>
 		<szBRName>AK-102</szBRName>
 		<szBRDesc>While not as compact as the AKS-74U, this carbine's marginally longer barrel offers better performance.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>606</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>155</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -17221,10 +17228,11 @@
 		<szLongItemName>AK-103</szLongItemName>
 		<szItemDesc>More powerful than its predecessor AK-74, this rifle employs many of today's new technologies. Long live the AK-47!</szItemDesc>
 		<szBRName>AK-103</szBRName>
-		<szBRDesc>Back to the future... The return of the 7.62mm cartridges.  More powerful than its predecessor AK-74, this rifle employs many of today's new technologies. Long live the AK-47!</szBRDesc>
+		<szBRDesc>Back to the future... The return of the 7.62mm cartridge. More powerful than its predecessor; the AK-74, this rifle uses high performance plastics and coatings instead of wood and metal.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>607</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>70</ubGraphicNum>
 		<ubWeight>34</ubWeight>
@@ -17259,12 +17267,13 @@
 		<uiIndex>608</uiIndex>
 		<szItemName>AK-104</szItemName>
 		<szLongItemName>AK-104</szLongItemName>
-		<szItemDesc>From the AK-100 line of clones, the AK-104 carbine is chambered for 7.62 WP.</szItemDesc>
+		<szItemDesc>Exported from Izhevsk straight to the regional/sectarian conflict of your choice this AK clone comes with a shortened barrel and dressed for a funeral, maybe many funerals.</szItemDesc>
 		<szBRName>AK-104</szBRName>
-		<szBRDesc>Exported from Izhevsk straight to the regional/sectarian conflict of your choice.</szBRDesc>
+		<szBRDesc>From the AK-100 line of clones, the AK-104 carbine is chambered for 7.62 WP and feautres a polymer stock and rust resistant coatings.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>608</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>256</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -17305,6 +17314,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>609</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>84</ubGraphicNum>
 		<ubWeight>30</ubWeight>
