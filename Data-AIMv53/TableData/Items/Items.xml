@@ -9686,12 +9686,13 @@
 		<uiIndex>331</uiIndex>
 		<szItemName>L85A2</szItemName>
 		<szLongItemName>Enfield L85A2</szLongItemName>
-		<szItemDesc>This British weapon was actually made in Nottingham, not Enfield, where computer controlled tools were finally able to eliminate all of its serious defects.</szItemDesc>
+		<szItemDesc>The 'Small Arms for the 80's' have had subsequent revisions and improvements and just like the filo-fax and video cassette it's problems are now just things of the past.</szItemDesc>
 		<szBRName>Enfield L85A2</szBRName>
-		<szBRDesc>This British weapon was actually made in Nottingham, not Enfield, where computer controlled tools were finally able to eliminate all of its serious defects.</szBRDesc>
+		<szBRDesc>This British weapon was actually made in Nottingham, not Enfield, where computer controlled tools finally eliminated all of its serious defects.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>331</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>54</ubGraphicNum>
 		<ubWeight>38</ubWeight>
@@ -9753,7 +9754,7 @@
 		<szLongItemName>VSS Vintorez</szLongItemName>
 		<szItemDesc>This silent sniper rifle from Russia fires heavy 9mm bullets at subsonic speeds and apparently can pierce all types of body armor at over 400 meters.</szItemDesc>
 		<szBRName>VSS Vintorez</szBRName>
-		<szBRDesc>This silent sniper rifle from Russia fires heavy 9mm bullets at subsonic speeds and apparently can pierce all types of body armor at over 400 meters.</szBRDesc>
+		<szBRDesc>The silent 'Thread Cutter' from Russia fires heavy 9mm bullets at subsonic speeds. Specially designed carry-cases are still on back order, call us for updates.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>333</ubClassIndex>
@@ -9786,7 +9787,7 @@
 		<uiIndex>334</uiIndex>
 		<szItemName>PSG1</szItemName>
 		<szLongItemName>HK PSG1</szLongItemName>
-		<szItemDesc>This German made weapon exemplifies the country's reputation for precision and is a sniper's weapon of choice.</szItemDesc>
+		<szItemDesc>No longer can a gang of terrorists in a crowded environment think only one of them is a target with this large magazine capicty semi-auto sniper rifle.</szItemDesc>
 		<szBRName>HK PSG1</szBRName>
 		<szBRDesc>This German made weapon exemplifies the country's reputation for precision and is a sniper's weapon of choice.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -9895,7 +9896,7 @@
 		<szLongItemName>FN Five-seveN</szLongItemName>
 		<szItemDesc>The Five-seveN pistol was designed as a complimentary sidearm for the P90 submachine-gun.  The Five-seveN is a delayed blowback operated, semi-automatic firearm.</szItemDesc>
 		<szBRName>FN Five-seveN</szBRName>
-		<szBRDesc>The Five-seveN pistol was designed as a complimentary sidearm for the P90 submachine-gun.  The Five-seveN is a delayed blowback operated, semi-automatic firearm. It features a polymer frame with underbarrel acessory rail.</szBRDesc>
+		<szBRDesc>Compliment you P90 submachine-gun with this pistol from FN family. It features a polymer frame with underbarrel acessory rail and low recoil characteristics.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>337</ubClassIndex>
@@ -10078,6 +10079,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>342</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>59</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -10107,13 +10109,14 @@
 		<uiIndex>343</uiIndex>
 		<szItemName>MP5N</szItemName>
 		<szLongItemName>HK MP5N</szLongItemName>
-		<szItemDesc>The MP-5N was orignally developed for US Navy SEALs.</szItemDesc>
+		<szItemDesc>The MP5N was orignally developed for US Navy SEALs and features a specialized trigger system and retractable stock.</szItemDesc>
 		<szBRName>HK MP5N</szBRName>
-		<szBRDesc>Modern version of the MP-5 developed for US Navy SEALs.  The barrel is threaded to accept US-made detachable silencers.</szBRDesc>
+		<szBRDesc>Upgrade your HK MP5 for US Navy version.  The barrel is threaded to accept US-made detachable silencers.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>343</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>61</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -10148,12 +10151,13 @@
 		<uiIndex>344</uiIndex>
 		<szItemName>MP5SD5</szItemName>
 		<szLongItemName>HK MP5SD5</szLongItemName>
-		<szItemDesc>A suppressed version of the H&amp;amp;K MP-5 with integral suppressed and fixed stock of A4 version.</szItemDesc>
+		<szItemDesc>A suppressed version of the H&amp;amp;K MP5 with integral suppressed and fixed stock of A4 version.</szItemDesc>
 		<szBRName>HK MP5SD5</szBRName>
-		<szBRDesc>A suppressed version of the H&amp;amp;K MP-5 with integral suppressed and fixed stock of A4 version.</szBRDesc>
+		<szBRDesc>Special forces worldwide can't be wrong! This suppressed version of the MP5 has the fixed stock of the A4 and the same outstanding build quality.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>344</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>60</ubGraphicNum>
 		<ubWeight>31</ubWeight>
