@@ -519,6 +519,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>9</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>9</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -556,7 +557,7 @@
 		<uiIndex>10</uiIndex>
 		<szItemName>MAC-10</szItemName>
 		<szLongItemName>Ingram MAC-10</szLongItemName>
-		<szItemDesc>Born in the days of disco, this weapon has been very popular in the land of pink flamingos and snow. This "little friend" blasts .45 magic down range at rad speed.</szItemDesc>
+		<szItemDesc>Born in the days of disco, this weapon has been very popular in the land of pink flamingos and snow. This drive-by tool blasts .45 magic at rad speed.</szItemDesc>
 		<szBRName>Ingram MAC-10</szBRName>
 		<szBRDesc>The U.S. Military Armament Corp. Model-10: a real man's sub-machine gun. Its steadiness allows for single-handed firing and its threaded barrel can fit a 'sound suppressor,' which is similar to a silencer but won't reduce bullet velocity.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -601,6 +602,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>11</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>11</ubGraphicNum>
@@ -671,10 +673,11 @@
 		<szLongItemName>HK 53A3</szLongItemName>
 		<szItemDesc>Only two inches longer than the MP5 submachine gun, the HK53 provides all the hard-hitting firepower of the 5.56mm caliber in a compact package.</szItemDesc>
 		<szBRName>HK 53A3</szBRName>
-		<szBRDesc>Only two inches longer than the MP5 submachine gun, the HK53 provides all the hard-hitting firepower of the 5.56mm caliber in a compact package. This German made assault rifle may be small, but that is because it was assebled under a microscope, but like many of it's brothers, Damn it is reliable! I used this as a hat stand.</szBRDesc>
+		<szBRDesc>Only two inches longer than the MP5 SMG, the HK53 provides hard-hitting 5.56mm firepower in a compact package. This German made assault rifle may be small, but that is because it was assembled under a microscope, but like many of it's brothers, damn it is reliable! I used this as a hat stand.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>13</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>13</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -714,6 +717,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>14</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>14</ubGraphicNum>
 		<ubWeight>27</ubWeight>
@@ -747,13 +751,14 @@
 		<uiIndex>15</uiIndex>
 		<szItemName>P90</szItemName>
 		<szLongItemName>FN P90</szLongItemName>
-		<szItemDesc>This Belgian weapon is one of the most advanced submachine guns in the world and is highly coveted by several special forces. This submachine gun fires the 5.7x28mm at a rate of 900 rpm, making it one of the best cqb weapon.</szItemDesc>
+		<szItemDesc>This Belgian weapon is one of the most advanced submachine guns in the world and is highly coveted by several special forces. This submachine gun fires the 5.7x28mm at a rate of 900 rpm, making it one of the best CQB weapon.</szItemDesc>
 		<szBRName>FN P90</szBRName>
 		<szBRDesc>Chews through Kevlar like it was butter. The FN-P90 is a blowback machine pistol with truly powerful ballistic capabilities. All controls are fully ambidextrous, with a cocking handle fitted on both sides and two open sights. Comes complete with reflex sight. It also is the favorited weapon of SG-1.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>15</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>15</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -795,13 +800,14 @@
 		<uiIndex>16</uiIndex>
 		<szItemName>Type 85</szItemName>
 		<szLongItemName>Type 85</szLongItemName>
-		<szItemDesc>Cheap, simple, and rugged. This motto for Chinese military designs is truly reflected in this mass-produced weapon. Still in uses by the Chinese police and some PLA soldiers.</szItemDesc>
+		<szItemDesc>Cheap, simple, and rugged. This motto for Chinese military designs is truly reflected in this mass-produced weapon. Still in use by the Chinese police and some PLA soldiers.</szItemDesc>
 		<szBRName>Type 85</szBRName>
 		<szBRDesc>Of Chinese design, the Type-85 submachine gun is a plain blowback weapon that is remarkably lightweight due to its rotating bolt system. The weapon's manufacturers claim that it also fires the subsonic type-64 cartridge for use with a suppressor.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>16</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>16</ubGraphicNum>
 		<ubWeight>19</ubWeight>
@@ -958,6 +964,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>20</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>20</ubGraphicNum>
 		<ubWeight>36</ubWeight>
@@ -1003,6 +1010,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>21</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>21</ubGraphicNum>
 		<ubWeight>41</ubWeight>
@@ -1073,6 +1081,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>23</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>255</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -1144,12 +1153,13 @@
 		<uiIndex>25</uiIndex>
 		<szItemName>AK-74</szItemName>
 		<szLongItemName>AK-74</szLongItemName>
-		<szItemDesc>This rifle is destined to become one of Russia's greatest exports, second only to tactical nuclear warheads.</szItemDesc>
+		<szItemDesc>This rifle was destined to become one of Russia's greatest exports, second only to tactical nuclear warheads.</szItemDesc>
 		<szBRName>AK-74</szBRName>
 		<szBRDesc>Used as the Soviet infantry's standard automatic rifle, the AK-74 is a smaller caliber version of the AKM. While highly efficient and steady, with minimal recoil, it can be nasty to bystanders, as muzzle gases are diverted sideways.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>25</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>25</ubGraphicNum>
 		<ubWeight>31</ubWeight>
@@ -1185,6 +1195,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>26</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>26</ubGraphicNum>
 		<ubWeight>31</ubWeight>
@@ -1220,6 +1231,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>27</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>27</ubGraphicNum>
 		<ubWeight>44</ubWeight>
@@ -1250,10 +1262,11 @@
 		<szLongItemName>FN FAL</szLongItemName>
 		<szItemDesc>The phrase, 'Help, I've FAL-len and I can't get up,' takes on a whole new meaning when this rifle is involved.</szItemDesc>
 		<szBRName>FN Fusil Automatique Leger</szBRName>
-		<szBRDesc>This Belgian automatic rifle set a new standard in weaponry in the early 1950's. Its robust and reliable design made it simple to use and maintain, despite its tendency for excessive climbing in automatic mode.</szBRDesc>
+		<szBRDesc>This Belgian automatic rifle has set a new standard in weaponry since the 50's. Its robust and reliable design makes it simple to use and maintain, despite its tendency for excessive climbing in automatic mode.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>28</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>28</ubGraphicNum>
 		<ubWeight>45</ubWeight>
@@ -1283,12 +1296,13 @@
 		<uiIndex>29</uiIndex>
 		<szItemName>G3A3</szItemName>
 		<szLongItemName>HK G3A3</szLongItemName>
-		<szItemDesc>Made from sheet metal stampings and plastic furniture. This rifle takes the 7.62x51mm rounds and gives you big holes and lots of recoil, perfect for hunting anything.</szItemDesc>
+		<szItemDesc>Licensed and produced in no less than 14 countries this working-class Heckler and Koch automatic rifle still proves robustness, reliabilty and effectiveness are timeless features.</szItemDesc>
 		<szBRName>HK G3A3</szBRName>
-		<szBRDesc>Made from sheet metal stampings and plastic furniture, this Heckler and Koch automatic rifle sure ain't pretty, but it is definitely robust, reliable and highly effective.</szBRDesc>
+		<szBRDesc>Made from sheet metal stampings and plastic furniture. This rifle takes the 7.62x51mm round and gives you big holes and lots of recoil, perfect for hunting anything.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>29</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>76</ubGraphicNum>
@@ -1435,6 +1449,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>33</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>33</ubGraphicNum>
@@ -1504,6 +1519,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>35</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>35</ubGraphicNum>
 		<ubWeight>46</ubWeight>
@@ -1544,6 +1560,7 @@
 		<szBRDesc>The German Heckler and Koch 21 is a fantastic all-purpose machine gun, featuring a heavy yet easily changeable barrel. Its bipod offers 3 height settings on which the gun can pivot 30 degrees in either direction.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>36</ubClassIndex>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>36</ubGraphicNum>
 		<ubWeight>93</ubWeight>
@@ -2079,7 +2096,7 @@
 		<szLongItemName>Rocket Rifle</szLongItemName>
 		<szItemDesc>Annihilate your opponents with the cutting edge in weapons technology.  This rocket rifle comes with its own laser scope and computer security system.</szItemDesc>
 		<szBRName>Rocket Rifle</szBRName>
-		<szBRDesc>Annihilate your opponents with the cutting edge in weapons technology.  This rocket rifle comes with its own laser scope and computer security system.</szBRDesc>
+		<szBRDesc>Not available at BR</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>55</ubClassIndex>
@@ -2354,7 +2371,7 @@
 		<szLongItemName>Crowbar</szLongItemName>
 		<szItemDesc>This durable lever tool is a one-piece bar of titanium. While harder and stronger than steel, it weighs less, and won't rust.</szItemDesc>
 		<szBRName>Crowbar</szBRName>
-		<szBRDesc>This titanium crowbar will come in handy when stuck in a jam. It's a one piece bar of titanium that's harder and stronger than steel, and corrosion resistant. Since it weighs almost nothing, you can take it anywhere.</szBRDesc>
+		<szBRDesc>This titanium crowbar will come in handy when stuck in a jam. It's a one piece bar harder and stronger than steel, and corrosion resistant. Since it weighs almost nothing, you can take it anywhere.</szBRDesc>
 		<usItemClass>128</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>64</ubClassIndex>
@@ -2387,7 +2404,7 @@
 		<szLongItemName>Auto Rocket Rifle</szLongItemName>
 		<szItemDesc>The bleeding edge in weapons technology, this experimental version of the rocket rifle is capable of emptying its entire clip in a single devastating burst!</szItemDesc>
 		<szBRName>Auto Rocket Rifle</szBRName>
-		<szBRDesc>The bleeding edge in weapons technology, this experimental version of the rocket rifle is capable of emptying its entire clip in a single devastating burst!</szBRDesc>
+		<szBRDesc>Not available at BR</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>65</ubClassIndex>
@@ -2509,11 +2526,13 @@
 		<szLongItemName>Calico M-900</szLongItemName>
 		<szItemDesc>Another reincarnation of the M960, this version has a unusually longer barrel for a 9mm weapon and semi auto-fires with the same 50 round clip.</szItemDesc>
 		<szBRName>Calico M-900</szBRName>
-		<szBRDesc>Another reincarnation of the M960, this version has a unusually longer barrel for a 9mm weapon and semi auto-fires with the same 50 round clip.</szBRDesc>
+		<szBRDesc>This funky gun features it's distinct helical loading system which is more reliable than the 100 round clip version. Now 100% legal in the US since the 1994 assault weapon ban expired in 2004. Get yours before the fun police bring in new legislation.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>68</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>50</ubGraphicNum>
 		<ubWeight>22</ubWeight>
@@ -2544,11 +2563,13 @@
 		<szLongItemName>Calico M-960A</szLongItemName>
 		<szItemDesc>Known as the "Mini Sub Machine Gun" this American model uses a helical-feed 50 round magazine of 9mm bullets, and has been making things right since 1990.</szItemDesc>
 		<szBRName>Calico M-960A</szBRName>
-		<szBRDesc>Known as the "Mini Sub Machine Gun" this American model uses a helical-feed 50 round magazine of 9mm bullets, and has been making things right since 1990.</szBRDesc>
+		<szBRDesc>Relatively light this "Mini Sub Machine Gun" uses a helical-feed 50 round magazine of 9mm bullets that ejects spent rounds downward making it ideal of ambidextrous use. Made in the the USA.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>69</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>52</ubGraphicNum>
 		<ubWeight>22</ubWeight>
@@ -6614,9 +6635,9 @@
 		<uiIndex>213</uiIndex>
 		<szItemName>Gas Mask</szItemName>
 		<szLongItemName>Gas Mask</szLongItemName>
-		<szItemDesc>Replicated from the Russian M-17A1, this rubber mask has cheek filters, scratch-proof lenses, adjustable head straps, and a drinking attachment.  A vinyl shoulder bag and plastic poncho are also included.</szItemDesc>
+		<szItemDesc>Replicated from the Russian M-17A1, this rubber mask has cheek filters, scratch-proof lenses, adjustable head straps, and a drinking attachment.  Comes in it's own vinyl shoulder bag.</szItemDesc>
 		<szBRName>Gas Mask</szBRName>
-		<szBRDesc>This Russian rubber mask is a copy of the American M-17A1. It has cheek filters, scratch-proof lenses, adjustable head straps, and a unique drinking attachment. It also comes with a vinyl shoulder bag, and plastic poncho to help protect you from blistering agents.</szBRDesc>
+		<szBRDesc>This Russian rubber mask is a copy of the American M-17A1. It has cheek filters, scratch-proof lenses, adjustable straps, and a unique drinking attachment. Includes its own vinyl carry bag. We recommend purchasing a companion plastic poncho to help protect you from blistering agents.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -7382,7 +7403,7 @@
 		<szLongItemName>Duckbill</szLongItemName>
 		<szItemDesc>This metal object, when attached to the end of a shotgun barrel, causes buckshot fired from the shotgun to spread out along a horizontal line instead of its standard circular pattern.</szItemDesc>
 		<szBRName>Duckbill</szBRName>
-		<szBRDesc>Attach this metal object to the end of a shotgun barrel for a real deadly effect. It causes buckshot fired from the shotgun to spread out along a horizontal line instead of its standard circular pattern. Say good-bye to  anyone who gets into its path.</szBRDesc>
+		<szBRDesc>Attach this metal object to the end of a shotgun barrel for a real deadly effect. It causes buckshot fired from the shotgun to spread out along a horizontal line instead of its standard circular pattern. Say good-bye to anyone who gets into its path.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>2</AttachmentClass>
 		<nasAttachmentClass>2</nasAttachmentClass>
@@ -7896,7 +7917,7 @@
 		<uiIndex>266</uiIndex>
 		<szItemName>Walkman</szItemName>
 		<szLongItemName>Walkman</szLongItemName>
-		<szItemDesc>Listen to your favorite tunes wherever you go with this portable cassette player and mini-headphones. They will make any long trek a little more merry.</szItemDesc>
+		<szItemDesc>Play it old-skool wherever you go with this original portable cassette player and mini-headphones. They will make any long trek a little more merry, unless you're playing James Blunt of course.</szItemDesc>
 		<szBRName>Walkman</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>32768</usItemClass>
@@ -8329,9 +8350,9 @@
 		<uiIndex>284</uiIndex>
 		<szItemName>Uniform</szItemName>
 		<szLongItemName>Field Uniform</szLongItemName>
-		<szItemDesc>Officer's fatigues. This is the standard issue body armour of the US military.  What were they thinking?  This stuff wears out way too fast.</szItemDesc>
+		<szItemDesc>Officer's fatigues. This is the standard issue of the US military.  What were they thinking?  This stuff wears out way too fast.</szItemDesc>
 		<szBRName>Field Uniform</szBRName>
-		<szBRDesc>Officer's fatigues.  Stronger than kevlar, this is the body armour worn by US Marines in Iraq.  Provides limited camouflage.</szBRDesc>
+		<szBRDesc>Look the part with these Officer's fatigues as worn by US Marines in Iraq.  Provides limited camouflage.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>41</ubClassIndex>
@@ -8463,7 +8484,7 @@
 		<szLongItemName>Red Beret</szLongItemName>
 		<szItemDesc>Parlay voo francais?  This beret may not be French, but it sure looks gay.</szItemDesc>
 		<szBRName>Red Beret</szBRName>
-		<szBRDesc>Start your own special forces team!</szBRDesc>
+		<szBRDesc>Whether your a paratrooper, MP, Commando or Professor Griff nothing starts your own special forces team quicker than a vibrant red beret!</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>45</ubClassIndex>
@@ -8550,7 +8571,7 @@
 		<szLongItemName>Officer's Coat</szLongItemName>
 		<szItemDesc>While this coat looks like it'll hold up fine against the rain, it doesn't look like it'll do much against bullets.</szItemDesc>
 		<szBRName>Officer's Coat</szBRName>
-		<szBRDesc>A Soviet officer's coat.  Available with and without pocket lint.</szBRDesc>
+		<szBRDesc>A Soviet officer's coat. Pocket lint comes as standard.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>48</ubClassIndex>
@@ -8578,7 +8599,7 @@
 		<szLongItemName>Officer's Hat</szLongItemName>
 		<szItemDesc>This is an officer's hat.  From the looks of it, it's probably from the former Soviet Union.</szItemDesc>
 		<szBRName>Officer's Hat</szBRName>
-		<szBRDesc>A Soviet officer's hat.  Available with and without lice.</szBRDesc>
+		<szBRDesc>A Soviet officer's hat.  Available with or without lice.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>49</ubClassIndex>
@@ -8669,7 +8690,7 @@
 		<szLongItemName>SWAT Vest</szLongItemName>
 		<szItemDesc>Standard issue SWAT armored vest.  Sturdier than standard kevlar due to extra integrated plating, but still provides excellent mobility.</szItemDesc>
 		<szBRName>SWAT Vest</szBRName>
-		<szBRDesc>Standard issue SWAT armor. Strong, resilient and flexible.  An excellent choice for situations which require light armor and high mobility.</szBRDesc>
+		<szBRDesc>Standard issue SWAT armor. Strong, resilient and flexible. An excellent choice for situations which require light armor and high mobility.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>52</ubClassIndex>
@@ -8732,9 +8753,9 @@
 		<uiIndex>297</uiIndex>
 		<szItemName>Retractable Baton</szItemName>
 		<szLongItemName>Retractable Baton</szLongItemName>
-		<szItemDesc>Standard issue for security guards in many countries, this retractable baton is greating for whipping out and beating.</szItemDesc>
+		<szItemDesc>Standard issue for security guards in many countries, this retractable baton is greating for whipping out a beating.</szItemDesc>
 		<szBRName>Retractable Baton</szBRName>
-		<szBRDesc>Standard retractable baton.  Popular with security guards.</szBRDesc>
+		<szBRDesc>Extend your reach and striking power with this solid steel retractable baton. Extendable by the flick of the wrist these are popular with security guards but may require licenses in some countries.</szBRDesc>
 		<usItemClass>128</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>297</ubClassIndex>
@@ -8913,7 +8934,7 @@
 		<szLongItemName>Camo Steel Helmet</szLongItemName>
 		<szItemDesc>This steel helmet provides protection from small firearms, shrapnel and other projectiles. It has been painted with camouflage.</szItemDesc>
 		<szBRName>Camo Steel Helmet</szBRName>
-		<szBRDesc>Comfortable and extremely practical. This steel helmet provides protection from small firearms, shrapnel and other projectiles. It has a padded leather and nylon suspension, with an adjustable chin strap.  Provides limited camouflage.</szBRDesc>
+		<szBRDesc>Comfortable and extremely practical. This steel helmet provides protection from small firearms, shrapnel and other projectiles. It has a padded leather and nylon suspension, with an adjustable chin strap. Provides limited camouflage.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -9648,7 +9669,7 @@
 		<szLongItemName>Micro-Uzi</szLongItemName>
 		<szItemDesc>The name says it all, it's an Uzi. First there was the Mini-Uzi, now the Micro-Uzi. One can only wonder when the Pocket-Uzi will roll-off the Israeli assembly line.</szItemDesc>
 		<szBRName>Micro-Uzi</szBRName>
-		<szBRDesc>The name says it all, it's an Uzi. First there was the Mini-Uzi, now the Micro-Uzi. One can only wonder when the Pocket-Uzi will roll-off the Israeli assembly line.</szBRDesc>
+		<szBRDesc>Never has such a small package delivered so much bang for buck. 1.5 kg of Israeli ingenuity can shed 1500 rounds per minute, but please be aware of muzzle climb.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>330</ubClassIndex>
@@ -60128,7 +60149,7 @@
 		<szLongItemName>AKM Bayonet</szLongItemName>
 		<szItemDesc>A classic bayonet for use with the AKM. Among it's many useful features is it's saw-teeth that can double as wire cutters.</szItemDesc>
 		<szBRName>AK Bayonet</szBRName>
-		<szBRDesc>This type II bayonet was way ahead of it's time when it first came out and makes practical use of plastic and steel along with the rot and rust free stainless steel blade.</szBRDesc>
+		<szBRDesc>This type II bayonet was way ahead of it's time when it first came out and makes practical use of plastics along with the rot and rust free stainless steel blade.</szBRDesc>
 		<usItemClass>4</usItemClass>
 		<AttachmentClass>2</AttachmentClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
@@ -72167,9 +72188,9 @@
 		<uiIndex>2698</uiIndex>
 		<szItemName>AK Sheath</szItemName>
 		<szLongItemName>AK Bayonet Sheath</szLongItemName>
-		<szItemDesc>Multi-purpose sheath for military bayonet.</szItemDesc>
+		<szItemDesc>Keep your trusty bayonet close-by but away from the elements with this multi-purpose sheath.</szItemDesc>
 		<szBRName>AK Bayonet Sheath</szBRName>
-		<szBRDesc>Multi-purpose sheath for military bayonet.</szBRDesc>
+		<szBRDesc>Surplus new old stock of this multi-purpose sheath for military bayonets is now available.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
