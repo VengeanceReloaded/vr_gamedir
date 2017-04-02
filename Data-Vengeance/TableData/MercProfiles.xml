@@ -4122,10 +4122,10 @@
 		<bLifeMax>65</bLifeMax>
 		<bLife>65</bLife>
 		<bStrength>71</bStrength>
-		<bAgility>59</bAgility>
+		<bAgility>60</bAgility>
 		<bDexterity>76</bDexterity>
 		<bWisdom>58</bWisdom>
-		<bMarksmanship>48</bMarksmanship>
+		<bMarksmanship>50</bMarksmanship>
 		<bExplosive>31</bExplosive>
 		<bLeadership>1</bLeadership>
 		<bMedical>2</bMedical>
@@ -4166,7 +4166,7 @@
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>2</bRacist>
 		<bSexist>2</bSexist>
-		<sSalary>150</sSalary>
+		<sSalary>160</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -4315,11 +4315,11 @@
 		<bAgility>88</bAgility>
 		<bDexterity>91</bDexterity>
 		<bWisdom>53</bWisdom>
-		<bMarksmanship>50</bMarksmanship>
+		<bMarksmanship>56</bMarksmanship>
 		<bExplosive>11</bExplosive>
 		<bLeadership>4</bLeadership>
 		<bMedical>12</bMedical>
-		<bMechanical>8</bMechanical>
+		<bMechanical>10</bMechanical>
 		<bExpLevel>2</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>13</bOldSkillTrait>
@@ -4356,7 +4356,7 @@
 		<bHatedNationalityCareLevel>2</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>2</bSexist>
-		<sSalary>150</sSalary>
+		<sSalary>200</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -6971,13 +6971,13 @@
 		<ubNeedForSleep>6</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>98</bLifeMax>
-		<bLife>98</bLife>
-		<bStrength>63</bStrength>
+		<bLifeMax>89</bLifeMax>
+		<bLife>89</bLife>
+		<bStrength>60</bStrength>
 		<bAgility>96</bAgility>
 		<bDexterity>86</bDexterity>
-		<bWisdom>76</bWisdom>
-		<bMarksmanship>66</bMarksmanship>
+		<bWisdom>72</bWisdom>
+		<bMarksmanship>60</bMarksmanship>
 		<bExplosive>4</bExplosive>
 		<bLeadership>3</bLeadership>
 		<bMedical>17</bMedical>
