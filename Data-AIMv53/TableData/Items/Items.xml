@@ -4272,7 +4272,7 @@
 		<szLongItemName>TNT</szLongItemName>
 		<szItemDesc>Unfuck the world one bomb at a time! Trinitrotoluene is the second oldest and most commonly used explosive known to man - the first is dynamite. These sticks of explosives are highly stable, strawboard rolled, and contain a quarter-pound charge.</szItemDesc>
 		<szBRName>TNT</szBRName>
-		<szBRDesc>Good old reliable trinitrotoluene is the second oldest and most commonly used explosive known to man-the first is dynamite. These sticks of explosives are highly stable, strawboard rolled and contain a quarter- pound charge.</szBRDesc>
+		<szBRDesc>Good old reliable trinitrotoluene is the second oldest and most commonly used explosive known to man, the first is dynamite. These sticks of explosives are highly stable, strawboard rolled and contain a quarter-pound charge.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -10132,7 +10132,7 @@
 		<szLongItemName>HK MP5N</szLongItemName>
 		<szItemDesc>The MP5N was orignally developed for US Navy SEALs and features a specialized trigger system and retractable stock.</szItemDesc>
 		<szBRName>HK MP5N</szBRName>
-		<szBRDesc>Upgrade your HK MP5 for US Navy version.  The barrel is threaded to accept US-made detachable silencers.</szBRDesc>
+		<szBRDesc>Upgrade your HK MP5 for this US Navy version.  The barrel is threaded to accept US-made detachable silencers.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>343</ubClassIndex>
@@ -19916,9 +19916,9 @@
 		<uiIndex>675</uiIndex>
 		<szItemName>P7M8</szItemName>
 		<szLongItemName>HK P7M8</szLongItemName>
-		<szItemDesc>The P7 pistols are known for their low barrel axis and slim profile, which makes them accurate and easily concealable pistols.</szItemDesc>
+		<szItemDesc>The P7 pistols are known for their low barrel axis and slim profile, which makes them accurate and easily concealable.</szItemDesc>
 		<szBRName>HK P7M8</szBRName>
-		<szBRDesc>Celebrate the P7 police pistols success with this premium M8 model. Features larger trigger guard, lengthened trigger, heat shield, thumb operated magazine release, larger rear sight dovetail, protruding firing pin bushing and lanyard ring.</szBRDesc>
+		<szBRDesc>Celebrate the P7 police pistol's success with this premium M8 model. Features larger trigger guard, lengthened trigger, heat shield, thumb operated magazine release, larger rear sight dovetail, protruding firing pin bushing and lanyard ring.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>675</ubClassIndex>
