@@ -1374,6 +1374,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>31</ubClassIndex>
+		<AvailableAttachmentPoint>131072</AvailableAttachmentPoint>			<!-- Muzzle - Choke -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>31</ubGraphicNum>
 		<ubWeight>34</ubWeight>
@@ -20070,6 +20071,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>679</ubClassIndex>
+		<AvailableAttachmentPoint>131072</AvailableAttachmentPoint>			<!-- Muzzle - Choke -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>183</ubGraphicNum>
 		<ubWeight>31</ubWeight>
@@ -28150,6 +28152,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>899</ubClassIndex>
+		<AvailableAttachmentPoint>131072</AvailableAttachmentPoint>			<!-- Muzzle - Choke -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>156</ubGraphicNum>
 		<ubWeight>30</ubWeight>
