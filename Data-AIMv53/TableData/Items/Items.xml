@@ -673,7 +673,7 @@
 		<szLongItemName>HK 53A3</szLongItemName>
 		<szItemDesc>Only two inches longer than the MP5 submachine gun, the HK53 provides all the hard-hitting firepower of the 5.56mm caliber in a compact package.</szItemDesc>
 		<szBRName>HK 53A3</szBRName>
-		<szBRDesc>Only two inches longer than the MP5 SMG, the HK53 provides hard-hitting 5.56mm firepower in a compact package. This German made assault rifle may be small, but that is because it was assembled under a microscope, but like many of it's brothers, damn it is reliable! I used this as a hat stand.</szBRDesc>
+		<szBRDesc>Only two inches longer than the MP5 SMG, the HK53 provides hard-hitting 5.56mm firepower in a compact package. This German made assault rifle may be small, but that's because it was assembled under a microscope and like so many of it's brothers, it's reliable as they come!</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>13</ubClassIndex>
@@ -6638,7 +6638,7 @@
 		<szLongItemName>Gas Mask</szLongItemName>
 		<szItemDesc>Replicated from the Russian M-17A1, this rubber mask has cheek filters, scratch-proof lenses, adjustable head straps, and a drinking attachment.  Comes in it's own vinyl shoulder bag.</szItemDesc>
 		<szBRName>Gas Mask</szBRName>
-		<szBRDesc>This Russian rubber mask is a copy of the American M-17A1. It has cheek filters, scratch-proof lenses, adjustable straps, and a unique drinking attachment. Includes its own vinyl carry bag. We recommend purchasing a companion plastic poncho to help protect you from blistering agents.</szBRDesc>
+		<szBRDesc>This Russian mask is a copy of the American M-17A1. It has cheek filters, scratch-proof lenses, adjustable straps, and a drinking attachment. Includes its own vinyl carry bag. We recommend purchasing a companion plastic poncho to help protect you from blistering agents.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -10245,6 +10245,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
+		<DefaultAttachment>1008</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -57411,7 +57412,7 @@
 		<szLongItemName>MPA .45 Carbine</szLongItemName>
 		<szItemDesc>A carbine version based on the simplistic MAC-10 design. Instead of full auto, this gun has a 3 shot burst.</szItemDesc>
 		<szBRName>MPA .45 Carbine</szBRName>
-		<szBRDesc>Known for their innovative alterations to the traditional MAC-10, MasterPiece Arms has taken the simplicity of the firearmтАЩs function and added rifle barrels and several stock options to form a rifle line that is sure to please any varmint hunter or collector.</szBRDesc>
+		<szBRDesc>Known for their innovative alterations to the traditional MAC-10, MasterPiece Arms has taken the simplicity of the firearm's function and added rifle barrels and several stock options to form a rifle line that is sure to please any varmint hunter or collector.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2064</ubClassIndex>
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
@@ -60781,9 +60782,9 @@
 		<uiIndex>2144</uiIndex>
 		<szItemName>Uzi MP2</szItemName>
 		<szLongItemName>IMI Uzi MP2</szLongItemName>
-		<szItemDesc>Probably the most famous SMG in the world. This 9mm submachine gun is still in use by the secret service and special units around the globe not to mention the odd Hollywood cyborg.</szItemDesc>
+		<szItemDesc>Designed by Uziel Gal of the Israel Defense Forces the Uzi was one of the first guns to use a telesopic bolt and house the magazine inside the pistol grip, making reloading in total darkness as natural as joining hands.</szItemDesc>
 		<szBRName>Uzi</szBRName>
-		<szBRDesc>Since its introduction in 1948, the Uzi has supplanted the Thompson as the household word in SMG's. This 9mm submachine gun is still in use by the secret service and special units around the world.</szBRDesc>
+		<szBRDesc>Stock up on these Bundeswehr editions of the infamous Uzi before they disappear, features 1950's wooden stocks for that genuine rock 'n' roll appeal.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>2144</ubClassIndex>
@@ -68036,7 +68037,7 @@
 		<szLongItemName>Night Ops Pants</szLongItemName>
 		<szItemDesc>Special pants for night operations.</szItemDesc>
 		<szBRName>Night Ops Pants</szBRName>
-		<szBRDesc>Special pants for night operations.</szBRDesc>
+		<szBRDesc>As Chuck Norris said, good guys wear black</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>209</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -68248,7 +68249,7 @@
 		<szLongItemName>KAZAK-6 Body Armour</szLongItemName>
 		<szItemDesc>The Russian equivalent of Dragonskin. The KAZAK-6 provides excellent protection.</szItemDesc>
 		<szBRName>KAZAK-6 Body Armour</szBRName>
-		<szBRDesc>The Russian equivalent of Dragonskin. The KAZAK-6 provides excellent protection.</szBRDesc>
+		<szBRDesc>These Russian made KAZAK-6 vests provide excellent protection and always sell out quickly. Place your order before they go again.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>217</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -68277,7 +68278,7 @@
 		<szLongItemName>Leg Protectors Urban Camo</szLongItemName>
 		<szItemDesc>Not just for unruly kids with skateboards and spray cans, these kneepads will prevent unwanted damage to your, you guessed it, knees.</szItemDesc>
 		<szBRName>Leg Protectors Urban Camo</szBRName>
-		<szBRDesc>Not just for unruly kids with skateboards and spray cans, these kneepads will prevent unwanted damage to your, you guessed it, knees. The colouring is perfect for Urban scenarios.</szBRDesc>
+		<szBRDesc>Protect your knees while crawling around in the rubble. Tailored for mobility and performance these one size fits all items are made in America and use Urban Camo colorways.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasAttachmentClass>2</nasAttachmentClass>
 		<AttachmentPoint>36028797018963968</AttachmentPoint>	<!-- Armour Leggings - Protectors -->
@@ -68307,9 +68308,9 @@
 		<uiIndex>2521</uiIndex>
 		<szItemName>Leg Protectors DC</szItemName>
 		<szLongItemName>Leg Protectors Desert Camo</szLongItemName>
-		<szItemDesc>These desert tan leg protectors are a good choice to keep your knees protected.</szItemDesc>
+		<szItemDesc>You can now dive on the desert dirt when the rockets start flying without paying out on your knees for it.</szItemDesc>
 		<szBRName>Leg Protectors Desert Camo</szBRName>
-		<szBRDesc>These desert tan leg protectors are a good choice to keep your knees protected.</szBRDesc>
+		<szBRDesc>Using cell foam padding for shock absorbtion, these desert tan leg protectors are a good choice to keep your knees protected. Made in America.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasAttachmentClass>2</nasAttachmentClass>
 		<AttachmentPoint>36028797018963968</AttachmentPoint>	<!-- Armour Leggings - Protectors -->
