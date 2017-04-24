@@ -132,7 +132,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>A11</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayGeneric</szDay>
+		<szDay>Loadscreens\LS_Day</szDay>
 		<szNight>Loadscreens\LS_NightGeneric</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>		
@@ -233,7 +233,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>B5</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayGeneric</szDay>
+		<szDay>Loadscreens\LS_Day</szDay>
 		<szNight>Loadscreens\LS_NightGeneric</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -243,7 +243,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>B6</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayGeneric</szDay>
+		<szDay>Loadscreens\LS_Day</szDay>
 		<szNight>Loadscreens\LS_NightGeneric</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -263,7 +263,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>B8</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayGeneric</szDay>
+		<szDay>Loadscreens\LS_Day</szDay>
 		<szNight>Loadscreens\LS_NightGeneric</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -565,7 +565,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>D6</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayGeneric</szDay>
+		<szDay>Loadscreens\LS_Day</szDay>
 		<szNight>Loadscreens\LS_NightGeneric</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -736,7 +736,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>E7</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayGeneric</szDay>
+		<szDay>Loadscreens\LS_Day</szDay>
 		<szNight>Loadscreens\LS_NightGeneric</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -746,7 +746,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>E8</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayGeneric</szDay>
+		<szDay>Loadscreens\LS_Day</szDay>
 		<szNight>Loadscreens\LS_NightGeneric</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -1058,7 +1058,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>G7</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayGeneric</szDay>
+		<szDay>Loadscreens\LS_Day</szDay>
 		<szNight>Loadscreens\LS_NightGeneric</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -1611,7 +1611,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>J14</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayGeneric</szDay>
+		<szDay>Loadscreens\LS_Day</szDay>
 		<szNight>Loadscreens\LS_NightGeneric</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -1994,7 +1994,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>M4</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayGeneric</szDay>
+		<szDay>Loadscreens\LS_Day</szDay>
 		<szNight>Loadscreens\LS_NightGeneric</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
