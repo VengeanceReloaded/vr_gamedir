@@ -42483,7 +42483,7 @@
 		<szLongItemName>43mm Tear Gas Grenade</szLongItemName>
 		<szItemDesc>Drop a CS gas grenade on your target and reduce them to blubbering wrecks.</szItemDesc>
 		<szBRName>43mm Tear Gas Grenade</szBRName>
-		<szBRDesc>Drop a CS gas grenade on your target and reduce them to blubbering wrecks.</szBRDesc>
+		<szBRDesc>When non-lethal force is required for your GM-94 our 43mm CS gas grenades are an ideal choice.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
@@ -42512,7 +42512,7 @@
 		<szLongItemName>43mm Illumination Grenade</szLongItemName>
 		<szItemDesc>43mm Illumination Grenade for the GM-94 grenade launcher.</szItemDesc>
 		<szBRName>43mm Illumination Grenade</szBRName>
-		<szBRDesc>43mm Illumination Grenade for the GM-94 grenade launcher.</szBRDesc>
+		<szBRDesc>Light up your field of operations with these geunuine Russian 43mm illumination grenades for the GM-94.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
@@ -42545,7 +42545,7 @@
 		<szLongItemName>5.56x45mm Replacable Barrel</szLongItemName>
 		<szItemDesc>A replacable barrel for the caliber 5.56x45mm. Fits most light NATO machineguns.</szItemDesc>
 		<szBRName>5.56x45mm Replacable Barrel</szBRName>
-		<szBRDesc>A sensible machinegunner always packs a backup barrel for those intense firefights.</szBRDesc>
+		<szBRDesc>A sensible machinegunner always packs a backup barrel for those intense firefights. Suitable for most 5.56 NATO LMG's.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>128</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -42603,9 +42603,9 @@
 		<uiIndex>1379</uiIndex>
 		<szItemName>7.62x54R Barrel</szItemName>
 		<szLongItemName>7.62x54R Replacable Barrel</szLongItemName>
-		<szItemDesc>A replacable barrel for heavy russian machineguns.</szItemDesc>
+		<szItemDesc>A replacable barrel for heavy Russian machineguns.</szItemDesc>
 		<szBRName>7.62x54R Replacable Barrel</szBRName>
-		<szBRDesc>Order now, original russian-made hardware.</szBRDesc>
+		<szBRDesc>Order now, original Russian-made hardware.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>128</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -68037,7 +68037,7 @@
 		<szLongItemName>Night Ops Pants</szLongItemName>
 		<szItemDesc>Special pants for night operations.</szItemDesc>
 		<szBRName>Night Ops Pants</szBRName>
-		<szBRDesc>As Chuck Norris said, good guys wear black</szBRDesc>
+		<szBRDesc>Ideal for night time excursions. Chuck Norris would attest; good guys wear black!</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>209</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -68431,9 +68431,9 @@
 		<uiIndex>2525</uiIndex>
 		<szItemName>Poly Pants</szItemName>
 		<szLongItemName>MilEx Polyurethane Leggings</szLongItemName>
-		<szItemDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. It features a skeletonized fit, an integrated web platform, a one-handed quick-release/escape system, and elastic tensional bands for stability during periods of high activity.</szItemDesc>
+		<szItemDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance. Designed to ensure high performance protection. It features a skeletonized fit, an integrated web platform, a one-handed quick-release/escape system, and elastic tensional bands for stability during periods of high activity.</szItemDesc>
 		<szBRName>MilEx Polyurethane Leggings</szBRName>
-		<szBRDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. It features a skeletonized fit, an integrated web platform, a one-handed quick-release/escape system, and elastic tensional bands for stability during periods of high activity.</szBRDesc>
+		<szBRDesc>Offering high performance protection these new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance. Featuring a skeletonized fit, integrated web platform, one-handed quick-release escape system, and elastic tensional bands for stability during periods of high activity.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>227</ubClassIndex>
@@ -68459,9 +68459,9 @@
 		<uiIndex>2526</uiIndex>
 		<szItemName>Poly-18 Pants</szItemName>
 		<szLongItemName>Spec-18 MilEx Polyurethane Leggings</szLongItemName>
-		<szItemDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. Has been improved with even more Polyurethane by Compound-18. This is madness!</szItemDesc>
+		<szItemDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance. Designed to ensure high performance protection. Has been improved with even more Polyurethane by Compound-18. This is madness!</szItemDesc>
 		<szBRName>Spec-18 MilEx Polyurethane Leggings</szBRName>
-		<szBRDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. Has been improved with even more Polyurethane by Compound-18. This is madness!</szBRDesc>
+		<szBRDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance. Designed to ensure high performance protection. Has been improved with even more Polyurethane by Compound-18. This is madness!</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>228</ubClassIndex>
@@ -68678,7 +68678,7 @@
 		<szLongItemName>Pilot Jacket</szLongItemName>
 		<szItemDesc>Before traveling through the vacuum of space, astronauts don their suits; before delving into the obsidian caverns of our planets watery depth, divers don their suits. It's time for you to don yours. The Pilot Jacket protects you from the nasty elements threatening to ruin your great day.</szItemDesc>
 		<szBRName>Pilot Jacket</szBRName>
-		<szBRDesc>Before traveling through the vacuum of space, astronauts don their suits; before delving into the obsidian caverns of our planets watery depth, divers don their suits. It's time for you to don yours. The Pilot Jacket protects you from the nasty elements threatening to ruin your great day.</szBRDesc>
+		<szBRDesc>Our G1 style alpha models are made of the finest goatskin leather available, and real mouton fur linings. Features underarm gussets, knit waistband and cuffs and a bi-swing back for free range of movement. Made in Pakistan.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>234</ubClassIndex>
@@ -68747,7 +68747,7 @@
 		<szLongItemName>Straight Jacket</szLongItemName>
 		<szItemDesc>This fine jacket is commonly worn by limited edition people, or pill popping wonders of modern medical science.</szItemDesc>
 		<szBRName>Straight Jacket</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>236</ubClassIndex>
@@ -68818,7 +68818,7 @@
 		<szLongItemName>"Gorka" Uniform</szLongItemName>
 		<szItemDesc>Russian "Gorka" uniform.</szItemDesc>
 		<szBRName>"Gorka" Uniform</szBRName>
-		<szBRDesc>Russian "Gorka" uniform.</szBRDesc>
+		<szBRDesc>Our Russian Gorka uniforms are the real deal, and have a proven test record with the Spetsnaz and mountain troops. Features double elastic webbing sleeves and legs for keeping out the most determined debris or creey crawlies.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>238</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
