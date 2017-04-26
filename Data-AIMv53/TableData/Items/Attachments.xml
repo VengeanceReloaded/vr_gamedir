@@ -4134,10 +4134,15 @@
 		<attachmentIndex>223</attachmentIndex>
 		<itemIndex>142</itemIndex>
 		<APCost>20</APCost>
-	</ATTACHMENT>
+	</ATTACHMENT>	
 	<ATTACHMENT>
 		<attachmentIndex>223</attachmentIndex>
 		<itemIndex>1523</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>223</attachmentIndex>
+		<itemIndex>2401</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
@@ -4228,6 +4233,11 @@
 	<ATTACHMENT>
 		<attachmentIndex>224</attachmentIndex>
 		<itemIndex>1523</itemIndex>
+		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>224</attachmentIndex>
+		<itemIndex>2401</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
