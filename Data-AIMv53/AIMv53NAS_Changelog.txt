@@ -1,4 +1,4 @@
-*** Special thanks @ Smeagol (AIM and AIMNAS) ***
+*** Special thanks @ Smeagol (AIM and AIMNAS) *** (last updated: 26.04.2017 by Schein)
 
 28.01.2011
 
@@ -269,3 +269,12 @@ Ensured basic compatibility with NAS.7
 13.09.2012:
 
 - fehlende <GEARKIT> </GEARKIT> Einträge für Dick und Babyface ergänzt (Thx @ DepressivesBrot!)
+
+
+26.04.2017 (Vengeance SVN Revision 1591):
+
+-fixed Molotov Bomb and other Merges.xml fixes:
+#2857 (Alcohol-Oil Mix) combined with #2802 (Empty Mortar Shell) results in #2401 (Molotov Bomb)
+should be usable with #41 (M224 Mortar) and #223 (Detonator) and #224 (Remote Detonator)
+
+#2857 (Alcohol-Oil Mix) combined with #2437 (Taped Flare) results in #2438 (Flarebomb)
