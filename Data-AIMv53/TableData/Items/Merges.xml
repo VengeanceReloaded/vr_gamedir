@@ -4041,6 +4041,70 @@
 		<mergeType>4</mergeType>
 		<APCost>40</APCost>
 	</MERGE>
+		<MERGE>
+		<firstItemIndex>2806</firstItemIndex>
+		<secondItemIndex>20</secondItemIndex>
+		<firstResultingItemIndex>2013</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>40</APCost>
+	</MERGE>
+		<MERGE>
+		<firstItemIndex>2806</firstItemIndex>
+		<secondItemIndex>726</secondItemIndex>
+		<firstResultingItemIndex>2013</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>40</APCost>
+	</MERGE>
+		<MERGE>
+		<firstItemIndex>2806</firstItemIndex>
+		<secondItemIndex>2017</secondItemIndex>
+		<firstResultingItemIndex>2013</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>40</APCost>
+	</MERGE>
+		<MERGE>
+		<firstItemIndex>2807</firstItemIndex>
+		<secondItemIndex>2013</secondItemIndex>
+		<firstResultingItemIndex>20</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>40</APCost>
+	</MERGE>
+		<MERGE>
+		<firstItemIndex>2807</firstItemIndex>
+		<secondItemIndex>726</secondItemIndex>
+		<firstResultingItemIndex>20</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>40</APCost>
+	</MERGE>
+		<MERGE>
+		<firstItemIndex>2807</firstItemIndex>
+		<secondItemIndex>2017</secondItemIndex>
+		<firstResultingItemIndex>20</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>40</APCost>
+	</MERGE>
+		<MERGE>
+		<firstItemIndex>2808</firstItemIndex>
+		<secondItemIndex>20</secondItemIndex>
+		<firstResultingItemIndex>726</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>40</APCost>
+	</MERGE>
+		<MERGE>
+		<firstItemIndex>2808</firstItemIndex>
+		<secondItemIndex>2013</secondItemIndex>
+		<firstResultingItemIndex>726</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>40</APCost>
+	</MERGE>
 	<MERGE>
 		<firstItemIndex>2821</firstItemIndex>
 		<secondItemIndex>760</secondItemIndex>
