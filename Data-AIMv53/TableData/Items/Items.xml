@@ -47516,7 +47516,7 @@
 		<uiIndex>1570</uiIndex>
 		<szItemName>PET bottle</szItemName>
 		<szLongItemName>PET bottle</szLongItemName>
-		<szItemDesc>1 liter of natural mineral water with origins from the volcanic highlands. Their natural and advanced filtering ensures removal of impurities like chlorine and heavy metals, all poured into a BPA free bottle. Probably the most friendly item in all of Arulco.</szItemDesc>
+		<szItemDesc>1 liter of natural mineral water with origins from the volcanic highlands. Their natural filtering ensures removal of impurities like chlorine and heavy metals, all poured into a BPA free bottle. Probably the most friendly item in all of Arulco.</szItemDesc>
 		<szBRName>PET bottle</szBRName>
 		<szBRDesc>1 liter of healthy volcanic filtered mineral water, in a one-use bottle.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -59686,7 +59686,7 @@
 		<szLongItemName>Calico M-900A</szLongItemName>
 		<szItemDesc>A modified version of the Calico M-900 carbine.</szItemDesc>
 		<szBRName>Calico M-900A</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRDesc>Calico offers firearms that offer professionals exclusive advantages in capacity, weight and performance over conventional carbine designs.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2120</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
