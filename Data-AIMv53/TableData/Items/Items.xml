@@ -5500,7 +5500,7 @@
 		<szLongItemName>Kevlar Helmet</szLongItemName>
 		<szItemDesc>The Personal Armor System Ground Troops Helmet is made from Kevlar, with a comfortable suspension system, sweatband and chin strap. It also extends further over the ear and neck than standard helmets.</szItemDesc>
 		<szBRName>Kevlar Helmet</szBRName>
-		<szBRDesc>For above average protection, the wise merc always wears the Personal Armor System Ground Troops Helmet. It's made from Kevlar, and has a comfortable suspension system, sweatband and chin strap. It also extends further over the ear and neck than average helmets.</szBRDesc>
+		<szBRDesc>For above average protection, the wise man always wears the Personal Armor System Ground Troops Helmet. It's made from Kevlar, and has a comfortable suspension system, sweatband and chin strap. It also extends further over the ear and neck than average helmets.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -8397,7 +8397,7 @@
 		<szLongItemName>Boonie Hat</szLongItemName>
 		<szItemDesc>Keep your head shaded from the sun when your helmet gets too hot. Provides limited camouflage.</szItemDesc>
 		<szBRName>Boonie Hat</szBRName>
-		<szBRDesc>As seen on TV!  This is the same hat that "Wild Bill" wore on the GI Joe Saturday morning cartoon.  Ok, so it's not the same hat.  But's its still a nice hat.</szBRDesc>
+		<szBRDesc>As seen on TV!  This is the same hat that "Wild Bill" wore on the GI Joe Saturday morning cartoon.  Okay, so it's not the same hat.  But's its still a nice hat.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -19745,9 +19745,9 @@
 		<uiIndex>671</uiIndex>
 		<szItemName>MP5/10A3</szItemName>
 		<szLongItemName>HK MP5/10A3</szLongItemName>
-		<szItemDesc>This is yet another version of the tried and true MP5, by H&amp;K. Chambered in 10mm, it's a compromise between extreme controlability and increased firepower.</szItemDesc>
+		<szItemDesc>This is yet another version of the tried and true MP5, by H&amp;K. Chambered in 10mm, it's a compromise between controlability and increased stopping power.</szItemDesc>
 		<szBRName>HK MP5/10A3</szBRName>
-		<szBRDesc>The MP5A2's bigger, badder brother. Bringing the impressive 10mm cartridge to bear, this SMG bridges the gap between an MP5 and the UMP-45, and is choice in CQB!</szBRDesc>
+		<szBRDesc>The MP5A2's bigger, badder brother. Bringing the impressive 10mm cartridge to bear, this SMG bridges the gap between an MP5 and the UMP-45, and is the choice in CQB!</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>671</ubClassIndex>
@@ -47108,7 +47108,7 @@
 		<szLongItemName>Spam</szLongItemName>
 		<szItemDesc>Spam, spam, spam, spam, spam, spam, baked beans, spam, spam, spam and "special processed american meat.".</szItemDesc>
 		<szBRName>Spam</szBRName>
-		<szBRDesc>A viking's favourite food.</szBRDesc>
+		<szBRDesc>A Viking's favourite food.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -47128,11 +47128,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1554</uiIndex>
-		<szItemName>Spam 2</szItemName>
+		<szItemName>Spam w Cheese</szItemName>
 		<szLongItemName>Spam in a can</szLongItemName>
-		<szItemDesc>Spam, spam, spam, spam, spam, spam, spam, spam, lovely spam, wonderful spam!</szItemDesc>
-		<szBRName>Spam 2</szBRName>
-		<szBRDesc>Hey, at least it doesn't fill up your mailbox...</szBRDesc>
+		<szItemDesc>If 53% of your recommended daily sodium intake isn't enough, why not add some cheese along the way to the heart ward.</szItemDesc>
+		<szBRName>Spam with Cheese</szBRName>
+		<szBRDesc>Everything is better with cheese and hey, at least it doesn't fill up your mailbox!</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -55023,7 +55023,7 @@
 		<szLongItemName>KRISS Super V</szLongItemName>
 		<szItemDesc>The KRISS Super V is a new generation PDW with a very high rate of fire. Due to it's new recoil system it's very easy to control during burst fire.</szItemDesc>
 		<szBRName>KRISS Super V</szBRName>
-		<szBRDesc>The KRISS Super V is a new generation PDW with a very high rate of fire but due to a new recoil system is very easy to control during burst fire. The KRISS makes good use of the old .45 ACP caliber.</szBRDesc>
+		<szBRDesc>The KRISS Super V is a new generation PDW with a very high rate of fire but is very easy to control due to it's new recoil system. The Super V is made from aircraft-grade aluminium and fires the good old .45 ACP round.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2006</ubClassIndex>
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
@@ -58416,9 +58416,9 @@
 		<uiIndex>2088</uiIndex>
 		<szItemName>Tabuk</szItemName>
 		<szLongItemName>Tabuk DMR</szLongItemName>
-		<szItemDesc>Because the Tabuk is chambered in the soviet 7.62x39mm cartridge, it cannot technically function as a sniper rifle (by western standards). With a maximum effective range of only 600m, the Tabuk should instead be considered a designated marksman's rifle.</szItemDesc>
+		<szItemDesc>Whether you should thank Slobodan Milosevic or Saddam Hussein this Iraqi DMR made from Yugoslavian parts should provide those wanting a longer reach than the average WP assault rifle.</szItemDesc>
 		<szBRName>Tabuk DMR</szBRName>
-		<szBRDesc>Whether you should thank Slobodan Milosevic or Saddam Hussein this Iraqi DMR made from Yugoslavian parts should provide those wanting a longer reach than the average WP assault rifle.</szBRDesc>
+		<szBRDesc>Because it's chambered in the Soviet 7.62x39mm cartridge, it cannot technically be classed as a sniper rifle (by our standards) but with an effective range of 600m the Tabuk should instead be considered a designated marksman's rifle.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2088</ubClassIndex>
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>	<!-- Laser - LAM -->
