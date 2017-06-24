@@ -33752,13 +33752,14 @@
 	<ITEM>
 		<uiIndex>1077</uiIndex>
 		<szItemName>HK 417</szItemName>
-		<szLongItemName>HK 417</szLongItemName>
-		<szItemDesc>The 7.62x51mm version of the HK 416.</szItemDesc>
-		<szBRName>HK 417</szBRName>
-		<szBRDesc>This is the 7.62x51mm version of Heckler &amp; Koch's new HK 416.</szBRDesc>
+		<szLongItemName>HK 417 Assaulter</szLongItemName>
+		<szItemDesc>When you're needing just a little more penetration and range than your HK 416, give this HK 417 a go to project your 7.62x51mm message home.</szItemDesc>
+		<szBRName>HK 417 Assaulter</szBRName>
+		<szBRDesc>This is the 7.62x51mm version of Heckler &amp; Koch's HK 416 providing greater accuracy, effective range and penetration abilities at the expense of rate of fire and ammunition capacity.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1077</ubClassIndex>
+		<AvailableAttachmentPoint>2305843009213693952</AvailableAttachmentPoint>	<!-- UB Launcher - AG-36 -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>325</ubGraphicNum>
 		<ubWeight>38</ubWeight>
@@ -57542,9 +57543,9 @@
 	<ITEM>
 		<uiIndex>2067</uiIndex>
 		<szItemName>HK 417 16"</szItemName>
-		<szLongItemName>HK 417 16"</szLongItemName>
+		<szLongItemName>HK 417 16" Recon</szLongItemName>
 		<szItemDesc>This is the basic assault version of the HK 417.</szItemDesc>
-		<szBRName>HK 417 16"</szBRName>
+		<szBRName>HK 417 16" Recon</szBRName>
 		<szBRDesc>Compliment your HK collection with this assault version of Heckler &amp; Koch's new HK 417, providing improved accuracy over rate of fire than previous models.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2067</ubClassIndex>
@@ -57559,6 +57560,7 @@
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>576460752303423488</AvailableAttachmentPoint>	<!-- UB Launcher - M203PI -->
+		<AvailableAttachmentPoint>2305843009213693952</AvailableAttachmentPoint>	<!-- UB Launcher - AG-36 -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>325</ubGraphicNum>
@@ -57587,10 +57589,10 @@
 	<ITEM>
 		<uiIndex>2068</uiIndex>
 		<szItemName>HK 417 20"</szItemName>
-		<szLongItemName>HK 417 20"</szLongItemName>
+		<szLongItemName>HK 417 20" Sniper</szLongItemName>
 		<szItemDesc>This is the designated marksman version of the HK 417 with a longer 20" barrel.</szItemDesc>
-		<szBRName>HK 417 20"</szBRName>
-		<szBRDesc>This is the designated marksman version of the HK 417 with a longer 20" barrel.</szBRDesc>
+		<szBRName>HK 417 20" Sniper</szBRName>
+		<szBRDesc>Our full sized HK 417's with the longer 20" accurized barrel will keep your snipers happy from dusk til dawn.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2068</ubClassIndex>
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
@@ -57599,6 +57601,7 @@
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>	<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>	<!-- UB - Grippod/GripLight -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
