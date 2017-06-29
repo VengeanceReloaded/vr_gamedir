@@ -63189,10 +63189,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2257</uiIndex>
-		<szItemName>.50 Beowulf 30</szItemName>
-		<szLongItemName>.50 Beowulf Magazine, 30</szLongItemName>
-		<szItemDesc>A 30-round FMJ clip for the .50 Beowulf Rifle</szItemDesc>
-		<szBRName>.50 Beowulf 30</szBRName>
+		<szItemName>.50 Beowulf 30 AP</szItemName>
+		<szLongItemName>.50 Beowulf Magazine, 30 AP</szLongItemName>
+		<szItemDesc>A 30-round AP clip for the .50 Beowulf Rifle</szItemDesc>
+		<szBRName>.50 Beowulf 30 AP</szBRName>
 		<szBRDesc>30 rounds of the highpowered .50 Beowulf ammo, just the thing for stopping vehicles.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>618</ubClassIndex>
