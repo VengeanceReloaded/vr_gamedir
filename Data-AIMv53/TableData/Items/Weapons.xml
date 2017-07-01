@@ -16583,17 +16583,17 @@
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>38</ubCalibre>
-		<ubReadyTime>11</ubReadyTime>
-		<ubShotsPer4Turns>9.88</ubShotsPer4Turns>
+		<ubReadyTime>16</ubReadyTime>
+		<ubShotsPer4Turns>9.82</ubShotsPer4Turns>
 		<ubBulletSpeed>23</ubBulletSpeed>
 		<ubImpact>42</ubImpact>
 		<ubDeadliness>28</ubDeadliness>
 		<bAccuracy>5</bAccuracy>
 		<ubMagSize>30</ubMagSize>
-		<usRange>380</usRange>
+		<usRange>400</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>64</ubAttackVolume>
+		<ubAttackVolume>85</ubAttackVolume>
 		<ubHitVolume>7</ubHitVolume>
 		<sSound>496</sSound>
 		<sBurstSound>122</sBurstSound>
@@ -16605,7 +16605,7 @@
 		<APsToReload>28</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<AutoPenalty>10</AutoPenalty>
+		<AutoPenalty>12</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
