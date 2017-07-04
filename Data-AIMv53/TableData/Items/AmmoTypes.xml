@@ -155,20 +155,20 @@
 		<grayed>4</grayed>
 		<offNormal>1</offNormal>
 		<onNormal>3</onNormal>
-		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
-		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
-		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
-		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
+		<structureImpactReductionMultiplier>4</structureImpactReductionMultiplier>
+		<structureImpactReductionDivisor>3</structureImpactReductionDivisor>
+		<armourImpactReductionMultiplier>4</armourImpactReductionMultiplier>
+		<armourImpactReductionDivisor>3</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
 		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
 		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
-		<canGoThrough>1</canGoThrough>
+		<canGoThrough>0</canGoThrough>
 		<standardIssue>1</standardIssue>
 		<numberOfBullets>9</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
-		<multipleBulletDamageDivisor>4</multipleBulletDamageDivisor>
+		<multipleBulletDamageDivisor>5</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
 		<antiTank>0</antiTank>
@@ -205,7 +205,7 @@
 		<standardIssue>0</standardIssue>
 		<numberOfBullets>20</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
-		<multipleBulletDamageDivisor>10</multipleBulletDamageDivisor>
+		<multipleBulletDamageDivisor>7</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
 		<antiTank>0</antiTank>
