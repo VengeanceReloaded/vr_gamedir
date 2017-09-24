@@ -72421,10 +72421,10 @@
 		<szLongItemName>Rad Shades</szLongItemName>
 		<szItemDesc>Any day trip would neither be complete nor rad enough without these neon bodacious tri-tone sunglasses!</szItemDesc>
 		<szBRName>Rad Shades</szBRName>
-		<szBRDesc>NOT FOR SAIL. SALG. SALE.</szBRDesc>
+		<szBRDesc>NOT FOR SALE</szBRDesc>
+		<usItemClass>32768</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>2251799813685248</AttachmentPoint>	<!-- Armour Helmet - Face -->
-		<usItemClass>32768</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>421</ubGraphicNum>
 		<ubWeight>1</ubWeight>
