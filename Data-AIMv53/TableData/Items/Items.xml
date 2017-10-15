@@ -49152,7 +49152,7 @@
 		<szLongItemName>Scuba Mask</szLongItemName>
 		<szItemDesc>This mask, in conjunction with a diving bottle, allows you to stay underwater.</szItemDesc>
 		<szBRName>Scuba Mask</szBRName>
-		<szBRDesc>Whenever you feel you could go down, be sure to protect your eyes and retain vision with one of these.</szBRDesc>
+		<szBRDesc>Whenever you need to go down, be sure to protect your eyes and retain vision with one of these super lightweight masks using high quality tempered glass lenses.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<ItemFlag>4194304</ItemFlag>
@@ -67128,9 +67128,9 @@
 		<uiIndex>2455</uiIndex>
 		<szItemName>XM84 Stun Grenade</szItemName>
 		<szLongItemName>XM84 Stun Grenade</szLongItemName>
-		<szItemDesc>Regular large stun grenade for crowd control.</szItemDesc>
+		<szItemDesc>Being louder than Motorhead and more blinding than Kathy Bates topless, this US stun grenade pacifies targets like no other.</szItemDesc>
 		<szBRName>XM84 Stun Grenade</szBRName>
-		<szBRDesc>Regular large stun grenade for crowd control.</szBRDesc>
+		<szBRDesc>These genuine Picatinny stun grenades detonate louder than any other stock we have, ideal for room clearing and less-lethal applications.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>178</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -67819,11 +67819,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2503</uiIndex>
-		<szItemName>Woodland Camo Uniform</szItemName>
-		<szLongItemName>Woodland Camo Uniform</szLongItemName>
-		<szItemDesc>Basic woodland camo uniform.</szItemDesc>
-		<szBRName>Woodland Camo Uniform</szBRName>
-		<szBRDesc>Basic woodland camo uniform.</szBRDesc>
+		<szItemName>Woodland Camo Jacket</szItemName>
+		<szLongItemName>Woodland Camo Jacket</szLongItemName>
+		<szItemDesc>Woodland camo jacket.</szItemDesc>
+		<szBRName>Woodland Camo Jacket</szBRName>
+		<szBRDesc>Our standard woodland camo jackets are sewn to military grade specifications and are rugged yet lightweight and comfortable.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>201</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -67901,11 +67901,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2506</uiIndex>
-		<szItemName>Urban Camo Uniform</szItemName>
-		<szLongItemName>Urban Camo Uniform</szLongItemName>
-		<szItemDesc>Basic Urban camo uniform.</szItemDesc>
+		<szItemName>Urban Camo Jacket</szItemName>
+		<szLongItemName>Urban Camo Jacekt</szLongItemName>
+		<szItemDesc>This three colour urban camo has been around since the 80's and worn by armed security, thugs and pop stars alike.</szItemDesc>
 		<szBRName>Urban Camo Uniform</szBRName>
-		<szBRDesc>Basic Urban camo uniform.</szBRDesc>
+		<szBRDesc>Our standard Urban camo jacket BDU come with 4 pockets and made from sturdy long-life shrink resistant cloth. Limited stock.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>204</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -67983,11 +67983,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2509</uiIndex>
-		<szItemName>Desert Camo Uniform</szItemName>
-		<szLongItemName>Desert Camo Uniform</szLongItemName>
-		<szItemDesc>Basic desert camo uniform.</szItemDesc>
+		<szItemName>Desert Camo Jacket</szItemName>
+		<szLongItemName>Desert Camo Jacket</szLongItemName>
+		<szItemDesc>Standard desert camo jacket for arid-environment engagements.</szItemDesc>
 		<szBRName>Desert Camo Uniform</szBRName>
-		<szBRDesc>Basic desert camo uniform.</szBRDesc>
+		<szBRDesc>Our desert camo uniforms feature Ripstop fabrics and reinforced elbows as standard.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>207</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
