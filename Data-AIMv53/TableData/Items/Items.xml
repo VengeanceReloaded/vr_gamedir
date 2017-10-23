@@ -67823,7 +67823,7 @@
 		<szLongItemName>Woodland Camo Jacket</szLongItemName>
 		<szItemDesc>Woodland camo jacket.</szItemDesc>
 		<szBRName>Woodland Camo Jacket</szBRName>
-		<szBRDesc>Our standard woodland camo jackets are sewn to military grade specifications and are rugged yet lightweight and comfortable.</szBRDesc>
+		<szBRDesc>Our standard woodland camo jackets are sewn to military grade specifications and are rugged yet lightweight as well as comfortable.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>201</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -67877,7 +67877,7 @@
 		<szLongItemName>Urban Camo Pants</szLongItemName>
 		<szItemDesc>Uniform pants with a basic urban camo pattern.</szItemDesc>
 		<szBRName>Urban Camo Pants</szBRName>
-		<szBRDesc>Uniform pants with a basic urban camo pattern.</szBRDesc>
+		<szBRDesc>Our 50% cotton/polyester blend urban camo pants are very popular. Please note this disruptive pattern is now no longer made, buy them while you still can!</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>203</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -67902,10 +67902,10 @@
 	<ITEM>
 		<uiIndex>2506</uiIndex>
 		<szItemName>Urban Camo Jacket</szItemName>
-		<szLongItemName>Urban Camo Jacekt</szLongItemName>
-		<szItemDesc>This three colour urban camo has been around since the 80's and worn by armed security, thugs and pop stars alike.</szItemDesc>
-		<szBRName>Urban Camo Uniform</szBRName>
-		<szBRDesc>Our standard Urban camo jacket BDU come with 4 pockets and made from sturdy long-life shrink resistant cloth. Limited stock.</szBRDesc>
+		<szLongItemName>Urban Camo Jacket</szLongItemName>
+		<szItemDesc>This three colour urban camo has been around since the 80's and worn by armed security, thugs and rap stars alike.</szItemDesc>
+		<szBRName>Urban Camo Jacket</szBRName>
+		<szBRDesc>Our standard Urban camo jacket BDU comes with 4 pockets and made from sturdy long-life shrink resistant cloth. Limited stock.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>204</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -67986,7 +67986,7 @@
 		<szItemName>Desert Camo Jacket</szItemName>
 		<szLongItemName>Desert Camo Jacket</szLongItemName>
 		<szItemDesc>Standard desert camo jacket for arid-environment engagements.</szItemDesc>
-		<szBRName>Desert Camo Uniform</szBRName>
+		<szBRName>Desert Camo Jacket</szBRName>
 		<szBRDesc>Our desert camo uniforms feature Ripstop fabrics and reinforced elbows as standard.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>207</ubClassIndex>
