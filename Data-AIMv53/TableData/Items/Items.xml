@@ -17081,7 +17081,7 @@
 		<szLongItemName>AEK-973</szLongItemName>
 		<szItemDesc>A relatively recent Russian manufactured AK variant that has seen limited action in places like Chechnya.  This model fires 7.62mm WP rounds.</szItemDesc>
 		<szBRName>AEK-973</szBRName>
-		<szBRDesc>Using a Balanced Automatics Recoil System, some shooters claim improved accuraccy than the AK-74. Give this new assault rifle a try.  This model fires 7.62mm WP rounds.</szBRDesc>
+		<szBRDesc>Using a Balanced Automatics Recoil System, some shooters claim improved accuracy than the AK-74. Give this new assault rifle a try.  This model fires 7.62mm WP rounds.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>603</ubClassIndex>
@@ -19465,9 +19465,9 @@
 		<uiIndex>664</uiIndex>
 		<szItemName>G36C</szItemName>
 		<szLongItemName>HK G36C</szLongItemName>
-		<szItemDesc>The G36 is a conventional gas operated, selective fire rifle, made from mostly modern materials and using mostly modern technologies.  The G36C is the compact version.</szItemDesc>
+		<szItemDesc>With the power of a full size G36 assault rifle in a package the size of an SMG. This C version also saves weight with it's polymer chassis. The G36C though small is still a little unweildy and has trouble soaking up recoil back to the shooter.</szItemDesc>
 		<szBRName>HK G36C</szBRName>
-		<szBRDesc>If you need the power and quality of fire from a G36 but are tight for space, choose one of our compact versions to save on space and weight.</szBRDesc>
+		<szBRDesc>If you need the power and quality of fire from a G36 but are tight for space, choose this; HK's compact, lighter version.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>664</ubClassIndex>
@@ -58577,9 +58577,9 @@
 		<uiIndex>2092</uiIndex>
 		<szItemName>HK 33KE</szItemName>
 		<szLongItemName>HK 33KE</szLongItemName>
-		<szItemDesc>This assault rifle is a 5.56mm variant sharing the same gene pool as the G3.</szItemDesc>
+		<szItemDesc>This assault rifle is the intermediate 5.56mm variant sharing the same gene pool as the G3.</szItemDesc>
 		<szBRName>HK 33KE</szBRName>
-		<szBRDesc>The HK33 is essentially a revitalised G3 chambered in 5.56x45mm NATO, usually fed from a 30 round magazine. Like its older brother, the HK 33 comes in various sizes. The HK 33KE variant is a number one choice if you need high fire power for close protection (body guarding) duties.</szBRDesc>
+		<szBRDesc>Our export HK33's provide G3 firepower in a more compact form, ideal for guards and police departments. Like its older brother, the HK 33 comes in various sizes and calibers, this one being in the trusty 5.56x45mm in 30 round clip.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2092</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
@@ -60031,9 +60031,9 @@
 		<uiIndex>2128</uiIndex>
 		<szItemName>Hardballer</szItemName>
 		<szLongItemName>AMT Hardballer .45 Longslide</szLongItemName>
-		<szItemDesc>AMT Hardballer Longslide with a laserlock sight from SureFire, this massive pistol, seems to have some very noticable wear marks on its grip. This bonkers .45 will deliver rigid wounds like no other.</szItemDesc>
+		<szItemDesc>An AMT Hardballer Longslide with a laserlock sight from SureFire, just put the red dot where you want the bullet to go. This bonkers all stainless steel .45 will deliver rigid wounds like no other.</szItemDesc>
 		<szBRName>AMT Hardballer 45. Longslide</szBRName>
-		<szBRDesc>AMT Hardballer Longslide with a laserlock sight from SureFire sights in almost mint condition, buy now and own one of these babies before their all gone.</szBRDesc>
+		<szBRDesc>This cult favorite from AMT comes with the sought after laserlock sight from SureFire in almost mint condition, buy now and own one of these babies before they're all gone.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2128</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
