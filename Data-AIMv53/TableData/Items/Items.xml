@@ -58579,7 +58579,7 @@
 		<szLongItemName>HK 33KE</szLongItemName>
 		<szItemDesc>This assault rifle is the intermediate 5.56mm variant sharing the same gene pool as the G3.</szItemDesc>
 		<szBRName>HK 33KE</szBRName>
-		<szBRDesc>Our export HK33's provide G3 firepower in a more compact form, ideal for guards and police departments. Like its older brother, the HK 33 comes in various sizes and calibers, this one being in the trusty 5.56x45mm in 30 round clip.</szBRDesc>
+		<szBRDesc>Our export HK33's provide G3 firepower in a more compact form, ideal for guards and police departments. Like its older brother, the HK 33 comes in various sizes and calibers, this one being in the trusty 5.56x45mm in 30 a round clip.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2092</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
@@ -58909,9 +58909,9 @@
 		<uiIndex>2101</uiIndex>
 		<szItemName>Armalon PC</szItemName>
 		<szLongItemName>Armalon Pistol Carbine</szLongItemName>
-		<szItemDesc>A carbine in the heavy pistol calibre .50 AE.</szItemDesc>
+		<szItemDesc>A bolt action carbine in the heavy pistol calibre .50 AE.</szItemDesc>
 		<szBRName>Armalon Pistol Carbine</szBRName>
-		<szBRDesc>The Armalon PC is a manually operated bolt-action carbine in the heavy pistol calibre .50 AE.</szBRDesc>
+		<szBRDesc>Armalon's PC is a manually operated bolt-action carbine in the .50 AE pistol caliber. Ideal for those of you living in countries that prohibit semi-automatic weaponry.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2101</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
@@ -58950,7 +58950,7 @@
 		<szLongItemName>Desert Tech SRS</szLongItemName>
 		<szItemDesc>The USA made Stealth Recon Scout sniper rifle by Desert Tech uses a bullpup layout with a bolt-action for better balancing and accuracy.</szItemDesc>
 		<szBRName>Desert Tech Arms SRS</szBRName>
-		<szBRDesc>The Stealth Recon Scout sniper rifle from Desert Tech makes use of a clever bullpup and bolt-action configuration firing 7.62x51 bullets. This innovative design comes with a manufacturer's 0.5 MOA accuracy guarantee.</szBRDesc>
+		<szBRDesc>Desert Tech makes use of a clever bullpup and bolt-action configuration firing 7.62x51 bullets. This innovative design comes with a manufacturer's 0.5 MOA accuracy guarantee.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2102</ubClassIndex>
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
@@ -59074,9 +59074,9 @@
 		<uiIndex>2105</uiIndex>
 		<szItemName>Puma .454</szItemName>
 		<szLongItemName>Puma .454</szLongItemName>
-		<szItemDesc>This Brazilian Winchester clone uses .454 Casull rounds. This bigbore rifle is exactly the right gun to hunt big bears or elephants.</szItemDesc>
+		<szItemDesc>This Brazilian Winchester clone uses .454 Casull rounds. This big bore rifle is exactly the right gun to hunt big bears or elephants.</szItemDesc>
 		<szBRName>Puma .454</szBRName>
-		<szBRDesc>This Brazilian Winchester clone uses .454 Casull rounds. This bigbore rifle is exactly the right gun to hunt big bears or elephants.</szBRDesc>
+		<szBRDesc>An old time buffalo hunter's dream, or possibly the salvation of the old pioneer, trapper, or Indian War solder. This is a 300 - 500 yard brush gun, holds 9 rounds of a near magnum rifle cartridge. </szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2105</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
@@ -59115,7 +59115,7 @@
 		<szLongItemName>Hi-Standard HDM</szLongItemName>
 		<szItemDesc>This special services .22 LR Pistol is as silent as it gets with it's integral suppressor, making short work of guard dogs and men at close range.</szItemDesc>
 		<szBRName>Hi-Standard HDM</szBRName>
-		<szBRDesc>Known as the Hush puppy, because of its prime use against guard dogs. This .22 LR Pistol was used by the OSS, CIA agents and Navy SEALS alike.</szBRDesc>
+		<szBRDesc>Known as the 'Hush puppy' because of its prime use against guard dogs. This .22 LR Pistol was used by the OSS, CIA agents and Navy SEALS alike.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2106</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
