@@ -8485,7 +8485,7 @@
 		<szLongItemName>Red Beret</szLongItemName>
 		<szItemDesc>Parlay voo francais?  This beret may not be French, but it sure looks gay.</szItemDesc>
 		<szBRName>Red Beret</szBRName>
-		<szBRDesc>Whether your a paratrooper, MP, Commando or Professor Griff nothing starts your own special forces team quicker than a vibrant red beret!</szBRDesc>
+		<szBRDesc>Whether your a paratrooper, MP, Commando or Professor Griff, nothing starts your own special forces team quicker than a vibrant red beret!</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>45</ubClassIndex>
@@ -58579,7 +58579,7 @@
 		<szLongItemName>HK 33KE</szLongItemName>
 		<szItemDesc>This assault rifle is the intermediate 5.56mm variant sharing the same gene pool as the G3.</szItemDesc>
 		<szBRName>HK 33KE</szBRName>
-		<szBRDesc>Our export HK33's provide G3 firepower in a more compact form, ideal for guards and police departments. Like its older brother, the HK 33 comes in various sizes and calibers, this one being in the trusty 5.56x45mm in 30 a round clip.</szBRDesc>
+		<szBRDesc>Our export HK33's provide G3 firepower in a more compact form, ideal for guards and police departments. Like its older brother, the HK 33 comes in various sizes and calibers, this one being in the trusty 5.56x45mm in a 30 round clip.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2092</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
@@ -77044,7 +77044,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>40mm Shell Casing</szLongItemName>
 		<szItemDesc>This shell casing can be combined with a variety of 40mm grenades to allow firing the grenades with a 40mm commando mortar.</szItemDesc>
 		<szBRName>40mm Shell Casing</szBRName>
-		<szBRDesc>This shell casing can be combined with a variety of 40mm grenades to allow firing the grenades with a 40mm commando mortar.</szBRDesc>
+		<szBRDesc>These military surplus shell casings has a variety of uses, whether to create new projectiles or for containing sundrie items in the garage or office.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>994</ubGraphicNum>
