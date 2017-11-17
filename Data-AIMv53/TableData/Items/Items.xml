@@ -37286,7 +37286,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>1</BR_NewInventory>
+		<BR_NewInventory>0</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>-5</ToHitBonus>
 		<AimBonus>10</AimBonus>
@@ -46787,10 +46787,10 @@
 	<ITEM>
 		<uiIndex>1540</uiIndex>
 		<szItemName>Sandbags</szItemName>
-		<szLongItemName>Sandbags, empty</szLongItemName>
+		<szLongItemName>Sandbags</szLongItemName>
 		<szItemDesc>A bunch of rugged, empty bags. What could you possibly store in there?</szItemDesc>
 		<szBRName>Sandbags, empty</szBRName>
-		<szBRDesc>Only a fool would not fortify his position, especially at these prices!</szBRDesc>
+		<szBRDesc>Whether you are sealing properties from floodwater, weighing down structures from harsh winds or fortifying your position, our UV stabilised woven polypropylene bags will perform every time in the harshest of environments, you just need to fill them!</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ItemFlag>1</ItemFlag>
@@ -47155,8 +47155,8 @@
 		<uiIndex>1555</uiIndex>
 		<szItemName>C. vegetables</szItemName>
 		<szLongItemName>Canned vegetables</szLongItemName>
-		<szItemDesc>These GMO vegetables will stay edible forever, much to children's dismay.</szItemDesc>
-		<szBRName>C. vegetables</szBRName>
+		<szItemDesc>These GMO vegetables will stay edible forever, much to every child's dismay.</szItemDesc>
+		<szBRName>Canned vegetables</szBRName>
 		<szBRDesc>Nutritious, long-lasting, and animal-friendly.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47180,8 +47180,8 @@
 		<szItemName>C. scorpions</szItemName>
 		<szLongItemName>Canned scorpions</szLongItemName>
 		<szItemDesc>How about something exotic? Like poisonous insects?</szItemDesc>
-		<szBRName>C. scorpions</szBRName>
-		<szBRDesc>We were assured this is actually eaten in some place we forgot.</szBRDesc>
+		<szBRName>Canned scorpions</szBRName>
+		<szBRDesc>We were assured these are actually eaten in some place we forgot.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -57367,7 +57367,7 @@
 		<szLongItemName>S&amp;W M&amp;P15R</szLongItemName>
 		<szItemDesc>The Smith&amp;Wesson M&amp;P15R is a conversion of a regular M4A1 carbine to the calibre 5.45x39.</szItemDesc>
 		<szBRName>S&amp;W M&amp;P15R</szBRName>
-		<szBRDesc>The Smith&amp;Wesson M&amp;P15R is a conversion of a regular M4A1 carbine to the calibre 5.45x39.</szBRDesc>
+		<szBRDesc>This Smith&amp;Wesson offering is chambered for the less expensive and abundant 5.45x39mm cartridge and comes with a flat-top receiver and the M4-style post front sight that accepts optics of your choice.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2063</ubClassIndex>
 		<ubClassIndex>633</ubClassIndex>
@@ -65619,9 +65619,9 @@
 		<uiIndex>2406</uiIndex>
 		<szItemName>F1 Grenade</szItemName>
 		<szLongItemName>F1 Fragmentation Grenade</szLongItemName>
-		<szItemDesc>The F1 is an anti-personnel fragmentation grenade with a considerable are of effect.</szItemDesc>
+		<szItemDesc>The F1 is an anti-personnel fragmentation grenade with a considerable area of effect.</szItemDesc>
 		<szBRName>F1 Fragmentation Grenade</szBRName>
-		<szBRDesc>This is the updated version of the Soviet World War II fragmentation grenade.</szBRDesc>
+		<szBRDesc>These updated versions of the Soviet World War II frag grenade have a wide dispersion rate. Just don't ask where we got them from, okay?</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>129</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -67878,7 +67878,7 @@
 		<szLongItemName>Urban Camo Pants</szLongItemName>
 		<szItemDesc>Uniform pants with a basic urban camo pattern.</szItemDesc>
 		<szBRName>Urban Camo Pants</szBRName>
-		<szBRDesc>Our 50% cotton/polyester blend urban camo pants are very popular. Please note this disruptive pattern is now no longer made, buy them while you still can!</szBRDesc>
+		<szBRDesc>Our 50 percent cotton/polyester blend urban camo pants are very popular. Please note this disruptive pattern is now no longer made, buy them while you still can!</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>203</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -77045,7 +77045,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>40mm Shell Casing</szLongItemName>
 		<szItemDesc>This shell casing can be combined with a variety of 40mm grenades to allow firing the grenades with a 40mm commando mortar.</szItemDesc>
 		<szBRName>40mm Shell Casing</szBRName>
-		<szBRDesc>These military surplus shell casings has a variety of uses, whether to create new projectiles or for containing sundrie items in the garage or office.</szBRDesc>
+		<szBRDesc>These military surplus shell casings have a hundred and one uses, from creating custom projectiles to containing sundrie items in the garage or office.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>994</ubGraphicNum>
