@@ -60160,7 +60160,6 @@
 		<szBRName>AKM Bayonet</szBRName>
 		<szBRDesc>This type II bayonet was way ahead of it's time when it first came out and makes practical use of plastics along with the rot and rust free stainless steel blade.</szBRDesc>
 		<usItemClass>4</usItemClass>
-		<AttachmentClass>2</AttachmentClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AttachmentPoint>128</AttachmentPoint>	<!-- UB - AK Bayonet -->
@@ -74394,7 +74393,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szBRName>TAM-14</szBRName>
 		<szBRDesc>The system was designed to maximize versatility by quickly adapting to weapons, head gear, helmets, video output and more. Incorporating in-service head and helmet mounts designed for the AN/PVS-7 and AN/PVS-14, the TAM-14 is compact, lightweight and intuitive to operate.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<AttachmentClass>12</AttachmentClass>
+		<AttachmentClass>8</AttachmentClass>
 		<nasAttachmentClass>8</nasAttachmentClass>
 		<AttachmentPoint>4194304</AttachmentPoint>	<!-- Sights - Night/Termal Sight -->
 		<ubGraphicType>4</ubGraphicType>
