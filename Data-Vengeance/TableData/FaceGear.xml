@@ -1093,6 +1093,7 @@
 		<Type>4</Type>
 		<szFile>FACES\FACESGEAR\Face_NightVisionGogglesGenI</szFile>
 	</ITEM>
+	<!-- Combat Goggles -->
 	<ITEM>
 		<uiIndex>212</uiIndex>
 		<Type>4</Type>
@@ -13554,30 +13555,35 @@
 		<Type>0</Type>
 		<szFile></szFile>
 	</ITEM>
+	<!-- S10 Gas Mask -->
 	<ITEM>
 		<uiIndex>2701</uiIndex>
 		<Type>3</Type>
 		<szFile>FACES\FACESGEAR\Face_GasMask</szFile>
 	</ITEM>
+	<!-- XM50 Gas Mask -->
 	<ITEM>
 		<uiIndex>2702</uiIndex>
 		<Type>3</Type>
 		<szFile>FACES\FACESGEAR\Face_GasMask</szFile>
 	</ITEM>
+	<!-- Sun Glasses -->
 	<ITEM>
 		<uiIndex>2703</uiIndex>
 		<Type>4</Type>
 		<szFile>FACES\FACESGEAR\Face_SunGoggles</szFile>
 	</ITEM>
+	<!-- Sun Goggles -->
 	<ITEM>
 		<uiIndex>2704</uiIndex>
 		<Type>4</Type>
 		<szFile>FACES\FACESGEAR\Face_SunGoggles</szFile>
 	</ITEM>
+	<!-- Rad Shades -->
 	<ITEM>
 		<uiIndex>2705</uiIndex>
-		<Type>0</Type>
-		<szFile></szFile>
+		<Type>4</Type>
+		<szFile>FACES\FACESGEAR\Face_SunGoggles</szFile>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2706</uiIndex>
