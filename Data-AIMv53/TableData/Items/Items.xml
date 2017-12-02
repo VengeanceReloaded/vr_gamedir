@@ -6607,7 +6607,6 @@
 		<szBRName>Ballistic Combat Goggles</szBRName>
 		<szBRDesc>Favored by U.S. Special Forces groups, these ESS Ballistic goggles are better and tougher than ever. These designs feature vast improvements such as extra-thick polycarbonate lenses offering maximum protection and filtering 100 percent of UVA/UVB rays.</szBRDesc>
 		<usItemClass>32768</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>2251799813685248</AttachmentPoint>	<!-- Armour Helmet - Face -->
 		<ubGraphicType>5</ubGraphicType>
@@ -6624,7 +6623,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<NightVisionRangeBonus>0</NightVisionRangeBonus>
-		<DayVisionRangeBonus>0</DayVisionRangeBonus>
+		<DayVisionRangeBonus>5</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>0</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>5</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
