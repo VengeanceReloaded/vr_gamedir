@@ -37306,9 +37306,9 @@
 		<uiIndex>1181</uiIndex>
 		<szItemName>No.32 Scope</szItemName>
 		<szLongItemName>No.32 Scope</szLongItemName>
-		<szItemDesc>British scope used during WW-II.</szItemDesc>
+		<szItemDesc>Originally created for use on the Bren LMG this British scope saw use during WW-II on many sniper rifles that were in short supply.</szItemDesc>
 		<szBRName>No.32 Scope</szBRName>
-		<szBRDesc>A WW-II era scope of British manufacture, this was also used by other allied forces during that war.</szBRDesc>
+		<szBRDesc>A WW-II era scope of British manufacture which was used by allied forces during the war. Be quick, these are getting rare to find in ANY condition</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>16</AttachmentClass>
 		<nasAttachmentClass>16</nasAttachmentClass>
@@ -37328,7 +37328,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>1</BR_NewInventory>
+		<BR_NewInventory>0</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>-5</ToHitBonus>
 		<AimBonus>11</AimBonus>
@@ -37371,7 +37371,7 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>1</BR_NewInventory>
+		<BR_NewInventory>0</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>-4</ToHitBonus>
 		<AimBonus>9</AimBonus>
