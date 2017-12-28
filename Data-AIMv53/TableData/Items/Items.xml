@@ -19989,7 +19989,7 @@
 		<szLongItemName>HK UMP45</szLongItemName>
 		<szItemDesc>The UMP (Universal Machine Pistol) was developed by the Heckler &amp; Koch as a more powerful yet cheaper alternative to the MP5.</szItemDesc>
 		<szBRName>HK UMP45</szBRName>
-		<szBRDesc>The UMP (Universal Machinen-Pistole = Universal Submachine Gun) was developed by the Heckler &amp; Koch company of Germany in the late 90s.</szBRDesc>
+		<szBRDesc>A truly modern SMG, the UMP (Universal Machine Pistol) was designed with American law enforcement and military units in mind, as it includes a bolt catch feature to hold the bolt rearward when last round is fired.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>677</ubClassIndex>
@@ -55539,9 +55539,9 @@
 		<uiIndex>2019</uiIndex>
 		<szItemName>UMP9</szItemName>
 		<szLongItemName>HK UMP9</szLongItemName>
-		<szItemDesc>The UMP (Universal Machinen-Pistole = Universal Submachine Gun) was developed by the Heckler &amp; Koch company of Germany in the mid- to late- 1990s. This variant is chambered in 9x19mm.</szItemDesc>
+		<szItemDesc> Using the latest in advanced polymers and high-tech materials the UMP (Universal Machinen-Pistole) was developed by the Heckler &amp; Koch to replace the MP5. This variant is chambered in the smaller 9x19mm.</szItemDesc>
 		<szBRName>HK UMP9</szBRName>
-		<szBRDesc>The UMP (Universal Machinen-Pistole = Universal Submachine Gun) was developed by the Heckler &amp; Koch company of Germany in the mid- to late- 1990s. This variant is chambered in 9x19mm.</szBRDesc>
+		<szBRDesc>The UMP is a cost-effective, state-of-the-art weapon that offers the advantages of a simple operating system, lightweight, low cost, uncompromising reliability and modularity. This variant is chambered in 9x19mm.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2019</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
