@@ -337,11 +337,6 @@
 		<ubHidden>1</ubHidden>
 	</FACILITY>
 	<FACILITY>
-		<SectorGrid>C5</SectorGrid>
-		<FacilityType>34</FacilityType>
-		<ubHidden>2</ubHidden>
-	</FACILITY>
-	<FACILITY>
 		<SectorGrid>C6</SectorGrid>
 		<FacilityType>18</FacilityType>
 		<ubHidden>2</ubHidden>
@@ -357,18 +352,8 @@
 		<ubHidden>1</ubHidden>
 	</FACILITY>
 	<FACILITY>
-		<SectorGrid>C6</SectorGrid>
-		<FacilityType>34</FacilityType>
-		<ubHidden>2</ubHidden>
-	</FACILITY>
-	<FACILITY>
 		<SectorGrid>D4</SectorGrid>
 		<FacilityType>18</FacilityType>
-		<ubHidden>2</ubHidden>
-	</FACILITY>
-	<FACILITY>
-		<SectorGrid>D4</SectorGrid>
-		<FacilityType>34</FacilityType>
 		<ubHidden>2</ubHidden>
 	</FACILITY>
 	<FACILITY>
@@ -385,11 +370,6 @@
 		<SectorGrid>D5</SectorGrid>
 		<FacilityType>22</FacilityType>
 		<ubHidden>1</ubHidden>
-	</FACILITY>
-	<FACILITY>
-		<SectorGrid>D5</SectorGrid>
-		<FacilityType>34</FacilityType>
-		<ubHidden>2</ubHidden>
 	</FACILITY>
 
 	<!-- CHITZENA -->
