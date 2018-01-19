@@ -23308,9 +23308,9 @@
 		<uiIndex>762</uiIndex>
 		<szItemName>M16A1</szItemName>
 		<szLongItemName>Colt M16A1</szLongItemName>
-		<szItemDesc>The improved version of the M16. Modified due to experience from Vietnam.</szItemDesc>
+		<szItemDesc>The improved version of the M16 began production in 1967 and was modified by experiences during the Vietnam conflict.</szItemDesc>
 		<szBRName>Colt M16A1</szBRName>
-		<szBRDesc>The M16's deficiencies began to dissolve with this model. Ammo was now loaded with powders that produce much less residue in the gun action. Barrel, chamber, and bolt are chrome-lined to improve corrosion resistance.</szBRDesc>
+		<szBRDesc>The original M16's deficiencies are a thing of the past with this model. Features improved flash suppressor, while barrel, chamber, and bolt are chrome-lined to improve corrosion resistance.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>762</ubClassIndex>
@@ -48705,9 +48705,9 @@
 		<uiIndex>1612</uiIndex>
 		<szItemName>White shirt</szItemName>
 		<szLongItemName>White shirt</szLongItemName>
-		<szItemDesc>This white shirt will make even the most pale people seem tan. Remember, the focus is on illusion.</szItemDesc>
+		<szItemDesc>This white shirt will make even the most pale people seem tanned. Remember, the focus is on illusion.</szItemDesc>
 		<szBRName>White shirt</szBRName>
-		<szBRDesc>Get this white tshirt for all those hot summer days, will reflect warmth more efficient than any other color.</szBRDesc>
+		<szBRDesc>Get this white T-shirt for all those hot summer days, will reflect warmth more efficiently than any other color.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
