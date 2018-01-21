@@ -47152,7 +47152,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1555</uiIndex>
-		<szItemName>C. vegetables</szItemName>
+		<szItemName>Canned veggies</szItemName>
 		<szLongItemName>Canned vegetables</szLongItemName>
 		<szItemDesc>These GMO vegetables will stay edible forever, much to every child's dismay.</szItemDesc>
 		<szBRName>Canned vegetables</szBRName>
@@ -47227,7 +47227,7 @@
 		<uiIndex>1558</uiIndex>
 		<szItemName>Baked beans</szItemName>
 		<szLongItemName>Canned baked beans</szLongItemName>
-		<szItemDesc>Bathing in bisphenol A these beans are best served with spam.</szItemDesc>
+		<szItemDesc>Bathing in a can lined with Bisphenol A, these beans are best served with spam.</szItemDesc>
 		<szBRName>Baked beans</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
