@@ -1723,13 +1723,13 @@
 		<uiIndex>72</uiIndex>
 		<szName>Prisoner</szName>
 		<szShortName>Prisoner</szShortName>
-		<szDescription>Being held and tortured in a regime prison left you scarred for the &#10;rest of your life. You're not afraid of death anymore - but there are other things to be afraid of.</szDescription>
+		<szDescription>Being held and tortured in a regime prison left you scarred for the &#10; life. You're not afraid of death anymore - but there are other things to be afraid of.</szDescription>
 		<resistance_fear>-20</resistance_fear>
 		<resistance_suppression>10</resistance_suppression>
 		<resistance_physical>10</resistance_physical>
 		<food>-10</food>
 		<water>-10</water>
-		<sleep>-1</sleep> 
+		<sleep>-4</sleep> 
 		<hearing_night>2</hearing_night>
 		<level_underground>1</level_underground>
 		<no_male>1</no_male>
@@ -4177,7 +4177,6 @@
 		<approach_direct>-10</approach_direct>
 		<approach_threaten>-50</approach_threaten>
 		<approach_recruit>-50</approach_recruit>
-		<interrogation>200</interrogation>
 		<speed_run>10</speed_run>
 		<spotter>-3</spotter>
 		<no_male>1</no_male>
