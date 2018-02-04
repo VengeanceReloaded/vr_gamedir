@@ -2646,7 +2646,7 @@
 		<uiIndex>115</uiIndex>
 		<szName>Car Mechanic</szName>
 		<szShortName>Car Mechanic</szShortName>
-		<szDescription>Dave used to run a service station . . . when there was fuel for vehicles</szDescription>
+		<szDescription>Dave used to run a service station . . . when there was fuel for vehicles.</szDescription>
 		<dexterity>3</dexterity>
 		<mechanical>6</mechanical>
 		<ap_urban>3</ap_urban>
@@ -3555,7 +3555,7 @@
 		<uiIndex>159</uiIndex>
 		<szName>Technical Wizard</szName>
 		<szShortName>Tech Whiz</szShortName>
-		<szDescription>No matter if it's a thirty years old junk or latest electronic gadget, tech whiz can rewire, reassemble and reconfigure it with eyes closed.</szDescription>
+		<szDescription>No matter if it's a thirty years old junk or latest electronic gadget, &#10;tech whiz can rewire, reassemble and reconfigure it with eyes closed.</szDescription>
 		<dexterity>8</dexterity>
 		<mechanical>10</mechanical>
 		<wisdom>5</wisdom>
@@ -3620,7 +3620,7 @@
 		<uiIndex>165</uiIndex>
 		<szName>UN Peacekeeper\Sniper</szName>
 		<szShortName>UN</szShortName>
-		<szDescription>Nations provide these troops to solve conflicts without any violence. Sadly, this statment is false -- which is why Gaston is also a sniper.</szDescription>
+		<szDescription>Nations provide these troops to solve conflicts without any violence. Sadly, &#10;this statment is false -- which is why Gaston is also a sniper.</szDescription>
 		<marksmanship>3</marksmanship>
 		<medical>2</medical>
 		<mechanical>2</mechanical>
@@ -3650,7 +3650,7 @@
 		<uiIndex>166</uiIndex>
 		<szName>Veteran Mercenary</szName>
 		<szShortName>Veteran Merc</szShortName>
-		<szDescription>While others may keep to their pasts and its labels, you've chosen the life of a gun for hire - and embraced it. This is who you really are.</szDescription>
+		<szDescription>While others may keep to their pasts and its labels, you've chosen the life of a gun for &#10;hire - and embraced it. This is who you really are.</szDescription>
 		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
@@ -3676,7 +3676,7 @@
 		<uiIndex>167</uiIndex>
 		<szName>B-Movie Star/Veteran Mercenary</szName>
 		<szShortName>Movie Star/Vet Merc</szShortName>
-		<szDescription>Target of thrown popcorn in cinemas around the world, scoffed by critics yet adored by loyal fans.</szDescription>
+		<szDescription>Target of thrown popcorn in cinemas around the world, scoffed by critics &#10;yet adored by loyal fans.</szDescription>
 		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<ap_fortify>-15</ap_fortify>
@@ -3705,7 +3705,7 @@
 		<uiIndex>168</uiIndex>
 		<szName>Veteran Mercenary/Bomber</szName>
 		<szShortName>Veteran Merc/Bomber</szShortName>
-		<szDescription>You were already famous in this business before those youngsters were even born. After years of battles, there's hardly anything that can shake you up.</szDescription>
+		<szDescription>You were already famous in this business before those youngsters were even born. After &#10;years of battles, there's hardly anything that can shake you up.</szDescription>
 		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
 		<explosives>10</explosives>
@@ -3745,7 +3745,7 @@
 		<uiIndex>170</uiIndex>
 		<szName>Red Army</szName>
 		<szShortName>Red Army</szShortName>
-		<szDescription>With Russian stoicism, the Red Army prevailed against Hitler, Father Frost, and chronic shortages.</szDescription>
+		<szDescription>With Russian stoicism, the Red Army prevailed against Hitler, Father Frost, and &#10;chronic shortages.</szDescription>
 		<mechanical>4</mechanical>
 		<leadership>2</leadership>
 		<ap_polar>8</ap_polar>
@@ -3772,7 +3772,7 @@
 		<uiIndex>171</uiIndex>
 		<szName>Red Army</szName>
 		<szShortName>Red Army</szShortName>
-		<szDescription>The Red Army prevailed against Hitler, Father Frost, and chronic shortages.</szDescription>
+		<szDescription>The Red Army prevailed against Hitler, Father Frost, and &#10;chronic shortages.</szDescription>
 		<mechanical>4</mechanical>
 		<leadership>2</leadership>
 		<ap_polar>8</ap_polar>
@@ -3798,7 +3798,7 @@
 		<uiIndex>172</uiIndex>
 		<szName>Red Army</szName>
 		<szShortName>Red Army</szShortName>
-		<szDescription>The Red Army prevailed against Hitler, Father Frost, and chronic shortages</szDescription>
+		<szDescription>The Red Army prevailed against Hitler, Father Frost, and &#10;chronic shortages</szDescription>
 		<mechanical>4</mechanical>
 		<leadership>2</leadership>
 		<ap_polar>8</ap_polar>
@@ -3825,7 +3825,7 @@
 		<uiIndex>173</uiIndex>
 		<szName>Military Advisor</szName>
 		<szShortName>Military Advisor</szShortName>
-		<szDescription>Pointing the gun in the right direction is a start, but someone needs to teach these people how to teach other people where to point.</szDescription>
+		<szDescription>Pointing the gun in the right direction is a start, but someone needs to teach these &#10;people how to teach other people where to point.</szDescription>
 		<leadership>10</leadership>
 		<ap_assault>3</ap_assault>
                 <resistance_physical>5</resistance_physical>
@@ -3868,7 +3868,7 @@
 		<uiIndex>175</uiIndex>
 		<szName>Surgeon/Refugee</szName>
 		<szShortName>Surgeon/Refugee</szShortName>
-		<szDescription>Leaving your homeland has left you bitter. Learning to cut human flesh relieved your pain.</szDescription>
+		<szDescription>Leaving your homeland has left you bitter. Learning to cut human flesh &#10;relieved your pain.</szDescription>
 		<wisdom>3</wisdom>
 		<medical>10</medical>
 		<dexterity>8</dexterity>
@@ -3897,7 +3897,7 @@
 		<uiIndex>176</uiIndex>
 		<szName>Circus Artist</szName>
 		<szShortName>Circus Artist</szShortName>
-		<szDescription>Let's hope you are as good evading bullets as you are evading knifes while tied to a board.</szDescription>
+		<szDescription>Let's hope you are as good evading bullets as you are evading knifes while &#10;tied to a board.</szDescription>
 		<agility>10</agility>
 		<dexterity>10</dexterity>
 		<mechanical>1</mechanical>
@@ -3921,7 +3921,7 @@
 		<uiIndex>177</uiIndex>
 		<szName>GSG9</szName>
 		<szShortName>GSG9</szShortName>
-		<szDescription>Formed after the disastrous Munich massacre in 1972, GSG9 is a counter-terrorism unit.</szDescription>
+		<szDescription>Formed after the disastrous Munich massacre in 1972, GSG9 is a &#10;counter-terrorism unit.</szDescription>
 		<marksmanship>2</marksmanship>
 		<leadership>2</leadership>
 		<ap_urban>5</ap_urban>
@@ -3955,7 +3955,7 @@
 		<uiIndex>179</uiIndex>
 		<szName>Mad Bomber</szName>
 		<szShortName>Mad Bomber</szShortName>
-		<szDescription>Explosives experts are hard to find . . . but everyone wishes they hadn't found this one!</szDescription>
+		<szDescription>Explosives experts are hard to find . . . but everyone wishes they hadn't &#10;found this one!</szDescription>
 		<dexterity>3</dexterity>
 		<mechanical>3</mechanical>
 		<wisdom>-6</wisdom>
@@ -4001,7 +4001,7 @@
 		<uiIndex>181</uiIndex>
 		<szName>Wrestler</szName>
 		<szShortName>Wrestler</szShortName>
-		<szDescription>It might be more of a spectacle than actual fight, but getting thrown around a ring without breaking a neck still takes a lot of skill.</szDescription>
+		<szDescription>It might be more of a spectacle than actual fight, but getting thrown around a ring &#10;without breaking a neck still takes a lot of skill.</szDescription>
 		<agility>3</agility>
 		<strength>5</strength>
 		<dexterity>2</dexterity>
@@ -4073,7 +4073,7 @@
 		<uiIndex>184</uiIndex>
 		<szName>Smith/Poor Shot</szName>
 		<szShortName>Smith/Poor Shot</szShortName>
-		<szDescription>Due to extreme shortsightedness Wally is a poor shot with next to no chance of improvement.</szDescription>
+		<szDescription>Due to extreme shortsightedness Wally is a poor shot with next to no chance &#10;of improvement.</szDescription>
 		<dexterity>8</dexterity>
 		<mechanical>10</mechanical>
 		<betterprices_guns>10</betterprices_guns>
@@ -4163,7 +4163,7 @@
 		<uiIndex>188</uiIndex>
 		<szName>Coward/Teacher/Snitch</szName>
 		<szShortName>Coward/Snitch</szShortName>
-		<szDescription>When they said "those who can, do; those who can't, teach" - they were talking about Lance.</szDescription>
+		<szDescription>When they said "those who can, do; those who can't, teach" - they were &#10;talking about Lance.</szDescription>
 		<wisdom>3</wisdom>
 		<leadership>-6</leadership>
 		<ap_artillery>10</ap_artillery>
@@ -4187,7 +4187,7 @@
 		<uiIndex>189</uiIndex>
 		<szName>Pretender</szName>
 		<szShortName>Pretender</szShortName>
-		<szDescription>Pretending to be anything and everything he is not, nobody knows who he actually is.</szDescription>
+		<szDescription>Pretending to be anything and everything he is not, nobody knows who &#10;he actually is.</szDescription>
 		<leadership>-5</leadership>
 		<ap_fortify>20</ap_fortify>
 		<ap_artillery>10</ap_artillery>
@@ -4210,7 +4210,7 @@
 		<uiIndex>190</uiIndex>
 		<szName>Baseball player</szName>
 		<szShortName>Athlete</szShortName>
-		<szDescription>If your team ever needs someone to throw grenades on an even field, you'll be the man.</szDescription>
+		<szDescription>If your team ever needs someone to throw grenades on an even field, you'll &#10;be the man.</szDescription>
 		<agility>8</agility>
 		<strength>3</strength>
 		<dexterity>3</dexterity>
@@ -7287,8 +7287,8 @@
 		<szName>Hooligan</szName>
 		<szShortName>Hooligan</szShortName>
 		<szDescription>When ninety minutes of football results in a nil-nil draw frustration can &#10;always be relieved with a spot of modern-day tribal warfare.</szDescription>
-		<leadership>-3</leadership>
 		<ap_urban>8</ap_urban>
+		<wisdom>-3</wisdom>
 		<travel_foot>2</travel_foot>
 		<travel_car>8</travel_car>
 		<ap_inventory>10</ap_inventory>
@@ -7302,7 +7302,6 @@
 		<cth_blades>5</cth_blades>
 		<approach_direct>5</approach_direct>
 		<approach_threaten>9</approach_threaten>
-		<approach_recruit>-15</approach_recruit>
 		<scrounging>1</scrounging>
 	</BACKGROUND>
 </BACKGROUNDS>
