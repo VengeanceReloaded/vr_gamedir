@@ -240,7 +240,7 @@
 		<ItemCapacityPerSize18>2</ItemCapacityPerSize18>
 		<ItemCapacityPerSize19>1</ItemCapacityPerSize19>
 		<ItemCapacityPerSize20>2</ItemCapacityPerSize20>
-		<ItemCapacityPerSize21>1</ItemCapacityPerSize21>
+		<ItemCapacityPerSize21>2</ItemCapacityPerSize21>
 		<ItemCapacityPerSize22>1</ItemCapacityPerSize22>
 	</POCKET>
 	<POCKET>
@@ -259,6 +259,8 @@
 		<pSilhouette>18</pSilhouette>
 		<pRestriction>268449544</pRestriction>
 		<pType>1</pType>
+		<ItemCapacityPerSize10>2</ItemCapacityPerSize10>
+		<ItemCapacityPerSize11>1</ItemCapacityPerSize11>
 		<ItemCapacityPerSize12>2</ItemCapacityPerSize12>
 		<ItemCapacityPerSize13>1</ItemCapacityPerSize13>
 		<ItemCapacityPerSize15>0</ItemCapacityPerSize15>
@@ -337,7 +339,8 @@
 		<pName>NIV Default Belt Clip</pName>
 		<pSilhouette>21</pSilhouette>
 		<pType>1</pType>
-		<pRestriction>268435456</pRestriction>
+		<pRestriction>268435712</pRestriction>
+		<ItemCapacityPerSize21>1</ItemCapacityPerSize21>
 		<ItemCapacityPerSize22>1</ItemCapacityPerSize22>
 	</POCKET>
 	<POCKET>
@@ -376,6 +379,8 @@
 		<pSilhouette>41</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>268449544</pRestriction>
+		<ItemCapacityPerSize10>4</ItemCapacityPerSize10>
+		<ItemCapacityPerSize11>2</ItemCapacityPerSize11>
 		<ItemCapacityPerSize12>4</ItemCapacityPerSize12>
 		<ItemCapacityPerSize13>2</ItemCapacityPerSize13>
 		<ItemCapacityPerSize14>0</ItemCapacityPerSize14>
@@ -383,6 +388,7 @@
 		<ItemCapacityPerSize16>3</ItemCapacityPerSize16>
 		<ItemCapacityPerSize18>1</ItemCapacityPerSize18>
 		<ItemCapacityPerSize20>2</ItemCapacityPerSize20>
+		<ItemCapacityPerSize21>1</ItemCapacityPerSize21>
 	</POCKET>
 	<POCKET>
 		<pIndex>24</pIndex>
@@ -390,13 +396,16 @@
 		<pSilhouette>42</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>268449544</pRestriction>
+		<ItemCapacityPerSize10>6</ItemCapacityPerSize10>
+		<ItemCapacityPerSize11>3</ItemCapacityPerSize11>
 		<ItemCapacityPerSize12>6</ItemCapacityPerSize12>
 		<ItemCapacityPerSize13>3</ItemCapacityPerSize13>
 		<ItemCapacityPerSize14>2</ItemCapacityPerSize14>
 		<ItemCapacityPerSize15>2</ItemCapacityPerSize15>
 		<ItemCapacityPerSize16>4</ItemCapacityPerSize16>
 		<ItemCapacityPerSize18>1</ItemCapacityPerSize18>
-		<ItemCapacityPerSize20>3</ItemCapacityPerSize20>	
+		<ItemCapacityPerSize20>3</ItemCapacityPerSize20>
+		<ItemCapacityPerSize21>1</ItemCapacityPerSize21>	
 	</POCKET>
 	<POCKET>
 		<pIndex>25</pIndex>

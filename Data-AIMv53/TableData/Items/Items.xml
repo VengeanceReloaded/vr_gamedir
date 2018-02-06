@@ -7444,7 +7444,7 @@
 		<ubGraphicNum>106</ubGraphicNum>
 		<ubWeight>10</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>22</ItemSize>
+		<ItemSize>21</ItemSize>
 		<usPrice>30</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
@@ -7663,7 +7663,7 @@
 		<ubGraphicNum>100</ubGraphicNum>
 		<ubWeight>12</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>22</ItemSize>
+		<ItemSize>21</ItemSize>
 		<usPrice>20</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
@@ -7687,7 +7687,7 @@
 		<ubGraphicNum>101</ubGraphicNum>
 		<ubWeight>4</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>22</ItemSize>
+		<ItemSize>21</ItemSize>
 		<usPrice>10</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
@@ -8463,7 +8463,7 @@
 		<ubGraphicNum>213</ubGraphicNum>
 		<ubWeight>3</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>21</ItemSize>
+		<ItemSize>22</ItemSize>
 		<usPrice>150</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
@@ -8607,7 +8607,7 @@
 		<ubGraphicNum>217</ubGraphicNum>
 		<ubWeight>3</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>21</ItemSize>
+		<ItemSize>22</ItemSize>
 		<usPrice>150</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
@@ -10223,7 +10223,6 @@
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
-		<AvailableAttachmentPoint>68719476736</AvailableAttachmentPoint>	<!-- Stock - Folding -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>127</ubGraphicNum>
 		<ubWeight>37</ubWeight>
@@ -10244,7 +10243,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
-		<DefaultAttachment>1008</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
@@ -30644,7 +30642,7 @@
 		<ubGraphicNum>200</ubGraphicNum>
 		<ubWeight>8</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>22</ItemSize>
+		<ItemSize>21</ItemSize>
 		<usPrice>50</usPrice>
 		<Damageable>1</Damageable>
 		<BigGunList>1</BigGunList>
@@ -46277,7 +46275,7 @@
 		<ubGraphicNum>188</ubGraphicNum>
 		<ubWeight>16</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>21</ItemSize>
+		<ItemSize>22</ItemSize>
 		<usPrice>1250</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -47887,7 +47885,7 @@
 		<ubGraphicNum>97</ubGraphicNum>
 		<ubWeight>16</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>21</ItemSize>
+		<ItemSize>22</ItemSize>
 		<usPrice>1250</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -47919,7 +47917,7 @@
 		<ubGraphicNum>97</ubGraphicNum>
 		<ubWeight>16</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>21</ItemSize>
+		<ItemSize>22</ItemSize>
 		<usPrice>1250</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -47951,7 +47949,7 @@
 		<ubGraphicNum>97</ubGraphicNum>
 		<ubWeight>16</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>21</ItemSize>
+		<ItemSize>22</ItemSize>
 		<usPrice>1250</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -47983,7 +47981,7 @@
 		<ubGraphicNum>97</ubGraphicNum>
 		<ubWeight>16</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>21</ItemSize>
+		<ItemSize>22</ItemSize>
 		<usPrice>1250</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -48015,7 +48013,7 @@
 		<ubGraphicNum>97</ubGraphicNum>
 		<ubWeight>16</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>21</ItemSize>
+		<ItemSize>22</ItemSize>
 		<usPrice>1250</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -48047,7 +48045,7 @@
 		<ubGraphicNum>97</ubGraphicNum>
 		<ubWeight>16</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>21</ItemSize>
+		<ItemSize>22</ItemSize>
 		<usPrice>1250</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -48079,7 +48077,7 @@
 		<ubGraphicNum>97</ubGraphicNum>
 		<ubWeight>16</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>21</ItemSize>
+		<ItemSize>22</ItemSize>
 		<usPrice>1250</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -62500,7 +62498,7 @@
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1008</ubGraphicNum>
 		<ubWeight>35</ubWeight>
-		<ItemSize>21</ItemSize>
+		<ItemSize>27</ItemSize>
 		<usPrice>1000</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<Metal>1</Metal>
@@ -62522,7 +62520,7 @@
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1009</ubGraphicNum>
 		<ubWeight>35</ubWeight>
-		<ItemSize>21</ItemSize>
+		<ItemSize>27</ItemSize>
 		<usPrice>3000</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bReliability>-2</bReliability>
@@ -63079,7 +63077,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>2</BR_NewInventory>
+		<BR_NewInventory>0</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -63130,7 +63128,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>1</BR_NewInventory>
+		<BR_NewInventory>0</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -73790,7 +73788,8 @@
 		<szBRName>ON-M99 Scope</szBRName>
 		<szBRDesc>This Iraqi made scope fits the Tabuk sniper rifle or any other rifle with an AK receiver.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
+		<AttachmentClass>16</AttachmentClass>
+		<nasAttachmentClass>16</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>330</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -73816,6 +73815,7 @@
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>60</PercentTunnelVision>
+		<ScopeMagFactor>3.6</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />

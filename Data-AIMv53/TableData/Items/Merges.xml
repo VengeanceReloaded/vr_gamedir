@@ -4570,6 +4570,22 @@
 		<APCost>32</APCost>
 	</MERGE>
 		<MERGE>
+		<firstItemIndex>2976</firstItemIndex>
+		<secondItemIndex>2976</secondItemIndex>
+		<firstResultingItemIndex>2976</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>1</mergeType>
+		<APCost>32</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>2977</firstItemIndex>
+		<secondItemIndex>2977</secondItemIndex>
+		<firstResultingItemIndex>2977</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>1</mergeType>
+		<APCost>32</APCost>
+	</MERGE>
+	<MERGE>
 		<firstItemIndex>2978</firstItemIndex>
 		<secondItemIndex>2978</secondItemIndex>
 		<firstResultingItemIndex>2978</firstResultingItemIndex>

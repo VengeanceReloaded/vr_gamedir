@@ -47,7 +47,7 @@
 	</FOOD>
 	<FOOD>
 		<uiIndex>5</uiIndex>
-		<szName>Calory bars</szName>
+		<szName>Diet bar</szName>
 		<bFoodPoints>150</bFoodPoints>
 		<bDrinkPoints>0</bDrinkPoints>
 		<ubPortionSize>20</ubPortionSize>
@@ -133,7 +133,7 @@
 		<bDrinkPoints>0</bDrinkPoints>
 		<ubPortionSize>50</ubPortionSize>
 		<bMoraleMod>1</bMoraleMod>
-		<usDecayRate>0</usDecayRate>
+		<usDecayRate>0.1</usDecayRate>
 	</FOOD>
 	<FOOD>
 		<uiIndex>15</uiIndex>
@@ -142,7 +142,7 @@
 		<bDrinkPoints>0</bDrinkPoints>
 		<ubPortionSize>50</ubPortionSize>
 		<bMoraleMod>1</bMoraleMod>
-		<usDecayRate>0</usDecayRate>
+		<usDecayRate>0.1</usDecayRate>
 	</FOOD>
 	<FOOD>
 		<uiIndex>16</uiIndex>
@@ -151,7 +151,7 @@
 		<bDrinkPoints>0</bDrinkPoints>
 		<ubPortionSize>50</ubPortionSize>
 		<bMoraleMod>1</bMoraleMod>
-		<usDecayRate>0</usDecayRate>
+		<usDecayRate>0.1</usDecayRate>
 	</FOOD>
 	<FOOD>
 		<uiIndex>17</uiIndex>
@@ -160,7 +160,7 @@
 		<bDrinkPoints>0</bDrinkPoints>
 		<ubPortionSize>100</ubPortionSize>
 		<bMoraleMod>1</bMoraleMod>
-		<usDecayRate>0</usDecayRate>
+		<usDecayRate>0.1</usDecayRate>
 	</FOOD>
 	<FOOD>
 		<uiIndex>18</uiIndex>
@@ -169,7 +169,7 @@
 		<bDrinkPoints>0</bDrinkPoints>
 		<ubPortionSize>100</ubPortionSize>
 		<bMoraleMod>-2</bMoraleMod>
-		<usDecayRate>80</usDecayRate>
+		<usDecayRate>0.1</usDecayRate>
 	</FOOD>
 	<FOOD>
 		<uiIndex>19</uiIndex>
@@ -178,7 +178,7 @@
 		<bDrinkPoints>0</bDrinkPoints>
 		<ubPortionSize>50</ubPortionSize>
 		<bMoraleMod>1</bMoraleMod>
-		<usDecayRate>0</usDecayRate>
+		<usDecayRate>0.1</usDecayRate>
 	</FOOD>
 	<FOOD>
 		<uiIndex>20</uiIndex>
