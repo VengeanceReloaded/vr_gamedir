@@ -58431,6 +58431,8 @@
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>35184372088832</AvailableAttachmentPoint>	<!-- Scopes - PSO-1 -->
+		<AvailableAttachmentPoint>70368744177664</AvailableAttachmentPoint>	<!-- Scopes - PSO-3 -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>519</ubGraphicNum>
@@ -73790,6 +73792,7 @@
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>16</AttachmentClass>
 		<nasAttachmentClass>16</nasAttachmentClass>
+		<AttachmentPoint>35184372088832</AttachmentPoint>	<!-- Scopes - PSO-1 -->
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>330</ubGraphicNum>
 		<ubWeight>5</ubWeight>
