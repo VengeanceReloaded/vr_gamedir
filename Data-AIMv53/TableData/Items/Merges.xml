@@ -3338,6 +3338,14 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1022</firstItemIndex>
+		<secondItemIndex>245</secondItemIndex>
+		<firstResultingItemIndex>2977</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>32</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1022</firstItemIndex>
 		<secondItemIndex>2857</secondItemIndex>
 		<firstResultingItemIndex>979</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
