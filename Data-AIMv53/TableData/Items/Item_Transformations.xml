@@ -1352,4 +1352,39 @@
 		<szMenuRowText>Tear apart</szMenuRowText>
 		<szTooltipText>Tear this sandbag into two pieces of cloth.</szTooltipText>
 	</TRANSFORM>
+	<!-- Cut explosives -->
+	<TRANSFORM>
+		<usItem>139</usItem>
+		<usResult1>2419</usResult1>
+		<usResult2>2419</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>64</usAPCost>
+		<iBPCost>20</iBPCost>
+		<szMenuRowText>Cut</szMenuRowText>
+		<szTooltipText>Make 2 small C1.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>142</usItem>
+		<usResult1>2420</usResult1>
+		<usResult2>2420</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>64</usAPCost>
+		<iBPCost>20</iBPCost>
+		<szMenuRowText>Cut</szMenuRowText>
+		<szTooltipText>Make 2 small C4.</szTooltipText>
+	</TRANSFORM>
 </TRANSFORMATIONS_LIST>

@@ -6382,6 +6382,7 @@
 		<szBRDesc>The Military Wood Camo Compact includes several green and brown nuanced facial paints, and a mirror. This long-lasting, non-running, facial paint can be easily removed with soap and water. The kit also includes a manual that outlines the proper use and care of your compact.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>514</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -6392,10 +6393,11 @@
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<ShowStatus>1</ShowStatus>
-		<Attachment>1</Attachment>
 		<BR_NewInventory>3</BR_NewInventory>
 		<CamoBonus>100</CamoBonus>
 		<CamouflageKit>1</CamouflageKit>
+		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -9055,6 +9057,7 @@
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
@@ -9133,7 +9136,7 @@
 		<szItemDesc>Once this glue gets a grip, it doesn't let go. It will permanently stick to most substances in less than 3 minutes. Quite usefull for some MacGyver style modifications.</szItemDesc>
 		<szBRName>Quick Glue</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
+		<usItemClass>268435456</usItemClass>		
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>132</ubGraphicNum>
@@ -9143,6 +9146,7 @@
 		<usPrice>5</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<Damageable>1</Damageable>
+		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -9206,6 +9210,8 @@
 		<HiddenAddon>1</HiddenAddon>
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
+		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -32042,7 +32048,8 @@
 		<szBRName>Rag</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
+		<nasLayoutClass>1</nasLayoutClass>		
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ItemFlag>1024</ItemFlag>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>204</ubGraphicNum>
@@ -32052,6 +32059,8 @@
 		<usPrice>1</usPrice>
 		<ubCoolness>1</ubCoolness>		
 		<BigGunList>1</BigGunList>
+		<Attachment>1</Attachment>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -32199,6 +32208,7 @@
 		<szBRDesc>The Military Urban Camo Compact includes several grey nuanced facial paints, and a mirror. This long-lasting, non-running, facial paint can be easily removed with soap and water. The kit also includes a manual that outlines the proper use and care of your compact.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>513</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -32214,6 +32224,7 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<UrbanCamoBonus>100</UrbanCamoBonus>
 		<CamouflageKit>1</CamouflageKit>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -32228,6 +32239,7 @@
 		<szBRDesc>The Military Desert Camo Compact includes light brown, tan and white cream based facial paint, and a mirror. This long-lasting, non-running, facial paint can be easily removed with soap and water. The kit also includes a manual that outlines the proper use and care of your compact.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>58</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -32243,6 +32255,7 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<DesertCamoBonus>100</DesertCamoBonus>
 		<CamouflageKit>1</CamouflageKit>
+		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -66061,6 +66074,7 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ItemFlag>16384</ItemFlag>
+		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -66089,6 +66103,7 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ItemFlag>16384</ItemFlag>
+		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
