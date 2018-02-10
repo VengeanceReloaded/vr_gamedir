@@ -67415,10 +67415,10 @@
 	<ITEM>
 		<uiIndex>2468</uiIndex>
 		<szItemName>Molotov</szItemName>
-		<szLongItemName>Molotov Cocktail</szLongItemName>
-		<szItemDesc>Teach them the hard way that flammable and inflammable mean the same damn thing.</szItemDesc>
+		<szLongItemName>Improved Molotov Cocktail</szLongItemName>
+		<szItemDesc>This classic guerilla design now uses oil-based additives to create a clingier accelerant for more destructive power and thicker smoke.</szItemDesc>
 		<szBRName>Molotov Cocktail</szBRName>
-		<szBRDesc>Arguably one of Russia's most deadly exports, next to the Vodka itself, a bottle of alcohol with a cloth fuse is, like a good Vodka, simple and powerful.</szBRDesc>
+		<szBRDesc>Not available at BR</szBRDesc>
 		<usItemClass>256</usItemClass>		
 		<ubClassIndex>190</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>		
