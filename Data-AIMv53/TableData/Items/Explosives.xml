@@ -4019,4 +4019,25 @@
 		<ubVerticalDegree>0</ubVerticalDegree>
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
+	<EXPLOSIVE>	<!-- Molotov Cocktail -->
+		<uiIndex>190</uiIndex>
+		<ubType>8</ubType>
+		<ubDamage>30</ubDamage>
+		<ubStunDamage>20</ubStunDamage>
+		<ubRadius>2</ubRadius>
+		<ubVolume>15</ubVolume>
+		<ubVolatility>1</ubVolatility>
+		<ubAnimationID>10</ubAnimationID>
+		<ubDuration>4</ubDuration>
+		<ubStartRadius>2</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
 </EXPLOSIVELIST>

@@ -67414,11 +67414,27 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2468</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2468</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>Molotov</szItemName>
+		<szLongItemName>Molotov Cocktail</szLongItemName>
+		<szItemDesc>Teach them the hard way that flammable and inflammable mean the same damn thing.</szItemDesc>
+		<szBRName>Molotov Cocktail</szBRName>
+		<szBRDesc>Arguably one of Russia's most deadly exports, next to the Vodka itself, a bottle of alcohol with a cloth fuse is, like a good Vodka, simple and powerful.</szBRDesc>
+		<usItemClass>256</usItemClass>		
+		<ubClassIndex>190</ubClassIndex>
+		<nasLayoutClass>1</nasLayoutClass>		
+		<nasAttachmentClass>1</nasAttachmentClass>
+		<ubCursor>6</ubCursor>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>457</ubGraphicNum>
+		<ubWeight>8</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>21</ItemSize>
+		<usPrice>50</usPrice>
+		<Damageable>1</Damageable>
+		<BigGunList>1</BigGunList>
+		<ItemFlag>536870912</ItemFlag>
+		<HiddenAddon>1</HiddenAddon>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
