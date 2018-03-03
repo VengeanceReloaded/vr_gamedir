@@ -55103,10 +55103,10 @@
 	<ITEM>
 		<uiIndex>2008</uiIndex>
 		<szItemName>AA-12 CQB</szItemName>
-		<szLongItemName>AA-12 CQB</szLongItemName>
-		<szItemDesc>The full automatic Auto Assault 12 Close Quarter shotgun is a devestating weapon system that can empty its 20 shell drum magazine with an insane rate of 360 rounds per minute.</szItemDesc>
+		<szLongItemName>Auto Assault-12 CQB</szLongItemName>
+		<szItemDesc>Despite looking like it was made from one ugly block of marzipan, this full automatic close-quarter shotgun is a devastating weapon system that can empty its 20 shell drum magazine at an insane 360 rounds per minute.</szItemDesc>
 		<szBRName>AA-12 CQB</szBRName>
-		<szBRDesc>The full automatic Auto Assault 12 Close Quarter shotgun is a devestating weapon system that can empty its 20 shell drum magazine with an insane rate of 360 rounds per minute.</szBRDesc>
+		<szBRDesc>Atchisson's 'Junior' is a fully automatic close-quarter shotgun that when using the correct ammo will drop most insurgents with one shot and features a self cleaning, self lubricating operating mechanism good for up to 8000 rounds if kept dry.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2008</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
