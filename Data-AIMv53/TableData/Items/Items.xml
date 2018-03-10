@@ -31694,6 +31694,7 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>-5</ToHitBonus>
+		<PercentReadyTimeAPReduction>5</PercentReadyTimeAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-40</PercentMaxCounterForce>
