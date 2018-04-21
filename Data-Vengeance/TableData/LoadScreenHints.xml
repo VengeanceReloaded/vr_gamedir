@@ -636,7 +636,7 @@ The other tags determine in what category this hint falls, and will be displayed
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>122</uiIndex>
-    <szName>Exploring the farms and city sectors can uncover lots of useful items, like gas for vehicle.</szName>
+    <szName>Exploring the farms and city sectors can uncover lots of useful items, like gas for vehicles.</szName>
     <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
@@ -681,12 +681,12 @@ The other tags determine in what category this hint falls, and will be displayed
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>131</uiIndex>
-    <szName>Click with hand cursor on a blue flag, and flag can be removed or trap inspected with the useful Disarm Menu.</szName>
+    <szName>Click with the hand cursor on a blue flag, and flag can be removed or trap inspected with the useful Disarm Menu.</szName>
     <items>1</items>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>132</uiIndex>
-    <szName>Placing mines, concertina or sandbags is more convenient with holding [SHIFT] key, relieving the need to manually take new item from merc's inventory.</szName>
+    <szName>Placing mines, concertina wire or sandbags is more convenient while holding [SHIFT] key, relieving the need to manually take new item from merc's inventory.</szName>
 	  <keybind>1</keybind>
   </LOADSCREENHINT>
 </LOADSCREENHINTS>
