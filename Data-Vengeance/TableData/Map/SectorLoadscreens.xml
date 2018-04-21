@@ -1161,7 +1161,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Backstreet</szDay>
 		<szNight>Loadscreens\LS_NightTown2</szNight>
-		<szDayAlt>Loadscreens\LS_DayTown1</szDayAlt>
+		<szDayAlt>Loadscreens\LS_Warehouse</szDayAlt>
 		<szNightAlt>Loadscreens\LS_NightTown1</szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -1169,7 +1169,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>H2</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayTown2</szDay>
+		<szDay>Loadscreens\LS_Warehouse</szDay>
 		<szNight>Loadscreens\LS_NightTown2</szNight>
 		<szDayAlt>Loadscreens\LS_DayTown1</szDayAlt>
 		<szNightAlt>Loadscreens\LS_NightTown1</szNightAlt>
@@ -2559,7 +2559,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_House_pool</szDay>
 		<szNight>Loadscreens\LS_NightTown1</szNight>
-		<szDayAlt>Loadscreens\LS_DayTown2</szDayAlt>
+		<szDayAlt>Loadscreens\LS_Mall_damage</szDayAlt>
 		<szNightAlt>Loadscreens\LS_NightTown2</szNightAlt>
 	</SECTOR>
 	<SECTOR>
