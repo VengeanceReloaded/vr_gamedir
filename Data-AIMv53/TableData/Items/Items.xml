@@ -1986,7 +1986,7 @@
 		<szLongItemName>M72A4 LAW</szLongItemName>
 		<szItemDesc>One hit from this Light Anti-Tank Weapon is better than a one way ticket to Judgement Day. No judge, no jury, and all executioner. Extend before firing...</szItemDesc>
 		<szBRName>M72A4 LAW</szBRName>
-		<szBRDesc>The M72A2 Light Anti-Tank Weapon is a light-weight shoulder-fired rocket launcher which can penetrate a foot of tank armour or destroy small battlefield fortifications.  A one-shot weapon of awesome destructive power.</szBRDesc>
+		<szBRDesc>The M72A2 Light Anti-Tank Weapon is a light-weight shoulder-fired rocket launcher which can penetrate a foot of tank armor or destroy small battlefield fortifications.  A one-shot weapon of awesome destructive power.</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>51</ubClassIndex>
@@ -6060,7 +6060,7 @@
 		<uiIndex>196</uiIndex>
 		<szItemName>Guardian Vest</szItemName>
 		<szLongItemName>Guardian Vest</szLongItemName>
-		<szItemDesc>This high quality ballistic vest is manufactured from 36 piles of Kevlar by Guardian Armories, Inc.  It is fully adjustable and has a pocket for a ceramic armour insert.</szItemDesc>
+		<szItemDesc>This high quality ballistic vest is manufactured from 36 piles of Kevlar by Guardian Armories, Inc.  It is fully adjustable and has a pocket for a ceramic armor insert.</szItemDesc>
 		<szBRName>Guardian Vest</szBRName>
 		<szBRDesc>This high quality ballistic vest is manufactured from 36 piles of Kevlar by Guardian Armories, Inc.  Also available in tuxedo style for those especially dangerous formal occasions.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -8275,9 +8275,9 @@
 		<uiIndex>282</uiIndex>
 		<szItemName>Zylon Combat Pants</szItemName>
 		<szLongItemName>Zylon Combat Pants</szLongItemName>
-		<szItemDesc>This is the standard issue body armour of the US military.  What were they thinking?  This stuff wears out way too fast.</szItemDesc>
+		<szItemDesc>This is part of the standard issue body armor of the US military.  What were they thinking?  This stuff wears out way too fast.</szItemDesc>
 		<szBRName>Zylon Combat Pants</szBRName>
-		<szBRDesc>Stronger than kevlar, this is the body armour worn by US Marines in Iraq.  Provides limited camouflage.</szBRDesc>
+		<szBRDesc>Stronger than kevlar, these are standard issue for US Marines in Iraq.  Provides limited camouflage.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>39</ubClassIndex>
@@ -8307,9 +8307,9 @@
 		<uiIndex>283</uiIndex>
 		<szItemName>Zylon Combat Vest</szItemName>
 		<szLongItemName>Zylon Combat Vest</szLongItemName>
-		<szItemDesc>This is the standard issue body armour of the US military.  What were they thinking?  This stuff wears out way too fast.</szItemDesc>
+		<szItemDesc>This is the standard issue body armor of the US military.  What were they thinking?  This stuff is known to wears out prematurely.</szItemDesc>
 		<szBRName>Zylon Combat Vest</szBRName>
-		<szBRDesc>Stronger than kevlar, this is the body armour worn by US Marines in Iraq.  Provides limited camouflage.</szBRDesc>
+		<szBRDesc>Stronger than Kevlar, this is the body armor worn by US Marines in Iraq.  Provides limited camouflage.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>40</ubClassIndex>
@@ -8352,9 +8352,9 @@
 		<uiIndex>284</uiIndex>
 		<szItemName>Uniform</szItemName>
 		<szLongItemName>Field Uniform</szLongItemName>
-		<szItemDesc>Officer's fatigues. This is the standard issue of the US military.  What were they thinking?  This stuff wears out way too fast.</szItemDesc>
+		<szItemDesc>These camouflaged officer's fatigues are the standard issue of the US military and reinforced with Zylon, but this has been known to degrade prematurely if drenched or exposed to the sun.</szItemDesc>
 		<szBRName>Field Uniform</szBRName>
-		<szBRDesc>Look the part with these Officer's fatigues as worn by US Marines in Iraq.  Provides limited camouflage.</szBRDesc>
+		<szBRDesc>Look the part with these Officer's fatigues as worn by US Marines in Iraq. Enforced with the synthetic polymer Zylon which has 1.6 times the strength of Kevlar. Provides limited camouflage.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>41</ubClassIndex>
@@ -8630,7 +8630,7 @@
 		<szLongItemName>SWAT Helmet</szLongItemName>
 		<szItemDesc>This helmet comes with eye protection, and feels very sturdy.</szItemDesc>
 		<szBRName>SWAT Helmet</szBRName>
-		<szBRDesc>Standard issue SWAT armour.  Strong, resilient and flexible.  An excellent choice for situations which require light armour and high mobility.</szBRDesc>
+		<szBRDesc>Standard issue SWAT armor.  Strong, resilient and flexible.  An excellent choice for situations which require light armor and high mobility.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -8661,9 +8661,9 @@
 		<uiIndex>294</uiIndex>
 		<szItemName>SWAT Pants</szItemName>
 		<szLongItemName>SWAT Leggings</szLongItemName>
-		<szItemDesc>Standard issue SWAT armoured leggings.  Sturdier than standard kevlar due to extra integrated plating, but still provide excellent mobility.</szItemDesc>
+		<szItemDesc>Standard issue SWAT armored leggings.  Sturdier than standard kevlar due to extra integrated plating, but still provide excellent mobility.</szItemDesc>
 		<szBRName>SWAT Leggings</szBRName>
-		<szBRDesc>Standard issue SWAT armour.  Strong, resilient and flexible.  An excellent choice for situations which require light armour and high mobility.</szBRDesc>
+		<szBRDesc>Standard issue SWAT armor.  Strong, resilient and flexible.  An excellent choice for situations which require light armor and high mobility.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>51</ubClassIndex>
@@ -15963,7 +15963,7 @@
 		<szLongItemName>12.3x50mm Speedloader, Flechette</szLongItemName>
 		<szItemDesc>This five-shot speedloader of 12.5x35mm armor piercing flechette rounds is for the massive U-94S UDAR Revolver.</szItemDesc>
 		<szBRName>12.3x50mm Loader FL</szBRName>
-		<szBRDesc>Open up with a shower of armour piercing metal shards and your opponents will be cut down to size.. Literally.</szBRDesc>
+		<szBRDesc>Open up with a shower of armor piercing metal shards and your opponents will be cut down to size.. Literally.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>553</ubClassIndex>
@@ -25460,7 +25460,7 @@
 		<uiIndex>820</uiIndex>
 		<szItemName>C-18 SWAT Pants</szItemName>
 		<szLongItemName>Treated SWAT Leggings</szLongItemName>
-		<szItemDesc>These sturdy, standard issue SWAT armoured leggings have been enhanced with a coating of Compound 18 but still provide excellent mobility.</szItemDesc>
+		<szItemDesc>These sturdy, standard issue SWAT armored leggings have been enhanced with a coating of Compound 18 but still provide excellent mobility.</szItemDesc>
 		<szBRName>Treated SWAT Leggings</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -45508,9 +45508,9 @@
 		<uiIndex>1493</uiIndex>
 		<szItemName>12.3x50mm Box FL</szItemName>
 		<szLongItemName>12.3x50mm Box, Flechette</szLongItemName>
-		<szItemDesc>Open up with a shower of armour piercing metal shards and your opponents will be cut down to size.. Literally.</szItemDesc>
+		<szItemDesc>Open up with a shower of armor piercing metal shards and your opponents will be cut down to size.. Literally.</szItemDesc>
 		<szBRName>12.3x50mm Box Flechette</szBRName>
-		<szBRDesc>Open up with a shower of armour piercing metal shards and your opponents will be cut down to size.. Literally.</szBRDesc>
+		<szBRDesc>Open up with a shower of armor piercing metal shards and your opponents will be cut down to size.. Literally.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>555</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -56105,7 +56105,7 @@
 		<szLongItemName>HK MP7 PDW</szLongItemName>
 		<szItemDesc>This compact prototype of the Heckler&amp;Koch's MP7A1 uses a small pistol magazine and a slightly shorter barrel. It still packs a mean punch with it's exclusive 4.6mm round.</szItemDesc>
 		<szBRName>HK MP7 PDW</szBRName>
-		<szBRDesc>This quality compact PDW from H&amp;K uses the 4.6mm round exclusively and is designed to cut through armoured close-quarter targets with both ease and precision.</szBRDesc>
+		<szBRDesc>This quality compact PDW from H&amp;K uses the 4.6mm round exclusively and is designed to cut through armored close-quarter targets with both ease and precision.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2032</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
@@ -61939,7 +61939,7 @@
 		<uiIndex>2207</uiIndex>
 		<szItemName>12.7x108mm HE/AP</szItemName>
 		<szLongItemName>12.7mm HE/AP Magazine</szLongItemName>
-		<szItemDesc>High Explosive armour piercing ammunition for heavy anti-material rifles.</szItemDesc>
+		<szItemDesc>High Explosive armor piercing ammunition for heavy anti-material rifles.</szItemDesc>
 		<szBRName>12.7mm HE/AP Magazine</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
@@ -62252,9 +62252,9 @@
 		<uiIndex>2220</uiIndex>
 		<szItemName>9x19mm Mag 8 BAT</szItemName>
 		<szLongItemName>9x19mm Pistol Mag, 8 BAT</szLongItemName>
-		<szItemDesc>The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power. It is comparable to hollowpoint rounds, has slightly better armour penetration, but due to the odd shape reduced range.</szItemDesc>
+		<szItemDesc>The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power. It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szItemDesc>
 		<szBRName>9x19mm Mag 8 BAT</szBRName>
-		<szBRDesc>Nowadays quite hard to find. The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armour penetration, but due to the odd shape reduced range.</szBRDesc>
+		<szBRDesc>Nowadays quite hard to find. The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>32</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -62278,9 +62278,9 @@
 		<uiIndex>2221</uiIndex>
 		<szItemName>9x19mm Mag 15 BAT</szItemName>
 		<szLongItemName>9x19mm Pistol Mag, 15 BAT</szLongItemName>
-		<szItemDesc>The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armour penetration, but due to the odd shape reduced range.</szItemDesc>
+		<szItemDesc>The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szItemDesc>
 		<szBRName>9x19mm Mag 15 BAT</szBRName>
-		<szBRDesc>Nowadays quite hard to find. The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armour penetration, but due to the odd shape reduced range.</szBRDesc>
+		<szBRDesc>Nowadays quite hard to find. The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>43</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -62304,9 +62304,9 @@
 		<uiIndex>2222</uiIndex>
 		<szItemName>9x19mm SMG Mag BAT</szItemName>
 		<szLongItemName>9x19mm SMG Mag, BAT</szLongItemName>
-		<szItemDesc>The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armour penetration, but due to the odd shape reduced range.</szItemDesc>
+		<szItemDesc>The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szItemDesc>
 		<szBRName>9x19mm SMG Mag BAT</szBRName>
-		<szBRDesc>Nowadays quite hard to find. The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armour penetration, but due to the odd shape reduced range.</szBRDesc>
+		<szBRDesc>Nowadays quite hard to find. The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>54</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -62330,9 +62330,9 @@
 		<uiIndex>2223</uiIndex>
 		<szItemName>9x19mm Lrg Mag BAT</szItemName>
 		<szLongItemName>9x19mm Large Mag, BAT</szLongItemName>
-		<szItemDesc>The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armour penetration, but due to the odd shape reduced range.</szItemDesc>
+		<szItemDesc>The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szItemDesc>
 		<szBRName>9x19mm Lrg Mag BAT</szBRName>
-		<szBRDesc>Nowadays quite hard to find. The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armour penetration, but due to the odd shape reduced range.</szBRDesc>
+		<szBRDesc>Nowadays quite hard to find. The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>65</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -62355,9 +62355,9 @@
 		<uiIndex>2224</uiIndex>
 		<szItemName>9x19mm C-Mag BAT</szItemName>
 		<szLongItemName>9x19mm C-Mag, BAT</szLongItemName>
-		<szItemDesc>The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armour penetration, but due to the odd shape reduced range.</szItemDesc>
+		<szItemDesc>The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szItemDesc>
 		<szBRName>9x19mm C-Mag BAT</szBRName>
-		<szBRDesc>Nowadays quite hard to find. The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armour penetration, but due to the odd shape reduced range.</szBRDesc>
+		<szBRDesc>Nowadays quite hard to find. The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>86</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -62944,9 +62944,9 @@
 		<uiIndex>2247</uiIndex>
 		<szItemName>9x19mm Box BAT</szItemName>
 		<szLongItemName>9x19mm Box, BAT</szLongItemName>
-		<szItemDesc>The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armour penetration, but due to the odd shape reduced range.</szItemDesc>
+		<szItemDesc>The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, has slightly better armor penetration, but due to the odd shape reduced range.</szItemDesc>
 		<szBRName>9x19mm Box BAT</szBRName>
-		<szBRDesc>Nowadays quite hard to find. The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, but has slightly better armour penetration. Save 10 percent on buying this 150 round box.</szBRDesc>
+		<szBRDesc>Nowadays quite hard to find. The Geco Blitz Action Trauma 9mm ammunition was designed for high stopping power.  It is comparable to hollowpoint rounds, but has slightly better armor penetration. Save 10 percent on buying this 150 round box.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>87</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -67793,10 +67793,10 @@
 	<ITEM>
 		<uiIndex>2501</uiIndex>
 		<szItemName>Dragonskin</szItemName>
-		<szLongItemName>Dragonskin Body Armour</szLongItemName>
-		<szItemDesc>The Dragonskin Body Armour is light weight and offers very high protection. Unfortunately Dragonskin can not be repaired.</szItemDesc>
-		<szBRName>Dragonskin Body Armour</szBRName>
-		<szBRDesc>The cutting edge in body armour design. Dragonskin offers protection even against powerful rifle rounds.</szBRDesc>
+		<szLongItemName>Dragonskin Body Armor</szLongItemName>
+		<szItemDesc>The Dragonskin Body Armor is light weight and offers very high protection. Unfortunately Dragonskin can not be repaired.</szItemDesc>
+		<szBRName>Dragonskin Body Armor</szBRName>
+		<szBRDesc>The cutting edge in body armor design. Dragonskin offers protection even against powerful rifle rounds.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>199</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -68279,9 +68279,9 @@
 	<ITEM>
 		<uiIndex>2519</uiIndex>
 		<szItemName>KAZAK-6</szItemName>
-		<szLongItemName>KAZAK-6 Body Armour</szLongItemName>
+		<szLongItemName>KAZAK-6 Body Armor</szLongItemName>
 		<szItemDesc>The Russian equivalent of Dragonskin. The KAZAK-6 provides excellent protection.</szItemDesc>
-		<szBRName>KAZAK-6 Body Armour</szBRName>
+		<szBRName>KAZAK-6 Body Armor</szBRName>
 		<szBRDesc>These Russian made KAZAK-6 vests provide excellent protection and always sell out quickly. Place your order before they go again.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>217</ubClassIndex>
