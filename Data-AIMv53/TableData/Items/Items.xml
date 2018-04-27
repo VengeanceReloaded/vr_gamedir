@@ -29662,7 +29662,7 @@
 		<uiIndex>948</uiIndex>
 		<szItemName>Aimpoint</szItemName>
 		<szLongItemName>Old Aimpoint Projector</szLongItemName>
-		<szItemDesc>This old laser aiming device weighs enough to be a weapon (club) in its own right. Fits older HK rifles.</szItemDesc>
+		<szItemDesc>This old laser aiming device weighs enough to be used as a club weapon in its own right. Fits older HK rifles.</szItemDesc>
 		<szBRName>Aimpoint Projector</szBRName>
 		<szBRDesc>Hard to find these days, the eye safety warning on this Aim Point Projector is indicative of its useful range. Fits older HK rifles.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -55042,6 +55042,8 @@
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
+		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<ubCursor>3</ubCursor>
@@ -68373,7 +68375,7 @@
 		<uiIndex>2522</uiIndex>
 		<szItemName>FrackTac Helm</szItemName>
 		<szLongItemName>FrackTac Helm</szLongItemName>
-		<szItemDesc>FrackTac has steel layer bonded to a compressed Dyneema backing, with a linex coating for spall reduction, resulting in a total plate thickness of approximately 25 mm.</szItemDesc>
+		<szItemDesc>This cutting edge desgin uses a steel layer bonded to a compressed Dyneema backing, with a Line-X coating for spall reduction.</szItemDesc>
 		<szBRName>FrackTac Helm</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -68401,7 +68403,7 @@
 		<uiIndex>2523</uiIndex>
 		<szItemName>Body Armor</szItemName>
 		<szLongItemName>FrackTac Body Armor</szLongItemName>
-		<szItemDesc>FrackTac has steel layer bonded to a compressed Dyneema backing, with a linex coating for spall reduction, resulting in a total plate thickness of approximately 25 mm.</szItemDesc>
+		<szItemDesc>FrackTac combines a steel layer bonded to a compressed Dyneema backing and then a coating of Line-X polymer that constrains bullet fragmentation, reducing energy and damage.</szItemDesc>
 		<szBRName>FrackTac Body Armor</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -73949,7 +73951,7 @@
 		<szItemName>Night Spy</szItemName>
 		<szLongItemName>Sight - Night Spy</szLongItemName>
 		<szItemDesc>A compact monocular night vision device.</szItemDesc>
-		<szBRName>Sight - Night Spy</szBRName>
+		<szBRName>Night Spy sight</szBRName>
 		<szBRDesc>A compact monocular night vision device.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -73987,7 +73989,7 @@
 		<szItemName>Spotting Scope</szItemName>
 		<szLongItemName>Sight - 30x60 Spotting Scope</szLongItemName>
 		<szItemDesc>The perfect Scope for the spotter of your sniper team.</szItemDesc>
-		<szBRName>Sight - 30x60 Spotting Scope</szBRName>
+		<szBRName>30x60 Spotting Scope</szBRName>
 		<szBRDesc>The perfect Scope for the spotter of your sniper team.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentPoint>4398046511104</AttachmentPoint>	<!-- Scopes - Acog 4x -->
@@ -74098,7 +74100,7 @@
 	<ITEM>
 		<uiIndex>2818</uiIndex>
 		<szItemName>BORS</szItemName>
-		<szLongItemName>Barrett Optical Ranging Sysystem</szLongItemName>
+		<szLongItemName>Barrett Optical Ranging System</szLongItemName>
 		<szItemDesc>An advanced ballistic target computer that can be attached to certain long range sniper rifles. The computer built into the BORS, constantly updates to account for changing factors.  The BORS "instantly takes care of the data work so the shooter can focus on the task of putting lead on target."</szItemDesc>
 		<szBRName>Barrett Optical Ranging Sysystem</szBRName>
 		<szBRDesc>The BORS constantly updates to account for changing factors. Barrett states that the BORS "instantly takes care of the data work so the shooter can focus on the task of putting lead on target." It takes data from thousands of tables and accounts for a number of real-time external factors automatically giving the shooter the exact yardage at which a bullet will hit its target.</szBRDesc>
@@ -77234,9 +77236,9 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 	<ITEM>
 		<uiIndex>2921</uiIndex>
 		<szItemName>mod. BORS</szItemName>
-		<szLongItemName>mod. Barrett Optical Ranging Sysystem</szLongItemName>
+		<szLongItemName>mod. Barrett Optical Ranging System</szLongItemName>
 		<szItemDesc>An advanced ballistic target computer that can be attached to certain long range sniper rifles. This one has been modified to permanently stick to a gun. Since the BORS is mounted directly to the scope and coupled with the elevation knobs, the computer can interact with the scope by simply turning the elevation knob until the LCD displays the targetтАЩs range.</szItemDesc>
-		<szBRName>mod. Barrett Optical Ranging Sysystem</szBRName>
+		<szBRName>mod. Barrett Optical Ranging System</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>131072</nasAttachmentClass>
@@ -77275,7 +77277,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 	<ITEM>
 		<uiIndex>2922</uiIndex>
 		<szItemName>S. 2x R.L</szItemName>
-		<szLongItemName>mod. Scope, 2x Reflex &amp; Laser</szLongItemName>
+		<szLongItemName>Scope, 2x Reflex &amp; Laser</szLongItemName>
 		<szItemDesc>A useful combination of small scope, Reddot LAM and Reflex Sight. Great if you need to save attachment slots.</szItemDesc>
 		<szBRName>mod. Scope, 2x Reflex &amp; Laser</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
