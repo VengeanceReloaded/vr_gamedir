@@ -852,6 +852,7 @@
 		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>	<!-- Muzzle - AR Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<ubClassIndex>17</ubClassIndex>		
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>17</ubGraphicNum>
@@ -10178,7 +10179,7 @@
 		<uiIndex>344</uiIndex>
 		<szItemName>MP5SD5</szItemName>
 		<szLongItemName>HK MP5SD5</szLongItemName>
-		<szItemDesc>A suppressed version of the H&amp;amp;K MP5 with integral suppressed and fixed stock of A4 version.</szItemDesc>
+		<szItemDesc>A suppressed version of the H&amp;amp;K MP5 with integral suppressor and a fixed stock from the A4 version.</szItemDesc>
 		<szBRName>HK MP5SD5</szBRName>
 		<szBRDesc>Special forces worldwide can't be wrong! This suppressed version of the MP5 has the fixed stock of the A4 and the same outstanding build quality.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -54987,7 +54988,7 @@
 		<uiIndex>2005</uiIndex>
 		<szItemName>SKS Tactical</szItemName>
 		<szLongItemName>SKS Tactical</szLongItemName>
-		<szItemDesc>This converted SKS version accepts the bigger AK style magazines, and more importantly a wider range of attachments. It's a bit heavier than a regular SKS and might be a bit harder to repair.</szItemDesc>
+		<szItemDesc>This modernised SKS accepts the bigger AK style magazines, and more importantly a wider range of attachments. It's a bit heavier than a regular SKS and might be a bit harder to repair.</szItemDesc>
 		<szBRName>SKS Tactical</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -55002,6 +55003,7 @@
 		<AvailableAttachmentPoint>137438953472</AvailableAttachmentPoint>	<!-- Stock - Retractable, Shock -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
 		<AvailableAttachmentPoint>35184372088832</AvailableAttachmentPoint>	<!-- Scopes - PSO-1 -->
@@ -61112,15 +61114,16 @@
 		<uiIndex>2149</uiIndex>
 		<szItemName>SKS PU</szItemName>
 		<szLongItemName>SKS PU</szLongItemName>
-		<szItemDesc>This extremely common semi-automatic carbine weapon has seen action in almost every Communist country in the world. This 7.62x39mm carbine was mass produced numbering 15,000,000 to this day. Great for hunting everything from animals to man.</szItemDesc>
+		<szItemDesc>The popularity and price of the SKS has seen many modifications; this one uses a repro PU scope for added accuracy.</szItemDesc>
 		<szBRName>SKS</szBRName>
-		<szBRDesc>The Simonov self-loading SKS automatic rifle has a simple design and is easy to operate. Developed during WWII, it was later distributed to most Warsaw Pact members. Its only weak spot: it's a little heavy for its cartridge.</szBRDesc>
+		<szBRDesc>The SKS semi-automatic carbine has proven a fine choice for enthusiasts and hunters and adding a PU scope is a popular modification. Buy ours with a quality repro scope already fitted, no drilling or assembly required.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
 		<AvailableAttachmentPoint>128</AvailableAttachmentPoint>	<!-- UB - AK Bayonet -->
 		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>	<!-- Muzzle - AR Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>1125899906842624</AvailableAttachmentPoint>	<!-- Scopes - PU -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<DefaultAttachment>2131</DefaultAttachment>
