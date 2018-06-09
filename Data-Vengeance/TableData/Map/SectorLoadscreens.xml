@@ -809,7 +809,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szDay>Loadscreens\LS_Bol_river</szDay>
 		<szNight>Loadscreens\LS_Swampedge_dusk</szNight>
 		<szDayAlt>Loadscreens\LS_Arulco_troop</szDayAlt>
-		<szNightAlt>Loadscreens\LS_Bol_river</szNightAlt>
+		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>79</uiIndex>
@@ -850,7 +850,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szDay>Loadscreens\LS_Beach</szDay>
 		<szNight>Loadscreens\LS_Dusk_vista</szNight>
 		<szDayAlt>Loadscreens\LS_Dusk_coastline</szDayAlt>
-		<szNightAlt>Loadscreens\LS_Dusk_vista</szNightAlt>
+		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>83</uiIndex>
@@ -919,8 +919,8 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Class_wrecked</szDay>
 		<szNight>Loadscreens\LS_NightTown2</szNight>
-		<szDayAlt>Loadscreens\LS_Class_wrecked</szDayAlt>
-		<szNightAlt>Loadscreens\LS_NightTown1</szNightAlt>
+		<szDayAlt></szDayAlt>
+		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>90</uiIndex>
@@ -970,7 +970,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szDay>Loadscreens\LS_Small_bridge</szDay>
 		<szNight>Loadscreens\LS_NightWild</szNight>
 		<szDayAlt>Loadscreens\LS_Badass</szDayAlt>
-		<szNightAlt>Loadscreens\LS_NightWild</szNightAlt>
+		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>95</uiIndex>
@@ -999,9 +999,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Decay_int</szDay>
-		<szNight>Loadscreens\LS_NightTown2</szNight>
-		<szDayAlt>Loadscreens\LS_DayTown1</szDayAlt>
-		<szNightAlt>Loadscreens\LS_NightTown1</szNightAlt>
+		<szNight>Loadscreens\LS_Coast_dusk</szNight>
+		<szDayAlt></szDayAlt>
+		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>98</uiIndex>
