@@ -79760,7 +79760,8 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>374</ubGraphicNum>
 		<ubWeight>10</ubWeight>
-		<ItemSize>20</ItemSize>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>21</ItemSize>
 		<usPrice>500</usPrice>
 		<ubCoolness>9</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
