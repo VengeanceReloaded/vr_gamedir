@@ -24026,7 +24026,7 @@
 		<szLongItemName>KAC SR-47</szLongItemName>
 		<szItemDesc>Developed for Special Forces to enable using battlefield pick-up magazines, this gun is essentially a M4 chambered for 7.62x39mm.</szItemDesc>
 		<szBRName>KAC SR-47</szBRName>
-		<szBRDesc>If the Russians make some of their guns in NATO calibers, we can do it the other way around. Developed for tunnel-fighting and using AK-47 magazines, this 7.62x39mm M4 variant comes with a sound suppressor. Only very few available..</szBRDesc>
+		<szBRDesc>If the Ruskies can make some of their guns in NATO calibers, we can do it the other way around. Developed for SEAL teams that can load AK-47 magazines, this M4 variant comes with a sound suppressor that will make you feel special, just don't ask where we got them from!</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>782</ubClassIndex>
@@ -24035,7 +24035,7 @@
 		<ubGraphicNum>291</ubGraphicNum>
 		<ubWeight>35</ubWeight>
 		<ItemSize>6</ItemSize>
-		<usPrice>1640</usPrice>
+		<usPrice>2640</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bReliability>-1</bReliability>
 		<Damageable>1</Damageable>
