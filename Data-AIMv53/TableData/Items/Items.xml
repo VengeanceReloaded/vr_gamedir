@@ -57864,6 +57864,7 @@
 		<szBRDesc>The Browning Automatic Rifle was designed by the famous American arms designer John Moses Browning late in the First World War, on the request from US Expeditionary corps in Europe. Comes with a bipod.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2074</ubClassIndex>
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
