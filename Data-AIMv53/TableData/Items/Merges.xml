@@ -4450,14 +4450,6 @@
 		<APCost>80</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2857</firstItemIndex>
-		<secondItemIndex>2437</secondItemIndex>
-		<firstResultingItemIndex>2438</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>50</APCost>
-	</MERGE>
-	<MERGE>
 		<firstItemIndex>2839</firstItemIndex>
 		<secondItemIndex>1189</secondItemIndex>
 		<firstResultingItemIndex>2438</firstResultingItemIndex>
