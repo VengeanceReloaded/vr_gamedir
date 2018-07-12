@@ -61124,17 +61124,16 @@
 		<AvailableAttachmentPoint>128</AvailableAttachmentPoint>	<!-- UB - AK Bayonet -->
 		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>	<!-- Muzzle - AR Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
-		<AvailableAttachmentPoint>1125899906842624</AvailableAttachmentPoint>	<!-- Scopes - PU -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<DefaultAttachment>2131</DefaultAttachment>
+		<DefaultAttachment>2859</DefaultAttachment>
 		<ubClassIndex>2149</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>686</ubGraphicNum>
-		<ubWeight>39</ubWeight>
+		<ubWeight>43</ubWeight>
 		<ItemSize>8</ItemSize>
-		<usPrice>870</usPrice>
+		<usPrice>1100</usPrice>
 		<ubCoolness>4</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>-1</bRepairEase>
@@ -61145,8 +61144,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<DefaultAttachment>2859</DefaultAttachment>
-		<NotBuyable>1</NotBuyable>
 		<BR_ROF>24</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
