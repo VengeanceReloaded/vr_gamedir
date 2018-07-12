@@ -18015,8 +18015,8 @@
 	<WEAPON>
 		<uiIndex>2139</uiIndex>
 		<szWeaponName>Taurus CT-30</szWeaponName>
-		<ubWeaponClass>2</ubWeaponClass>
-		<ubWeaponType>3</ubWeaponType>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>45</ubCalibre>
 		<ubReadyTime>6</ubReadyTime>
 		<ubShotsPer4Turns>15.8</ubShotsPer4Turns>
@@ -18345,8 +18345,8 @@
 	<WEAPON>
 		<uiIndex>2148</uiIndex>
 		<szWeaponName>Taurus CT-40</szWeaponName>
-		<ubWeaponClass>2</ubWeaponClass>
-		<ubWeaponType>3</ubWeaponType>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>23</ubCalibre>
 		<ubReadyTime>7</ubReadyTime>
 		<ubShotsPer4Turns>13.4</ubShotsPer4Turns>
@@ -18388,12 +18388,12 @@
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>10</ubCalibre>
-		<ubReadyTime>17</ubReadyTime>
+		<ubReadyTime>18</ubReadyTime>
 		<ubShotsPer4Turns>12.11</ubShotsPer4Turns>
 		<ubBulletSpeed>22</ubBulletSpeed>
 		<ubImpact>33</ubImpact>
 		<ubDeadliness>22</ubDeadliness>
-		<bAccuracy>3</bAccuracy>
+		<bAccuracy>4</bAccuracy>
 		<ubMagSize>10</ubMagSize>
 		<usRange>375</usRange>
 		<usReloadDelay>200</usReloadDelay>
@@ -18409,7 +18409,7 @@
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
 		<ManualReloadSound>575</ManualReloadSound>
-		<nAccuracy>68</nAccuracy>
+		<nAccuracy>70</nAccuracy>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>17</Handling>
 		<usOverheatingJamThreshold>40000</usOverheatingJamThreshold>
@@ -18422,7 +18422,7 @@
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>14</ubShotsPer4Turns>
 		<ubImpact>17</ubImpact>
-		<ubDeadliness>5</ubDeadliness>
+		<ubDeadliness>6</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
