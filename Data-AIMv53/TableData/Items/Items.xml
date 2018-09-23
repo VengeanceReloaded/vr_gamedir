@@ -6346,7 +6346,7 @@
 		<szLongItemName>Locksmith Kit</szLongItemName>
 		<szItemDesc>This top-grain cowhide leather zipped case offers expert lockpicking tools including: picks, shims, tension wrenches, warded master keys, a broken key extractor, and a palm-key press.</szItemDesc>
 		<szBRName>Locksmith Kit</szBRName>
-		<szBRDesc>The perfect solution for getting behind locked doors and into security safes. This kit offers expert lockpicking tools, including: picks, shims, tension wrenches, warded master keys, a broken key extractor, and a palm-key press, all in a top-grain cowhide leather zipped case.</szBRDesc>
+		<szBRDesc>The perfect solution for getting past locked doors and into security safes. This kit offers expert lockpicking tools, including: picks, shims, tension wrenches, warded master keys, a broken key extractor, and a palm-key press, all in a top-grain cowhide leather zipped case.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -6676,7 +6676,7 @@
 		<szLongItemName>Canteen</szLongItemName>
 		<szItemDesc>This polyethylene canteen is extremely practical. Whenever you encounter a fresh mountain spring, you can refill it again. If only there was a way to remove that plastic after-taste.</szItemDesc>
 		<szBRName>Canteen</szBRName>
-		<szBRDesc>Any sensible mercenary would carry such a useful item with them. This water-filled polyethylene canteen is refillable and reusable so be sure to have one nearby.</szBRDesc>
+		<szBRDesc>Quench your thirst in the field with ease with this water-filled polyethylene canteen. Hardy, refillable and reusable, be sure to have one nearby.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -6703,7 +6703,7 @@
 		<szLongItemName>Metal Detector</szLongItemName>
 		<szItemDesc>This is an extremely light and powerful transistorized metal detector with aural signalization. All the user has to do is have it on his person and an alarm sounds when metal is detected.</szItemDesc>
 		<szBRName>Metal Detector</szBRName>
-		<szBRDesc>This hand-held metal detector is extremely powerful-it'll find more than just coins on the beach. It is a lightweight transistorized metal detector with aural signalization that is used most effectively by explosive detection operatives.</szBRDesc>
+		<szBRDesc>This hand-held transistorized metal detector is extremely powerful, it'll find more than just coins on the beach. Lightweight and featuring aural signalization it is used most effectively by explosive detection operatives.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -31123,9 +31123,9 @@
 		<uiIndex>995</uiIndex>
 		<szItemName>40mm Illumination</szItemName>
 		<szLongItemName>40mm Illumination Grenade</szLongItemName>
-		<szItemDesc>An illumination grenade for nightfighting.</szItemDesc>
+		<szItemDesc>An illumination grenade for night fighting.</szItemDesc>
 		<szBRName>40mm Illumination  Grenade</szBRName>
-		<szBRDesc>The M583A1 illumination grenade.provides battlefield illumination from most 40mm grenade launchers. Longer range and more candlepower than a breaklight!</szBRDesc>
+		<szBRDesc>The M583A1 illumination grenade will light up the battlefield from most 40mm grenade launchers. Longer range and more candlepower than a breaklight!</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
@@ -32268,7 +32268,7 @@
 		<szLongItemName>Small Scope, 2x</szLongItemName>
 		<szItemDesc>This type of scope is often found built-in on modern assault rifles, though it will fit a revolver, shotgun, or SMG as well.</szItemDesc>
 		<szBRName>Small Scope, Mag.2x</szBRName>
-		<szBRDesc>A small scope for mounting onto shortranged guns like revolvers or shotguns. Optional mounts for a few autoloaders available. Usable as a replacement for damaged assault rifle optics.</szBRDesc>
+		<szBRDesc>A small scope for mounting onto short-ranged guns like revolvers or shotguns. Optional mounts for a few autoloaders available. Usable as a replacement for damaged assault rifle optics.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>16</AttachmentClass>
 		<nasAttachmentClass>16</nasAttachmentClass>
@@ -46924,9 +46924,9 @@
 		<uiIndex>1545</uiIndex>
 		<szItemName>MRE</szItemName>
 		<szLongItemName>MRE</szLongItemName>
-		<szItemDesc>An individual food ration in use with the US military.</szItemDesc>
+		<szItemDesc>Meal, Ready-to-Eat is an individual food ration in use by the US military when cooking facilities are not available in the field.</szItemDesc>
 		<szBRName>MRE</szBRName>
-		<szBRDesc>If its good for the US army, it better be good enough for you.</szBRDesc>
+		<szBRDesc>With each meal providing approximately 1200 calories and a minimum shelf-life of three years there is no excuse for keeping your team hungry or your preppers hoard understocked. Menus available on request, some choices are limited and subject to availability.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -48820,9 +48820,9 @@
 		<uiIndex>1616</uiIndex>
 		<szItemName>Light green shirt</szItemName>
 		<szLongItemName>Light green shirt</szLongItemName>
-		<szItemDesc>Made from cheap plastic cotton. Itch and sweat like never before with this elastic non-breathing t-shirt. Might aswell wear a plastic bag.</szItemDesc>
+		<szItemDesc>Made from cheap Nylon cloth, your troops will itch and sweat like never before with this elastic non-breathing tee. You might as well wear a plastic bag.</szItemDesc>
 		<szBRName>Light green shirt</szBRName>
-		<szBRDesc>Made from cheap plastic cotton. Itch and sweat like never before with this elastic non-breathing t-shirt. Might aswell wear a plastic bag.</szBRDesc>
+		<szBRDesc>Made from cost-effective nylon, our green shirts have great wear resistance and can handle excessive temperatures. Colour shades may vary.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -59094,7 +59094,7 @@
 		<szLongItemName>Puma .454</szLongItemName>
 		<szItemDesc>This Brazilian Winchester clone uses .454 Casull rounds. This big bore rifle is exactly the right gun to hunt big bears or elephants.</szItemDesc>
 		<szBRName>Puma .454</szBRName>
-		<szBRDesc>An old time buffalo hunter's dream, or possibly the salvation of the old pioneer, trapper, or Indian War solder. This is a 300 - 500 yard brush gun, holds 8 rounds of a near magnum rifle cartridge. </szBRDesc>
+		<szBRDesc>An old time buffalo hunter's dream, or possibly the salvation of the old pioneer, trapper, or Indian War soldier. This is a 300 - 500 yard brush gun, holds 8 rounds of magnum rifle cartridge. </szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2105</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
@@ -60691,9 +60691,9 @@
 		<uiIndex>2142</uiIndex>
 		<szItemName>Hi-Standard HD</szItemName>
 		<szLongItemName>Hi-Standard HD</szLongItemName>
-		<szItemDesc>An American classic, the High Standard HD has been used to train generations of soldiers and competition shooters.</szItemDesc>
+		<szItemDesc>An American classic, the High Standard HD has been used to train generations of soldiers and competition shooters for years.</szItemDesc>
 		<szBRName>Hi-Standard HDM</szBRName>
-		<szBRDesc>An American classic, the High Standard HD has been used to train generations of soldiers and competition shooters.</szBRDesc>
+		<szBRDesc>A favorite amongst the CIA, this .22 semi automatic is ideal to nullify close range targets with little fuss.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2142</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>	<!-- Laser - Small -->
@@ -66562,7 +66562,7 @@
 		<szLongItemName>M25A2 Riot Grenade</szLongItemName>
 		<szItemDesc>This small grenade releases tactical dispersion gas that reeks havoc on exposed eyes and skin.</szItemDesc>
 		<szBRName>M25A2 Riot Grenade</szBRName>
-		<szBRDesc>This small tear gas grenade is pretty useful if you need to clear rooms of vermin.</szBRDesc>
+		<szBRDesc>This eight ounce tear gas grenade is pretty useful if you need to clear a room of vermin.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>159</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -66773,9 +66773,9 @@
 		<uiIndex>2443</uiIndex>
 		<szItemName>40mm Shell Illumination</szItemName>
 		<szLongItemName>40mm Shell Illumination</szLongItemName>
-		<szItemDesc>Whether you use them for target practice or for a real operatrion, these 40mm shells are the right choice, when you need to light up a large area.</szItemDesc>
+		<szItemDesc>Whether you use them for target practice or for a real operation, these 40mm shells are the right choice when you need to light up a large area.</szItemDesc>
 		<szBRName>40mm Shell Illumination</szBRName>
-		<szBRDesc>Whether you use them for target practice or for a real operatrion, these 40mm shells are the right choice, when you need to light up a large area.</szBRDesc>
+		<szBRDesc>Whether you use them for target practice or for a real operation, these 40mm shells are the right choice when you need to light up a large area.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
