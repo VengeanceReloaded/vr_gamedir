@@ -24780,9 +24780,9 @@
 		<uiIndex>801</uiIndex>
 		<szItemName>Dyn. Helmet</szItemName>
 		<szLongItemName>Dyneema Helmet</szLongItemName>
-		<szItemDesc>Dyneema UD full composite helmets provide the highest degree of protection at less weight than alternative materials, against both flying shrapnel and bullets.</szItemDesc>
+		<szItemDesc>"BOOM! Headshot!" Who cares? With this helmet you are protected from bullets and you'll still score with the ladies.</szItemDesc>
 		<szBRName>Dyneema Helmet</szBRName>
-		<szBRDesc>"BOOM! Headshot!" Who cares? With this helmet you are protected from bullets and you'll still score with the ladies.</szBRDesc>
+		<szBRDesc>Dyneema UD full composite helmets provide the highest degree of protection at less weight than alternative materials, against both flying shrapnel and bullets.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -24815,9 +24815,9 @@
 		<uiIndex>802</uiIndex>
 		<szItemName>Dyn. Pants</szItemName>
 		<szLongItemName>Dyneema Leggings</szLongItemName>
-		<szItemDesc>Produced under license by several companies, Dyneema fabric is 40 percent stronger than Kevlar.</szItemDesc>
+		<szItemDesc>Some wearers describe Dyneema fabric leggings as uncomfortable; however, stopping a bullet with one's unprotected groin would be considerably less enjoyable.</szItemDesc>
 		<szBRName>Dyneema Leggings</szBRName>
-		<szBRDesc>Some wearers describe Dyneema fabric leggings as uncomfortable; however, stopping a bullet with one's unprotected groin would be considerably less enjoyable.</szBRDesc>
+		<szBRDesc>Produced under license by several companies, Dyneema fabric is 40 percent stronger than Kevlar.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>56</ubClassIndex>
@@ -24846,9 +24846,9 @@
 		<uiIndex>803</uiIndex>
 		<szItemName>Dyn. Vest</szItemName>
 		<szLongItemName>Dyneema Vest</szLongItemName>
-		<szItemDesc>Dyneema UD-based vests provide maximum protection at an extremely low weight. Together with the high flexibility of Dyneema UD, this translates into high wearing comfort for the individual user, ensuring that mercs actually wear them on duty.</szItemDesc>
+		<szItemDesc>Dyneema UD-based vests provide maximum protection at an extremely low weight. With its high flexibility translating into a comfortable fit this ensures that personnel actually wear them on duty.</szItemDesc>
 		<szBRName>Dyneema Vest</szBRName>
-		<szBRDesc>Very Light vest that still offers the protection of its Heavy counterparts. Don't leave home without one!</szBRDesc>
+		<szBRDesc>A very Light vest that still offers the protection of its Heavy counterparts. Don't leave home without one!</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>57</ubClassIndex>
