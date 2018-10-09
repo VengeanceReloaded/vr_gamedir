@@ -137,9 +137,9 @@ Changes do not require starting of a new game.
 		</CITY>
 		<CITY>
 			<uiIndex>8</uiIndex>
-			<townName>Palaccio</townName>
+			<townName>Palacio Island</townName>
 			<townUsesLoyalty>1</townUsesLoyalty>
-			<townRebelSentiment>45</townRebelSentiment>
+			<townRebelSentiment>5</townRebelSentiment>
 			<townMilitiaAllowed>1</townMilitiaAllowed>
 			<hiddenTown>1</hiddenTown>
 			<baseSector>
