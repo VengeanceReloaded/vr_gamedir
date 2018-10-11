@@ -384,7 +384,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>STUDENT_STRENGTH</ubAssignmentType>
-			<szTooltipText>Build up those biceps! Learn some STRENGTH training from musclebound member in your squad.</szTooltipText>
+			<szTooltipText>Build up those biceps! Learn some STRENGTH training from the musclebound member in your squad.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 		</ASSIGNMENT>
@@ -396,7 +396,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>TRAINER_AGILITY</ubAssignmentType>
-			<szTooltipText>Utilize this gym to provide some AGILITY training to the most awkward member of your squad.</szTooltipText>
+			<szTooltipText>Utilize this gym to provide some AGILITY training to the slowest member of your squad.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 			<CONDITIONS>
@@ -720,7 +720,7 @@
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>A race course with a repair station complete with tools and spare parts. This will certainly make any repair-work a little easier.</szTooltipText>
+			<szTooltipText>A race track with a repair station complete with tools and spare parts. This will certainly make any repair-work a little easier.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>130</usPerformance>
 			<usFatigue>90</usFatigue>
@@ -728,7 +728,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
-			<szTooltipText>A race course with a repair station complete with tools and spare parts. This will certainly make any repair-work easier, especially for vehicles.</szTooltipText>
+			<szTooltipText>A race track with a repair station complete with tools and spare parts is ideal for fixing-up your ride.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 			<usFatigue>90</usFatigue>
@@ -831,7 +831,7 @@
 		<szFacilityShortName>Diner</szFacilityShortName>
 		<ASSIGNMENT>
 			<ubAssignmentType>AMBIENT</ubAssignmentType>
-			<szTooltipText>Chow down on some good, old, greasy, soul, comfort food here -- and maybe a beer or two! If your Mercs decide to pig out they will spend their own money here.</szTooltipText>
+			<szTooltipText>Chow down on some good old, greasy, soul, comfort food here -- and maybe a beer or two! If your Mercs decide to pig out they will spend their own money here.</szTooltipText>
 			<usFatigue>75</usFatigue>
 			<DRUNK>
 				<ubChance>9</ubChance>
@@ -1026,7 +1026,7 @@
 	<FACILITYTYPE>
 		<ubIndex>42</ubIndex>
 		<szFacilityName>University Ruins</szFacilityName>
-		<szFacilityShortName>U-Ruins</szFacilityShortName>
+		<szFacilityShortName>Uni-Ruins</szFacilityShortName>
 		<ASSIGNMENT>
 			<ubAssignmentType>AMBIENT</ubAssignmentType>
 			<szTooltipText>The Queen doesn't want an educated citizenry -- on this site the teachers and students of the National University of Arulco were massacred, and the university grounds looted and bombed. At least there's a few good walls and roofs to keep off the rain and wind.</szTooltipText>
@@ -1126,7 +1126,7 @@
 		<ubTotalStaffLimit>9</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
-			<szTooltipText>Have a drink at the local nightclub! It might help you out in this town, for a price, but then again . . . it might not be safe to get drunk here.</szTooltipText>
+			<szTooltipText>Have a drink at the local nightclub. It might help you out in this town, for a price, but then again . . . it might not be safe to get drunk here.</szTooltipText>
 			<ubStaffLimit>8</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<sCostPerHour>35</sCostPerHour>
@@ -1171,7 +1171,7 @@
 		<szFacilityShortName>Toxic</szFacilityShortName>  
 		<ASSIGNMENT> 
 			<ubAssignmentType>AMBIENT</ubAssignmentType>
-			<szTooltipText>The oil and poisonous waste chemicals that coat everything here are not exactly healthy . . . the smell in the air actually makes you feel queasy, and it is hard to breathe.</szTooltipText>  
+			<szTooltipText>The oil and poisonous waste chemicals that coat everything here are not exactly healthy . . . the smell in the air actually makes you feel quesy, and it is hard to breathe.</szTooltipText>  
 			<usFatigue>150</usFatigue>
 			<usSleep>50</usSleep>
 			<MORALE>
@@ -1207,7 +1207,7 @@
 		<ubTotalStaffLimit>4</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>Waldo's airport workshop has many of the tools necessary for all types of repair work!</szTooltipText>
+			<szTooltipText>Waldo's airport workshop has many of the tools necessary for all types of repair work.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>140</usPerformance>
 			<usFatigue>86</usFatigue>
@@ -1215,7 +1215,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
-			<szTooltipText>Waldo's airport workshop has many of the tools necessary for all types of repair work, including repairing vehicles!</szTooltipText>
+			<szTooltipText>Waldo's airport workshop has many of the tools necessary for all types of repair work, including repairing vehicles.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 			<usFatigue>86</usFatigue>
@@ -1223,7 +1223,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>Waldo's airport workshop has many of the tools necessary for all types of repair work, including repairing robots!</szTooltipText>
+			<szTooltipText>Waldo's airport workshop has many of the tools necessary for all types of repair work, including repairing robots.!</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>166</usPerformance>
 			<usFatigue>86</usFatigue>
@@ -1263,7 +1263,7 @@
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>The military warehouse here also has tools and spare parts for the repair of all types of military hardware, and will make your repairs easier.</szTooltipText>
+			<szTooltipText>The military warehouse here also has tools and spare parts for the repair of all types of military hardware, making your repairs easier.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<usKitDegrade>25</usKitDegrade>
@@ -1402,7 +1402,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
-			<szTooltipText>This corporate transport center makes vehicle repiar a dream job!</szTooltipText>
+			<szTooltipText>This corporate transport center makes vehicle repairs a whole lot more easier.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>160</usPerformance>
 			<usFatigue>50</usFatigue>
@@ -1410,7 +1410,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>This place is a great source of quality odds and ends. This will certainly make robot repair-work considerably easier.</szTooltipText>
+			<szTooltipText>This place is a great source of quality odds and ends. This will make robot repair-work considerably easier.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>186</usPerformance>
 			<usFatigue>80</usFatigue>
@@ -1516,7 +1516,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
-			<szTooltipText>Use the equipment here to focus on increasing your Strength.</szTooltipText>
+			<szTooltipText>Use the equipment here to focus on increasing your STRENGTH.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>133</usPerformance>
 		</ASSIGNMENT>
@@ -1531,7 +1531,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>STUDENT_STRENGTH</ubAssignmentType>
-			<szTooltipText>Build up those biceps! Learn some STRENGTH training from musclebound member in your squad.</szTooltipText>
+			<szTooltipText>Build up those biceps! Learn some STRENGTH training from a musclebound member in your squad.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 		</ASSIGNMENT>
@@ -1555,7 +1555,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>The Dam workshop has many of the tools necessary for all types of repair work!</szTooltipText>
+			<szTooltipText>The Dam workshop has many of the tools necessary for all types of repair work.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<usFatigue>75</usFatigue>
@@ -1563,7 +1563,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
-			<szTooltipText>The Dam workshop has many of the tools necessary for all types of repair work, including repairing vehicles!</szTooltipText>
+			<szTooltipText>The Dam workshop has many of the tools necessary for all types of repair work, including repairing vehicles.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 			<usFatigue>75</usFatigue>
@@ -1571,7 +1571,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>The Dam workshop has many of the tools necessary for all types of repair work, including repairing robots!</szTooltipText>
+			<szTooltipText>The Dam workshop has many of the tools necessary for all types of repair work, including repairing robots.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>175</usPerformance>
 			<usFatigue>75</usFatigue>
