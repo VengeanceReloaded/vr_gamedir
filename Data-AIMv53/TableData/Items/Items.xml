@@ -6608,7 +6608,7 @@
 		<szLongItemName>Ballistic Combat Goggles</szLongItemName>
 		<szItemDesc>A favorite of U.S. Special Forces these ESS Ballistic combat goggles have a series of vast improvements including extra-thick 2.8mm polycarbonate lenses which offer maximum impact protection and 100 percent UVA/UVB filtration.</szItemDesc>
 		<szBRName>Ballistic Combat Goggles</szBRName>
-		<szBRDesc>Favored by U.S. Special Forces groups, these ESS Ballistic goggles are better and tougher than ever. These designs feature vast improvements such as extra-thick polycarbonate lenses offering maximum protection and filtering 100 percent of UVA/UVB rays.</szBRDesc>
+		<szBRDesc>Favored by U.S. Special Forces groups, these ESS Ballistic goggles are better and tougher than ever. These designs feature vast improvements such as extra-thick polycarbonate lenses offering maximum protection and filtering 100%%%% of UVA/UVB rays.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>2251799813685248</AttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -25002,11 +25002,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>807</uiIndex>
-		<szItemName>Ghillie Helmet</szItemName>
+		<szItemName>Ghillie Hood</szItemName>
 		<szLongItemName>Ghillie Hood</szLongItemName>
-		<szItemDesc>Either as a companion to the Ghillie suit or on its own, the Ghillie Hood camouflages your most important piece of equipment: your head.</szItemDesc>
+		<szItemDesc>Either as a companion to the ghillie suit or on its own, the ghillie hood camouflages your most important piece of equipment: your head.</szItemDesc>
 		<szBRName>Ghillie Hood</szBRName>
-		<szBRDesc>The finishing touch for your ghillie suit. Also usefull to keep the sun out of your eyes and as mosquito net.</szBRDesc>
+		<szBRDesc>The finishing touch for your ghillie suit. Also usefull to keep the sun out of your eyes and act as a mosquito net.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
