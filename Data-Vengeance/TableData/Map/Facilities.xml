@@ -553,7 +553,7 @@
 		<ubHidden>2</ubHidden>
 	</FACILITY>
 
-	<!-- GRUMM -->
+	<!-- DORAN -->
 	<FACILITY>
 		<SectorGrid>G1</SectorGrid>
 		<FacilityType>18</FacilityType>
@@ -631,6 +631,11 @@
 	</FACILITY>
 	<FACILITY>
 		<SectorGrid>H3</SectorGrid>
+		<FacilityType>18</FacilityType>
+		<ubHidden>2</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>I3</SectorGrid>
 		<FacilityType>18</FacilityType>
 		<ubHidden>2</ubHidden>
 	</FACILITY>
