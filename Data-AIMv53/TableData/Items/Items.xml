@@ -17238,7 +17238,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
@@ -17612,7 +17612,9 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<BigGunList>1</BigGunList>
+		<BigGunList>1</BigGunList>		
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
@@ -17635,8 +17637,7 @@
 		<uiIndex>616</uiIndex>
 		<szItemName>AN-94</szItemName>
 		<szLongItemName>AN-94 "Abakan"</szLongItemName>
-		<szItemDesc>This weapon was designed by Gennadiy Nikonov. Another leap forward in gun making, you can be sure to see it soon on a hijacked airliner near you.
-		</szItemDesc>
+		<szItemDesc>This weapon was designed by Gennadiy Nikonov. Another leap forward in gun making, you can be sure to see it soon on a hijacked airliner near you.</szItemDesc>
 		<szBRName>AN-94 "Abakan"</szBRName>
 		<szBRDesc>The new AN-94 Abakan design enables the gun to "pulse", firing a very fast two bullet burst before the recoil affects the user.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -17832,7 +17833,7 @@
 		<szLongItemName>Benelli M4 Super 90</szLongItemName>
 		<szItemDesc>The M4 is a high quality, very versatile shotgun, and is very popular as a police weapon, and as a civilian weapon for self defense.</szItemDesc>
 		<szBRName>Benelli M4 Super 90</szBRName>
-		<szBRDesc>The M4 uses an inertia recoil semi-automatic system which allows to the shooter to lock the semi-automatic action and switch to the manually operated pump-action mode and back in the matter of seconds.</szBRDesc>
+		<szBRDesc>The M4 uses an inertia recoil semi-automatic system which allows to the shooter to lock the semi-automatic action and switch to manually operated pump-action mode and back in a matter of seconds.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>621</ubClassIndex>
@@ -18115,6 +18116,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -18132,7 +18135,7 @@
 		<uiIndex>629</uiIndex>
 		<szItemName>Modelo C</szItemName>
 		<szLongItemName>CETME Modelo C</szLongItemName>
-		<szItemDesc>Not a lot of people know it but Modelo rifle was the foundation of HK's G3. It's a dependable 7.62mm NATO Spanish Assault rifle.</szItemDesc>
+		<szItemDesc>Not a lot of people know it but the Modelo rifle was the foundation of HK's G3. It's a dependable 7.62mm NATO Spanish Assault rifle.</szItemDesc>
 		<szBRName>CETME Modelo C</szBRName>
 		<szBRDesc>The H&amp;K line of rifles got their design and license from the CETME model, which speaks volumes about its performance.</szBRDesc>
 		<usItemClass>2</usItemClass>
