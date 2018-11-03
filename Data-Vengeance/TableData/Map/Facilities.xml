@@ -570,6 +570,11 @@
 		<ubHidden>1</ubHidden>
 	</FACILITY>
 	<FACILITY>
+		<SectorGrid>G3</SectorGrid>
+		<FacilityType>50</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
 		<SectorGrid>H1</SectorGrid>
 		<FacilityType>18</FacilityType>
 		<ubHidden>2</ubHidden>
@@ -620,11 +625,6 @@
 		<ubHidden>2</ubHidden>
 	</FACILITY>
 	<FACILITY>
-		<SectorGrid>G3</SectorGrid>
-		<FacilityType>50</FacilityType>
-		<ubHidden>1</ubHidden>
-	</FACILITY>
-	<FACILITY>
 		<SectorGrid>H3</SectorGrid>
 		<FacilityType>2</FacilityType>
 		<ubHidden>1</ubHidden>
@@ -632,6 +632,11 @@
 	<FACILITY>
 		<SectorGrid>H3</SectorGrid>
 		<FacilityType>18</FacilityType>
+		<ubHidden>2</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>H3</SectorGrid>
+		<FacilityType>34</FacilityType>
 		<ubHidden>2</ubHidden>
 	</FACILITY>
 	<FACILITY>
@@ -645,9 +650,9 @@
 		<ubHidden>0</ubHidden>
 	</FACILITY>
 	<FACILITY>
-		<SectorGrid>H3</SectorGrid>
-		<FacilityType>34</FacilityType>
-		<ubHidden>2</ubHidden>
+		<SectorGrid>J3</SectorGrid>
+		<FacilityType>12</FacilityType>
+		<ubHidden>0</ubHidden>
 	</FACILITY>
 
 	<!-- TIXA -->
