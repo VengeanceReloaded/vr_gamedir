@@ -350,7 +350,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>TRAINER_HEALTH</ubAssignmentType>
-			<szTooltipText>Utilize this gym to it's best potential to provide some HEALTH training to the scrawniest member of your squad.</szTooltipText>
+			<szTooltipText>Utilize this gym to its best potential to provide some HEALTH training to the scrawniest member of your squad.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 			<CONDITIONS>
@@ -1371,7 +1371,7 @@
 
 	<FACILITYTYPE>
 		<ubIndex>53</ubIndex>
-		<szFacilityName>HB Distro Ctr</szFacilityName>
+		<szFacilityName>H and B Distribution Ctr</szFacilityName>
 		<szFacilityShortName>HB Distro</szFacilityShortName>
 		<ubTotalStaffLimit>20</ubTotalStaffLimit>
 		<ASSIGNMENT>
@@ -1410,7 +1410,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>This place is a great source of quality odds and ends. This will make robot repair-work considerably easier.</szTooltipText>
+			<szTooltipText>This place is a great source of quality attachments and fittings. This will make robot repair-work considerably easier.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>186</usPerformance>
 			<usFatigue>80</usFatigue>
@@ -1437,7 +1437,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_MECHANICAL</ubAssignmentType>
-			<szTooltipText>Waldo's knowledge and service manuals are a great way to increase your own mechanical knowledge. Having long discussions with Waldo can be a little slow and frustrating, though.</szTooltipText>
+			<szTooltipText>The distribution center has its fair share of technical documentation and literature providing good theory material to brush up on your skills.</szTooltipText>
 			<ubStaffLimit>4</ubStaffLimit>
 			<usPerformance>125</usPerformance>
 		</ASSIGNMENT>
@@ -1450,8 +1450,32 @@
 				<ubMinimumWisdom>40</ubMinimumWisdom>
 				<ubMinimumLeadership>20</ubMinimumLeadership>
 			</CONDITIONS>
+		</ASSIGNMENT>	
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>Join the roustabouts and roughnecks to shoot the shit and sink a cold one at the works bar. Get your fill and getting pally with the locals may increase town loyalty, as long as you avoid the bar fights.</szTooltipText>
+			<ubStaffLimit>4</ubStaffLimit>
+			<usPerformance>150</usPerformance>
+			<sCostPerHour>15</sCostPerHour>
+			<CONDITIONS>
+			</CONDITIONS>
+			<MORALE>
+				<usChance>700</usChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>15</ubRange>
+			</MORALE>
+			<LOYALTY_LOCAL>
+				<ubChance>40</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</LOYALTY_LOCAL>
+			<DRUNK>
+				<ubChance>13</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>1</ubRange>
+			</DRUNK>
 		</ASSIGNMENT>
-	</FACILITYTYPE>
+		</FACILITYTYPE>
 
 	<FACILITYTYPE>
 		<ubIndex>54</ubIndex>
@@ -1471,7 +1495,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
-			<szTooltipText>There are plenty of beds here, even if it is missing a few walls! Must be a dry place to sleep here.</szTooltipText>
+			<szTooltipText>There are plenty of beds here, even if it is missing a few walls! You just need to provide the mosquito nets.</szTooltipText>
 			<ubStaffLimit>10</ubStaffLimit>
 			<usPerformance>120</usPerformance>
 			<usSleep>130</usSleep>
@@ -1571,7 +1595,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>The Dam workshop has many of the tools necessary for all types of repair work, including repairing robots.</szTooltipText>
+			<szTooltipText>The Dam workshop has many of the tools necessary for all types of repair work, even robots.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>175</usPerformance>
 			<usFatigue>75</usFatigue>
@@ -1598,9 +1622,35 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_MECHANICAL</ubAssignmentType>
-			<szTooltipText>Waldo's knowledge and service manuals are a great way to increase your own mechanical knowledge. Having long discussions with Waldo can be a little slow and frustrating, though.</szTooltipText>
+			<szTooltipText>The dam facility has a wealth of technical literature and service manuals that provide a good source of info to brush up on your mechanical and engineering skills.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>125</usPerformance>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
+	
+		<FACILITYTYPE>
+		<ubIndex>56</ubIndex>
+		<szFacilityName>Church</szFacilityName>
+		<szFacilityShortName>Church</szFacilityShortName>
+		<ubTotalStaffLimit>1</ubTotalStaffLimit>	
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>Whether you are religious or not, there's something to be said about spending a quiet moment of contemplation in the peaceful confines of an old church.</szTooltipText>
+			<ubStaffLimit>12</ubStaffLimit>
+			<usPerformance>130</usPerformance>
+			<CONDITIONS>
+			</CONDITIONS>
+			<MORALE>
+				<ubChance>200</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>10</ubRange>
+			</MORALE>
+			<LOYALTY_LOCAL>
+				<ubChance>50</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</LOYALTY_LOCAL>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
 </FACILITYTYPES>
