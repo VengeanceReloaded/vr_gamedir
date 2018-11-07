@@ -1632,7 +1632,7 @@
 		<ubIndex>56</ubIndex>
 		<szFacilityName>Church</szFacilityName>
 		<szFacilityShortName>Church</szFacilityShortName>
-		<ubTotalStaffLimit>1</ubTotalStaffLimit>	
+		<ubTotalStaffLimit>12</ubTotalStaffLimit>	
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
 			<szTooltipText>Whether you are religious or not, there's something to be said about spending a quiet moment of contemplation in the peaceful confines of an old church.</szTooltipText>
