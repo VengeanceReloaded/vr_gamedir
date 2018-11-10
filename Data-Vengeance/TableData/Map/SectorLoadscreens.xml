@@ -1370,10 +1370,10 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>I6</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayTown2</szDay>
-		<szNight>Loadscreens\LS_NightTown2</szNight>
-		<szDayAlt>Loadscreens\LS_DayTown1</szDayAlt>
-		<szNightAlt>Loadscreens\LS_NightTown1</szNightAlt>
+		<szDay>Loadscreens\LS_Wreckers</szDay>
+		<szNight>Loadscreens\LS_Nighttown</szNight>
+		<szDayAlt></szDayAlt>
+		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>135</uiIndex>
