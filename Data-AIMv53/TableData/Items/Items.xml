@@ -6506,7 +6506,7 @@
 		<szLongItemName>Bipod</szLongItemName>
 		<szItemDesc>The universal bipod fits most sniper and assault rifles, as well as light machine guns. Made from a die-cast aluminum, it has a coated matte finish. Its legs fold up when not in use for easy storage.</szItemDesc>
 		<szBRName>Bipod</szBRName>
-		<szBRDesc>Every sensible mercenary packs one of these universal bipods. It fits most sniper and assault rifles, as well as light machine guns. Made from a die-cast aluminum, it has a coated matte finish. Its legs fold up when not in use, for easy storage.</szBRDesc>
+		<szBRDesc>For ulitmate field accuracy don't forget to pack one of these universal bipods for most of your sniper, assault rifle or LMG. These aluminum and high carbon steel, matte finished items have height adjustment and spring loaded legs which fold up when not in use.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>1</AttachmentClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
@@ -65705,7 +65705,7 @@
 		<uiIndex>2408</uiIndex>
 		<szItemName>RGN Grenade</szItemName>
 		<szLongItemName>RGN Offensive Grenade</szLongItemName>
-		<szItemDesc>Small and compact Russian offensive mini grenade. Very lethal in a very limited area of effect.</szItemDesc>
+		<szItemDesc>A small and compact Russian offensive mini grenade. Very lethal in a very limited area of effect.</szItemDesc>
 		<szBRName>RGN Offensive Grenade</szBRName>
 		<szBRDesc>The hard to get RGN hand grenade (Ruchnaya Granata Oboronitel'naya) is an offensive Russian fragmentation hand grenade. The grenade shell consists of two internally serrated aluminium hemispheres. The fragments produced by the grenade generate a lethal radius of between 5 and 20 meters</szBRDesc>
 		<usItemClass>256</usItemClass>
@@ -65870,7 +65870,7 @@
 		<uiIndex>2413</uiIndex>
 		<szItemName>MK3A2 Grenade</szItemName>
 		<szLongItemName>MK3A2 Offensive Grenade</szLongItemName>
-		<szItemDesc>Very effective hand grenade with a limited area of effect.</szItemDesc>
+		<szItemDesc>This concussion grenade creates more powerful shockwaves in an enclosed area than a traditional fragmentation device with a limited area of effect.</szItemDesc>
 		<szBRName>MK3A2 Offensive Grenade</szBRName>
 		<szBRDesc>The MK3A2 offensive hand grenade is a concussion grenade designed to produce casualties during close combat while minimizing danger to friendly personnel.</szBRDesc>
 		<usItemClass>256</usItemClass>
@@ -65904,7 +65904,7 @@
 		<szLongItemName>40mm VOG Smoke Grenade</szLongItemName>
 		<szItemDesc>A smoke grenade for Russian 40mm grenade launchers.</szItemDesc>
 		<szBRName>40mm VOG Smoke Grenade</szBRName>
-		<szBRDesc>A smoke grenade for Russian 40mm grenade launchers.</szBRDesc>
+		<szBRDesc>A smoke grenade for Russian 40mm grenade launchers and is effective both against visual and infrared devices.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
 		<ubClassIndex>137</ubClassIndex>
