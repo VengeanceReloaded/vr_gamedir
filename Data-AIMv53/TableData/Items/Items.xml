@@ -5688,7 +5688,7 @@
 		<szLongItemName>Ceramic Plates</szLongItemName>
 		<szItemDesc>These hard ceramic plates can be inserted into the front and back of most vests to provide extra protection by dispersing the impact from most standard ammunition loads.</szItemDesc>
 		<szBRName>Ceramic Plates</szBRName>
-		<szBRDesc>Any mercenary that wants to come out alive, never leaves home without a few of these plates. Made from a hard ceramic composite, they can be inserted into the breast plate of most vests to improve their impenetrability.</szBRDesc>
+		<szBRDesc>Never leave home without one. Made from a hard ceramic composite, these can be inserted into the breast plate of most vests to improve their impenetrability. One size fits all.Beyond this amazing power and performance, the Desert Eagle has many unique features not seen in traditional semi-automatics. For instance, the pistol is gas operated, not recoil operated.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -15498,9 +15498,9 @@
 		<uiIndex>547</uiIndex>
 		<szItemName>.50 AE Mag AP</szItemName>
 		<szLongItemName>.50 Action Express Mag, AP</szLongItemName>
-		<szItemDesc>If you're going to use a overpriced, impractical and unreliable handgun instead of a perfectly good rifle, you'll need ammunition for it.</szItemDesc>
+		<szItemDesc>If you're going to use an overpriced, impractical and unreliable handgun instead of a perfectly good rifle, you'll need ammunition for it.</szItemDesc>
 		<szBRName>.50 Action Express Mag AP</szBRName>
-		<szBRDesc>Magazine size, accuracy and controlability are a fair trade off for stopping power and coolness, right?  Because if you're going to use a overpriced, impractical and unreliable handgun instead of a perfectly good rifle, you'll need ammunition for it.</szBRDesc>
+		<szBRDesc>Magazine size, accuracy and controlability are a fair trade off for stopping power and coolness, right? Still legally the largest caliber for domestic use under the national firearms act.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>580</ubClassIndex>
@@ -18467,7 +18467,7 @@
 		<szLongItemName>Desert Eagle .50 AE</szLongItemName>
 		<szItemDesc>In 1991, the Desert Eagle earned overnight notoriety when this .50 Action Express variant was revealed. This is the definition of a handcannon.</szItemDesc>
 		<szBRName>Desert Eagle .50 AE</szBRName>
-		<szBRDesc>In 1991, the Desert Eagle earned overnight notoriety when this .50 AE variant was revealed.  Massive firepower in a massive pistol.</szBRDesc>
+		<szBRDesc>Beyond amazing power and performance, the Desert Eagle has many unique features not seen in traditional semi-automatics. Gas operated, not recoil operated.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>638</ubClassIndex>
@@ -37717,9 +37717,9 @@
 		<uiIndex>1192</uiIndex>
 		<szItemName>Automag V</szItemName>
 		<szLongItemName>Automag V</szLongItemName>
-		<szItemDesc>This Automag is chambered for the .50 AE caliber.</szItemDesc>
+		<szItemDesc>This powerful Automag is chambered for the .50 AE caliber.</szItemDesc>
 		<szBRName>Automag V</szBRName>
-		<szBRDesc>The .50 Action Express version of Galena's line of Automag pistols.</szBRDesc>
+		<szBRDesc>We still have some of these potent .50 Action Express versions of Automag pistol available, courtesy of Galena industries.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1192</ubClassIndex>
@@ -45634,9 +45634,9 @@
 		<uiIndex>1498</uiIndex>
 		<szItemName>.50 AE Box AP</szItemName>
 		<szLongItemName>.50 Action Express Box, AP</szLongItemName>
-		<szItemDesc>If you're going to use a overpriced, impractical and unreliable handgun instead of a perfectly good rifle, you'll need ammunition for it.</szItemDesc>
+		<szItemDesc>If you're going to use an overpriced, impractical and unreliable handgun instead of a perfectly good rifle, you'll need ammunition for it.</szItemDesc>
 		<szBRName>.50 Action Express Box AP</szBRName>
-		<szBRDesc>If you're going to use a overpriced, impractical and unreliable handgun instead of a perfectly good rifle, you'll need ammunition for it.</szBRDesc>
+		<szBRDesc>50 armor piercing rounds for your Desert Eagle or other equally stupendously powered handgun.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>582</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -65470,7 +65470,7 @@
 		<uiIndex>2401</uiIndex>
 		<szItemName>Molotov Bomb</szItemName>
 		<szLongItemName>Molotov Bomb</szLongItemName>
-		<szItemDesc>A red hot 60mm surprise for your enemies, home made of course. You better take cover for this one and be ready for barbecue!</szItemDesc>
+		<szItemDesc>A red hot 60mm surprise for your enemies, home made of course. You better take cover for this one and be ready for a barbecue!</szItemDesc>
 		<szBRName>Molotov Bomb</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
@@ -65667,8 +65667,8 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2407</uiIndex>
-		<szItemName>V 40 Mini Grenade</szItemName>
-		<szLongItemName>V 40 Mini Fragmentation Grenade</szLongItemName>
+		<szItemName>V40 Mini Grenade</szItemName>
+		<szLongItemName>V40 Mini Fragmentation Grenade</szLongItemName>
 		<szItemDesc>A very small and reliable fragmentation grenade. The V40 fragmentation grenade was manufactured in the Netherlands, and was in service in the Canadian Forces and the US Armed Forces. "They see me rollin' THEY RUNNIN'!"</szItemDesc>
 		<szBRName>V 40 Mini Fragmentation Grenade</szBRName>
 		<szBRDesc>The V40 is a very light, spherical shaped grenade approximately the size of a golf-ball and due to its size considerable quantities of this grenade can be carried. You won't find a smaller hand grenade in our stock.</szBRDesc>
@@ -68205,9 +68205,9 @@
 		<uiIndex>2516</uiIndex>
 		<szItemName>Camo Pants</szItemName>
 		<szLongItemName>Camo Pants</szLongItemName>
-		<szItemDesc>These camo pants are a must for any serious mercenary.</szItemDesc>
+		<szItemDesc>A budget pair of pants manufactured by the lowest bidder. You'll need more than a pair of these to survive your time in Arulco.</szItemDesc>
 		<szBRName>Camo Pants</szBRName>
-		<szBRDesc>These camo pants are a must for any serious mercenary.</szBRDesc>
+		<szBRDesc>These sturdy and comfortable trousers feature Velcro pouches for knee pad inserts, two forward-tilted cargo pockets with elastic drawstring and two calf storage pockets.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>214</ubClassIndex>
 		<ubGraphicType>4</ubGraphicType>
@@ -75769,13 +75769,13 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>Barrel Kit - Upper Beowulf</szLongItemName>
 		<szItemDesc>This heavy upper receiver converts an M4A1 carbine into the .50 Beowulf rifle.</szItemDesc>
 		<szBRName>B. K. - Upper Beowulf</szBRName>
-		<szBRDesc>This heavy upper receiver converts an M4A1 carbine into the .50 Beowulf rifle.</szBRDesc>
+		<szBRDesc>For those good with tools this kit has all you need to convert your existing M4A1 carbine into a .50 Beowulf rifle.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>507</ubGraphicNum>
 		<ubWeight>24</ubWeight>
 		<ItemSize>24</ItemSize>
-		<usPrice>2400</usPrice>
+		<usPrice>1430</usPrice>
 		<ubCoolness>6</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
