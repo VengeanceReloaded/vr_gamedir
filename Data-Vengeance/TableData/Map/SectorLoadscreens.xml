@@ -195,7 +195,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Burnoff</szDay>
 		<szNight>Loadscreens\LS_NightOilrig</szNight>
-		<szDayAlt></szDayAlt>
+		<szDayAlt>Loadscreens\LS_Riggers</szDayAlt>
 		<szNightAlt></szNightAlt>		
 	</SECTOR>
 	<SECTOR>
@@ -1340,9 +1340,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>I3</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Burnoff</szDay>
+		<szDay>Loadscreens\LS_Riggers</szDay>
 		<szNight>Loadscreens\LS_NightOilrig</szNight>
-		<szDayAlt></szDayAlt>
+		<szDayAlt>Loadscreens\LS_Burnoff</szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
