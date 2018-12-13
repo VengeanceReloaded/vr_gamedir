@@ -37,7 +37,7 @@ Strings containing combinations of % characters are special format characters to
   <TEXT>
 	<!-- HISTORY_SETTLED_ACCOUNTS_AT_MERC -->
 	<uiIndex>4</uiIndex>
-    <sHistory>Settled Accounts at M.E.R.C.</sHistory>
+    <sHistory>Settled accounts at M.E.R.C.</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_ACCEPTED_ASSIGNMENT_FROM_ENRICO -->
@@ -47,22 +47,22 @@ Strings containing combinations of % characters are special format characters to
   <TEXT>
 	<!-- HISTORY_CHARACTER_GENERATED -->
 	<uiIndex>6</uiIndex>
-    <sHistory>IMP Profile Generated</sHistory>
+    <sHistory>IMP profile generated</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_PURCHASED_INSURANCE -->
 	<uiIndex>7</uiIndex>
-    <sHistory>Purchased Insurance Contract for %s.</sHistory>
+    <sHistory>Purchased insurance contract for %s.</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_CANCELLED_INSURANCE -->
 	<uiIndex>8</uiIndex>
-    <sHistory>Canceled Insurance Contract for %s.</sHistory>
+    <sHistory>Canceled insurance contract for %s.</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_INSURANCE_CLAIM_PAYOUT -->
 	<uiIndex>9</uiIndex>
-    <sHistory>Insurance Claim Payout for %s.</sHistory>
+    <sHistory>Insurance claim payout for %s.</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_EXTENDED_CONTRACT_1_DAY -->
@@ -102,7 +102,7 @@ Strings containing combinations of % characters are special format characters to
   <TEXT>
 	<!-- HISTORY_TALKED_TO_MINER -->
 	<uiIndex>17</uiIndex>
-    <sHistory>Talked to head miner of %s</sHistory>
+    <sHistory>Talked to foreman of %s</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_LIBERATED_TOWN -->
@@ -257,7 +257,7 @@ Strings containing combinations of % characters are special format characters to
   <TEXT>
 	<!-- HISTORY_SAM -->
 	<uiIndex>48</uiIndex>
-    <sHistory>Met Sam of Malino - runs a hardware shop.</sHistory>
+    <sHistory>Met Sam - runs a hardware shop in Malino.</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_FRANZ -->
@@ -417,7 +417,7 @@ Strings containing combinations of % characters are special format characters to
   <TEXT>
 	<!-- HISTORY_ENRICO -->
 	<uiIndex>80</uiIndex>
-    <sHistory>Saved Enrico Chivaldori in Melino Palace.</sHistory>
+    <sHistory>Saved Enrico Chivaldori in Malino Palace.</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_TRACONA_ACCESS -->
@@ -427,6 +427,6 @@ Strings containing combinations of % characters are special format characters to
     <TEXT>
 	<!-- HISTORY_SCUD_ACCESS -->
 	<uiIndex>82</uiIndex>
-    <sHistory>Gained SCUD support for planned Mela base attack.</sHistory>
+    <sHistory>Gained SCUD support for planned Alma base attack.</sHistory>
   </TEXT> 
 </STRINGS>
