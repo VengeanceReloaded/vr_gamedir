@@ -5688,7 +5688,7 @@
 		<szLongItemName>Ceramic Plates</szLongItemName>
 		<szItemDesc>These hard ceramic plates can be inserted into the front and back of most vests to provide extra protection by dispersing the impact from most standard ammunition loads.</szItemDesc>
 		<szBRName>Ceramic Plates</szBRName>
-		<szBRDesc>Never leave home without one. Made from a hard ceramic composite, these can be inserted into the breast plate of most vests to improve their impenetrability. One size fits all.Beyond this amazing power and performance, the Desert Eagle has many unique features not seen in traditional semi-automatics. For instance, the pistol is gas operated, not recoil operated.</szBRDesc>
+		<szBRDesc>Never leave home without one. Made from a hard ceramic composite, these can be inserted into the breast plate of most vests to improve their impenetrability.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -8248,7 +8248,7 @@
 		<szLongItemName>Black Cap</szLongItemName>
 		<szItemDesc>A black commando-type tuque.</szItemDesc>
 		<szBRName>Black Cap</szBRName>
-		<szBRDesc>On Sale: 1/2 Price!  For a limited time only, you can purchase this fine Commando Tuque, made from the finest cotton, for 50 percent off!</szBRDesc>
+		<szBRDesc>On Sale: 1/2 Price!  For a limited time only, you can purchase this fine Commando Tuque, made from the finest cotton, for 50%%%% off!</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>38</ubClassIndex>
