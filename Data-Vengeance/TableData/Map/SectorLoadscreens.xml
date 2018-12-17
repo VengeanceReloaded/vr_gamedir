@@ -191,17 +191,17 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 	<SECTOR>
 		<uiIndex>17</uiIndex>
 		<szLocation>B1</szLocation>
-		<RandomAltSector>0</RandomAltSector>
+		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Burnoff</szDay>
 		<szNight>Loadscreens\LS_NightOilrig</szNight>
 		<szDayAlt>Loadscreens\LS_Riggers</szDayAlt>
-		<szNightAlt>LS_H&B_Night</szNightAlt>		
+		<szNightAlt>Loadscreens\LS_HB_Night</szNightAlt>		
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>18</uiIndex>
 		<szLocation>B2</szLocation>
-		<RandomAltSector>0</RandomAltSector>
+		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Bamboo_village</szDay>
 		<szNight>Loadscreens\LS_NightChitzena</szNight>
@@ -543,7 +543,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 	<SECTOR>
 		<uiIndex>52</uiIndex>
 		<szLocation>D4</szLocation>
-		<RandomAltSector>0</RandomAltSector>
+		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Valleywall</szDay>
 		<szNight>Loadscreens\LS_Dusk_vista</szNight>
@@ -583,7 +583,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 	<SECTOR>
 		<uiIndex>56</uiIndex>
 		<szLocation>D8</szLocation>
-		<RandomAltSector>0</RandomAltSector>
+		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Arulco_troop</szDay>
 		<szNight>Loadscreens\LS_NightForest</szNight>
@@ -928,7 +928,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_DayF10</szDay>
-		<szNight>Loadscreens\LS_H&B_Night</szNight>
+		<szNight>Loadscreens\LS_HB_Night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -1338,17 +1338,17 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 	<SECTOR>
 		<uiIndex>131</uiIndex>
 		<szLocation>I3</szLocation>
-		<RandomAltSector>0</RandomAltSector>
+		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Riggers</szDay>
 		<szNight>Loadscreens\LS_NightOilrig</szNight>
 		<szDayAlt>Loadscreens\LS_Burnoff</szDayAlt>
-		<szNightAlt>LS_H&B_Night</szNightAlt>
+		<szNightAlt>Loadscreens\LS_HB_Night</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>132</uiIndex>
 		<szLocation>I4</szLocation>
-		<RandomAltSector>0</RandomAltSector>
+		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Sun_on_water</szDay>
 		<szNight>Loadscreens\LS_NightForest</szNight>
