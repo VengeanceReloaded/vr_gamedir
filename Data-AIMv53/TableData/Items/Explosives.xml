@@ -110,7 +110,7 @@
 		<ubFragDamage>3</ubFragDamage>
 		<ubFragRange>40</ubFragRange>
 		<ubHorizontalDegree>0</ubHorizontalDegree>
-		<ubVerticalDegree>0</ubVerticalDegree>
+		<ubVerticalDegree>5</ubVerticalDegree>
 		<bIndoorModifier>0.00</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>	<!-- Mk2 Grenade -->
@@ -131,7 +131,7 @@
 		<ubFragDamage>4</ubFragDamage>
 		<ubFragRange>60</ubFragRange>
 		<ubHorizontalDegree>0</ubHorizontalDegree>
-		<ubVerticalDegree>0</ubVerticalDegree>
+		<ubVerticalDegree>5</ubVerticalDegree>
 		<bIndoorModifier>0.00</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>	<!-- RDX -->
@@ -1349,7 +1349,7 @@
 		<ubFragDamage>6</ubFragDamage>
 		<ubFragRange>80</ubFragRange>
 		<ubHorizontalDegree>359</ubHorizontalDegree>
-		<ubVerticalDegree>30</ubVerticalDegree>
+		<ubVerticalDegree>15</ubVerticalDegree>
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>	<!-- 40mm Thermobaric Cylinder -->
@@ -2987,7 +2987,7 @@
 		<ubFragDamage>12</ubFragDamage>
 		<ubFragRange>60</ubFragRange>
 		<ubHorizontalDegree>359</ubHorizontalDegree>
-		<ubVerticalDegree>30</ubVerticalDegree>
+		<ubVerticalDegree>15</ubVerticalDegree>
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>	<!-- BLU-43 Mine -->
