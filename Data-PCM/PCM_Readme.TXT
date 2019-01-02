@@ -1,6 +1,6 @@
 "Playable Characters Mod" (PCM) for Vengeance-1.13 Reloaded (English Test-File composed by Scheinworld)
 
-(last updated 15.01.2017)
+(last updated 02.01.2019)
 
 Original idea and concept by Smilingassassin aka "The_Scorpion"
 
@@ -59,9 +59,11 @@ Known Bugs / personal experience:
 
 Type 4 mercs like Skyrider, Carmen, John & Mary should not be used for talking/interacting with other RPC's/NPC's!
 
-Try to avoid using the characters Perko or TNT for interactions with NPCs, as certain actions like NPC's handing over an item (like Carmen's disk) cause the game to crash.
+Try to avoid using the characters Perko or TNT for interactions with NPC's, as certain actions like NPC's handing over an item (like Carmen's disk) cause the game to crash.
 
 Don't try to use the new RPC Maria DaSilva to assist Dick for the recruitment of Babyface or you'll get an endless stop watch.
+
+RPC's like Babyface can't take item from Mary (or other NPC's, crashes game)
 
 No more bugs are known, if you find them - report them!
 
