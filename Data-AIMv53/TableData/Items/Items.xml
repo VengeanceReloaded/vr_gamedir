@@ -57472,7 +57472,7 @@
 		<szLongItemName>AEK-973S</szLongItemName>
 		<szItemDesc>This Russian MOD manufactured AK variant fires 7.62mm WP rounds. It's very light, but somehow hard to control in autofire mode.</szItemDesc>
 		<szBRName>AEK-973S</szBRName>
-		<szBRDesc>Dircect from Russia's ministry of defense, this AK variant provides modern improvements to the classic AK rifle platform in both performance and weight.</szBRDesc>
+		<szBRDesc>Direct from Russia's ministry of defense, this AK variant provides modern improvements to the classic AK rifle platform in both performance and weight.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2065</ubClassIndex>
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>	<!-- Laser - LAM -->
@@ -65934,9 +65934,9 @@
 		<uiIndex>2415</uiIndex>
 		<szItemName>40mm VOG Tear Gas Grenade</szItemName>
 		<szLongItemName>40mm VOG Tear Gas Grenade</szLongItemName>
-		<szItemDesc>A teargas grenade for Russian 40mm grenade launchers.</szItemDesc>
+		<szItemDesc>A non-lethal tear gas grenade for Russian 40mm grenade launchers.</szItemDesc>
 		<szBRName>40mm VOG Tear Gas Grenade</szBRName>
-		<szBRDesc>A teargas grenade for Russian 40mm grenade launchers.</szBRDesc>
+		<szBRDesc>Check out our tear gas grenades suitable for Russian 40mm grenade launchers, when you need to disable targets without killing them.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
 		<ubClassIndex>138</ubClassIndex>
@@ -66684,7 +66684,7 @@
 		<uiIndex>2440</uiIndex>
 		<szItemName>Tear Gas Mine</szItemName>
 		<szLongItemName>Tear Gas Mine</szLongItemName>
-		<szItemDesc>A homemade teargas mine that only needs a detonator.</szItemDesc>
+		<szItemDesc>A homemade tear gas mine that only needs a detonator.</szItemDesc>
 		<szBRName>Tear Gas Mine</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
@@ -67994,7 +67994,7 @@
 		<szLongItemName>Desert Camo Pants</szLongItemName>
 		<szItemDesc>Uniform pants with a basic desert camo pattern.</szItemDesc>
 		<szBRName>Desert Camo Pants</szBRName>
-		<szBRDesc>Uniform pants with a basic desert camo pattern.</szBRDesc>
+		<szBRDesc>These sturdily constructed pants include adjustable waist tabs for a secure fit. Featuring six pockets, reinforced seat and knees, and drawstring leg closures in a classic three-color desert camo pattern.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>206</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
