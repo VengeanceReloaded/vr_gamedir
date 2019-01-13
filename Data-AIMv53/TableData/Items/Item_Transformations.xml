@@ -869,6 +869,176 @@
                 <szMenuRowText>Tear apart</szMenuRowText>
                 <szTooltipText>Tear into two pieces of cloth.</szTooltipText>
         </TRANSFORM>
+		<TRANSFORM>
+                <usItem>2502</usItem>
+                <usResult1>1022</usResult1>
+                <usResult2>1022</usResult2>
+                <usResult3>0</usResult3>
+                <usResult4>0</usResult4>
+                <usResult5>0</usResult5>
+                <usResult6>0</usResult6>
+                <usResult7>0</usResult7>
+                <usResult8>0</usResult8>
+                <usResult9>0</usResult9>
+                <usResult10>0</usResult10>
+                <usAPCost>40</usAPCost>
+                <iBPCost>20</iBPCost>
+                <szMenuRowText>Tear apart</szMenuRowText>
+                <szTooltipText>Rip into two pieces of cloth.</szTooltipText>
+        </TRANSFORM>
+		<TRANSFORM>
+                <usItem>2503</usItem>
+                <usResult1>1022</usResult1>
+                <usResult2>1022</usResult2>
+                <usResult3>1022</usResult3>
+                <usResult4>0</usResult4>
+                <usResult5>0</usResult5>
+                <usResult6>0</usResult6>
+                <usResult7>0</usResult7>
+                <usResult8>0</usResult8>
+                <usResult9>0</usResult9>
+                <usResult10>0</usResult10>
+                <usAPCost>40</usAPCost>
+                <iBPCost>20</iBPCost>
+                <szMenuRowText>Tear apart</szMenuRowText>
+                <szTooltipText>Rip into three pieces of cloth.</szTooltipText>
+        </TRANSFORM>
+		<TRANSFORM>
+                <usItem>2505</usItem>
+                <usResult1>1022</usResult1>
+                <usResult2>1022</usResult2>
+                <usResult3>0</usResult3>
+                <usResult4>0</usResult4>
+                <usResult5>0</usResult5>
+                <usResult6>0</usResult6>
+                <usResult7>0</usResult7>
+                <usResult8>0</usResult8>
+                <usResult9>0</usResult9>
+                <usResult10>0</usResult10>
+                <usAPCost>40</usAPCost>
+                <iBPCost>20</iBPCost>
+                <szMenuRowText>Tear apart</szMenuRowText>
+                <szTooltipText>Rip into two pieces of cloth.</szTooltipText>
+        </TRANSFORM>
+				<TRANSFORM>
+                <usItem>2506</usItem>
+                <usResult1>1022</usResult1>
+                <usResult2>1022</usResult2>
+                <usResult3>1022</usResult3>
+                <usResult4>0</usResult4>
+                <usResult5>0</usResult5>
+                <usResult6>0</usResult6>
+                <usResult7>0</usResult7>
+                <usResult8>0</usResult8>
+                <usResult9>0</usResult9>
+                <usResult10>0</usResult10>
+                <usAPCost>40</usAPCost>
+                <iBPCost>20</iBPCost>
+                <szMenuRowText>Tear apart</szMenuRowText>
+                <szTooltipText>Rip into three pieces of cloth.</szTooltipText>
+        </TRANSFORM>
+		<TRANSFORM>
+                <usItem>2508</usItem>
+                <usResult1>1022</usResult1>
+                <usResult2>1022</usResult2>
+                <usResult3>0</usResult3>
+                <usResult4>0</usResult4>
+                <usResult5>0</usResult5>
+                <usResult6>0</usResult6>
+                <usResult7>0</usResult7>
+                <usResult8>0</usResult8>
+                <usResult9>0</usResult9>
+                <usResult10>0</usResult10>
+                <usAPCost>40</usAPCost>
+                <iBPCost>20</iBPCost>
+                <szMenuRowText>Tear apart</szMenuRowText>
+                <szTooltipText>Rip into two pieces of cloth.</szTooltipText>
+        </TRANSFORM>
+		<TRANSFORM>
+                <usItem>2509</usItem>
+                <usResult1>1022</usResult1>
+                <usResult2>1022</usResult2>
+                <usResult3>1022</usResult3>
+                <usResult4>0</usResult4>
+                <usResult5>0</usResult5>
+                <usResult6>0</usResult6>
+                <usResult7>0</usResult7>
+                <usResult8>0</usResult8>
+                <usResult9>0</usResult9>
+                <usResult10>0</usResult10>
+                <usAPCost>40</usAPCost>
+                <iBPCost>20</iBPCost>
+                <szMenuRowText>Tear apart</szMenuRowText>
+                <szTooltipText>Rip into three pieces of cloth.</szTooltipText>
+        </TRANSFORM>
+		<TRANSFORM>
+                <usItem>2511</usItem>
+                <usResult1>1022</usResult1>
+                <usResult2>1022</usResult2>
+                <usResult3>0</usResult3>
+                <usResult4>0</usResult4>
+                <usResult5>0</usResult5>
+                <usResult6>0</usResult6>
+                <usResult7>0</usResult7>
+                <usResult8>0</usResult8>
+                <usResult9>0</usResult9>
+                <usResult10>0</usResult10>
+                <usAPCost>40</usAPCost>
+                <iBPCost>20</iBPCost>
+                <szMenuRowText>Tear apart</szMenuRowText>
+                <szTooltipText>Tear into two pieces of cloth.</szTooltipText>
+        </TRANSFORM>
+		<TRANSFORM>
+                <usItem>2512</usItem>
+                <usResult1>1022</usResult1>
+                <usResult2>1022</usResult2>
+                <usResult3>1022</usResult3>
+                <usResult4>0</usResult4>
+                <usResult5>0</usResult5>
+                <usResult6>0</usResult6>
+                <usResult7>0</usResult7>
+                <usResult8>0</usResult8>
+                <usResult9>0</usResult9>
+                <usResult10>0</usResult10>
+                <usAPCost>40</usAPCost>
+                <iBPCost>20</iBPCost>
+                <szMenuRowText>Tear apart</szMenuRowText>
+                <szTooltipText>Rip into three pieces of cloth.</szTooltipText>
+        </TRANSFORM>
+		<TRANSFORM>
+                <usItem>2516</usItem>
+                <usResult1>1022</usResult1>
+                <usResult2>1022</usResult2>
+                <usResult3>0</usResult3>
+                <usResult4>0</usResult4>
+                <usResult5>0</usResult5>
+                <usResult6>0</usResult6>
+                <usResult7>0</usResult7>
+                <usResult8>0</usResult8>
+                <usResult9>0</usResult9>
+                <usResult10>0</usResult10>
+                <usAPCost>40</usAPCost>
+                <iBPCost>20</iBPCost>
+                <szMenuRowText>Tear apart</szMenuRowText>
+                <szTooltipText>Tear into two pieces of cloth.</szTooltipText>
+        </TRANSFORM>
+		<TRANSFORM>
+                <usItem>2517</usItem>
+                <usResult1>1022</usResult1>
+                <usResult2>1022</usResult2>
+                <usResult3>0</usResult3>
+                <usResult4>0</usResult4>
+                <usResult5>0</usResult5>
+                <usResult6>0</usResult6>
+                <usResult7>0</usResult7>
+                <usResult8>0</usResult8>
+                <usResult9>0</usResult9>
+                <usResult10>0</usResult10>
+                <usAPCost>40</usAPCost>
+                <iBPCost>20</iBPCost>
+                <szMenuRowText>Tear apart</szMenuRowText>
+                <szTooltipText>Tear into two pieces of cloth.</szTooltipText>
+        </TRANSFORM>
         <TRANSFORM>
                 <usItem>2518</usItem>
                 <usResult1>1022</usResult1>
