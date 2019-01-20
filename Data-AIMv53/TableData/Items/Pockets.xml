@@ -378,34 +378,26 @@
 		<pName>AR Mag x2</pName>
 		<pSilhouette>41</pSilhouette>
 		<pType>1</pType>
-		<pRestriction>268449544</pRestriction>
+		<pRestriction>1024</pRestriction>
 		<ItemCapacityPerSize10>4</ItemCapacityPerSize10>
 		<ItemCapacityPerSize11>2</ItemCapacityPerSize11>
 		<ItemCapacityPerSize12>4</ItemCapacityPerSize12>
 		<ItemCapacityPerSize13>2</ItemCapacityPerSize13>
-		<ItemCapacityPerSize14>0</ItemCapacityPerSize14>
-		<ItemCapacityPerSize15>2</ItemCapacityPerSize15>
-		<ItemCapacityPerSize16>3</ItemCapacityPerSize16>
-		<ItemCapacityPerSize18>1</ItemCapacityPerSize18>
+		<ItemCapacityPerSize16>4</ItemCapacityPerSize16>
 		<ItemCapacityPerSize20>2</ItemCapacityPerSize20>
-		<ItemCapacityPerSize21>1</ItemCapacityPerSize21>
 	</POCKET>
 	<POCKET>
 		<pIndex>24</pIndex>
 		<pName>AR Mag x3</pName>
 		<pSilhouette>42</pSilhouette>
 		<pType>1</pType>
-		<pRestriction>268449544</pRestriction>
+		<pRestriction>1024</pRestriction>
 		<ItemCapacityPerSize10>6</ItemCapacityPerSize10>
 		<ItemCapacityPerSize11>3</ItemCapacityPerSize11>
 		<ItemCapacityPerSize12>6</ItemCapacityPerSize12>
 		<ItemCapacityPerSize13>3</ItemCapacityPerSize13>
-		<ItemCapacityPerSize14>2</ItemCapacityPerSize14>
-		<ItemCapacityPerSize15>2</ItemCapacityPerSize15>
-		<ItemCapacityPerSize16>4</ItemCapacityPerSize16>
-		<ItemCapacityPerSize18>1</ItemCapacityPerSize18>
+		<ItemCapacityPerSize16>6</ItemCapacityPerSize16>
 		<ItemCapacityPerSize20>3</ItemCapacityPerSize20>
-		<ItemCapacityPerSize21>1</ItemCapacityPerSize21>	
 	</POCKET>
 	<POCKET>
 		<pIndex>25</pIndex>
@@ -825,29 +817,46 @@
 	<POCKET>
 		<pIndex>63</pIndex>
 		<pName>RPK Mag x1</pName>
-		<pSilhouette>18</pSilhouette>
-		<pRestriction>268437256</pRestriction>
+		<pSilhouette>62</pSilhouette>
 		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
 		<ItemCapacityPerSize12>2</ItemCapacityPerSize12>
 		<ItemCapacityPerSize13>1</ItemCapacityPerSize13>
-		<ItemCapacityPerSize15>0</ItemCapacityPerSize15>
-		<ItemCapacityPerSize16>2</ItemCapacityPerSize16>		
+		<ItemCapacityPerSize16>2</ItemCapacityPerSize16>
 		<ItemCapacityPerSize20>1</ItemCapacityPerSize20>
 		<ItemCapacityPerSize24>1</ItemCapacityPerSize24>
 	</POCKET>
 	<POCKET>
 		<pIndex>64</pIndex>
 		<pName>RPK Mag x2</pName>
-		<pSilhouette>41</pSilhouette>
+		<pSilhouette>63</pSilhouette>
 		<pType>1</pType>
-		<pRestriction>268437256</pRestriction>
+		<pRestriction>1024</pRestriction>
 		<ItemCapacityPerSize12>4</ItemCapacityPerSize12>
 		<ItemCapacityPerSize13>2</ItemCapacityPerSize13>
-		<ItemCapacityPerSize14>0</ItemCapacityPerSize14>
 		<ItemCapacityPerSize15>2</ItemCapacityPerSize15>
 		<ItemCapacityPerSize16>3</ItemCapacityPerSize16>
 		<ItemCapacityPerSize18>1</ItemCapacityPerSize18>
 		<ItemCapacityPerSize20>2</ItemCapacityPerSize20>
 		<ItemCapacityPerSize24>2</ItemCapacityPerSize24>
+	</POCKET>
+	<POCKET>
+		<pIndex>65</pIndex>
+		<pName>Grenade x3</pName>
+		<pSilhouette>60</pSilhouette>
+		<pType>2</pType>
+		<pRestriction>256</pRestriction>
+		<ItemCapacityPerSize13>3</ItemCapacityPerSize13>
+		<ItemCapacityPerSize14>3</ItemCapacityPerSize14>
+	</POCKET>
+	<POCKET>
+		<pIndex>66</pIndex>
+		<pName>Lg Grenade x3</pName>
+		<pSilhouette>61</pSilhouette>
+		<pType>2</pType>
+		<pRestriction>256</pRestriction>
+		<ItemCapacityPerSize13>6</ItemCapacityPerSize13>
+		<ItemCapacityPerSize14>3</ItemCapacityPerSize14>
+		<ItemCapacityPerSize18>3</ItemCapacityPerSize18>
 	</POCKET>
 </POCKETLIST>
