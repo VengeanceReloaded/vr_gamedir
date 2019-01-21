@@ -3467,7 +3467,7 @@
 		<szLongItemName>5.7x28mm Mag, 50 HP</szLongItemName>
 		<szItemDesc>These 50 rounds of 5.7mm hollow point ammunition have enhanced injury inflicting capabilities over the basic 5.7 and have retained most of its armor piercing capabilities.</szItemDesc>
 		<szBRName>5.7x28mm Mag 50 HP</szBRName>
-		<szBRDesc>Get the job done right the first time. You're kill-rate will be the best around if you use this 50-round magazine of 5.7mm Hollow Point ammunition. Your victim's chance at survival: roughly zero percent, give or take a few points.</szBRDesc>
+		<szBRDesc>Get the job done right the first time. You're kill-rate will be the best around if you use this 50-round magazine of 5.7mm Hollow Point ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>358</ubClassIndex>
@@ -6061,9 +6061,9 @@
 		<uiIndex>196</uiIndex>
 		<szItemName>Guardian Vest</szItemName>
 		<szLongItemName>Guardian Vest</szLongItemName>
-		<szItemDesc>This high quality ballistic vest is manufactured from 36 piles of Kevlar by Guardian Armories, Inc.  It is fully adjustable and has a pocket for a ceramic armor insert.</szItemDesc>
+		<szItemDesc>This high-quality ballistic vest is manufactured from 36 piles of Kevlar by Guardian Armories, Inc. It is fully adjustable and has a pocket for a ceramic armor insert.</szItemDesc>
 		<szBRName>Guardian Vest</szBRName>
-		<szBRDesc>This high quality ballistic vest is manufactured from 36 piles of Kevlar by Guardian Armories, Inc.  Also available in tuxedo style for those especially dangerous formal occasions.</szBRDesc>
+		<szBRDesc>This high-quality ballistic vest is manufactured from 36 piles of Kevlar by Guardian Armories, Inc. Also available in tuxedo style for those especially dangerous formal occasions.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>35</ubClassIndex>
@@ -8399,7 +8399,7 @@
 		<szLongItemName>Boonie Hat</szLongItemName>
 		<szItemDesc>Keep your head shaded from the sun when your helmet gets too hot. Provides limited camouflage.</szItemDesc>
 		<szBRName>Boonie Hat</szBRName>
-		<szBRDesc>As seen on TV!  This is the same hat that "Wild Bill" wore on the GI Joe Saturday morning cartoon.  Okay, so it's not the same hat.  But's its still a nice hat.</szBRDesc>
+		<szBRDesc>As seen on TV!  This is the same hat that "Wild Bill" wore on the GI Joe Saturday morning cartoon. Okay, so it's not the same hat.  But's its still a nice hat.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -24851,7 +24851,7 @@
 		<szLongItemName>Dyneema Vest</szLongItemName>
 		<szItemDesc>Dyneema UD-based vests provide maximum protection at an extremely low weight. With its high flexibility translating into a comfortable fit this ensures that personnel actually wear them on duty.</szItemDesc>
 		<szBRName>Dyneema Vest</szBRName>
-		<szBRDesc>A very Light vest that still offers the protection of its Heavy counterparts. Don't leave home without one!</szBRDesc>
+		<szBRDesc>A very light vest that still offers the same protection of its heavy counterparts. Provides comfortable protection against handguns, shrapnel and knives.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>57</ubClassIndex>
@@ -24892,7 +24892,7 @@
 		<uiIndex>804</uiIndex>
 		<szItemName>EOD Helmet</szItemName>
 		<szLongItemName>EOD Helmet</szLongItemName>
-		<szItemDesc>Currently in service throughout the world with Bomb Disposal Teams, the EOD Bomb Disposal Suit is a state-of-the-art garment specifically designed to give the highest level of protection with the maximum comfort and flexibility to the user.</szItemDesc>
+		<szItemDesc>Keep your head on your shoulders when dealing with highly volatile explosives. This EOD helmet is a state-of-the-art device when you need all the protection you can get.</szItemDesc>
 		<szBRName>EOD Helmet</szBRName>
 		<szBRDesc>The EOD helmet is a state-of-the-art garment specifically designed to give the highest level of protection with the maximum comfort and flexibility to the user.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -24928,9 +24928,9 @@
 		<uiIndex>805</uiIndex>
 		<szItemName>EOD Pants</szItemName>
 		<szLongItemName>EOD Leggings</szLongItemName>
-		<szItemDesc>Currently in service throughout the world with Bomb Disposal Teams, the EOD Bomb Disposal Suit is a state-of-the-art garment specifically designed to give the highest level of protection with the maximum comfort and flexibility to the user.</szItemDesc>
+		<szItemDesc>Whether you have a higly skilled explosives expert on your team or not, everyone working with volatile explosives prefers protecting their nether regions with the best armor money can buy.</szItemDesc>
 		<szBRName>EOD Leggings</szBRName>
-		<szBRDesc>Unless you have a higly skilled explosives expert on your team, or have shares in a wheelchair producing company, this piece is a must for every self respecting merc.</szBRDesc>
+		<szBRDesc>Currently in service throughout the world with Bomb Disposal Teams, the EOD Bomb Disposal Suit is a state-of-the-art garment specifically designed to give the highest level of protection with the maximum comfort and flexibility to the user.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>59</ubClassIndex>
@@ -24961,9 +24961,9 @@
 		<uiIndex>806</uiIndex>
 		<szItemName>EOD Vest</szItemName>
 		<szLongItemName>EOD Vest</szLongItemName>
-		<szItemDesc>Currently in service throughout the world with Bomb Disposal Teams, the PRO EOD Bomb Disposal Suit is a state-of-the-art garment specifically designed to give the highest level of protection with the maximum comfort and flexibility to the user.</szItemDesc>
+		<szItemDesc>Unless you have a higly skilled explosives expert on your team, or have shares in a bodybag producing company, this piece is a must for every self respecting merc.</szItemDesc>
 		<szBRName>EOD Vest</szBRName>
-		<szBRDesc>Unless you have a higly skilled explosives expert on your team, or have shares in a bodybag producing company, this piece is a must for every self respecting merc.</szBRDesc>
+		<szBRDesc>A must for bomb disposal teams, the PRO EOD vest is the main component of the Bomb Disposal Suit designed to give the highest level of protection when defusing enemy ordanance devices and other explosives.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>60</ubClassIndex>
@@ -31509,9 +31509,9 @@
 		<uiIndex>1005</uiIndex>
 		<szItemName>Insight LAM</szItemName>
 		<szLongItemName>Insight LAM</szLongItemName>
-		<szItemDesc>When a standard laser sight isn't enough, the LAM adds Infrared to increase nighttime visibility. This LAM is a aiming device incorporating a co-aligned infrared and visible aim laser as well as fixed focus infrared illuminator and white light illuminator.</szItemDesc>
+		<szItemDesc>When a standard laser sight isn't enough, the LAM adds Infrared to increase nighttime visibility. This LAM is an aiming device incorporating a co-aligned infrared and visible aim laser as well as fixed focus infrared illuminator and white light illuminator.</szItemDesc>
 		<szBRName>Insight LAM</szBRName>
-		<szBRDesc>When a standard laser sight isn't enough, the LAM adds Infrared to increase nighttime visibility. This LAM is a aiming device incorporating a co-aligned infrared and visible aim laser as well as fixed focus infrared illuminator and white light illuminator.</szBRDesc>
+		<szBRDesc>When a standard laser sight isn't enough, the LAM adds Infrared to increase visibility at night. This aiming device incorporates a co-aligned infrared, a visible aim laser, fixed focus infrared illuminator and a white light illuminator.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
@@ -34370,7 +34370,7 @@
 		<szLongItemName>Tactical Tailor 3-Day Pack</szLongItemName>
 		<szItemDesc>A combat pack with an extra pocket on the outside.</szItemDesc>
 		<szBRName>Tactical Tailor 3-Day Pack</szBRName>
-		<szBRDesc>You want storage capacity to lug things around during combat, but a backpack slows you down to much? This smaller combat pack may be the solution to your needs.</szBRDesc>
+		<szBRDesc>You want storage capacity to lug things around during combat, but a backpack slows you down too much? This smaller combat pack may be the solution to your needs.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>16</nasLayoutClass>
 		<ubClassIndex>23</ubClassIndex>
@@ -38144,9 +38144,9 @@
 		<uiIndex>1205</uiIndex>
 		<szItemName>Med. Pouch</szItemName>
 		<szLongItemName>Medical Pouch Leg Rig</szLongItemName>
-		<szItemDesc>The EWF Combat Casualty Response Kit - Medic/Leg Rig is designed to provide the Tactical Healthcare Professional rapid access to critical equipment and a small storage for canteen in the management of tactical casualties while maintaining the ability to pack up and move quickly as conditions change.</szItemDesc>
+		<szItemDesc>A leg rig for those saving lives on the battlefield, this pouch provides rapid access to supplies when you have a serious bleeder on your hands and an ergonomic design to wrap up, zip up and move out quickly when things get too hot.</szItemDesc>
 		<szBRName>Medical Pouch Leg Rig</szBRName>
-		<szBRDesc>The EWF Combat Casualty Response Kit - Medic/Leg Rig is designed to provide the Tactical Healthcare Professional rapid access to critical equipment and a small storage for canteen in the management of tactical casualties while maintaining the ability to pack up and move quickly as conditions change.</szBRDesc>
+		<szBRDesc>The EWF Combat Casualty Response Kit leg rig is designed to provide tactical healthcare professionals rapid access to critical equipment and store a canteen in the management of casualties while maintaining the ability to pack up and move quickly when conditions change.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
 		<ubClassIndex>36</ubClassIndex>
@@ -44522,7 +44522,7 @@
 		<szLongItemName>5.7x28mm Box, HP</szLongItemName>
 		<szItemDesc>These rounds of 5.7mm hollow point ammunition have enhanced injury inflicting capabilities over the basic 5.7 and have retained most of its armor piercing capabilities.</szItemDesc>
 		<szBRName>5.7x28mm Box HP</szBRName>
-		<szBRDesc>Get the job done right the first time. You're kill-rate will be the best around if you use this 5.7mm Hollow Point ammunition. Your victim's chance at survival: roughly zero percent, give or take a few points.</szBRDesc>
+		<szBRDesc>Get the job done right the first time. You're kill-rate will be the best around if you use this 5.7mm Hollow Point ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>361</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -48668,9 +48668,9 @@
 		<uiIndex>1610</uiIndex>
 		<szItemName>Grey shirt</szItemName>
 		<szLongItemName>Grey shirt</szLongItemName>
-		<szItemDesc>This one's super comfy! Perhaps it's the material. Traditionally, ringspun cotton has qualities that make it softer and more comfortable to wear.</szItemDesc>
+		<szItemDesc>Think about your favorite t-shirt.  There's a good chance it feels nice, soft, and is more comfortable on your skin.  Your favorite shirt is probably made from ringspun cotton.</szItemDesc>
 		<szBRName>Grey shirt</szBRName>
-		<szBRDesc>Think about your favorite t-shirt.  ThereтАЩs a good chance it feels nice, soft, and is more comfortable on your skin.  Your favorite shirt is probably made from ringspun cotton.</szBRDesc>
+		<szBRDesc>This one's super comfy! Perhaps it's the material. Traditionally, ringspun cotton has qualities that make it softer and more comfortable to wear.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -74111,9 +74111,9 @@
 		<uiIndex>2818</uiIndex>
 		<szItemName>BORS</szItemName>
 		<szLongItemName>Barrett Optical Ranging System</szLongItemName>
-		<szItemDesc>An advanced ballistic target computer that can be attached to certain long range sniper rifles. The computer built into the BORS, constantly updates to account for changing factors.  The BORS "instantly takes care of the data work so the shooter can focus on the task of putting lead on target."</szItemDesc>
+		<szItemDesc>An advanced ballistic target computer that can be attached to certain long range sniper rifles, instantly taking care of the data work so you can focus on the task of putting lead on target.</szItemDesc>
 		<szBRName>Barrett Optical Ranging Sysystem</szBRName>
-		<szBRDesc>The BORS constantly updates to account for changing factors. Barrett states that the BORS "instantly takes care of the data work so the shooter can focus on the task of putting lead on target." It takes data from thousands of tables and accounts for a number of real-time external factors automatically giving the shooter the exact yardage at which a bullet will hit its target.</szBRDesc>
+		<szBRDesc>An advanced ballistic target computer that can be attached to certain long range sniper rifles. The BORS automatically updates, processing data in real-time from a number of external factors giving the shooter the exact yardage at which a bullet will hit its target.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>131072</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -74257,9 +74257,9 @@
 		<uiIndex>2822</uiIndex>
 		<szItemName>LAM</szItemName>
 		<szLongItemName>Insight LAM-1000</szLongItemName>
-		<szItemDesc>Insight Technology Laser Aiming Module ILWLP/LAM-1000 with interface is an advanced single-module, multi-function Insight illuminator flashlight and Insight aiming device derived from the military standard Insight AN/PEQ-6 Infrared / Visible Illuminator Flashlight / Aiming Laser Sight.</szItemDesc>
+		<szItemDesc>Originally designed in response to the U.S. Navy SEAL's Assault Pistol program, the Laser Aiming Module, (LAM) pioneered new ground and set the standard for multi-laser/white light capability in a compact pistol mounted package. Today, Insight Tech-Gear's LAM-1000 is known to the U.S. Military as the ILWLP.</szItemDesc>
 		<szBRName>Insight LAM-1000</szBRName>
-		<szBRDesc>Originally designed in response to the U.S. Navy S.E.A.L.'s Assault Pistol program, the Laser Aiming Module, (L.A.M.) pioneered new ground and set the standard for multi-laser/white light capability in a compact pistol mounted package. Today, Insight Tech-Gear's LAM-1000 is known to the U.S. Military as the ILWLP.</szBRDesc>
+		<szBRDesc>The ILWLP/LAM-1000 with interface is an advanced single-module, multi-function illuminator flashlight and aiming device derived from the military standard Insight AN/PEQ-6. Discontinued product, once they're gone, THEY'RE GONE.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
@@ -74389,9 +74389,9 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>2825</uiIndex>
 		<szItemName>TBTL</szItemName>
 		<szLongItemName>Twin Beam Target Laser</szLongItemName>
-		<szItemDesc>I.L.E.E. Also offer another twin beam target laser. This design enables users to switch rapidly between two different light sources. Standard light sources available for this design include red (635 nm, 0.5 - 5 mW) and infrared (830 - 850 nm, 0.5 - 3.5 W) beams and an infrared (830 - 850 nm, 0.5 to 30 mW) illuminator, but other options are available if required.</szItemDesc>
+		<szItemDesc>Since 1983, ILEE of Norway have been supplying target laser systems on small arms to the military market. This twin beam target laser can switch from infrared and illumination modes in a flick.</szItemDesc>
 		<szBRName>Twin Beam Target Laser</szBRName>
-		<szBRDesc>I.L.E.E. Also offer another twin beam target laser. This design enables users to switch rapidly between two different light sources. Standard light sources available for this design include red (635 nm, 0.5 - 5 mW) and infrared (830 - 850 nm, 0.5 - 3.5 W) beams and an infrared (830 - 850 nm, 0.5 to 30 mW) illuminator, but other options are available if required.</szBRDesc>
+		<szBRDesc>ILEE offer this twin beam target laser enabling users to switch rapidly between two different light sources. Standard light sources available include red (635 nm, 0.5-5 mW) and infrared (830-850 nm, 0.5-3.5 W) beams and an infrared (830-850 nm, 0.5-30 mW) illuminator.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
@@ -76151,7 +76151,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>Sightmark CRL Triple duty Laser</szLongItemName>
 		<szItemDesc>An affordable tactical laser sight inspired by military and law-enforcement applications. The low profile and compact size make it ideal for rapid-fire shooting or home defense. Durable, yet lightweight composite plastic body. Adjustable windage and elevation. 300-yard visibility at night, 20 yards in sunlight.</szItemDesc>
 		<szBRName>Sightmark CRL Triple duty Laser</szBRName>
-		<szBRDesc>An affordable tactical laser sight inspired by military and law-enforcement applications. The low profile and compact size make it ideal for rapid-fire shooting or home defense. Durable, yet lightweight composite plastic body. Adjustable windage and elevation. 300-yard visibility at night, 20 yards in sunlight.</szBRDesc>
+		<szBRDesc>An affordable tactical laser sight inspired by military and law-enforcement applications. Low profile and compact size make it ideal for rapid-fire shooting or home defense. Durable, yet light. Adjustable windage and elevation. 300-yard visibility at night, 20 yards in sunlight.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
