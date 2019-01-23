@@ -18011,7 +18011,7 @@
 		<uiIndex>626</uiIndex>
 		<szItemName>Bizon 2-07</szItemName>
 		<szLongItemName>Bizon 2-07</szLongItemName>
-		<szItemDesc>Containing 60%%%% part with the AKS-74 this SMG is chambered to accept 7.62 Tokarev box magazines and comes with a selective fire switch and a lot of pain.</szItemDesc>
+		<szItemDesc>Using 60%%%% parts common with the AKS-74 this SMG is chambered to accept 7.62 Tokarev box magazines and comes with a selective fire switch and a lot of pain.</szItemDesc>
 		<szBRName>Bizon 2-07</szBRName>
 		<szBRDesc>Variety is the spice of life so why not try out this select fire SMG in its 7.62 Tk variant using a more conventional column magazine.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -42082,6 +42082,7 @@
 		<Hardware>1</Hardware>
 		<Canteen>1</Canteen>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<FoodType>1</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
