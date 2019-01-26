@@ -737,7 +737,6 @@
 		<spotter>5</spotter>
 		<capitulation>25</capitulation>
 		<insurance>-20</insurance>
-		<scrounging>1</scrounging>
 		<druguse>1</druguse>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -828,7 +827,6 @@
                 <betterprices_guns>9</betterprices_guns>
 		<betterprices>13</betterprices>
 		<spotter>5</spotter>
-		<scrounging>1</scrounging>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 		<dislikebackground>-2</dislikebackground>
@@ -1230,7 +1228,6 @@
 		<approach_recruit>-25</approach_recruit>
 		<druguse>1</druguse>
 		<spotter>3</spotter>
-		<scrounging>1</scrounging>
 		<insurance>50</insurance>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -1299,7 +1296,6 @@
 		<cth_blades>10</cth_blades>
 		<stealth>3</stealth>
 		<approach_recruit>-15</approach_recruit>
-		<scrounging>1</scrounging>
 		<druguse>1</druguse>
 		<no_male>1</no_male>
 		<no_female>1</no_female>				
@@ -1713,7 +1709,6 @@
 		<capitulation>-50</capitulation>
 		<drink_energyregen>100</drink_energyregen>
 		<druguse>1</druguse>
-		<scrounging>1</scrounging>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND> 
@@ -2005,7 +2000,6 @@
 		<resistance_alcohol>10</resistance_alcohol>
 		<resistance_physical>5</resistance_physical>
 		<drink_energyregen>100</drink_energyregen>
-		<scrounging>1</scrounging>
 		<druguse>1</druguse>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -2050,7 +2044,6 @@
 		<capitulation>50</capitulation>
 		<approach_threaten>20</approach_threaten>
 		<approach_recruit>20</approach_recruit>
-		<scrounging>1</scrounging>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -2070,7 +2063,6 @@
 		<capitulation>20</capitulation>
 		<approach_threaten>15</approach_threaten>
 		<approach_recruit>8</approach_recruit>
-		<scrounging>1</scrounging> 
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -2335,7 +2327,6 @@
 		<hearing_day>1</hearing_day>
 		<hearing_night>1</hearing_night>
 		<spotter>5</spotter>
-		<scrounging>1</scrounging>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -2548,7 +2539,6 @@
 		<approach_threaten>20</approach_threaten>
 		<approach_recruit>8</approach_recruit>
 		<interrogation>50</interrogation>
-		<scrounging>1</scrounging> 
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -4481,7 +4471,6 @@
 		<hearing_night>1</hearing_night>
 		<breachingcharge>10</breachingcharge>
 		<spotter>5</spotter>
-		<scrounging>1</scrounging>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -4507,7 +4496,6 @@
 		<hearing_night>1</hearing_night>
 		<breachingcharge>10</breachingcharge>
 		<spotter>5</spotter>
-		<scrounging>1</scrounging>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -4654,7 +4642,6 @@
 		<breachingcharge>10</breachingcharge>
 		<spotter>5</spotter>
 		<druguse>1</druguse>
-		<scrounging>1</scrounging>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -4916,7 +4903,6 @@
 		<resistance_poison>10</resistance_poison>
 		<resistance_fear>-10</resistance_fear>
 		<drink_energyregen>-50</drink_energyregen>
-		<scrounging>1</scrounging>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -5383,7 +5369,6 @@
 		<approach_friendly>10</approach_friendly>
 		<approach_threaten>-10</approach_threaten>
 		<approach_recruit>10</approach_recruit>
-		<scrounging>1</scrounging>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -5756,7 +5741,6 @@
 		<approach_friendly>10</approach_friendly>
 		<approach_threaten>-10</approach_threaten>
 		<approach_recruit>10</approach_recruit>
-		<scrounging>1</scrounging>
   </BACKGROUND>
   <BACKGROUND>
 		<uiIndex>266</uiIndex>
@@ -6334,7 +6318,6 @@
 		<carrystrength>4</carrystrength>
 		<approach_friendly>5</approach_friendly>
 		<approach_recruit>5</approach_recruit>
-		<scrounging>1</scrounging>
 		<druguse>1</druguse>
   </BACKGROUND>
   <BACKGROUND>
@@ -6355,7 +6338,6 @@
 		<betterprices>5</betterprices>
 		<approach_direct>5</approach_direct>
 		<approach_recruit>8</approach_recruit>
-		<scrounging>1</scrounging>
   </BACKGROUND>
 <BACKGROUND>
 		<uiIndex>297</uiIndex>
@@ -6523,7 +6505,6 @@
 		<resistance_alcohol>10</resistance_alcohol>
 		<approach_recruit>-5</approach_recruit>
 		<drink_energyregen>100</drink_energyregen>
-		<scrounging>1</scrounging>
 		<druguse>1</druguse>
   </BACKGROUND>
 <BACKGROUND>
@@ -6552,7 +6533,6 @@
 		<speed_run>8</speed_run>
 		<hearing_night>2</hearing_night>
 		<hearing_day>2</hearing_day>
-		<scrounging>1</scrounging>
 		<druguse>1</druguse>
 </BACKGROUND>
   <BACKGROUND>
@@ -6792,7 +6772,6 @@
 		<druguse>1</druguse>
 		<xenophobic>1</xenophobic>
 		<dislikebackground>-274</dislikebackground>
-		<scrounging>1</scrounging>
 	</BACKGROUND>
 	<BACKGROUND>
 		<uiIndex>318</uiIndex>
@@ -6993,7 +6972,6 @@
 		<approach_recruit>-50</approach_recruit>
 		<hearing_night>1</hearing_night>
 		<speed_run>5</speed_run>
-		<scrounging>1</scrounging>
 		<druguse>1</druguse>
 		<xenophobic>1</xenophobic>
 	</BACKGROUND>
@@ -7015,7 +6993,6 @@
 		<approach_direct>5</approach_direct>
 		<approach_threaten>9</approach_threaten>
 		<approach_recruit>-15</approach_recruit>
-		<scrounging>1</scrounging>
 		<druguse>1</druguse>
 	</BACKGROUND>
 	<BACKGROUND>
@@ -7254,7 +7231,6 @@
 		<hearing_day>1</hearing_day>
 		<hearing_night>1</hearing_night>
 		<spotter>5</spotter>
-		<scrounging>1</scrounging>
 	</BACKGROUND>
 	<BACKGROUND>
 		<uiIndex>336</uiIndex>
@@ -7301,6 +7277,5 @@
 		<cth_blades>5</cth_blades>
 		<approach_direct>5</approach_direct>
 		<approach_threaten>9</approach_threaten>
-		<scrounging>1</scrounging>
 	</BACKGROUND>
 </BACKGROUNDS>
