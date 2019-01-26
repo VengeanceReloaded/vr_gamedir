@@ -4610,6 +4610,14 @@
 		<APCost>64</APCost>
 	</MERGE>
 	<MERGE>
+		<firstItemIndex>2868</firstItemIndex>
+		<secondItemIndex>633</secondItemIndex>
+		<firstResultingItemIndex>796</firstResultingItemIndex>
+		<secondResultingItemIndex>2867</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>64</APCost>
+	</MERGE>
+	<MERGE>
 		<firstItemIndex>2869</firstItemIndex>
 		<secondItemIndex>633</secondItemIndex>
 		<firstResultingItemIndex>760</firstResultingItemIndex>
