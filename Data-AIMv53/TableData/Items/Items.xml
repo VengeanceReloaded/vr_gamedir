@@ -54982,6 +54982,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>800</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
 		<PercentAPReduction>-5</PercentAPReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
