@@ -751,9 +751,9 @@
 		<uiIndex>15</uiIndex>
 		<szItemName>P90</szItemName>
 		<szLongItemName>FN P90</szLongItemName>
-		<szItemDesc>This Belgian weapon is one of the most advanced submachine guns in the world and is highly coveted by several special forces. This submachine gun fires the 5.7x28mm at a rate of 900 rpm, making it one of the best CQB weapon.</szItemDesc>
+		<szItemDesc>The FN-P90 is a fine PDW that was developed in the late 80's with truly powerful ballistic capabilities. All controls are fully ambidextrous, with a cocking handle fitted on both sides and two open sights. Nerds will know it's also the favorite weapon of SG-1.</szItemDesc>
 		<szBRName>FN P90</szBRName>
-		<szBRDesc>Chews through Kevlar like it was butter. The FN-P90 is a blowback machine pistol with truly powerful ballistic capabilities. All controls are fully ambidextrous, with a cocking handle fitted on both sides and two open sights. Comes complete with reflex sight. It also is the favorited weapon of SG-1.</szBRDesc>
+		<szBRDesc>This Belgian weapon is one of the most advanced guns in the world and is highly coveted by several special forces for its ergonomics and stopping power during close quarter combat exercises. This submachine gun fires 5.7x28mm rounds at a rate of 900 rpm.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>15</ubClassIndex>
@@ -24233,7 +24233,7 @@
 		<szLongItemName>FN SCAR-H SV</szLongItemName>
 		<szItemDesc>The SCAR is FN's newest offering into the military armament scene. The "H" stands for "Heavy", and refers to this version firing the 7.62mm NATO round. This is the sniper variant.</szItemDesc>
 		<szBRName>FN SCAR-H SV</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>Chambered in trusty 7.62 NATO this SCAR uses battle-proven technology based on the legendary DNA from FN's range of SCARS. Perfectly calibrated for long-range precision fire, giving you the ability to engage targets over 700 yards with ease. The gas-operated piston design absorbs recoil efficiently to improve follow-up shots and maintain target acquisition.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>787</ubClassIndex>
@@ -24276,7 +24276,7 @@
 		<szLongItemName>FN SCAR-L SV</szLongItemName>
 		<szItemDesc>FN's latest addition to the SCAR family is the "L" or Light version, chambered in 5.56mm NATO. This is the sniper variant.</szItemDesc>
 		<szBRName>FN SCAR-L SV</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>For those wanting to shoot higher velocity NATO rounds in the legendary SCAR platform we recommend this sniper variant in the familier flat dark earth tones from Fabrique Nationale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>788</ubClassIndex>
@@ -24356,7 +24356,7 @@
 		<szLongItemName>FN SCAR-WP CQC</szLongItemName>
 		<szItemDesc>The SCAR is FN's newest offering into the military armament scene. The "WP" refers to this version firing the 7.62mm WP round. CQC denotes the shortest version for fighting in dense terrain.</szItemDesc>
 		<szBRName>FN SCAR-WP CQC</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>For those wanting FN's unsurpassed quality to fire plentiful WP rounds in close quarters we highly recommend this rifle which provides the range, reliability, accuracy, safety, ergonomics, and modularity to meet any operational challenge. </szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>790</ubClassIndex>
@@ -24399,7 +24399,7 @@
 		<szLongItemName>FN SCAR-WP SV</szLongItemName>
 		<szItemDesc>The SCAR is FN's newest offering into the military armament scene. The "WP" refers to this version firing the 7.62mm WP round. This is the sniper variant.</szItemDesc>
 		<szBRName>FN SCAR-WP SV</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>There is no better time to sample the new paradigm in combat rifles, even if you wish to fire 7.62 WP rounds. This sniper variant exudes the same build quality and flexibility of customization as other FN SCAR rifles.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>791</ubClassIndex>
@@ -24442,7 +24442,7 @@
 		<szLongItemName>FN SCAR-68 CQC</szLongItemName>
 		<szItemDesc>This CQC version of the SCAR-L has been converted to fire the 6.8mm SPC round.</szItemDesc>
 		<szBRName>FN SCAR-68 CQC</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>For those wanting to use the 6.8 special purpose cartridge and it's inherent advantages in urban assaults the readily converted SCAR-68 is the gun of choice for you.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>792</ubClassIndex>
@@ -24485,7 +24485,7 @@
 		<szLongItemName>FN SCAR-68 SV</szLongItemName>
 		<szItemDesc>This sniper variant of the SCAR-L has been converted for the new 6.8x43mm SPC round.</szItemDesc>
 		<szBRName>FN SCAR-68 SV</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>This readily converted SCAR-68 is on offer for those wanting to use the 6.8 special purpose cartridge for sniping duties.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>793</ubClassIndex>
