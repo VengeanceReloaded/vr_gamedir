@@ -953,10 +953,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>G10</SectorGrid>
-    <szUnexploredName>Salinas</szUnexploredName>
-    <szDetailedUnexploredName>Salinas</szDetailedUnexploredName>
-    <szExploredName>Salinas</szExploredName>
-    <szDetailedExploredName>Salinas</szDetailedExploredName>
+    <szUnexploredName>Desert, road</szUnexploredName>
+    <szDetailedUnexploredName>Desert, road</szDetailedUnexploredName>
+    <szExploredName>Desert, road</szExploredName>
+    <szDetailedExploredName>Desert, road</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
    </SECTOR>
@@ -1098,10 +1098,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>H10</SectorGrid>
-    <szUnexploredName>Salinas</szUnexploredName>
-    <szDetailedUnexploredName>Salinas</szDetailedUnexploredName>
-    <szExploredName>Detention</szExploredName>
-    <szDetailedExploredName>Detention Camp</szDetailedExploredName>
+    <szUnexploredName>Desert</szUnexploredName>
+    <szDetailedUnexploredName>Desert</szDetailedUnexploredName>
+    <szExploredName>Hard Labor</szExploredName>
+    <szDetailedExploredName>Hard Labor Camp</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
    </SECTOR>
@@ -1237,19 +1237,19 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>I9</SectorGrid>
-    <szUnexploredName>Salinas</szUnexploredName>
-    <szDetailedUnexploredName>Salinas</szDetailedUnexploredName>
-    <szExploredName>Salinas</szExploredName>
-    <szDetailedExploredName>Salinas</szDetailedExploredName>
+    <szUnexploredName>Desert, road</szUnexploredName>
+    <szDetailedUnexploredName>Desert, road</szDetailedUnexploredName>
+    <szExploredName>Salinas resort</szExploredName>
+    <szDetailedExploredName>Salinas resort</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
    </SECTOR>
    <SECTOR>
     <SectorGrid>I10</SectorGrid>
-    <szUnexploredName>Salinas</szUnexploredName>
-    <szDetailedUnexploredName>Salinas</szDetailedUnexploredName>
-    <szExploredName>Salinas</szExploredName>
-    <szDetailedExploredName>Salinas</szDetailedExploredName>
+    <szUnexploredName>Desert</szUnexploredName>
+    <szDetailedUnexploredName>Desert</szDetailedUnexploredName>
+    <szExploredName>Death Camp</szExploredName>
+    <szDetailedExploredName>Death Camp</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
    </SECTOR>
@@ -1369,17 +1369,17 @@
     <SectorGrid>J7</SectorGrid>
     <szUnexploredName>Woods</szUnexploredName>
     <szDetailedUnexploredName>Woods</szDetailedUnexploredName>
-    <szExploredName>Woods</szExploredName>
-    <szDetailedExploredName>Woods</szDetailedExploredName>
+    <szExploredName>Drug Lab</szExploredName>
+    <szDetailedExploredName>Drug Lab</szDetailedExploredName>
     <sWaterType>0</sWaterType>
-    <usNaturalDirt>200</usNaturalDirt>
+    <usNaturalDirt>1000</usNaturalDirt>
    </SECTOR>
    <SECTOR>
     <SectorGrid>J8</SectorGrid>
-    <szUnexploredName>Desert</szUnexploredName>
-    <szDetailedUnexploredName>Desert</szDetailedUnexploredName>
-    <szExploredName>Desert</szExploredName>
-    <szDetailedExploredName>Desert</szDetailedExploredName>
+    <szUnexploredName>Desert, road</szUnexploredName>
+    <szDetailedUnexploredName>Desert, road</szDetailedUnexploredName>
+    <szExploredName>Desert, road</szExploredName>
+    <szDetailedExploredName>Desert, road</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>1000</usNaturalDirt>
    </SECTOR>
@@ -1394,10 +1394,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>J10</SectorGrid>
-    <szUnexploredName>Desert, road</szUnexploredName>
-    <szDetailedUnexploredName>Desert, road</szDetailedUnexploredName>
-    <szExploredName>Desert, road</szExploredName>
-    <szDetailedExploredName>Desert, road</szDetailedExploredName>
+    <szUnexploredName>Desert</szUnexploredName>
+    <szDetailedUnexploredName>Desert</szDetailedUnexploredName>
+    <szExploredName>Desert</szExploredName>
+    <szDetailedExploredName>Desert</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>900</usNaturalDirt>
    </SECTOR>

@@ -1653,4 +1653,16 @@
 		</ASSIGNMENT>
 	</FACILITYTYPE>
 	
+		<FACILITYTYPE>
+		<ubIndex>57</ubIndex>
+		<szFacilityName>Drug Lab</szFacilityName>
+		<szFacilityShortName>Drug Lab</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>This is a drug lab and transfer depot for narcos. It's a bit dangerous to stay here, not only due to the unstable chemicals but also if the bad guys return.</szTooltipText>
+			<usFatigue>75</usFatigue>
+			<usSleep>75</usSleep>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
 </FACILITYTYPES>

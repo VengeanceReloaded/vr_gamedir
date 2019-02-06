@@ -654,6 +654,13 @@
 		<FacilityType>56</FacilityType>
 		<ubHidden>0</ubHidden>
 	</FACILITY>
+	
+		<!-- KINGPIN DRUG LAB -->
+	<FACILITY>
+		<SectorGrid>J7</SectorGrid>
+		<FacilityType>57</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
 
 	<!-- TIXA -->
 	<FACILITY>
