@@ -59016,7 +59016,7 @@
 		<szLongItemName>Erma MP40 folded</szLongItemName>
 		<szItemDesc>Due to relatively low rate of fire this gun is easily controllable in full auto. Though the selection of attachments is rather limited, the MP40 is still a fine gun.</szItemDesc>
 		<szBRName>Erma MP40</szBRName>
-		<szBRDesc>The Classic WWII SMG from the Nazis has a relatively low rate of fire making this gun easily controllable in full auto.</szBRDesc>
+		<szBRDesc>Not for sale - though the unfolded version is.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2103</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
@@ -59041,7 +59041,6 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<BR_UsedInventory>2</BR_UsedInventory>
 		<BR_ROF>500</BR_ROF>
 		<BurstToHitBonus>3</BurstToHitBonus>
 		<AutoFireToHitBonus>3</AutoFireToHitBonus>
@@ -59361,6 +59360,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>500</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<DefaultAttachment>1008</DefaultAttachment>
@@ -59405,6 +59406,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
 		<Bipod>20</Bipod>
 		<ToHitBonus>-10</ToHitBonus>
@@ -59449,6 +59452,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
 		<DefaultAttachment>1000</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -59577,6 +59582,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
@@ -59744,7 +59751,7 @@
 		<uiIndex>2121</uiIndex>
 		<szItemName>M1 Garand EBR</szItemName>
 		<szLongItemName>M1 Garand EBR</szLongItemName>
-		<szItemDesc>An old and trusted M1 Garnad in a new stock to allow for a wider range of attachments.</szItemDesc>
+		<szItemDesc>An old and trusted M1 Garand in a new stock to allow for a wider range of attachments.</szItemDesc>
 		<szBRName>M1 Garand EBR</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -59951,8 +59958,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<SciFi>1</SciFi>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
 		<ToHitBonus>20</ToHitBonus>
 		<AimBonus>5</AimBonus>
@@ -60248,7 +60255,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>0</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_UsedInventory>2</BR_UsedInventory>
 		<BR_ROF>500</BR_ROF>
 		<BurstToHitBonus>3</BurstToHitBonus>
 		<AutoFireToHitBonus>3</AutoFireToHitBonus>
@@ -60402,7 +60409,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
-		<BR_UsedInventory>5</BR_UsedInventory>
+		<BR_UsedInventory>4</BR_UsedInventory>
 		<BR_ROF>450</BR_ROF>
 		<usOverheatingCooldownFactor>130</usOverheatingCooldownFactor>
 		<DamageChance>12</DamageChance>
@@ -60444,6 +60451,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>1200</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -60840,6 +60849,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>2</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -61034,6 +61045,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -61075,6 +61088,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -61149,6 +61164,8 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
