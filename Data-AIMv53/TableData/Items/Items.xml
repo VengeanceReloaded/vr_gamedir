@@ -70356,7 +70356,7 @@
 		<uiIndex>2629</uiIndex>
 		<szItemName>Guarder Vest</szItemName>
 		<szLongItemName>Guarder Force Recon Vest</szLongItemName>
-		<szItemDesc>The Guarder Force Recon Vest was designed to carry a diverse variety of combat equipment. In particular, this vest has also three pockets for 40mm grenades.</szItemDesc>
+		<szItemDesc>The Guarder Force Recon Vest was designed to carry a diverse variety of combat equipment including room for three 40mm grenades.</szItemDesc>
 		<szBRName>Guarder Force Recon Vest</szBRName>
 		<szBRDesc>The Guarder Force Recon Vest was designed to carry a diverse variety of combat equipment. In particular, this vest has also three pockets for 40mm grenades.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -70386,7 +70386,7 @@
 		<szLongItemName>Small 40mm Grenades Leg Rig</szLongItemName>
 		<szItemDesc>This twin pouch for 40mm grenades is mounted on a leg rig. The rig is small enough to allow access to the regular pant pockets.</szItemDesc>
 		<szBRName>Small 40mm Grenades Leg Rig</szBRName>
-		<szBRDesc>This twin pouch for 40mm grenades is mounted on a leg rig. The rig is small enough to allow access to the regular pant pockets.</szBRDesc>
+		<szBRDesc>To be mounted on a leg rig, this twin pouch for 40mm grenades is small enough to still allow access to the regular pant pockets.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>131</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -70494,9 +70494,9 @@
 		<uiIndex>2634</uiIndex>
 		<szItemName>KSK Flecktarn</szItemName>
 		<szLongItemName>KSK Flecktarn Vest</szLongItemName>
-		<szItemDesc>A versatile vest as used by the German KSK. The Flecktarn camo pattern offers nice camouflage in woodland areas.</szItemDesc>
+		<szItemDesc>A versatile vest as used by the German KSK. The popular Flecktarn camo pattern is particularly efficient in temperate, woodland areas.</szItemDesc>
 		<szBRName>KSK Flecktarn Vest</szBRName>
-		<szBRDesc>A versatile vest as used by the German KSK. The Flecktarn camo pattern offers nice camouflage in woodland areas.</szBRDesc>
+		<szBRDesc>A versatile vest as used by the German KSK. The Flecktarn camo pattern offers efficient camouflage in woodland areas.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>135</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -70544,9 +70544,9 @@
 		<uiIndex>2636</uiIndex>
 		<szItemName>AK Chest Rig</szItemName>
 		<szLongItemName>AK Chest Rig Vest</szLongItemName>
-		<szItemDesc>This is the basic chest rig used by Soviet forces during the Afghan war. This chest rig can be combined with a belt.</szItemDesc>
+		<szItemDesc>Designed when Punk was in it's infancy, this chest rig primarily to carry AK mags was a common target in mujahideen sights.</szItemDesc>
 		<szBRName>AK Chest Rig Vest</szBRName>
-		<szBRDesc>Old Afghan War era Soviet chest rig. This chest rig was designed to mainly hold AK magazines. The Chest Rig can be combined with a belt.</szBRDesc>
+		<szBRDesc>As used in the Afghan war, this Soviet chest rig was designed to mainly hold AK magazines and can combined with a belt.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>137</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -70572,7 +70572,7 @@
 		<uiIndex>2637</uiIndex>
 		<szItemName>VOG Rig</szItemName>
 		<szLongItemName>40mm VOG Grenades Rig Combat Pack</szLongItemName>
-		<szItemDesc>This is an Afghan era Soviet chest rig to carry a huge assortment of 40mm VOG grenades and is worn like a combat pack.</szItemDesc>
+		<szItemDesc>This Afghan era Soviet chest rig carries a huge assortment of 40mm VOG grenades and is worn like a combat pack.</szItemDesc>
 		<szBRName>40mm Grenades Rig Combat Pack</szBRName>
 		<szBRDesc>This is an Afghan era Soviet chest rig to carry a huge assortment of 40mm VOG grenades and is worn like a combat pack.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -70600,9 +70600,9 @@
 		<uiIndex>2638</uiIndex>
 		<szItemName>German Army Backpack</szItemName>
 		<szLongItemName>German Army Backpack</szLongItemName>
-		<szItemDesc>This small backpack has nice carrying capacity for smaller items.</szItemDesc>
+		<szItemDesc>This well made, small backpack has capacity for carrying smaller items effeciently.</szItemDesc>
 		<szBRName>German Army Backpack</szBRName>
-		<szBRDesc>The backpack used by the Bundeswehr (German Army). It has nice carrying capacity for smaller items.</szBRDesc>
+		<szBRDesc>The backpack used by the Bundeswehr (German Army) carries a number smaller items effeciently.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>139</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -70627,9 +70627,9 @@
 		<uiIndex>2639</uiIndex>
 		<szItemName>M23 Chest Rig</szItemName>
 		<szLongItemName>M23 Chest Rig Vest</szLongItemName>
-		<szItemDesc>This chest rig was used by Soviet pioneers during the Afghan war.</szItemDesc>
+		<szItemDesc>This 'Pioneer' chest rig from the Afghan war was popular with special forces units.</szItemDesc>
 		<szBRName>M23 Chest Rig</szBRName>
-		<szBRDesc>Old Afghan War era Soviet chest rig for pioneers. This chest rig can be combined with a belt.</szBRDesc>
+		<szBRDesc>These Afghan War era Soviet 'Pioneer' rigs are adjustable from 46-68 sizes and has pouches that drain water. Can be combined with a belt.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>140</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -70657,7 +70657,7 @@
 		<szLongItemName>Eagle Recon Combat Pack</szLongItemName>
 		<szItemDesc>In addition to two small side pockets this compact butt pack has 6 loops to store 40mm grenades.</szItemDesc>
 		<szBRName>Eagle Recon Combat Pack</szBRName>
-		<szBRDesc>In addition to two small side pockets this compact butt pack has 6 loops to store 40mm grenades.</szBRDesc>
+		<szBRDesc>Engineered with Eagle's legendary build quaility, this improved buttpack also has two small side pockets and 6 loops to store 40mm grenades.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>141</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -70927,11 +70927,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2650</uiIndex>
-		<szItemName>M65 Jacket</szItemName>
-		<szLongItemName>VM65 Flak Jacket</szLongItemName>
-		<szItemDesc>The sleeveless M65 U.S. G.I. Jacket is the precfect garb for reconaissance troops in jungle warfare. Though classified as a flak jacket, its protective value is questionable.</szItemDesc>
+		<szItemName>M69 Vest</szItemName>
+		<szLongItemName>VM69 Flak Vest</szLongItemName>
+		<szItemDesc>The sleeveless M69 Flak Jacket was a popular sight in the Vietnam war but was criticised in the jungle for it's weight and had questionable protection against small arms fire.</szItemDesc>
 		<szBRName>M65 Flak Jacket</szBRName>
-		<szBRDesc>This sleeveless M65 U.S. G.I. Jacket is the precfect garb for reconaissance troops in jungle warfare. It has 2 pouches for AR magazines, 2 pockets for handgrenades and several smaller pockets.</szBRDesc>
+		<szBRDesc>This repro camouflaged sleeveless M69 Flak vest is the perfect garb for reconaissance troops in jungle warfare. It has 2 pouches for AR magazines, 2 pockets for handgrenades and several smaller pockets.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>151</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -70958,7 +70958,7 @@
 		<szLongItemName>RM-OMON Vest</szLongItemName>
 		<szItemDesc>This utility vest is manufactured for special units of the MVD.</szItemDesc>
 		<szBRName>RM-OMON Vest</szBRName>
-		<szBRDesc>This utility vest is manufactured for special units of the MVD. The vest has two pockets for AR magazines, a holster for a small pistol and 2 medium sized utility pockets.</szBRDesc>
+		<szBRDesc>This genuine Russian utility vest is manufactured for special units of the MVD. It has two pockets for AR magazines, a holster for a small pistol and 2 medium sized utility pockets.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>152</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -71062,11 +71062,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2655</uiIndex>
-		<szItemName>Eagle RR</szItemName>
+		<szItemName>Eagle RRV</szItemName>
 		<szLongItemName>Eagle Rhodesian Recon Vest</szLongItemName>
-		<szItemDesc>The Rhodesian Recon Vest is a popular vest used by both American forces and PMCs.</szItemDesc>
+		<szItemDesc>The Rhodesian Recon Vest is a popular ligtweight vest used by both American forces and PMCs.</szItemDesc>
 		<szBRName>Eagle RR Vest</szBRName>
-		<szBRDesc>The Rhodesian Recon Vest is a popular vest used by both American forces and PMCs.</szBRDesc>
+		<szBRDesc>Eagle's RRV is a flexible and inexpensive frontal platform popular with American forces and PMCs. Made with heavy-duty, abrasion and water resistant 1000 denier Cordura nylon.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>156</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -79276,7 +79276,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>2976</uiIndex>
 		<szItemName>Small Tool Kit</szItemName>
 		<szLongItemName>Tool Kit, small</szLongItemName>
-		<szItemDesc>This small tool kit for field service contains all necessary tools for emergency repairs in the field.</szItemDesc>
+		<szItemDesc>This small, handy tool kit contains all necessary tools for emergency repairs in the field.</szItemDesc>
 		<szBRName>Tool Kit, small</szBRName>
 		<szBRDesc>When space and weight is at a premium our small tool kit contains all necessary tools for emergency repairs in the field in a pint-sized package.</szBRDesc>
 		<usItemClass>8192</usItemClass>
@@ -80295,7 +80295,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>Mission Briefing</szLongItemName>
 		<szItemDesc>This contains information about your mission. It indicates searching for witnesses or survivors of the attack at the training camp at B9 and to seek out a contact in the A10 hideout.</szItemDesc>
 		<szBRName>Mission Briefing</szBRName>
-		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>56</ubGraphicNum>
@@ -80315,7 +80315,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>Journal Page</szLongItemName>
 		<szItemDesc>The last entry reads: "These miserable bastards! There must have been a traitor among us as the attackers knew exactly where and when to strike. Now the training camp has been destroyed."</szItemDesc>
 		<szBRName>Journal Page</szBRName>
-		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubCursor>2</ubCursor>
 		<ubGraphicType>6</ubGraphicType>
@@ -80334,7 +80334,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>Articles of Traineeship</szLongItemName>
 		<szItemDesc>A contract between the A.I.M. personnel office and Kevin Rubins. It states that he will complete his apprenticeship (with certificate) for a security specialist free of charge when gaining practical experience within a relief project.</szItemDesc>
 		<szBRName>Articles of Traineeship</szBRName>
-		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubCursor>2</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
@@ -80353,7 +80353,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>Instructions</szLongItemName>
 		<szItemDesc>Hand written instructions directed to James Tnagal and countersigned by his superior Igmus Palkov. "Greetings James, we received a new weapon system, which I will provide to you for testing purposes."</szItemDesc>
 		<szBRName>Instructions</szBRName>
-		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubCursor>2</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
@@ -80372,7 +80372,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>Video Recording</szLongItemName>
 		<szItemDesc>Hi, Natsuko here, your frantic female reporter. What you will hear soon, will make it clear what the Arulco conflict is all about, since I am going to inconspicuously eavesdrop on a very important meeting.</szItemDesc>
 		<szBRName>Video Recording</szBRName>
-		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubCursor>2</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
@@ -80391,7 +80391,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>Letter</szLongItemName>
 		<szItemDesc>A confidential letter addressed to the supreme command of Tracona, Col. Morris. "PS: I have observed you performing secret missions within Arulco, to take care of jobs which our army cannot conduct. Signed - Lt. Gilitt."</szItemDesc>
 		<szBRName>Letter</szBRName>
-		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubCursor>2</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
@@ -80410,7 +80410,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>Notes</szLongItemName>
 		<szItemDesc>Notes on scrunched paper bearing the sign of the Arulcan internment camp: "My life as a body guard, chapter 2, assignment in Arulco: This is how I failed for the first time; when my target was shot right in front of my eyes."</szItemDesc>
 		<szBRName>Notes</szBRName>
-		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubCursor>2</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
@@ -80429,7 +80429,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>GPS Data</szLongItemName>
 		<szItemDesc>These GPS coordinates allow aiming of the SCUD weapon system in G16 at Alma, provided one has direct access to the targeting system.</szItemDesc>
 		<szBRName>GPS Data</szBRName>
-		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubCursor>2</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
@@ -80448,7 +80448,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>MLRS Authorisation</szLongItemName>
 		<szItemDesc>These handwritten orders from Enrico Chivaldori give you full co-operation from Arulcan MLRS units during your planned incursion into Tracona territory.</szItemDesc>
 		<szBRName>MLRS Authorisation</szBRName>
-		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>56</ubGraphicNum>
@@ -80471,7 +80471,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>SCUD Authorisation</szLongItemName>
 		<szItemDesc>The explicit authorisation to deploy the SCUD weapon system against I14 and H14 sectors of Alma.</szItemDesc>
 		<szBRName>SCUD Authorisation</szBRName>
-		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>56</ubGraphicNum>
@@ -80512,9 +80512,9 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>3041</uiIndex>
 		<szItemName>GPS Decoder</szItemName>
 		<szLongItemName>GPS Decoder</szLongItemName>
-		<szItemDesc>A laptop with an external GPS decoder and a portable printer, which is connected via LAN to the targeting system of the SCUD weapon system.</szItemDesc>
+		<szItemDesc>A laptop with an external GPS decoder which is connected via LAN to the targeting system of the SCUD weapon system.</szItemDesc>
 		<szBRName>GPS Decoder</szBRName>
-		<szBRDesc>JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubCursor>22</ubCursor>
 		<ubGraphicType>5</ubGraphicType>
