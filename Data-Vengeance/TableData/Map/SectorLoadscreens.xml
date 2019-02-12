@@ -859,7 +859,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Stream_day</szDay>
 		<szNight>Loadscreens\LS_Night_stream</szNight>
-		<szDayAlt></szDayAlt>
+		<szDayAlt>Loadscreens\LS_Villager_capture</szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -1412,7 +1412,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Desert_skull</szDay>
 		<szNight>Loadscreens\LS_Desert_sunset</szNight>
-		<szDayAlt></szDayAlt>
+		<szDayAlt>Loadscreens\LS_Villager_capture</szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -1573,7 +1573,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Desert_skull</szDay>
 		<szNight>Loadscreens\LS_NightDesert</szNight>
-		<szDayAlt></szDayAlt>
+		<szDayAlt>Loadscreens\LS_Villager_capture</szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -1863,7 +1863,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>L7</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayWild</szDay>
+		<szDay>Loadscreens\LS_Villager_capture</szDay>
 		<szNight>Loadscreens\LS_3_mercs</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
