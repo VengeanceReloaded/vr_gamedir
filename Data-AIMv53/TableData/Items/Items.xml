@@ -3685,9 +3685,9 @@
 		<uiIndex>115</uiIndex>
 		<szItemName>Flamethrower Canister</szItemName>
 		<szLongItemName>Flamethrower Canister</szLongItemName>
-		<szItemDesc>This highly flamable napalm is used for a portable flamethrower.</szItemDesc>
+		<szItemDesc>This highly flammable napalm is used for a portable flamethrower.</szItemDesc>
 		<szBRName>Flamethrower Canister</szBRName>
-		<szBRDesc>This highly flamable napalm is used for a portable flamethrower.</szBRDesc>
+		<szBRDesc>This cannister contains highly flammable napalm for use in a portable flamethrower. Validated ID required if mailing by air.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>379</ubClassIndex>
 		<ubGraphicNum>49</ubGraphicNum>
@@ -33328,10 +33328,10 @@
 	<ITEM>
 		<uiIndex>1066</uiIndex>
 		<szItemName>HK 416 10"</szItemName>
-		<szLongItemName>HK 416 10"</szLongItemName>
-		<szItemDesc>A shorter version of the standard HK 416.</szItemDesc>
+		<szLongItemName>HK 416 10.4"</szLongItemName>
+		<szItemDesc>A shorter version of the standard HK 416, ideal for CQC.</szItemDesc>
 		<szBRName>HK 416 10"</szBRName>
-		<szBRDesc>This is just a HK 416 with a shorter barrel, for those who often do CQB.</szBRDesc>
+		<szBRDesc>Like all 416's this CQC HK uses a piston driven operating rod to control the bolt, preventing gases and associated carbon fouling the weapon’s interior.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1066</ubClassIndex>
