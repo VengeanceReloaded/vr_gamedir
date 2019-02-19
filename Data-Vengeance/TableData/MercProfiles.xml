@@ -135,7 +135,7 @@
 <!-- (0) Not -->
 <!-- (1) Somewhat -->
 <!-- (2) Very -->
-<!-- (3) Genleman -->
+<!-- (3) Gentleman -->
 
 <!-- Carelevels (Appearance, Refinement, HatedNationality -->
 
@@ -146,7 +146,7 @@
 <!-- Nationality & HatedNationality -->
 
 <!-- (-1) No Nation (only used for HatedNationality) -->
-<!--  AMERICAN = 0,		// take that, Murica! Sirtech knew you have no value :-)
+<!--  AMERICAN = 0,		
       ARAB = 1,
       AUSTRALIAN = 2,
       BRITISH = 3,
@@ -7200,7 +7200,7 @@
 		<bLearnToHateTime>0</bLearnToHateTime>
 		<bRace>0</bRace>
 		<bNationality>2</bNationality>
-		<bAppearance>4</bAppearance>
+		<bAppearance>0</bAppearance>
 		<bAppearanceCareLevel>2</bAppearanceCareLevel>
 		<bRefinement>2</bRefinement>
 		<bRefinementCareLevel>1</bRefinementCareLevel>
@@ -19920,7 +19920,7 @@
 		<bLearnToHate>0</bLearnToHate>
 		<bLearnToHateTime>0</bLearnToHateTime>
 		<bRace>0</bRace>
-		<bNationality>0</bNationality>
+		<bNationality>33</bNationality>
 		<bAppearance>0</bAppearance>
 		<bAppearanceCareLevel>1</bAppearanceCareLevel>
 		<bRefinement>0</bRefinement>

@@ -1734,18 +1734,21 @@
 		<uiIndex>73</uiIndex>
 		<szName>Standover Man</szName>
 		<szShortName>Standover Man</szShortName>
-		<szDescription>You don't let your good looks get in the way of getting down and dirty with &#10;the worst of them!</szDescription>
-		<leadership>2</leadership>
-		<agility>2</agility>
+		<szDescription>Your laid-back sense of humor sometimes belies the fact your threatening demeanor works &#10;wonders when getting things you or others want.</szDescription>
+		<leadership>8</leadership>
 		<dexterity>2</dexterity>
 		<strength>5</strength>
 		<ap_urban>5</ap_urban>
 		<ap_assault>5</ap_assault>
+		<interrogation>100</interrogation> 
+		<betterprices>8</betterprices>
 		<explosives>6</explosives>
 		<resistance_physical>20</resistance_physical>
 		<resistance_fear>20</resistance_fear>
 		<resistance_suppression>10</resistance_suppression>
-		<approach_friendly>-20</approach_friendly>
+		<meleedamage>5</meleedamage> 
+		<cth_blades>2</cth_blades> 
+		<approach_friendly>10</approach_friendly>
 		<approach_direct>20</approach_direct>
 		<approach_threaten>20</approach_threaten>
 		<approach_recruit>10</approach_recruit>
