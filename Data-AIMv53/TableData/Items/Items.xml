@@ -1228,7 +1228,7 @@
 		<szLongItemName>M14</szLongItemName>
 		<szItemDesc>The M14 is about as All-American as apple pie and the 4th of July. Any A-Team equipped with this rifle is gunning for victory. Due to it's accuracy it can be converted to a Designated Marksman Rifle or DMR for Medium to long range engagements.</szItemDesc>
 		<szBRName>M14</szBRName>
-		<szBRDesc>Truly American through and through. This lighter automatic rifle offers multiple firing options, but is best kept locked at semi-automatic. Unfortunately, without the ability to change its barrel, it can overheat with sustained firing.</szBRDesc>
+		<szBRDesc>This classic automatic rifle is highly revered for its long-range accuracy and its reliable, jam-resistant action. Truly American through and through it offers multiple firing options, but is best kept locked at semi-automatic.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>27</ubClassIndex>
@@ -1369,9 +1369,9 @@
 		<uiIndex>31</uiIndex>
 		<szItemName>M870</szItemName>
 		<szLongItemName>Remington M870</szLongItemName>
-		<szItemDesc>This pump-action shotgun is one of the most versatile weapons money can buy. It can be used for hunting, home defense, and lock picking. Although 10,000,000+ were made, grab yours quickly before the stores are out of stock!</szItemDesc>
+		<szItemDesc>A cherished 12-gauge shotgun for its smooth pump-action, it's a favorite of many police forces around the world. Commonly used as a hunting rifle, it can be found for sale in most local hardware stores.</szItemDesc>
 		<szBRName>Remington M870</szBRName>
-		<szBRDesc>A cherished 12-gauge shotgun for its smooth pump-action, it's a favorite of many police forces around the world. Commonly used as a hunting rifle, it can be found for sale in most local hardware stores.</szBRDesc>
+		<szBRDesc>10,000,000+ in sales proves this pump-action shotgun is one of the most versatile weapons money can buy. It can be used for hunting, home defense, and lock picking.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>31</ubClassIndex>
