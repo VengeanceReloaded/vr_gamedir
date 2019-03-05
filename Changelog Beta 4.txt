@@ -1,0 +1,172 @@
+
+CODE & GENERAL GAME
+
+covert ops: check only alerted opponents who recently seen/heard the spy
+	raise suspicion if soldier heard/seen spy this turn, if alert is raised
+
+	covert merc loses disguise when failing to apply any item fixed
+
+NumberOfTeamMatesAdjacent: fix vanilla bug
+
+Interface fixes (removal of stray green pixels)
+
+Cover system tweaks: remove movement penalty, increase prone cover bonus
+
+XML fix: remove duplicated merge data
+
+flashlight code update
+r8574 fix: IMP creation with HP < OKLIFE possible (by Flugente)
+r8020 fix: possible overflow when creating building (by asm-debacle) (by Flugente)
+r8026 fix: It is possible to leave a sector while an explosion has been activated but not yet occurred. In this case the game waits for the explosion to occur before handling AI, resulting in a deadlock. (by Flugente)
+disabled improved ambush code, this should fix bloodcat lair problem
+GetClosestFlaggedSoldierID: fix bLastID check, OKLIFE check
+update vision after starting to watch/spot
+switch off radio if we cannot use it anymore, when soldier spends AP/BP or at the start of the new turn
+r8526 Fix: soldier automatically taunts us whenever we steal, making stealth impossible
+allow scout trait to work from vehicle
+r8520 fix: possible crash during item transformation
+added fix for bad strategic group (by Flugente)
+bLastID fix
+
+
+CHARACTERS
+
+Reduced Buzz Med skill closer to Vanilla value
+
+Babyface removed trading attributes left over from Vanilla
+
+Manuel back in a wheelchair
+
+Maria has Camo faces
+
+Removed +200% interrogation bonus for Lance
+
+Adjusted Arsenal's hooligan background stats, less wisdom but no leadership cut
+
+Arsenal speech corrections
+Babyface speech corrections
+
+Buzz has improved Snitch EDT
+
+Spam, Rusty speech improvements
+
+Removed Cobra's ability to learn to hate Raider due to ambiguity/lack of suitable speech
+
+More mercs get more facegear graphics
+
+
+ITEMS & TRADING
+
+A number of Bobby Rays description and presentation tweaks and fixes
+
+Tony now buys more guns including SKS PU, Tabuks and AKMSU's whether folded or not
+
+set normal coolnessProgressRate for all merchants: item coolness 10 at progress 100%
+
+set very low decay rate for canned food
+Tony buys box ammo
+added combine merge for small toolkit, trauma pack
+changed item size for Alcohol, Molotov, Beer, Wine to 21
+changed item size for Claymore to 22
+fixed item size for .30-06 ammo belts
+remove 60 rounds .454 ammo boxes from Bobby inventory
+fixed ON-M99 scope
+pocket tweaks: cannot store bottles in belt clip, can store bottles and small items in AR2, AR3 pockets, can store molotov in canteen pocket
+
+Tabuk accepts AK scopes
+ON-M99 uses PSO-1 attachment point
+
+More clothing items can be torn apart
+
+Big med kits now mergeable
+
+Added improved Molotov
+
+itemsize 14 for beowulf ammo 7, itemsize 13 for ammo 4 (similar to shotgun shells)
+
+Add 5 PercentReadyTimeAPReduction for retractable stock
+
+Fixed broken mask colours for Treated Vests and Blood Transfusion bag
+
+Fixed missing merges for Compound 18 SWAT vests, helmets and leggings
+
+Changed orientation of one roof balustrade to attempt to fix hole previously
+
+Removed default foregrip from Kriss vector
+
+Added some more attachments to SKS, SKS PU and tactical, closer to 1.13 values
+
+Reduced cellphone size and ub pocket size
+
+Increased price of SR-47
+
+Added Flash suppressor attachment availability to Browning BAR
+
+ubMagType/ubAmmoType fix for Casull .454 ammo
+
+More item combos and merges added for McGuyvering
+
+
+
+INVENTORY & STARTING GEAR
+
+Frazzler now has shotgun instead of MAC-10 to reflect skills, Fixed NVG graphics
+
+Babyface now has a LAW
+
+Removed Battlescope and helmet for Shadow's Ranger kit, added boonie hat
+Replaced Shadows 'laser' package with DMR kit. 
+
+Grandee gets LBE Harness for basic kit and removal of MG leg rigs on other kits that weren't needed
+
+Removed Silencer, combat goggles, Beretta and 9mm ammo from Scully's 'Finisher' kit to reduce price
+Scully removal of leg rigs that weren't applicable
+
+Added Locksmith kit to Jimmy's thief kit
+
+Scope now get FN Fal carbine for premium and G36C for Urban kit to replace dated M1 kit
+
+Added Night Ops pants to Dr Q's Night Ops kit
+
+Ivan gets 106 vest throughout, can now store grenades in Grenadier kit
+
+Bull now has steel helmet as MP
+
+
+
+MAPS
+
+Removed Occupied Territory facilities from San Mona
+
+Cleared pathways in G8
+
+G6 central entry point moved, militia have more tank-busting weapons, including PTRD, Mortars and RPG's and less rocket rifles - Removed Ghost trees
+
+Removed bugged 1000 round ammo from G3
+
+Fixed room numbers in C6, I3
+
+Replaced incorrect enemies with Automags
+
+Death camp anims improved
+
+Doran townfolk no longer refer to Grumm
+
+General map and tileset improvements
+
+
+
+ADDITIONS
+
+New tileset PRISON ISLAND added
+
+More new loadscreens
+
+More Battlesounds, militias have more variants, now both Spanish and English, as does Kingpin goons 
+
+More taunch speech, Kingpin gets more variants
+
+
+
+
+
