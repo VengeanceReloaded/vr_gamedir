@@ -5301,7 +5301,7 @@
 		<szLongItemName>Kevlar Leggings</szLongItemName>
 		<szItemDesc>The ballistic panels on these leggings are made from 28 piles of protective Kevlar. Fully adjustable waist and ankle straps were designed to maintain a snug fit.</szItemDesc>
 		<szBRName>Kevlar Leggings</szBRName>
-		<szBRDesc>The ballistic panels on these leggings are made from 28 piles of protective Kevlar. Fully adjustable waist and ankle straps were designed to maintain a snug fit without reducing mobility. These should be standard fare in every mercenary's wardrobe.</szBRDesc>
+		<szBRDesc>The ballistic panels on these leggings are made from 28 piles of protective Kevlar. Fully adjustable waist and ankle straps were designed to maintain a snug fit without reducing mobility.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>9</ubClassIndex>
@@ -5464,9 +5464,9 @@
 		<uiIndex>176</uiIndex>
 		<szItemName>Steel Helmet</szItemName>
 		<szLongItemName>Steel Helmet</szLongItemName>
-		<szItemDesc>This steel helmet provides protection from small firearms, shrapnel and other projectiles. It has a padded leather and nylon suspension, with an adjustable chin strap.</szItemDesc>
+		<szItemDesc>This steel helmet provides protection from small firearms, shrapnel and other projectiles. It has padded leather and nylon suspension, with an adjustable chin strap.</szItemDesc>
 		<szBRName>Steel Helmet</szBRName>
-		<szBRDesc>Comfortable and extremely practical. This steel helmet provides protection from small firearms, shrapnel and other projectiles. It has a padded leather and nylon suspension, with an adjustable chin strap.</szBRDesc>
+		<szBRDesc>Our best-selling standard steel helmet provides protection from small firearms, shrapnel and other projectiles. Features padded leather and nylon suspension, with an adjustable chin strap.</szBRDesc>
 		<usItemClass>2048</usItemClass>	
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -5499,9 +5499,9 @@
 		<uiIndex>177</uiIndex>
 		<szItemName>Kevlar Helmet</szItemName>
 		<szLongItemName>Kevlar Helmet</szLongItemName>
-		<szItemDesc>The Personal Armor System Ground Troops Helmet is made from Kevlar, with a comfortable suspension system, sweatband and chin strap. It also extends further over the ear and neck than standard helmets.</szItemDesc>
+		<szItemDesc>The Personal Armor System Ground Troops Helmet is made from Kevlar, with a comfortable 3 point adjustment suspension system. It also extends further over the ear and neck than standard helmets.</szItemDesc>
 		<szBRName>Kevlar Helmet</szBRName>
-		<szBRDesc>For above average protection, the wise man always wears the Personal Armor System Ground Troops Helmet. It's made from Kevlar, and has a comfortable suspension system, sweatband and chin strap. It also extends further over the ear and neck than average helmets.</szBRDesc>
+		<szBRDesc>The PAS GT has been the cornerstone for combat helmets allowing for better situational awareness and unrestricted movement while providing more armor coverage than standard helmets. It's made from Kevlar, and has a comfortable suspension system, sweatband and chin strap.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -5532,9 +5532,9 @@
 		<uiIndex>178</uiIndex>
 		<szItemName>Kvlr-18 Helmet</szItemName>
 		<szLongItemName>Treated Kevlar Helmet</szLongItemName>
-		<szItemDesc>Made from Kevlar, this Personal Armor System Ground Troops Helmet has been treated with Compound 18 to further enhance its defensive capabilities.</szItemDesc>
+		<szItemDesc>Made from Kevlar, this Personal Armor System Ground Troops helmet has been treated with Compound 18 to further enhance its defensive capabilities.</szItemDesc>
 		<szBRName>Treated Kevlar Helmet</szBRName>
-		<szBRDesc>Made from Kevlar, for above average protection, This Personal Armor System Ground Troops Helmet has been treated with Compound 18 to further enhance its defensive purposes.</szBRDesc>
+		<szBRDesc>Made from multi-layered Kevlar this PAS GT helmet has been upgraded with Compound 18 to further enhance its defensive capablities.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -8635,6 +8635,7 @@
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubClassIndex>50</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>193</ubGraphicNum>
@@ -15318,9 +15319,9 @@
 		<uiIndex>540</uiIndex>
 		<szItemName>7.62x37mm Mag AP</szItemName>
 		<szLongItemName>7.62x37mm Mag, AP</szLongItemName>
-		<szItemDesc>This 7.62 ammo is designed especially for silenced sniper rifles.</szItemDesc>
+		<szItemDesc>Designed so snipers punch through helmets, not the sound barrier.</szItemDesc>
 		<szBRName>7.62x37mm Mag AP</szBRName>
-		<szBRDesc>Designed so snipers punch through helmets, not the sound barrier.</szBRDesc>
+		<szBRDesc>This 7.62 armor piercing ammo is designed especially for silenced sniper rifles.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>566</ubClassIndex>
@@ -24789,6 +24790,7 @@
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubClassIndex>55</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>178</ubGraphicNum>
@@ -25120,10 +25122,11 @@
 		<szLongItemName>Twaron Helmet</szLongItemName>
 		<szItemDesc>The most demanding ballistic requirements can be met by a helmet made from a specially formed Twaron laminate. Its low weight makes it much more comfortable to wear than the traditional steel helmet.</szItemDesc>
 		<szBRName>Twaron Helmet</szBRName>
-		<szBRDesc>One of the best helmets money can buy!  Contact us if you want them in blue for that genuine "UN-look".</szBRDesc>
+		<szBRDesc>One of the best helmets money can buy!  Contact us if you want them in blue for that genuine UN look.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubClassIndex>64</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>176</ubGraphicNum>
@@ -25234,6 +25237,7 @@
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubClassIndex>67</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>43</ubGraphicNum>
@@ -25438,6 +25442,7 @@
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubClassIndex>73</ubClassIndex>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>600</ubGraphicNum>
@@ -25539,6 +25544,7 @@
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubClassIndex>76</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>49</ubGraphicNum>
@@ -25640,6 +25646,7 @@
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubClassIndex>79</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>46</ubGraphicNum>
@@ -25842,6 +25849,7 @@
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubClassIndex>85</ubClassIndex>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>603</ubGraphicNum>
@@ -25939,6 +25947,7 @@
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubClassIndex>88</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>52</ubGraphicNum>
@@ -26114,6 +26123,7 @@
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubClassIndex>93</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>478</ubGraphicNum>
@@ -27475,7 +27485,7 @@
 		<szLongItemName>Recon Vest Upgrade Kit</szLongItemName>
 		<szItemDesc>This upgrade kit contains the necessary components and tools to convert a kevlar, guardian or twaron vest into camouflaged recon vest.</szItemDesc>
 		<szBRName>Recon Vest Upgrade Kit</szBRName>
-		<szBRDesc>Make a light, camouflaged recon vest today! With this upgrade kit it's easier than ever!</szBRDesc>
+		<szBRDesc>Customise your Kevlar, Guardian or Twaron vest into a light, tactical, camouflaged recon vest with this upgrade kit and instruction manual.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -27714,7 +27724,7 @@
 		<szLongItemName>Camo Helmet Cover Mk.II</szLongItemName>
 		<szItemDesc>This cover will make your helmet less conspicuous. It has additional straps which can be used to mount leaves or other greenery to it, providing better camouflage.</szItemDesc>
 		<szBRName>Camo Helmet Cover Mk.II</szBRName>
-		<szBRDesc>Let the grass grow on your head! The straps on this helmet are perfect mount points for any material made by Mother nature.</szBRDesc>
+		<szBRDesc>Let the grass grow on your head! The straps on this helmet are perfect mount points for any material made by mother nature.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
@@ -34429,6 +34439,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>128</ubClassIndex>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>646</ubGraphicNum>
 		<ubWeight>11</ubWeight>
@@ -35693,6 +35704,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>163</ubClassIndex>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>681</ubGraphicNum>
 		<ubWeight>9</ubWeight>
@@ -37442,9 +37454,9 @@
 		<uiIndex>1184</uiIndex>
 		<szItemName>Camo Shirt</szItemName>
 		<szLongItemName>Underarmor Shirt</szLongItemName>
-		<szItemDesc>This shirt is designed to go under a ballistic vest, therefore DPM is only on the visible parts.</szItemDesc>
+		<szItemDesc>This shirt is designed to go under a ballistic vest, providing camouflage to your limbs.</szItemDesc>
 		<szBRName>Underarmor Shirt</szBRName>
-		<szBRDesc>There's no need to have a fully camoed shirt when you wear a ballistic vest over it anyway, so this shirt was designed for use with those vests.</szBRDesc>
+		<szBRDesc>Add extra camouflage to your arms while providing comfort and heat management under your body armor with this anti-microbial shirt.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>18014398509481984</AttachmentPoint>	<!-- Armour Vest - Camo Shirt -->
@@ -67284,6 +67296,7 @@
 		<szItemName>RPO-M Shmel</szItemName>
 		<szLongItemName>RPO-M Shmel</szLongItemName>
 		<szBRName>RPO-M Shmel</szBRName>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>183</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
@@ -67298,7 +67311,7 @@
 		<szLongItemName>TNT stick</szLongItemName>
 		<szItemDesc>Good old reliable trinitrotoluene.</szItemDesc>
 		<szBRName>TNT stick</szBRName>
-		<szBRDesc>Good old reliable trinitrotoluene.</szBRDesc>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubCursor>6</ubCursor>
 		<ubClassIndex>184</ubClassIndex>
@@ -67324,9 +67337,9 @@
 		<uiIndex>2463</uiIndex>
 		<szItemName>HMX stick</szItemName>
 		<szLongItemName>HMX stick</szLongItemName>
-		<szItemDesc>HMX is a mixture of TNT and RDX at a ratio of 50/50.</szItemDesc>
+		<szItemDesc>50%%%% TNT plus 50%%%% RDX = a heap of whoop-ass!</szItemDesc>
 		<szBRName>HMX stick</szBRName>
-		<szBRDesc>HMX is a mixture of TNT and RDX at a ratio of 50/50.</szBRDesc>
+		<szBRDesc>A handy HMX stick with all the usual pontency you get when mixing TNT and RDX but in a smaller, manageable package.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubCursor>6</ubCursor>
 		<ubClassIndex>185</ubClassIndex>
@@ -68397,11 +68410,13 @@
 	<ITEM>
 		<uiIndex>2522</uiIndex>
 		<szItemName>FrackTac Helm</szItemName>
-		<szLongItemName>FrackTac Helm</szLongItemName>
+		<szLongItemName>FrackTac Helmet</szLongItemName>
 		<szItemDesc>This cutting edge desgin uses a steel layer bonded to a compressed Dyneema backing, with a Line-X coating for spall reduction.</szItemDesc>
 		<szBRName>FrackTac Helm</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
+		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
+		<AvailableAttachmentPoint>4503599627370496</AvailableAttachmentPoint>	<!-- Armour Helmet - Cover -->
 		<ubClassIndex>220</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>394</ubGraphicNum>
@@ -68424,7 +68439,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2523</uiIndex>
-		<szItemName>Body Armor</szItemName>
+		<szItemName>FT Body Armor</szItemName>
 		<szLongItemName>FrackTac Body Armor</szLongItemName>
 		<szItemDesc>FrackTac combines a steel layer bonded to a compressed Dyneema backing and then a coating of Line-X polymer that constrains bullet fragmentation, reducing energy and damage.</szItemDesc>
 		<szBRName>FrackTac Body Armor</szBRName>
@@ -75844,9 +75859,9 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>2871</uiIndex>
 		<szItemName>Camo Cover Wood</szItemName>
 		<szLongItemName>Camo Cover MK.III Wood</szLongItemName>
-		<szItemDesc>This helmet camo cover offers nice camouflage in woodland regions.</szItemDesc>
+		<szItemDesc>This helmet camo cover provides camouflage in woodland regions.</szItemDesc>
 		<szBRName>Camo Cover MK.III Wood</szBRName>
-		<szBRDesc>This helmet camo cover offers nice camouflage in woodland regions.</szBRDesc>
+		<szBRDesc>Made from mil-spec nylon/cotton these feature slots to allow eyewear retention straps to thread through, communications gear flap on rear and use velcro fasteners.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
@@ -75874,9 +75889,9 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>2872</uiIndex>
 		<szItemName>Camo Cover Desert</szItemName>
 		<szLongItemName>Camo Cover MK.III Desert</szLongItemName>
-		<szItemDesc>This helmet camo cover offers nice camouflage in desert regions.</szItemDesc>
+		<szItemDesc>This helmet camo cover provides camouflage in desert regions.</szItemDesc>
 		<szBRName>Camo Cover MK.III Desert</szBRName>
-		<szBRDesc>This helmet camo cover offers nice camouflage in desert regions.</szBRDesc>
+		<szBRDesc>This helmet camo cover offers camouflage in arid regions and come with velcro fasteners.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
@@ -75904,9 +75919,9 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>2873</uiIndex>
 		<szItemName>Camo Cover Urban</szItemName>
 		<szLongItemName>Camo Cover MK.III Urban</szLongItemName>
-		<szItemDesc>This helmet camo cover offers nice camouflage in urban regions.</szItemDesc>
+		<szItemDesc>This helmet camo cover provides camouflage in urban regions.</szItemDesc>
 		<szBRName>Camo Cover MK.III Urban</szBRName>
-		<szBRDesc>This helmet camo cover offers nice camouflage in urban regions.</szBRDesc>
+		<szBRDesc>This helmet camo cover offers camouflage in urban regions and uses velcro fasteners.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
