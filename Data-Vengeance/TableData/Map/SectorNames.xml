@@ -893,7 +893,7 @@
     <szUnexploredName>Doran</szUnexploredName>
     <szDetailedUnexploredName>Doran</szDetailedUnexploredName>
     <szExploredName>Doran</szExploredName>
-    <szDetailedExploredName>Coastal, road</szDetailedExploredName>
+    <szDetailedExploredName>Doran Entrance</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
    </SECTOR>
@@ -1468,8 +1468,8 @@
     <SectorGrid>K2</SectorGrid>
     <szUnexploredName>Coastal, road</szUnexploredName>
     <szDetailedUnexploredName>Coastal, road</szDetailedUnexploredName>
-    <szExploredName>Coastal, road</szExploredName>
-    <szDetailedExploredName>Coastal, road</szDetailedExploredName>
+    <szExploredName>Peninsula Gate</szExploredName>
+    <szDetailedExploredName>Peninsula Gate</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>140</usNaturalDirt>
     <sRadioScanModifier>1</sRadioScanModifier>
@@ -1613,8 +1613,8 @@
     <SectorGrid>L2</SectorGrid>
     <szUnexploredName>Coastal, road</szUnexploredName>
     <szDetailedUnexploredName>Coastal, road</szDetailedUnexploredName>
-    <szExploredName>Coastal, road</szExploredName>
-    <szDetailedExploredName>Coastal, road</szDetailedExploredName>
+    <szExploredName>Burton Bridge</szExploredName>
+    <szDetailedExploredName>Burton Bridge</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>140</usNaturalDirt>
     <sRadioScanModifier>1</sRadioScanModifier>
