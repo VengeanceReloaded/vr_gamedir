@@ -79914,9 +79914,9 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>3013</uiIndex>
 		<szItemName>Beeper</szItemName>
 		<szLongItemName>Beeper</szLongItemName>
-		<szItemDesc>Feel like it's 1990 once again, and you have the edge at the office with this beeper, letting everyone know you're important. This revolutionary technology gives you that extra dimension of preparedness, ready to connect to  the latest stocks, news, sports scores, weather, and traffic info.</szItemDesc>
+		<szItemDesc>Feel like it's 1990 once again, and you have the edge at the office with this beeper, letting everyone know you're important. This revolutionary technology gives you that extra dimension of preparedness, ready to connect to the latest stocks, news, sports scores, weather, and traffic info.</szItemDesc>
 		<szBRName>Beeper</szBRName>
-		<szBRDesc>Not for sale through BR. We use these at BR's to instantly see when we get your orders.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>378</ubGraphicNum>
@@ -80005,7 +80005,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>3017</uiIndex>
 		<szItemName>Sombrero</szItemName>
 		<szLongItemName>Sombrero</szLongItemName>
-		<szItemDesc>Sombreros, like the cowboy hats invented later, were designed in response to the demands of the physical environment. you'll hate me for the truth before you love me for a lie even if you'r looking like a mexican farmer.</szItemDesc>
+		<szItemDesc>Sombreros, like the cowboy hats invented later, were designed in response to the demands of the physical environment. You'll hate me for the truth before you love me for a lie even if you'r looking like a mexican farmer.</szItemDesc>
 		<szBRName>Sombrero</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -80290,7 +80290,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>3029</uiIndex>
 		<szItemName>Head</szItemName>
 		<szLongItemName>Mendax' Head</szLongItemName>
-		<szItemDesc>Mendax will not be able to try and change the system anymore. Better hurry up and cash in this head before it causes more problems, but then again nothing says 'Welcome aboard!' quicker than bringing along Lagrange's head at a  job interview for the FBI, CIA or NSA!</szItemDesc>
+		<szItemDesc>Mendax will not be able to try and change the system anymore. Better hurry up and cash in this head before it causes more problems, but then again nothing says 'Welcome aboard!' quicker than bringing along Lagrange's head at a job interview for the FBI, CIA or NSA!</szItemDesc>
 		<szBRName>Mendax' Head</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
