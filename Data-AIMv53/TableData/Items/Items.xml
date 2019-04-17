@@ -6486,6 +6486,7 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>20</AimBonus>
+		<ToHitBonus>-10</ToHitBonus>
 		<MinRangeForAimBonus>100</MinRangeForAimBonus>
 		<BurstToHitBonus>-40</BurstToHitBonus>
 		<AutoFireToHitBonus>-50</AutoFireToHitBonus>
@@ -73886,8 +73887,9 @@
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>		
 		<AimBonus>12</AimBonus>
+		<ToHitBonus>-4</ToHitBonus>
 		<MinRangeForAimBonus>40</MinRangeForAimBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>65</DayVisionRangeBonus>
@@ -75233,6 +75235,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<BigGunList>1</BigGunList>
 		<Inseparable>1</Inseparable>
 		<AimBonus>5</AimBonus>
+		<ToHitBonus>-2</ToHitBonus>
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<BurstToHitBonus>-8</BurstToHitBonus>
 		<AutoFireToHitBonus>-10</AutoFireToHitBonus>
@@ -75566,6 +75569,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>8</AimBonus>
+		<ToHitBonus>-4</ToHitBonus>
 		<PercentReadyTimeAPReduction>-15</PercentReadyTimeAPReduction>
 		<MinRangeForAimBonus>35</MinRangeForAimBonus>
 		<BurstToHitBonus>-15</BurstToHitBonus>
@@ -78787,6 +78791,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<AimBonus>7</AimBonus>
+		<ToHitBonus>-3</ToHitBonus>
 		<MinRangeForAimBonus>27</MinRangeForAimBonus>
 		<PercentReadyTimeAPReduction>-10</PercentReadyTimeAPReduction>
 		<DayVisionRangeBonus>27</DayVisionRangeBonus>
@@ -78825,6 +78830,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Electronic>1</Electronic>
 		<Inseparable>1</Inseparable>
 		<AimBonus>18</AimBonus>
+		<ToHitBonus>-8</ToHitBonus>
 		<MinRangeForAimBonus>70</MinRangeForAimBonus>
 		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<DamageBonus>1</DamageBonus>
@@ -78834,6 +78840,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>70</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>80</PercentTunnelVision>
+		<ScopeMagFactor>8.0</ScopeMagFactor>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -78866,6 +78873,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<Inseparable>1</Inseparable>
 		<BlockIronSight>1</BlockIronSight>
 		<AimBonus>20</AimBonus>
+		<ToHitBonus>-10</ToHitBonus>
 		<MinRangeForAimBonus>100</MinRangeForAimBonus>
 		<BurstToHitBonus>-40</BurstToHitBonus>
 		<AutoFireToHitBonus>-50</AutoFireToHitBonus>
@@ -78905,12 +78913,14 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<BigGunList>1</BigGunList>
 		<Inseparable>1</Inseparable>
 		<AimBonus>10</AimBonus>
+		<ToHitBonus>-5</ToHitBonus>
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
 		<DamageBonus>1</DamageBonus>
 		<DayVisionRangeBonus>50</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
+		<ScopeMagFactor>5.0</ScopeMagFactor>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
