@@ -595,9 +595,9 @@
 	<!-- Bull -->
 	<BACKGROUND>
 		<uiIndex>21</uiIndex>
-		<szName>Prison Guard</szName>
-		<szShortName>Prison Guard</szShortName>
-		<szDescription>In longer and larger conflicts, former prison guards are natural choices for &#10;running prison camps.</szDescription>
+		<szName>Military Police</szName>
+		<szShortName>MP</szShortName>
+		<szDescription>When your constabulary is an army camp or AO, and your criminals are professional &#10;soldiers, you better have the muscle to enforce your laws.</szDescription>
 		<strength>2</strength>
 		<ap_assault>2</ap_assault>
 		<meleedamage>5</meleedamage>
@@ -3547,7 +3547,7 @@
 		<uiIndex>159</uiIndex>
 		<szName>Technical Wizard</szName>
 		<szShortName>Tech Whiz</szShortName>
-		<szDescription>No matter if it's a thirty years old junk or latest electronic gadget, &#10;tech whiz can rewire, reassemble and reconfigure it with eyes closed.</szDescription>
+		<szDescription>Whether it's thirty years old junk or the latest electronic gadget, &#10;tech whiz can rewire, reassemble and reconfigure it with eyes closed.</szDescription>
 		<dexterity>8</dexterity>
 		<mechanical>10</mechanical>
 		<wisdom>5</wisdom>
@@ -5412,7 +5412,7 @@
 		<uiIndex>249</uiIndex>
 		<szName>Surveillance Expert</szName>
 		<szShortName>Surveillance Expert</szShortName>
-		<szDescription>A expert in both legal and illegal observation methods. Curiously, his &#10;resume never said where he learned all this.</szDescription>
+		<szDescription>An expert in both legal and illegal observation methods. Curiously, his &#10;resume never said where he learned all this.</szDescription>
 		<agility>2</agility>
 		<dexterity>2</dexterity>
 		<mechanical>3</mechanical>
