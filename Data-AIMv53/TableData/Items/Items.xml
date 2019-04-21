@@ -18328,9 +18328,9 @@
 		<uiIndex>634</uiIndex>
 		<szItemName>CZ 700</szItemName>
 		<szLongItemName>CZ 700</szLongItemName>
-		<szItemDesc>Following a long tradition of high qualiy yet affordable hunting rifles, this piece with its 7.62mm, it is designed specifically for human hunting.</szItemDesc>
+		<szItemDesc>Following a long tradition of high qualiy yet affordable hunting rifles, this Czech made death-dealer is designed specifically for hunting men.</szItemDesc>
 		<szBRName>CZ 700</szBRName>
-		<szBRDesc>With this high-quality yet affordable bolt-action sniper rifle it is hard to miss your target.</szBRDesc>
+		<szBRDesc>Ahead of its time design combined with European craftsmanship make this high-quality yet affordable bolt-action sniper rifle hard to miss. No longer in production, buy it while you still can.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>634</ubClassIndex>
@@ -18338,7 +18338,7 @@
 		<ubGraphicNum>133</ubGraphicNum>
 		<ubWeight>62</ubWeight>
 		<ItemSize>8</ItemSize>
-		<usPrice>8987</usPrice>
+		<usPrice>8297</usPrice>
 		<ubCoolness>8</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -18350,7 +18350,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
 		<DefaultAttachment>1007</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
