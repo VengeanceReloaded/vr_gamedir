@@ -24235,7 +24235,7 @@
 		<szLongItemName>FN SCAR-H SV</szLongItemName>
 		<szItemDesc>The SCAR is FN's newest offering into the military armament scene. The "H" stands for "Heavy", and refers to this version firing the 7.62mm NATO round. This is the sniper variant.</szItemDesc>
 		<szBRName>FN SCAR-H SV</szBRName>
-		<szBRDesc>Chambered in trusty 7.62 NATO this SCAR uses battle-proven technology based on the legendary DNA from FN's range of SCARS. Perfectly calibrated for long-range precision fire, giving you the ability to engage targets over 700 yards with ease. The gas-operated piston design absorbs recoil efficiently to improve follow-up shots and maintain target acquisition.</szBRDesc>
+		<szBRDesc>Chambered in trusty 7.62 NATO this SCAR uses battle-proven technology. Perfectly calibrated for long-range precision fire, giving you the ability to engage targets over 700 yards with ease. The gas-operated piston design absorbs recoil efficiently to improve follow-up shots and maintain target acquisition.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>787</ubClassIndex>
@@ -49805,7 +49805,7 @@
 		<szLongItemName>ETAC Utility Pouch</szLongItemName>
 		<szItemDesc>ETAC Utility Pouches are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
 		<szBRName>ETAC Utility Pouch</szBRName>
-		<szBRDesc>The new standard in utility storage for the next-gen soldier. Designed to provide maximum durability in any environment, our lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and repels moisture.</szBRDesc>
+		<szBRDesc>The new standard in utility storage for the next-gen soldier. This universal utility pouch in MARPAT camo compliments the ETAC range sold exclusively at Bobby Rays.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>8192</nasAttachmentClass>
@@ -50031,7 +50031,7 @@
 		<szLongItemName>ETAC Single AR Mag Pouch</szLongItemName>
 		<szItemDesc>ETAC AR Pouches are the new standard in magazine storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
 		<szBRName>ETAC Single AR Mag Pouch</szBRName>
-		<szBRDesc>Designed to provide maximum durability in any environment, these lightweight desert MARPAT mag pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szBRDesc>
+		<szBRDesc>Carry more of your favorite auto weapons ammo in the field with this single AR pouch designed and made by ETAC and sold exlcusively by us.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -70727,7 +70727,7 @@
 		<szLongItemName>ETAC Long Range Recon Patrol Pack</szLongItemName>
 		<szItemDesc>ETAC Recon packs are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
 		<szBRName>ETAC  Long Range Recon Patrol Pack</szBRName>
-		<szBRDesc>ETAC Sniper Packs are THE choice in utility storage for the next generation long range patrolman. This durable yet lightweight desert MARPAT camo pack is made from the same ballistic grade nylon exterior layers as the other ETAC kits available here.</szBRDesc>
+		<szBRDesc>ETAC is THE choice in utility storage for the next generation long range patrolman. This pack is sold exclusively by Bobby Rays, you won't find it sold new anywhere else!</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>143</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -70752,9 +70752,9 @@
 		<uiIndex>2643</uiIndex>
 		<szItemName>RPG Pack</szItemName>
 		<szLongItemName>RPG Combat Pack</szLongItemName>
-		<szItemDesc>This combat pack has 4 bandoleers for rocket propelled grenades, as used by the RPG-7. The bandoleers will also store 60mm mortart shells.</szItemDesc>
+		<szItemDesc>This combat pack has 4 bandoilers for rocket propelled grenades, as used by the RPG-7. The bandoilers will also store 60mm mortart shells.</szItemDesc>
 		<szBRName>RPG Combat Pack</szBRName>
-		<szBRDesc>This combat pack has a medium sized pocket, four smaller pockets and four special bandoleers for rocket propelled grenades, as used by the RPG-7. The bandoleers will also store 60mm mortart shells or items of similiar size.</szBRDesc>
+		<szBRDesc>This combat pack has a medium sized pocket, four smaller pockets and four special bandoilers for rocket propelled grenades, as used by the RPG-7. The bandoilers will also store 60mm mortart shells or items of similiar size.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>144</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -70834,7 +70834,7 @@
 		<szLongItemName>ETAC RPK Magazines Pouch</szLongItemName>
 		<szItemDesc>ETAC RPK Magazines Pouchs are the new standard in ammo storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
 		<szBRName>ETAC RPK Magazines Pouch</szBRName>
-		<szBRDesc>Experience the new standard in ammo storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D ballistic nylon layers, that absorbs shock and sheds moisture.</szBRDesc>
+		<szBRDesc>If you haven't already checked out our exclusive LBE gear from ETAC, buy one of these pouches for your RPK gunner and see why they are so highly rated.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
