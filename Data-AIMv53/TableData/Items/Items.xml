@@ -1483,7 +1483,7 @@
 		<szLongItemName>FN Minimi</szLongItemName>
 		<szItemDesc>Nothing says democracy like 1000 rounds per minute. This light machine gun, also known as the C-9 and M-249, has been known to moonlight as a beefed-up assault rifle.</szItemDesc>
 		<szBRName>FN Minimi</szBRName>
-		<szBRDesc>Reputed for its reliability, this Belgian machine gun is gas operated, with a simple rotating bolt system. Its design was adopted by the US Army as the M249 machine gun.</szBRDesc>
+		<szBRDesc>Reputed for its reliability, this Belgian machine gun is gas operated, with a simple rotating bolt system. Adopted by the US Army as the M249 machine gun every team needs a SAW.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>34</ubClassIndex>
 		<ubCursor>3</ubCursor>
@@ -19380,6 +19380,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
+		<DefaultAttachment>209</DefaultAttachment>
 		<Bipod>10</Bipod>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -72592,7 +72593,7 @@
 		<szLongItemName>Headset - Extended Ear</szLongItemName>
 		<szItemDesc>This quality headset offers highly improved hearing range.</szItemDesc>
 		<szBRName>Headset - Extended Ear</szBRName>
-		<szBRDesc>This quality headset offers highly improved hearing range.</szBRDesc>
+		<szBRDesc>This quality item offers the highest improved hearing range of any headset on the market.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>77</ubGraphicNum>
