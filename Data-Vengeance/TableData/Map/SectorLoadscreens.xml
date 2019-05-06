@@ -313,8 +313,8 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>B13</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayAirport</szDay>
-		<szNight>Loadscreens\LS_NightAirport</szNight>
+		<szDay>Loadscreens\LS_Airport_guard</szDay>
+		<szNight>Loadscreens\LS_Night_cessna</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -1876,7 +1876,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szDay>Loadscreens\LS_Airport_guard</szDay>
 		<szNight>Loadscreens\LS_NightDesert</szNight>
 		<szDayAlt>Loadscreens\LS_Airport_guard</szDayAlt>
-		<szNightAlt>Loadscreens\LS_3_mercs</szNightAlt>
+		<szNightAlt>Loadscreens\LS_Night_cessna</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>185</uiIndex>
@@ -2145,8 +2145,8 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>N3</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayAirport</szDay>
-		<szNight>Loadscreens\LS_NightAirport</szNight>
+		<szDay>Loadscreens\LS_Airport_guard</szDay>
+		<szNight>Loadscreens\LS_Night_cessna</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -2275,8 +2275,8 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>N16</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayAirport</szDay>
-		<szNight>Loadscreens\LS_NightAirport</szNight>
+		<szDay>Loadscreens\LS_Airport_guard</szDay>
+		<szNight>Loadscreens\LS_Trashed_plane</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
