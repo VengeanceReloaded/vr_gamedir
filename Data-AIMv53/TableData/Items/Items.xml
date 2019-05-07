@@ -1483,7 +1483,7 @@
 		<szLongItemName>FN Minimi</szLongItemName>
 		<szItemDesc>Nothing says democracy like 1000 rounds per minute. This light machine gun, also known as the C-9 and M-249, has been known to moonlight as a beefed-up assault rifle.</szItemDesc>
 		<szBRName>FN Minimi</szBRName>
-		<szBRDesc>Reputed for its reliability, this Belgian machine gun is gas operated, with a simple rotating bolt system. Adopted by the US Army as the M249 machine gun every team needs a SAW.</szBRDesc>
+		<szBRDesc>Every team needs a SAW. Reputed for its reliability, this Belgian machine gun is gas operated, with a simple rotating bolt system. Adopted by the US Army as the M249.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>34</ubClassIndex>
 		<ubCursor>3</ubCursor>
@@ -13820,7 +13820,7 @@
 		<szLongItemName>6.8x43mm SPC Mag HP</szLongItemName>
 		<szItemDesc>25 rounds of 6.8mm SPC ammo. This magazine holds cartridges with hollowpoint bullets.</szItemDesc>
 		<szBRName>6.8x43mm SPC Mag HP</szBRName>
-		<szBRDesc>The 6.8x43mm Special Purpose Cartridge was developed under participation of the special operations comunity, who wanted a round that should be more lethal than the 5.56x45mm. Now they got it.</szBRDesc>
+		<szBRDesc>The 6.8x43mm Special Purpose Cartridge was developed under participation of the special operations community, who wanted a round that should be more lethal than the 5.56x45mm. Now they have it.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>637</ubClassIndex>
@@ -43799,7 +43799,7 @@
 		<szLongItemName>CAWS Ammo Box, AP</szLongItemName>
 		<szItemDesc>These rounds contain a single tungsten steel composite slug capable of tearing through most forms of body armor and car engine blocks.</szItemDesc>
 		<szBRName>CAWS Box AP</szBRName>
-		<szBRDesc>Each of these 25 rounds in this box contains a single tungsten steel composite slug capable of tearing through most forms of body armor and most car engine blocks. No serious mercenary should leave home-base without it.</szBRDesc>
+		<szBRDesc>Each of the 25 rounds in this box contains a single tungsten steel composite slug for your prototype weapons system, capable of tearing through most forms of body armor and most car engine blocks.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>206</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
