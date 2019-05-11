@@ -4213,7 +4213,7 @@
 		<szLongItemName>Mk2 Defensive Grenade</szLongItemName>
 		<szItemDesc>An old, but still extremely effective US hand grenade. The MK2 is a defensive grenade packed with TNT, and delivers a wide fragmentation radius. Uses a pull-ring, pressure-released firing trigger.</szItemDesc>
 		<szBRName>Mk2 Defensive Grenade</szBRName>
-		<szBRDesc>This "pineapple" may be older than you are, but it's no less effective on the modern battlefield. Jam packed with TNT, this pressure-released firing device with pull-ring provides great lethal coverage. Stop 'em dead in their tracks, every time.</szBRDesc>
+		<szBRDesc>This "pineapple" may be older than you are, but it's no less effective on the modern battlefield. Jam packed with TNT, this pressure-released firing device with pull-ring provides great lethal coverage.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>4</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>		
@@ -27069,7 +27069,7 @@
 		<uiIndex>865</uiIndex>
 		<szItemName>FO Kevlar Vest</szItemName>
 		<szLongItemName>Field Operative Kevlar Vest</szLongItemName>
-		<szItemDesc>This vest seems to be upgraded for purposes of longer field operations and missions.</szItemDesc>
+		<szItemDesc>An upgraded vest for purposes of longer field operations and missions.</szItemDesc>
 		<szBRName>Field Operative Kevlar Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -27112,7 +27112,7 @@
 		<uiIndex>866</uiIndex>
 		<szItemName>FO Guardian Vest</szItemName>
 		<szLongItemName>Field Operative Guardian Vest</szLongItemName>
-		<szItemDesc>This vest seems to be upgraded for purposes of longer field operations and missions.</szItemDesc>
+		<szItemDesc>An upgraded vest for purposes of longer field operations and missions.</szItemDesc>
 		<szBRName>Field Operative Guardian Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -27155,7 +27155,7 @@
 		<uiIndex>867</uiIndex>
 		<szItemName>FO Twaron Vest</szItemName>
 		<szLongItemName>Field Operative Twaron Vest</szLongItemName>
-		<szItemDesc>This vest seems to be upgraded for purposes of longer field operations and missions.</szItemDesc>
+		<szItemDesc>An upgraded Twaron vest for those longer field operations featuring better camouflage abilities.</szItemDesc>
 		<szBRName>Field Operative Twaron Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -27198,7 +27198,7 @@
 		<uiIndex>868</uiIndex>
 		<szItemName>FO Spectra Vest</szItemName>
 		<szLongItemName>Field Operative Spectra Vest</szLongItemName>
-		<szItemDesc>This vest seems to be upgraded for purposes of longer field operations and missions.</szItemDesc>
+		<szItemDesc>An upgraded Spectra vest for longer field operations and missions.</szItemDesc>
 		<szBRName>Field Operative Spectra Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -27241,7 +27241,7 @@
 		<uiIndex>869</uiIndex>
 		<szItemName>FO Dyneema Vest</szItemName>
 		<szLongItemName>Field Operative Dyneema Vest</szLongItemName>
-		<szItemDesc>This vest seems to be upgraded for purposes of longer field operations and missions.</szItemDesc>
+		<szItemDesc>This upgraded vest is designed for longer field operations and missions and provides better camouflage than a standard vest.</szItemDesc>
 		<szBRName>Field Operative Dyneema Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -27284,7 +27284,7 @@
 		<uiIndex>870</uiIndex>
 		<szItemName>FO Kevlar Legg.</szItemName>
 		<szLongItemName>Field Ops Kevlar Leggings</szLongItemName>
-		<szItemDesc>For a person spending too much time on a field duty, these upgraded leggings are definitely his best friend.</szItemDesc>
+		<szItemDesc>For a person spending too much time on a field duty, these upgraded leggings are definitely their best friend.</szItemDesc>
 		<szBRName>Field Ops Kevlar Leggings</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -27314,7 +27314,7 @@
 		<uiIndex>871</uiIndex>
 		<szItemName>FO Twaron Legg.</szItemName>
 		<szLongItemName>Field Ops Twaron Leggings</szLongItemName>
-		<szItemDesc>For a person spending too much time on a field duty, these upgraded leggings are definitely his best friend.</szItemDesc>
+		<szItemDesc>For a person spending too much time on a field duty, these upgraded leggings are definitely their best friend.</szItemDesc>
 		<szBRName>Field Ops Twaron Leggings</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -27344,7 +27344,7 @@
 		<uiIndex>872</uiIndex>
 		<szItemName>FO Spectra Legg.</szItemName>
 		<szLongItemName>Field Ops Spectra Leggings</szLongItemName>
-		<szItemDesc>For a person spending too much time on a field duty, these upgraded leggings are definitely his best friend.</szItemDesc>
+		<szItemDesc>For a person spending too much time on a field duty, these upgraded leggings are definitely their best friend.</szItemDesc>
 		<szBRName>Field Ops Spectra Leggings</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -27374,7 +27374,7 @@
 		<uiIndex>873</uiIndex>
 		<szItemName>FO Dyneema Legg.</szItemName>
 		<szLongItemName>Field Ops Dyneema Leggings</szLongItemName>
-		<szItemDesc>For a person spending too much time on a field duty, these upgraded leggings are definitely his best friend.</szItemDesc>
+		<szItemDesc>For a person spending too much time on a field duty, these upgraded leggings are definitely their best friend.</szItemDesc>
 		<szBRName>Field Ops Dyneema Leggings</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -27643,7 +27643,7 @@
 		<szLongItemName>Field Ops Vest Upgrade Kit</szLongItemName>
 		<szItemDesc>This upgrade kit contains the necessary components and tools to convert a Kevlar, Guardian, Twaron, Spectra or Dyneema vest into field operative vest.</szItemDesc>
 		<szBRName>Field Ops Vest Upgrade Kit</szBRName>
-		<szBRDesc>Spending too much time outside? Upgrade your vest using this kit and enjoy more comfort and protection than ever!</szBRDesc>
+		<szBRDesc>For those extended sanctions or long term engagements in the field upgrade your vest using this kit and enjoy more comfort, features and protection than ever.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -27669,7 +27669,7 @@
 		<szLongItemName>Field Ops Leggings Upgrade Kit</szLongItemName>
 		<szItemDesc>All you ever need to upgrade your Kevlar, Twaron, Spectra or Dyneema leggings to those used by field operatives.</szItemDesc>
 		<szBRName>Field Ops Leggings Upgrade Kit</szBRName>
-		<szBRDesc>No matter if you're a professional merc or a kid spending too much time playing outside - this upgrade kit is all your leggings need.</szBRDesc>
+		<szBRDesc>For longer engagements we recommend this upgrade kit which converts your existing Kevlar, Twaron, Spectra or Dynema pants to professional spec Field Ops leggings, providing better stowage, comfort and camouflage features.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -30403,7 +30403,7 @@
 		<szLongItemName>43mm HE Grenades, 4</szLongItemName>
 		<szItemDesc>These 43mm High Explosive grenades will fit nicely in your GM-94 grenade launcher.</szItemDesc>
 		<szBRName>43mm HE Grenades, 4</szBRName>
-		<szBRDesc>High Explosive grenades for the GM-94. Sold only in packs of four since we here at Bobby Ray's want to make sure that you won't go into battle with a half-empty weapon.</szBRDesc>
+		<szBRDesc>Keep your Russian grenadier content with this four-pack of high explosive grenades for the GM-94 launcher.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
@@ -30461,7 +30461,7 @@
 		<szLongItemName>43mm Smoke Grenades, 4</szLongItemName>
 		<szItemDesc>These 43mm Smoke grenades will fit nicely in your GM-94 grenade launcher. When you need cover, fire off a couple of these.</szItemDesc>
 		<szBRName>43mm Smoke Grenades, 4</szBRName>
-		<szBRDesc>Smoke rounds for the GM-94. Sold only in packs of four since we here at Bobby Ray's want to make sure that you won't go into battle with a half-empty weapon.</szBRDesc>
+		<szBRDesc>A complete set of four smoke rounds for the GM-94 launcher.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
@@ -30492,7 +30492,7 @@
 		<szLongItemName>43mm Stun Grenades, 4</szLongItemName>
 		<szItemDesc>Four 43mm stun grenades for the GM-94 launcher.</szItemDesc>
 		<szBRName>43mm Stun Grenades, 4</szBRName>
-		<szBRDesc>Crowd of rioters or room full of hyperactive children (we kid, of course), a stun grenade will take the wind and the fight right out of them.</szBRDesc>
+		<szBRDesc>Whether a crowd of rioters or room full of hyperactive children, this four-pack of stun grenades will take the wind right out of them.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
@@ -30537,7 +30537,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<BR_NewInventory>1</BR_NewInventory>
