@@ -5895,7 +5895,7 @@
 		<uiIndex>190</uiIndex>
 		<szItemName>Kvlr-18 Leather</szItemName>
 		<szLongItemName>Treated Leather &amp; Kevlar Jacket</szLongItemName>
-		<szItemDesc>This bomber-style leather aviation jacket has been lined with Kevlar and treated with compound 18 for added protection.</szItemDesc>
+		<szItemDesc>This bomber-style leather aviation jacket has been lined with Kevlar and treated with Compound 18 for added protection.</szItemDesc>
 		<szBRName>Treated Leather &amp; Kevlar Jacket</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -27669,7 +27669,7 @@
 		<szLongItemName>Field Ops Leggings Upgrade Kit</szLongItemName>
 		<szItemDesc>All you ever need to upgrade your Kevlar, Twaron, Spectra or Dyneema leggings to those used by field operatives.</szItemDesc>
 		<szBRName>Field Ops Leggings Upgrade Kit</szBRName>
-		<szBRDesc>For longer engagements we recommend this upgrade kit which converts your existing Kevlar, Twaron, Spectra or Dynema pants to professional spec Field Ops leggings, providing better stowage, comfort and camouflage features.</szBRDesc>
+		<szBRDesc>For longer engagements we recommend this upgrade kit which converts your existing Kevlar, Twaron, Spectra or Dyneema pants to professional spec Field Ops leggings, providing better stowage, comfort and camouflage features.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -68412,8 +68412,8 @@
 		<uiIndex>2522</uiIndex>
 		<szItemName>FrackTac Helm</szItemName>
 		<szLongItemName>FrackTac Helmet</szLongItemName>
-		<szItemDesc>This cutting edge desgin uses a steel layer bonded to a compressed Dyneema backing, with a Line-X coating for spall reduction.</szItemDesc>
-		<szBRName>FrackTac Helm</szBRName>
+		<szItemDesc>This cutting edge helmet design uses steel layers bonded to a compressed Dyneema frame and then coated with Line-X for spall reduction.</szItemDesc>
+		<szBRName>Not for sale through BR.</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -68735,6 +68735,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<AimBonus>-1</AimBonus>
 		<UrbanCamoBonus>5</UrbanCamoBonus>
 		<PercentTunnelVision>5</PercentTunnelVision>
@@ -68914,47 +68915,157 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2537</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2537</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>C-18 Zylon Combat Pants</szItemName>
+		<szLongItemName>Treated Zylon Combat Pants</szLongItemName>
+		<szItemDesc>A standard issue US military pair of combat pants treated with Compound 18. This coating should help assist in reducing Zylon's degradate rate in the field as well as provide better protection.</szItemDesc>
+		<szBRName>Not for sale through BR.</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>239</ubClassIndex>
+		<ubGraphicType>5</ubGraphicType>
+		<ubGraphicNum>206</ubGraphicNum>
+		<ubWeight>39</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>1000</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bReliability>-2</bReliability>
+		<bRepairEase>-3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<APBonus>-3</APBonus>
+		<CamoBonus>20</CamoBonus>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2538</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2538</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>Coated Zylon Combat Pants</szItemName>
+		<szLongItemName>Coated Zylon Combat Pants</szLongItemName>
+		<szItemDesc>A standard issue US military pair of combat pants treated with Crepitus jelly. This coating should help assist in reducing Zylon's degradate rate in the field as well as provide better protection.</szItemDesc>
+		<szBRName>Not for sale through BR.</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>240</ubClassIndex>
+		<ubGraphicType>5</ubGraphicType>
+		<ubGraphicNum>206</ubGraphicNum>
+		<ubWeight>31</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>1000</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bReliability>-2</bReliability>
+		<bRepairEase>-3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<APBonus>-3</APBonus>
+		<CamoBonus>20</CamoBonus>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2539</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2539</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<szItemName>C-18 Zylon Combat Vest</szItemName>
+		<szLongItemName>Treated Zylon Combat Vest</szLongItemName>
+		<szItemDesc>A standard issue US military vest treated with Compound 18. This coating should help assist in reducing Zylon's degradate rate in the field as well as provide better protection.</szItemDesc>
+		<szBRName>Not for sale through BR.</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>241</ubClassIndex>
+		<ubGraphicType>5</ubGraphicType>
+		<ubGraphicNum>207</ubGraphicNum>
+		<ubWeight>33</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>1300</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bReliability>-2</bReliability>
+		<bRepairEase>-3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<AimBonus>-2</AimBonus>
+		<APBonus>-1</APBonus>
+		<CamoBonus>20</CamoBonus>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS>
+			<PercentBase>-8</PercentBase>
+			<PercentCap>-3</PercentCap>
+			<PercentCounterForceAccuracy>-8</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<PercentBase>-16</PercentBase>
+			<PercentCap>-6</PercentCap>
+			<PercentCounterForceAccuracy>-16</PercentCounterForceAccuracy>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<PercentBase>-11</PercentBase>
+			<PercentCap>-4</PercentCap>
+			<PercentCounterForceAccuracy>-11</PercentCounterForceAccuracy>
+		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2540</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2540</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<szItemName>Coated Zylon Combat Vest</szItemName>
+		<szLongItemName>Coated Zylon Combat Vest</szLongItemName>
+		<szItemDesc>A standard issue US military vest coated with jelly. This coating should help assist in reducing Zylon's degradate rate in the field as well as provide better protection.</szItemDesc>
+		<szBRName>Not for sale through BR.</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>242</ubClassIndex>
+		<ubGraphicType>5</ubGraphicType>
+		<ubGraphicNum>207</ubGraphicNum>
+		<ubWeight>27</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>1300</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bReliability>-2</bReliability>
+		<bRepairEase>-3</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<AimBonus>-2</AimBonus>
+		<APBonus>-1</APBonus>
+		<CamoBonus>20</CamoBonus>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS>
+			<PercentBase>-8</PercentBase>
+			<PercentCap>-3</PercentCap>
+			<PercentCounterForceAccuracy>-8</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<PercentBase>-16</PercentBase>
+			<PercentCap>-6</PercentCap>
+			<PercentCounterForceAccuracy>-16</PercentCounterForceAccuracy>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<PercentBase>-11</PercentBase>
+			<PercentCap>-4</PercentCap>
+			<PercentCounterForceAccuracy>-11</PercentCounterForceAccuracy>
+		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2541</uiIndex>

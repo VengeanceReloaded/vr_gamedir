@@ -49,14 +49,14 @@
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>13</ubDegradePercent>
 	</ARMOUR>
-	<ARMOUR>	<!--  -->
+	<ARMOUR>	<!-- Treated Spectra Vest -->
 		<uiIndex>7</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>31</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
-	<ARMOUR>	<!--  -->
+	<ARMOUR>	<!-- Coated Spectra Vest -->
 		<uiIndex>8</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>33</ubProtection>
@@ -84,7 +84,7 @@
 		<ubCoverage>65</ubCoverage>
 		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
-	<ARMOUR>	<!--  -->
+	<ARMOUR>	<!-- Spectra Pants  -->
 		<uiIndex>12</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>27</ubProtection>
@@ -98,7 +98,7 @@
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
-	<ARMOUR>	<!--  -->
+	<ARMOUR>	<!-- Coated Spectra Pants -->
 		<uiIndex>14</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>31</ubProtection>
@@ -273,14 +273,14 @@
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
-	<ARMOUR>	<!--  -->
+	<ARMOUR>	<!-- Zylon Pants -->
 		<uiIndex>39</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>23</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
-	<ARMOUR>	<!--  -->
+	<ARMOUR>	<!-- Zylon Vest -->
 		<uiIndex>40</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>25</ubProtection>
@@ -1672,5 +1672,33 @@
 		<ubProtection>1</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+		<ARMOUR>	<!-- Treated Zylon Pants -->
+		<uiIndex>239</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>22</ubDegradePercent>
+	</ARMOUR>
+		<ARMOUR>	<!-- Coated Zylon Pants -->
+		<uiIndex>240</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>19</ubDegradePercent>
+	</ARMOUR>
+		<ARMOUR>	<!-- Treated Zylon Vest -->
+		<uiIndex>241</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>22</ubDegradePercent>
+	</ARMOUR>	
+		<ARMOUR>	<!-- Coated Zylon Vest -->
+		<uiIndex>242</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>19</ubDegradePercent>
 	</ARMOUR>
 </ARMOURLIST>
