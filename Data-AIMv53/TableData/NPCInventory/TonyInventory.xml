@@ -5336,9 +5336,14 @@
 		<sItemIndex>2001</sItemIndex>
 		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
-		<INVENTORY>
+	<INVENTORY>
 		<uiIndex>1213</uiIndex>
 		<sItemIndex>2131</sItemIndex>
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>1214</uiIndex>
+		<sItemIndex>352</sItemIndex>
 		<ubOptimalNumber>1</ubOptimalNumber>
 	</INVENTORY>
 </INVENTORYLIST>
