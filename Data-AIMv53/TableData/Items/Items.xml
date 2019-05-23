@@ -68821,7 +68821,7 @@
 		<szItemName>Straight Jacket</szItemName>
 		<szLongItemName>Straight Jacket</szLongItemName>
 		<szItemDesc>This fine jacket is commonly worn by limited edition people, or pill popping wonders of modern medical science.</szItemDesc>
-		<szBRName>Straight Jacket</szBRName>
+		<szBRName>Not for sale through BR.</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -68927,7 +68927,7 @@
 		<ubGraphicNum>206</ubGraphicNum>
 		<ubWeight>39</ubWeight>
 		<ItemSize>25</ItemSize>
-		<usPrice>1000</usPrice>
+		<usPrice>1200</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bReliability>-2</bReliability>
 		<bRepairEase>-3</bRepairEase>
@@ -68935,9 +68935,7 @@
 		<Repairable>1</Repairable>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
+		<NotBuyable>1</NotBuyable>
 		<APBonus>-3</APBonus>
 		<CamoBonus>20</CamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -68959,7 +68957,7 @@
 		<ubGraphicNum>206</ubGraphicNum>
 		<ubWeight>31</ubWeight>
 		<ItemSize>25</ItemSize>
-		<usPrice>1000</usPrice>
+		<usPrice>1300</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bReliability>-2</bReliability>
 		<bRepairEase>-3</bRepairEase>
@@ -68967,9 +68965,7 @@
 		<Repairable>1</Repairable>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
+		<NotBuyable>1</NotBuyable>
 		<APBonus>-3</APBonus>
 		<CamoBonus>20</CamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -68991,7 +68987,7 @@
 		<ubGraphicNum>207</ubGraphicNum>
 		<ubWeight>33</ubWeight>
 		<ItemSize>25</ItemSize>
-		<usPrice>1300</usPrice>
+		<usPrice>1500</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bReliability>-2</bReliability>
 		<bRepairEase>-3</bRepairEase>
@@ -68999,9 +68995,7 @@
 		<Repairable>1</Repairable>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
+		<NotBuyable>1</NotBuyable>
 		<AimBonus>-2</AimBonus>
 		<APBonus>-1</APBonus>
 		<CamoBonus>20</CamoBonus>
@@ -69036,7 +69030,7 @@
 		<ubGraphicNum>207</ubGraphicNum>
 		<ubWeight>27</ubWeight>
 		<ItemSize>25</ItemSize>
-		<usPrice>1300</usPrice>
+		<usPrice>1600</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bReliability>-2</bReliability>
 		<bRepairEase>-3</bRepairEase>
@@ -69044,9 +69038,7 @@
 		<Repairable>1</Repairable>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
+		<NotBuyable>1</NotBuyable>
 		<AimBonus>-2</AimBonus>
 		<APBonus>-1</APBonus>
 		<CamoBonus>20</CamoBonus>
