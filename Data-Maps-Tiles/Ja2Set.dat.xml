@@ -2696,7 +2696,7 @@
 				<file index="37">build_41.sti</file>
 				<file index="38">build_26.sti</file>
 				<file index="39">build_32.sti</file>
-				<file index="40">p-door3.sti</file>
+				<file index="40">metldoor.sti</file>
 				<file index="41">p-door4.sti</file>
 				<file index="42">pitdoor.sti</file>
 				<file index="43">celldoor.sti</file>
@@ -2704,7 +2704,7 @@
 				<file index="45">p-door4s.sti</file>
 				<file index="46">pitdoors.sti</file>
 				<file index="47">celldors.sti</file>
-				<file index="49">bones2.sti</file>
+				<file index="49">a-debri1.sti</file>
 				<file index="50">roadtle2.sti</file>
 				<file index="52">jail_dec.sti</file>
 				<file index="60">P-floor1.sti</file>
@@ -2728,7 +2728,6 @@
 				<file index="89">p-out2.sti</file>
 				<file index="90">p-out1s.sti</file>
 				<file index="91">p-out2s.sti</file>
-				<file index="92">burnmark.sti</file>
 				<file index="97">sandbag.sti</file>
 				<file index="98">spot_1.sti</file>
 				<file index="99">sandbags.sti</file>
@@ -2738,7 +2737,7 @@
 				<file index="105">p-monus.sti</file>
 				<file index="106">p-out3s.sti</file>
 				<file index="110">ladder.sti</file>
-				<file index="114">p-decal1.sti</file>
+				<file index="114">a-sign1.sti</file>
 				<file index="115">p-decal2.sti</file>
 			</Files>
 		</Tileset>
