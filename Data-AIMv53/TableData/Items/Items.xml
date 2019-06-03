@@ -4949,9 +4949,9 @@
 		<uiIndex>161</uiIndex>
 		<szItemName>Flak Jacket</szItemName>
 		<szLongItemName>Flak Jacket</szLongItemName>
-		<szItemDesc>The Armorshield ultra-light flak jacket is a highly protective sleeveless vest with a neck protector and pelvic plate. Its Velcro fasteners are concealed on the sides.</szItemDesc>
+		<szItemDesc>The Armorshield ultra-light flak jacket is a highly protective sleeveless vest with a neck protector and can store a ballistic plate. Its Velcro fasteners are concealed on the sides.</szItemDesc>
 		<szBRName>Flak Jacket</szBRName>
-		<szBRDesc>The Armorshield ultra-light flak jacket was designed to be as light and thin as possible without compromising maximum protection. It's a sleeveless vest with a neck protector, pelvic plate, and no front openings as its Velcro fasteners are concealed on the sides.</szBRDesc>
+		<szBRDesc>The Armorshield ultra-light flak jacket was designed to be as light and thin as possible without compromising maximum protection. It's a sleeveless vest with a neck protector and no front openings as its Velcro fasteners are concealed on the sides.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -4990,9 +4990,9 @@
 		<uiIndex>162</uiIndex>
 		<szItemName>Flak-18 Jacket</szItemName>
 		<szLongItemName>Treated Flak Jacket</szLongItemName>
-		<szItemDesc>This Armorshield ultra-light flak jacket was dipped in Compound 18 for anti-ballistic type protection. This sleeveless vest comes equipped with neck and pelvic plate protectors.</szItemDesc>
+		<szItemDesc>This Armorshield ultra-light flak jacket is dipped in Compound 18 for anti-ballistic protection. This sleeveless vest comes equipped with neck protection and a pocket for a bullet-proof plate.</szItemDesc>
 		<szBRName>Treated Flak Jacket</szBRName>
-		<szBRDesc>Better than average protection-the Armorshield ultra-light flak jacket dipped in Compound 18 offer true anti-ballistic type protection. This sleeveless vest comes equipped with neck and pelvic plate protectors.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1</ubClassIndex>
@@ -5030,7 +5030,7 @@
 		<uiIndex>163</uiIndex>
 		<szItemName>C.Flak Jacket</szItemName>
 		<szLongItemName>Coated Flak Jacket</szLongItemName>
-		<szItemDesc>The Armorshield ultra-light flak jacket with neck protector and pelvic plate was coated with jelly from the queen Crepitus to improve its protectiveness.</szItemDesc>
+		<szItemDesc>The Armorshield ultra-light flak jacket with neck protector has been coated with jelly from the queen Crepitus to improve its protectiveness.</szItemDesc>
 		<szBRName>Coated Flak Jacket</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
