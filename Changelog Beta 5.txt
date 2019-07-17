@@ -1,0 +1,238 @@
+
+BETA 5 Changelog (11th July - 2nd Jan 2019)
+
+CODE & GENERAL GAME
+
+
+default Ini settings changed 
+lowered MAX_STRATEGIC_ENEMY_GROUP_SIZE to 20
+set MINES_SPOTTED_NO_TALK = TRUE
+less aiming in heap firing mode
+lowered prone cover effectiveness
+
+set TILES_MOVED_PER_BONUS_TOLERANCE_POINT = 10 for better suppression tolerance balance
+
+Ja2_Vengeance.exe r1969
+r8596 Fix: throwing knives disappear when hitting corpses (by Flugente)
+suppression: better integer calculation of AP loss
+don't show "blow up" in transformation menu for grenades/explosives with 'flare' flag
+
+r8586 fix: release exes could crash when hovering in the save screen (by Flugente)
+r8589 fix: invalid edgepoint selection (by The_Bob)
+small code improvements
+
+r8581 fix: deleting a face with invalid pointer leads to first mercs having Skyrider's face (by Flugente)
+r8582 fix: face gear was not shown for non-IMP mercs if their face index wasn't their profile number (by Flugente)
+don't allow drinking from canteen with status 1
+r8583 fix: when Larry changes profiles, several stats are not properly copied; when Larry changes profiles, Goodguy is always copied over (by Flugente)
+
+<PercentStatusDrainReduction>: better integer calculation, always use at least 1 kit point
+voice taunts: fix for using last taunt variant
+check that " LAST" file exists before playing custom last sound to avoid warnings in log files
+
+r8136:
+Fix: Get Item assignement: if no valid gridno is found, let the game find one upon loading the sector instead of risking a wrong gridno assignment
+Fix: When dropping an item in strategic inventory, height values are not set 
+Fix: When looking for a valid gridno to drop items t via strategic inventory, WORLD_ITEM_REACHABLE is not reliable, as updated map topology trumps this. Instead rely upon finding a valid gridno once the sector is entered.
+Fix: when searching for a new item dropoff gridno, search for new height too
+Fix: if items are spawned mid-air, the player cannot retrieve them
+
+r7995 bugfix: Reinforcements:  Parts of roadblocks were resurrected after reinforcements death (by navaroe)
+r8100 fix: sometimes items moved by the MOVEITEM assignment are left unreachable
+r8050: When displaying a merc's maximum assignment points, factor in backgrounds values.
+
+r7988:
+Bugfix - POWs' activity level being overwritten
+
+Bugfix - mercs treated at facilities should not use mercs' medkits
+Bugfix for facility patients not detected as being in a facility
+Bugfix - iBurstAPCost was ignoring half of its calculation due to extraneous semicolon
+r7724 Bugfix: When using a vehicle to move to an enemy sector mercs will force exit the vehicle. In this case the team panel sort order was random depending on which merc was last selected. This problem occurred because the sort function for the squad was not called for this scenario. It is now called whenever a merc is added to a squad.
+Because of this the call for the sort function was removed from function SetAssignmentForList(). We do not need to call it twice.
+
+r8354:
+Fix: if merc cannot complain about his equipment due to being asleep or on duty, retry an hour later
+Fix: in AIM bios, show max life, not life at start of game
+Fix: typo resulted in AIM mercs not refusing job because of hated mercs present when they should do so
+
+r8384 fix: crash when loading a savegame repeatedly due to initialisation flag not being reset (by Flugente)
+r8380 fix: crash when entering combat without any mercs in sector on duty (by Flugente)
+new function: NumPlayerTeamMembersInSector (returns how many members of a team are in a sector - only intended for OUR_TEAM! POWs not included)
+r8385 Fix: deadlock on ammo creation popup
+r8391 Fix: When reading in Skills_Settings.ini, NUMBER_OF_MAJOR_TRAITS_ALLOWED_FOR_IMP is now limited by min(NUMBER_OF_MAJOR_TRAITS_ALLOWED, MAX_NUMBER_OF_TRAITS_FOR_IMP - 1)
+r8395 Fix: If troops spawn at the very northern edge of a sector, we often barely see them, and cannot target their head or torso. To stop that from happening, do not spawn there. (by Flugente)
+r8397 fix: game info display showed incorrect levels for BR
+r7337: If <BloodiedItem> is set on a blade, the blade weapon will be replaced with the specified item when a person is hit with it. (by Flugente)
+
+fixes from The_Bob:
+r8399
+Fixed random freeze on win8/10
+Fixed crash on mercs entering sector
+Fixed crash when using cover display (del/end)
+Fixed attachment popup showing incompatible attachments (crash/freeze/confusion on clicking the option)
+Fixed attachment popup positioning
+Fixed LBE contents corruption/deletion
+Fixed access violation (out of array bounds) in interrupt code
+Fixed a bunch of random old stuff
+Got the project to build on VS2015
+Improved popup class handling of grayed out options
+Improved performance of get item assignment check (added by Flugente)
+Added Ctrl+Space bind for testing/fixing broken LBE contents
+
+r8400
+Fixed index out of bounds in get items assignment check
+Fixed attachment popup not allowing more than one of the same attachment
+Improved timer control sanity check code
+Added timer adjustment for variable CPU frequency
+Added shortcut: ctrl+left-click on attachment to remove and drop it in sector inventory
+
+r8401
+Fixed never ending interrupt bug (cats/bugs got interrupt when out of breath)
+Added condition to interrupt code for minimal breath left to get interrupts
+Tweaked timer control code
+
+r8404
+Added: Ctrl+Shift+E now fill LBE items in sector with other items and places them in vehicles first.
+Added: Right-Click on remove attachments button on sector inventory screen will not empty LBE items in sector
+Changed: SLAY_STAYS_FOREVER disables Slay's hourly chance to leave when unattended
+Added: SLAY_HOURLY_CHANCE_TO_LEAVE setting to Ja2_Options.ini
+Fixed: a bunch of array index out of bounds bugs
+Fixed: a bunch of typos in if contitions
+Fixed: BuildListFile() function loading items from index 1 instead 0
+Added translation: Polish text for some map inventory screen items
+Added translation: English texts for new functionality for other language files
+Cleaned up some old TODOs
+
+r8407
+Cleaned up attachment removal code
+Fixed rare issue with squads and movement groups not being defined at game start.
+Fixed wrong type declarations in header files
+
+HourlyLarryUpdate: 
+initialize fBar for each soldier
+check facility instead of hardcoded sectors
+
+fix tracer effect for single shot
+
+
+
+CHARACTERS
+
+Removed insurance modifier for Razor seeing as M.E.R.C doesn't charge for insurance.
+
+Improvements to a number of Deadly Games mercs, Sparky sound volume and PCM speech files
+
+
+
+ITEMS & TRADING
+
+fixed SIG MP41/44 picture
+
+Changed attributes of SKS PU to differ from SKS. Now better accuracy, needs more handling. Corrected Taurus CT-30 and 40 rifles to assault rifles rather than SMG's. Added weight and cost to differentiate SKS PU with standard SKS.
+
+Reduced cost of ALICE back pack, but doesn't seem to work as it should.
+
+Reduced Bobby Ray's overlong description on Police utility vest.
+
+Made Regen booster $80 more expensive. Reduced cost of Blood Transfusion bag to $1800. Originally intended to change regens in medics inventories but cost would still be too high. 
+
+Fixed typo that used a Beretta instead of HK416 for barrel kit merges as flagged by Pheloncab.
+
+Added barrel kit merges for HK 416, now includes retention of original barrel.
+
+Fixed broken masks on Dyneema items.
+
+Better item sizes for HK 416 Barrels
+
+Added a few missing armour items for Jake to trade.
+
+Reduced Beowulf barrel kit as it worked out more expensive than the actual gun previously. May need to check others for similar issues.
+
+Added AKM Bayonet and SKS PU to Tony's inventory.
+
+set ubVerticalDegree = 5 for mini grenade and mk2 grenade
+
+
+
+INVENTORY & STARTING GEAR
+
+Removed some unnecessary tactical packs from Kelly, Scope and Shadow to reduce costs.
+
+Spike has retro inspired 'Deadly' kit. 
+
+Added Malice pack to carry toolkit in NIV. Removed small scope from Premium to reduce cost.
+
+Boss has knuckle dusters added to Combat pack.
+
+Nails 1%er finally uses % character, added dusters, and alcohol to this kit.
+
+Grizzly gets water and Flak jacket to HtH kit.
+
+Replaced Dr Q's flash suppressor with silencer in NO kit and added break lights.
+
+Removed broken glass jar from Mitch' Doctor's kit. 
+
+Hector gets revised Premium kit, no more double knives.
+
+Morris starting gear update
+
+
+
+MAPS
+
+Renamed Palaccio to Palacio Island (Spanish spelling for Palace) reduced Rebel sentiment, this one must've slipped through when first being created.
+
+Added the ability to train militia at Doran oil rig as it is attached to the main town sector (fast travel) will also add more housing to other Doran sectors to reflect this.
+
+Added church facility to Doran J3.
+
+Added bar to F10 Distribution Center. 
+
+Edited references to Waldo on mechanical sites outside of Drassen. 
+Tweaked some facility descriptions.
+
+Some item changes and minor edits to H3 buildings. Removed some gold for H3 b1 mine that can be accessed secretly via entrance in H3.
+
+Moved east entry/exit point more east that may have been causing crashes before as reported on forum at G14.
+
+Removed stray rock in middle of road in J3. Changed fences. Removed some items.
+
+Added room numbers to boat warehouse in M2. Minor updates to L2 (water, roads)
+
+Added spotlights to global REFINE tile to give more lighting options for maps.
+
+
+
+ADDITIONS
+
+Feature - automatically bandage bleeding mercs on a PATIENT assignment
+
+Militia now have unique voice taunts for all three ranks; green, light blue and dark blue variants
+
+game options: removed EXTRA_VOICE_TAUNTS
+
+MilitiaFemaleElite and MilitiaFemaleRegular have unique voice taunts
+
+More Battlesounds added including more for Kingpin goons, Militia and various enemies 
+
+More Loadscreens, existing broken ones that weren't loading fixed
+
+All regular AIM and MERC mercs now have facegear graphics
+
+Eagle has facegear graphics
+
+Maria has facegear graphics
+
+Mike has facegear graphics
+
+All miners have facegear graphics
+
+Conrad has improved facegear graphics
+
+
+
+
+
+
+
+
