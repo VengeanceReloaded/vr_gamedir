@@ -1,0 +1,229 @@
+
+BETA 6 Changelog (3rd Jan - 6th Oct 2019)
+
+CODE & GENERAL GAME
+
+options Ini settings changed 
+MAX_NUMBER_PLAYER_VEHICLES = 6
+
+APBPConstants.ini
+AP_MODIFIER_PACK = 0
+readded entry "AP_MODIFIER_PACK" from vanilla and set it to 0 as a temporary solution until someone checks path AP costs in 1.13
+
+Mendax file tweaked
+
+rev 2112 New exe with Mendax and Morris's heads properly recognised
+
+rev 2120 New exe with better MLRS/SCUD targetting
+
+added missing tags for scopes
+
+JA2_Vengeance.exe r2167
+- r8670 Fix: bombs cannot be planted diagonally (by Flugente)
+- disabled adding VIDEO_CAMERA to Franz
+
+JA2_Vengeance.exe updated to r2169:
+- Build 19.04.27
+- added support for MilitiaFemaleElite and MilitiaFemaleRegular voice taunts
+
+Added folders MilitiaFemaleElite, MilitiaFemaleRegular with copy of existing MilitiaFemale files
+Added modified merc prone JSD to allow going prone near obstacles
+
+-removed #235 Regeneration Booster from HowardInventory.xml
+-added #2970 Butterfly Syringe to JakeInventory.xml
+-Merges.xml: Butterfly Syringe #2970 + Blood Bag #2971 = Transfusion Bag #2972
+
+Fixed typo that was preventing Dusk_vista and Nighttown loadscreens from loading
+
+Ja2_Vengeance.exe
+Build 19.10.01
+LegalNPCDestination: removed most of new restrictions to avoid AI deadlock
+If shooting soldier is invisible, locate target spot instead.
+Improved sight penalty for smoke.
+TurnSoldierIntoCorpse: use soldier visibility for corpse.
+Correctly set visibility when dropping blood.
+UIPlotPath: ignore person at destination.
+SOLDIERTYPE: additional data initialization.
+Disable adding pending enemy when checking for end of battle to prevent bug with enemy appearing.
+Losing battle: only apply morale and loyalty penalty if enemy is alerted.
+Removed reducing camo when crawling, for better sight stability.
+CalcCoverValue: take into account seen recently opponents.
+r8692 fix: RaiseZombies function ignored sector levels and modified wrong sector info counters (by silversurfer)
+r8690 fix: Items that were placed by function AutoPlaceObjectToWorld() had incorrect sGridNo so they could end up in inaccessible places (by silversurfer).
+CheckForEndOfBattle: return FALSE after killing dying enemies in sector.
+PrepareEnemyForSectorBattle: r8686 fix
+r8689 fix: Mercs that entered a vehicle on the strategic map while standing on a roof would appear at roof level after arriving in another sector and exiting the vehicle in strategic after loading the map. Now all mercs entering vehicles are reset to ground level (by silversurfer).
+Inaccessible items fix (by MH17).
+IIS:
+- disable collective interrupts (for testing)
+- disable hearing interrupts (for testing)
+Improved auto fast forward mode.
+ExecuteCharacterDialogue: stop FF for any talking face
+RemoveStaticEnemiesFromSectorInfo: set number of creatures to zero at the end of the battle
+CancelAIAction: always reset next action
+AISoldierToSoldierChanceToGetThrough: use real target ID
+Main Red AI: only seek/help at the start of the turn
+
+
+
+CHARACTERS
+
+Improved a number of speech files and matching EDT's to a few Deadly Merc characters including Leech
+
+Fixed face for IMP 215
+
+Removed a number of annoying scrounging attributes from characters apart from those with specific crime related backgrounds
+
+Removed Cobra (formerly Hamous) from Hector's Buddy list to avoid Hamous speech if killed
+
+Col Kelly camo faces added
+
+Changed Grandee's nationality to Spanish. Adjusted some Babyface Background values to reflect his underworld past
+
+Bob Adams now has RTO skills
+
+Changed Bull's background to MP rather than prison guard to reflect his to canon bio
+
+Removed drug use from Flo's background
+
+Added Razor and Gasket to Darrel's buddy list
+
+Removed Darrel's marksman trait
+
+Adjusted volume for more Sparky speeches
+
+Adding NPC battlesounds for Sandman and Sparky to replace vanilla wavs still present
+
+Minor edits to CIV quotes for Doran and Salinas
+
+Removed Perko's reference to Grumm, now Grumm no longer exists by that name
+
+
+
+ITEMS & TRADING
+
+Typos fixed and descriptions improved for a number of items and weapons
+
+Wood, Desert and Urban camo pants & Jackets now tearable for 'McGyvering'
+TAD pants tearable for 'McGyvering'
+
+Removed Bobby Rays stock for duplicate leg and thowing knife rigs
+
+Added extra grenade slot for ETAC triple grenade pouches and triple flashbang pouch.
+
+A number of LBE fixes as reported by No_nothing
+
+Updated smaller graphics for Bizon 2-07 that has column magazine
+
+Added M4A1 - Bushmaster merge
+
+Added chance to hit bonus for M16 SAM-R
+
+Bobby Ray gets more items
+
+Added some radio gear to Fredo and Franz
+
+Added the ability to attach camo covers to all helmets including FRAC TAC helmet
+
+Added missing attachments for MkIII Camo and Stealth covers to a number of helmets
+
+Added Default bipod attachment to HK23
+
+Added treated and coated Zylon pants and vest items, merges as well as attachments for pants
+
+Increased coated and treated Zylon items in price
+
+
+
+INVENTORY & STARTING GEAR
+
+Replaced 2x10 7.62 mags for 1x20 for Grandee's elite sniper kit
+
+Fixed a number of empty canteens in mercs inventories
+
+Adjusted Bob Adams starting gear, including RTO pack, also fixed incorrect SW mag in starter kit
+
+Added extra tracer clip in Henning's kit
+
+Removed video camera from Franz' inventory requested by Scheinworld
+
+Added 9x19mm pistol mag 8 to Tony's inventory
+
+Added merges to make treated and coated Zylon armour
+
+Added Ballistic facemask to Franz inventory
+
+New graphic for Flak jacket made to differentiate better from other armour and represent better with no pelvic plate pictured
+
+Added rifle slings to Tony's inventory
+
+
+
+
+MAPS
+
+A number of map tweaks includes simplifications of roads, clearer borders and item fixes and tweaks
+
+Fixed incorrect mod reflex sight and unreachable locker in H13 as flagged by Pacho
+
+A number of facilities updated included Kingpin Drug lab
+
+Due to a number of reports and complaints some Salinas sectors were removed to reduce overall size and game grind. This should improve the ability to train militia and gain loyalty with traders as well as prevent the impression Arulco's map had 'shrunk' not originally envisioned when these sectors were expanded
+
+Removed stored crops in C11's barn that was blocking access to ammo
+
+Fixed stray jsd's from Vanilla cargo containers
+
+Room numbers fixed on carport in G8
+
+Sector 09 explored name changed
+
+Added water source to F14 due to river
+
+Malino Pharmacy updated
+
+Minor tweaks for H6, J14 and G15
+
+Changed doors and debris in PRISON ISLAND map
+
+Removed old reference to Pdoor3 that was breaking Prison island map. Removed other files not used
+
+Fixed a few visual issues with G1 roads, removed Nada item, other tweaks
+
+Added crates with pallet tiles to Generic Roads tileset
+
+
+
+ADDITIONS
+
+New loading screens
+
+NewGoldPiece interface updated, removed horizontal bar now 1.13 does not annex vehicles, in original Vanilla style to blend better with rest of interface
+
+CIA Ops get new hit and die Battlesounds
+
+A number of Male, Female and Kid hit sounds added
+
+New Militia Female Elite, Female regular taunt files added
+
+More Trac Ops death battlesounds added
+
+Militia get new hit and die Battlesounds
+
+Larger, drier taunt variant added to H&B security
+
+Bobby Ray backgrounds simplified
+
+Updated credits
+
+
+
+
+
+
+
+
+
+
+
+
