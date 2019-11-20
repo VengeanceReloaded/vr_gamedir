@@ -646,7 +646,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_DayTropical</szDay>
-		<szNight>Loadscreens\LS_NightTropical</szNight>
+		<szNight>Loadscreens\LS_Dam_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
