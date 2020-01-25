@@ -54,7 +54,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>GATHER_RUMOURS</ubAssignmentType>
-			<szTooltipText>Have a drink at the... Yeah, you wish! Just buy drinks to others and immediately report any info they may spill.</szTooltipText>
+			<szTooltipText>Have a drink at the...yeah, you wish! Just buy drinks to others and immediately report any info they may spill.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<sCostPerHour>15</sCostPerHour>
@@ -85,7 +85,7 @@
 		<ubTotalStaffLimit>8</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
-			<szTooltipText>Your mercs can Interrogate prisoners of war here. Prisoners might join you cause, or give you helpful information.</szTooltipText>
+			<szTooltipText>Your mercs can interrogate prisoners of war here. They might join your cause, or give you helpful intel.</szTooltipText>
 			<ubStaffLimit>4</ubStaffLimit>
 			<usPerformance>120</usPerformance>
 			<usPrisonBaseLimit>60</usPrisonBaseLimit>
@@ -94,7 +94,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRISON_SNITCH</ubAssignmentType>
-			<szTooltipText>Masquerade as one of prisoners and gain their trust to easily gather information and prevent mutiny attempts.</szTooltipText>
+			<szTooltipText>Masquerade as one of the prisoners and gain their trust to gather information and prevent mutiny attempts.</szTooltipText>
 			<ubStaffLimit>4</ubStaffLimit>
 			<usPerformance>120</usPerformance>
 			<CONDITIONS>
@@ -122,7 +122,7 @@
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>The machinery here can manufacture all sorts of replacements parts, which will increase your efficiency at repair, assuming you know how to use the complex machinery here.</szTooltipText>
+			<szTooltipText>The machinery here can manufacture all sorts of replacement parts, which will increase efficiency at repairing items, assuming you know how to use the complex machinery here.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 			<usKitDegrade>30</usKitDegrade>
@@ -164,7 +164,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>SPREAD_PROPAGANDA_GLOBAL</ubAssignmentType>
-			<szTooltipText>Take control of local information channels and control the flow of news in entire region.</szTooltipText>
+			<szTooltipText>Take control of local information channels and control the flow of news in the entire region.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<CONDITIONS>
 				<ubMinimumWisdom>60</ubMinimumWisdom>
@@ -206,7 +206,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>SPREAD_PROPAGANDA</ubAssignmentType>
-			<szTooltipText>Turn this small local office into well-oiled propaganda machine, suppressing any bad news reaching town and showing our actions in the best possible light.</szTooltipText>
+			<szTooltipText>Turn this small local office into well-oiled propaganda machine, suppressing any bad news reaching town and showing your actions in the best possible light.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<CONDITIONS>
@@ -231,7 +231,7 @@
 		<ubTotalStaffLimit>7</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>MANAGE_MINE</ubAssignmentType>
-			<szTooltipText>Making mine run efficiently is not an easy task. Without anyone competent at this position, mine income will drop.</szTooltipText>
+			<szTooltipText>Making mines run efficiently is not an easy task. Without anyone competent at this position, mine income will drop.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usMineIncomeModifier>125</usMineIncomeModifier>
 			<fOnlyLocalMineAffected>1</fOnlyLocalMineAffected>
@@ -259,7 +259,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>TRAINER_EXPLOSIVES</ubAssignmentType>
-			<szTooltipText>Train your mercs in the finer points of blowing things up . . . so they only blow up the right things.</szTooltipText>
+			<szTooltipText>Train your mercs in the finer points of blowing things up... so they only blow up the right things.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>125</usPerformance>
 			<usMineIncomeModifier>110</usMineIncomeModifier>
@@ -290,7 +290,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
-			<szTooltipText>Spend some time lugging ore from here to there. Increases the efficiency of STRENGTH practice, and when the citizens see you sweaty and dirty from mine work they just might think better of you!</szTooltipText>
+			<szTooltipText>Spend some time lugging ore from here to there. Increases the efficiency of STRENGTH practice, and when the citizens see you sweaty and dirty from mining they just might think better of you.</szTooltipText>
 			<ubStaffLimit>6</ubStaffLimit>
 			<usPerformance>133</usPerformance>
 			<usMineIncomeModifier>102</usMineIncomeModifier>
@@ -339,7 +339,7 @@
 		<ubTotalStaffLimit>8</ubTotalStaffLimit>	
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_HEALTH</ubAssignmentType>
-			<szTooltipText>A great place to get a balanced work-out that might improve your fitness considerably. Increases the efficiency of HEALTH training.</szTooltipText>
+			<szTooltipText>A great place to get a balanced work-out that will improve your fitness. Increases the efficiency of HEALTH training.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 			<CONDITIONS>
@@ -362,7 +362,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>STUDENT_HEALTH</ubAssignmentType>
-			<szTooltipText>Tired of being tired? Learn some HEALTH training from the most fit member in your squad.</szTooltipText>
+			<szTooltipText>Tired of being tired? Learn some HEALTH training from the most fit member of your team.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 		</ASSIGNMENT>
@@ -441,7 +441,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
-			<szTooltipText>This place is a vehicle graveyard. This will certainly make vehicle repair-work considerably easier.</szTooltipText>
+			<szTooltipText>This place is a vehicle graveyard. This will certainly make vehicle repairs easier.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<usFatigue>125</usFatigue>
@@ -449,7 +449,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>This place is a great source of mechanical odds and ends. This will certainly make robot repair-work considerably easier.</szTooltipText>
+			<szTooltipText>This place is a great source of mechanical odds and ends. This will certainly make robot repairs considerably easier.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>186</usPerformance>
 			<usFatigue>120</usFatigue>
@@ -470,7 +470,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
-			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical. . . maybe then you can keep your own gear in better shape.</szTooltipText>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical... maybe then you can keep your own gear in better shape.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>125</usPerformance>
 		</ASSIGNMENT>
@@ -511,7 +511,7 @@
 		<ubTotalStaffLimit>4</ubTotalStaffLimit>  
 		<ASSIGNMENT> 
 			<ubAssignmentType>DOCTOR</ubAssignmentType>  
-			<szTooltipText>Perform urgent life-saving treatment on your wounded men in this medical field station. Increases the DOCTOR's efficiency. Doesn't use up your kit.</szTooltipText>  
+			<szTooltipText>Perform urgent life-saving treatment on your wounded in this medical field station. Increases the DOCTOR's efficiency. Doesn't use up your kit.</szTooltipText>  
 			<ubStaffLimit>2</ubStaffLimit>  
 			<usPerformance>133</usPerformance>  
 			<usKitDegrade>0</usKitDegrade>  
@@ -532,7 +532,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>TRAINER_MEDICAL</ubAssignmentType>
-			<szTooltipText>Train your mercs in the finer points of combat medicine. . . their life, and yours, may depend on it.</szTooltipText>
+			<szTooltipText>Train your mercs in the finer points of combat medicine... their life, and yours, may depend on it.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>125</usPerformance>
 			<CONDITIONS>
@@ -542,7 +542,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>STUDENT_MEDICAL</ubAssignmentType>
-			<szTooltipText>Learn from the expert on your squad about the finer points of combat medicine in this field hospital. . . your life, and theirs, may depend on it.</szTooltipText>
+			<szTooltipText>Learn from the expert on your squad about the finer points of combat medicine in this field hospital... your life, and theirs, may depend on it.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>125</usPerformance>
 		</ASSIGNMENT>
@@ -555,7 +555,7 @@
 		<ubTotalStaffLimit>10</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
-			<szTooltipText>By taking over the armies barracks, you've also taken over the cantina inside. Your mercs can eat here.</szTooltipText>
+			<szTooltipText>By taking over the army's barracks, you've also taken over the cantina inside. Your mercs can eat here.</szTooltipText>
 			<ubStaffLimit>10</ubStaffLimit>
 			<sCostPerHour>10</sCostPerHour>
 			<sCantinaFoodModifier>500</sCantinaFoodModifier>
@@ -576,7 +576,7 @@
 		<ubTotalStaffLimit>3</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
-			<szTooltipText>Your mercs can Interrogate prisoners of war here. Prisoners might join you cause, or give you helpful information.</szTooltipText>
+			<szTooltipText>Your mercs can interrogate prisoners of war here. Prisoners might join your cause, or provide useful intel.</szTooltipText>
 			<ubStaffLimit>3</ubStaffLimit>
 			<usPerformance>100</usPerformance>
 			<usPrisonBaseLimit>20</usPrisonBaseLimit>
@@ -585,7 +585,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRISON_SNITCH</ubAssignmentType>
-			<szTooltipText>Masquerade as one of prisoners and gain their trust to easily gather information and prevent mutiny attempts.</szTooltipText>
+			<szTooltipText>Masquerade as one of the prisoners and gain their trust to gather information and prevent mutiny attempts.</szTooltipText>
 			<ubStaffLimit>3</ubStaffLimit>
 			<usPerformance>90</usPerformance>
 			<CONDITIONS>
@@ -600,7 +600,7 @@
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
-			<szTooltipText>Your mercs can Interrogate prisoners of war here. Prisoners might join you cause, or give you helpful information.</szTooltipText>
+			<szTooltipText>Your mercs can Interrogate prisoners of war here. Prisoners might join your cause, or give you helpful info.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>90</usPerformance>
 			<usPrisonBaseLimit>5</usPrisonBaseLimit>
@@ -609,7 +609,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRISON_SNITCH</ubAssignmentType>
-			<szTooltipText>Masquerade as one of prisoners and gain their trust to easily gather information and prevent mutiny attempts.</szTooltipText>
+			<szTooltipText>Masquerade as one of the prisoners and gain their trust to easily gather information and prevent mutiny attempts.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>70</usPerformance>
 			<CONDITIONS>
@@ -642,7 +642,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>TRAINER_MEDICAL</ubAssignmentType>
-			<szTooltipText>Train your mercs in the finer points of combat medicine using the supplies of the pharmacy. . . their life, and yours, may depend on it.</szTooltipText>
+			<szTooltipText>Train your mercs in the finer points of combat medicine using the supplies of the pharmacy... their life, and yours, may depend on it.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>125</usPerformance>
 			<CONDITIONS>
@@ -652,7 +652,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>STUDENT_MEDICAL</ubAssignmentType>
-			<szTooltipText>Learn from the expert on your squad about the finer points of combat medicine. . . your life, and theirs, may depend on it.</szTooltipText>
+			<szTooltipText>Learn from the expert on your squad about the finer points of combat medicine... your life, and theirs, may depend on it.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>125</usPerformance>
 		</ASSIGNMENT>
@@ -665,7 +665,7 @@
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>	
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_MEDICAL</ubAssignmentType>
-			<szTooltipText>Spread goodwill and help the poor by setting up a free medical clinic with supplies flown in to the airport on your dollar ($50/hr and no kit degrade). News of this might spread throughout Arulco!</szTooltipText>
+			<szTooltipText>Spread goodwill and help the poor by setting up a free medical clinic with supplies flown in to the airport from your funds ($50/hr and no kit degrade). News of this might spread throughout Arulco.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usFatigue>166</usFatigue>
 			<usPerformance>125</usPerformance>
@@ -720,7 +720,7 @@
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>A race track with a repair station complete with tools and spare parts. This will certainly make any repair-work a little easier.</szTooltipText>
+			<szTooltipText>A race track with a repair station complete with tools and spare parts. This will certainly make any repair-work easier.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>130</usPerformance>
 			<usFatigue>90</usFatigue>
@@ -736,7 +736,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>A race course with a repair station complete with tools and spare parts. This will certainly make robot repair-work a little easier.</szTooltipText>
+			<szTooltipText>A race course with a repair station complete with tools and spare parts. This will make robot repairs a little easier.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>175</usPerformance>
 			<usFatigue>90</usFatigue>
@@ -757,7 +757,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
-			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical. . . maybe then you can keep your own gear in better shape.</szTooltipText>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>125</usPerformance>
 		</ASSIGNMENT>
@@ -831,7 +831,7 @@
 		<szFacilityShortName>Diner</szFacilityShortName>
 		<ASSIGNMENT>
 			<ubAssignmentType>AMBIENT</ubAssignmentType>
-			<szTooltipText>Chow down on some good old, greasy, soul, comfort food here -- and maybe a beer or two! If your Mercs decide to pig out they will spend their own money here.</szTooltipText>
+			<szTooltipText>Chow down on some good old, greasy, soul, comfort food here... and maybe a beer or two! If your Mercs decide to pig out they will spend their own money here.</szTooltipText>
 			<usFatigue>75</usFatigue>
 			<DRUNK>
 				<ubChance>9</ubChance>
@@ -889,7 +889,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
-			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical. . . maybe then you can keep your own gear in better shape.</szTooltipText>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>125</usPerformance>
 		</ASSIGNMENT>
@@ -909,7 +909,7 @@
 		<ubTotalStaffLimit>1</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>SPREAD_PROPAGANDA_GLOBAL</ubAssignmentType>
-			<szTooltipText>Organizing the revolution from the Rebel Base can help secure the loyalty of the people in the countryside, or alienate them completely. Be careful who you select for the job, gringo.</szTooltipText>
+			<szTooltipText>Organizing the revolution from the Rebel Base can help secure the loyalty of the people in the countryside, or alienate them completely. Be careful who you select for the job, Gringo.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>86</usPerformance>
 			<CONDITIONS>
@@ -937,7 +937,7 @@
 		<ubTotalStaffLimit>1</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>Loot the local stores of supplies to help make basic repairs a bit easier. Might not exactly endear you to the citizenry, however.</szTooltipText>
+			<szTooltipText>Loot the local stores of supplies to help make basic repairs a bit easier. Might not exactly endear you to the locals, however.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>130</usPerformance>
 			<usFatigue>90</usFatigue>
@@ -974,7 +974,7 @@
 		<szFacilityShortName>Wine</szFacilityShortName>
 		<ASSIGNMENT>
 			<ubAssignmentType>AMBIENT</ubAssignmentType>
-			<szTooltipText>A quaint wine shop, even has the local variety -- it's the cheapest wine in the shop! If your Mercs decide to imbibe they will spend their own cash.</szTooltipText>
+			<szTooltipText>A quaint wine shop, even has the local variety... it's the cheapest wine in the shop! If your Mercs decide to imbibe they will spend their own cash.</szTooltipText>
 			<DRUNK>
 				<ubChance>13</ubChance>
 				<bBaseEffect>0</bBaseEffect>
@@ -1011,7 +1011,7 @@
 		<szFacilityShortName>Massacre Site</szFacilityShortName>
 		<ASSIGNMENT>
 			<ubAssignmentType>AMBIENT</ubAssignmentType>
-			<szTooltipText>An example of the ruthlessness of the regime -- death and destruction are everywhere. Staying here will either steel your resolve to overthrow this regime, or give you thoughts of getting out alive.</szTooltipText>
+			<szTooltipText>An example of the ruthlessness of the regime... death and destruction are everywhere. Staying here will either steel your resolve to overthrow this regime, or give you thoughts of getting out alive.</szTooltipText>
 			<usFatigue>86</usFatigue>
 			<usSleep>110</usSleep>
 		</ASSIGNMENT>
@@ -1029,7 +1029,7 @@
 		<szFacilityShortName>Uni-Ruins</szFacilityShortName>
 		<ASSIGNMENT>
 			<ubAssignmentType>AMBIENT</ubAssignmentType>
-			<szTooltipText>The Queen doesn't want an educated citizenry -- on this site the teachers and students of the National University of Arulco were massacred, and the university grounds looted and bombed. At least there's a few good walls and roofs to keep off the rain and wind.</szTooltipText>
+			<szTooltipText>The Queen doesn't want an educated citizenry... on this site the teachers and students of the National University of Arulco were massacred, and the university grounds looted and bombed. At least there's a few good walls and roofs to keep off the rain and wind.</szTooltipText>
 			<usFatigue>80</usFatigue>
 			<usSleep>115</usSleep>
 		</ASSIGNMENT>
@@ -1043,7 +1043,7 @@
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>A vehicle repair station used by the military. This will definitely make any repair-work easier.</szTooltipText>
+			<szTooltipText>A vehicle repair station used by the military. This will definitely make any repairs easier.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>140</usPerformance>
 			<usFatigue>90</usFatigue>
@@ -1051,7 +1051,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
-			<szTooltipText>A vehicle repair station complete with tools and spare parts. This will definitely make vehicle repair-work easier.</szTooltipText>
+			<szTooltipText>A vehicle repair station complete with tools and spare parts. This will help make vehicle repairs easier.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 			<usFatigue>90</usFatigue>
@@ -1059,7 +1059,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>A vehicle repair station complete with tools and spare parts. This will definitely make robot repair-work easier.</szTooltipText>
+			<szTooltipText>A vehicle repair station complete with tools and spare parts. This will make robot repairs and maintenance easier.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>175</usPerformance>
 			<usFatigue>90</usFatigue>
@@ -1126,7 +1126,7 @@
 		<ubTotalStaffLimit>9</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
-			<szTooltipText>Have a drink at the local nightclub. It might help you out in this town, for a price, but then again . . . it might not be safe to get drunk here.</szTooltipText>
+			<szTooltipText>Have a drink at the local nightclub. It might help you out in this town, for a price, but then again... it might not be safe to get drunk here.</szTooltipText>
 			<ubStaffLimit>8</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<sCostPerHour>35</sCostPerHour>
@@ -1145,7 +1145,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>GATHER_RUMOURS</ubAssignmentType>
-			<szTooltipText>Have a drink at the... Yeah, you wish! Just buy drinks for others and immediately report any info they may spill.</szTooltipText>
+			<szTooltipText>Have a drink at the... yeah, you wish! Just buy drinks for others and immediately report any info they may spill.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<sCostPerHour>35</sCostPerHour>
@@ -1171,7 +1171,7 @@
 		<szFacilityShortName>Toxic</szFacilityShortName>  
 		<ASSIGNMENT> 
 			<ubAssignmentType>AMBIENT</ubAssignmentType>
-			<szTooltipText>The oil and poisonous waste chemicals that coat everything here are not exactly healthy . . . the smell in the air actually makes you feel quesy, and it is hard to breathe.</szTooltipText>  
+			<szTooltipText>The oil and poisonous waste that coat everything here are not exactly healthy... the smell in the air actually makes you feel queasy and hard to breathe.</szTooltipText>  
 			<usFatigue>150</usFatigue>
 			<usSleep>50</usSleep>
 			<MORALE>
@@ -1223,7 +1223,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>Waldo's airport workshop has many of the tools necessary for all types of repair work, including repairing robots.!</szTooltipText>
+			<szTooltipText>Waldo's airport workshop has many of the tools necessary for all types of repair work, including repairing robots.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>166</usPerformance>
 			<usFatigue>86</usFatigue>
@@ -1234,7 +1234,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>TRAINER_MECHANICAL</ubAssignmentType>
-			<szTooltipText>Train mercs in the finer points of mechanics, including the tricks of the trade.</szTooltipText>
+			<szTooltipText>Train mercs in the finer points of mechanics, including repairing your items.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>125</usPerformance>
 			<CONDITIONS>
@@ -1244,7 +1244,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
-			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical. . . maybe then you can keep your own gear in better shape.</szTooltipText>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>125</usPerformance>
 		</ASSIGNMENT>
@@ -1277,7 +1277,7 @@
 		<ubTotalStaffLimit>9</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>MANAGE_OIL_RIG</ubAssignmentType>
-			<szTooltipText>Making oil rig run efficiently is not an easy task. Without anyone competent at this position, rig income will drop.</szTooltipText>
+			<szTooltipText>Making an oil rig run efficiently is not an easy task. Without anyone competent at this position, rig income will drop.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usMineIncomeModifier>125</usMineIncomeModifier>
 			<fOnlyLocalMineAffected>1</fOnlyLocalMineAffected>
@@ -1299,7 +1299,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
-			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical. . . maybe then you can keep your own gear in better shape.</szTooltipText>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>130</usPerformance>
 		</ASSIGNMENT>
@@ -1311,7 +1311,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
-			<szTooltipText>Spend some time lugging barrels from here to there. Increases the efficiency of STRENGTH practice, and when the citizens see you sweaty and dirty from rig work they just might think better of you!</szTooltipText>
+			<szTooltipText>Spend some time lugging barrels from here to there. Increases the efficiency of STRENGTH practice, and when the citizens see you sweaty and dirty from rig work they just might think better of you.</szTooltipText>
 			<ubStaffLimit>9</ubStaffLimit>
 			<usPerformance>133</usPerformance>
 			<MORALE>
@@ -1345,7 +1345,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
-			<szTooltipText>There are plenty of beds and food here. It's got almost all the comforts of home!</szTooltipText>
+			<szTooltipText>There are plenty of beds and food here. It's got almost all the comforts of home.</szTooltipText>
 			<ubStaffLimit>10</ubStaffLimit>
 			<usPerformance>130</usPerformance>
 			<usSleep>130</usSleep>
@@ -1402,7 +1402,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
-			<szTooltipText>This corporate transport center makes vehicle repairs a whole lot more easier.</szTooltipText>
+			<szTooltipText>This corporate transport center makes vehicle repairs a whole lot easier.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>160</usPerformance>
 			<usFatigue>50</usFatigue>
@@ -1410,7 +1410,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>This place is a great source of quality attachments and fittings. This will make robot repair-work considerably easier.</szTooltipText>
+			<szTooltipText>This place is a great source of quality attachments and fittings. This will make robot repairs considerably easier.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>186</usPerformance>
 			<usFatigue>80</usFatigue>
@@ -1431,7 +1431,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
-			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical. . . maybe then you can keep your own gear in better shape.</szTooltipText>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical.</szTooltipText>
 			<ubStaffLimit>4</ubStaffLimit>
 			<usPerformance>130</usPerformance>
 		</ASSIGNMENT>
@@ -1606,7 +1606,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>TRAINER_MECHANICAL</ubAssignmentType>
-			<szTooltipText>Train mercs in the finer points of mechanics, including the tricks of the trade.</szTooltipText>
+			<szTooltipText>Train mercs in the finer points of mechanics.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>125</usPerformance>
 			<CONDITIONS>
@@ -1616,7 +1616,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
-			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical. . . maybe then you can keep your own gear in better shape.</szTooltipText>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>125</usPerformance>
 		</ASSIGNMENT>
