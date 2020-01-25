@@ -520,6 +520,11 @@
 	</FACILITY>
 	<FACILITY>
 		<SectorGrid>H8</SectorGrid>
+		<FacilityType>8</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>H8</SectorGrid>
 		<FacilityType>18</FacilityType>
 		<ubHidden>2</ubHidden>
 	</FACILITY>
