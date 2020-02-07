@@ -4951,7 +4951,7 @@
 		<szLongItemName>Flak Jacket</szLongItemName>
 		<szItemDesc>The Armorshield ultra-light flak jacket is a highly protective sleeveless vest with a neck protector and can store a ballistic plate. Its Velcro fasteners are concealed on the sides.</szItemDesc>
 		<szBRName>Flak Jacket</szBRName>
-		<szBRDesc>The Armorshield ultra-light flak jacket was designed to be as light and thin as possible without compromising maximum protection. It's a sleeveless vest with a neck protector and no front openings as its Velcro fasteners are concealed on the sides.</szBRDesc>
+		<szBRDesc>The Armorshield ultra-light flak jacket was designed to be as light and thin as possible without compromising protection. It's a sleeveless vest with a neck protector and no front openings as its Velcro fasteners are concealed on the sides.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -27898,7 +27898,7 @@
 		<szLongItemName>FN FNP-45</szLongItemName>
 		<szItemDesc>Announced in 2007, this pistol is FN's latest addition to the civilian and law enforcement market, it may be bigger and heavier than it's 9mm cousins but makes up in stopping power.</szItemDesc>
 		<szBRName>FN FNP-45</szBRName>
-		<szBRDesc>One of the first ever polymer-framed autoloading pistols on the market, this one is chambered for the good old and never dying .45ACP-round.</szBRDesc>
+		<szBRDesc>One of the first ever polymer-framed autoloading pistols on the market, this one is chambered for the good old and ever popular .45 ACP round.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>891</ubClassIndex>
@@ -45526,9 +45526,9 @@
 		<uiIndex>1493</uiIndex>
 		<szItemName>12.3x50mm Box FL</szItemName>
 		<szLongItemName>12.3x50mm Box, Flechette</szLongItemName>
-		<szItemDesc>Open up with a shower of armor piercing metal shards and your opponents will be cut down to size.. Literally.</szItemDesc>
+		<szItemDesc>Open up with a shower of armor piercing metal shards and your opponents will be cut down to size...literally.</szItemDesc>
 		<szBRName>12.3x50mm Box Flechette</szBRName>
-		<szBRDesc>Open up with a shower of armor piercing metal shards and your opponents will be cut down to size.. Literally.</szBRDesc>
+		<szBRDesc>Open up with a shower of armor piercing metal shards and your targets will be cut down to size...literally.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>555</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -61072,9 +61072,9 @@
 		<uiIndex>2148</uiIndex>
 		<szItemName>CT-40</szItemName>
 		<szLongItemName>Taurus CT-40</szLongItemName>
-		<szItemDesc>This carbine in .40S&amp;W  fills the gap between submachinegun and assault rifle.</szItemDesc>
+		<szItemDesc>This carbine in .40 S&amp;W fills the gap between submachinegun and assault rifle.</szItemDesc>
 		<szBRName>Taurus CT-40</szBRName>
-		<szBRDesc>This carbine in .40S&amp;W  fills the gap between submachinegun and assault rifle.</szBRDesc>
+		<szBRDesc>Developed for Brazil's law enforcement agencies this carbine in .40 S&amp;W fills the gap between submachinegun and assault rifle.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
