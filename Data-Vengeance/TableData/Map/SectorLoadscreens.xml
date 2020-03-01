@@ -2165,10 +2165,10 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>N5</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayTown1</szDay>
-		<szNight>Loadscreens\LS_Nighttown</szNight>
-		<szDayAlt>Loadscreens\LS_DayTown2</szDayAlt>
-		<szNightAlt>Loadscreens\LS_NightTown2</szNightAlt>
+		<szDay>Loadscreens\LS_White_palace</szDay>
+		<szNight>Loadscreens\LS_NightPalace</szNight>
+		<szDayAlt></szDayAlt>
+		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>214</uiIndex>
@@ -2467,7 +2467,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>P3</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayPalace</szDay>
+		<szDay>Loadscreens\LS_White_palace</szDay>
 		<szNight>Loadscreens\LS_NightPalace</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -2567,7 +2567,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>P13</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayPalace</szDay>
+		<szDay>Loadscreens\LS_White_palace</szDay>
 		<szNight>Loadscreens\LS_NightPalace</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
