@@ -1743,7 +1743,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_White_palace</szDay>
-		<szNight>Loadscreens\LS_3_Mercs</szNight>
+		<szNight>Loadscreens\LS_Palace_at_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -2166,7 +2166,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_White_palace</szDay>
-		<szNight>Loadscreens\LS_NightPalace</szNight>
+		<szNight>Loadscreens\LS_Palace_at_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -2468,7 +2468,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_White_palace</szDay>
-		<szNight>Loadscreens\LS_NightPalace</szNight>
+		<szNight>Loadscreens\LS_Palace_at_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
