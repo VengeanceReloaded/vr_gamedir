@@ -27617,7 +27617,7 @@
 		<szLongItemName>Mechanic Leggings Upgrade Kit</szLongItemName>
 		<szItemDesc>All you ever need to upgrade your Kevlar, Twaron, Spectra or Dyneema leggings to those used by mechanic and demolitions operatives.</szItemDesc>
 		<szBRName>Mechanic Leggings Upgrade Kit</szBRName>
-		<szBRDesc>Ideal upgrade for mechanic and demolitions operatives! More pockets for your tools and demolitions equipment will give you more satisfaction, guaranteed!</szBRDesc>
+		<szBRDesc>The ideal upgrade for mechanic and demolitions operatives. More pockets for your tools and equipment will give you more satisfaction, guaranteed.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -75812,7 +75812,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>Barrel Kit - Upper AR57 16"</szLongItemName>
 		<szItemDesc>This upper receiver can be used to convert the AR57 into the 16" version.</szItemDesc>
 		<szBRName>B. K. - Upper AR57 16"</szBRName>
-		<szBRDesc>This upper receiver can be used to convert the AR57 into the 16" version.</szBRDesc>
+		<szBRDesc>This upper receiver barrel kit can be used to convert any AR57 into a 16" version.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>503</ubGraphicNum>
@@ -75838,7 +75838,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>Barrel Kit - Upper AR57 6" S</szLongItemName>
 		<szItemDesc>This upper receiver can be used to convert the AR57 into the 6" silenced version.</szItemDesc>
 		<szBRName>B. K. - Upper AR57 6" S</szBRName>
-		<szBRDesc>This upper receiver can be used to convert the AR57 into the 6" silenced version.</szBRDesc>
+		<szBRDesc>This upper receiver kit can be used to convert your AR57 into the 6" silenced version.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>504</ubGraphicNum>
@@ -75862,9 +75862,9 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>2867</uiIndex>
 		<szItemName>Upper M4A1</szItemName>
 		<szLongItemName>Barrel Kit - Upper M4A1</szLongItemName>
-		<szItemDesc>This is the basic Upper Receiver for the M4A1 carbine.</szItemDesc>
+		<szItemDesc>This is the basic upper receiver for the M4A1 carbine.</szItemDesc>
 		<szBRName>B. K. - Upper M4A1</szBRName>
-		<szBRDesc>This is the basic Upper Receiver for the M4A1 carbine.</szBRDesc>
+		<szBRDesc>A basic upper receiver barrel kit for the M4A1 carbine.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>505</ubGraphicNum>
@@ -75890,7 +75890,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>Barrel Kit - Upper M4A3</szLongItemName>
 		<szItemDesc>This upper receiver converts an M4A1 carbine into the Bushmaster M4A3, chambered in 6.8 SPC.</szItemDesc>
 		<szBRName>B. K. - Upper M4A3</szBRName>
-		<szBRDesc>This upper receiver converts an M4A1 carbine into the Bushmaster M4A3, chambered in 6.8 SPC.</szBRDesc>
+		<szBRDesc>This upper receiver barrel kit converts an M4A1 carbine into the Bushmaster M4A3, chambered in 6.8 SPC.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>506</ubGraphicNum>
@@ -76767,7 +76767,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>Ghillie Set Woodland</szLongItemName>
 		<szItemDesc>Synthetic nylon threads that can be added to a Ghillie suit to provide additional camouflage. This set is coloured in woodland colours.</szItemDesc>
 		<szBRName>Ghillie Set Woodland</szBRName>
-		<szBRDesc>Lightweight Camouflage Complete Ghillie Suit Kit! The Kit includes seven woodland colors of Next Generation Synthetic thread and complete directions on how to assemble the kit into a lightweight Camouflage Ghillie Poncho (not included).</szBRDesc>
+		<szBRDesc>This kit includes seven woodland colors of next generation synthetic textile materials and complete directions on how to assemble into a lightweight camouflage ghillie poncho (not included).</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>16777216</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -76794,7 +76794,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>Ghillie Set Desert</szLongItemName>
 		<szItemDesc>Synthetic nylon threads that can be added to a Ghillie suit to provide additional camouflage. This set is coloured in desert colours.</szItemDesc>
 		<szBRName>Ghillie Set Desert</szBRName>
-		<szBRDesc>Lightweight Camouflage Complete Ghillie Suit Kit! The Kit includes seven colors of Next Generation Synthetic thread and complete directions on how to assemble the kit into a lightweight Camouflage Ghillie Poncho (not included).</szBRDesc>
+		<szBRDesc>Water proof, rot proof, fire retardant and odorless free, this camouflage kit includes seven colors of next-gen synthetic thread and complete instructions on how to assemble a lightweight ghillie poncho (not included).</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>16777216</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
