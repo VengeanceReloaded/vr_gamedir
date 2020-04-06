@@ -214,6 +214,11 @@
 		<FacilityType>34</FacilityType>
 		<ubHidden>2</ubHidden>
 	</FACILITY>
+		<FACILITY>
+		<SectorGrid>H14</SectorGrid>
+		<FacilityType>8</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
 	<FACILITY>
 		<SectorGrid>H14</SectorGrid>
 		<FacilityType>18</FacilityType>
