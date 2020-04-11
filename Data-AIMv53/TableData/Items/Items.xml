@@ -41242,9 +41242,9 @@
 		<uiIndex>1329</uiIndex>
 		<szItemName>Choke</szItemName>
 		<szLongItemName>Shotgun Choke</szLongItemName>
-		<szItemDesc>When attached to the end of a shotgun barrel, causes shot fired from the shotgun to group tighter, permiting longer range and more shot to hit the target.</szItemDesc>
+		<szItemDesc>When attached to the end of a shotgun barrel, causes shot fired from the shotgun to group tighter, permitting longer range and more shot to hit the target.</szItemDesc>
 		<szBRName>Shotgun Choke</szBRName>
-		<szBRDesc>When attached to the end of a shotgun barrel, causes shot fired from the shotgun to group tighter, permiting longer range and more shot to hit the target.</szBRDesc>
+		<szBRDesc>Our shotgun choke tubes taper to tighten shots, increasing performance by adding range and more shot to hit your target.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>2</AttachmentClass>
 		<nasAttachmentClass>2</nasAttachmentClass>
@@ -41273,9 +41273,9 @@
 		<uiIndex>1330</uiIndex>
 		<szItemName>Full Choke</szItemName>
 		<szLongItemName>Full Shotgun Choke</szLongItemName>
-		<szItemDesc>When attached to the end of a shotgun barrel, causes shot fired from the shotgun to group much tighter, permiting longer range and more shot to hit the target.  Not for use with slugs!</szItemDesc>
+		<szItemDesc>When attached to the end of a shotgun barrel, causes shot fired from the shotgun to group much tighter, permiyting longer range and more shot to hit the target.  Not for use with slugs!</szItemDesc>
 		<szBRName>Full Shotgun Choke</szBRName>
-		<szBRDesc>When attached to the end of a shotgun barrel, causes shot fired from the shotgun to group much tighter, permiting longer range and more shot to hit the target.  Not for use with slugs!</szBRDesc>
+		<szBRDesc>When attached to the end of a shotgun barrel, causes shot fired from the shotgun to group much tighter, permiyting longer range and more shot to hit the target.  Not for use with slugs!</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>2</AttachmentClass>
 		<nasAttachmentClass>2</nasAttachmentClass>
@@ -41307,7 +41307,7 @@
 		<szLongItemName>Rifled Shotgun Choke</szLongItemName>
 		<szItemDesc>When attached to the end of a shotgun barrel, causes slugs to fire more accurately and farther.  However, shot will fire in a very wide, ineffective pattern.</szItemDesc>
 		<szBRName>Rifled Shotgun Choke</szBRName>
-		<szBRDesc>Makes your slugs to fire long and straight, but throws shot all over tarnation!</szBRDesc>
+		<szBRDesc>Upgrade your shotgun with this performance rifled choke making your slugs fire long and straight, however not recommended for bukshot use.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>2</AttachmentClass>
 		<nasAttachmentClass>2</nasAttachmentClass>
