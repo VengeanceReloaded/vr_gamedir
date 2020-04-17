@@ -529,4 +529,16 @@
 	<usMoneyPaid>5000</usMoneyPaid>
 	<usDay>7</usDay>
   </MERC>
+    <MERC>
+	<uiIndex>43</uiIndex>
+	<Name>Ash</Name>
+	<Drunk>0</Drunk>
+	<uiAlternateIndex>-1</uiAlternateIndex>
+	<StartMercsAvailable>0</StartMercsAvailable>
+	<NewMercsAvailable>0</NewMercsAvailable>
+	<MercBioID>45</MercBioID>
+	<ProfilId>209</ProfilId>
+	<usMoneyPaid>0</usMoneyPaid>
+	<usDay>0</usDay>
+  </MERC>
 </MERC_AVAILABLES>
