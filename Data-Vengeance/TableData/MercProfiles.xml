@@ -20809,86 +20809,87 @@
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>217</uiIndex>
-		<Type>0</Type>
-		<zName></zName>
-		<zNickname></zNickname>
+		<Type>2</Type>
+		<zName>Roger "Disco" Rilley</zName>
+		<zNickname>Disco</zNickname>
 		<ubFaceIndex>217</ubFaceIndex>
-		<usEyesX>0</usEyesX>
-		<usEyesY>0</usEyesY>
-		<usMouthX>0</usMouthX>
-		<usMouthY>0</usMouthY>
+		<usEyesX>4</usEyesX>
+		<usEyesY>7</usEyesY>
+		<usMouthX>5</usMouthX>
+		<usMouthY>28</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
-		<uiBlinkFrequency>0</uiBlinkFrequency>
-		<uiExpressionFrequency>0</uiExpressionFrequency>
-		<PANTS></PANTS>
-		<VEST></VEST>
-		<SKIN></SKIN>
-		<HAIR></HAIR>
+		<uiBlinkFrequency>3000</uiBlinkFrequency>
+		<uiExpressionFrequency>2000</uiExpressionFrequency>
+		<PANTS>TANPANTS</PANTS>
+		<VEST>WHITEVEST</VEST>
+		<SKIN>PINKSKIN</SKIN>
+		<HAIR>BROWNHEAD</HAIR>
 		<bSex>0</bSex>
 		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
-		<bAttitude>0</bAttitude>
-		<bCharacterTrait>0</bCharacterTrait>
+		<bAttitude>1</bAttitude>
+		<bCharacterTrait>9</bCharacterTrait>
 		<bDisability>0</bDisability>
-		<ubNeedForSleep>0</ubNeedForSleep>
+		<ubNeedForSleep>6</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>0</bLifeMax>
-		<bLife>0</bLife>
-		<bStrength>0</bStrength>
-		<bAgility>0</bAgility>
-		<bDexterity>0</bDexterity>
-		<bWisdom>0</bWisdom>
-		<bMarksmanship>0</bMarksmanship>
-		<bExplosive>0</bExplosive>
-		<bLeadership>0</bLeadership>
-		<bMedical>0</bMedical>
-		<bMechanical>0</bMechanical>
-		<bExpLevel>0</bExpLevel>
+		<bLifeMax>78</bLifeMax>
+		<bLife>78</bLife>
+		<bStrength>75</bStrength>
+		<bAgility>92</bAgility>
+		<bDexterity>72</bDexterity>
+		<bWisdom>73</bWisdom>
+		<bMarksmanship>86</bMarksmanship>
+		<bExplosive>35</bExplosive>
+		<bLeadership>39</bLeadership>
+		<bMedical>34</bMedical>
+		<bMechanical>42</bMechanical>
+		<bExpLevel>4</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
-		<bNewSkillTrait1>0</bNewSkillTrait1>
-		<bNewSkillTrait2>0</bNewSkillTrait2>
-		<bNewSkillTrait3>0</bNewSkillTrait3>
-		<bBuddy1>0</bBuddy1>
-		<bBuddy2>0</bBuddy2>
-		<bBuddy3>0</bBuddy3>
-		<bBuddy4>0</bBuddy4>
-		<bBuddy5>0</bBuddy5>
-		<bLearnToLike>0</bLearnToLike>
+		<bNewSkillTrait1>5</bNewSkillTrait1>
+		<bNewSkillTrait2>5</bNewSkillTrait2>
+		<bNewSkillTrait3>18</bNewSkillTrait3>
+		<bNewSkillTrait4>23</bNewSkillTrait4>
+		<bBuddy1>59</bBuddy1>
+		<bBuddy2>253</bBuddy2>
+		<bBuddy3>255</bBuddy3>
+		<bBuddy4>255</bBuddy4>
+		<bBuddy5>255</bBuddy5>
+		<bLearnToLike>255</bLearnToLike>
 		<bLearnToLikeTime>0</bLearnToLikeTime>
-		<bHated1>0</bHated1>
-		<bHatedTime1>0</bHatedTime1>
-		<bHated2>0</bHated2>
-		<bHatedTime2>0</bHatedTime2>
-		<bHated3>0</bHated3>
+		<bHated1>43</bHated1>
+		<bHatedTime1>15</bHatedTime1>
+		<bHated2>13</bHated2>
+		<bHatedTime2>25</bHatedTime2>
+		<bHated3>255</bHated3>
 		<bHatedTime3>0</bHatedTime3>
-		<bHated4>0</bHated4>
+		<bHated4>255</bHated4>
 		<bHatedTime4>0</bHatedTime4>
-		<bHated5>0</bHated5>
+		<bHated5>255</bHated5>
 		<bHatedTime5>0</bHatedTime5>
-		<bLearnToHate>0</bLearnToHate>
-		<bLearnToHateTime>0</bLearnToHateTime>
+		<bLearnToHate>46</bLearnToHate>
+		<bLearnToHateTime>35</bLearnToHateTime>
 		<bRace>0</bRace>
 		<bNationality>0</bNationality>
 		<bAppearance>0</bAppearance>
-		<bAppearanceCareLevel>0</bAppearanceCareLevel>
+		<bAppearanceCareLevel>1</bAppearanceCareLevel>
 		<bRefinement>0</bRefinement>
-		<bRefinementCareLevel>0</bRefinementCareLevel>
+		<bRefinementCareLevel>1</bRefinementCareLevel>
 		<bHatedNationality>-1</bHatedNationality>
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
-		<bSexist>0</bSexist>
-		<sSalary>0</sSalary>
+		<bSexist>1</bSexist>
+		<sSalary>2501</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
-		<bArmourAttractiveness>-1</bArmourAttractiveness>
-		<bMainGunAttractiveness>-1</bMainGunAttractiveness>
+		<bArmourAttractiveness>28</bArmourAttractiveness>
+		<bMainGunAttractiveness>11</bMainGunAttractiveness>
 		<fGoodGuy>0</fGoodGuy>
 		<usApproachFactorFriendly>100</usApproachFactorFriendly>
 		<usApproachFactorDirect>100</usApproachFactorDirect>
@@ -20900,6 +20901,7 @@
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>0</bTown>
 		<bTownAttachment>0</bTownAttachment>
+		<usBackground>338</usBackground>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>218</uiIndex>

@@ -7278,4 +7278,30 @@
 		<approach_direct>5</approach_direct>
 		<approach_threaten>9</approach_threaten>
 	</BACKGROUND>
+	<!-- Disco -->
+	<BACKGROUND>
+		<uiIndex>338</uiIndex>
+		<szName>Disco King/Stunt Driver/Instructor</szName>
+		<szShortName>Disco King/Stunt Driver/Instructor</szShortName>
+		<szDescription>Disco is not dead! Not yet anyway.</szDescription>
+		<ap_urban>8</ap_urban>
+		<travel_car>20</travel_car>
+		<ap_inventory>10</ap_inventory>
+		<resistance_alcohol>-5</resistance_alcohol> 
+		<approach_direct>10</approach_direct>
+		<approach_threaten>5</approach_threaten>
+		<approach_recruit>5</approach_recruit>
+		<leadership>5</leadership>
+		<dexterity>3</dexterity>
+		<agility>3</agility>
+		<resistance_fear>10</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<resistance_physical>5</resistance_physical>
+		<carrystrength>2</carrystrength>
+		<spotter>3</spotter>
+		<capitulation>15</capitulation>
+		<stealth>10</stealth>
+		<increased_maxcth>3</increased_maxcth>
+		<interrogation>150</interrogation>  		
+	</BACKGROUND>
 </BACKGROUNDS>
