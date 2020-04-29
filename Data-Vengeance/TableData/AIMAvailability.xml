@@ -1086,8 +1086,8 @@ Important: When USE_PROFILE_DATA_FROM_XML = FALSE, you can only remove mercs fro
 	</AIM>
 	<AIM>
 		<uiIndex>210</uiIndex>
-		<ProfilId>-1</ProfilId>
-		<AimBioID>-1</AimBioID>
+		<ProfilId>210</ProfilId>
+		<AimBioID>73</AimBioID>
 	</AIM>
 	<AIM>
 		<uiIndex>211</uiIndex>

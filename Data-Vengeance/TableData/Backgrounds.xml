@@ -7304,4 +7304,43 @@
 		<increased_maxcth>3</increased_maxcth>
 		<interrogation>150</interrogation>  		
 	</BACKGROUND>
+	<!-- Exec Sober -->
+	<BACKGROUND>
+		<uiIndex>339</uiIndex>
+		<szShortName>Corporate Hawk/Drug Baron</szShortName>
+		<szDescription>The phrase show me the money may have been coined by Hollywood but you've been using it far longer.</szDescription>
+		<approach_direct>20</approach_direct>
+		<approach_threaten>5</approach_threaten>
+		<approach_recruit>20</approach_recruit>
+		<resistance_alcohol>-5</resistance_alcohol>
+		<interrogation>300</interrogation> 
+		<wisdom>3</wisdom>
+		<betterprices>13</betterprices>
+		<leadership>3</leadership>
+		<capitulation>25</capitulation>
+	</BACKGROUND>
+	<!-- Exec -->
+	<BACKGROUND>
+		<uiIndex>340</uiIndex>
+		<szShortName>Drug Fuelled Avenger</szShortName>
+		<szDescription>A dose of the right stuff can turn any mild mannered individual into a vicious killer.  Your walking proof of this.</szDescription>
+		<hearing_day>2</hearing_day>
+		<hearing_night>2</hearing_night>
+		<speed_run>5</speed_run>
+		<resistance_fear>15</resistance_fear>
+		<resistance_suppression>15</resistance_suppression>
+		<resistance_physical>10</resistance_physical>
+		<agility>3</agility>
+		<ap_polar>3</ap_polar>
+		<ap_desert>3</ap_desert>
+		<ap_swamp>3</ap_swamp>
+		<ap_urban>3</ap_urban>
+		<ap_river>3</ap_river>
+		<ap_coastal>3</ap_coastal>
+		<ap_tropical>3</ap_tropical>
+		<ap_mountain>3</ap_mountain>
+		<food>-25</food>
+		<travel_foot>5</travel_foot>
+		<increased_maxcth>3</increased_maxcth>
+	</BACKGROUND>
 </BACKGROUNDS>
