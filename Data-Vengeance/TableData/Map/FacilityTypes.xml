@@ -1627,8 +1627,8 @@
 			<usPerformance>125</usPerformance>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
-	
-		<FACILITYTYPE>
+
+	<FACILITYTYPE>
 		<ubIndex>56</ubIndex>
 		<szFacilityName>Church</szFacilityName>
 		<szFacilityShortName>Church</szFacilityShortName>
@@ -1653,7 +1653,7 @@
 		</ASSIGNMENT>
 	</FACILITYTYPE>
 	
-		<FACILITYTYPE>
+	<FACILITYTYPE>
 		<ubIndex>57</ubIndex>
 		<szFacilityName>Drug Lab</szFacilityName>
 		<szFacilityShortName>Drug Lab</szFacilityShortName>
@@ -1662,7 +1662,28 @@
 			<szTooltipText>This is a drug lab and transfer depot for narcos. It's a bit dangerous to stay here, not only due to the unstable chemicals but also if the bad guys return.</szTooltipText>
 			<usFatigue>75</usFatigue>
 			<usSleep>75</usSleep>
+			<DRUNK>
+				<ubChance>30</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>1</ubRange>
+				<sParam>2801</sParam>
+			</DRUNK>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
 	
+	<FACILITYTYPE>
+		<ubIndex>58</ubIndex>
+		<szFacilityName>Sketchy Neighborhood</szFacilityName>
+		<szFacilityShortName>Sketchy Neighborhood</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>You might want to avoid this place after dusk.</szTooltipText>
+			<DRUNK>
+				<ubChance>30</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>1</ubRange>
+				<sParam>2801</sParam>
+			</DRUNK>
+		</ASSIGNMENT>
+	</FACILITYTYPE>	
 </FACILITYTYPES>

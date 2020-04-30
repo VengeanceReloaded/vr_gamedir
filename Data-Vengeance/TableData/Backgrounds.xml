@@ -7318,12 +7318,14 @@
 		<betterprices>13</betterprices>
 		<leadership>3</leadership>
 		<capitulation>25</capitulation>
+		<druguse>1</druguse>
+		<drugitem>2801</drugitem>
 	</BACKGROUND>
 	<!-- Exec -->
 	<BACKGROUND>
 		<uiIndex>340</uiIndex>
 		<szShortName>Drug Fuelled Avenger</szShortName>
-		<szDescription>A dose of the right stuff can turn any mild mannered individual into a vicious killer.  Your walking proof of this.</szDescription>
+		<szDescription>A dose of the right stuff can turn any mild mannered individual into a vicious killer.  You're walking proof of this.</szDescription>
 		<hearing_day>2</hearing_day>
 		<hearing_night>2</hearing_night>
 		<speed_run>5</speed_run>
@@ -7342,5 +7344,7 @@
 		<food>-25</food>
 		<travel_foot>5</travel_foot>
 		<increased_maxcth>3</increased_maxcth>
+		<druguse>1</druguse>
+		<drugitem>2801</drugitem>
 	</BACKGROUND>
 </BACKGROUNDS>
