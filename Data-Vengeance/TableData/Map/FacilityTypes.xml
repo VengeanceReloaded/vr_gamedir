@@ -720,7 +720,7 @@
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>A race track with a repair station complete with tools and spare parts. This will certainly make any repair-work easier.</szTooltipText>
+			<szTooltipText>A race track workshop with tools and spare parts. This will make any repair-work easier.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>130</usPerformance>
 			<usFatigue>90</usFatigue>
@@ -728,7 +728,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
-			<szTooltipText>A race track with a repair station complete with tools and spare parts is ideal for fixing-up your ride.</szTooltipText>
+			<szTooltipText>A race workshop complete with tools and spare parts is ideal for fixing-up your ride.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 			<usFatigue>90</usFatigue>
@@ -736,7 +736,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>A race course with a repair station complete with tools and spare parts. This will make robot repairs a little easier.</szTooltipText>
+			<szTooltipText>A race course with a workshop complete with tools and spare parts. This will make robot repairs a little easier.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>175</usPerformance>
 			<usFatigue>90</usFatigue>
@@ -1038,12 +1038,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>43</ubIndex>
-		<szFacilityName>Alma Service Station</szFacilityName>
-		<szFacilityShortName>Service Station</szFacilityShortName>
+		<szFacilityName>Alma Garage</szFacilityName>
+		<szFacilityShortName>Garage</szFacilityShortName>
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>A vehicle repair station used by the military. This will definitely make any repairs easier.</szTooltipText>
+			<szTooltipText>A vehicle repair station used by the military making any repairs easier.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>140</usPerformance>
 			<usFatigue>90</usFatigue>
@@ -1059,7 +1059,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>A vehicle repair station complete with tools and spare parts. This will make robot repairs and maintenance easier.</szTooltipText>
+			<szTooltipText>A vehicle repair station with tools and spare parts which could be used for robot repairs and maintenance.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>175</usPerformance>
 			<usFatigue>90</usFatigue>
