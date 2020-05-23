@@ -7347,4 +7347,68 @@
 		<druguse>1</druguse>
 		<drugitem>2801</drugitem>
 	</BACKGROUND>
+	<!-- VV -->
+	<BACKGROUND>
+		<uiIndex>341</uiIndex>
+		<szShortName>Exotic Dancer/Con Artist</szShortName>
+		<szDescription>You've spent all your life on the hustle. Then you realised that life is one big hustle.</szDescription>
+		<ap_assault>-5</ap_assault>
+		<interrogation>250</interrogation>
+		<betterprices_guns>10</betterprices_guns>
+		<betterprices>20</betterprices>
+		<approach_friendly>20</approach_friendly>
+		<approach_direct>10</approach_direct>
+		<approach_threaten>5</approach_threaten>
+		<approach_recruit>20</approach_recruit>
+		<scrounging>1</scrounging>
+		<no_male>1</no_male>
+		<agility>6</agility>
+		<strength>3</strength>
+		<dexterity>3</dexterity>
+		<ap_fortify>-13</ap_fortify>
+		<ap_airdrop>-1</ap_airdrop>
+		<travel_foot>6</travel_foot>
+		<speed_run>20</speed_run>
+		<resistance_physical>6</resistance_physical>
+		<resistance_fear>3</resistance_fear>
+		<resistance_suppression>3</resistance_suppression>
+		<meleedamage>4</meleedamage>
+		<food>-5</food>
+		<water>-5</water>
+		<drink_energyregen>200</drink_energyregen>
+		<carrystrength>3</carrystrength>
+		</BACKGROUND>
+	<!-- Sioux -->
+	<BACKGROUND>
+		<uiIndex>342</uiIndex>
+		<szName>One-Eyed Hunter</szName>
+		<szShortName>One-Eyed Hunter</szShortName>
+		<szDescription>Just like a normal hunter but only half as good.</szDescription>
+		<ap_desert>5</ap_desert>
+		<ap_swamp>3</ap_swamp>
+		<ap_urban>-1</ap_urban>
+		<ap_river>3</ap_river>
+		<ap_coastal>3</ap_coastal>
+		<ap_tropical>5</ap_tropical>
+		<ap_mountain>5</ap_mountain>
+		<travel_foot>3</travel_foot>
+		<carrystrength>4</carrystrength>
+		<stealth>15</stealth>
+		<hearing_night>1</hearing_night>
+		<hearing_day>1</hearing_day>
+		<drink_energyregen>100</drink_energyregen>
+		<food>-10</food>
+		<water>-10</water>
+		<speed_run>10</speed_run>
+		<meleedamage>5</meleedamage>
+		<cth_blades>7</cth_blades>
+		<dexterity>8</dexterity>
+		<mechanical>10</mechanical>
+		<betterprices_guns>10</betterprices_guns>
+		<betterprices>10</betterprices>
+		<ap_inventory>-10</ap_inventory> 
+		<marksmanship>-10</marksmanship>
+		<increased_maxcth>-5</increased_maxcth>
+		<spotter>-10</spotter>
+	</BACKGROUND>
 </BACKGROUNDS>
