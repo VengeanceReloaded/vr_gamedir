@@ -10748,7 +10748,7 @@
 		<uiIndex>111</uiIndex>
 		<Type>4</Type>
 		<zName>Wernher Zuchs</zName>
-		<zNickname>The Dentist</zNickname>
+		<zNickname>Dentist</zNickname>
 		<ubFaceIndex>111</ubFaceIndex>
 		<usEyesX>16</usEyesX>
 		<usEyesY>32</usEyesY>
@@ -10756,9 +10756,9 @@
 		<usMouthY>56</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
-		<uiBlinkFrequency>2000</uiBlinkFrequency>
+		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
-		<PANTS>WHITEPANTS</PANTS>
+		<PANTS>BLACKPANTS</PANTS>
 		<VEST>WHITEVEST</VEST>
 		<SKIN>PINKSKIN</SKIN>
 		<HAIR>BLONDHEAD</HAIR>
@@ -10838,6 +10838,7 @@
 		<bTown>0</bTown>
 		<bTownAttachment>10</bTownAttachment>
 		<usBackground>309</usBackground>
+	</PROFILE>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>112</uiIndex>
@@ -20188,8 +20189,8 @@
 		<bMechanical>7</bMechanical>
 		<bExpLevel>2</bExpLevel>
 		<bEvolution>0</bEvolution>
-		<bOldSkillTrait>6</bOldSkillTrait>
-		<bOldSkillTrait2>8</bOldSkillTrait2>
+		<bOldSkillTrait>0</bOldSkillTrait>
+		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>7</bNewSkillTrait1>
 		<bNewSkillTrait2>18</bNewSkillTrait2>
 		<bNewSkillTrait3>20</bNewSkillTrait3>
@@ -20283,8 +20284,8 @@
 		<bMechanical>7</bMechanical>
 		<bExpLevel>2</bExpLevel>
 		<bEvolution>0</bEvolution>
-		<bOldSkillTrait>8</bOldSkillTrait>
-		<bOldSkillTrait2>13</bOldSkillTrait2>
+		<bOldSkillTrait>0</bOldSkillTrait>
+		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>5</bNewSkillTrait1>
 		<bNewSkillTrait2>11</bNewSkillTrait2>
 		<bNewSkillTrait3>15</bNewSkillTrait3>
@@ -21006,8 +21007,8 @@
 	<PROFILE>
 		<uiIndex>219</uiIndex>
 		<Type>2</Type>
-		<zName>Velvet Velour</zName>
-		<zNickname>VV</zNickname>
+		<zName>Susan "Hustler" Lysette</zName>
+		<zNickname>Hustler</zNickname>
 		<ubFaceIndex>219</ubFaceIndex>
 		<usEyesX>10</usEyesX>
 		<usEyesY>8</usEyesY>
