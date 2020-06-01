@@ -1730,7 +1730,7 @@
 		<szLongItemName>M224 Mortar</szLongItemName>
 		<szItemDesc>The M224 is a 60mm caliber lightweight mortar with a finned barrel, sight, M7 base plate, and a bipod. It was built to handle HE bombs.</szItemDesc>
 		<szBRName>M224 Mortar</szBRName>
-		<szBRDesc>Commonly referred to as the battalion commander's artillery, the M224 mortar is a must-have for the serious mercenary commandant. It is a 60mm caliber lightweight mortar with a finned barrel, sight, M7 base plate and bipod, that was built to specifically accommodate HE shells.</szBRDesc>
+		<szBRDesc>Commonly referred to as the battalion commander's artillery, the M224 mortar is a must-have when things get serious. It is a 60mm caliber lightweight mortar with a finned barrel, sight, M7 base plate and bipod, built specifically to accommodate HE shells.</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>41</ubClassIndex>
@@ -3541,7 +3541,7 @@
 		<szLongItemName>CAWS Magazine AP</szLongItemName>
 		<szItemDesc>This 10-round CAWS magazine is quite simply brimming with destruction. Each round contains a single tungsten steel composite slug capable of tearing through most forms of body armor and car engine blocks.</szItemDesc>
 		<szBRName>CAWS Mag AP</szBRName>
-		<szBRDesc>This 10 round CAWS magazine is quite simply brimming with destruction. Each round contains a single tungsten steel composite slug capable of tearing through most forms of body armor and most car engine blocks. No serious mercenary should leave home-base without it.</szBRDesc>
+		<szBRDesc>This 10 round CAWS magazine is quite simply brimming with destruction. Each round contains a single tungsten steel composite slug capable of tearing through most forms of body armor and most car engine blocks.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>204</ubClassIndex>
@@ -43745,7 +43745,7 @@
 		<szLongItemName>12 Gauge Box, Flechette</szLongItemName>
 		<szItemDesc>There's no better way to tear the opposition to shreds than to tear through their armor with tiny pieces of flying metal.</szItemDesc>
 		<szBRName>12g Box Flechette</szBRName>
-		<szBRDesc>There's no better way to tear the opposition to shreds than to tear through their armor with tiny pieces of flying metal.</szBRDesc>
+		<szBRDesc>There's no better way to nullify the opposition by tearing through their armor with tiny pieces of flying metal.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>192</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
