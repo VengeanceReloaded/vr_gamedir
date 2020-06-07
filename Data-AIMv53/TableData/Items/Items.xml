@@ -74289,11 +74289,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2819</uiIndex>
-		<szItemName>Meproligh</szItemName>
-		<szLongItemName>Meproligh Reflex</szLongItemName>
-		<szItemDesc>All-in-one electro-optical sight! Illumination is powered by ambient light during daylight, by tritium during darkness, and by battery power when needed to overcome difficult lighting situations. Includes built-in visible and IR laser designators.</szItemDesc>
-		<szBRName>Meproligh Reflex</szBRName>
-		<szBRDesc>Meprolight - the only true "all-in-one-sight".  Soldiers on the modern battlefield require sights which facilitate quick action and instinctive accurate shooting ability. This unique multi-purpose "red-dot" reflex sight with laser pointers, boasts a large llens to assure rapid target acquisition.</szBRDesc>
+		<szItemName>Meprolight</szItemName>
+		<szLongItemName>Meprolight Reflex</szLongItemName>
+		<szItemDesc>An all-in-one electro-optical sight. Illumination is powered by ambient light during the day, by Tritium during darkness, and by battery power when needed in difficult lighting situations. Includes built-in visible and IR laser designators.</szItemDesc>
+		<szBRName>Meprolight Reflex</szBRName>
+		<szBRDesc>Meprolight - the only true "all-in-one-sight".  Soldiers on the modern battlefield require sights which facilitate quick action and instinctive accurate shooting ability. This unique multi-purpose "red-dot" reflex sight with laser pointers, boasts a large lens to assure rapid target acquisition.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>64</nasAttachmentClass>
 		<AttachmentPoint>2097152</AttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
