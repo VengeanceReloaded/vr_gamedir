@@ -31190,9 +31190,9 @@
 		<uiIndex>997</uiIndex>
 		<szItemName>7.62WP Adapter</szItemName>
 		<szLongItemName>7.62x39mm Drum Adapter</szLongItemName>
-		<szItemDesc>This piece of metal lets you fit a 75rnd drum onto several AK-rifles.</szItemDesc>
+		<szItemDesc>This metal accessory enables you fit a 75 round drum onto several AK-rifles.</szItemDesc>
 		<szBRName>7.62x39mm Drum Adapter</szBRName>
-		<szBRDesc>This piece of metal lets you fit a 75rnd drum onto several AK-rifles. Permanent installing required.</szBRDesc>
+		<szBRDesc>This one time installation metal adapter enables you fit a 75 round drum onto several AK-rifles.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>64</AttachmentClass>
 		<nasAttachmentClass>64</nasAttachmentClass>
@@ -31268,9 +31268,9 @@
 		<uiIndex>999</uiIndex>
 		<szItemName>PSO-1</szItemName>
 		<szLongItemName>PSO-1 Scope</szLongItemName>
-		<szItemDesc>Russian standard scope that fits many AK-type rifles. Magnification is 4x.</szItemDesc>
+		<szItemDesc>Russian standard scope that fits many AK-type rifles. Magnification is x4.</szItemDesc>
 		<szBRName>PSO-1 Scope</szBRName>
-		<szBRDesc>The Russian PSO-1 fits only on rifles with an AK-style receiver, due to the unique side-mount. It has a 4x magnification.</szBRDesc>
+		<szBRDesc>The Russian PSO-1 fits only on rifles with an AK-style receiver, due to the unique side-mount. It has x4 magnification.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>16</AttachmentClass>
 		<nasAttachmentClass>16</nasAttachmentClass>
@@ -31359,7 +31359,7 @@
 		<szLongItemName>5.56mm C-Mag Adapter</szLongItemName>
 		<szItemDesc>This special adapter can be attached to certain 5.56mm weapons to allow for the use of the 100-rd Beta C-Mags.</szItemDesc>
 		<szBRName>5.56mm C-Mag Adapter</szBRName>
-		<szBRDesc>This special adapter can be attached to certain 5.56mm weapons to allow for the use of the 100-rd Beta C-Mags.</szBRDesc>
+		<szBRDesc>Make use of 100 round Beta C-Mags by fitting this special adapter to certain 5.56mm rifles.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>64</AttachmentClass>
 		<nasAttachmentClass>64</nasAttachmentClass>
@@ -31473,7 +31473,7 @@
 		<szLongItemName>ACOG Combo, 4x</szLongItemName>
 		<szItemDesc>Trijicon Advanced Combat Optical Gunscope with 4x magnification, an additional DOCTER Reflex Sight has been mounted atop the eyepiece for faster target acquisition.</szItemDesc>
 		<szBRName>ACOG-Combo, Mag.4x</szBRName>
-		<szBRDesc>Trijicon Advanced Combat Gunscope with 4x magnification, adapter-mounted rear holosight for close-combat sighting.  Includes flat top adapter, backup iron sights and dust cover.</szBRDesc>
+		<szBRDesc>This Advanced Combat Gunscope with 4x magnification from Trijicon has an adapter-mounted rear holosight for close-combat sighting. Includes flat top adapter, backup iron sights and dust cover.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>24</AttachmentClass>
 		<nasAttachmentClass>16</nasAttachmentClass>
@@ -43170,9 +43170,9 @@
 		<uiIndex>1400</uiIndex>
 		<szItemName>9x19mm Box</szItemName>
 		<szLongItemName>9x19mm Box</szLongItemName>
-		<szItemDesc>These rounds of fine quality 115 grain Fiocchi round tip ammunition are ideal for anyone looking for an economical means of personal defense.</szItemDesc>
+		<szItemDesc>This quality 115 grain round tip ammunition is ideal for anyone looking for an economical means of personal defense.</szItemDesc>
 		<szBRName>9x19mm Box</szBRName>
-		<szBRDesc>These rounds of fine quality 115 grain Fiocchi round tip ammunition are ideal for anyone looking for an economical means of personal defense.</szBRDesc>
+		<szBRDesc>This quality 115 grain round tip ammunition is ideal for anyone looking for an economical means of personal defense.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>67</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -74488,7 +74488,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szLongItemName>FLEX E-LAP Laser Aiming Pointer</szLongItemName>
 		<szItemDesc>With the flick of a switch turn your laser unit into a CQB illuminator, taking advantage of the very bright LED unit built in. Included on top of the laser is a 20mm RIS rail, for mounting even more on your gun! Double lasers... mmmmm...The looks? - they just speak for themselves - wipe the dribble from your chin lads!</szItemDesc>
 		<szBRName>FLEX E-LAP Laser Aiming Pointer</szBRName>
-		<szBRDesc>They don't come better than this truffle in the selection of sweet, sticky delights. This is a 'big mans' laser. Solid and robust, sporting an impressive throw-lever QD release, this will improve any 20mm RIS rail like a boss!</szBRDesc>
+		<szBRDesc>Solid and robust, this is a 'big man's' laser sporting an impressive throw-lever QD release and will improve any 20mm RIS rail like a boss!</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
