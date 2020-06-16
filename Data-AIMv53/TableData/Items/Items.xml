@@ -7562,9 +7562,9 @@
 	<ITEM>
 		<uiIndex>250</uiIndex>
 		<szItemName>Head</szItemName>
-		<szLongItemName>T-Rex's Head</szLongItemName>
-		<szItemDesc>T-Rex may be gone like the dinosaurs, but be sure to hold on to his head for posterity.</szItemDesc>
-		<szBRName>T-Rex's Head</szBRName>
+		<szLongItemName>The Dentist's Head</szLongItemName>
+		<szItemDesc>The Dentist won't be asking anyone to 'Say Ah' anymore, but his head might be worth more than a few gold teeth.</szItemDesc>
+		<szBRName>Dentist's Head</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
