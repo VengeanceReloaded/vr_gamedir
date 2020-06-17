@@ -60076,7 +60076,7 @@
 		<szLongItemName>AMT Hardballer .45 Longslide</szLongItemName>
 		<szItemDesc>An AMT Hardballer Longslide with a laserlock sight from SureFire, just put the red dot where you want the bullet to go. This bonkers all stainless steel .45 will deliver rigid wounds like no other.</szItemDesc>
 		<szBRName>AMT Hardballer 45. Longslide</szBRName>
-		<szBRDesc>This cult favorite from AMT comes with the sought after laserlock sight from SureFire in almost mint condition, buy now and own one of these babies before they're all gone.</szBRDesc>
+		<szBRDesc>This cult favorite from AMT comes with the sought after laserlock sight from SureFire, buy now and own one of these babies before it's gone.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2128</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
@@ -60098,8 +60098,8 @@
 		<BigGunList>1</BigGunList>
 		<DefaultAttachment>2881</DefaultAttachment>
 		<DefaultAttachment>2850</DefaultAttachment>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
