@@ -225,6 +225,7 @@
     <szGroup>CIA Operatives</szGroup>
 	<AddToBattle>1</AddToBattle>
 	<Loyalty>0</Loyalty>
+	<Side>10</Side>
   </NAME>
   <NAME>
 	<uiIndex>32</uiIndex>
@@ -232,6 +233,7 @@
     <szGroup>Tracona Operatives</szGroup>
 	<AddToBattle>1</AddToBattle>
 	<Loyalty>0</Loyalty>
+	<Side>11</Side>
   </NAME>
   <NAME>
 	<uiIndex>33</uiIndex>
