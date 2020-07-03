@@ -1068,9 +1068,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>G8</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayTown2</szDay>
+		<szDay>Loadscreens\LS_Troop_street</szDay>
 		<szNight>Loadscreens\LS_NightTown2</szNight>
-		<szDayAlt>Loadscreens\LS_DayTown1</szDayAlt>
+		<szDayAlt>Loadscreens\LS_Trail_to_house</szDayAlt>
 		<szNightAlt>Loadscreens\LS_NightTown1</szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -1078,9 +1078,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>G9</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayTown2</szDay>
+		<szDay>Loadscreens\LS_Troop_street</szDay>
 		<szNight>Loadscreens\LS_NightTown2</szNight>
-		<szDayAlt>Loadscreens\LS_DayTown1</szDayAlt>
+		<szDayAlt>Loadscreens\LS_Trail_to_house</szDayAlt>
 		<szNightAlt>Loadscreens\LS_NightTown1</szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -1091,7 +1091,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szDay>Loadscreens\LS_Desert_mounds</szDay>
 		<szNight>Loadscreens\LS_Desert_sunset</szNight>
 		<szDayAlt>Loadscreens\LS_Badass</szDayAlt>
-		<szNightAlt>Loadscreens\LS_NightDesert</szNightAlt>
+		<szNightAlt>Loadscreens\LS_Desert_sunset</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>107</uiIndex>
@@ -1261,7 +1261,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Desert_skull</szDay>
 		<szNight>Loadscreens\LS_Desert_sunset</szNight>
-		<szDayAlt>LS_DayDesert</szDayAlt>
+		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -1552,7 +1552,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Desert_skull</szDay>
-		<szNight>Loadscreens\LS_NightDesert</szNight>
+		<szNight>Loadscreens\LS_Night_sunset</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -1563,8 +1563,8 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Prison_tower</szDay>
 		<szNight>Loadscreens\LS_NightPrison</szNight>
-		<szDayAlt>Loadscreens\LS_DayPrison</szDayAlt>
-		<szNightAlt>Loadscreens\LS_NightPrison</szNightAlt>
+		<szDayAlt>Loadscreens\LS_Cells</szDayAlt>
+		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>154</uiIndex>
@@ -1572,7 +1572,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Desert_skull</szDay>
-		<szNight>Loadscreens\LS_NightDesert</szNight>
+		<szNight>Loadscreens\LS_Night_sunset</szNight>
 		<szDayAlt>Loadscreens\LS_Villager_capture</szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -1703,7 +1703,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Desert_mounds</szDay>
-		<szNight>Loadscreens\LS_NightDesert</szNight>
+		<szNight>Loadscreens\LS_Night_sunset</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -1723,7 +1723,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Desert_mounds</szDay>
-		<szNight>Loadscreens\LS_NightDesert</szNight>
+		<szNight>Loadscreens\LS_Night_sunset</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -1874,7 +1874,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Drug_runway</szDay>
-		<szNight>Loadscreens\LS_NightDesert</szNight>
+		<szNight>Loadscreens\LS_Night_sunset</szNight>
 		<szDayAlt>Loadscreens\LS_Drug_runway</szDayAlt>
 		<szNightAlt>Loadscreens\LS_Night_cessna</szNightAlt>
 	</SECTOR>
@@ -2157,7 +2157,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Elites</szDay>
 		<szNight>Loadscreens\LS_NightSam</szNight>
-		<szDayAlt>Loadscreens\LS_DaySam</szDayAlt>
+		<szDayAlt>Loadscreens\LS_SAM_forest</szDayAlt>
 		<szNightAlt>Loadscreens\LS_NightSam</szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -2266,9 +2266,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Elites</szDay>
-		<szNight>Loadscreens\LS_NightForest</szNight>
-		<szDayAlt>Loadscreens\LS_DayForest</szDayAlt>
-		<szNightAlt>Loadscreens\LS_NightForest</szNightAlt>
+		<szNight>Loadscreens\LS_Dusk_vista</szNight>
+		<szDayAlt>Loadscreens\LS_Tree_road</szDayAlt>
+		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>224</uiIndex>
@@ -2306,9 +2306,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>O3</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayTown1</szDay>
+		<szDay>Loadscreens\LS_Trail_to_house</szDay>
 		<szNight>Loadscreens\LS_NightTown1</szNight>
-		<szDayAlt>Loadscreens\LS_DayTown2</szDayAlt>
+		<szDayAlt>Loadscreens\LS_Troop_street</szDayAlt>
 		<szNightAlt>Loadscreens\LS_NightTown2</szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -2316,9 +2316,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>O4</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayTown1</szDay>
+		<szDay>Loadscreens\LS_Trail_to_house</szDay>
 		<szNight>Loadscreens\LS_NightTown1</szNight>
-		<szDayAlt>Loadscreens\LS_DayTown2</szDayAlt>
+		<szDayAlt>Loadscreens\LS_Troop_street</szDayAlt>
 		<szNightAlt>Loadscreens\LS_NightTown2</szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -2447,7 +2447,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>P1</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayTown1</szDay>
+		<szDay>Loadscreens\LS_Trail_to_house</szDay>
 		<szNight>Loadscreens\LS_NightTown1</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
