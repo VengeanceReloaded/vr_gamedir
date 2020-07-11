@@ -1451,7 +1451,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Troop_street</szDay>
-		<szNight>Loadscreens\LS_Night_town</szNight>
+		<szNight>Loadscreens\LS_Nighttown</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
