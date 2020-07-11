@@ -337,18 +337,6 @@
   </MERC>
   <MERC>
 	<uiIndex>28</uiIndex>
-	<Name>Sparky</Name>
-	<Drunk>0</Drunk>
-	<uiAlternateIndex>-1</uiAlternateIndex>
-	<StartMercsAvailable>0</StartMercsAvailable>
-	<NewMercsAvailable>0</NewMercsAvailable>
-	<MercBioID>19</MercBioID>
-	<ProfilId>224</ProfilId>
-	<usMoneyPaid>800</usMoneyPaid>
-	<usDay>10</usDay>
-  </MERC>
-  <MERC>
-	<uiIndex>29</uiIndex>
 	<Name>Beth</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
@@ -360,7 +348,7 @@
 	<usDay>2</usDay>
   </MERC>
   <MERC>
-	<uiIndex>30</uiIndex>
+	<uiIndex>29</uiIndex>
 	<Name>Sam</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
@@ -372,7 +360,7 @@
 	<usDay>10</usDay>
   </MERC>
   <MERC>
-	<uiIndex>31</uiIndex>
+	<uiIndex>30</uiIndex>
 	<Name>Bernie</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
@@ -384,7 +372,7 @@
 	<usDay>8</usDay>
   </MERC>
   <MERC>
-	<uiIndex>32</uiIndex>
+	<uiIndex>31</uiIndex>
 	<Name>Wildcat</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
@@ -396,7 +384,7 @@
 	<usDay>8</usDay>
   </MERC>
   <MERC>
-	<uiIndex>33</uiIndex>
+	<uiIndex>32</uiIndex>
 	<Name>Larry</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
@@ -408,10 +396,10 @@
 	<usDay>15</usDay>
   </MERC>
   <MERC>
-	<uiIndex>34</uiIndex>
+	<uiIndex>33</uiIndex>
 	<Name>Larry</Name>
 	<Drunk>1</Drunk>
-	<uiAlternateIndex>31</uiAlternateIndex>
+	<uiAlternateIndex>32</uiAlternateIndex>
 	<StartMercsAvailable>0</StartMercsAvailable>
 	<NewMercsAvailable>0</NewMercsAvailable>
 	<MercBioID>7</MercBioID>
@@ -420,7 +408,7 @@
 	<usDay>0</usDay>
   </MERC>
   <MERC>
-	<uiIndex>35</uiIndex>
+	<uiIndex>34</uiIndex>
 	<Name>Numb</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
@@ -432,7 +420,7 @@
 	<usDay>0</usDay>
   </MERC>
   <MERC>
-	<uiIndex>36</uiIndex>
+	<uiIndex>35</uiIndex>
 	<Name>Tex</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
@@ -444,7 +432,7 @@
 	<usDay>0</usDay>
   </MERC>
   <MERC>
-	<uiIndex>37</uiIndex>
+	<uiIndex>36</uiIndex>
 	<Name>Biggins</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
@@ -456,7 +444,7 @@
 	<usDay>15</usDay>
   </MERC>
   <MERC>
-	<uiIndex>38</uiIndex>
+	<uiIndex>37</uiIndex>
 	<Name>Cougar</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
@@ -464,11 +452,11 @@
 	<NewMercsAvailable>0</NewMercsAvailable>
 	<MercBioID>8</MercBioID>
 	<ProfilId>48</ProfilId>
-	<usMoneyPaid>0</usMoneyPaid>
-	<usDay>0</usDay>
+	<usMoneyPaid>15500</usMoneyPaid>
+	<usDay>16</usDay>
   </MERC>
   <MERC>
-	<uiIndex>39</uiIndex>
+	<uiIndex>38</uiIndex>
 	<Name>Gaston</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
@@ -480,7 +468,7 @@
 	<usDay>17</usDay>
   </MERC>
   <MERC>
-	<uiIndex>40</uiIndex>
+	<uiIndex>39</uiIndex>
 	<Name>Stogie</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
@@ -506,7 +494,7 @@
   </MERC>
 -->
    <MERC>
-	<uiIndex>41</uiIndex>
+	<uiIndex>40</uiIndex>
 	<Name>John</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
@@ -518,7 +506,7 @@
 	<usDay>7</usDay>
   </MERC>
    <MERC>
-	<uiIndex>42</uiIndex>
+	<uiIndex>41</uiIndex>
 	<Name>Speck</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
@@ -530,7 +518,7 @@
 	<usDay>7</usDay>
   </MERC>
     <MERC>
-	<uiIndex>43</uiIndex>
+	<uiIndex>42</uiIndex>
 	<Name>Ash</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
@@ -542,11 +530,11 @@
 	<usDay>0</usDay>
   </MERC>
   <MERC>
-	<uiIndex>44</uiIndex>
+	<uiIndex>43</uiIndex>
 	<Name>Disco</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
-	<StartMercsAvailable>0</StartMercsAvailable>
+	<StartMercsAvailable>1</StartMercsAvailable>
 	<NewMercsAvailable>0</NewMercsAvailable>
 	<MercBioID>46</MercBioID>
 	<ProfilId>217</ProfilId>
@@ -554,11 +542,11 @@
 	<usDay>0</usDay>
   </MERC>
   <MERC>
-	<uiIndex>45</uiIndex>
+	<uiIndex>44</uiIndex>
 	<Name>Eskimo</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
-	<StartMercsAvailable>0</StartMercsAvailable>
+	<StartMercsAvailable>1</StartMercsAvailable>
 	<NewMercsAvailable>0</NewMercsAvailable>
 	<MercBioID>47</MercBioID>
 	<ProfilId>218</ProfilId>
@@ -566,11 +554,11 @@
 	<usDay>0</usDay>
   </MERC>
    <MERC>
-	<uiIndex>46</uiIndex>
+	<uiIndex>45</uiIndex>
 	<Name>Hustler</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
-	<StartMercsAvailable>0</StartMercsAvailable>
+	<StartMercsAvailable>1</StartMercsAvailable>
 	<NewMercsAvailable>0</NewMercsAvailable>
 	<MercBioID>48</MercBioID>
 	<ProfilId>219</ProfilId>
@@ -578,15 +566,39 @@
 	<usDay>0</usDay>
   </MERC>
   <MERC>
-	<uiIndex>47</uiIndex>
+	<uiIndex>46</uiIndex>
 	<Name>Sioux</Name>
 	<Drunk>0</Drunk>
 	<uiAlternateIndex>-1</uiAlternateIndex>
-	<StartMercsAvailable>0</StartMercsAvailable>
+	<StartMercsAvailable>1</StartMercsAvailable>
 	<NewMercsAvailable>0</NewMercsAvailable>
 	<MercBioID>49</MercBioID>
 	<ProfilId>214</ProfilId>
 	<usMoneyPaid>0</usMoneyPaid>
 	<usDay>0</usDay>
+  </MERC>
+  <MERC>
+	<uiIndex>47</uiIndex>
+	<Name>Sparky</Name>
+	<Drunk>0</Drunk>
+	<uiAlternateIndex>-1</uiAlternateIndex>
+	<StartMercsAvailable>0</StartMercsAvailable>
+	<NewMercsAvailable>0</NewMercsAvailable>
+	<MercBioID>19</MercBioID>
+	<ProfilId>59</ProfilId>
+	<usMoneyPaid>-1</usMoneyPaid>
+	<usDay>-1</usDay>
+  </MERC>
+  <MERC>
+	<uiIndex>48</uiIndex>
+	<Name>Sandman</Name>
+	<Drunk>0</Drunk>
+	<uiAlternateIndex>-1</uiAlternateIndex>
+	<StartMercsAvailable>0</StartMercsAvailable>
+	<NewMercsAvailable>0</NewMercsAvailable>
+	<MercBioID>50</MercBioID>
+	<ProfilId>58</ProfilId>
+	<usMoneyPaid>-1</usMoneyPaid>
+	<usDay>-1</usDay>
   </MERC>
 </MERC_AVAILABLES>
