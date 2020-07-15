@@ -1,6 +1,6 @@
-"Playable Characters Mod" (PCM) for Vengeance-1.13 Reloaded (English Test-File composed by Scheinworld)
+"Playable Characters Mod" (PCM) for Vengeance-1.13 Reloaded
 
-(last updated 02.01.2019)
+(last updated 15.07.2020)
 
 Original idea and concept by Smilingassassin aka "The_Scorpion"
 
@@ -8,27 +8,25 @@ Original idea and concept by Smilingassassin aka "The_Scorpion"
 
 Features:
 
-Converted the non-playable JA2 characters: Perko, Carmen, Maria, Skyrider, Fred, John, Mary, Matt, Oswald, Calvin, Carl and Darrell into playable characters.
+Converts non-playable JA2 characters: Perko, Carmen, Maria, Skyrider, Fred, John, Mary, Matt, Oswald, Calvin, Carl and Darrell into playable characters.
 
 
-All new playable characters have faces, speech and battle sounds. They also have character skills and their personal equipment. All of them are free.
-Changes are very nonintrusive to keep the integrity of the vanilla story, setting, maps etc. intact.
+All new playable characters have faces, speech and battle sounds. They also have character skills, traits, backgrounds and their personal equipment. Most will work for free while a few have very cheap salaries. Changes are nonintrusive to keep the integrity of the vanilla story, setting, maps etc. intact but this sometimes means PCM characters may refer to old town names at times that have changed since.
 
 
 
 Notes:
 
 Skyrider has his speech limited due to an overlapping issue from his function as a pilot. 
-If the player prefers to have Skyrider as the pilot only (same as in the vanilla game), 
-then you need to react quickly. After Skyrider is escorted to his chopper, 
+If the player prefers to have Skyrider as the pilot only as he was in the vanilla game, 
+then you need to act quickly. After Skyrider is escorted to his chopper, 
 he'll do his usual speech, after that Skyrider will walk towards his chopper.
-If you want to avoid Skyrider to join the squad but want him as a pilot only as usual, 
-go to the strategic map before Skyrider has reached his chopper. Then everything will be as in the Vanilla game.
+If you want to avoid Skyrider to join the squad but want to use him as a pilot only, go to the strategic map before Skyrider has reached his chopper. Then everything will be as in the Vanilla game.
 If you want him to join, wait for him to reach his chopper, after that he will become playable.
 
 John and Mary* will be automatically added to the player's squad after he is escorted to the airport.
 If you don't want them, you can just dismiss them.
-(* Mary is a civilian only (!) and can not be used for fighting but for other duties you will surely find out yourself ;-))
+(* Mary is a civilian only and cannot be used for fighting but for other duties you will surely find out yourself ;-))
 
 Perko can be easily recruited, but requires user input (just click on "recruit").
 
@@ -37,7 +35,7 @@ Like Skryider, there's some time between the end of the quest and her joining th
 After having talked to Angel, Maria will leave the leather shop and, once standing on the road, join the player's squad. 
 In that time between the end of the quest (history log beeps) and her joining, the player can go to the strategic screen if he doesn't want Maria to join the squad. 
 
-Darrell will only join if a specific gender is talking with him ;)
+Darrell will only join if a specific gender is talking with him ;) He also requires has a small salary.
 
 Fred Morris as a head miner can only be recruited after the mine he leads has started to produce income for the player. 
 Upon recruiting, he loses parts of his head miner function, parts might still be active and overlap.
@@ -59,11 +57,9 @@ Known Bugs / personal experience:
 
 Type 4 mercs like Skyrider, Carmen, John & Mary should not be used for talking/interacting with other RPC's/NPC's!
 
-Try to avoid using the characters Perko or TNT for interactions with NPC's, as certain actions like NPC's handing over an item (like Carmen's disk) cause the game to crash.
+Try to avoid using the characters Perko or TNT for interactions with NPCs, as certain actions like NPC's handing over an item (like Carmen's disk) cause the game to crash.
 
 Don't try to use the new RPC Maria DaSilva to assist Dick for the recruitment of Babyface or you'll get an endless stop watch.
-
-RPC's like Babyface can't take item from Mary (or other NPC's, crashes game)
 
 No more bugs are known, if you find them - report them!
 
@@ -79,10 +75,10 @@ The speech and script of character 119 (Mary) was designed and cut by Will Gates
 The speech of character 158 (Carl) was taken from Scorpion's mod "Renegade Republic" (there as "Butch")
 
 - Fan for testing reports and numerous proposals for the Prof.dat and MercStartingGear.xml
-- Cagemonkey & Anv for the improved Bigfaces
+- Cagemonkey & Anv for the improved faces and camo graphics
 - Will Gates for several PCM additions and improvements for the English version
 - Dieter for the correction of this "Readme.txt" file
-- Kermi for hosting
+- Hawkeye for for further speech updates, edits and facegear and camoface graphics
 
 ...and of course @ "The_Scorpion" for (in my opinion) one of the most innovative JA2 mods ever!
 
