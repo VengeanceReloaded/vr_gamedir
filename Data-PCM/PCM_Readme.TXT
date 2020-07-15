@@ -75,6 +75,7 @@ The speech and script of character 119 (Mary) was designed and cut by Will Gates
 The speech of character 158 (Carl) was taken from Scorpion's mod "Renegade Republic" (there as "Butch")
 
 - Fan for testing reports and numerous proposals for the Prof.dat and MercStartingGear.xml
+- Ed Mortimer for updating a number of new backgrounds and updates to traits
 - Cagemonkey & Anv for the improved faces and camo graphics
 - Will Gates for several PCM additions and improvements for the English version
 - Dieter for the correction of this "Readme.txt" file
