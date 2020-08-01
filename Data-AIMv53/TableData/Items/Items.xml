@@ -6922,6 +6922,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
+		<BR_NewInventory>4</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -6950,6 +6952,8 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
+		<BR_NewInventory>3</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
