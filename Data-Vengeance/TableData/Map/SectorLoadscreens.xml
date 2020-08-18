@@ -1250,7 +1250,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Cells</szDay>
-		<szNight>Loadscreens\LS_Desert_sunset</szNight>
+		<szNight>Loadscreens\LS_Prison_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -1443,7 +1443,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szDay>Loadscreens\LS_Cells</szDay>
 		<szNight>Loadscreens\LS_Nightcopter</szNight>
 		<szDayAlt></szDayAlt>
-		<szNightAlt></szNightAlt>
+		<szNightAlt>LS_Prison_nightLS_Prison_night</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>142</uiIndex>
@@ -1562,7 +1562,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Prison_tower</szDay>
-		<szNight>Loadscreens\LS_NightPrison</szNight>
+		<szNight>Loadscreens\LS_Prison_night</szNight>
 		<szDayAlt>Loadscreens\LS_Cells</szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
