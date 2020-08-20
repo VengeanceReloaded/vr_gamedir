@@ -1541,7 +1541,7 @@
 		<uiIndex>65</uiIndex>
 		<szName>Auto Worker/Security Tech</szName>
 		<szShortName>Auto/Security Tech</szShortName>
-		<szDescription>You escaped the gangbangers and the ghetto by putting your electronic and &#10;engineering skills on the market, and ened up in Arulco.</szDescription>
+		<szDescription>You escaped the ghetto and gangbangers by putting your engineering &#10;skills on the market, and ended up in Arulco.</szDescription>
 		<dexterity>4</dexterity>
 		<mechanical>8</mechanical>
 		<wisdom>3</wisdom>
@@ -1550,7 +1550,7 @@
 		<ap_inventory>-5</ap_inventory>
 		<ap_fortify>-12</ap_fortify>
 		<ap_assault>3</ap_assault>
-		<disarm_trap>50</disarm_trap>
+		<disarm_trap>40</disarm_trap>
 		<travel_car>20</travel_car>
 		<betterprices>5</betterprices>
 		<approach_friendly>10</approach_friendly>
@@ -4958,9 +4958,9 @@
 	<!-- Snake -->
 	<BACKGROUND>
 		<uiIndex>231</uiIndex>
-		<szName>Hitman/Sneak</szName>
-		<szShortName>Hitman/Sneak</szShortName>
-		<szDescription>Professional assassins are obviously used to killing, though might come &#10;in conflict with more idealistic team members.</szDescription>
+		<szName>Silent Assassin</szName>
+		<szShortName>Silent Assassin</szShortName>
+		<szDescription>Professional hitmen are obviously used to killing, but this might result &#10;in conflict with more idealistic team members.</szDescription>
 		<agility>5</agility>
 		<marksmanship>3</marksmanship>
 		<stealth>10</stealth>
@@ -5324,7 +5324,7 @@
 		<uiIndex>246</uiIndex>
 		<szName>Venezuelan Rebel</szName>
 		<szShortName>Venezuelan Rebel</szShortName>
-		<szDescription>The rebellion against the imperialists has succeeded in his country so Hector &#10;has become a mercenary rebel.</szDescription>
+		<szDescription>The rebellion against the imperialists in his country succeeded, so now Hector &#10;has become a mercenary rebel.</szDescription>
 		<ap_polar>-5</ap_polar>
 		<ap_desert>-3</ap_desert>
 		<ap_river>3</ap_river>
