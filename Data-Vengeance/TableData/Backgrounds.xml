@@ -1521,7 +1521,7 @@
 		<uiIndex>64</uiIndex>
 		<szName>Sniper Terrorist</szName>
 		<szShortName>Sniper Terrorist</szShortName>
-		<szDescription>Nobody admits it, but the same governments that hunt him employ him.</szDescription>
+		<szDescription>Nobody admits it, but the same governments that hunt him employed him.</szDescription>
 		<marksmanship>3</marksmanship>
 		<ap_urban>2</ap_urban>
 		<ap_height>4</ap_height>
@@ -1616,7 +1616,6 @@
 		<szShortName>Sniper/Teacher</szShortName>
 		<szDescription>Nobody fails your classes . . . and lives!</szDescription>
 		<marksmanship>3</marksmanship>
-		<leadership>-3</leadership>
 		<ap_urban>5</ap_urban>
 		<ap_height>3</ap_height>
 		<ap_assault>3</ap_assault>
@@ -1633,9 +1632,9 @@
 	<!-- Fish -->
 	<BACKGROUND>
 		<uiIndex>69</uiIndex>
-		<szName>Paramedic/Slasher</szName>
-		<szShortName>Paramedic/Slasher</szShortName>
-		<szDescription>Johnny-On-The-Spot with emergency first aid . . . but why do you have &#10;that scalpel?</szDescription>
+		<szName>Paramedic/Bladesman</szName>
+		<szShortName>Paramedic/Bladesman</szShortName>
+		<szDescription>To heal or to hack? Only how you wield a scalpel decides the outcome.</szDescription>
 		<medical>5</medical>
 		<dexterity>3</dexterity>
 		<agility>3</agility>
@@ -1716,6 +1715,7 @@
 		<szName>Prisoner</szName>
 		<szShortName>Prisoner</szShortName>
 		<szDescription>Being held and tortured in a regime prison left you scarred for life. You're not &#10;afraid of death anymore - but there are other things to be afraid of.</szDescription>
+		<leadership>-5</leadership>
 		<resistance_fear>-20</resistance_fear>
 		<resistance_suppression>10</resistance_suppression>
 		<resistance_physical>10</resistance_physical>
@@ -1783,8 +1783,6 @@
 		<resistance_physical>10</resistance_physical>
 		<resistance_fear>20</resistance_fear>
 		<interrogation>300</interrogation>
-		<betterprices_guns>10</betterprices_guns>
-		<betterprices>20</betterprices>
 		<capitulation>100</capitulation>
 		<approach_friendly>20</approach_friendly>
 		<approach_direct>20</approach_direct>
@@ -1918,8 +1916,8 @@
 	<!-- Rat -->
 	<BACKGROUND>
 		<uiIndex>81</uiIndex>
-		<szName>Keeper of the Bugs</szName>
-		<szShortName>Bug Caretaker</szShortName>
+		<szName>Turncoat</szName>
+		<szShortName>Turncoat</szShortName>
 		<szDescription>Do you wonder why Rat is a bit on the nervous side?</szDescription>
 		<resistance_poison>15</resistance_poison>
 		<resistance_fear>15</resistance_fear>
