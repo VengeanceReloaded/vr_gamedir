@@ -56308,9 +56308,9 @@
 		<uiIndex>2036</uiIndex>
 		<szItemName>AVS-36</szItemName>
 		<szLongItemName>Simonov AVS-36</szLongItemName>
-		<szItemDesc>A semi-automatic rifle in caliber 7.62x54R. Due to the odd upward ejection mechanism the AVS-36 will only accept the old PEM scope.</szItemDesc>
+		<szItemDesc>An interesting automatic rifle in caliber 7.62x54R. Due to the odd upward ejection mechanism the AVS-36 will only accept the old PEM scope.</szItemDesc>
 		<szBRName>Simonov AVS-36</szBRName>
-		<szBRDesc>This rare self-loading semi-automatic rifle has an odd ejection mechanism, which ejects the empty cases upwards. Therefore it will only accept  the ancient PEM scope. It is still a formidable weapon.</szBRDesc>
+		<szBRDesc>This rare self-loading automatic rifle has an odd ejection mechanism, which ejects the empty cases upwards. Therefore it will only accept the ancient PEM scope. It is still a formidable weapon.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2036</ubClassIndex>
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->

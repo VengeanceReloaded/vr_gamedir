@@ -14562,7 +14562,7 @@
 		<uiIndex>2036</uiIndex>
 		<szWeaponName>Simonov AVS-36</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
-		<ubWeaponType>4</ubWeaponType>
+		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>24</ubCalibre>
 		<ubReadyTime>14</ubReadyTime>
 		<ubShotsPer4Turns>13.45</ubShotsPer4Turns>
@@ -14581,9 +14581,11 @@
 		<sLocknLoadSound>108</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>20</bBurstAP>
+		<bAutofireShotsPerFiveAP>3</bAutofireShotsPerFiveAP>
 		<APsToReload>28</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>10</MaxDistForMessyDeath>
+		<AutoPenalty>9</AutoPenalty>
 		<ManualReloadSound>478</ManualReloadSound>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
