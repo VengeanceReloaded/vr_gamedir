@@ -1289,7 +1289,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>H14</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Elites</szDay>
+		<szDay>Loadscreens\LS_Army_house</szDay>
 		<szNight>Loadscreens\LS_3_Mercs</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -1450,7 +1450,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<szLocation>I14</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Troop_street</szDay>
+		<szDay>Loadscreens\LS_Army_house</szDay>
 		<szNight>Loadscreens\LS_Nighttown</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
