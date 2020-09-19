@@ -6,11 +6,11 @@
     ===
     
         Preamble
-        §0. Constants
-        §1. Underground sector list compilation
-        §2. Defining enemy garrisons and creature population
-        §3. Internal workings
-        §3.1. Underground sector names
+        ï¿½0. Constants
+        ï¿½1. Underground sector list compilation
+        ï¿½2. Defining enemy garrisons and creature population
+        ï¿½3. Internal workings
+        ï¿½3.1. Underground sector names
 
 
     Preamble
@@ -26,12 +26,12 @@
     have an effect on a game in progress.
 
     
-    Modders likely want to focus on §1. and §2.
+    Modders likely want to focus on ï¿½1. and ï¿½2.
 
 
     There is also another script closely related to this one, which defines
     sector names ("undergroundsectornames.lua" and localized versions). See
-    §3.1. for more details.
+    ï¿½3.1. for more details.
     
 
     The game will call this script for any of three reasons:
@@ -73,7 +73,7 @@ math.randomseed( os.time() ); math.random(); math.random(); math.random()
 
 
 -------------------
--- §0. Constants --
+-- ï¿½0. Constants --
 -------------------
 
 Habitat = {             -- creature type distribution in percentages
@@ -100,16 +100,16 @@ CreatureMusic = {
 
 
 ---------------------------------------------
--- §1. Underground sector list compilation --
+-- ï¿½1. Underground sector list compilation --
 ---------------------------------------------
 
 --[[
 
     In this list add underground sectors by specifying their location.
     If no loadscreen attribute is given the script will use "LS_Mine" for
-    level 1 sectors and "LS_Cave" for level 2 and level 3 sectors (see §3.).
+    level 1 sectors and "LS_Cave" for level 2 and level 3 sectors (see ï¿½3.).
     
-    Also specify any other static attributes in this list (cf. §2.)
+    Also specify any other static attributes in this list (cf. ï¿½2.)
 
 ]]
 
@@ -129,9 +129,9 @@ local sectorList = {
     -- Orta
     { location = "K4-1", loadscreens = { "LS_Basement", "LS_Upstairs" }, },
    
-    -- Meduna
+    -- Burton
     { location = "O3-1", loadscreens = { "LS_Basement", "LS_Upstairs" }, },
-    { location = "P3-1", loadscreens = { "LS_Basement", "LS_Upstairs" }, },
+    { location = "P3-1", loadscreens = { "LS_Blast_tunnel", "LS_Upstairs" }, },
     
     
     -- San Mona mine
@@ -220,7 +220,7 @@ local function PopulateSectors(difficultyLevel, gameStyle)
 
 
     ----------------------------------------------------------
-    -- §2. Defining enemy garrisons and creature population --
+    -- ï¿½2. Defining enemy garrisons and creature population --
     ----------------------------------------------------------
     
     
@@ -255,7 +255,7 @@ end
 
 
 ---------------------------
--- §3. Internal workings --
+-- ï¿½3. Internal workings --
 ---------------------------
 
 --[[
@@ -300,15 +300,15 @@ Return value
     
     - numCreatures
       integer, specifying number of creatures in total, default: 0
-      Distribution of creature types depends on creature habitat (see §0.)
+      Distribution of creature types depends on creature habitat (see ï¿½0.)
 
     - creatureHabitat
       integer, specifying creature distribution type
-      Use one of the constants from the Habitat enumeration (see §0.)
+      Use one of the constants from the Habitat enumeration (see ï¿½0.)
     
     - music
       integer, specifying under which circumstances to use creepy music
-      Use one of the costants from CreatureMusic enumeration (see §0.)
+      Use one of the costants from CreatureMusic enumeration (see ï¿½0.)
 ]]
 
 function BuildUndergroundSectorList(gameSettings)
@@ -331,7 +331,7 @@ Remarks
 
     Provides the game with the name and file format of the loadscreen for a
     given sector. The function forwards the loadscreen attribute as declared
-    in the sectorList (cf. §1.) or uses default screens.
+    in the sectorList (cf. ï¿½1.) or uses default screens.
     The game will use the name and format as well as screen resolution to
     build the complete file name itself.
     
@@ -391,7 +391,7 @@ end
 
 
 ------------------------------------
--- §3.1. Underground sector names --
+-- ï¿½3.1. Underground sector names --
 ------------------------------------
 
 --[[
