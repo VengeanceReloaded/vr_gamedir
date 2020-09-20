@@ -115,7 +115,7 @@ CreatureMusic = {
 
 local sectorList = {
 
-    -- Miguel's basement
+    -- Rebels basement
     { location = "A10-1", loadscreens = { "LS_Basement", "LS_Upstairs" }, },
 
 
@@ -130,8 +130,8 @@ local sectorList = {
     { location = "K4-1", loadscreens = { "LS_Basement", "LS_Upstairs" }, },
    
     -- Burton
-    { location = "O3-1", loadscreens = { "LS_Basement", "LS_Upstairs" }, },
-    { location = "P3-1", loadscreens = { "LS_Blast_tunnel", "LS_Upstairs" }, },
+    { location = "O3-1", loadscreens = { "LS_Basement", }, },
+    { location = "P3-1", loadscreens = { "LS_Blast_tunnel", }, },
     
     
     -- San Mona mine
@@ -139,14 +139,14 @@ local sectorList = {
     { location = "D5-1", },
     
     
-    -- Drassen mine
+    -- Hale & Burton experimental facilities
     { location = "D13-1", },
     { location = "E13-1", },
     { location = "E13-2", },
-    { location = "F13-2", },
+    { location = "F13-2", loadscreens = { "LS_Blast_tunnel", }, },
     { location = "G13-2", },
     { location = "G13-3", },
-    { location = "F13-3", },
+    { location = "F13-3", loadscreens = { "LS_Blast_tunnel", }, },
 
 
     -- Alma Mine
@@ -158,7 +158,7 @@ local sectorList = {
     { location = "K13-3", },
 
 
-    -- Cambria mine
+    -- Former Cambria mine
     { location = "H8-1", },
     { location = "H9-1", },
     { location = "H9-2", },

@@ -1,4 +1,4 @@
-﻿--[[
+--[[
 
     This file (or its localized versions respectively) are included in
     "initunderground.lua" to provide the underground sector names.
@@ -18,7 +18,7 @@ sectornames = {
     
     ["K4-1"] = "Orta Basement",
     
-    ["O3-1"] = "Tunnel",
+    ["O3-1"] = "Tunnels",
     
     ["P3-1"] = "Shelter",
     
@@ -31,10 +31,10 @@ sectornames = {
     ["D13-1"] = "Drassen Mine",
     ["E13-1"] = "Drassen Mine",
     ["E13-2"] = "Drassen Mine",
-    ["F13-2"] = "Drassen Mine",
+    ["F13-2"] = "H&B Bunker",
     ["G13-2"] = "Drassen Mine",
     ["G13-3"] = "Drassen Mine",
-    ["F13-3"] = "Drassen Mine",
+    ["F13-3"] = "H&B Bunker",
     
     ["H8-1"] = "Salinas Mine",
     ["H9-1"] = "Salinas Mine",
