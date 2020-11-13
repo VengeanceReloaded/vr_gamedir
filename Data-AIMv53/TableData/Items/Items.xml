@@ -48686,7 +48686,7 @@
 		<uiIndex>1610</uiIndex>
 		<szItemName>Grey shirt</szItemName>
 		<szLongItemName>Grey shirt</szLongItemName>
-		<szItemDesc>Think about your favorite t-shirt.  There's a good chance it feels nice, soft, and is more comfortable on your skin.  Your favorite shirt is probably made from ringspun cotton.</szItemDesc>
+		<szItemDesc>Think about your favorite t-shirt.  There's a good chance it feels nice, soft, and is more comfortable on your skin. Your favorite shirt is probably made from ringspun cotton.</szItemDesc>
 		<szBRName>Grey shirt</szBRName>
 		<szBRDesc>This one's super comfy! Perhaps it's the material. Traditionally, ringspun cotton has qualities that make it softer and more comfortable to wear.</szBRDesc>
 		<usItemClass>8192</usItemClass>
@@ -48696,7 +48696,7 @@
 		<ubWeight>4</ubWeight>
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>13</ItemSize>
-		<usPrice>200</usPrice>
+		<usPrice>30</usPrice>
 		<ubCoolness>10</ubCoolness>
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
