@@ -58578,9 +58578,11 @@
 		<szBRDesc>The Molot Vepr is a rugged beast sharing DNA from the Russian RPK machinegun. The rifle has some American parts to assist in compliance but make no mistake the Russian tenacity remains.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2091</ubClassIndex>
-		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>	<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>2048</AvailableAttachmentPoint>		<!-- Muzzle - Sniper Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
-		<AvailableAttachmentPoint>16777216</AvailableAttachmentPoint>	<!-- Sights - Kobra -->
+		<AvailableAttachmentPoint>16777216</AvailableAttachmentPoint>		<!-- Sights - Kobra -->
 		<AvailableAttachmentPoint>274877906944</AvailableAttachmentPoint>	<!-- Laser - AK Corsac -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
@@ -58622,12 +58624,12 @@
 		<ubClassIndex>2092</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
-		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>				<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
-		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>				<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>			<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
-		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>			<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
