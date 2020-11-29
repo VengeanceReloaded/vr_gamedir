@@ -60068,7 +60068,6 @@
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<DefaultAttachment>1636</DefaultAttachment>
 		<DefaultAttachment>1007</DefaultAttachment>
-		<VisionRangeBonus>10</VisionRangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -79887,7 +79886,6 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<CamoBonus>1</CamoBonus>
 		<HearingRangeBonus>2</HearingRangeBonus>
 		<VisionRangeBonus>5</VisionRangeBonus>
-
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />

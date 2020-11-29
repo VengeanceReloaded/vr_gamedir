@@ -96,7 +96,7 @@
 		<uiIndex>3</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>15</ubDamage>
-		<ubStunDamage>7</ubStunDamage>
+		<ubStunDamage>30</ubStunDamage>
 		<ubRadius>3</ubRadius>
 		<ubVolume>15</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -117,7 +117,7 @@
 		<uiIndex>4</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>25</ubDamage>
-		<ubStunDamage>10</ubStunDamage>
+		<ubStunDamage>50</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>25</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -138,7 +138,7 @@
 		<uiIndex>5</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>40</ubDamage>
-		<ubStunDamage>12</ubStunDamage>
+		<ubStunDamage>80</ubStunDamage>
 		<ubRadius>2</ubRadius>
 		<ubVolume>20</ubVolume>
 		<ubVolatility>10</ubVolatility>
@@ -159,7 +159,7 @@
 		<uiIndex>6</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>50</ubDamage>
-		<ubStunDamage>15</ubStunDamage>
+		<ubStunDamage>100</ubStunDamage>
 		<ubRadius>5</ubRadius>
 		<ubVolume>50</ubVolume>
 		<ubVolatility>2</ubVolatility>
@@ -180,7 +180,7 @@
 		<uiIndex>7</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>60</ubDamage>
-		<ubStunDamage>15</ubStunDamage>
+		<ubStunDamage>120</ubStunDamage>
 		<ubRadius>6</ubRadius>
 		<ubVolume>60</ubVolume>
 		<ubVolatility>2</ubVolatility>
@@ -201,7 +201,7 @@
 		<uiIndex>8</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>55</ubDamage>
-		<ubStunDamage>15</ubStunDamage>
+		<ubStunDamage>110</ubStunDamage>
 		<ubRadius>6</ubRadius>
 		<ubVolume>55</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -222,7 +222,7 @@
 		<uiIndex>9</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>50</ubDamage>
-		<ubStunDamage>22</ubStunDamage>
+		<ubStunDamage>50</ubStunDamage>
 		<ubRadius>6</ubRadius>
 		<ubVolume>50</ubVolume>
 		<ubVolatility>2</ubVolatility>
@@ -264,7 +264,7 @@
 		<uiIndex>11</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>65</ubDamage>
-		<ubStunDamage>30</ubStunDamage>
+		<ubStunDamage>130</ubStunDamage>
 		<ubRadius>7</ubRadius>
 		<ubVolume>65</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -369,7 +369,7 @@
 		<uiIndex>16</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>25</ubDamage>
-		<ubStunDamage>5</ubStunDamage>
+		<ubStunDamage>50</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>25</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -474,7 +474,7 @@
 		<uiIndex>21</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>60</ubDamage>
-		<ubStunDamage>20</ubStunDamage>
+		<ubStunDamage>120</ubStunDamage>
 		<ubRadius>6</ubRadius>
 		<ubVolume>60</ubVolume>
 		<ubVolatility>2</ubVolatility>
@@ -537,7 +537,7 @@
 		<uiIndex>24</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>50</ubDamage>
-		<ubStunDamage>10</ubStunDamage>
+		<ubStunDamage>50</ubStunDamage>
 		<ubRadius>5</ubRadius>
 		<ubVolume>50</ubVolume>
 		<ubVolatility>2</ubVolatility>
@@ -558,7 +558,7 @@
 		<uiIndex>25</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>50</ubDamage>
-		<ubStunDamage>10</ubStunDamage>
+		<ubStunDamage>50</ubStunDamage>
 		<ubRadius>5</ubRadius>
 		<ubVolume>50</ubVolume>
 		<ubVolatility>2</ubVolatility>
@@ -726,7 +726,7 @@
 		<uiIndex>33</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>20</ubDamage>
-		<ubStunDamage>5</ubStunDamage>
+		<ubStunDamage>20</ubStunDamage>
 		<ubRadius>3</ubRadius>
 		<ubVolume>20</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -852,7 +852,7 @@
 		<uiIndex>39</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>22</ubDamage>
-		<ubStunDamage>5</ubStunDamage>
+		<ubStunDamage>22</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>22</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -978,7 +978,7 @@
 		<uiIndex>45</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>25</ubDamage>
-		<ubStunDamage>5</ubStunDamage>
+		<ubStunDamage>50</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>25</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -1125,7 +1125,7 @@
 		<uiIndex>52</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>27</ubDamage>
-		<ubStunDamage>7</ubStunDamage>
+		<ubStunDamage>54</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>27</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -1230,7 +1230,7 @@
 		<uiIndex>57</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>40</ubDamage>
-		<ubStunDamage>15</ubStunDamage>
+		<ubStunDamage>80</ubStunDamage>
 		<ubRadius>6</ubRadius>
 		<ubVolume>55</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -1251,7 +1251,7 @@
 		<uiIndex>58</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>80</ubDamage>
-		<ubStunDamage>10</ubStunDamage>
+		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>3</ubRadius>
 		<ubVolume>75</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -1314,7 +1314,7 @@
 		<uiIndex>61</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>30</ubDamage>
-		<ubStunDamage>5</ubStunDamage>
+		<ubStunDamage>30</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>25</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -1335,7 +1335,7 @@
 		<uiIndex>62</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>30</ubDamage>
-		<ubStunDamage>5</ubStunDamage>
+		<ubStunDamage>30</ubStunDamage>
 		<ubRadius>8</ubRadius>
 		<ubVolume>25</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -1377,7 +1377,7 @@
 		<uiIndex>64</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>25</ubDamage>
-		<ubStunDamage>5</ubStunDamage>
+		<ubStunDamage>25</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>25</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -1692,7 +1692,7 @@
 		<uiIndex>79</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>27</ubDamage>
-		<ubStunDamage>7</ubStunDamage>
+		<ubStunDamage>27</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>27</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -1923,7 +1923,7 @@
 		<uiIndex>90</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>15</ubDamage>
-		<ubStunDamage>7</ubStunDamage>
+		<ubStunDamage>15</ubStunDamage>
 		<ubRadius>3</ubRadius>
 		<ubVolume>15</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -1944,7 +1944,7 @@
 		<uiIndex>91</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>25</ubDamage>
-		<ubStunDamage>10</ubStunDamage>
+		<ubStunDamage>25</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>25</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -2658,7 +2658,7 @@
 		<uiIndex>125</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>20</ubDamage>
-		<ubStunDamage>10</ubStunDamage>
+		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>5</ubRadius>
 		<ubVolume>15</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -2679,7 +2679,7 @@
 		<uiIndex>126</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>26</ubDamage>
-		<ubStunDamage>20</ubStunDamage>
+		<ubStunDamage>52</ubStunDamage>
 		<ubRadius>3</ubRadius>
 		<ubVolume>25</ubVolume>
 		<ubVolatility>2</ubVolatility>
@@ -2700,7 +2700,7 @@
 		<uiIndex>127</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>30</ubDamage>
-		<ubStunDamage>13</ubStunDamage>
+		<ubStunDamage>60</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>25</ubVolume>
 		<ubVolatility>2</ubVolatility>
@@ -2721,7 +2721,7 @@
 		<uiIndex>128</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>25</ubDamage>
-		<ubStunDamage>14</ubStunDamage>
+		<ubStunDamage>50</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>25</ubVolume>
 		<ubVolatility>5</ubVolatility>
@@ -2742,7 +2742,7 @@
 		<uiIndex>129</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>24</ubDamage>
-		<ubStunDamage>10</ubStunDamage>
+		<ubStunDamage>48</ubStunDamage>
 		<ubRadius>6</ubRadius>
 		<ubVolume>25</ubVolume>
 		<ubVolatility>3</ubVolatility>
@@ -2763,7 +2763,7 @@
 		<uiIndex>130</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>22</ubDamage>
-		<ubStunDamage>10</ubStunDamage>
+		<ubStunDamage>44</ubStunDamage>
 		<ubRadius>2</ubRadius>
 		<ubVolume>25</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -2784,7 +2784,7 @@
 		<uiIndex>131</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>30</ubDamage>
-		<ubStunDamage>20</ubStunDamage>
+		<ubStunDamage>60</ubStunDamage>
 		<ubRadius>2</ubRadius>
 		<ubVolume>35</ubVolume>
 		<ubVolatility>2</ubVolatility>
@@ -2805,7 +2805,7 @@
 		<uiIndex>132</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>24</ubDamage>
-		<ubStunDamage>18</ubStunDamage>
+		<ubStunDamage>48</ubStunDamage>
 		<ubRadius>3</ubRadius>
 		<ubVolume>15</ubVolume>
 		<ubVolatility>2</ubVolatility>
@@ -2847,7 +2847,7 @@
 		<uiIndex>134</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>35</ubDamage>
-		<ubStunDamage>15</ubStunDamage>
+		<ubStunDamage>70</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>25</ubVolume>
 		<ubVolatility>3</ubVolatility>
@@ -2868,7 +2868,7 @@
 		<uiIndex>135</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>25</ubDamage>
-		<ubStunDamage>15</ubStunDamage>
+		<ubStunDamage>50</ubStunDamage>
 		<ubRadius>5</ubRadius>
 		<ubVolume>35</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -2889,7 +2889,7 @@
 		<uiIndex>136</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>40</ubDamage>
-		<ubStunDamage>20</ubStunDamage>
+		<ubStunDamage>80</ubStunDamage>
 		<ubRadius>3</ubRadius>
 		<ubVolume>35</ubVolume>
 		<ubVolatility>2</ubVolatility>
@@ -2973,7 +2973,7 @@
 		<uiIndex>140</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>30</ubDamage>
-		<ubStunDamage>25</ubStunDamage>
+		<ubStunDamage>30</ubStunDamage>
 		<ubRadius>5</ubRadius>
 		<ubVolume>30</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -2994,7 +2994,7 @@
 		<uiIndex>141</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>20</ubDamage>
-		<ubStunDamage>10</ubStunDamage>
+		<ubStunDamage>20</ubStunDamage>
 		<ubRadius>1</ubRadius>
 		<ubVolume>20</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -3015,7 +3015,7 @@
 		<uiIndex>142</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>30</ubDamage>
-		<ubStunDamage>15</ubStunDamage>
+		<ubStunDamage>30</ubStunDamage>
 		<ubRadius>3</ubRadius>
 		<ubVolume>35</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -3036,7 +3036,7 @@
 		<uiIndex>143</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>65</ubDamage>
-		<ubStunDamage>15</ubStunDamage>
+		<ubStunDamage>65</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>65</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -3183,7 +3183,7 @@
 		<uiIndex>150</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>40</ubDamage>
-		<ubStunDamage>15</ubStunDamage>
+		<ubStunDamage>20</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>55</ubVolume>
 		<ubVolatility>3</ubVolatility>
@@ -3204,7 +3204,7 @@
 		<uiIndex>151</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>45</ubDamage>
-		<ubStunDamage>15</ubStunDamage>
+		<ubStunDamage>25</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>65</ubVolume>
 		<ubVolatility>3</ubVolatility>
@@ -3246,7 +3246,7 @@
 		<uiIndex>153</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>25</ubDamage>
-		<ubStunDamage>10</ubStunDamage>
+		<ubStunDamage>25</ubStunDamage>
 		<ubRadius>3</ubRadius>
 		<ubVolume>35</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -3351,7 +3351,7 @@
 		<uiIndex>158</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>10</ubDamage>
-		<ubStunDamage>10</ubStunDamage>
+		<ubStunDamage>20</ubStunDamage>
 		<ubRadius>1</ubRadius>
 		<ubVolume>15</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -3498,7 +3498,7 @@
 		<uiIndex>165</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>28</ubDamage>
-		<ubStunDamage>5</ubStunDamage>
+		<ubStunDamage>28</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>25</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -3666,7 +3666,7 @@
 		<uiIndex>173</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>33</ubDamage>
-		<ubStunDamage>5</ubStunDamage>
+		<ubStunDamage>33</ubStunDamage>
 		<ubRadius>4</ubRadius>
 		<ubVolume>25</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -3687,7 +3687,7 @@
 		<uiIndex>174</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>30</ubDamage>
-		<ubStunDamage>5</ubStunDamage>
+		<ubStunDamage>30</ubStunDamage>
 		<ubRadius>8</ubRadius>
 		<ubVolume>25</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -3813,7 +3813,7 @@
 		<uiIndex>180</uiIndex>		<!-- PG-16 HEAT Grenade -->
 		<ubType>0</ubType>
 		<ubDamage>65</ubDamage>
-		<ubStunDamage>0</ubStunDamage>
+		<ubStunDamage>35</ubStunDamage>
 		<ubRadius>3</ubRadius>
 		<ubVolume>100</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -3897,7 +3897,7 @@
 		<uiIndex>184</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>20</ubDamage>
-		<ubStunDamage>15</ubStunDamage>
+		<ubStunDamage>40</ubStunDamage>
 		<ubRadius>2</ubRadius>
 		<ubVolume>20</ubVolume>
 		<ubVolatility>2</ubVolatility>
@@ -3918,7 +3918,7 @@
 		<uiIndex>185</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>25</ubDamage>
-		<ubStunDamage>20</ubStunDamage>
+		<ubStunDamage>50</ubStunDamage>
 		<ubRadius>2</ubRadius>
 		<ubVolume>25</ubVolume>
 		<ubVolatility>2</ubVolatility>
@@ -3939,7 +3939,7 @@
 		<uiIndex>186</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>45</ubDamage>
-		<ubStunDamage>25</ubStunDamage>
+		<ubStunDamage>45</ubStunDamage>
 		<ubRadius>8</ubRadius>
 		<ubVolume>75</ubVolume>
 		<ubVolatility>3</ubVolatility>
