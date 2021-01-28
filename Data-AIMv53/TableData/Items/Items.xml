@@ -559,7 +559,7 @@
 		<szLongItemName>Ingram MAC-10</szLongItemName>
 		<szItemDesc>Born in the days of disco, this weapon has been very popular in the land of pink flamingos and snow. This drive-by tool blasts .45 magic at rad speed.</szItemDesc>
 		<szBRName>Ingram MAC-10</szBRName>
-		<szBRDesc>The U.S. Military Armament Corp. Model-10: a real man's sub-machine gun. Its steadiness allows for single-handed firing and its threaded barrel can fit a 'sound suppressor,' which is similar to a silencer but won't reduce bullet velocity.</szBRDesc>
+		<szBRDesc>The U.S. Military Armament Corp. Model-10's steadiness allows for single-handed firing and its threaded barrel can fit a 'sound suppressor,' which is similar to a silencer but won't reduce bullet velocity.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>10</ubClassIndex>
@@ -844,7 +844,7 @@
 		<szLongItemName>SKS</szLongItemName>
 		<szItemDesc>This extremely common semi-automatic carbine weapon has seen action in almost every Communist country in the world. This 7.62x39mm carbine was mass produced numbering 15,000,000 to this day. Great for hunting everything from animals to man.</szItemDesc>
 		<szBRName>SKS</szBRName>
-		<szBRDesc>The Simonov self-loading SKS automatic rifle has a simple design and is easy to operate. Developed during WWII, it was later distributed to most Warsaw Pact members. Its only weak spot: it's a little heavy for its cartridge.</szBRDesc>
+		<szBRDesc>The Simonov self-loading SKS automatic rifle has a simple design and is easy to operate. Developed during WWII, it was later distributed to most Warsaw Pact members.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
@@ -72162,9 +72162,9 @@
 		<uiIndex>2690</uiIndex>
 		<szItemName>Drop Pouch</szItemName>
 		<szLongItemName>ETAC Medium Drop Pouch</szLongItemName>
-		<szItemDesc>ETAC Drop pouche are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
+		<szItemDesc>ETAC Drop pouches are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
 		<szBRName>ETAC Medium Drop Pouch</szBRName>
-		<szBRDesc>ETAC Drop pouche are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment.</szBRDesc>
+		<szBRDesc>ETAC Drop pouches are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
