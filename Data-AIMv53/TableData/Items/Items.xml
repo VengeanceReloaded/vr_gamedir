@@ -20446,7 +20446,7 @@
 		<szLongItemName>Cobray M11/9</szLongItemName>
 		<szItemDesc>Quick firing, ugly, and functional. The M11/9 is as reminiscent of the 1980s as bad music and cocaine fueled business decisions. Not to be mistaken for a M11, though.</szItemDesc>
 		<szBRName>Cobray M11/9</szBRName>
-		<szBRDesc>A first choice among many on both sides of the law for close-quarters dispatch with negliable penetration. The 1200rpm cyclic rate makes for a lot of muzzle climb, so aim low.</szBRDesc>
+		<szBRDesc>Popular among many on both sides of the law for close-quarters dispatch using plentiful 9mm ammo. The 1200rpm cyclic rate makes for a lot of muzzle climb, so aim low.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>688</ubClassIndex>
@@ -59058,6 +59058,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>2</BR_UsedInventory>
 		<BR_ROF>500</BR_ROF>
 		<BurstToHitBonus>3</BurstToHitBonus>
 		<AutoFireToHitBonus>3</AutoFireToHitBonus>
@@ -60271,7 +60273,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>0</BR_NewInventory>
-		<BR_UsedInventory>2</BR_UsedInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>500</BR_ROF>
 		<BurstToHitBonus>3</BurstToHitBonus>
 		<AutoFireToHitBonus>3</AutoFireToHitBonus>
