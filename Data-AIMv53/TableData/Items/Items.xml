@@ -74488,9 +74488,9 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<uiIndex>2824</uiIndex>
 		<szItemName>FLEX LAM</szItemName>
 		<szLongItemName>FLEX E-LAP Laser Aiming Pointer</szLongItemName>
-		<szItemDesc>With the flick of a switch turn your laser unit into a CQB illuminator, taking advantage of the very bright LED unit built in. Included on top of the laser is a 20mm RIS rail, for mounting even more on your gun! Double lasers... mmmmm...The looks? - they just speak for themselves - wipe the dribble from your chin lads!</szItemDesc>
+		<szItemDesc>With a flick of the switch turn your laser unit into a CQB illuminator, taking advantage of the bright built in LED unit. Included on top of the laser is a 20mm RIS rail, for mounting even more on your gun! Double lasers... mmmmm...The looks? They speak for themselves, wipe the dribble from your chin, lads!</szItemDesc>
 		<szBRName>FLEX E-LAP Laser Aiming Pointer</szBRName>
-		<szBRDesc>Solid and robust, this is a 'big man's' laser sporting an impressive throw-lever QD release and will improve any 20mm RIS rail like a boss!</szBRDesc>
+		<szBRDesc>Solid and robust, this is a 'big man's' laser sporting an impressive throw-lever QD release. This will improve any 20mm RIS rail like a boss!</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
@@ -76255,7 +76255,9 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<szBRName>AN/PEQ-15 DBALA2</szBRName>
 		<szBRDesc>The AN/PEQ-15 Advanced Target Pointer/Illuminator/Aiming Light and the AN/PEQ-15A Dual Beam Aiming Laser Advanced (DBALA2) are laser-aiming devices designed to be used in conjunction with night vision devices to engage enemy targets at night.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>128</nasAttachmentClass>
+		<AttachmentClass>4</AttachmentClass>
+		<nasAttachmentClass>4</nasAttachmentClass>
+		<AttachmentPoint>16</AttachmentPoint>	<!-- Laser - Rifle Lam -->
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>659</ubGraphicNum>
 		<ubWeight>4</ubWeight>
