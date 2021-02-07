@@ -75624,6 +75624,7 @@ can be attached to most SMGs and rifles to enhance burst and selective fire accu
 		<AttachmentPoint>262144</AttachmentPoint>	<!-- Sights - Match Sights -->
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>228</ubGraphicNum>
+		<ubWeight>1</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>275</usPrice>
