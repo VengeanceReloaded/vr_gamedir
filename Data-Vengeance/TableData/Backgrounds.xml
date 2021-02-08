@@ -4671,12 +4671,35 @@
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
-	<!-- Empty -->
+	<!-- Hustler -->
 	<BACKGROUND>
 		<uiIndex>219</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Femme fatale</szName>
+		<szShortName>Femme fatale</szShortName>
+		<szDescription>Using sexual allure for profit and seduction as a weapon means Susan is as busy as she is deadly.</szDescription>
+		<agility>3</agility>
+		<dexterity>6</dexterity>
+		<medical>5</medical>
+		<stealth>15</stealth>
+		<cth_blades>7</cth_blades>
+		<ap_assault>-3</ap_assault>
+		<ap_urban>5</ap_urban>
+		<ap_inventory>10</ap_inventory>
+		<ap_fortify>-10</ap_fortify>
+		<meleedamage>5</meleedamage>
+		<approach_friendly>20</approach_friendly>
+		<approach_direct>15</approach_direct>
+		<approach_threaten>-10</approach_threaten>
+		<approach_recruit>15</approach_recruit>
+		<resistance_fear>4</resistance_fear>
+		<resistance_physical>5</resistance_physical>
+		<resistance_poison>12</resistance_poison>
+		<travel_foot>2</travel_foot>
+		<hearing_night>2</hearing_night>
+		<interrogation>-15</interrogation>
+		<betterprices>10</betterprices>
+		<camo>15</camo>
+		<spotter>5</spotter>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
