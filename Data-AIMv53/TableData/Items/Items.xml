@@ -5099,7 +5099,7 @@
 		<szLongItemName>Treated Kevlar Vest</szLongItemName>
 		<szItemDesc>This vest's ballistic panels, made from 28 piles of Kevlar, offer even more anti-ballistic protection as they have been treated with Compound 18.</szItemDesc>
 		<szBRName>Treated Kevlar Vest</szBRName>
-		<szBRDesc>If you thought Kevlar was good, it's even better when it has been treated with Compound 18. This vest's ballistic panels, made from 28 piles of Kevlar, offer even more protection as they have been treated with the liquid anti-ballistic solution.</szBRDesc>
+		<szBRDesc>Not available at BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>4</ubClassIndex>
@@ -5221,7 +5221,7 @@
 		<szLongItemName>Treated Spectra Vest</szLongItemName>
 		<szItemDesc>This Spectra Shield vest, made from an ultra high-performance ballistic sheet to reduce blunt trauma from multiple hits and angled shots, has been treated with Compound 18 to further improve its impenetrability.</szItemDesc>
 		<szBRName>Treated Spectra Vest</szBRName>
-		<szBRDesc>Advanced body armor technology combined with chemistry produced this Spectra Shield vest. Made from high-performance ballistic sheets, it dramatically reduces blunt trauma from multiple hits and angled shots. Add on Compound-18 and you're virtually invincible.</szBRDesc>
+		<szBRDesc>Not available at BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>7</ubClassIndex>
@@ -5329,7 +5329,7 @@
 		<szLongItemName>Treated Kevlar Leggings</szLongItemName>
 		<szItemDesc>The ballistic panels on these leggings, made from 28 piles of Kevlar, have been treated with Compound 18 for extra anti-ballistic protection.</szItemDesc>
 		<szBRName>Treated Kevlar Leggings</szBRName>
-		<szBRDesc>Above standard body armor protection--the ballistic panels on these leggings are made from 28 piles of Kevlar, and have been treated with Compound 18 for extra anti-ballistic protection.</szBRDesc>
+		<szBRDesc>Not available at BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>10</ubClassIndex>
@@ -5412,7 +5412,7 @@
 		<szLongItemName>Treated Spectra Leggings</szLongItemName>
 		<szItemDesc>These Spectra Shield, Compound 18 treated, leggings offer even more protection against blunt trauma from multiple hits and angled shots, than standard Spectra leggings.</szItemDesc>
 		<szBRName>Treated Spectra Leggings</szBRName>
-		<szBRDesc>Take the most advanced body armor protection available and make it better--these Spectra Shield Compound 18 treated leggings offer even more protection against blunt trauma, from multiple hits and angled shots, than standard Spectra leggings.</szBRDesc>
+		<szBRDesc>Not available at BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>13</ubClassIndex>
@@ -5534,7 +5534,7 @@
 		<szLongItemName>Treated Kevlar Helmet</szLongItemName>
 		<szItemDesc>Made from Kevlar, this Personal Armor System Ground Troops helmet has been treated with Compound 18 to further enhance its defensive capabilities.</szItemDesc>
 		<szBRName>Treated Kevlar Helmet</szBRName>
-		<szBRDesc>Made from multi-layered Kevlar this PAS GT helmet has been upgraded with Compound 18 to further enhance its defensive capablities.</szBRDesc>
+		<szBRDesc>Not available at BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -5628,7 +5628,7 @@
 		<szLongItemName>Treated Spectra Helmet</szLongItemName>
 		<szItemDesc>Dipped in Compound 18, this light Spectra composite helmet offers the maximum available amount of anti-ballistic protection.</szItemDesc>
 		<szBRName>Treated Spectra Helmet</szBRName>
-		<szBRDesc>Dipped in Compound 18, this light Spectra composite helmet offers the maximum amount of anti-ballistic protection possible. Rumor has it that this type of helmet has made a world of difference for some mercs who actually make it back from the front line.</szBRDesc>
+		<szBRDesc>Not available at BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -6425,7 +6425,7 @@
 		<szLongItemName>Pistol Suppressor</szLongItemName>
 		<szItemDesc>It is dangerous to be right when the goverment is wrong, better be quiet. The light, compact design of this suppressor can be fitted easily to most handguns and sub-machine guns.</szItemDesc>
 		<szBRName>Pistol Suppressor</szBRName>
-		<szBRDesc>This is the ideal suppressor for both indoor and outdoor missions that have to be kept quiet. It's light and compact design can be fitted easily to most handguns and sub-machine guns.</szBRDesc>
+		<szBRDesc>This is the ideal suppressor for both indoor and outdoor missions that have to be kept quiet. Its light and compact design can be fitted easily to most handguns and sub-machine guns.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>2</AttachmentClass>
 		<nasAttachmentClass>2</nasAttachmentClass>
@@ -6572,9 +6572,9 @@
 		<uiIndex>211</uiIndex>
 		<szItemName>NVG I</szItemName>
 		<szLongItemName>Night Vision Goggles, Gen. I</szLongItemName>
-		<szItemDesc>The first generation of light amplification goggles. Their picture is somewhat grainy and light amplification has only just begun to be researched.</szItemDesc>
+		<szItemDesc>The first generation of light amplification goggles give visuals that are somewhat grainy and rudimentary light amplification.</szItemDesc>
 		<szBRName>Night Vision Goggles I</szBRName>
-		<szBRDesc>Just for those night stalkers who are short of cash, our first generation of nightvision gear is still available for those who cannot afford the luxury stuff.</szBRDesc>
+		<szBRDesc>Our first generation of nightvision gear is still available for those night stalkers who work on a more limited budget.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>2251799813685248</AttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -6607,9 +6607,9 @@
 		<uiIndex>212</uiIndex>
 		<szItemName>Combat Goggles</szItemName>
 		<szLongItemName>Ballistic Combat Goggles</szLongItemName>
-		<szItemDesc>A favorite of U.S. Special Forces these ESS Ballistic combat goggles have a series of vast improvements including extra-thick 2.8mm polycarbonate lenses which offer maximum impact protection and 100 percent UVA/UVB filtration.</szItemDesc>
+		<szItemDesc>A favorite with U.S. Special Forces, these ESS Ballistic combat goggles have a series of vast improvements including extra-thick 2.8mm polycarbonate lenses which offer maximum impact protection and 100 percent UVA/UVB filtration.</szItemDesc>
 		<szBRName>Ballistic Combat Goggles</szBRName>
-		<szBRDesc>Favored by U.S. Special Forces groups, these ESS Ballistic goggles are better and tougher than ever. These designs feature vast improvements such as extra-thick polycarbonate lenses offering maximum protection and filtering 100%%%% of UVA/UVB rays.</szBRDesc>
+		<szBRDesc>Favored by U.S. Special Forces, these ESS Ballistic goggles are better and tougher than ever. These designs feature vast improvements such as extra-thick polycarbonate lenses offering maximum protection and filtering 100%%%% of UVA/UVB rays.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>2251799813685248</AttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -6677,7 +6677,7 @@
 		<szLongItemName>Canteen</szLongItemName>
 		<szItemDesc>This polyethylene canteen is extremely practical. Whenever you encounter a fresh mountain spring, you can refill it again. If only there was a way to remove that plastic after-taste.</szItemDesc>
 		<szBRName>Canteen</szBRName>
-		<szBRDesc>Quench your thirst in the field with ease with this water-filled polyethylene canteen. Hardy, refillable and reusable, be sure to have one nearby.</szBRDesc>
+		<szBRDesc>Quench your thirst in the field with ease with this water-filled polyethylene canteen. Hardy, refillable and reusable.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -6702,7 +6702,7 @@
 		<uiIndex>215</uiIndex>
 		<szItemName>Metal Detector</szItemName>
 		<szLongItemName>Metal Detector</szLongItemName>
-		<szItemDesc>This is an extremely light and powerful transistorized metal detector with aural signalization. All the user has to do is have it on his person and an alarm sounds when metal is detected.</szItemDesc>
+		<szItemDesc>This light and powerful transistorized metal detector has aural signalization. All the user has to do is have it on his person and an alarm sounds when metal is detected.</szItemDesc>
 		<szBRName>Metal Detector</szBRName>
 		<szBRDesc>This hand-held transistorized metal detector is extremely powerful, it'll find more than just coins on the beach. Lightweight and featuring aural signalization it is used most effectively by explosive detection operatives.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -6733,9 +6733,9 @@
 		<uiIndex>216</uiIndex>
 		<szItemName>Compound 18</szItemName>
 		<szLongItemName>Compound 18</szLongItemName>
-		<szItemDesc>This quick-hardening polyurethane liquid, when administered to most body armor, claims to further advance the protective properties of standard anti-ballistic materials.</szItemDesc>
+		<szItemDesc>Slop on some of this stuff to feel truly invincible. This quick-hardening liquid claims to enhance the protective qualities of your standard Kevlar or Spectra body armor.</szItemDesc>
 		<szBRName>Compound 18</szBRName>
-		<szBRDesc>Slop on some of this stuff to feel truly invincible. This quick-hardening liquid claims to enhance the protective qualities of your standard Kevlar or Spectra Shield body armor.</szBRDesc>
+		<szBRDesc>This quick-hardening polyurethane liquid, when administered to most body armor, claims to further advance the protective properties of standard anti-ballistic materials.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -25126,7 +25126,7 @@
 		<uiIndex>810</uiIndex>
 		<szItemName>Tw. Helmet</szItemName>
 		<szLongItemName>Twaron Helmet</szLongItemName>
-		<szItemDesc>The most demanding ballistic requirements can be met by a helmet made from a specially formed Twaron laminate. Its low weight makes it much more comfortable to wear than the traditional steel helmet.</szItemDesc>
+		<szItemDesc>The most demanding ballistic requirements can be met by a helmet made from a specially formed Twaron laminate. Its low weight makes it much more comfortable to wear than a traditional steel helmet.</szItemDesc>
 		<szBRName>Twaron Helmet</szBRName>
 		<szBRDesc>One of the best helmets money can buy!  Contact us if you want them in blue for that genuine UN look.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -25195,7 +25195,7 @@
 		<szLongItemName>Twaron Vest</szLongItemName>
 		<szItemDesc>Twaron Microfilament in bullet resistant vests makes protective clothing lighter, more flexible, and easier to wear.</szItemDesc>
 		<szBRName>Twaron Vest</szBRName>
-		<szBRDesc>The use of Twaron CT Microfilament in bullet resistant vests makes protective clothing lighter, more flexible, and easier to wear. In short, the most efficient protection system on the market today.</szBRDesc>
+		<szBRDesc>The use of Twaron CT Microfilament in bullet resistant vests makes protective clothing lighter, more flexible, and easier to wear.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>66</ubClassIndex>
@@ -25239,7 +25239,7 @@
 		<szLongItemName>Treated Dyneema Helmet</szLongItemName>
 		<szItemDesc>This Helmet has been treated with Compound-18 for added ballistic protection.</szItemDesc>
 		<szBRName>Treated Dyneema Helmet</szBRName>
-		<szBRDesc>Catching a bullet high and inside ruins anyone's day. Prevent it with a C-18 treated helmet.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -25273,7 +25273,7 @@
 		<szLongItemName>Treated Dyneema Leggings</szLongItemName>
 		<szItemDesc>The tensile strength of these Dyneema leggings has been improved by a treatment with Compound-18.</szItemDesc>
 		<szBRName>Treated Dyneema Leggings</szBRName>
-		<szBRDesc>Contrary to what you see in the movies, there really is no 'safe place' on the human body to get shot. These treated trousers are worth the investment.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>68</ubClassIndex>
@@ -25302,7 +25302,7 @@
 		<szLongItemName>Treated Dyneema Vest</szLongItemName>
 		<szItemDesc>Permeation with Compound-18 boosts this vest's capacity for resisting trauma from bullets, fragments and other battlefield detritus.</szItemDesc>
 		<szBRName>Treated Dyneema Vest</szBRName>
-		<szBRDesc>This treated Dyneema vest prohibits painful penetrating trauma.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>69</ubClassIndex>
@@ -25546,7 +25546,7 @@
 		<szLongItemName>Treated Twaron Helmet</szLongItemName>
 		<szItemDesc>A treated ballistic helmet, because your head is worth it.</szItemDesc>
 		<szBRName>Treated Twaron Helmet</szBRName>
-		<szBRDesc>A treated ballistic helmet, because your head is worth it.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -25579,7 +25579,7 @@
 		<szLongItemName>Treated Twaron Leggings</szLongItemName>
 		<szItemDesc>Treatment with C-18 has augmented these leggings' ability to stop career ending knee and hip wounds.</szItemDesc>
 		<szBRName>Treated Twaron Leggings</szBRName>
-		<szBRDesc>Treatment with C-18 has augmented these leggings' ability to stop career ending knee and hip wounds.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>77</ubClassIndex>
@@ -25607,7 +25607,7 @@
 		<szLongItemName>Treated Twaron Vest</szLongItemName>
 		<szItemDesc>The aramid fibers in this vest have been significantly strengthened by the addition of Compound-18.</szItemDesc>
 		<szBRName>Treated Twaron Vest</szBRName>
-		<szBRDesc>C-18 has vastly improved the protective capacity of this armor.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>78</ubClassIndex>
@@ -34438,7 +34438,7 @@
 		<szItemName>SO-18 Helmet</szItemName>
 		<szLongItemName>Treated Stealth Ops Helmet</szLongItemName>
 		<szItemDesc>With added C-18 treatment, this helmet will protect you from small caliber rounds effectively while still providing stealth capablities. For those really quiet operatives only.</szItemDesc>
-		<szBRName>Treated Stealth Ops Helmet</szBRName>
+		<szBRName>Not available at BR</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -34470,7 +34470,7 @@
 		<szLongItemName>Treated Stealth Ops Vest</szLongItemName>
 		<szItemDesc>With this vest an operative will remain uncovered for the most time, but vulnerable to large caliber weapons. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Stealth Ops Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>129</ubClassIndex>
@@ -34499,7 +34499,7 @@
 		<szLongItemName>Treated Stealth Ops Leggings</szLongItemName>
 		<szItemDesc>No need to learn ninjutsu. An operative wearing these leggings will become ninja right away. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Stealth Ops Leggings</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>130</ubClassIndex>
@@ -34528,7 +34528,7 @@
 		<szLongItemName>Treated Recon Kevlar Vest</szLongItemName>
 		<szItemDesc>This camouflaged kevlar vest is the best solution for any recon activity. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Recon Kevlar Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>131</ubClassIndex>
@@ -34570,7 +34570,7 @@
 		<szLongItemName>Treated Recon Guardian Vest</szLongItemName>
 		<szItemDesc>This camouflaged Guardian vest is the best solution for any recon activity. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Recon Guardian Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>132</ubClassIndex>
@@ -34612,7 +34612,7 @@
 		<szLongItemName>Treated Recon Twaron Vest</szLongItemName>
 		<szItemDesc>This camouflaged Twaron vest is the best solution for any recon activity. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Recon Twaron Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>133</ubClassIndex>
@@ -34655,7 +34655,7 @@
 		<szLongItemName>Treated Recon Kevlar Leggings</szLongItemName>
 		<szItemDesc>Comfortable and camouflaged, these kevlar leggings are made for reconnaissance in the first place. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Recon Kevlar Leggings</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>134</ubClassIndex>
@@ -34684,7 +34684,7 @@
 		<szLongItemName>Treated Recon Twaron Leggings</szLongItemName>
 		<szItemDesc>Comfortable and camouflaged, these Twaron leggings are made for reconnaissance in the first place. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Recon Twaron Leggings</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>135</ubClassIndex>
@@ -34714,7 +34714,7 @@
 		<szLongItemName>Treated Medic Kevlar Vest</szLongItemName>
 		<szItemDesc>Such vests are usually worn by field medics, since they provide some extra space for the equipment they use. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Medic Kevlar Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>136</ubClassIndex>
@@ -34756,7 +34756,7 @@
 		<szLongItemName>Treated Medic Guardian Vest</szLongItemName>
 		<szItemDesc>Such vests are usually worn by field medics, since they provide some extra space for the equipment they use. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Medic Guardian Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>137</ubClassIndex>
@@ -34798,7 +34798,7 @@
 		<szLongItemName>Treated Medic Twaron Vest</szLongItemName>
 		<szItemDesc>Such vests are usually worn by field medics, since they provide some extra space for the equipment they use. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Medic Twaron Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>138</ubClassIndex>
@@ -34841,7 +34841,7 @@
 		<szLongItemName>Treated Medic Spectra Vest</szLongItemName>
 		<szItemDesc>Such vests are usually worn by field medics, since they provide some extra space for the equipment they use. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Medic Spectra Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>139</ubClassIndex>
@@ -34883,7 +34883,7 @@
 		<szLongItemName>Treated Medic Dyneema Vest</szLongItemName>
 		<szItemDesc>Such vests are usually worn by field medics, since they provide some extra space for the equipment they use.</szItemDesc>
 		<szBRName>Treated Medic Dyneema Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>140</ubClassIndex>
@@ -34926,7 +34926,7 @@
 		<szLongItemName>Treated Medic Kevlar Leggings</szLongItemName>
 		<szItemDesc>Nothing like an useful place for First Aid Kit, Canteen or Condoms. With these leggings you'll get it. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Medic Kevlar Leggings</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>141</ubClassIndex>
@@ -34955,7 +34955,7 @@
 		<szLongItemName>Treated Medic Twaron Leggings</szLongItemName>
 		<szItemDesc>Nothing like an useful place for First Aid Kit, Canteen or Condoms. With these leggings you'll get it. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Medic Twaron Leggings</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>142</ubClassIndex>
@@ -34985,7 +34985,7 @@
 		<szLongItemName>Treated Medic Spectra Leggings</szLongItemName>
 		<szItemDesc>Nothing like a useful place for a First Aid kit, canteen or condoms. With these leggings you'll get them. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Medic Spectra Leggings</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>143</ubClassIndex>
@@ -35014,7 +35014,7 @@
 		<szLongItemName>Treated Medic Dyneema Leggings</szLongItemName>
 		<szItemDesc>Nothing like an useful place for First Aid Kit, Canteen or Condoms. With these leggings you'll get it.</szItemDesc>
 		<szBRName>Treated Medic Dyneema Leggings</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>144</ubClassIndex>
@@ -35044,7 +35044,7 @@
 		<szLongItemName>Treated Mechanic Kevlar Vest</szLongItemName>
 		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Mechanic Kevlar Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>145</ubClassIndex>
@@ -35086,7 +35086,7 @@
 		<szLongItemName>Treated Mechanic Guardian Vest</szLongItemName>
 		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Mechanic Guardian Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>146</ubClassIndex>
@@ -35128,7 +35128,7 @@
 		<szLongItemName>Treated Mechanic Twaron Vest</szLongItemName>
 		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Mechanic Twaron Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>147</ubClassIndex>
@@ -35171,7 +35171,7 @@
 		<szLongItemName>Treated Mechanic Spectra Vest</szLongItemName>
 		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Mechanic Spectra Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>148</ubClassIndex>
@@ -35213,7 +35213,7 @@
 		<szLongItemName>Treated Mechanic Dyneema Vest</szLongItemName>
 		<szItemDesc>For all mechanic and demolitions freaks such an upgraded vest is a dream fulfilled.</szItemDesc>
 		<szBRName>Treated Mechanic Dyneema Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>149</ubClassIndex>
@@ -35256,7 +35256,7 @@
 		<szLongItemName>Treated Mechanic Kevlar Leggings</szLongItemName>
 		<szItemDesc>Special leggings upgraded to serve mechanic and demolitions operatives better than the standard ones. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Mechanic Kevlar Leggings</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>150</ubClassIndex>
@@ -35285,7 +35285,7 @@
 		<szLongItemName>Treated Mechanic Twaron Leggings</szLongItemName>
 		<szItemDesc>Special leggings upgraded to serve mechanic and demolitions operatives better than the standard ones. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Mechanic Twaron Leggings</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>151</ubClassIndex>
@@ -35315,7 +35315,7 @@
 		<szLongItemName>Treated Mechanic Spectra Leggings</szLongItemName>
 		<szItemDesc>Special leggings upgraded to serve mechanic and demolitions operatives better than the standard ones. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Mechanic Spectra Leggings</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>152</ubClassIndex>
@@ -35344,7 +35344,7 @@
 		<szLongItemName>Treated Mechanic Dyneema Leggings</szLongItemName>
 		<szItemDesc>Special leggings upgraded to serve mechanic and demolitions operatives better than the standard ones.</szItemDesc>
 		<szBRName>Treated Mechanic Dyneema Leggings</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>153</ubClassIndex>
@@ -35374,7 +35374,7 @@
 		<szLongItemName>Treated Field Operative Kevlar Vest</szLongItemName>
 		<szItemDesc>This vest seems to be upgraded for purposes of longer field operations and missions. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Field Operative Kevlar Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>154</ubClassIndex>
@@ -35416,7 +35416,7 @@
 		<szLongItemName>Treated Field Operative Guardian Vest</szLongItemName>
 		<szItemDesc>This vest seems to be upgraded for purposes of longer field operations and missions. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Field Operative Guardian Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>155</ubClassIndex>
@@ -35458,7 +35458,7 @@
 		<szLongItemName>Treated Field Operative Twaron Vest</szLongItemName>
 		<szItemDesc>This vest seems to be upgraded for purposes of longer field operations and missions. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Field Operative Twaron Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>156</ubClassIndex>
@@ -35501,7 +35501,7 @@
 		<szLongItemName>Treated Field Operative Spectra Vest</szLongItemName>
 		<szItemDesc>This vest seems to be upgraded for purposes of longer field operations and missions. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Field Operative Spectra Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>157</ubClassIndex>
@@ -35543,7 +35543,7 @@
 		<szLongItemName>Treated Field Operative Dyneema Vest</szLongItemName>
 		<szItemDesc>This vest seems to be upgraded for purposes of longer field operations and missions.</szItemDesc>
 		<szBRName>Treated Field Operative Dyneema Vest</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>158</ubClassIndex>
@@ -35586,7 +35586,7 @@
 		<szLongItemName>Treated Field Ops Kevlar Leggings</szLongItemName>
 		<szItemDesc>For a person spending too much time on a field duty, these upgraded leggings are definitely his best friend. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Field Ops Kevlar Leggings</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>159</ubClassIndex>
@@ -35615,7 +35615,7 @@
 		<szLongItemName>Treated Field Ops Twaron Leggings</szLongItemName>
 		<szItemDesc>For a person spending too much time on a field duty, these upgraded leggings are definitely his best friend. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Field Ops Twaron Leggings</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>160</ubClassIndex>
@@ -35645,7 +35645,7 @@
 		<szLongItemName>Treated Field Ops Spectra Leggings</szLongItemName>
 		<szItemDesc>For a person spending too much time on a field duty, these upgraded leggings are definitely his best friend. Treated with C-18 for added protection.</szItemDesc>
 		<szBRName>Treated Field Ops Spectra Leggings</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>161</ubClassIndex>
@@ -35674,7 +35674,7 @@
 		<szLongItemName>Treated Field Ops Dyneema Leggings</szLongItemName>
 		<szItemDesc>For a person spending too much time on a field duty, these upgraded leggings are definitely his best friend.</szItemDesc>
 		<szBRName>Treated Field Ops Dyneema Leggings</szBRName>
-		<szBRDesc>None</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>162</ubClassIndex>
@@ -68567,7 +68567,7 @@
 		<szLongItemName>Spec-18 MilEx Polyurethane Vest</szLongItemName>
 		<szItemDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. Has been improved with even more Polyurethane by Compound-18.</szItemDesc>
 		<szBRName>Treated MilEx Polyurethane Vest</szBRName>
-		<szBRDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. Has been improved with even more Polyurethane by Compound-18.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>229</ubClassIndex>
