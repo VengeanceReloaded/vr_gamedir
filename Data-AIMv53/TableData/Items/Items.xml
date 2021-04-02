@@ -8872,7 +8872,7 @@
 		<szLongItemName>Light Knife</szLongItemName>
 		<szItemDesc>A small, well-balanced knife.</szItemDesc>
 		<szBRName>Light Knife</szBRName>
-		<szBRDesc>A small, well-balanced blade that does a little less damage that our standard combat knife, but can be swung a bit faster.</szBRDesc>
+		<szBRDesc>A smaller, well-balanced blade that delivers a little less damage than our standard combat knife, but with superior ergonomics can be deftly swung quicker than larger melee weapons.</szBRDesc>
 		<usItemClass>4</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>300</ubClassIndex>
@@ -16836,7 +16836,7 @@
 		<szLongItemName>Heavy Throwing Knife</szLongItemName>
 		<szItemDesc>This heavy steel throwing knife brings new meaning to the expression killing them softly. Or, in this case, silently.</szItemDesc>
 		<szBRName>Heavy Throwing Knife</szBRName>
-		<szBRDesc>For experienced knife-throwers only!  This heavy blade is guaranteed to punch even the heaviest of armor, but its weight makes it a little awkward for newbies.</szBRDesc>
+		<szBRDesc>In the hands of a skilled knife-thrower, this heavy blade can punch through even the heaviest of armor, but its weight makes it a little awkward for the inexperienced.</szBRDesc>
 		<usItemClass>8</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>596</ubClassIndex>
@@ -33249,9 +33249,9 @@
 		<uiIndex>1063</uiIndex>
 		<szItemName>1st Resp. Kit</szItemName>
 		<szLongItemName>First Response Kit</szLongItemName>
-		<szItemDesc>This kit can be used to store all kinds of medical equipment like boosters, canteen, and first aid kit.</szItemDesc>
+		<szItemDesc>This kit can be used to store all kinds of medical equipment like boosters, a canteen, and first aid kit.</szItemDesc>
 		<szBRName>First Response Kit</szBRName>
-		<szBRDesc>Handy compact kit for medical equipment. Comes with a regeneration booster.</szBRDesc>
+		<szBRDesc>A handy compact kit for medical equipment. Includes an energy booster in each pack.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -33259,7 +33259,7 @@
 		<ubWeight>4</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>99</ItemSize>
-		<usPrice>340</usPrice>
+		<usPrice>290</usPrice>
 		<ubCoolness>2</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -33268,7 +33268,7 @@
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>4</BR_NewInventory>
-		<DefaultAttachment>235</DefaultAttachment>
+		<DefaultAttachment>222</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
