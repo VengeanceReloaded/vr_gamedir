@@ -4327,9 +4327,9 @@
 		<uiIndex>139</uiIndex>
 		<szItemName>C1</szItemName>
 		<szLongItemName>C1</szLongItemName>
-		<szItemDesc>Composition C1 is a solution of RDX and a small amount of mineral oil. This combination retains the explosive power of RDX while increasing its stability.</szItemDesc>
+		<szItemDesc>Composition C1 is a highly explosive solution of RDX, mixed with a small amount of mineral oil. This composition is just as effective as straight RDX, but it won't accidentally blow up in your face.</szItemDesc>
 		<szBRName>C1</szBRName>
-		<szBRDesc>Composition C1 is a highly explosive solution of RDX, mixed with a small amount of mineral oil. This composition is just as effective as straight RDX, but it won't accidentally blow up in your face.</szBRDesc>
+		<szBRDesc>When you require the most obstinate of obstacles cleared, our classic Composition C1 containing RDX, an explosive plasitciser and mineral oil, will get the job done every time.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -4359,7 +4359,7 @@
 		<szLongItemName>60mm Mortar Shell</szLongItemName>
 		<szItemDesc>This HE bomb features waterproof "horseshoe" snap-off propellant increments and the M734 multi-option fuse. This fuse can be set by hand for a delayed, impact, near-surface, or proximity burst detonation.</szItemDesc>
 		<szBRName>60mm Mortar Shell</szBRName>
-		<szBRDesc>A real man's mortar. This HE bomb features waterproof "horseshoe" snap-off propellant increments and the M734 multi-option fuse. This fuse can be set by hand for delayed, impact, near-surface or proximity burst detonations.</szBRDesc>
+		<szBRDesc>This HE bomb features waterproof "horseshoe" snap-off propellant increments and the M734 multi-option fuse. This fuse can be set by hand for delayed, impact, near-surface or proximity burst detonations.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
@@ -4391,7 +4391,7 @@
 		<szLongItemName>Land Mine</szLongItemName>
 		<szItemDesc>This anti-personnel mine is a fragmentation weapon that becomes activated when stepped on. It includes an anti-disturbance device to inhibit clearance, and a sensor that neutralizes the mine after a specified time.</szItemDesc>
 		<szBRName>Land Mine</szBRName>
-		<szBRDesc>Designed to stop enemies dead in their tracks, or at least slow them up a while. This anti-personnel mine is a fragmentation weapon that blows up when stepped on. It includes a built-in anti-disturbance device to inhibit clearance, and a sensor that neutralizes the minefield after a while.</szBRDesc>
+		<szBRDesc>Designed to stop enemies dead in their tracks, this anti-personnel mine is a fragmentation weapon that explodes when stepped on. It includes a built-in anti-disturbance device to inhibit clearance, and a sensor that neutralizes the minefield when required.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -4424,7 +4424,7 @@
 		<szLongItemName>C4</szLongItemName>
 		<szItemDesc>Composition C4 is a white plastic explosive that is more powerful than TNT. This plastic-covered block has a threaded-cap-well at each end. Unlike C1, its sister composition, this one's odorless.</szItemDesc>
 		<szBRName>C4</szBRName>
-		<szBRDesc>This white plastic explosive packs a bigger punch than TNT. Composition C4 comes in a plastic-covered block with a threaded-cap-well at each end. Unlike C1, its sister composition, this one's odorless.</szBRDesc>
+		<szBRDesc>This white, odorless, plastic explosive packs a bigger punch than TNT. Composition C4 comes in a plastic-covered block with a threaded-cap-well at each end.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -4571,9 +4571,9 @@
 		<uiIndex>147</uiIndex>
 		<szItemName>40mm HE</szItemName>
 		<szLongItemName>40mm HE Grenade</szLongItemName>
-		<szItemDesc>This fragmentation grenade when fired from the 40mm grenade launcher will ignite its encased TNT after a short delay.</szItemDesc>
+		<szItemDesc>This fragmentation grenade when fired from a compatible NATO 40mm grenade launcher will ignite its encased TNT after a short delay.</szItemDesc>
 		<szBRName>40mm HE Grenade</szBRName>
-		<szBRDesc>This standard fragmentation grenade features a time-delayed firing device to ignite its encased TNT. Fired from the Talon grenade launcher, this round can provide great lethal coverage.</szBRDesc>
+		<szBRDesc>This standard frag grenade features a time-delayed firing device to ignite its encased TNT. Fired from the Talon grenade launcher, Milkor MGL-140, HK AG36 or any other launcher able to shoot this round, can provide great lethal coverage.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
@@ -4606,7 +4606,7 @@
 		<szLongItemName>40mm Tear Gas Grenade</szLongItemName>
 		<szItemDesc>This rubber-like round will disperse tear gas after a short delay. These projectiles are meant to be fired from the 40mm grenade launcher.</szItemDesc>
 		<szBRName>40mm Tear Gas Grenade</szBRName>
-		<szBRDesc>This projectile's body is made of rubbery plastic to prevent impact injuries and keep it from being picked up and thrown back. The rubber melts quickly from the heat of burning. This time-delayed round for the Talon grenade launcher releases an irritant gas when ignited.</szBRDesc>
+		<szBRDesc>This time-delayed projectile's body is made of rubbery plastic designed to prevent impact injuries and keep it from being picked up and thrown back. The rubber melts quickly from the heat of burning and releases an irritant gas when ignited.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
