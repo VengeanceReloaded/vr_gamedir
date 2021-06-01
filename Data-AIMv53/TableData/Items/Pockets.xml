@@ -859,4 +859,16 @@
 		<ItemCapacityPerSize14>3</ItemCapacityPerSize14>
 		<ItemCapacityPerSize18>3</ItemCapacityPerSize18>
 	</POCKET>
+	<POCKET>
+		<pIndex>67</pIndex>
+		<pName>GL Holster</pName>
+		<pSilhouette>9</pSilhouette>
+		<pType>2</pType>
+		<pRestriction>16</pRestriction>
+		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
+		<ItemCapacityPerSize1>1</ItemCapacityPerSize1>
+		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
+		<ItemCapacityPerSize3>1</ItemCapacityPerSize3>
+		<ItemCapacityPerSize4>1</ItemCapacityPerSize4>
+		</POCKET>
 </POCKETLIST>
