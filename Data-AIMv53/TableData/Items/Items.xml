@@ -33860,9 +33860,9 @@
 		<uiIndex>1079</uiIndex>
 		<szItemName>TAC-1A Vest</szItemName>
 		<szLongItemName>TT Assault Vest</szLongItemName>
-		<szItemDesc>A vest designed for carrying quite some of the most important consumables on a battlefield: ammo.</szItemDesc>
+		<szItemDesc>A vest designed for carrying some of the most important consumables on a battlefield: ammo.</szItemDesc>
 		<szBRName>TT Assault Vest</szBRName>
-		<szBRDesc>The Tactical Tailor Assault Vest is primarily for combat soldiers, and can carry 12 AR magazines, or whatever you need.</szBRDesc>
+		<szBRDesc>The Tactical Tailor Assault Vest is primarily for combat soldiers, and can carry up to 12 AR magazines, or similar sized items.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>8</nasLayoutClass>
 		<ubClassIndex>4</ubClassIndex>
@@ -34000,7 +34000,7 @@
 		<szLongItemName>Hongkong Police Vest</szLongItemName>
 		<szItemDesc>A versatile vest with pockets of different sizes, 4 of them designed specifcially for 40mm grenades.</szItemDesc>
 		<szBRName>Hongkong Police Vest</szBRName>
-		<szBRDesc>Your dedicated grenadier will love this vest, with its four 40mm grenade pockets. Although it's a police vest, you don't necessarily have to load only tear gas...</szBRDesc>
+		<szBRDesc>Your dedicated grenadier will love this vest, with its four 40mm grenade pockets. Although it's a police vest, you don't necessarily have to load only tear gas.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>8</nasLayoutClass>
 		<ubClassIndex>9</ubClassIndex>
@@ -34140,7 +34140,7 @@
 		<szLongItemName>TT Utility Vest</szLongItemName>
 		<szItemDesc>A vest with two larger pockets for carrying some big things.</szItemDesc>
 		<szBRName>TT Utility Vest</szBRName>
-		<szBRDesc>The Tactical Tailor Utility Vest is for those who are not primary combat soldiers, but have other duties as well.</szBRDesc>
+		<szBRDesc>The Tactical Tailor Utility Vest is for those who are not primary combat soldiers, but have duties that require less quantities of larger items.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>8</nasLayoutClass>
 		<ubClassIndex>14</ubClassIndex>
