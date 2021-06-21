@@ -67836,16 +67836,16 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2501</uiIndex>
-		<szItemName>Dragonskin</szItemName>
-		<szLongItemName>Dragonskin Body Armor</szLongItemName>
-		<szItemDesc>The Dragonskin Body Armor is light weight and offers very high protection. Unfortunately Dragonskin can not be repaired.</szItemDesc>
-		<szBRName>Dragonskin Body Armor</szBRName>
-		<szBRDesc>The cutting edge in body armor design. Dragonskin offers protection even against powerful rifle rounds.</szBRDesc>
+		<szItemName>Dragon Skin</szItemName>
+		<szLongItemName>Dragon Skin Body Armor</szLongItemName>
+		<szItemDesc>Dragon Skin Body Armor is lightweight and offers very high protection. Unfortunately Dragon Skin cannot be repaired.</szItemDesc>
+		<szBRName>Dragon Skin Body Armor</szBRName>
+		<szBRDesc>Cutting edge body armor design, Dragon Skin uses overlapping ceramic scale discs offering protection even against powerful rifle rounds while still providing flexibility of movement.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>199</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>241</ubGraphicNum>
-		<ubWeight>50</ubWeight>
+		<ubWeight>55</ubWeight>
 		<ItemSize>31</ItemSize>
 		<usPrice>9500</usPrice>
 		<ubCoolness>9</ubCoolness>
@@ -67919,10 +67919,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2504</uiIndex>
-		<szItemName>Dragonskin Woodland</szItemName>
-		<szLongItemName>Dragonskin Woodland</szLongItemName>
-		<szItemDesc>A combination of Dragonskin bodyarmor and a woodland camo uniform jacket.</szItemDesc>
-		<szBRName>Dragonskin Woodland</szBRName>
+		<szItemName>Dragon Skin Woodland</szItemName>
+		<szLongItemName>Dragon Skin Woodland</szLongItemName>
+		<szItemDesc>A combination of Dragon Skin bodyarmor and a woodland camo uniform jacket.</szItemDesc>
+		<szBRName>Dragon Skin Woodland</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>202</ubClassIndex>
@@ -68001,10 +68001,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2507</uiIndex>
-		<szItemName>Dragonskin Urban</szItemName>
-		<szLongItemName>Dragonskin Urban</szLongItemName>
-		<szItemDesc>A combination of Dragonskin bodyarmor and Urban camo uniform jacket.</szItemDesc>
-		<szBRName>Dragonskin Urban</szBRName>
+		<szItemName>Dragon Skin Urban</szItemName>
+		<szLongItemName>Dragon Skin Urban</szLongItemName>
+		<szItemDesc>A combination of Dragon Skin bodyarmor and Urban camo uniform jacket.</szItemDesc>
+		<szBRName>Dragon Skin Urban</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>205</ubClassIndex>
@@ -68083,10 +68083,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2510</uiIndex>
-		<szItemName>Dragonskin Desert</szItemName>
-		<szLongItemName>Dragonskin Desert</szLongItemName>
-		<szItemDesc>A combination of Dragonskin bodyarmor and desert camo uniform jacket.</szItemDesc>
-		<szBRName>Dragonskin Desert</szBRName>
+		<szItemName>Dragon Skin Desert</szItemName>
+		<szLongItemName>Dragon Skin Desert</szLongItemName>
+		<szItemDesc>A combination of Dragon Skin bodyarmor and desert camo uniform jacket.</szItemDesc>
+		<szBRName>Dragon Skin Desert</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>208</ubClassIndex>
@@ -68165,10 +68165,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2513</uiIndex>
-		<szItemName>Dragonskin Night Ops</szItemName>
-		<szLongItemName>Dragonskin Night Ops</szLongItemName>
-		<szItemDesc>A combination of Dragonskin bodyarmor and a Night ops jacket.</szItemDesc>
-		<szBRName>Dragonskin Night Ops</szBRName>
+		<szItemName>Dragon Skin Night Ops</szItemName>
+		<szLongItemName>Dragon Skin Night Ops</szLongItemName>
+		<szItemDesc>A combination of Dragon Skin bodyarmor and a Night ops jacket.</szItemDesc>
+		<szBRName>Dragon Skin Night Ops</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>211</ubClassIndex>
@@ -68324,14 +68324,14 @@
 		<uiIndex>2519</uiIndex>
 		<szItemName>KAZAK-6</szItemName>
 		<szLongItemName>KAZAK-6 Body Armor</szLongItemName>
-		<szItemDesc>The Russian equivalent of Dragonskin. The KAZAK-6 provides excellent protection.</szItemDesc>
+		<szItemDesc>Russian KAZAK-6 armor provides excellent protection but its use of heavy steel plates limit mobility.</szItemDesc>
 		<szBRName>KAZAK-6 Body Armor</szBRName>
-		<szBRDesc>These Russian made KAZAK-6 vests provide excellent protection and always sell out quickly. Place your order before they go again.</szBRDesc>
+		<szBRDesc>These Russian made KAZAK-6 vests utlise internal Twaron filament combined with good old fashioned steel plates to provide excellent protection.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>217</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>144</ubGraphicNum>
-		<ubWeight>45</ubWeight>
+		<ubWeight>65</ubWeight>
 		<ItemSize>31</ItemSize>
 		<usPrice>6200</usPrice>
 		<ubCoolness>9</ubCoolness>

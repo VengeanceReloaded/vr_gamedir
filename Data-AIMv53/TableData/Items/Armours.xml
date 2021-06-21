@@ -1393,12 +1393,12 @@
 		<ubCoverage>25</ubCoverage>
 		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
-	<ARMOUR>	<!--  -->
+	<ARMOUR>	<!-- Dragon Skin -->
 		<uiIndex>199</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>80</ubProtection>
 		<ubCoverage>95</ubCoverage>
-		<ubDegradePercent>2</ubDegradePercent>
+		<ubDegradePercent>4</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>	<!--  -->
 		<uiIndex>200</uiIndex>
@@ -1414,12 +1414,12 @@
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
-	<ARMOUR>	<!--  -->
+	<ARMOUR>	<!-- Dragon Skin Woodland  -->
 		<uiIndex>202</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>85</ubProtection>
 		<ubCoverage>95</ubCoverage>
-		<ubDegradePercent>2</ubDegradePercent>
+		<ubDegradePercent>4</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>	<!--  -->
 		<uiIndex>203</uiIndex>
@@ -1435,12 +1435,12 @@
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
-	<ARMOUR>	<!--  -->
+	<ARMOUR>	<!-- Dragon Skin Urban -->
 		<uiIndex>205</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>85</ubProtection>
 		<ubCoverage>95</ubCoverage>
-		<ubDegradePercent>2</ubDegradePercent>
+		<ubDegradePercent>4</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>	<!--  -->
 		<uiIndex>206</uiIndex>
@@ -1456,12 +1456,12 @@
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
-	<ARMOUR>	<!--  -->
+	<ARMOUR>	<!-- Dragon Skin Desert -->
 		<uiIndex>208</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>85</ubProtection>
 		<ubCoverage>95</ubCoverage>
-		<ubDegradePercent>3</ubDegradePercent>
+		<ubDegradePercent>4</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>	<!--  -->
 		<uiIndex>209</uiIndex>
@@ -1477,12 +1477,12 @@
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
-	<ARMOUR>	<!--  -->
+	<ARMOUR>	<!-- Dragon Skin Night Ops -->
 		<uiIndex>211</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>85</ubProtection>
 		<ubCoverage>95</ubCoverage>
-		<ubDegradePercent>2</ubDegradePercent>
+		<ubDegradePercent>4</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>	<!--  -->
 		<uiIndex>212</uiIndex>
