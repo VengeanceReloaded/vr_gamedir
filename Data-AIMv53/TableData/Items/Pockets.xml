@@ -358,7 +358,8 @@
 		<pSilhouette>24</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>4096</pRestriction>
-		<ItemCapacityPerSize18>1</ItemCapacityPerSize18>		
+		<ItemCapacityPerSize17>2</ItemCapacityPerSize17>
+		<ItemCapacityPerSize18>1</ItemCapacityPerSize18> 		
 	</POCKET>
 	<POCKET>	<!-- Syringe Pocket -->
 		<pIndex>21</pIndex>
