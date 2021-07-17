@@ -63370,7 +63370,7 @@
 		<szLongItemName>.22 LR Box</szLongItemName>
 		<szItemDesc>This box contains .22 LR ball ammunition.</szItemDesc>
 		<szBRName>.22 LR Box</szBRName>
-		<szBRDesc>A box with 150 Rounds of .22 LR ball ammunition. Excellent for target practice and quite cheap.</szBRDesc>
+		<szBRDesc>A box with 150 Rounds of .22 LR ball ammunition. Excellent for target practice at an affordable price.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>689</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -63395,7 +63395,7 @@
 		<szLongItemName>.22 LR Box, Match</szLongItemName>
 		<szItemDesc>This box contains .22 LR match ammunition.</szItemDesc>
 		<szBRName>.22 LR Box M</szBRName>
-		<szBRDesc>A box with 150 Rounds of .22 LR match ammunition. Excellent for target practice and quite cheap.</szBRDesc>
+		<szBRDesc>For optimal performance and reliablity these 150 Rounds of .22 LR match ammunition will provide better accuracy than any other .22 bullet we have on sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>691</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -63419,9 +63419,9 @@
 		<uiIndex>2264</uiIndex>
 		<szItemName>.22 LR Box RS</szItemName>
 		<szLongItemName>.22 LR Box, Ratshot</szLongItemName>
-		<szItemDesc>This box contains .22 LR Ratshot.</szItemDesc>
+		<szItemDesc>Snake shot or Rat shot is a 22 round loaded with small lead shot, designed for pest control.</szItemDesc>
 		<szBRName>.22 LR Box RS</szBRName>
-		<szBRDesc>A box with 150 Rounds of .22 LR Ratshot. If you need to get rid of vermin, try these.</szBRDesc>
+		<szBRDesc>If you need to get rid of vermin, this 150 round box of .22 LR Rat shot should do the job.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>692</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
