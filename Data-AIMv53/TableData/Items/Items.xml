@@ -8943,7 +8943,7 @@
 		<szLongItemName>Camo Steel Helmet</szLongItemName>
 		<szItemDesc>This steel helmet provides protection from small firearms, shrapnel and other projectiles. It has been painted with camouflage.</szItemDesc>
 		<szBRName>Camo Steel Helmet</szBRName>
-		<szBRDesc>Comfortable and extremely practical. This steel helmet provides protection from small firearms, shrapnel and other projectiles. It has a padded leather and nylon suspension, with an adjustable chin strap. Provides limited camouflage.</szBRDesc>
+		<szBRDesc>This comfortable steel helmet provides protection from small firearms, shrapnel and other projectiles. It has padded leather and nylon suspension, with an adjustable chin strap. Provides limited camouflage.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -19727,7 +19727,7 @@
 		<szLongItemName>HK Mark 23 SOCOM</szLongItemName>
 		<szItemDesc>A large pistol designed to meet the exacting requirements of the US Special Operations Command.</szItemDesc>
 		<szBRName>HK Mark 23 SOCOM</szBRName>
-		<szBRDesc>A large pistol designed to meet the exacting requirements of the US Special Operations Command.  If it's good enough for SOCOM, it's good enough for you!</szBRDesc>
+		<szBRDesc>A large, top of the line pistol designed to meet the exacting requirements of the US Special Operations Command.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>670</ubClassIndex>
@@ -19966,9 +19966,9 @@
 		<uiIndex>676</uiIndex>
 		<szItemName>SL9SD</szItemName>
 		<szLongItemName>HK SL9SD</szLongItemName>
-		<szItemDesc>Quiet and deadly, this gun screams to become part of any covert operation you might have on the drawing board.</szItemDesc>
+		<szItemDesc>Quiet and deadly, this gun whispers confidently to become part of any covert op' you might have on the drawing board.</szItemDesc>
 		<szBRName>HK SL9SD</szBRName>
-		<szBRDesc>Leave it to HK to design a gun that gives new meaning to the phrase "silent but deadly." We love those guys.</szBRDesc>
+		<szBRDesc>Leave it to HK to design a gun that gives new meaning to the phrase "silent but deadly."</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>676</ubClassIndex>
@@ -63417,8 +63417,8 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2264</uiIndex>
-		<szItemName>.22 LR Box RS</szItemName>
-		<szLongItemName>.22 LR Box, Ratshot</szLongItemName>
+		<szItemName>.22 LR Box Rat shot</szItemName>
+		<szLongItemName>.22 LR Box, Rat shot</szLongItemName>
 		<szItemDesc>Snake shot or Rat shot is a 22 round loaded with small lead shot, designed for pest control.</szItemDesc>
 		<szBRName>.22 LR Box RS</szBRName>
 		<szBRDesc>If you need to get rid of vermin, this 150 round box of .22 LR Rat shot should do the job.</szBRDesc>
@@ -63447,7 +63447,7 @@
 		<szLongItemName>.22 LR Box, HP</szLongItemName>
 		<szItemDesc>This box contains .22 LR hyper velocity hollow point ammunition. Great to hunt small animals with.</szItemDesc>
 		<szBRName>.22 LR Box HP</szBRName>
-		<szBRDesc>This box contains .22 LR hyper velocity hollow point ammunition. Great to hunt small animals with.</szBRDesc>
+		<szBRDesc>This box contains .22 LR hyper velocity hollow point ammunition. Great for hunting small animals.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>690</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -63518,7 +63518,7 @@
 	<ITEM>
 		<uiIndex>2268</uiIndex>
 		<szItemName>.22 LR Crate RS</szItemName>
-		<szLongItemName>.22 LR Ammo Crate, Ratshot</szLongItemName>
+		<szLongItemName>.22 LR Ammo Crate, Rat shot</szLongItemName>
 		<szItemDesc>Crate of .22 LR ammunition.</szItemDesc>
 		<szBRName>.22 LR Crate, RS</szBRName>
 		<szBRDesc>Not buyable at BR</szBRDesc>
@@ -63615,9 +63615,9 @@
 	<ITEM>
 		<uiIndex>2272</uiIndex>
 		<szItemName>.22 LR Mag R 10</szItemName>
-		<szLongItemName>.22 LR Mag Ratshot, 10</szLongItemName>
-		<szItemDesc>A 10 round magazine .22 LR Ratshot.</szItemDesc>
-		<szBRName>.22 LR Mag Ratshot, 10</szBRName>
+		<szLongItemName>.22 LR Mag Rat shot, 10</szLongItemName>
+		<szItemDesc>A 10 round magazine .22 LR Rat shot.</szItemDesc>
+		<szBRName>.22 LR Mag Rat shot, 10</szBRName>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>684</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -63711,9 +63711,9 @@
 	<ITEM>
 		<uiIndex>2276</uiIndex>
 		<szItemName>.22 LR Drum R 200</szItemName>
-		<szLongItemName>.22 LR Drum Ratshot, 200</szLongItemName>
+		<szLongItemName>.22 LR Drum Rat shot, 200</szLongItemName>
 		<szItemDesc>A drum magazine .22 LR ammunition.</szItemDesc>
-		<szBRName>.22 LR Drum Ratshot, 200</szBRName>
+		<szBRName>.22 LR Drum Rat shot, 200</szBRName>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>696</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -64052,9 +64052,9 @@
 	<ITEM>
 		<uiIndex>2290</uiIndex>
 		<szItemName>.22 LR Mag  R 100</szItemName>
-		<szLongItemName>.22 LR Mag Ratshot, 100</szLongItemName>
-		<szItemDesc>A helix magazine .22 LR Ratshot ammunition.</szItemDesc>
-		<szBRName>.22 LR Mag Ratshot, 100</szBRName>
+		<szLongItemName>.22 LR Mag Rat shot, 100</szLongItemName>
+		<szItemDesc>A helix magazine .22 LR Rat shot ammunition.</szItemDesc>
+		<szBRName>.22 LR Mag Rat shot, 100</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>688</ubClassIndex>
