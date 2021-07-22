@@ -20277,7 +20277,7 @@
 		<szLongItemName>M21 Tactical</szLongItemName>
 		<szItemDesc>The M21 tactical rifle is the sniper version of the M14.  A reliable, accurate rifle with good stopping power.</szItemDesc>
 		<szBRName>M21 Tactical</szBRName>
-		<szBRDesc>This sniper rifle is a semi-automatic version of the M14, first used by the US Army in the Vietnam war, it is fitted with a longer barrel for increased range and accuracy and has the ability to cater for more accessories.</szBRDesc>
+		<szBRDesc>This sniper rifle is a semi-automatic version of the M14, first used by the US Army in the Vietnam war, it is fitted with a longer barrel for increased range and accuracy.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>684</ubClassIndex>
@@ -20287,11 +20287,7 @@
 		<AvailableAttachmentPoint>2048</AvailableAttachmentPoint>		<!-- Muzzle - Sniper Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
-		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
-		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
-		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
@@ -28116,7 +28112,7 @@
 		<uiIndex>897</uiIndex>
 		<szItemName>M21 EBR</szItemName>
 		<szLongItemName>M21 EBR</szLongItemName>
-		<szItemDesc>The M21 Enhanced Battle Rifle is an updated sniper version of the M14 with modern stock and attachment points to cater for more accessories. A modern spin on a proven classic</szItemDesc>
+		<szItemDesc>The M21 Enhanced Battle Rifle is an updated sniper version of the M14 with modern stock and attachment points to cater for more accessories. A modern spin on a proven classic.</szItemDesc>
 		<szBRName>M21 EBR</szBRName>
 		<szBRDesc>Not buyable at BR.</szBRDesc>
 		<usItemClass>2</usItemClass>
