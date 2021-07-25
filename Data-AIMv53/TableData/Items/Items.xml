@@ -6463,7 +6463,7 @@
 		<szLongItemName>Sniper Scope, 10x</szLongItemName>
 		<szItemDesc>A large scope, too big to fit on most assault rifles and carbines.  Hmmm, maybe it would fit on a sniper rifle?</szItemDesc>
 		<szBRName>Sniper Scope, Mag.10x</szBRName>
-		<szBRDesc>Dramatically improve your targeting accuracy with this extremely versatile sniper scope. You'll quickly appreciate this scope's accurate windage adjustment, range-finder precision scale, and coated optics.</szBRDesc>
+		<szBRDesc>Dramatically improve your targeting accuracy with this powerful sniper scope. You'll quickly appreciate this scope's accurate windage adjustment, range-finder precision scale, and coated optics.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>16</AttachmentClass>
 		<nasAttachmentClass>16</nasAttachmentClass>
@@ -57856,6 +57856,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>15</BR_ROF>
 		<PercentNoiseReduction>90</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
