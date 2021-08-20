@@ -17980,13 +17980,14 @@
 	<ITEM>
 		<uiIndex>625</uiIndex>
 		<szItemName>M501</szItemName>
-		<szLongItemName>Beretta M501</szLongItemName>
+		<szLongItemName>Beretta Sniper M501</szLongItemName>
 		<szItemDesc>A solid Italian sniper rifle from the 80's, this gun has aged like a fine wine. Just pull the trigger and say "Ciao amore."</szItemDesc>
-		<szBRName>Beretta M501</szBRName>
+		<szBRName>Beretta Sniper M501</szBRName>
 		<szBRDesc>An Italian military exclusive, cousin Lester had to do a few favors so we could carry this exquisite piece of sniping hardware. Order now and we'll throw in some photos of Lester's trip. (Warning: Photos contain adult content. Must be 21 or older)</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>625</ubClassIndex>
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>124</ubGraphicNum>
 		<ubWeight>56</ubWeight>
@@ -33855,13 +33856,17 @@
 		<uiIndex>1078</uiIndex>
 		<szItemName>Cx4 Storm</szItemName>
 		<szLongItemName>Beretta Cx4 Storm</szLongItemName>
-		<szItemDesc>The action of Beretta's Storm pistol inside a rifle stock.</szItemDesc>
+		<szItemDesc>The action of Beretta's Storm pistol inside a comfortable to use rifle stock.</szItemDesc>
 		<szBRName>Beretta Cx4 Storm</szBRName>
 		<szBRDesc>A futuristic looking rifle firing an unsurpassed pistol round. This version has a magazine well that accepts hi-capacity magazines.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1078</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>			<!-- Muzzle - Gun Barrel Extender -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>366</ubGraphicNum>
 		<ubWeight>26</ubWeight>
@@ -37804,6 +37809,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1193</ubClassIndex>
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>330</ubGraphicNum>
 		<ubWeight>24</ubWeight>
@@ -59299,14 +59305,15 @@
 		<uiIndex>2109</uiIndex>
 		<szItemName>Ruger 10/22</szItemName>
 		<szLongItemName>Ruger 10/22</szLongItemName>
-		<szItemDesc>An all American classic, this basic rifle fires .22 LR rimfire catridges. The magazine release is a bit odd and rather complicated to use.</szItemDesc>
+		<szItemDesc>An all American classic since 1964, this basic rifle fires .22 LR rimfire catridges. The magazine release is a bit odd and rather complicated to use.</szItemDesc>
 		<szBRName>Ruger 10/22</szBRName>
-		<szBRDesc>Our all American classic is affordable, reliable and comes ready to chamber .22 LR. Ideal for plinking this rifle is popular with young learners and adults alike.</szBRDesc>
+		<szBRDesc>Our all American classic is affordable, reliable and comes ready to chamber .22 LR. Ideal for plinking, this rifle is popular with young learners and adults alike.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2109</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
 		<ubCursor>3</ubCursor>
