@@ -1,0 +1,309 @@
+
+BETA 7 Changelog (7th Oct 2019 - 1st Jan 2021)
+
+CODE & GENERAL GAME
+
+options Ini settings changed. 
+
+Improved AI code.
+
+Improved AI thrown attacks.
+
+Only allow assigning soldier to vehicle from squad, to prevent possible bugs.
+
+AI soldiers will try to use sidearm if not enough APs for main weapon.
+Improved code to avoid deep water.
+AI soldiers always consider shooting at opponents they cannot see currently.
+When AI soldier is in deep water, he will try to move to closest known opponent on land.
+
+Added experimental AI path tweaks: avoid gas, water, corpses, light at night.
+First decay light effects and then decay smoke effects, because fire can create light.
+Dynamic creation of light effects for fire and signal smoke.
+Fixed/improved code to decay light effects so that ubDuration works correctly.
+
+Inventory button to change firemodes was greyed out for guns with one base fire mode (by Flugente)
+
+Improved movement noise calculation.
+
+Various fixes by merc05.
+
+Switch scope mode to default for suppressed soldier if he uses alt weapon holding.
+
+Reorganized voice taunts.Every type can have many variants 01..XX
+
+Lowered cover effect for camo and stealth.
+Removed cover effect from stance to prevent enemy disappearing as flagged previously.
+
+Uploaded grenade pin sounds.
+
+[F] key should correctly show CTH for different types of attacks. (by Wanne)
+
+Changed ini default game style to realistic.
+
+Interrogate prisoner: don't change reinforcement pool when unlimited reinforcements enabled.
+EvaluateQueenSituation: allow recruiting when pool size drops below QUEEN_POOL_INCREMENT_PER_DIFFICULTY_LEVEL, this should result in more stable strategic AI behavior.
+(by Silversurfer)
+
+Added JA1/DG merc available emails that were missing. 
+
+Updated EmailMercAvailable.xml to include a message from Simon Grandee.
+
+New option TOTAL_DESTRUCTION: guns can damage structures.
+Switch from alt weapon holding when changing stance in realtime.
+
+Added addiction to coca leaves to backgrounds
+Added facility type Shady Neighbourhood to urban San Mona sectors
+Shady Neighbourhood and Kingpin Drug Lab trigger coca addiction
+
+Allow hostilities inside the same team (e.g. civ team) if members are on different sides.
+CIA and TracOps civ groups switch to different sides when turning hostile after detecting Dwight.
+
+Fix: NPC go to grid script properly interrupts cowering.
+Loudhailer logic modified - unlimited loudhailer quotes can be triggered.
+Fix: Stanley's loudhailer speech activated only if Dwight is in the same sector
+
+Less use of Vanilla loading screens.
+
+Fix: flyboys would instantly crash heli instead of 3 hits allowed
+Fix: crashing heli would trigger redundant message about removing pilot
+Fix: current heli pilot should be talking instead of Skyrider for out of range plan
+Fix: repairs should cause pilot to be kicked out from the  together with passengers
+added Waldo face and RPCFacesSmall entry, so repair feature will work correctly
+added one quote to Jerry Melo regarding out of range heli plan
+
+Fix: RPCs that would be later available on MERC would charge their salaries even before
+
+Fix: climbing related AI deadlocks
+
+Increased max possible soldiers stored for friendly fire check to 256.
+Friendly fire chance code also checks for soldiers of the same side and optionally neutral civilians.
+CalcCoverValue: check friendly fire chance for each position, penalize position if friendly fire chance is high
+
+CalcBestShot tweaks
+
+Suppression improvements
+
+CalcMorale: improved code to make enemy slightly more aggressive.
+
+Red AI: Improved suppression fire code
+Black AI: improved attack code
+
+AI climbing improvements.
+
+Women get badguy battlesound sets 6-8.
+
+Fix: Victory outro crowd spawn is limited by victory sector set in mod settings instead of Queen's profile position.
+
+AI fix: initialize pSoldier->bWeaponMode = WM_NORMAL before executing AI code as FindAmmoToReload may crash if bWeaponMode is incorrect.
+FindAmmoToReload: added assert messages to indicate that searching attached weapon failed.
+
+Fix: Freeze when ending turn with the squad list open and inventory auto-collapse enabled.
+
+Improved EDB code: do not show PercentTargetTrackingSpeed and PercentDropCompensation when using OCTH.
+
+SoldierAI: exclude civilians.
+
+Fix: Incorrect income calculation for non-oil rig NPC foremen
+
+Increased duration for signal shell/flare to prevent situation when red smoke ends before the artillery strike arrives, especially with RADIO_OPERATOR_ARTILLERY_DISTRIBUTED_OVER_TURNS option enabled.
+Set TAUNT_ALERT_CHANCE = 100 so that enemy always play taunt when raising alert for the first time.
+
+Increased AP to start spotting to 40.
+
+Set all gas explosives of the same type use the same ubDamage/ubStunDamage as the game always uses damage values from the first gas grenade of that type.
+Reduced ubStunDamage for tear gas to 25.
+All tripwire map items, tripwire roll use the same explosive type <ubClassIndex>86</ubClassIndex>.
+
+Fix/workaround: set Jerry as civvie instead of rebel to avoid bloodcat related crash on I16 retreat.
+
+Set COVER_SYSTEM_STEALTH_EFFECTIVENESS = 50, COVER_SYSTEM_CAMOUFLAGE_EFFECTIVENESS = 50.
+
+Fix: Snitch assignments were not properly taking mercs out of vehicles
+
+Ja2_Vengeance.exe Build 1.1.2021
+
+
+
+
+CHARACTERS
+
+Some minor improvements to Deadly Games mercs speech and more accurate EDT's
+
+Some minor improvements to Facegear graphics for some mercs
+
+New merc Jose "Calavera" Aguilar added to A.I.M. roster (speech files by Vritran)
+New merc "Exec" added to A.I.M. roster (speech files by Vritran, graphics by Anv)
+New merc "Ash" added to M.E.R.C. roster (speech files by Vritran, graphics by Anv)
+New merc Susan "Hustler" Lysette added to M.E.R.C. roster (speech files by Vritran)
+New merc Jack Cygan added to A.I.M. roster (speech files by Vritran, graphics by Anv)
+New merc "Eskimo" added to M.E.R.C. roster (speech files by Vritran, graphics by Anv)
+New merc "Sioux" added to M.E.R.C. roster (speech files by Vritran, graphics by Anv)
+New merc Roger 'Disco' Rilley to M.E.R.C. roster (speech files by Vritran, graphics by Anv)
+
+Added missing Bobby Ray shipment speech for Sam Garver.
+
+Better quality Vinny battlesounds added.
+
+Reduced Eagle's Life value, like he was in original Vengeance to reflect he's been injured.
+
+T-Rex no longer in game, replaced with new wanted Terrorist.
+
+Previous IMP's have missing facegear graphics now.
+
+Shuffled dismiss speech around for Arsenal that was incorrectly referring to Miguel.
+
+Shuffled some of Leech's contract speeches to make more sense.
+
+Skyrider PCM speech updates, better context.
+
+Corrected Frazzlers dismiss speech, uses more fitting line saying farewell.
+
+Calvin Barkmore PCM update.
+
+Added Jerry Melo camo faces.
+
+Fixed incorrect IMP face for Reuban's desert camo.
+
+
+
+ITEMS & TRADING
+
+Typos fixed and descriptions improved for a number of items and weapons.
+
+Minor fixes and offset adjustments to big item graphics.
+
+Added more attachments to the OIV grenade panel so you can carry a more diverse (and newer) set of grenades that were previously ommitted.
+
+Added merges so AK conversion kit will work with SKS and SKS PU rifles.
+
+Added PU scope as a secondary item when you merge a barrel kit with SKS PU.
+
+Some bunkers have new high powered armour items added to maps.
+
+Reduced cost of M16A2 M203 combo that seem over inflated.
+
+Created new Walther P22 graphic.
+
+New, improved Master Key graphic.
+
+Added detonators to Bobby Rays inventory.
+
+Made AVS-36 now has full auto specifications.
+
+Added .30 car 15 mags to Tony's inventory. 
+
+Tony now buys and sells BAR 20 mags.
+
+Adjusted price on grey shirt.
+
+Fixed incorrect bAccuracy for Winchester 94 Trapper.
+
+Added possibility to attach sniper suppressor and flash suppressor to Molot Vepr.
+
+Removed vision bonus from Custom MAC-10.
+
+Increased stun damage for regular type explosives.
+
+ALICE pack can now stow a V40 mini grenade.
+
+
+INVENTORY & STARTING GEAR
+
+Removal of more regeneration boosters in medic starting kits also added more smoke grenades and canteens.
+
+Added radio battery to Bob's RTO starting gear should he need it.
+
+Tweaks to Vinny's Thief and Premium starting gear kits.
+
+Adjusted ammo strings xml that didn't have elements for ids 50-59 and 60-100 and where some ammo calibres were not showing in Bobby Rays.
+
+
+
+
+
+MAPS
+
+A number of map tweaks includes simplifications of roads, clearer borders and item fixes.
+
+Removal of stray sandbag tiles left in some maps.
+
+Some facility descriptions improved or corrected.
+
+Added missing shooting range facility to H8.
+
+Fixed a number of leaking building corners including those at Alma where enemies could shoot through.
+
+Added shooting range facility to H14 Alma.
+
+Added sandbags to oil rig tileset that were missed. Maps adjusted to suit.
+
+Slight changes to Prison Island, some simplification, trying to clear strange roof behaviour in house by gate.
+
+Fixed Western insertion point in 04 that was trapping mercs on arrival in fenced off area. Replaced possible leak in NE mall wall.
+
+Fixed some leaking walls in M3, minor visual room and map changes.
+
+More P13 Palace tweaks, less entrances, larger turrets, less leak in roof sandbags. 
+
+Added missing Sandbag.JSD to Drassen Mine tileset.
+
+
+
+
+ADDITIONS
+
+New loading screens.
+
+More Male hits and dies added for villagers and civs.
+
+More Militia Battlesounds and taunts added.
+
+More Militia Elite Battlesounds and taunts added.
+
+More Enemy Admim, Regular and Elite Battlesounds and taunts added.
+
+More Female warden battlesounds and taunts added.
+
+More CIA Spook battlesounds and taunts added.
+
+Pacos now has battlesounds.
+
+New IMP speech packs replace Russian voices previously available. (by Vritran)
+
+Players can now have a maximum of 15 IMPS (up to 8 males and/or 7 females)
+
+Added 4 Female IMP Voices from JA2 v1.13 trunk (Wizardry 8 Voicesets)
+
+Added 3rd Kingpin goon speech taunt pack.
+
+Added new H&B goon speech taunt packs.
+
+More 'Weekly Leaks' intel added.
+
+Added ability to use separate image per each vehicle type in old inventory system
+
+Added new Pick Up truck Inventory figure graphic.
+
+Added Vehicle inventory figure Humvee specifically for Pick up truck.
+
+Added Inventory figure Icecreamtruck specifically for Cobra's military Jeep. Placeholder duplicate for now. 
+
+Added new ingame option: "New Vision Mode" 
+
+Added DEFEAT_MODE option.
+
+Added new wrecked bus tile.
+
+Updated credits.
+
+
+
+
+
+
+
+
+
+
+
+
