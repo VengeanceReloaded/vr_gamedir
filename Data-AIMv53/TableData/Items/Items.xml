@@ -17981,13 +17981,21 @@
 		<uiIndex>625</uiIndex>
 		<szItemName>M501</szItemName>
 		<szLongItemName>Beretta Sniper M501</szLongItemName>
-		<szItemDesc>A solid Italian sniper rifle from the 80's, this gun has aged like a fine wine. Just pull the trigger and say "Ciao amore."</szItemDesc>
+		<szItemDesc>A solid Italian sniper rifle from the 80's, this gun has aged like a fine wine. Just pull the trigger and say "Ciao, amore."</szItemDesc>
 		<szBRName>Beretta Sniper M501</szBRName>
 		<szBRDesc>An Italian military exclusive, cousin Lester had to do a few favors so we could carry this exquisite piece of sniping hardware. Order now and we'll throw in some photos of Lester's trip. (Warning: Photos contain adult content. Must be 21 or older)</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>625</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->		
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>124</ubGraphicNum>
 		<ubWeight>56</ubWeight>
