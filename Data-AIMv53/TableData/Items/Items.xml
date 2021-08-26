@@ -3341,7 +3341,7 @@
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
-	<ITEM>
+	<ITEM>		
 		<uiIndex>101</uiIndex>
 		<szItemName>7.62x51mm Mag 20 AP</szItemName>
 		<szLongItemName>7.62x51mm Mag, 20 AP</szLongItemName>
@@ -19368,7 +19368,7 @@
 		<szLongItemName>HK 23E</szLongItemName>
 		<szItemDesc>The HK 23E is a light 5.56mm NATO MG and is of the same quality one would expect from Heckler and Koch.</szItemDesc>
 		<szBRName>HK 23E</szBRName>
-		<szBRDesc>The manufacturer's name says it all.  We highly recommend the HK 23E. It's reliable and does the job effectively with 100-rounds in a Beta C-Mag. Includes bipod.</szBRDesc>
+		<szBRDesc>We highly recommend the HK 23E. It's reliable and does the job effectively with 100-rounds in a Beta C-Mag. Includes bipod.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>661</ubClassIndex>
@@ -33933,7 +33933,7 @@
 		<szItemName>40mm Gren.P.</szItemName>
 		<szLongItemName>40mm Grenade Panel Leg Rig</szLongItemName>
 		<szItemDesc>A panel with four individual pockets to store up to four 40mm grenades.</szItemDesc>
-		<szBRName>40mm Grenade Panel Leg Rig</szBRName>
+		<szBRName>40mm 'nade Panel Leg Rig</szBRName>
 		<szBRDesc>A quadruple pouch mounted on a leg rig. The long adjustable straps let you store 40mm grenades of any length.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
@@ -33961,7 +33961,7 @@
 		<szItemName>Double L. Mag</szItemName>
 		<szLongItemName>Double Large Mag Leg Rig</szLongItemName>
 		<szItemDesc>Woha Double L! A double pouch that can carry two long non-standard mags.</szItemDesc>
-		<szBRName>Double Large Mag Leg Rig</szBRName>
+		<szBRName>Dbl Large Mag Leg Rig</szBRName>
 		<szBRDesc>A pouch for carrying two longer magazines (like P90-mags) strapped to the upper thigh.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
@@ -38178,11 +38178,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1204</uiIndex>
-		<szItemName>1st Aid</szItemName>
-		<szLongItemName>First Aid Rig</szLongItemName>
-		<szItemDesc>The EWF Combat Casualty Response Kit - Medic/Leg Rig is designed to provide the Tactical Healthcare Professional rapid access to critical equipment in the management of tactical casualties while maintaining the ability to pack up and move quickly as conditions change.</szItemDesc>
-		<szBRName>First Aid Rig</szBRName>
-		<szBRDesc>The EWF Combat Casualty Response Kit - Medic/Leg Rig is designed to provide the Tactical Healthcare Professional rapid access to critical equipment in the management of tactical casualties while maintaining the ability to pack up and move quickly as conditions change.</szBRDesc>
+		<szItemName>1st Aid Rig</szItemName>
+		<szLongItemName>First Aid Leg Rig</szLongItemName>
+		<szItemDesc>The EWF Combat Casualty Response Kit can carry all your first aid needs with ease of access and mobility in mind.</szItemDesc>
+		<szBRName>First Aid Leg Rig</szBRName>
+		<szBRDesc>The EWF Combat Casualty Response leg rig kit is designed to provide the tactical healthcare professional rapid access to critical equipment in the management of casualties while maintaining the ability to pack up and move quickly when conditions change.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
 		<ubClassIndex>35</ubClassIndex>
@@ -48652,7 +48652,7 @@
 		<uiIndex>1607</uiIndex>
 		<szItemName>Blue shirt</szItemName>
 		<szLongItemName>Freedom Flex Blue Shirt</szLongItemName>
-		<szItemDesc>The Freedom Flex Shirt from ETAC utilizes an innovative new woven design that offers superior indoor and outdoor comfort in a broad range of environments. It provides dramatic increases to both breathability and freedom of movement.</szItemDesc>
+		<szItemDesc>This shirt provides little in the way of tactical features during combat, but you might just score an appreciative glance from admirers when you walk to the nearest bar.</szItemDesc>
 		<szBRName>Freedom Flex Blue Shirt</szBRName>
 		<szBRDesc>The Freedom Flex Shirt from ETAC utilizes an innovative new woven design that offers superior indoor and outdoor comfort in a broad range of environments. It provides dramatic increases to both breathability and freedom of movement.</szBRDesc>
 		<usItemClass>8192</usItemClass>
@@ -49825,7 +49825,7 @@
 		<szLongItemName>3.11 Thigh Rig</szLongItemName>
 		<szItemDesc>The face of the rig features MOLLE attachment straps which can accommodate all of our NAS accessories and pouches providing rapid access to critical gear.</szItemDesc>
 		<szBRName>3.11 Thigh Rig</szBRName>
-		<szBRDesc>A highly useful accessory used by sportsmen, patrol officers, and tactical operators worldwide, the 3.11 Thigh Rig is lightweight, reliable, and completely customizable.</szBRDesc>
+		<szBRDesc>A highly useful accessory used by sportsmen, patrol officers, and tactical operators worldwide, the 3.11 thigh rig is lightweight, reliable, and completely customizable with your MOLLE system.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
 		<AvailableAttachmentPoint>1</AvailableAttachmentPoint>
@@ -49850,11 +49850,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1650</uiIndex>
-		<szItemName>Utility P.</szItemName>
+		<szItemName>Util Pouch</szItemName>
 		<szLongItemName>ETAC Utility Pouch</szLongItemName>
-		<szItemDesc>ETAC Utility Pouches are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
+		<szItemDesc>These lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorb shock and sheds moisture.</szItemDesc>
 		<szBRName>ETAC Utility Pouch</szBRName>
-		<szBRDesc>The new standard in utility storage for the next-gen soldier. This universal utility pouch in MARPAT camo compliments the ETAC range sold exclusively at Bobby Rays.</szBRDesc>
+		<szBRDesc>This universal utility pouch in MARPAT camo compliments the ETAC range sold exclusively at Bobby Rays.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>8192</nasAttachmentClass>
@@ -49875,7 +49875,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
+		<DesertCamoBonus>3</DesertCamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -49914,9 +49914,9 @@
 		<uiIndex>1652</uiIndex>
 		<szItemName>Belt Pouch</szItemName>
 		<szLongItemName>ETAC Ammo Belt Pouch</szLongItemName>
-		<szItemDesc>ETAC Ammo Belt Pouches are the new standard in ammo storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
+		<szItemDesc>ETAC Ammo Belt Pouches are the new standard in ammo storage for the next-gen warrior and provide minor camouflage features.</szItemDesc>
 		<szBRName>ETAC Ammo Belt Pouch</szBRName>
-		<szBRDesc>Designed to provide maximum durability in any environment, this lightweight desert MARPAT camo belt pouch is made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szBRDesc>
+		<szBRDesc>Designed to provide maximum durability in any environment, this lightweight desert MARPAT camo belt pouch is made from hardened 1680D nylon exterior layers.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>8192</nasAttachmentClass>
@@ -49937,7 +49937,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
+		<DesertCamoBonus>3</DesertCamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -49945,11 +49945,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1653</uiIndex>
-		<szItemName>Holster Pouch</szItemName>
-		<szLongItemName>ETAC Holster Pouch</szLongItemName>
-		<szItemDesc>ETAC Handgun holsters is the new standard in firearms storage for the next generation warrior. This lightweight desert MARPAT camo holster is made from hardened 1680D nylon exterior layers, that absorb shock and sheds moisture.</szItemDesc>
-		<szBRName>ETAC Holster Pouch</szBRName>
-		<szBRDesc>Designed to provide maximum durability in any environment, this lightweight desert MARPAT holster is made from hardened 1680D ballistic nylon that absorb shock and sheds moisture.</szBRDesc>
+		<szItemName>ETAC L. Holster</szItemName>
+		<szLongItemName>ETAC Large Holster</szLongItemName>
+		<szItemDesc>Size matters, so if your side arm is the hand-cannon variety you'll need a big enough holster to house it.</szItemDesc>
+		<szBRName>ETAC Large Holster</szBRName>
+		<szBRDesc>If you prefer your side arm to be a show-stopper, house it in this MARPAT camo holster. Includes room for a spare clip.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -49960,8 +49960,8 @@
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>174</ubGraphicNum>
 		<ubWeight>3</ubWeight>
-		<ItemSize>22</ItemSize>
-		<usPrice>120</usPrice>
+		<ItemSize>26</ItemSize>
+		<usPrice>160</usPrice>
 		<ubCoolness>2</ubCoolness>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -49970,7 +49970,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<UrbanCamoBonus>2</UrbanCamoBonus>
+		<DesertCamoBonus>2</DesertCamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -49978,9 +49978,9 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1654</uiIndex>
-		<szItemName>M. Frag</szItemName>
+		<szItemName>M. Frag Pouch</szItemName>
 		<szLongItemName>ETAC Mini Frag Pouches</szLongItemName>
-		<szItemDesc>A lightweight ETAC Grenade Pouch designed to provide maximum durability in any environment, in desert MARPAT camo tailor fitted for your favourite mini-grenades.</szItemDesc>
+		<szItemDesc>A lightweight ETAC Grenade Pouch in desert MARPAT camo, tailor fitted for your favourite mini-grenades.</szItemDesc>
 		<szBRName>ETAC Mini Frag Pouches</szBRName>
 		<szBRDesc>Use this ETAC mini-grenade pouch to compliment your ETAC rig when carrying your smaller anti-personnel devices.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -50003,7 +50003,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<UrbanCamoBonus>2</UrbanCamoBonus>
+		<DesertCamoBonus>2</DesertCamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -50013,9 +50013,9 @@
 		<uiIndex>1655</uiIndex>
 		<szItemName>D. SMG Mag</szItemName>
 		<szLongItemName>ETAC Double SMG Mag Pouch</szLongItemName>
-		<szItemDesc>ETAC SMG Mag Pouches are the new standard in ammo storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
-		<szBRName>ETAC Double SMG Mag Pouch</szBRName>
-		<szBRDesc>Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szBRDesc>
+		<szItemDesc>These lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorb shock and sheds moisture.</szItemDesc>
+		<szBRName>ETAC Dbl SMG Mag Pouch</szBRName>
+		<szBRDesc>These lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers and can carry two magazines for your SMG in style.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -50036,7 +50036,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<UrbanCamoBonus>2</UrbanCamoBonus>
+		<DesertCamoBonus>2</DesertCamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -50046,9 +50046,9 @@
 		<uiIndex>1656</uiIndex>
 		<szItemName>H2O Carrier</szItemName>
 		<szLongItemName>ETAC H2O Carrier</szLongItemName>
-		<szItemDesc>Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo canteens are made from hardened 1680D ballistic nylon.</szItemDesc>
+		<szItemDesc>These lightweight desert MARPAT camo canteen pouches are made from hardened 1680D ballistic nylon.</szItemDesc>
 		<szBRName>ETAC H2O Carrier</szBRName>
-		<szBRDesc>Don't get thirsty on the job. These ETAC H2O Carriers are a must for your kit. Providing maximum durability, this lightweight desert MARPAT camo pouch has a padded main compartment to insulate you favourite beverage.</szBRDesc>
+		<szBRDesc>Don't get thirsty on the job. Providing maximum durability, this lightweight desert MARPAT pouch has a padded main compartment to insulate you favourite beverage.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -50069,6 +50069,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>1</DesertCamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -50078,8 +50079,8 @@
 		<uiIndex>1657</uiIndex>
 		<szItemName>S. AR Mag</szItemName>
 		<szLongItemName>ETAC Single AR Mag Pouch</szLongItemName>
-		<szItemDesc>ETAC AR Pouches are the new standard in magazine storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
-		<szBRName>ETAC Single AR Mag Pouch</szBRName>
+		<szItemDesc>These lightweight desert MARPAT camo AR pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
+		<szBRName>ETAC AR Mag Pouch</szBRName>
 		<szBRDesc>Carry more of your favorite auto weapons ammo in the field with this single AR pouch designed and made by ETAC and sold exlcusively by us.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
@@ -50101,7 +50102,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<UrbanCamoBonus>1</UrbanCamoBonus>
+		<DesertCamoBonus>1</DesertCamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -50111,9 +50112,9 @@
 		<uiIndex>1658</uiIndex>
 		<szItemName>Med. Pouch</szItemName>
 		<szLongItemName>ETAC Medical Pouch</szLongItemName>
-		<szItemDesc>ETAC medical pouches are the new standard in medical storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
+		<szItemDesc>Carry your medical supplies in style with these Swedish designed ETAC pouches.</szItemDesc>
 		<szBRName>ETAC Medical Pouch</szBRName>
-		<szBRDesc>Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo med pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture. Teflon coated for stain resistance.</szBRDesc>
+		<szBRDesc>Made from hardened 1680D nylon exterior layers and coated with Teflon for stain resistance. Carry your medical supplies in style with this Swedish designed ETAC pouch.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -50145,7 +50146,7 @@
 		<szItemName>D. Pistol Mag</szItemName>
 		<szLongItemName>ETAC Double Pistol Mag</szLongItemName>
 		<szItemDesc>ETAC pistol mag pouches are the new standard in ammo storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
-		<szBRName>ETAC Double Pistol Mag</szBRName>
+		<szBRName>ETAC Dbl Pistol Mag</szBRName>
 		<szBRDesc>ETAC pistol mag pouches are the new standard in ammo storage for the next generation warrior and feature the same quailty materials and construction that we expect from ETAC's range.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
@@ -50167,7 +50168,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<UrbanCamoBonus>1</UrbanCamoBonus>
+		<DesertCamoBonus>1</DesertCamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -50177,9 +50178,9 @@
 		<uiIndex>1660</uiIndex>
 		<szItemName>Knife Holster</szItemName>
 		<szLongItemName>ETAC Nylon Knife Sheath</szLongItemName>
-		<szItemDesc>This desert MARPAT camo ETAC nylon knife sheath is designed to provide maximum durability in any environment.</szItemDesc>
-		<szBRName>ETAC Nylon Knife Sheath</szBRName>
-		<szBRDesc>Keep your trusty knife snug and dry in this ETAC Nylon Knife Sheath which are the new standard in blade storage for the next generation warrior.</szBRDesc>
+		<szItemDesc>This desert MARPAT camo nylon knife sheath from ETAC is designed to provide maximum durability in any environment.</szItemDesc>
+		<szBRName>ETAC Knife Sheath</szBRName>
+		<szBRDesc>Keep your trusty knife snug and dry in this ETAC Nylon sheath.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -50200,7 +50201,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<UrbanCamoBonus>1</UrbanCamoBonus>
+		<DesertCamoBonus>1</DesertCamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -50233,7 +50234,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
+		<DesertCamoBonus>3</DesertCamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -50266,7 +50267,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<UrbanCamoBonus>1</UrbanCamoBonus>
+		<DesertCamoBonus>1</DesertCamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -50309,7 +50310,7 @@
 		<szItemName>Documents</szItemName>
 		<szLongItemName>ETAC Document Drop Pouch</szLongItemName>
 		<szItemDesc>Some supposedly can work in a paperless office, but in the field of combat, documents are still a neccessary evil that at times may just save your life.</szItemDesc>
-		<szBRName>ETAC Document Drop Pouch</szBRName>
+		<szBRName>ETAC Document Pouch</szBRName>
 		<szBRDesc>A document pouch from ETAC to compliment your existing ETAC rig.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
@@ -50331,7 +50332,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<UrbanCamoBonus>1</UrbanCamoBonus>
+		<DesertCamoBonus>1</DesertCamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -50400,7 +50401,7 @@
 		<szLongItemName>Black Modular Vest</szLongItemName>
 		<szItemDesc>This black tactical vest is almost completely covered in MOLLE compatible webbing, making it easy to attach all the gear you need.</szItemDesc>
 		<szBRName>Black Modular Vest</szBRName>
-		<szBRDesc>This military vest has hanging loops for added storage and features two inner mesh pockets with zippers, perfect to carry smaller items that cannot be attached to the molle webbing.</szBRDesc>
+		<szBRDesc>This military vest has hanging loops for added storage and features two inner mesh pockets with zippers, perfect to carry smaller items that cannot be attached to the MOLLE webbing.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>8</nasLayoutClass>
 		<AvailableAttachmentPoint>3</AvailableAttachmentPoint>
@@ -50481,7 +50482,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<UrbanCamoBonus>1</UrbanCamoBonus>
+		<DesertCamoBonus>1</DesertCamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -50751,7 +50752,7 @@
 		<uiIndex>1678</uiIndex>
 		<szItemName>P. Grenades</szItemName>
 		<szLongItemName>ETAC Projectile Grenade Pouch</szLongItemName>
-		<szItemDesc>ETAC Projectile Grenade Pouches are the new standard in grenade storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
+		<szItemDesc>Load up with the big and boomy stuff with this large pouch.</szItemDesc>
 		<szBRName>ETAC Projectile Grenade Pouch</szBRName>
 		<szBRDesc>Designed to provide maximum durability in any environment, these lightweight desert MARPAT grenade pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -50774,7 +50775,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<UrbanCamoBonus>2</UrbanCamoBonus>
+		<DesertCamoBonus>2</DesertCamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -50785,7 +50786,7 @@
 		<szItemName>S. Pistol Mag</szItemName>
 		<szLongItemName>ETAC Single Pistol Mag Pouch</szLongItemName>
 		<szItemDesc>When you want to travel light, and one spare pistol magazine is just enough to get the job done.</szItemDesc>
-		<szBRName>ETAC Single Pistol Mag Pouch</szBRName>
+		<szBRName>ETAC Pistol Mag Pouch</szBRName>
 		<szBRDesc>Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
@@ -50807,7 +50808,7 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<CamoBonus>1</CamoBonus>
+		<DesertCamoBonus>1</DesertCamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -50973,9 +50974,9 @@
 	<ITEM>
 		<uiIndex>1685</uiIndex>
 		<szItemName>Big Mag</szItemName>
-		<szLongItemName>ETAC BigMag Pouch</szLongItemName>
+		<szLongItemName>ETAC Big Mag Pouch</szLongItemName>
 		<szItemDesc>The big mag pouch from ETAC is for the next generation warrior who likes a bigger bang for his buck.</szItemDesc>
-		<szBRName>ETAC BigMag Pouch</szBRName>
+		<szBRName>ETAC Big Mag Pouch</szBRName>
 		<szBRDesc>Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
@@ -51041,7 +51042,7 @@
 		<szItemName>T. Flashbang</szItemName>
 		<szLongItemName>ETAC Triple Flashbang Pouch</szLongItemName>
 		<szItemDesc>ETAC Flashbang Pouches are the new standard in grenade storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
-		<szBRName>ETAC Triple Flashbang Pouch</szBRName>
+		<szBRName>ETAC Tri Flashbang Pouch</szBRName>
 		<szBRDesc>Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
@@ -51074,7 +51075,7 @@
 		<szItemName>T. Pistol Mag</szItemName>
 		<szLongItemName>ETAC Triple Pistol Mag Pouch</szLongItemName>
 		<szItemDesc>ETAC Pistol Mag Pouches are the new standard in ammo storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
-		<szBRName>ETAC Triple Pistol Mag Pouch</szBRName>
+		<szBRName>ETAC Tri Pistol Mag Pouch</szBRName>
 		<szBRDesc>Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
@@ -51107,7 +51108,7 @@
 		<szItemName>T. SMG Mag</szItemName>
 		<szLongItemName>ETAC Triple SMG Mag Pouch</szLongItemName>
 		<szItemDesc>ETAC SMG Mag Pouches are the new standard in ammo storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
-		<szBRName>ETAC Triple SMG Mag Pouch</szBRName>
+		<szBRName>ETAC Tri SMG Mag Pouch</szBRName>
 		<szBRDesc>Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
@@ -51186,6 +51187,7 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>3</DesertCamoBonus>
 		<StealthBonus>-10</StealthBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -51349,10 +51351,10 @@
 	<ITEM>
 		<uiIndex>1697</uiIndex>
 		<szItemName>Radio Set</szItemName>
-		<szLongItemName>Radio set</szLongItemName>
-		<szItemDesc>A standard issue radio set for short-range communications in the field.</szItemDesc>
-		<szBRName>Radio set</szBRName>
-		<szBRDesc>This set can be used to radio other squad in other sectors. It can be worn like a backpack. Batteries included.</szBRDesc>
+		<szLongItemName>Portable Radio set</szLongItemName>
+		<szItemDesc>A standard issue radio set for short-range communications in the field. Ideal for requesting reinforcements, or calling in artillery.</szItemDesc>
+		<szBRName>Portable Radio Set</szBRName>
+		<szBRDesc>This portable radio set can be used for communications with squads in other sectors. It can be worn like a backpack. Batteries included.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>97</ubClassIndex>
@@ -54884,7 +54886,7 @@
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
-	<!-- VENGEANCE RELOADED ITEMS FROM HERE ON IN -->
+	<!-- VENGEANCE RELOADED ITEMS FROM HERE ON IN, though some Exurok items fall earlier such as ETAC LBE items -->
 	<ITEM>
 		<uiIndex>2001</uiIndex>
 		<szItemName>Flamethrower</szItemName>
@@ -69859,7 +69861,7 @@
 		<szItemName>Demolitions Vest</szItemName>
 		<szLongItemName>Demolitions Expert Vest</szLongItemName>
 		<szItemDesc>Whether you're working in a gold mine or as a frontline demolitions expert, you'll want to know where your bombs are. The demolitioner vest offers plenty of store room for all the needed accessories for fireworks for all occassions.</szItemDesc>
-		<szBRName>Demolitions Expert Vest</szBRName>
+		<szBRName>Demolitions Vest</szBRName>
 		<szBRDesc>Whether you're working in a gold mine or as a frontline demolitions expert, you'll want to know where your bombs are. The demolitioner vest offers plenty of store room for all the needed accessories for fireworks for all occassions.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>105</ubClassIndex>
@@ -70612,7 +70614,7 @@
 		<uiIndex>2632</uiIndex>
 		<szItemName>Sniper Combat Pack</szItemName>
 		<szLongItemName>ETAC Sniper Combat Pack</szLongItemName>
-		<szItemDesc>ETAC Sniper Packs are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
+		<szItemDesc>Snipers are not known for carting their gear in plastic shopping bags, be kinder to the environment and look a hell of a lot cooler with this combat pack.</szItemDesc>
 		<szBRName>ETAC Sniper Combat Pack</szBRName>
 		<szBRDesc>ETAC Sniper Packs are THE choice in utility storage for the next generation long range marksman. This durable yet lightweight desert MARPAT camo pack is made from the same ballistic grade nylon exterior layers as the other ETAC kits available here.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -70629,7 +70631,7 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<CamoBonus>3</CamoBonus>
+		<DesertCamoBonus>3</DesertCamoBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -70746,8 +70748,8 @@
 		<szItemName>VOG Rig</szItemName>
 		<szLongItemName>40mm VOG Grenades Rig Combat Pack</szLongItemName>
 		<szItemDesc>This Afghan era Soviet chest rig carries a huge assortment of 40mm VOG grenades and is worn like a combat pack.</szItemDesc>
-		<szBRName>40mm Grenades Rig Combat Pack</szBRName>
-		<szBRDesc>This is an Afghan era Soviet chest rig to carry a huge assortment of 40mm VOG grenades and is worn like a combat pack.</szBRDesc>
+		<szBRName>VOG Grenades Rig</szBRName>
+		<szBRDesc>This Afghan era Soviet chest rig can carry a huge assortment of 40mm VOG grenades and is worn like a combat pack.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>138</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -70829,7 +70831,7 @@
 		<szItemName>Recon Combat Pack</szItemName>
 		<szLongItemName>Eagle Recon Combat Pack</szLongItemName>
 		<szItemDesc>In addition to two small side pockets this compact butt pack has 6 loops to store 40mm grenades.</szItemDesc>
-		<szBRName>Eagle Recon Combat Pack</szBRName>
+		<szBRName>Eagle Recon Pack</szBRName>
 		<szBRDesc>Engineered with Eagle's legendary build quaility, this improved buttpack also has two small side pockets and 6 loops to store 40mm grenades.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>141</ubClassIndex>
@@ -70882,8 +70884,8 @@
 		<uiIndex>2642</uiIndex>
 		<szItemName>LRRP Pack</szItemName>
 		<szLongItemName>ETAC Long Range Recon Patrol Pack</szLongItemName>
-		<szItemDesc>ETAC Recon packs are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
-		<szBRName>ETAC  Long Range Recon Patrol Pack</szBRName>
+		<szItemDesc>For those long, long missions out in the dusty wastes of the desert. Don't forget to pack a lunch!</szItemDesc>
+		<szBRName>ETAC L.R.R.P Pack</szBRName>
 		<szBRDesc>ETAC is THE choice in utility storage for the next generation long range patrolman. This pack is sold exclusively by Bobby Rays, you won't find it sold new anywhere else!</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>143</ubClassIndex>
@@ -71765,7 +71767,7 @@
 		<szItemName>BP Demolitioner Vest</szItemName>
 		<szLongItemName>BP Demolitioner Vest</szLongItemName>
 		<szItemDesc>A special tactical vest used by BP hostage rescue teams. Carries several magazines, has pockets for handgrenades, several smaller pockets for additional equipment and two special pockets for explosives.</szItemDesc>
-		<szBRName>BP Demolitioner Vest</szBRName>
+		<szBRName>BP Demolition Vest</szBRName>
 		<szBRDesc>Very hard to get special tactical vest used by BP hostage rescue teams. Carries several magazines, has pockets for handgrenades, several smaller pockets for additional equipment and two special pockets for explosives. The perfect vest for urban scenarios.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>176</ubClassIndex>
@@ -71817,7 +71819,7 @@
 		<szItemName>Eagle Belt</szItemName>
 		<szLongItemName>ETAC Eagle Battle Belt</szLongItemName>
 		<szItemDesc>ETAC Eagle Battle Belts are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
-		<szBRName>ETAC Eagle Battle Belt</szBRName>
+		<szBRName>ETAC Eagle Belt</szBRName>
 		<szBRDesc>ETAC Eagle Battle Belts are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>178</ubClassIndex>
@@ -71893,10 +71895,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2680</uiIndex>
-		<szItemName>Demolitioner Pack</szItemName>
+		<szItemName>Demolition Pack</szItemName>
 		<szLongItemName>Demolitioner Combat Pack</szLongItemName>
 		<szItemDesc>The perfect combat pack for your demolitions expert.</szItemDesc>
-		<szBRName>Demolitioner Combat Pack</szBRName>
+		<szBRName>Demolition Combat Pack</szBRName>
 		<szBRDesc>Keep your explosives safe and dry. This is the perfect combat pack for your demolitions expert.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>181</ubClassIndex>
@@ -72115,10 +72117,10 @@
 	<ITEM>
 		<uiIndex>2687</uiIndex>
 		<szItemName>ETAC Holster</szItemName>
-		<szLongItemName>ETAC Pistol holster</szLongItemName>
-		<szItemDesc>ETAC Pistol holster are the new standard in pistol storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
-		<szBRName>ETAC Pistol holster</szBRName>
-		<szBRDesc>ETAC Pistol holster are the new standard in pistol storage for the next generation warrior. Designed to provide maximum durability in any environment.</szBRDesc>
+		<szLongItemName>ETAC Pistol Holster</szLongItemName>
+		<szItemDesc>A MARPAT camo holster for your favourite side arm.</szItemDesc>
+		<szBRName>ETAC Pistol Holster</szBRName>
+		<szBRDesc>This lightweight desert MARPAT holster is made from hardened 1680D ballistic nylon that absorb shock and sheds moisture away from your favorite sidearm.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>8192</nasAttachmentClass>
@@ -72215,8 +72217,8 @@
 		<uiIndex>2690</uiIndex>
 		<szItemName>Drop Pouch</szItemName>
 		<szLongItemName>ETAC Medium Drop Pouch</szLongItemName>
-		<szItemDesc>ETAC Drop pouches are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
-		<szBRName>ETAC Medium Drop Pouch</szBRName>
+		<szItemDesc>A decent sized drop pouch with limited camouflage features.</szItemDesc>
+		<szBRName>ETAC Med Drop Pouch</szBRName>
 		<szBRDesc>ETAC Drop pouches are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
@@ -72246,11 +72248,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2691</uiIndex>
-		<szItemName>Double Grenade</szItemName>
+		<szItemName>Dbl Grenade</szItemName>
 		<szLongItemName>ETAC Double Grenade Pouch</szLongItemName>
-		<szItemDesc>ETAC Grenade pouches are the new standard in grenade storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
-		<szBRName>ETAC Double Grenade Pouch</szBRName>
-		<szBRDesc>ETAC Grenade pouches are the new standard in grenade storage for the next generation warrior. Designed to provide maximum durability in any environment.</szBRDesc>
+		<szItemDesc>Grenades can sometimes be like gonads and can cause a world or hurt if they're left swinging loose in the open elments. Keep 'em safe in this double pouch.</szItemDesc>
+		<szBRName>ETAC Dbl Grenade Pouch</szBRName>
+		<szBRDesc>Keep you grenades safe and secure in this camouflaged tactial grenade pouch.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -72279,11 +72281,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2692</uiIndex>
-		<szItemName>40mm Bandolier</szItemName>
+		<szItemName>VOG Bandolier</szItemName>
 		<szLongItemName>40mm VOG Grenades Bandolier</szLongItemName>
-		<szItemDesc>This tactical black bandolier is straight out of terminator 2, it can carry a huge assortment of 40mm VOG grenades and is worn like a combat pack.</szItemDesc>
-		<szBRName>40mm VOG Grenades Bandolier</szBRName>
-		<szBRDesc>This tactical black bandolier is straight out of terminator 2, it can carry a huge assortment of 40mm VOG grenades and is worn like a combat pack.</szBRDesc>
+		<szItemDesc>This tactical black bandolier is straight out of Terminator 2, it can carry a huge assortment of 40mm VOG grenades and is worn like a combat pack.</szItemDesc>
+		<szBRName>VOG Grenades Bandolier</szBRName>
+		<szBRDesc>This tactical black bandolier is straight out of Terminator 2, it can carry a huge assortment of 40mm VOG grenades and is worn like a combat pack.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>197</ubClassIndex>
 		<ubGraphicType>4</ubGraphicType>
@@ -72307,11 +72309,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2693</uiIndex>
-		<szItemName>MACH-1. Vest</szItemName>
+		<szItemName>MACH-1 Vest</szItemName>
 		<szLongItemName>MACH-1 Tactical Assault Vest</szLongItemName>
-		<szItemDesc>This vest allows you to carry and easily access all your firearms gear. The vests allows you to hold all your duty and tactical gear with ease and comfort. Although the vest is made to endure the harshest conditions. Camo: Desert MARPAT.</szItemDesc>
-		<szBRName>MACH-1 Tactical Assault Vest</szBRName>
-		<szBRDesc>This vest allows you to carry and easily access all your firearms gear. The vests allows you to hold all your duty and tactical gear with ease and comfort. Although the vest is made to endure the harshest conditions. Camo: Desert MARPAT.</szBRDesc>
+		<szItemDesc>A useful tactical vest in MARPAT desert camo.</szItemDesc>
+		<szBRName>MACH-1 Assault Vest</szBRName>
+		<szBRDesc>This Desert MARPAT vest allows you to carry and access all your tactical gear with ease and comfort and is made to endure the harshest conditions.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>8</nasLayoutClass>
 		<ubClassIndex>198</ubClassIndex>
@@ -72327,7 +72329,7 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<CamoBonus>25</CamoBonus>
+		<DesertCamoBonus>25</DesertCamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -72337,9 +72339,9 @@
 		<uiIndex>2694</uiIndex>
 		<szItemName>E MVP Vest</szItemName>
 		<szLongItemName>Elite MVP Vest</szLongItemName>
-		<szItemDesc>The MVP line is constructed of only the highest quality, most durable materials including YKK zippers, heavy-duty nylon mesh, 1000 denier nylon fabric and nylon webbing, and heavy-duty hardware. Camo: Desert MARPAT.</szItemDesc>
+		<szItemDesc>A top of the line vest in Desert MARPAT camo.</szItemDesc>
 		<szBRName>Elite MVP Vest</szBRName>
-		<szBRDesc>The MVP line is constructed of only the highest quality, most durable materials including YKK zippers, heavy-duty nylon mesh, 1000 denier nylon fabric and nylon webbing, and heavy-duty hardware. Camo: Desert MARPAT.</szBRDesc>
+		<szBRDesc>The MVP line is constructed of only the highest quality, most durable materials including YKK zippers, heavy-duty nylon mesh, 1000 denier nylon fabric and nylon webbing, and heavy-duty hardware in Desert MARPAT camo.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>199</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -72354,7 +72356,7 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<CamoBonus>20</CamoBonus>
+		<DesertCamoBonus>20</DesertCamoBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -72364,9 +72366,9 @@
 		<uiIndex>2695</uiIndex>
 		<szItemName>Combat Pack</szItemName>
 		<szLongItemName>ETAC Combat Pack</szLongItemName>
-		<szItemDesc>ETAC Combat pack is the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
+		<szItemDesc>Another ETAC product designed for the tactical market, provides some additional camouflage value.</szItemDesc>
 		<szBRName>ETAC Combat Pack</szBRName>
-		<szBRDesc>ETAC Combat pack is the new standard in utility storage for the next generation warrior.</szBRDesc>
+		<szBRDesc>ETAC Combat packs are the new standard in utility storage for the next generation warrior for extended assignments.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>200</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -72381,7 +72383,7 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<CamoBonus>2</CamoBonus>
+		<DesertCamoBonus>2</DesertCamoBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -72461,7 +72463,7 @@
 		<uiIndex>2699</uiIndex>
 		<szItemName>Carabiner LR</szItemName>
 		<szLongItemName>Carabiner LR</szLongItemName>
-		<szItemDesc>A handy, spring loaded, metal looped shackle to be used for safety-critical systems, in particular rope climbing or to attach and organize your load bearing equipment.</szItemDesc>
+		<szItemDesc>Make use of this handy shackle to organize or expand your load bearing equipment.</szItemDesc>
 		<szBRName>Carabiner</szBRName>
 		<szBRDesc>A handy, spring loaded, metal looped shackle to be used for safety-critical systems, in particular rope climbing or to attach and organize your load bearing equipment.</szBRDesc>
 		<usItemClass>131072</usItemClass>

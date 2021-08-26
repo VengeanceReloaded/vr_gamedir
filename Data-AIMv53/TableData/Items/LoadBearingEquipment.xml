@@ -1060,18 +1060,18 @@
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
-	<LOADBEARINGEQUIPMENT>		<!-- ETAC Holster Pouch -->
+	<LOADBEARINGEQUIPMENT>		<!-- ETAC Large Holster -->
 		<lbeIndex>53</lbeIndex>
 		<lbeClass>1</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>26</lbeFilledSize>
 		<lbeAvailableVolume>0</lbeAvailableVolume>
 		<lbePocketsAvailable>0</lbePocketsAvailable>
-		<lbePocketIndex1>11</lbePocketIndex1>
+		<lbePocketIndex1>12</lbePocketIndex1>
 		<lbePocketIndex2>0</lbePocketIndex2>
 		<lbePocketIndex3>0</lbePocketIndex3>
 		<lbePocketIndex4>0</lbePocketIndex4>
-		<lbePocketIndex5>0</lbePocketIndex5>
+		<lbePocketIndex5>31</lbePocketIndex5>
 		<lbePocketIndex6>0</lbePocketIndex6>
 		<lbePocketIndex7>0</lbePocketIndex7>
 		<lbePocketIndex8>0</lbePocketIndex8>
