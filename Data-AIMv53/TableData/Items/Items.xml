@@ -453,6 +453,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>7</ubClassIndex>
+		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>	<!-- Sights - Match Sights -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>7</ubGraphicNum>
 		<ubWeight>17</ubWeight>
@@ -18452,6 +18453,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>637</ubClassIndex>
+		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>	<!-- Sights - Match Sights -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>101</ubGraphicNum>
 		<ubWeight>17</ubWeight>
@@ -18486,6 +18488,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>638</ubClassIndex>
+		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>	<!-- Sights - Match Sights -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>104</ubGraphicNum>
 		<ubWeight>17</ubWeight>
