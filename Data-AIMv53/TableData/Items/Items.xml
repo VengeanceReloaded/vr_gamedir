@@ -33933,7 +33933,7 @@
 		<szItemName>40mm Gren.P.</szItemName>
 		<szLongItemName>40mm Grenade Panel Leg Rig</szLongItemName>
 		<szItemDesc>A panel with four individual pockets to store up to four 40mm grenades.</szItemDesc>
-		<szBRName>40mm 'nade Panel Leg Rig</szBRName>
+		<szBRName>40mm Grenade Leg Rig</szBRName>
 		<szBRDesc>A quadruple pouch mounted on a leg rig. The long adjustable straps let you store 40mm grenades of any length.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
@@ -49255,11 +49255,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1630</uiIndex>
-		<szItemName>Diving Bottle</szItemName>
-		<szLongItemName>Diving Bottle</szLongItemName>
+		<szItemName>Diving Cylinder</szItemName>
+		<szLongItemName>Diving Cylinder</szLongItemName>
 		<szItemDesc>Contains enough oxygen to stay underwater for many minutes.</szItemDesc>
-		<szBRName>Diving Bottle</szBRName>
-		<szBRDesc>Standard equipment for divers.</szBRDesc>
+		<szBRName>Diving Cylinder</szBRName>
+		<szBRDesc>Made from high quality steel which have an electroplated brass coating, our standard diving tanks run at 230 bar.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>16</nasLayoutClass>
 		<ubClassIndex>40</ubClassIndex>
@@ -49885,7 +49885,7 @@
 		<uiIndex>1651</uiIndex>
 		<szItemName>ETAC Vest</szItemName>
 		<szLongItemName>ETAC Tactical Vest</szLongItemName>
-		<szItemDesc>ETAC Tactical Vest are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment, this lightweight desert MARPAT camo tactial vest is made from hardened nylon and sheds moisture.</szItemDesc>
+		<szItemDesc>A comprehensive aftermarket vest able to stow a varied number and sized objects for you on your latest sanction.</szItemDesc>
 		<szBRName>ETAC Tactical Vest</szBRName>
 		<szBRDesc>ETAC Tactical Vest are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment, this lightweight desert MARPAT camo tactial vest is made from hardened nylon and sheds moisture.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -49914,7 +49914,7 @@
 		<uiIndex>1652</uiIndex>
 		<szItemName>Belt Pouch</szItemName>
 		<szLongItemName>ETAC Ammo Belt Pouch</szLongItemName>
-		<szItemDesc>ETAC Ammo Belt Pouches are the new standard in ammo storage for the next-gen warrior and provide minor camouflage features.</szItemDesc>
+		<szItemDesc>An aftermarket Ammo Belt Pouch in Desert MARPAT Camo.</szItemDesc>
 		<szBRName>ETAC Ammo Belt Pouch</szBRName>
 		<szBRDesc>Designed to provide maximum durability in any environment, this lightweight desert MARPAT camo belt pouch is made from hardened 1680D nylon exterior layers.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -50079,7 +50079,7 @@
 		<uiIndex>1657</uiIndex>
 		<szItemName>S. AR Mag</szItemName>
 		<szLongItemName>ETAC Single AR Mag Pouch</szLongItemName>
-		<szItemDesc>These lightweight desert MARPAT camo AR pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
+		<szItemDesc>A lightweight desert MARPAT camo AR pouch for a single clip of ammo.</szItemDesc>
 		<szBRName>ETAC AR Mag Pouch</szBRName>
 		<szBRDesc>Carry more of your favorite auto weapons ammo in the field with this single AR pouch designed and made by ETAC and sold exlcusively by us.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -50145,7 +50145,7 @@
 		<uiIndex>1659</uiIndex>
 		<szItemName>D. Pistol Mag</szItemName>
 		<szLongItemName>ETAC Double Pistol Mag</szLongItemName>
-		<szItemDesc>ETAC pistol mag pouches are the new standard in ammo storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
+		<szItemDesc>An aftermarket pistol mag pouch to carry two clips.</szItemDesc>
 		<szBRName>ETAC Dbl Pistol Mag</szBRName>
 		<szBRDesc>ETAC pistol mag pouches are the new standard in ammo storage for the next generation warrior and feature the same quailty materials and construction that we expect from ETAC's range.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -50277,7 +50277,7 @@
 		<uiIndex>1663</uiIndex>
 		<szItemName>Shotgun Bandolier</szItemName>
 		<szLongItemName>7 RD Shotgun Bandolier</szLongItemName>
-		<szItemDesc>The NAS Shotgun Bandolier holds 7 shotgun shell rounds.</szItemDesc>
+		<szItemDesc>A bandolier able to hold 7 shotgun shell rounds.</szItemDesc>
 		<szBRName>7 RD Shotgun Bandolier</szBRName>
 		<szBRDesc>The 7 RD Shotgun Bandolier keeps your shotgun reloads within easy reach.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -50344,7 +50344,7 @@
 		<szLongItemName>Drop Leg Holster</szLongItemName>
 		<szItemDesc>The LBT-6099Z is an ambidextrous, modular style universal holster.</szItemDesc>
 		<szBRName>Drop Leg Ambi Holster</szBRName>
-		<szBRDesc>Versatility comes from the number of carry modes and weapon configurations allowed by this holster.</szBRDesc>
+		<szBRDesc>Versatility comes from the number of carry modes and weapon configurations attainable by this holster.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
 		<AvailableAttachmentPoint>1</AvailableAttachmentPoint>
@@ -72750,7 +72750,7 @@
 		<szItemName>Pro Headset - Extended Ear</szItemName>
 		<szLongItemName>Pro Headset - Extended Ear</szLongItemName>
 		<szItemDesc>This quality headset offers highly improved hearing range.</szItemDesc>
-		<szBRName>Headset - Extended Ear</szBRName>
+		<szBRName>Pro Headset Extended Ear</szBRName>
 		<szBRDesc>Our quality, custom-made headsets offer the highest improved hearing range of any extended ear on the market, guaranteed.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
