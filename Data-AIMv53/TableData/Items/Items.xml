@@ -1261,10 +1261,10 @@
 	<ITEM>
 		<uiIndex>28</uiIndex>
 		<szItemName>FN FAL</szItemName>
-		<szLongItemName>FN FAL</szLongItemName>
+		<szLongItemName>FN Fusil Automatique Leger</szLongItemName>
 		<szItemDesc>The phrase, 'Help, I've FAL-len and I can't get up,' takes on a whole new meaning when this rifle is involved.</szItemDesc>
-		<szBRName>FN Fusil Automatique Leger</szBRName>
-		<szBRDesc>This Belgian automatic rifle has set a new standard in weaponry since the 50's. Its robust and reliable design makes it simple to use and maintain, despite its tendency for excessive climbing in automatic mode.</szBRDesc>
+		<szBRName>FN FAL</szBRName>
+		<szBRDesc>This Belgian automatic rifle set a new standard in weaponry since the 50's. Its robust and reliable design makes it simple to use and maintain, despite its tendency for excessive climbing in automatic mode.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>28</ubClassIndex>
@@ -1298,9 +1298,9 @@
 		<uiIndex>29</uiIndex>
 		<szItemName>G3A3</szItemName>
 		<szLongItemName>HK G3A3</szLongItemName>
-		<szItemDesc>Licensed and produced in no less than 14 countries this working-class Heckler and Koch automatic rifle still proves robustness, reliabilty and effectiveness are timeless features.</szItemDesc>
+		<szItemDesc>Made from sheet metal stampings and plastic furniture. This rifle takes the 7.62x51mm round and gives you big holes and lots of recoil, perfect for hunting anything.</szItemDesc>
 		<szBRName>HK G3A3</szBRName>
-		<szBRDesc>Made from sheet metal stampings and plastic furniture. This rifle takes the 7.62x51mm round and gives you big holes and lots of recoil, perfect for hunting anything.</szBRDesc>
+		<szBRDesc>Licensed and produced in no less than 14 countries this working-class Heckler and Koch automatic rifle still proves robustness, reliabilty and effectiveness are timeless features.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>29</ubClassIndex>
@@ -30663,9 +30663,9 @@
 		<uiIndex>978</uiIndex>
 		<szItemName>TBG-7V Rocket</szItemName>
 		<szLongItemName>TBG-7V Thermobaric Rocket</szLongItemName>
-		<szItemDesc>Guaranteed to blow your enemies away.</szItemDesc>
-		<szBRName>TBG-7V Thermobaric Rocket</szBRName>
-		<szBRDesc>Guaranteed to blow your enemies away.</szBRDesc>
+		<szItemDesc>Hit your target with a Thermobaric triple-whammy of blast, fragmentation and incendiary effects.</szItemDesc>
+		<szBRName>TBG-7V Rocket</szBRName>
+		<szBRDesc>This Rocket will inflict heavy damage on your target regardless if they are hiding in buildings, trenches or vehicles, guaranteed.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>2048</AttachmentClass>
 		<nasAttachmentClass>2048</nasAttachmentClass>
@@ -61210,7 +61210,7 @@
 		<szItemName>SKS PU</szItemName>
 		<szLongItemName>SKS PU</szLongItemName>
 		<szItemDesc>The popularity and price of the SKS has seen many modifications; this one uses a repro PU scope for added accuracy.</szItemDesc>
-		<szBRName>SKS</szBRName>
+		<szBRName>SKS PU</szBRName>
 		<szBRDesc>The SKS semi-automatic carbine has proven a fine choice for enthusiasts and hunters and adding a PU scope is a popular modification. Buy ours with a quality repro scope already fitted, no drilling or assembly required.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -65763,7 +65763,7 @@
 		<szItemName>V40 Mini Grenade</szItemName>
 		<szLongItemName>V40 Mini Fragmentation Grenade</szLongItemName>
 		<szItemDesc>A very small and reliable fragmentation grenade. The V40 fragmentation grenade was manufactured in the Netherlands, and was in service in the Canadian Forces and the US Armed Forces. "They see me rollin' THEY RUNNIN'!"</szItemDesc>
-		<szBRName>V 40 Mini Fragmentation Grenade</szBRName>
+		<szBRName>V40 Mini Grenade</szBRName>
 		<szBRDesc>The V40 is a very light, spherical shaped grenade approximately the size of a golf-ball and due to its size considerable quantities of this grenade can be carried. You won't find a smaller hand grenade in our stock.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>130</ubClassIndex>
