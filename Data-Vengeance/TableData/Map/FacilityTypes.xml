@@ -30,7 +30,7 @@
 		<ubTotalStaffLimit>5</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
-			<szTooltipText>Have a drink at the local bar! Increases loyalty in this town, for a price and a chance to get drunk.</szTooltipText>
+			<szTooltipText>Have a drink at the local bar. Increases loyalty in this town, for a price and a chance to get drunk.</szTooltipText>
 			<ubStaffLimit>4</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<sCostPerHour>15</sCostPerHour>
@@ -54,7 +54,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>GATHER_RUMOURS</ubAssignmentType>
-			<szTooltipText>Have a drink at the...yeah, you wish! Just buy drinks to others and immediately report any info they may spill.</szTooltipText>
+			<szTooltipText>Have a drink at the...yeah, you wish! Just buy drinks for others and immediately report any info they spill.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<sCostPerHour>15</sCostPerHour>
@@ -122,7 +122,7 @@
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>The machinery here can manufacture all sorts of replacement parts, which will increase efficiency at repairing items, assuming you know how to use the complex machinery here.</szTooltipText>
+			<szTooltipText>You can manufacture all sorts of replacement parts here, which will increase efficiency at repairing items, assuming you know how to use the complex machinery.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 			<usKitDegrade>30</usKitDegrade>
@@ -140,7 +140,7 @@
 		<ubTotalStaffLimit>20</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
-			<szTooltipText>There are plenty of beds here. It's a bit basic, but certainly better than resting outside!</szTooltipText>
+			<szTooltipText>There are plenty of beds here. It's a bit basic, but certainly better than resting outside.</szTooltipText>
 			<ubStaffLimit>10</ubStaffLimit>
 			<usPerformance>120</usPerformance>
 			<usSleep>120</usSleep>
@@ -154,7 +154,7 @@
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>STAFF</ubAssignmentType>
-			<szTooltipText>The war room here has all sorts of digital equipment, designed for maintaining a good grasp on the strategic situation across the country. This will help you coordinate your defenses, and collect information about enemy movements in the wilderness.</szTooltipText>
+			<szTooltipText>The war room here has all sorts of digital equipment, designed for maintaining a good grasp on the strategic situation across the country. This will help you coordinate your defenses, and collect information about enemy movements elsewhere.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<fCountEnemiesInWild>1</fCountEnemiesInWild>
 			<CONDITIONS>
@@ -164,7 +164,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>SPREAD_PROPAGANDA_GLOBAL</ubAssignmentType>
-			<szTooltipText>Take control of local information channels and control the flow of news in the entire region.</szTooltipText>
+			<szTooltipText>Take control of local information channels and control the flow of news in the region.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<CONDITIONS>
 				<ubMinimumWisdom>60</ubMinimumWisdom>
@@ -181,7 +181,7 @@
 		<ubTotalStaffLimit>5</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_MARKSMANSHIP</ubAssignmentType>
-			<szTooltipText>Why not spend some time practicing your aim? The dummy targets are practically begging for it. It sure as hell beats taking pot-shots at rocks out in the wilderness.</szTooltipText>
+			<szTooltipText>Spend some time practicing your aim, the dummy targets are practically begging for it. It sure as hell beats taking pot-shots at rocks out in the wilderness.</szTooltipText>
 			<ubStaffLimit>5</ubStaffLimit>
 			<usPerformance>130</usPerformance>
 		</ASSIGNMENT>
@@ -194,7 +194,7 @@
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>STAFF</ubAssignmentType>
-			<szTooltipText>The locals here may be willing to scout out the surrounding area for you. You can collect the information gleaned from them to get a better idea about enemy activity in this region.</szTooltipText>
+			<szTooltipText>The locals here may be willing to scout the surrounding area for you. You can collect the information gleaned from them to get a better idea about enemy activity in this region.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<fDetectEnemiesDynamic>1</fDetectEnemiesDynamic>
 			<ubDetectEnemiesImmediate>2</ubDetectEnemiesImmediate>
@@ -206,7 +206,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>SPREAD_PROPAGANDA</ubAssignmentType>
-			<szTooltipText>Turn this small local office into well-oiled propaganda machine, suppressing any bad news reaching town and showing your actions in the best possible light.</szTooltipText>
+			<szTooltipText>Turn this small local office into well-oiled propaganda machine, suppress any bad news reaching town and show your actions in the best possible light.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<CONDITIONS>
@@ -368,7 +368,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
-			<szTooltipText>Use the equipment here to focus on increasing your Strength.</szTooltipText>
+			<szTooltipText>Use the equipment here to focus on increasing your STRENGTH.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>133</usPerformance>
 		</ASSIGNMENT>
@@ -433,7 +433,7 @@
 		<ubTotalStaffLimit>6</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.</szTooltipText>
+			<szTooltipText>This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair work considerably easier.</szTooltipText>
 			<ubStaffLimit>6</ubStaffLimit>
 			<usPerformance>133</usPerformance>
 			<usFatigue>110</usFatigue>
@@ -449,7 +449,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>This place is a great source of mechanical odds and ends. This will certainly make robot repairs considerably easier.</szTooltipText>
+			<szTooltipText>This place is a great source of mechanical odds and ends. This will certainly make robot repairs easier.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>186</usPerformance>
 			<usFatigue>120</usFatigue>
@@ -720,7 +720,7 @@
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>A race track workshop with tools and spare parts. This will make any repair-work easier.</szTooltipText>
+			<szTooltipText>A race track workshop with tools and spare parts. This will make any repair tasks easier.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>130</usPerformance>
 			<usFatigue>90</usFatigue>
@@ -937,7 +937,7 @@
 		<ubTotalStaffLimit>1</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>Loot the local stores of supplies to help make basic repairs a bit easier. Might not exactly endear you to the locals, however.</szTooltipText>
+			<szTooltipText>Loot the local stores of supplies to help make basic repairs a bit easier. However this might not exactly endear you to the locals.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>130</usPerformance>
 			<usFatigue>90</usFatigue>
@@ -990,7 +990,7 @@
 		<szFacilityShortName>Residential</szFacilityShortName>
 		<ASSIGNMENT>
 			<ubAssignmentType>AMBIENT</ubAssignmentType>
-			<szTooltipText>The homeowners around these parts can get a bit nervous when mercenaries are walking around like they own the place, and Mercs can get a bit nervous 'cause everybody around them is nervous . . . too many fingers, too many triggers, too many civilians.</szTooltipText>
+			<szTooltipText>The homeowners around these parts can get a bit nervous when mercenaries are walking around like they own the place, and Mercs can get a bit nervous 'cause everybody around them is nervous... too many fingers, too many triggers, too many civilians.</szTooltipText>
 			<LOYALTY_LOCAL>
 				<ubChance>99</ubChance>
 				<bBaseEffect>-1</bBaseEffect>
@@ -1011,7 +1011,7 @@
 		<szFacilityShortName>Massacre Site</szFacilityShortName>
 		<ASSIGNMENT>
 			<ubAssignmentType>AMBIENT</ubAssignmentType>
-			<szTooltipText>An example of the ruthlessness of the regime... death and destruction are everywhere. Staying here will either steel your resolve to overthrow this regime, or give you thoughts of getting out alive.</szTooltipText>
+			<szTooltipText>An example of the ruthlessness of the regime... death and destruction are everywhere. Staying here will either steel your resolve to overthrow this regime, or give you thoughts of how soon you can leave.</szTooltipText>
 			<usFatigue>86</usFatigue>
 			<usSleep>110</usSleep>
 		</ASSIGNMENT>
@@ -1029,7 +1029,7 @@
 		<szFacilityShortName>Uni-Ruins</szFacilityShortName>
 		<ASSIGNMENT>
 			<ubAssignmentType>AMBIENT</ubAssignmentType>
-			<szTooltipText>The Queen doesn't want an educated citizenry... on this site the teachers and students of the National University of Arulco were massacred, and the university grounds looted and bombed. At least there's a few good walls and roofs to keep off the rain and wind.</szTooltipText>
+			<szTooltipText>The Queen doesn't want an educated citizenry... on this site the teachers and students of the National University of Arulco were massacred, and the university grounds looted and bombed. At least there's a few good walls and roofs to keep the rain and wind at bay.</szTooltipText>
 			<usFatigue>80</usFatigue>
 			<usSleep>115</usSleep>
 		</ASSIGNMENT>
@@ -1171,7 +1171,7 @@
 		<szFacilityShortName>Toxic</szFacilityShortName>  
 		<ASSIGNMENT> 
 			<ubAssignmentType>AMBIENT</ubAssignmentType>
-			<szTooltipText>The oil and poisonous waste that coat everything here are not exactly healthy... the smell in the air actually makes you feel queasy and hard to breathe.</szTooltipText>  
+			<szTooltipText>The oil and poisonous waste that coat everything here is not exactly healthy... the smell in the air actually makes you feel queasy and is hard to breathe.</szTooltipText>  
 			<usFatigue>150</usFatigue>
 			<usSleep>50</usSleep>
 			<MORALE>
@@ -1484,7 +1484,7 @@
 		<ubTotalStaffLimit>20</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>STAFF</ubAssignmentType>
-			<szTooltipText>The military equipment and infrastructure in place here allows you to maintain surveillance of enemy troop movements in the local region.</szTooltipText>
+			<szTooltipText>The military equipment and infrastructure in place here allows you to maintain surveillance of enemy troop movements in the region.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<fDetectEnemiesDynamic>1</fDetectEnemiesDynamic>
 			<ubDetectEnemiesImmediate>2</ubDetectEnemiesImmediate>
