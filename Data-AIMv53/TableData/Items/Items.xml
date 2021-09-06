@@ -51483,7 +51483,7 @@
 		<ubClassIndex>119</ubClassIndex>
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>98</ubGraphicNum>
+		<ubGraphicNum>897</ubGraphicNum>
 		<ubWeight>6</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>18</ItemSize>
@@ -70506,9 +70506,9 @@
 		<uiIndex>2628</uiIndex>
 		<szItemName>Spec Ops Combat Pack</szItemName>
 		<szLongItemName>Special Operations Combat Pack</szLongItemName>
-		<szItemDesc>Never has a butt pack looked so murderous, this versatile small butt pack has additional pockets for handgrenades and spare magazines to take on all kinds of detrimental situations.</szItemDesc>
-		<szBRName>Special Operations Combat Pack</szBRName>
-		<szBRDesc>Never has a butt pack looked so murderous, this versatile small butt pack has additional pockets for handgrenades and spare magazines to take on all kinds of detrimental situations.</szBRDesc>
+		<szItemDesc>Never has a butt pack looked so murderous, this versatile small butt pack has additional pockets for handgrenades and spare magazines for all kinds of detrimental situations.</szItemDesc>
+		<szBRName>Spec Ops Combat Pack</szBRName>
+		<szBRDesc>This versatile small butt pack has additional pockets for handgrenades and spare magazines for all kinds of detrimental situations.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>129</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -70994,8 +70994,8 @@
 		<uiIndex>2646</uiIndex>
 		<szItemName>RPK Mag Pouch</szItemName>
 		<szLongItemName>ETAC RPK Magazines Pouch</szLongItemName>
-		<szItemDesc>ETAC RPK Magazines Pouchs are the new standard in ammo storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
-		<szBRName>ETAC RPK Magazines Pouch</szBRName>
+		<szItemDesc>A lightweight desert MARPAT camo pouch for your RPK mags from ETAC.</szItemDesc>
+		<szBRName>ETAC RPK Mag Pouch</szBRName>
 		<szBRDesc>If you haven't already checked out our exclusive LBE gear from ETAC, buy one of these pouches for your RPK gunner and see why they are so highly rated.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
