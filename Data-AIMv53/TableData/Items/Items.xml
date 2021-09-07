@@ -30597,7 +30597,7 @@
 		<szItemName>OG-7V Rocket</szItemName>
 		<szLongItemName>OG-7V Fragmentation Rocket</szLongItemName>
 		<szItemDesc>Perfect for those times when you need to make a big entrance.</szItemDesc>
-		<szBRName>OG-7V Fragmentation Rocket</szBRName>
+		<szBRName>OG-7V Frag Rocket</szBRName>
 		<szBRDesc>A rocket propelled grenade is perfect for those times when you need to make a big entrance.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>2048</AttachmentClass>
@@ -33909,7 +33909,7 @@
 		<szLongItemName>TT Assault Vest</szLongItemName>
 		<szItemDesc>A vest designed for carrying some of the most important consumables on a battlefield: ammo.</szItemDesc>
 		<szBRName>TT Assault Vest</szBRName>
-		<szBRDesc>The Tactical Tailor Assault Vest is primarily for combat soldiers, and can carry up to 12 AR magazines, or similar sized items.</szBRDesc>
+		<szBRDesc>The Tactical Tailor Assault Vest is primarily for combat soldiers, and can carry up to 12 AR magazines, or similar sized items. Made for Patriots by Patriots.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>8</nasLayoutClass>
 		<ubClassIndex>4</ubClassIndex>
@@ -34044,9 +34044,9 @@
 	<ITEM>
 		<uiIndex>1084</uiIndex>
 		<szItemName>Police Vest</szItemName>
-		<szLongItemName>Hongkong Police Vest</szLongItemName>
+		<szLongItemName>Hong Kong Police Vest</szLongItemName>
 		<szItemDesc>A versatile vest with pockets of different sizes, 4 of them designed specifcially for 40mm grenades.</szItemDesc>
-		<szBRName>Hongkong Police Vest</szBRName>
+		<szBRName>Hong Kong Police Vest</szBRName>
 		<szBRDesc>Your dedicated grenadier will love this vest, with its four 40mm grenade pockets. Although it's a police vest, you don't necessarily have to load only tear gas.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>8</nasLayoutClass>
@@ -34374,11 +34374,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1096</uiIndex>
-		<szItemName>MALICE3</szItemName>
-		<szLongItemName>MALICE3 Backpack</szLongItemName>
-		<szItemDesc>A backpack with lots of outer pockets. Camo: Desert MARPAT.</szItemDesc>
-		<szBRName>MALICE3 Backpack</szBRName>
-		<szBRDesc>When you don't want to rummage through the main compartment of your backpack for that elusive piece of gear that always sits at the bottom. This one has lots of outer pockets, for easy access to your items. Camo: Desert MARPAT.</szBRDesc>
+		<szItemName>MALICE 3</szItemName>
+		<szLongItemName>MALICE 3 Backpack</szLongItemName>
+		<szItemDesc>An updated ALICE backpack with lots of outer pockets from Tactical Tailer.</szItemDesc>
+		<szBRName>MALICE 3 Backpack</szBRName>
+		<szBRDesc>When you don't want to rummage through the main compartment of your backpack for that elusive piece of gear that always sits at the bottom. This one has lots of outer pockets, for easy access to your items. Available in Multi-Cam, Coyote Brown or OD.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>32</nasLayoutClass>
 		<ubClassIndex>21</ubClassIndex>
@@ -34431,8 +34431,8 @@
 		<szItemName>TT 3-Day Pack</szItemName>
 		<szLongItemName>Tactical Tailor 3-Day Pack</szLongItemName>
 		<szItemDesc>A combat pack with an extra pocket on the outside.</szItemDesc>
-		<szBRName>Tactical Tailor 3-Day Pack</szBRName>
-		<szBRDesc>You want storage capacity to lug things around during combat, but a backpack slows you down too much? This smaller combat pack may be the solution to your needs.</szBRDesc>
+		<szBRName>TT 3-Day Pack</szBRName>
+		<szBRDesc>If you want storage capacity to lug things around during combat, but a backpack slows you down too much? This smaller combat pack from Tactical Tailor may be the solution to your needs. Made in the USA.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>16</nasLayoutClass>
 		<ubClassIndex>23</ubClassIndex>
@@ -48645,7 +48645,6 @@
 		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<clothestype>2</clothestype>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -48671,7 +48670,6 @@
 		<WaterDamages>1</WaterDamages>
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>3</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<clothestype>6</clothestype>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -48697,7 +48695,6 @@
 		<WaterDamages>1</WaterDamages>
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>3</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<clothestype>11</clothestype>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -48724,7 +48721,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>3</BR_NewInventory>
 		<CamoBonus>4</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<clothestype>4</clothestype>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -48751,7 +48747,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>3</BR_NewInventory>
 		<UrbanCamoBonus>5</UrbanCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<clothestype>7</clothestype>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -48776,7 +48771,6 @@
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<ShowStatus>1</ShowStatus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<clothestype>1</clothestype>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -48802,7 +48796,6 @@
 		<WaterDamages>1</WaterDamages>
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>3</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<clothestype>9</clothestype>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -48828,7 +48821,6 @@
 		<WaterDamages>1</WaterDamages>
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>3</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<clothestype>10</clothestype>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -48853,7 +48845,6 @@
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<ShowStatus>1</ShowStatus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<clothestype>3</clothestype>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -48879,7 +48870,6 @@
 		<WaterDamages>1</WaterDamages>
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>3</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<clothestype>5</clothestype>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -48905,7 +48895,6 @@
 		<WaterDamages>1</WaterDamages>
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>3</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<clothestype>8</clothestype>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -48915,7 +48904,7 @@
 		<uiIndex>1617</uiIndex>
 		<szItemName>Beige pants</szItemName>
 		<szLongItemName>Beige Taclite pants</szLongItemName>
-		<szItemDesc>Our legendary Tactical Pants offers all the quality and utility you expect from ETAC. The Taclite Pro Pant is crafted from authentic Taclite poly/cotton fabric for outstanding comfort and performance in hot or humid climates. Features triple stitch reinforcements for maximum durability.</szItemDesc>
+		<szItemDesc>Despite the overly used 'Tactical' moniker, these beige pants won't provide a great deal of bonuses to your operation, apart from keeping your bare legs covered.</szItemDesc>
 		<szBRName>Beige Taclite pants</szBRName>
 		<szBRDesc>Our legendary Tactical Pants offers all the quality and utility you expect from ETAC. The Taclite Pro Pant is crafted from authentic Taclite poly/cotton fabric for outstanding comfort and performance in hot or humid climates. Features triple stitch reinforcements for maximum durability.</szBRDesc>
 		<usItemClass>8192</usItemClass>
@@ -48931,7 +48920,6 @@
 		<WaterDamages>1</WaterDamages>
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>3</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<clothestype>14</clothestype>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -48956,7 +48944,6 @@
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<ShowStatus>1</ShowStatus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<clothestype>13</clothestype>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -48982,7 +48969,6 @@
 		<WaterDamages>1</WaterDamages>
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>5</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<clothestype>17</clothestype>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -49008,7 +48994,6 @@
 		<WaterDamages>1</WaterDamages>
 		<ShowStatus>1</ShowStatus>
 		<CamoBonus>20</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<clothestype>12</clothestype>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -49034,7 +49019,6 @@
 		<WaterDamages>1</WaterDamages>
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>3</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<clothestype>16</clothestype>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -49060,7 +49044,6 @@
 		<WaterDamages>1</WaterDamages>
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>3</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<clothestype>15</clothestype>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -50746,18 +50729,17 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>2</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1678</uiIndex>
-		<szItemName>P. Grenades</szItemName>
-		<szLongItemName>ETAC Projectile Grenade Pouch</szLongItemName>
+		<szItemName>40mm Grenades</szItemName>
+		<szLongItemName>ETAC 40mm Grenade Pouch</szLongItemName>
 		<szItemDesc>Load up with the big and boomy stuff with this large pouch.</szItemDesc>
-		<szBRName>ETAC Projectile Grenade Pouch</szBRName>
-		<szBRDesc>Designed to provide maximum durability in any environment, these lightweight desert MARPAT grenade pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szBRDesc>
+		<szBRName>ETAC 40mm Grenade Pouch</szBRName>
+		<szBRDesc>These lightweight desert MARPAT pouches are made from hardened 1680D nylon exterior layers and will carry two 40mm grenades safely by absorbing shocks and shedding moisture.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -50779,7 +50761,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>2</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50812,7 +50793,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>1</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50845,7 +50825,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>2</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50878,7 +50857,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>1</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50907,7 +50885,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>15</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50936,7 +50913,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50969,7 +50945,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>3</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51002,7 +50977,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51035,7 +51009,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>3</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51068,7 +51041,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>3</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51101,7 +51073,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>3</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51134,7 +51105,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>3</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51163,7 +51133,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>3</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51172,9 +51141,9 @@
 		<uiIndex>1691</uiIndex>
 		<szItemName>Sniper Bag</szItemName>
 		<szLongItemName>ETAC Sniper Drag Bag</szLongItemName>
-		<szItemDesc>Rugged pack cloth construction with a 60" interior length and a height of 8" fits all assembled weapons with scope attached. Carry your sniper rifle with style and protected from bad weather. Silent pulls on every military grade nylon self-repairing zipper, comes in Desert MARPAT. "Meet today's needs."</szItemDesc>
+		<szItemDesc>Rugged pack cloth construction with a 60" interior length and a height of 8" fits all assembled weapons with scope attached. Carry your sniper rifle with style and protected from bad weather. Silent pulls on every military grade nylon self-repairing zipper, comes in Desert MARPAT.</szItemDesc>
 		<szBRName>ETAC Sniper Drag Bag</szBRName>
-		<szBRDesc>This bag can hold a two long guns and two pistols plus quite a bit of gear. This sniper bag will ease long  range transportation and it has some additional pockets for your valuable equipment. Camo: Desert MARPAT.</szBRDesc>
+		<szBRDesc>This bag can hold two long guns, two pistols and more, making long range transportation a breeze with its additional pockets for your valuable equipment. Camo: Desert MARPAT.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>91</ubClassIndex>
@@ -51192,7 +51161,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>3</DesertCamoBonus>
 		<StealthBonus>-10</StealthBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51220,7 +51188,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51249,7 +51216,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>25</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51278,7 +51244,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>5</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51313,7 +51278,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<StealthBonus>-10</StealthBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51324,7 +51288,7 @@
 		<szLongItemName>Double Grenade Pouch</szLongItemName>
 		<szItemDesc>Heavy duty pockets for the safe storage of two MK 2 Defensive Grenades.</szItemDesc>
 		<szBRName>Double Grenade Pouch</szBRName>
-		<szBRDesc>Heavy duty pockets for the safe storage of two  MK 2 Defensive Grenades.</szBRDesc>
+		<szBRDesc>Heavy duty pockets for the safe storage of two MK 2 Defensive Grenades.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -51346,7 +51310,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>2</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51380,7 +51343,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DefaultAttachment>1698</DefaultAttachment>
 		<NeedsBatteries>1</NeedsBatteries>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -70237,7 +70199,7 @@
 		<szItemName>Sniper Leg Rig</szItemName>
 		<szLongItemName>Sniper Magazines Leg Rig</szLongItemName>
 		<szItemDesc>A magazine pouch for bulky sniper rifle magazines.</szItemDesc>
-		<szBRName>Sniper Magazines Leg Rig</szBRName>
+		<szBRName>Sniper Mags Leg Rig</szBRName>
 		<szBRDesc>This is a magazine pouch for bulky sniper rifle magazines.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>119</ubClassIndex>
@@ -76971,7 +76933,7 @@
 		<uiIndex>2904</uiIndex>
 		<szItemName>Judge Dredd</szItemName>
 		<szLongItemName>Judge Dredd</szLongItemName>
-		<szItemDesc> In a dark future where all-powerful and coldly efficent "Judges" act with the supreme authority of both the police force and legal system, Judge Dredd is the most feared law enforcer of them all. Stallone stars as the UK comic book anti-hero, but big budget and fine sets couldn't stop it floppng.</szItemDesc>
+		<szItemDesc> In a dark future where powerful and coldly efficient "Judges" act with the supreme authority of both the police force and legal system, Judge Dredd is the most feared law enforcer of them all. Stallone stars as the UK comic book anti-hero, but big budget and fine sets couldn't stop it flopping.</szItemDesc>
 		<szBRName>Judge Dredd</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -77035,7 +76997,7 @@
 		<uiIndex>2907</uiIndex>
 		<szItemName>Agenda 21</szItemName>
 		<szLongItemName>Agenda 21</szLongItemName>
-		<szItemDesc>Think Globally, Enslave Locally. This document was birthed at the 1992 UN Conference on environment and development.</szItemDesc>
+		<szItemDesc>Think globally, enslave locally. This document was birthed at the 1992 UN Conference on environment and development.</szItemDesc>
 		<szBRName>Agenda 21</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
