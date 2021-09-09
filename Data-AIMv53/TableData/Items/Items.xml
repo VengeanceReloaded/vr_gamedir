@@ -26116,9 +26116,9 @@
 		<uiIndex>838</uiIndex>
 		<szItemName>Leg Protectors</szItemName>
 		<szLongItemName>Leg Protectors</szLongItemName>
-		<szItemDesc>Not just for unruly kids with skateboards and spray cans, these kneepads will prevent unwanted damage to your, you guessed it, knees.</szItemDesc>
+		<szItemDesc>Not just for unruly kids with skateboards and spray cans, these knee pads will prevent unwanted damage to your, you guessed it, knees.</szItemDesc>
 		<szBRName>Leg Protectors</szBRName>
-		<szBRDesc>Not just for unruly kids with skateboards and spray cans, these kneepads will prevent unwanted damage to your, you guessed it, knees.</szBRDesc>
+		<szBRDesc>Not just for unruly kids with skateboards and spray cans, these knee pads will prevent unwanted damage to your, you guessed it, knees.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -50133,7 +50133,7 @@
 		<szLongItemName>ETAC Double Pistol Mag</szLongItemName>
 		<szItemDesc>An aftermarket pistol mag pouch to carry two clips.</szItemDesc>
 		<szBRName>ETAC Dbl Pistol Mag</szBRName>
-		<szBRDesc>ETAC pistol mag pouches are the new standard in ammo storage for the next generation warrior and feature the same quailty materials and construction that we expect from ETAC's range.</szBRDesc>
+		<szBRDesc>These pistol mag pouches feature the same quailty materials and construction that we expect from ETAC's range.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -67875,7 +67875,6 @@
 		<BigGunList>1</BigGunList>
 		<AimBonus>-2</AimBonus>
 		<APBonus>-2</APBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -67903,7 +67902,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<APBonus>-1</APBonus>
 		<CamoBonus>12</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -67912,7 +67910,7 @@
 		<uiIndex>2503</uiIndex>
 		<szItemName>Woodland Camo Jacket</szItemName>
 		<szLongItemName>Woodland Camo Jacket</szLongItemName>
-		<szItemDesc>Woodland camo jacket.</szItemDesc>
+		<szItemDesc>A standard issue military jacket in camo suitable in temperate climates.</szItemDesc>
 		<szBRName>Woodland Camo Jacket</szBRName>
 		<szBRDesc>Our standard woodland camo jackets are sewn to military grade specifications and are rugged yet lightweight as well as comfortable.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -67930,7 +67928,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>18</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -67957,7 +67954,6 @@
 		<AimBonus>-2</AimBonus>
 		<APBonus>-3</APBonus>
 		<CamoBonus>18</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -67968,7 +67964,7 @@
 		<szLongItemName>Urban Camo Pants</szLongItemName>
 		<szItemDesc>Uniform pants with a basic urban camo pattern.</szItemDesc>
 		<szBRName>Urban Camo Pants</szBRName>
-		<szBRDesc>Our 50 percent cotton/polyester blend urban camo pants are very popular. Please note this disruptive pattern is now no longer made, buy them while you still can!</szBRDesc>
+		<szBRDesc>Our 50 percent cotton/polyester blend urban camo pants are very popular. Please note this disruptive pattern is no longer made, buy them while you still can!</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>203</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -67985,7 +67981,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<APBonus>-1</APBonus>
 		<UrbanCamoBonus>12</UrbanCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68012,7 +68007,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<UrbanCamoBonus>18</UrbanCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68039,7 +68033,6 @@
 		<AimBonus>-2</AimBonus>
 		<APBonus>-3</APBonus>
 		<UrbanCamoBonus>18</UrbanCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68067,7 +68060,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<APBonus>-1</APBonus>
 		<DesertCamoBonus>12</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68094,7 +68086,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>18</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68121,7 +68112,6 @@
 		<AimBonus>-2</AimBonus>
 		<APBonus>-3</APBonus>
 		<DesertCamoBonus>18</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68149,7 +68139,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<APBonus>-1</APBonus>
 		<StealthBonus>25</StealthBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68176,7 +68165,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<StealthBonus>35</StealthBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68203,7 +68191,6 @@
 		<AimBonus>-2</AimBonus>
 		<APBonus>-3</APBonus>
 		<StealthBonus>25</StealthBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68228,7 +68215,6 @@
 		<ShowStatus>1</ShowStatus>
 		<CamoBonus>3</CamoBonus>
 		<HearingRangeBonus>-2</HearingRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68252,7 +68238,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68279,7 +68264,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68307,7 +68291,6 @@
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<DesertCamoBonus>5</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68333,7 +68316,6 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Unaerodynamic>1</Unaerodynamic>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68362,7 +68344,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<AimBonus>-3</AimBonus>
 		<APBonus>-4</APBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68371,7 +68352,7 @@
 		<uiIndex>2520</uiIndex>
 		<szItemName>Leg Protectors UC</szItemName>
 		<szLongItemName>Leg Protectors Urban Camo</szLongItemName>
-		<szItemDesc>Not just for unruly kids with skateboards and spray cans, these kneepads will prevent unwanted damage to your, you guessed it, knees.</szItemDesc>
+		<szItemDesc>Not just for unruly kids with skateboards and spray cans, these knee pads will prevent unwanted damage to your, you guessed it, knees.</szItemDesc>
 		<szBRName>Leg Protectors Urban Camo</szBRName>
 		<szBRDesc>Protect your knees while crawling around in the rubble. Tailored for mobility and performance these one size fits all items are made in America and use Urban Camo colorways.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -68394,7 +68375,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68405,7 +68385,7 @@
 		<szLongItemName>Leg Protectors Desert Camo</szLongItemName>
 		<szItemDesc>You can now dive on the desert dirt when the rockets start flying without paying out on your knees for it.</szItemDesc>
 		<szBRName>Leg Protectors Desert Camo</szBRName>
-		<szBRDesc>Using cell foam padding for shock absorbtion, these desert tan leg protectors are a good choice to keep your knees protected. Made in America.</szBRDesc>
+		<szBRDesc>Using cell foam padding for shock absorbtion, these desert tan pads are a good choice to keep your knees protected. Made in America.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasAttachmentClass>2</nasAttachmentClass>
 		<AttachmentPoint>36028797018963968</AttachmentPoint>	<!-- Armour Leggings - Protectors -->
@@ -68426,7 +68406,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>3</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68456,7 +68435,6 @@
 		<ShowStatus>1</ShowStatus>
 		<SciFi>1</SciFi>
 		<Unaerodynamic>1</Unaerodynamic>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68484,7 +68462,6 @@
 		<ShowStatus>1</ShowStatus>
 		<SciFi>1</SciFi>
 		<Unaerodynamic>1</Unaerodynamic>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68495,7 +68472,7 @@
 		<szLongItemName>Norse helm</szLongItemName>
 		<szItemDesc>Among medieval warriors, few are as reknowned as the Vikings. So infamous as to have an age named after them, the Vikings left a legacy on the face of Europe and on the world and are remembered to this day as that of a vicious warrior and a skilled explorer.</szItemDesc>
 		<szBRName>Norse helm</szBRName>
-		<szBRDesc>NOT FOR SALE</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>226</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -68517,7 +68494,6 @@
 		<PercentAPReduction>2</PercentAPReduction>
 		<StealthBonus>2</StealthBonus>
 		<VisionRangeBonus>2</VisionRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68528,7 +68504,7 @@
 		<szLongItemName>MilEx Polyurethane Leggings</szLongItemName>
 		<szItemDesc>Feel like a God while walking among men, this cutting edge technology from MilEx uses polyurethane urea elastomers that are stronger than steel but feels as flexible as fabric.</szItemDesc>
 		<szBRName>MilEx Polyurethane Leggings</szBRName>
-		<szBRDesc>Offering high performance protection these new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance. Featuring a skeletonized fit, integrated stowage and elastic tensional bands for stability during periods of high activity.</szBRDesc>
+		<szBRDesc>Offering high performance protection these new advanced MilEx Polyurethane leggings offer superior penetration resistance. Featuring a skeletonized fit, integrated stowage and elastic tension bands for stability during periods of high activity.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>227</ubClassIndex>
@@ -68545,7 +68521,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<APBonus>-7</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68556,7 +68531,7 @@
 		<szLongItemName>Spec-18 MilEx Polyurethane Leggings</szLongItemName>
 		<szItemDesc>Feel like a God while walking among men, these pants from MilEx uses polyurethane urea elastomers that are stronger than steel but feel as flexible as fabric and just for good measure has been bolstered with an extra coat of Compound-18.</szItemDesc>
 		<szBRName>Spec-18 MilEx Polyurethane Leggings</szBRName>
-		<szBRDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance. Designed to ensure high performance protection. Has been improved with even more Polyurethane by Compound-18.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>228</ubClassIndex>
@@ -68574,7 +68549,6 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<APBonus>-9</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68583,7 +68557,7 @@
 		<uiIndex>2527</uiIndex>
 		<szItemName>Poly-18 Vest</szItemName>
 		<szLongItemName>Spec-18 MilEx Polyurethane Vest</szLongItemName>
-		<szItemDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. Has been improved with even more Polyurethane by Compound-18.</szItemDesc>
+		<szItemDesc>New advanced Polyurethane bodyarmor offers superior penetration resistance and high performance protection. Has been improved with a extra application of Compound-18.</szItemDesc>
 		<szBRName>Treated MilEx Polyurethane Vest</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -68604,7 +68578,6 @@
 		<NotBuyable>1</NotBuyable>
 		<AimBonus>-4</AimBonus>
 		<APBonus>-5</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-20</PercentBase>
 			<PercentCap>-8</PercentCap>
@@ -68627,7 +68600,7 @@
 		<szLongItemName>MilEx Polyurethane Vest</szLongItemName>
 		<szItemDesc>When shit gets real a cutting edge vest from MilEx is more likely to pull you out alive than any other vest on the market.</szItemDesc>
 		<szBRName>MilEx Polyurethane Vest</szBRName>
-		<szBRDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance . Designed to ensure high performance protection. It features a skeletonized fit, an integrated web platform, a one-handed quick-release/escape system, and elastic tensional bands for stability during periods of high activity.</szBRDesc>
+		<szBRDesc>The new advanced MilEx Polyurethane bodyarmor offer superior penetration resistance. Designed to ensure high performance protection. It features a skeletonized fit, an integrated web platform, a one-handed quick-release/escape system, and elastic tension bands for stability during periods of high activity.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>230</ubClassIndex>
@@ -68645,7 +68618,6 @@
 		<ShowStatus>1</ShowStatus>
 		<AimBonus>-4</AimBonus>
 		<APBonus>-4</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-20</PercentBase>
 			<PercentCap>-8</PercentCap>
@@ -68687,7 +68659,6 @@
 		<NotBuyable>1</NotBuyable>
 		<AimBonus>-3</AimBonus>
 		<APBonus>-5</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-15</PercentBase>
 			<PercentCap>-6</PercentCap>
@@ -68728,7 +68699,6 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<APBonus>-8</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68738,8 +68708,8 @@
 		<szItemName>Ballistic Mask</szItemName>
 		<szLongItemName>Ballistic Face Mask Level IIIA</szLongItemName>
 		<szItemDesc>Whether you want to enter the battlefield looking like a modern-day knight or an extra member of Slipknot, this face mask will keep your handsome feaures intact while scaring the crap out of local villagers.</szItemDesc>
-		<szBRName>Ballistic Face Mask Level IIIA</szBRName>
-		<szBRDesc>This Ballistic Face Mask has been designed for maximum comfort while providing total front facial protection with an ergonomic fit. Has additional padding at the forehead to maximize shock absorption and an adjustable six point elastic attachment system.</szBRDesc>
+		<szBRName>Ballistic Face Mask</szBRName>
+		<szBRDesc>This ballistic face mask has been designed to provide total facial protection in comfort. With an adjustable six point elastic attachment system it has additional padding at the forehead to maximize shock absorption.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>233</ubClassIndex>
@@ -68760,7 +68730,6 @@
 		<AimBonus>-1</AimBonus>
 		<UrbanCamoBonus>5</UrbanCamoBonus>
 		<PercentTunnelVision>5</PercentTunnelVision>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentCap>-2</PercentCap>
 			<PercentCounterForceAccuracy>-3</PercentCounterForceAccuracy>
