@@ -18223,7 +18223,7 @@
 		<szItemName>M1911A1 Hi-Cap</szItemName>
 		<szLongItemName>Colt High Capacity M1911A1</szLongItemName>
 		<szItemDesc>A popular M1911A1 variant designed to use double-stacked magazines.</szItemDesc>
-		<szBRName>Colt High Capacity M1911A1</szBRName>
+		<szBRName>Colt High-Cap M1911A1</szBRName>
 		<szBRDesc>A popular M1911A1 variant designed to use double-stacked magazines, with up to 14 rounds of .45 caliber power.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -59245,7 +59245,7 @@
 		<szItemName>Armalite AR-7</szItemName>
 		<szLongItemName>Armalite AR-7 Survival Rifle</szLongItemName>
 		<szItemDesc>Designed by Eugene Stonger and originally created for USAF pilots the AR-7 is good for target practice, though accuracy is a bit limited due to it's light weight and easily removed barrel.</szItemDesc>
-		<szBRName>Armalite AR-7 Survival Rifle</szBRName>
+		<szBRName>Armalite AR-7</szBRName>
 		<szBRDesc>This very light and affordable .22 rifle is popular with pilots and those trekking off the beaten track. Good for target practice. Includes a small scope.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2108</ubClassIndex>
@@ -74282,7 +74282,7 @@
 		<szLongItemName>Meprolight Reflex</szLongItemName>
 		<szItemDesc>An all-in-one electro-optical sight. Illumination is powered by ambient light during the day, by Tritium during darkness, and by battery power when needed in difficult lighting situations. Includes built-in visible and IR laser designators.</szItemDesc>
 		<szBRName>Meprolight Reflex</szBRName>
-		<szBRDesc>Meprolight - the only true "all-in-one-sight".  Soldiers on the modern battlefield require sights which facilitate quick action and instinctive accurate shooting ability. This unique multi-purpose "red-dot" reflex sight with laser pointers, boasts a large lens to assure rapid target acquisition.</szBRDesc>
+		<szBRDesc>The only true "all-in-one-sight". This unique multi-purpose red-dot reflex sight with laser pointers, boasts a large lens to assure rapid target acquisition and instinctive accurate shooting ability</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>64</nasAttachmentClass>
 		<AttachmentPoint>2097152</AttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
@@ -74311,7 +74311,6 @@
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
 		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -79463,7 +79462,6 @@
 		<Medical>1</Medical>
 		<MedicalKit>1</MedicalKit>
 		<PercentStatusDrainReduction>50</PercentStatusDrainReduction>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -79737,7 +79735,6 @@
 		<AimBonus>-2</AimBonus>
 		<APBonus>-3</APBonus>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -79757,7 +79754,6 @@
 		<ItemSize>11</ItemSize>
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -79789,7 +79785,6 @@
 		<StealthBonus>8</StealthBonus>
 		<HearingRangeBonus>3</HearingRangeBonus>
 		<VisionRangeBonus>9</VisionRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -79815,7 +79810,6 @@
 		<ShowStatus>1</ShowStatus>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -79848,7 +79842,6 @@
 		<ubCoolness>10</ubCoolness>
 		<Damageable>1</Damageable>
 		<ShowStatus>1</ShowStatus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -79877,7 +79870,6 @@
 		<CamoBonus>1</CamoBonus>
 		<HearingRangeBonus>2</HearingRangeBonus>
 		<VisionRangeBonus>5</VisionRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -79910,7 +79902,6 @@
 		<Electronic>1</Electronic>
 		<UrbanCamoBonus>2</UrbanCamoBonus>
 		<HearingRangeBonus>-1</HearingRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -79942,7 +79933,6 @@
 		<UrbanCamoBonus>7</UrbanCamoBonus>
 		<DesertCamoBonus>7</DesertCamoBonus>
 		<SnowCamoBonus>7</SnowCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -79979,7 +79969,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -79997,7 +79986,6 @@
 		<ubWeight>40</ubWeight>
 		<ItemSize>32</ItemSize>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80025,7 +80013,6 @@
 		<ShowStatus>1</ShowStatus>
 		<Electronic>1</Electronic>
 		<UrbanCamoBonus>1</UrbanCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80049,7 +80036,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80077,7 +80063,6 @@
 		<DesertCamoBonus>1</DesertCamoBonus>
 		<DayVisionRangeBonus>40</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80116,7 +80101,6 @@
 		<DesertCamoBonus>1</DesertCamoBonus>
 		<DayVisionRangeBonus>45</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>45</BrightLightVisionRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80150,7 +80134,6 @@
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>0</BrightLightVisionRangeBonus>
 		<StealthBonus>5</StealthBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80174,7 +80157,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80203,7 +80185,6 @@
 		<DesertCamoBonus>10</DesertCamoBonus>
 		<HearingRangeBonus>5</HearingRangeBonus>
 		<VisionRangeBonus>14</VisionRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80230,7 +80211,6 @@
 		<APBonus>5</APBonus>
 		<UrbanCamoBonus>7</UrbanCamoBonus>
 		<StealthBonus>3</StealthBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80276,7 +80256,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80319,14 +80298,13 @@
 		<StealthBonus>3</StealthBonus>	
 		<HearingRangeBonus>2</HearingRangeBonus>
 		<DayVisionRangeBonus>1</DayVisionRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>3027</uiIndex>
-		<szItemName>Guy Fawkes</szItemName>
+		<szItemName>Fawkes Mask</szItemName>
 		<szLongItemName>Guy Fawkes Mask</szLongItemName>
 		<szItemDesc>History is a lie. Religion is a control system. Money is a hoax. Debt is fiction. Media is manipulation. Goverment is a corporation. The system is a lie. And when exposing a crime is treated as committing a crime, you are ruled by criminals.</szItemDesc>
 		<szBRName>Guy Fawkes Mask</szBRName>
@@ -80347,7 +80325,6 @@
 		<APBonus>4</APBonus>
 		<StealthBonus>7</StealthBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80372,7 +80349,6 @@
 		<NotBuyable>1</NotBuyable>
 		<Jar>1</Jar>
 		<ContainsLiquid>1</ContainsLiquid>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80390,7 +80366,6 @@
 		<ubWeight>40</ubWeight>
 		<ItemSize>32</ItemSize>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80410,7 +80385,6 @@
 		<ItemSize>11</ItemSize>
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80429,7 +80403,6 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80448,7 +80421,6 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80467,7 +80439,6 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80486,7 +80457,6 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80505,7 +80475,6 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80524,7 +80493,6 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80543,7 +80511,6 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80566,7 +80533,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80586,7 +80552,6 @@
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
 		<Medical>1</Medical>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80609,7 +80574,6 @@
 		<Damageable>1</Damageable>
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -80634,7 +80598,6 @@
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
