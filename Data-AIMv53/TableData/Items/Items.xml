@@ -38233,10 +38233,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1206</uiIndex>
-		<szItemName>Cant.-Gren.</szItemName>
-		<szLongItemName>Canteen / Grenade Pouch Leg Rig</szLongItemName>
+		<szItemName>Cant./Gren.</szItemName>
+		<szLongItemName>Canteen/Grenade Pouch Leg Rig</szLongItemName>
 		<szItemDesc>A leg panel with a canteen pouch and two grenade pouches.This rig, features heavy duty side release buckles and fully adjustable double leg straps that are made with durable webbing with solid side release buckles and elastic loops to allow for expansion of the thigh straps during movement.</szItemDesc>
-		<szBRName>Canteen / Grenade Pouch Leg Rig</szBRName>
+		<szBRName>Canteen/ 'nade Pouch Leg Rig</szBRName>
 		<szBRDesc>This panel is equipped with a canteen pouch and two grenade pouches.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
@@ -49873,7 +49873,7 @@
 		<szLongItemName>ETAC Tactical Vest</szLongItemName>
 		<szItemDesc>A comprehensive aftermarket vest able to stow a varied number and sized objects for you on your latest sanction.</szItemDesc>
 		<szBRName>ETAC Tactical Vest</szBRName>
-		<szBRDesc>ETAC Tactical Vest are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment, this lightweight desert MARPAT camo tactial vest is made from hardened nylon and sheds moisture.</szBRDesc>
+		<szBRDesc>Designed to provide maximum durability in any environment, this lightweight desert MARPAT camo tactical vest is made from hardened nylon and sheds moisture.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>8</nasLayoutClass>
 		<AvailableAttachmentPoint>1</AvailableAttachmentPoint>
@@ -50089,7 +50089,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>1</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50122,7 +50121,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>1</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50155,7 +50153,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>1</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50188,7 +50185,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>1</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50221,7 +50217,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>3</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50254,7 +50249,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>1</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50286,16 +50280,15 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1664</uiIndex>
-		<szItemName>Documents</szItemName>
+		<szItemName>Doc' Pouch</szItemName>
 		<szLongItemName>ETAC Document Drop Pouch</szLongItemName>
-		<szItemDesc>Some supposedly can work in a paperless office, but in the field of combat, documents are still a neccessary evil that at times may just save your life.</szItemDesc>
+		<szItemDesc>Some can supposedly work in a paperless office, but in the field of combat, documents are still a neccessary evil that at times may just save your life.</szItemDesc>
 		<szBRName>ETAC Document Pouch</szBRName>
 		<szBRDesc>A document pouch from ETAC to compliment your existing ETAC rig.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -50319,7 +50312,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>1</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50347,7 +50339,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50376,7 +50367,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>3</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50406,14 +50396,13 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<StealthBonus>10</StealthBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1668</uiIndex>
-		<szItemName>Marpat Vest</szItemName>
+		<szItemName>Condor Vest</szItemName>
 		<szLongItemName>Condor Molle Vest</szLongItemName>
 		<szItemDesc>This MOLLE  tactical vest is mounted on tough mesh material for superior ventilation, and is equipped with a multitude of ammo pouches and holsters for all your firearms.</szItemDesc>
 		<szBRName>Condor Molle Vest</szBRName>
@@ -50436,7 +50425,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>20</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50469,7 +50457,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>1</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50502,7 +50489,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>2</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50513,7 +50499,7 @@
 		<szLongItemName>Small Drop Pouch</szLongItemName>
 		<szItemDesc>Our Drop Pouch attaches to any MOLLE compatible system or standard belt to hold vital gear.</szItemDesc>
 		<szBRName>Small Drop Pouch</szBRName>
-		<szBRDesc>Designed to provide expandable storage space on demand, the Small Drop Pouch remains folded and compact when not in use.</szBRDesc>
+		<szBRDesc>Designed to provide expandable storage space on demand, this pouch remains folded and compact when not in use.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -50535,7 +50521,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>2</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50568,7 +50553,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>1</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50577,7 +50561,7 @@
 		<uiIndex>1673</uiIndex>
 		<szItemName>Rifle Pouch</szItemName>
 		<szLongItemName>Rifle Ammo Pouch</szLongItemName>
-		<szItemDesc>Our Ammo Pouches attach to any MOLLE compatible system or standard belt to hold vital ammunition.</szItemDesc>
+		<szItemDesc>A MOLLE compatible ammo pouch to hold vital ammunition.</szItemDesc>
 		<szBRName>Rifle Ammo Pouch</szBRName>
 		<szBRDesc>Our Ammo Pouches attaches to any MOLLE compatible system or standard belt to hold vital ammunition.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -50601,7 +50585,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>1</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50633,7 +50616,6 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50642,7 +50624,7 @@
 		<uiIndex>1675</uiIndex>
 		<szItemName>Revolver Pouch</szItemName>
 		<szLongItemName>Revolver Pouch</szLongItemName>
-		<szItemDesc>M81 US Woodland Nylon Revolver pouch made in China. Fits most Molle Systems.</szItemDesc>
+		<szItemDesc>A Nylon Revolver pouch made in China in Woodland Camo. Fits most Molle Systems.</szItemDesc>
 		<szBRName>Revolver Pouch</szBRName>
 		<szBRDesc>M81 US Woodland Nylon Revolver pouch made in China. Fits most Molle Systems.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -50666,7 +50648,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>3</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50696,7 +50677,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>3</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50799,10 +50779,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1680</uiIndex>
-		<szItemName>AR Pouch</szItemName>
-		<szLongItemName>Modular AR Mag</szLongItemName>
-		<szItemDesc>The NAS MOLLE Stacker Magazine Pouch is made to fit (2) 5.56 30 round magazines M16/M4 series rifles</szItemDesc>
-		<szBRName>Stacked Double AR Pouch</szBRName>
+		<szItemName>Dbl AR Pouch</szItemName>
+		<szLongItemName>Stacked Double Modular AR Mag</szLongItemName>
+		<szItemDesc>This MOLLE Stacker Magazine Pouch is made to fit (2) 5.56 30 round magazines M16/M4 series rifles</szItemDesc>
+		<szBRName>Stacked Dbl AR Pouch</szBRName>
 		<szBRDesc>The TAG MOLLE Stacker Magazine Pouch is made to fit (2) 5.56 30 round magazines M16/M4 series rifles</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
@@ -50983,10 +50963,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1686</uiIndex>
-		<szItemName>T. Grenade</szItemName>
+		<szItemName>Tri Grenade</szItemName>
 		<szLongItemName>ETAC Triple Grenade Pouch</szLongItemName>
 		<szItemDesc>You'll need something to carry those extra grenades when you have no qualms in blowing up your enemy three times over.</szItemDesc>
-		<szBRName>ETAC Triple Grenade Pouch</szBRName>
+		<szBRName>ETAC Tri Grenade Pouch</szBRName>
 		<szBRDesc>ETAC Grenade Pouches are the new standard in grenade storage for the next generation warrior.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
@@ -51195,10 +51175,10 @@
 	<ITEM>
 		<uiIndex>1693</uiIndex>
 		<szItemName>Condor Vest</szItemName>
-		<szLongItemName>Condor Assault Vest</szLongItemName>
-		<szItemDesc>When the job is going to get messy, you need the Heavy Assault Vest. The vest itself is a MOLLE system which means that shooters can configure the vest to their own specifications. Camo: Desert MARPAT.</szItemDesc>
-		<szBRName>Condor Heavy Assault Vest</szBRName>
-		<szBRDesc>When the job is going to get messy, you need the Heavy Assault Vest. The vest itself is a MOLLE system which means that shooters can configure the vest to their own specifications. Camo: Desert MARPAT.</szBRDesc>
+		<szLongItemName>Condor Heavy Assault Vest</szLongItemName>
+		<szItemDesc>A comprehensive and highly customisable MARPAT camouflaged MOLLE vest.</szItemDesc>
+		<szBRName>Condor Assault Vest</szBRName>
+		<szBRDesc>When the job is going to get messy, you need the Heavy Assault Vest. The MARPAT vest itself is a MOLLE system which means you can configure it to your own specifications.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>8</nasLayoutClass>
 		<AvailableAttachmentPoint>1</AvailableAttachmentPoint>
@@ -71984,10 +71964,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2685</uiIndex>
-		<szItemName>T. AR Mag</szItemName>
+		<szItemName>Tri AR Mag</szItemName>
 		<szLongItemName>ETAC Triple AR Mag Pouch</szLongItemName>
-		<szItemDesc>ETAC AR Mag pouches are the new standard in Magazine storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
-		<szBRName>ETAC Triple AR Mag Pouch</szBRName>
+		<szItemDesc>This lightweight desert MARPAT camo pouch carries three mags for your assault rifle.</szItemDesc>
+		<szBRName>ETAC Tri AR Mag Pouch</szBRName>
 		<szBRDesc>ETAC AR Mag pouches are the new standard in Magazine storage for the next generation warrior. Designed to provide maximum durability in any environment.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
@@ -72010,7 +71990,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>1</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72019,9 +71998,9 @@
 		<uiIndex>2686</uiIndex>
 		<szItemName>Revolver Pouch</szItemName>
 		<szLongItemName>ETAC Revolver Pouch</szLongItemName>
-		<szItemDesc>ETAC Revolver pouch is the new standard in revolver storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
+		<szItemDesc>You may be the kind of guy who rocks it old style with a revolver, but there's no excuse not to house it in a fine pouch like this one from ETAC.</szItemDesc>
 		<szBRName>ETAC Revolver Pouch</szBRName>
-		<szBRDesc>ETAC Revolver pouch is the new standard in revolver storage for the next generation warrior.</szBRDesc>
+		<szBRDesc>House your favourite old-fashioned side arm with this camouflaged pouch from ETAC.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>8192</nasAttachmentClass>
@@ -72043,7 +72022,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>3</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72076,7 +72054,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>2</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72109,7 +72086,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>2</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72142,7 +72118,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>1</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72175,7 +72150,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>3</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72208,7 +72182,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>2</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72236,7 +72209,6 @@
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<CamoBonus>3</CamoBonus>
 		<DesertCamoBonus>3</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72264,7 +72236,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>25</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
