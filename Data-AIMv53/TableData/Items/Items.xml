@@ -47392,7 +47392,6 @@
 		<ubCoolness>1</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>22</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47416,7 +47415,6 @@
 		<ubCoolness>1</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>23</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47440,7 +47438,6 @@
 		<ubCoolness>1</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>24</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47464,7 +47461,6 @@
 		<ubCoolness>1</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>25</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47489,7 +47485,6 @@
 		<ubCoolness>1</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>26</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47514,7 +47509,6 @@
 		<ubCoolness>1</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>27</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47538,7 +47532,6 @@
 		<ubCoolness>1</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>28</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47562,7 +47555,6 @@
 		<ubCoolness>1</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>29</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47587,7 +47579,6 @@
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<Canteen>1</Canteen>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>30</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47611,7 +47602,6 @@
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<BR_NewInventory>30</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>31</FoodType>
 		<Canteen>1</Canteen>
 		<STAND_MODIFIERS />
@@ -47636,7 +47626,6 @@
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<BR_NewInventory>14</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>32</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47659,7 +47648,6 @@
 		<usPrice>3</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>33</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47683,7 +47671,6 @@
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<DrugType>1</DrugType>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>34</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47707,7 +47694,6 @@
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<DrugType>1</DrugType>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>35</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47732,7 +47718,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<DrugType>1025</DrugType>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>36</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47764,7 +47749,6 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Hardware>1</Hardware>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -47787,7 +47771,6 @@
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<ShowStatus>1</ShowStatus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<clothestype>18</clothestype>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47840,7 +47823,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BR_ROF>30</BR_ROF>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -47864,7 +47846,6 @@
 		<ubCoolness>1</ubCoolness>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -47923,7 +47904,6 @@
 		<ubCoolness>1</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>37</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47947,7 +47927,6 @@
 		<ubCoolness>1</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>38</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -49516,7 +49495,6 @@
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BR_ROF>40</BR_ROF>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49578,7 +49556,6 @@
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
 		<TripWire>1</TripWire>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<usActionItemFlag>17</usActionItemFlag>
 		<buddyitem>1524</buddyitem>
 		<STAND_MODIFIERS />
@@ -49607,7 +49584,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49634,7 +49610,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49662,7 +49637,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49690,7 +49664,6 @@
 		<BR_NewInventory>0</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49718,7 +49691,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>3</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49746,7 +49718,6 @@
 		<BR_NewInventory>0</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<CamoBonus>3</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49773,7 +49744,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49800,7 +49770,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49829,7 +49798,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49862,7 +49830,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>3</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -61345,7 +61312,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<SciFi>1</SciFi>
+		<SciFi>0</SciFi>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
@@ -61358,11 +61325,42 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2154</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2154</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>Blaser LR</szItemName>
+		<szLongItemName>Blaser R8 Long Range</szLongItemName>
+		<szItemDesc>This top of the line hunting rifle will nullify those before they even realise they are being targeted until it is too late.</szItemDesc>
+		<szBRName>Blaser R8 Long Range</szBRName>
+		<szBRDesc>Make .338 cartridges reach their full, deadly potential with this 27 inch barrelled hunting rifle along with Blaser's legendary receiverless straight-pull design.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>778</ubClassIndex>
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
+  		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>691</ubGraphicNum>
+		<ubWeight>50</ubWeight>
+		<ItemSize>8</ItemSize>
+		<usPrice>7900</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>0</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<BR_ROF>24</BR_ROF>
+		<DefaultAttachment>208</DefaultAttachment>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<DamageChance>10</DamageChance>
+		<DirtIncreaseFactor>65.0</DirtIncreaseFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72712,7 +72710,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<HearingRangeBonus>5</HearingRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75011,7 +75008,6 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76094,7 +76090,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Jar>1</Jar>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76136,7 +76131,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2877</uiIndex>
-		<szItemName>SMR</szItemName>
+		<szItemName>Reflex SMR</szItemName>
 		<szLongItemName>Reflex Sight, SMR</szLongItemName>
 		<szItemDesc>This reflex sight enhances target acquisition and can be mounted on most firearms.</szItemDesc>
 		<szBRName>Reflex Sight, SMR</szBRName>
@@ -76632,19 +76627,18 @@
 		<ubWeight>1</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>20</ItemSize>
-		<usPrice>28</usPrice>
+		<usPrice>10</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<ItemFlag>4096</ItemFlag>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2893</uiIndex>
-		<szItemName>Porn</szItemName>
+		<szItemName>Gun Mag</szItemName>
 		<szLongItemName>Guns&amp;Girls Nr.21</szLongItemName>
 		<szItemDesc>40 pages of pure action that specializes in portraying female tactical operators from an ultra-sexy perspective.</szItemDesc>
 		<szBRName>Porno Magazine</szBRName>
@@ -76656,13 +76650,12 @@
 		<ubWeight>1</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>20</ItemSize>
-		<usPrice>28</usPrice>
+		<usPrice>10</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<ItemFlag>4096</ItemFlag>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76681,11 +76674,10 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>20</ItemSize>
 		<usPrice>25</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>12</ubCoolness>
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<ItemFlag>4096</ItemFlag>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76704,12 +76696,11 @@
 		<ubWeight>1</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>20</ItemSize>
-		<usPrice>18</usPrice>
+		<usPrice>12</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<ItemFlag>4096</ItemFlag>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76728,11 +76719,10 @@
 		<ubWeight>1</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>20</ItemSize>
-		<usPrice>40</usPrice>
+		<usPrice>10</usPrice>
 		<ubCoolness>10</ubCoolness>
 		<Damageable>1</Damageable>
 		<ItemFlag>4096</ItemFlag>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76750,11 +76740,10 @@
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>21</ItemSize>
-		<usPrice>25</usPrice>
+		<usPrice>19</usPrice>
 		<ubCoolness>10</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76898,10 +76887,9 @@
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>21</ItemSize>
-		<usPrice>32</usPrice>
+		<usPrice>25</usPrice>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76919,10 +76907,9 @@
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>21</ItemSize>
-		<usPrice>23</usPrice>
+		<usPrice>19</usPrice>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76940,10 +76927,9 @@
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>21</ItemSize>
-		<usPrice>18</usPrice>
+		<usPrice>19</usPrice>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76961,11 +76947,10 @@
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>21</ItemSize>
-		<usPrice>21</usPrice>
+		<usPrice>19</usPrice>
 		<ubCoolness>10</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76986,8 +76971,6 @@
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<Sinks>1</Sinks>
-		<SciFi>1</SciFi>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -77009,8 +76992,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
-		<SciFi>1</SciFi>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -77031,8 +77012,7 @@
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<Sinks>1</Sinks>
-		<SciFi>1</SciFi>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<SciFi>0</SciFi>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -77055,7 +77035,6 @@
 		<ubCoolness>1</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>12</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -77079,7 +77058,6 @@
 		<ubCoolness>1</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>13</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -77103,7 +77081,6 @@
 		<ubCoolness>1</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>18</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -77127,7 +77104,6 @@
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>11</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -77151,7 +77127,6 @@
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>12</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -77174,7 +77149,6 @@
 		<usPrice>2</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>18</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -77283,7 +77257,6 @@
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -77330,7 +77303,6 @@
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -77937,7 +77909,6 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<Bipod>18</Bipod>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -79260,7 +79231,6 @@
 		<ItemSize>12</ItemSize>
 		<usPrice>400</usPrice>
 		<ubCoolness>4</ubCoolness>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -79280,7 +79250,6 @@
 		<ItemSize>17</ItemSize>
 		<usPrice>400</usPrice>
 		<ubCoolness>4</ubCoolness>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -79305,7 +79274,6 @@
 		<Attachment>1</Attachment>
 		<Medical>1</Medical>
 		<DrugType>4</DrugType>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -79386,7 +79354,6 @@
 		<Attachment>1</Attachment>
 		<BigGunList>0</BigGunList>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />	
@@ -79415,7 +79382,6 @@
 		<PercentStatusDrainReduction>-100</PercentStatusDrainReduction>
 		<Hardware>1</Hardware>
 		<Toolkit>1</Toolkit>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DisarmModifier>10</DisarmModifier>
 		<RepairModifier>20</RepairModifier>
 		<STAND_MODIFIERS />
@@ -79443,7 +79409,6 @@
 		<BR_NewInventory>5</BR_NewInventory>
 		<PercentStatusDrainReduction>-100</PercentStatusDrainReduction>
 		<FirstAidKit>1</FirstAidKit>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />

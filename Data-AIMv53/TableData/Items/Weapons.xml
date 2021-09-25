@@ -18548,4 +18548,40 @@
 		<usOverheatingDamageThreshold>21240</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>118</usOverheatingSingleShotTemperature>
 	</WEAPON>
+		<WEAPON>
+		<uiIndex>2154</uiIndex>
+		<szWeaponName>Blaser R8 Long Range</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>5</ubWeaponType>
+		<ubCalibre>25</ubCalibre>
+		<ubReadyTime>19</ubReadyTime>
+		<ubShotsPer4Turns>9.84</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>42</ubImpact>
+		<ubDeadliness>76</ubDeadliness>
+		<bAccuracy>12</bAccuracy>
+		<ubMagSize>5</ubMagSize>
+		<usRange>980</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>100</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>440</sSound>
+		<sSilencedBurstSound>127</sSilencedBurstSound>
+		<sReloadSound>102</sReloadSound>
+		<sLocknLoadSound>108</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>20</bBurstAP>
+		<APsToReload>32</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>28</MaxDistForMessyDeath>
+		<APsToReloadManually>28</APsToReloadManually>
+		<ManualReloadSound>477</ManualReloadSound>
+		<nAccuracy>90</nAccuracy>
+		<ubAimLevels>8</ubAimLevels>
+		<Handling>18</Handling>
+		<usOverheatingJamThreshold>30000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>4420</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>221</usOverheatingSingleShotTemperature>
+	</WEAPON>
 </WEAPONLIST>
