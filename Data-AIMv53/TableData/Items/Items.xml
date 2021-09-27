@@ -31601,7 +31601,6 @@
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<ProjectionFactor>1.6</ProjectionFactor>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -31637,7 +31636,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<PercentAPReduction>20</PercentAPReduction>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
 		</STAND_MODIFIERS>
@@ -31683,7 +31681,6 @@
 		<BrightLightVisionRangeBonus>70</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
 		<ScopeMagFactor>7.0</ScopeMagFactor>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -31717,7 +31714,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>-5</ToHitBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-40</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
@@ -31756,7 +31752,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>-5</ToHitBonus>
 		<PercentReadyTimeAPReduction>5</PercentReadyTimeAPReduction>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-40</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
@@ -31789,7 +31784,6 @@
 		<BigGunList>1</BigGunList>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -31823,7 +31817,6 @@
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<PercentReadyTimeAPReduction>5</PercentReadyTimeAPReduction>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentHandling>-10</PercentHandling>
 			<PercentMaxCounterForce>70</PercentMaxCounterForce>
@@ -31892,7 +31885,6 @@
 		<usPrice>250</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -31915,7 +31907,6 @@
 		<ubCoolness>2</ubCoolness>
 		<WaterDamages>0</WaterDamages>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -31949,7 +31940,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Hardware>1</Hardware>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -31975,7 +31965,6 @@
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
 		<ItemFlag>4096</ItemFlag>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -32000,7 +31989,6 @@
 		<Metal>1</Metal>
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -32024,7 +32012,6 @@
 		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -32045,7 +32032,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>25</usPrice>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -32069,7 +32055,6 @@
 		<Metal>1</Metal>
 		<BigGunList>1</BigGunList>
 		<ItemFlag>4096</ItemFlag>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -32096,7 +32081,6 @@
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
 		<ItemFlag>4096</ItemFlag>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -60365,16 +60349,15 @@
 		<uiIndex>2136</uiIndex>
 		<szItemName>M3A1</szItemName>
 		<szLongItemName>M3A1</szLongItemName>
-		<szItemDesc>The 'Grease Gun' was a cheap and reasonably controllable SMG which drew lessons learned in later years of WWII. The magazine well is shaped for use as a grip.</szItemDesc>
+		<szItemDesc>The 'Grease Gun' was a cheap and reasonably controllable SMG which drew lessons learned in WWII. The magazine well is shaped for use as a grip.</szItemDesc>
 		<szBRName>M3A1</szBRName>
-		<szBRDesc>Cheap and reasonably controllable, the M3A1 drew from lessons learned during WWII, and did see some use towards the end of the conflict favoured by tank crews or those in tight spaces.</szBRDesc>
+		<szBRDesc>Cheap and reasonably controllable, the M3A1 drew from lessons learned in WWII, and saw use towards the end of the conflict especially by tank crews or those in tight spaces. Its dependability throughout the years saw it being used even as late as the Gulf War, once again by tank crews.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>2136</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>672</ubGraphicNum>
