@@ -10439,10 +10439,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>350</uiIndex>
-		<szItemName>SG540</szItemName>
-		<szLongItemName>SIG SG540</szLongItemName>
+		<szItemName>SG 540</szItemName>
+		<szLongItemName>SIG SG 540</szLongItemName>
 		<szItemDesc>In addition to seeing service world-wide, the SG540 has been a prototype for the development of several other firearms.</szItemDesc>
-		<szBRName>SIG SG540</szBRName>
+		<szBRName>SIG SG 540</szBRName>
 		<szBRDesc>Quality made in Switzerland. Built on an AK-style platform, this assault rifle has gone on to father little variants of its own.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -21344,11 +21344,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>712</uiIndex>
-		<szItemName>SG542</szItemName>
-		<szLongItemName>SIG SG542</szLongItemName>
-		<szItemDesc>The 7.62mm NATO brother model to the SIG540, the SG542 is standard army issue in many nations.</szItemDesc>
-		<szBRName>SIG SG542</szBRName>
-		<szBRDesc>Swiss-made weapons are the standard for dependability, and the SG542 is no exception.</szBRDesc>
+		<szItemName>SG 542</szItemName>
+		<szLongItemName>SIG SG 542</szLongItemName>
+		<szItemDesc>The 7.62mm NATO brother model to the SIG 540, the SG 542 is standard army issue in many nations.</szItemDesc>
+		<szBRName>SIG SG 542</szBRName>
+		<szBRDesc>Swiss-made weapons are the standard for dependability, and the SG 542 is no exception.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>712</ubClassIndex>
@@ -21380,9 +21380,9 @@
 	<ITEM>
 		<uiIndex>713</uiIndex>
 		<szItemName>SG550</szItemName>
-		<szLongItemName>SIG SG550</szLongItemName>
+		<szLongItemName>SIG SG 550</szLongItemName>
 		<szItemDesc>A Swiss 5.56mm rifle with removable bipod and integral flash suppressor, this one will leave your enemies like dairy products of a similar nationality.</szItemDesc>
-		<szBRName>SIG SG550</szBRName>
+		<szBRName>SIG SG 550</szBRName>
 		<szBRDesc>A Swiss 5.56mm rifle with removable bipod and integral flash suppressor, this one will leave your enemies like dairy products of a similar nationality.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -21423,10 +21423,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>714</uiIndex>
-		<szItemName>SG551</szItemName>
-		<szLongItemName>SIG SG551 SWAT</szLongItemName>
+		<szItemName>SG 551</szItemName>
+		<szLongItemName>SIG SG 551 SWAT</szLongItemName>
 		<szItemDesc>The shorter barrel of this SIG 550 variant is a heck of a lot more convenient in close quarters.</szItemDesc>
-		<szBRName>SIG SG551 SWAT</szBRName>
+		<szBRName>SIG SG 551 SWAT</szBRName>
 		<szBRDesc>The shorter barrel of this SIG 550 variant is a heck of a lot more convenient in closer quarters. Includes flash suppressor.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -21466,11 +21466,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>715</uiIndex>
-		<szItemName>SG552</szItemName>
-		<szLongItemName>SIG SG552 Commando</szLongItemName>
+		<szItemName>SG 552</szItemName>
+		<szLongItemName>SIG SG 552 Commando</szLongItemName>
 		<szItemDesc>The scaled down version of the SIG 550, this 5.56mm carbine is excellent for CQB, with integrated flash hider and removable bipod.</szItemDesc>
-		<szBRName>SIG SG552 Commando</szBRName>
-		<szBRDesc>The 552 is a extraordinarily well made carbine. Equipped with a side folding skeletonized stock and a flash suppressor.  Order one now and get a free folding bipod with purchase!</szBRDesc>
+		<szBRName>SIG SG 552 Commando</szBRName>
+		<szBRDesc>The 552 is a extraordinarily well made carbine. Equipped with a side folding skeletonized stock and a flash suppressor.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>715</ubClassIndex>
@@ -50418,7 +50418,7 @@
 		<szLongItemName>3.11 Shotgun Ammo Pouch</szLongItemName>
 		<szItemDesc>Versatile shotgun pouch gives you quick access to the rounds you need.</szItemDesc>
 		<szBRName>3.11 Shotgun Ammo Pouch</szBRName>
-		<szBRDesc>The quick and simple 3.11 Shotgun Ammo Pouch provides easy and reliable access to standard shotgun rounds.</szBRDesc>
+		<szBRDesc>This Shotgun Ammo Pouch provides easy and reliable access to standard shotgun rounds to your MOLLE system.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -51392,7 +51392,6 @@
 		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51463,7 +51462,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>5</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51492,7 +51490,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>5</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51520,7 +51517,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51549,7 +51545,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>5</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51575,7 +51570,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>6</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<SleepModifier>20</SleepModifier>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -57038,10 +57032,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2056</uiIndex>
-		<szItemName>SG540 C-Mag</szItemName>
-		<szLongItemName>SIG SG540 C-Mag</szLongItemName>
+		<szItemName>SG 540 C-Mag</szItemName>
+		<szLongItemName>SIG SG 540 C-Mag</szLongItemName>
 		<szItemDesc>This quality rifle has been equipped with a C-Mag adapter.</szItemDesc>
-		<szBRName>SIG SG540 C-Mag</szBRName>
+		<szBRName>SIG SG 540 C-Mag</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2056</ubClassIndex>
@@ -57084,9 +57078,9 @@
 	<ITEM>
 		<uiIndex>2057</uiIndex>
 		<szItemName>SG550 C-Mag</szItemName>
-		<szLongItemName>SIG SG550 C-Mag</szLongItemName>
+		<szLongItemName>SIG SG 550 C-Mag</szLongItemName>
 		<szItemDesc>An advanced Swiss assault rifle with integral flash suppresor.</szItemDesc>
-		<szBRName>SIG SG550 C-Mag</szBRName>
+		<szBRName>SIG SG 550 C-Mag</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2057</ubClassIndex>
@@ -57130,10 +57124,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2058</uiIndex>
-		<szItemName>SG551 C-Mag</szItemName>
-		<szLongItemName>SIG SG551 SWAT C-Mag</szLongItemName>
+		<szItemName>SG 551 C-Mag</szItemName>
+		<szLongItemName>SIG SG 551 SWAT C-Mag</szLongItemName>
 		<szItemDesc>The shorter barrel of this SIG 550 variant is a heck of a lot more convenient in close quarters.</szItemDesc>
-		<szBRName>SIG SG551 SWAT C-Mag</szBRName>
+		<szBRName>SIG SG 551 SWAT C-Mag</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2058</ubClassIndex>
@@ -57175,10 +57169,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2059</uiIndex>
-		<szItemName>SG552 C-Mag</szItemName>
-		<szLongItemName>SIG SG552 C-Mag</szLongItemName>
+		<szItemName>SG 552 C-Mag</szItemName>
+		<szLongItemName>SIG SG 552 C-Mag</szLongItemName>
 		<szItemDesc>The scaled down version of the SIG 550, this 5.56mm carbine is excellent for CQB, with integrated flash hider.</szItemDesc>
-		<szBRName>SIG SG552 C-Mag</szBRName>
+		<szBRName>SIG SG 552 C-Mag</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2059</ubClassIndex>
@@ -61163,7 +61157,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BR_ROF>28</BR_ROF>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
@@ -68835,7 +68828,6 @@
 		<DesertCamoBonus>-20</DesertCamoBonus>
 		<SnowCamoBonus>20</SnowCamoBonus>
 		<WaterDamages>1</WaterDamages>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-100</PercentBase>
 			<PercentCap>-100</PercentCap>
@@ -68882,7 +68874,7 @@
 		<szLongItemName>"Gorka" Uniform</szLongItemName>
 		<szItemDesc>Represent Russia in their hardiest of Anoraks. This loose fitting coat will keep you dry from the heaviest of rain and the coldest of winds.</szItemDesc>
 		<szBRName>"Gorka" Uniform</szBRName>
-		<szBRDesc>Our Russian Gorka uniforms are the real deal, and have a proven test record with the Spetsnaz and mountain troops. Features double elastic webbing sleeves and legs for keeping out the most determined debris or creey crawlies.</szBRDesc>
+		<szBRDesc>Our Russian Gorka uniforms are the real deal, and have a proven test record with the Spetsnaz and mountain troops. Features double elastic webbing sleeves and legs for keeping out the most determined debris or creepy crawlies.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>238</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -68897,7 +68889,6 @@
 		<ShowStatus>1</ShowStatus>
 		<CamoBonus>18</CamoBonus>
 		<StealthBonus>10</StealthBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68927,7 +68918,6 @@
 		<NotBuyable>1</NotBuyable>
 		<APBonus>-3</APBonus>
 		<CamoBonus>20</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68957,7 +68947,6 @@
 		<NotBuyable>1</NotBuyable>
 		<APBonus>-3</APBonus>
 		<CamoBonus>20</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68988,7 +68977,6 @@
 		<AimBonus>-2</AimBonus>
 		<APBonus>-1</APBonus>
 		<CamoBonus>20</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -69031,7 +69019,6 @@
 		<AimBonus>-2</AimBonus>
 		<APBonus>-1</APBonus>
 		<CamoBonus>20</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -70319,7 +70306,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>5</CamoBonus>
 		<UrbanCamoBonus>10</UrbanCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -70346,7 +70332,6 @@
 		<SciFi>1</SciFi>
 		<CamoBonus>8</CamoBonus>
 		<DesertCamoBonus>8</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -70372,7 +70357,6 @@
 		<ShowStatus>1</ShowStatus>
 		<SciFi>1</SciFi>
 		<DesertCamoBonus>3</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -70400,7 +70384,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>3</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -70427,7 +70410,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>3</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -70455,7 +70437,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>3</CamoBonus>
 		<DesertCamoBonus>3</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -70483,7 +70464,6 @@
 		<CamoBonus>7</CamoBonus>
 		<UrbanCamoBonus>7</UrbanCamoBonus>
 		<DesertCamoBonus>7</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
