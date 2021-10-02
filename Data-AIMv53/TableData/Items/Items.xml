@@ -37412,7 +37412,7 @@
 		<uiIndex>1182</uiIndex>
 		<szItemName>PEM</szItemName>
 		<szLongItemName>PEM Scope</szLongItemName>
-		<szItemDesc>Russian WW-II era scope.</szItemDesc>
+		<szItemDesc>The PE or PEM was a Russian WW-II era scope originally based on a German design for Russian sniper rifles.</szItemDesc>
 		<szBRName>PEM Scope</szBRName>
 		<szBRDesc>Simply THE scope to mount onto the Mosin-Nagant rifle.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -56248,9 +56248,10 @@
 		<szLongItemName>Simonov AVS-36</szLongItemName>
 		<szItemDesc>An interesting Soviet automatic rifle in 7.62x54R caliber which is fun to shoot in full auto, but not encouraged if accuracy is required.</szItemDesc>
 		<szBRName>Simonov AVS-36</szBRName>
-		<szBRDesc>This rare self-loading automatic rifle has an odd ejection mechanism, which ejects the empty cases upwards, high and far. Therefore it will only accept the ancient PEM scope. It is still a formidable weapon.</szBRDesc>
+		<szBRDesc>This automatic rifle has an odd ejection mechanism, which throws empty cases upwards, far and high. Therefore it will only accept old PEM or PU scopes. In used condition, with a customised 10 round magazine, this is a rare piece but still a formidable weapon and very collectible.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2036</ubClassIndex>
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>				<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>562949953421312</AvailableAttachmentPoint>	<!-- Scopes - PEM -->
 		<AvailableAttachmentPoint>1125899906842624</AvailableAttachmentPoint>	<!-- Scopes - PU -->
@@ -56259,7 +56260,7 @@
 		<ubGraphicNum>453</ubGraphicNum>
 		<ubWeight>42</ubWeight>
 		<ItemSize>8</ItemSize>
-		<usPrice>2850</usPrice>
+		<usPrice>3850</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bReliability>-2</bReliability>
 		<bRepairEase>-2</bRepairEase>
