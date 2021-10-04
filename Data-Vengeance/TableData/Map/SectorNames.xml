@@ -991,8 +991,8 @@
     <SectorGrid>G14</SectorGrid>
     <szUnexploredName>Alma</szUnexploredName>
     <szDetailedUnexploredName>Alma</szDetailedUnexploredName>
-    <szExploredName>Alma</szExploredName>
-    <szDetailedExploredName>Alma</szDetailedExploredName>
+    <szExploredName>Alma Farm</szExploredName>
+    <szDetailedExploredName>Alma Farm</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
@@ -1430,10 +1430,10 @@
    </SECTOR>
    <SECTOR>
     <SectorGrid>J14</SectorGrid>
-    <szUnexploredName>Farm, road</szUnexploredName>
-    <szDetailedUnexploredName>Farm, road</szDetailedUnexploredName>
-    <szExploredName>Farm, road</szExploredName>
-    <szDetailedExploredName>Farm, road</szDetailedExploredName>
+    <szUnexploredName>Rural, road</szUnexploredName>
+    <szDetailedUnexploredName>Rural, road</szDetailedUnexploredName>
+    <szExploredName>Test Site</szExploredName>
+    <szDetailedExploredName>Testing Site</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>210</usNaturalDirt>
    </SECTOR>
