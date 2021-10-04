@@ -17223,9 +17223,9 @@
 		<uiIndex>606</uiIndex>
 		<szItemName>AK-102</szItemName>
 		<szLongItemName>AK-102</szLongItemName>
-		<szItemDesc>AK's are spreading like wildfire! This carbine was designed for export and makes use more durable and weight saving materials.</szItemDesc>
+		<szItemDesc>AK's are spreading like wildfire! This carbine was designed for export and makes use of more durable and weight saving materials.</szItemDesc>
 		<szBRName>AK-102</szBRName>
-		<szBRDesc>While not as compact as the AKS-74U, this carbine's marginally longer barrel offers better performance.</szBRDesc>
+		<szBRDesc>This export AK carbine fires 5.56 NATO rounds and positions itself between the smaller AKS-74U and full-sized rifles.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>606</ubClassIndex>
@@ -17348,7 +17348,7 @@
 		<szLongItemName>AK-105</szLongItemName>
 		<szItemDesc>This AK-100 variant fires the 5.45x39mm cartridge.</szItemDesc>
 		<szBRName>AK-105</szBRName>
-		<szBRDesc>The world just could not do without another Avtomat-Kalashnikova carbine, this time in 5.45mm.</szBRDesc>
+		<szBRDesc>Another Avtomat-Kalashnikova carbine chambered for the dependable 5.45x39mm round, this genuine Russian item has been treated with protective coatings and has polymer stock and grip.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>609</ubClassIndex>
@@ -57340,15 +57340,13 @@
 		<uiIndex>2063</uiIndex>
 		<szItemName>S&amp;W M&amp;P15R</szItemName>
 		<szLongItemName>S&amp;W M&amp;P15R</szLongItemName>
-		<szItemDesc>The Smith&amp;Wesson M&amp;P15R is a conversion of a regular M4A1 carbine to the calibre 5.45x39.</szItemDesc>
+		<szItemDesc>The Smith&amp;Wesson M&amp;P15R is an M4 carbine clone designed to fire 5.45x39 calibers.</szItemDesc>
 		<szBRName>S&amp;W M&amp;P15R</szBRName>
 		<szBRDesc>This Smith&amp;Wesson offering is chambered for the less expensive and abundant 5.45x39mm cartridge and comes with a flat-top receiver and the M4-style post front sight that accepts optics of your choice.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2063</ubClassIndex>
-		<ubClassIndex>633</ubClassIndex>
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
-		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
