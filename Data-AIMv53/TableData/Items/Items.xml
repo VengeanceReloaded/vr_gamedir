@@ -61017,13 +61017,12 @@
 		<uiIndex>2148</uiIndex>
 		<szItemName>CT-40</szItemName>
 		<szLongItemName>Taurus CT-40</szLongItemName>
-		<szItemDesc>This carbine in .40 S&amp;W fills the gap between submachinegun and assault rifle.</szItemDesc>
+		<szItemDesc>This carbine in .40 S&amp;W was created for Brazilian police that required range to hit dangerous offenders without using different ammo from their pistols.</szItemDesc>
 		<szBRName>Taurus CT-40</szBRName>
-		<szBRDesc>Developed for Brazil's law enforcement agencies this carbine in .40 S&amp;W fills the gap between submachinegun and assault rifle.</szBRDesc>
+		<szBRDesc>Based on the MT-40 SMG, this carbine was developed for Brazil's law enforcement agencies that required longer range while still using the same pistol caliber.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
-		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>524288</AvailableAttachmentPoint>	<!-- Sights - Aperture Sights -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
@@ -61035,7 +61034,7 @@
 		<ubGraphicNum>685</ubGraphicNum>
 		<ubWeight>39</ubWeight>
 		<ItemSize>6</ItemSize>
-		<usPrice>1460</usPrice>
+		<usPrice>1260</usPrice>
 		<ubCoolness>4</ubCoolness>
 		<bReliability>1</bReliability>
 		<Damageable>1</Damageable>
