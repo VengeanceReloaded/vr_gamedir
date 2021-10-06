@@ -25519,7 +25519,6 @@
 		<NotBuyable>1</NotBuyable>
 		<BigGunList>1</BigGunList>
 		<APBonus>-4</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -25548,7 +25547,6 @@
 		<BigGunList>1</BigGunList>
 		<AimBonus>-2</AimBonus>
 		<APBonus>-2</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -25590,7 +25588,6 @@
 		<NotBuyable>1</NotBuyable>
 		<BigGunList>1</BigGunList>
 		<AimBonus>-1</AimBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentCap>-2</PercentCap>
 			<PercentCounterForceAccuracy>-3</PercentCounterForceAccuracy>
@@ -25621,7 +25618,6 @@
 		<NotBuyable>1</NotBuyable>
 		<BigGunList>1</BigGunList>
 		<APBonus>-4</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -25650,7 +25646,6 @@
 		<BigGunList>1</BigGunList>
 		<AimBonus>-3</AimBonus>
 		<APBonus>-4</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-15</PercentBase>
 			<PercentCap>-6</PercentCap>
@@ -25673,7 +25668,7 @@
 		<szLongItemName>Coated Dyneema Helmet</szLongItemName>
 		<szItemDesc>Coating with Crepitus goo makes this item the ultimate in protective head gear.</szItemDesc>
 		<szBRName>Coated Dyneema Helmet</szBRName>
-		<szBRDesc>Coating with Crepitus goo makes this item the ultimate in protective head gear.</szBRDesc>
+		<szBRDesc>None.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -25692,7 +25687,6 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -25703,7 +25697,7 @@
 		<szLongItemName>Coated Dyneema Leggings</szLongItemName>
 		<szItemDesc>Complete saturation with crepitus fluid bolsters the defensive capability of these bonded armor leggings.</szItemDesc>
 		<szBRName>Coated Dyneema Leggings</szBRName>
-		<szBRDesc>Complete saturation with crepitus fluid bolsters the defensive capability of these bonded armor leggings.</szBRDesc>
+		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>80</ubClassIndex>
@@ -25721,7 +25715,6 @@
 		<NotBuyable>1</NotBuyable>
 		<BigGunList>1</BigGunList>
 		<APBonus>-3</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -25732,7 +25725,7 @@
 		<szLongItemName>Coated Dyneema Vest</szLongItemName>
 		<szItemDesc>Looking at a pile of alien amniotic fluid, my first thought wouldn't have been "Hey, I wonder if smearing this on my body armor will improve its performance?" There are rewards for creativity and improvisation after all.</szItemDesc>
 		<szBRName>Coated Dyneema Vest</szBRName>
-		<szBRDesc>Ballistic inserts, available seperately from Bobby Ray's, would be the perfect addition to this already formidable coated armor.</szBRDesc>
+		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>81</ubClassIndex>
@@ -25750,7 +25743,6 @@
 		<NotBuyable>1</NotBuyable>
 		<BigGunList>1</BigGunList>
 		<AimBonus>-2</AimBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -25771,7 +25763,7 @@
 		<uiIndex>828</uiIndex>
 		<szItemName>C. EOD Helmet</szItemName>
 		<szLongItemName>Coated EOD Helmet</szLongItemName>
-		<szItemDesc>0</szItemDesc>
+		<szItemDesc>As if you needed any more protection! This EOD helmet has been coated with the Crepitus coating.</szItemDesc>
 		<szBRName>Coated EOD Helmet</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -25791,7 +25783,6 @@
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
 		<AimBonus>-3</AimBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentCap>-3</PercentCap>
 			<PercentCounterForceAccuracy>-10</PercentCounterForceAccuracy>
@@ -25823,7 +25814,6 @@
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
 		<APBonus>-10</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -25853,7 +25843,6 @@
 		<Unaerodynamic>1</Unaerodynamic>
 		<AimBonus>-8</AimBonus>
 		<APBonus>-6</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-35</PercentBase>
 			<PercentCap>-12</PercentCap>
@@ -25894,7 +25883,6 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -25922,7 +25910,6 @@
 		<NotBuyable>1</NotBuyable>
 		<BigGunList>1</BigGunList>
 		<APBonus>-3</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -25951,7 +25938,6 @@
 		<BigGunList>1</BigGunList>
 		<AimBonus>-1</AimBonus>
 		<APBonus>-1</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-5</PercentBase>
 			<PercentCap>-2</PercentCap>
@@ -25992,7 +25978,6 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -26020,7 +26005,6 @@
 		<NotBuyable>1</NotBuyable>
 		<BigGunList>1</BigGunList>
 		<APBonus>-3</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -26049,7 +26033,6 @@
 		<BigGunList>1</BigGunList>
 		<AimBonus>-2</AimBonus>
 		<APBonus>-3</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -26095,7 +26078,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>-1</AimBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-5</PercentBase>
 			<PercentCap>-2</PercentCap>
@@ -26139,7 +26121,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -26148,7 +26129,7 @@
 		<uiIndex>839</uiIndex>
 		<szItemName>SO Helmet</szItemName>
 		<szLongItemName>Stealth Ops Helmet</szLongItemName>
-		<szItemDesc>This helmet will protect you from small caliber rounds effectively, providing maximal stealth. For those really quiet operatives only.</szItemDesc>
+		<szItemDesc>This helmet will protect you from small caliber rounds effectively while providing maximum stealth capabilities.</szItemDesc>
 		<szBRName>Stealth Ops Helmet</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -26171,7 +26152,6 @@
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
 		<StealthBonus>10</StealthBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -26201,7 +26181,6 @@
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
 		<StealthBonus>25</StealthBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -26231,7 +26210,6 @@
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
 		<StealthBonus>15</StealthBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -26240,7 +26218,7 @@
 		<uiIndex>842</uiIndex>
 		<szItemName>Recon Kev. Vest</szItemName>
 		<szLongItemName>Recon Kevlar Vest</szLongItemName>
-		<szItemDesc>This camouflaged kevlar vest is the best solution for any recon activity.</szItemDesc>
+		<szItemDesc>This camouflaged Kevlar vest is the best solution for any recon activity.</szItemDesc>
 		<szBRName>Recon Kevlar Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -26261,7 +26239,6 @@
 		<BigGunList>1</BigGunList>
 		<AimBonus>-1</AimBonus>
 		<CamoBonus>25</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-5</PercentBase>
 			<PercentCap>-2</PercentCap>
@@ -26282,7 +26259,7 @@
 		<uiIndex>843</uiIndex>
 		<szItemName>Recon Guard. Vest</szItemName>
 		<szLongItemName>Recon Guardian Vest</szLongItemName>
-		<szItemDesc>This camouflaged guardian vest is the best solution for any recon activity.</szItemDesc>
+		<szItemDesc>This camouflaged Guardian vest is the best solution for any recon activity.</szItemDesc>
 		<szBRName>Recon Guardian Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -26304,7 +26281,6 @@
 		<AimBonus>-2</AimBonus>
 		<APBonus>-3</APBonus>
 		<CamoBonus>25</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -26325,7 +26301,7 @@
 		<uiIndex>844</uiIndex>
 		<szItemName>Recon Tw. Vest</szItemName>
 		<szLongItemName>Recon Twaron Vest</szLongItemName>
-		<szItemDesc>This camouflaged twaron vest is the best solution for any recon activity.</szItemDesc>
+		<szItemDesc>This camouflaged Twaron vest is the best solution for any recon activity.</szItemDesc>
 		<szBRName>Recon Twaron Vest</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -26347,7 +26323,6 @@
 		<AimBonus>-2</AimBonus>
 		<APBonus>-3</APBonus>
 		<CamoBonus>25</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -26368,7 +26343,7 @@
 		<uiIndex>845</uiIndex>
 		<szItemName>Recon Kev. Leggings</szItemName>
 		<szLongItemName>Recon Kevlar Leggings</szLongItemName>
-		<szItemDesc>Comfortable and camouflaged, these kevlar leggings are made for reconnaissance in the first place.</szItemDesc>
+		<szItemDesc>Comfortable and camouflaged, these Kevlar leggings are made for reconnaissance in the first place.</szItemDesc>
 		<szBRName>Recon Kevlar Leggings</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -26389,7 +26364,6 @@
 		<BigGunList>1</BigGunList>
 		<APBonus>-3</APBonus>
 		<CamoBonus>15</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -26419,7 +26393,6 @@
 		<BigGunList>1</BigGunList>
 		<APBonus>-3</APBonus>
 		<CamoBonus>15</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -26450,7 +26423,6 @@
 		<AimBonus>-2</AimBonus>
 		<APBonus>-1</APBonus>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -26493,7 +26465,6 @@
 		<AimBonus>-3</AimBonus>
 		<APBonus>-4</APBonus>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-15</PercentBase>
 			<PercentCap>-6</PercentCap>
@@ -26536,7 +26507,6 @@
 		<AimBonus>-3</AimBonus>
 		<APBonus>-4</APBonus>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-15</PercentBase>
 			<PercentCap>-6</PercentCap>
@@ -26579,7 +26549,6 @@
 		<AimBonus>-4</AimBonus>
 		<APBonus>-4</APBonus>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-20</PercentBase>
 			<PercentCap>-8</PercentCap>
@@ -26622,7 +26591,6 @@
 		<AimBonus>-3</AimBonus>
 		<APBonus>-1</APBonus>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-15</PercentBase>
 			<PercentCap>-6</PercentCap>
@@ -26643,7 +26611,7 @@
 		<uiIndex>852</uiIndex>
 		<szItemName>Medic Kev. Legg.</szItemName>
 		<szLongItemName>Medic Kevlar Leggings</szLongItemName>
-		<szItemDesc>Nothing like an useful place for First Aid Kit, Canteen or Condoms. With these leggings you'll get it.</szItemDesc>
+		<szItemDesc>Nothing like a useful place for a first aid kit, canteen or condoms!</szItemDesc>
 		<szBRName>Medic Kevlar Leggings</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -26664,7 +26632,6 @@
 		<BigGunList>1</BigGunList>
 		<APBonus>-4</APBonus>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -26673,7 +26640,7 @@
 		<uiIndex>853</uiIndex>
 		<szItemName>Medic Tw. Legg.</szItemName>
 		<szLongItemName>Medic Twaron Leggings</szLongItemName>
-		<szItemDesc>Nothing like an useful place for First Aid Kit, Canteen or Condoms. With these leggings you'll get it.</szItemDesc>
+		<szItemDesc>Nothing like a useful place for a first aid kit, canteen or condoms!</szItemDesc>
 		<szBRName>Medic Twaron Leggings</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -26694,7 +26661,6 @@
 		<BigGunList>1</BigGunList>
 		<APBonus>-4</APBonus>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -26703,7 +26669,7 @@
 		<uiIndex>854</uiIndex>
 		<szItemName>Medic Spec. Legg.</szItemName>
 		<szLongItemName>Medic Spectra Leggings</szLongItemName>
-		<szItemDesc>Nothing like an useful place for First Aid Kit, Canteen or Condoms. With these leggings you'll get it.</szItemDesc>
+		<szItemDesc>Nothing like a useful place for a first aid kit, canteen or condoms. With these leggings you'll carry them efficiently.</szItemDesc>
 		<szBRName>Medic Spectra Leggings</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -26724,7 +26690,6 @@
 		<BigGunList>1</BigGunList>
 		<APBonus>-7</APBonus>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -26754,7 +26719,6 @@
 		<BigGunList>1</BigGunList>
 		<APBonus>-4</APBonus>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -26785,7 +26749,6 @@
 		<AimBonus>-2</AimBonus>
 		<APBonus>-1</APBonus>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -26828,7 +26791,6 @@
 		<AimBonus>-3</AimBonus>
 		<APBonus>-4</APBonus>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-15</PercentBase>
 			<PercentCap>-6</PercentCap>
@@ -26871,7 +26833,6 @@
 		<AimBonus>-3</AimBonus>
 		<APBonus>-4</APBonus>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-15</PercentBase>
 			<PercentCap>-6</PercentCap>
@@ -26914,7 +26875,6 @@
 		<AimBonus>-4</AimBonus>
 		<APBonus>-4</APBonus>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-20</PercentBase>
 			<PercentCap>-8</PercentCap>
@@ -26957,7 +26917,6 @@
 		<AimBonus>-3</AimBonus>
 		<APBonus>-1</APBonus>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-15</PercentBase>
 			<PercentCap>-6</PercentCap>
@@ -26978,7 +26937,7 @@
 		<uiIndex>861</uiIndex>
 		<szItemName>Mech. Kev. Legg.</szItemName>
 		<szLongItemName>Mechanic Kevlar Leggings</szLongItemName>
-		<szItemDesc>Special leggings upgraded to serve mechanic and demolitions operatives better than the standard ones.</szItemDesc>
+		<szItemDesc>Special leggings upgraded to serve mechanic and demolitions operatives better than the standard issue items.</szItemDesc>
 		<szBRName>Mechanic Kevlar Leggings</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -26999,7 +26958,6 @@
 		<BigGunList>1</BigGunList>
 		<APBonus>-4</APBonus>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -27008,7 +26966,7 @@
 		<uiIndex>862</uiIndex>
 		<szItemName>Mech. Tw. Legg.</szItemName>
 		<szLongItemName>Mechanic Twaron Leggings</szLongItemName>
-		<szItemDesc>Special leggings upgraded to serve mechanic and demolitions operatives better than the standard ones.</szItemDesc>
+		<szItemDesc>Special leggings upgraded to serve mechanic and demolitions operatives better than the standard issue items.</szItemDesc>
 		<szBRName>Mechanic Twaron Leggings</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -27029,7 +26987,6 @@
 		<BigGunList>1</BigGunList>
 		<APBonus>-4</APBonus>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -27059,7 +27016,6 @@
 		<BigGunList>1</BigGunList>
 		<APBonus>-7</APBonus>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -27068,7 +27024,7 @@
 		<uiIndex>864</uiIndex>
 		<szItemName>Mech. Dyn. Legg.</szItemName>
 		<szLongItemName>Mechanic Dyneema Leggings</szLongItemName>
-		<szItemDesc>Special leggings upgraded to serve mechanic and demolitions operatives better than the standard ones.</szItemDesc>
+		<szItemDesc>Special leggings specifically upgraded to serve mechanic and demolitions operatives.</szItemDesc>
 		<szBRName>Mechanic Dyneema Leggings</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -27089,7 +27045,6 @@
 		<BigGunList>1</BigGunList>
 		<APBonus>-4</APBonus>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -27120,7 +27075,6 @@
 		<AimBonus>-2</AimBonus>
 		<APBonus>-1</APBonus>
 		<CamoBonus>20</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -27163,7 +27117,6 @@
 		<AimBonus>-3</AimBonus>
 		<APBonus>-4</APBonus>
 		<CamoBonus>20</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-15</PercentBase>
 			<PercentCap>-6</PercentCap>
@@ -27206,7 +27159,6 @@
 		<AimBonus>-3</AimBonus>
 		<APBonus>-4</APBonus>
 		<CamoBonus>20</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-15</PercentBase>
 			<PercentCap>-6</PercentCap>
@@ -27249,7 +27201,6 @@
 		<AimBonus>-4</AimBonus>
 		<APBonus>-4</APBonus>
 		<CamoBonus>20</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-20</PercentBase>
 			<PercentCap>-8</PercentCap>
@@ -27292,7 +27243,6 @@
 		<AimBonus>-3</AimBonus>
 		<APBonus>-1</APBonus>
 		<CamoBonus>20</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-15</PercentBase>
 			<PercentCap>-6</PercentCap>
@@ -27334,7 +27284,6 @@
 		<BigGunList>1</BigGunList>
 		<APBonus>-4</APBonus>
 		<CamoBonus>15</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -27364,7 +27313,6 @@
 		<BigGunList>1</BigGunList>
 		<APBonus>-4</APBonus>
 		<CamoBonus>15</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -27394,7 +27342,6 @@
 		<BigGunList>1</BigGunList>
 		<APBonus>-7</APBonus>
 		<CamoBonus>15</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -27424,7 +27371,6 @@
 		<BigGunList>1</BigGunList>
 		<APBonus>-4</APBonus>
 		<CamoBonus>15</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -27434,8 +27380,8 @@
 		<szItemName>SO Helmet Kit</szItemName>
 		<szLongItemName>Stealth Ops Helmet Upgrade Kit</szLongItemName>
 		<szItemDesc>This unique upgrade kit can be used to upgrade any standard kevlar helmet to its stealth ops counterpart.</szItemDesc>
-		<szBRName>Stealth Ops Helmet Upgrade Kit</szBRName>
-		<szBRDesc>Upgrade your helmet today! From standard kevlar helmet to high-tech stealth operations head protection in no time! This kit includes all the necessary tools for such conversion.</szBRDesc>
+		<szBRName>Stealth Ops Helmet Kit</szBRName>
+		<szBRDesc>Upgrade your standard Kevlar helmet to high-tech stealth operations head protection in no time. This kit includes all the necessary tools a accessories for customizaton.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -27451,18 +27397,17 @@
 		<SciFi>1</SciFi>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_NewInventory>2</BR_NewInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>875</uiIndex>
-		<szItemName>SO Vest Kit</szItemName>
+		<szItemName>Stealth Vest Kit</szItemName>
 		<szLongItemName>Stealth Ops Vest Upgrade Kit</szLongItemName>
 		<szItemDesc>This upgrade kit contains the necessary components and tools to convert a common kevlar vest into the state-of-the-art Stealth Ops vest.</szItemDesc>
-		<szBRName>Stealth Ops Vest Upgrade Kit</szBRName>
-		<szBRDesc>Need a suit for the next stealth mission? If you already have a standard kevlar vest, all you need is this upgrade kit and a few minutes of your time!</szBRDesc>
+		<szBRName>Stealth Ops Vest Kit</szBRName>
+		<szBRDesc>Need a suit for the next stealth mission? If you already have a standard Kevlar vest, all you need is this upgrade kit and a few minutes of your time!</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -27478,17 +27423,16 @@
 		<SciFi>1</SciFi>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_NewInventory>2</BR_NewInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>876</uiIndex>
-		<szItemName>SO Leggings Kit</szItemName>
+		<szItemName>Stealth Leg' Kit</szItemName>
 		<szLongItemName>Stealth Ops Leggings Upgrade Kit</szLongItemName>
 		<szItemDesc>All you ever need to upgrade your kevlar leggings to those used by stealth operatives.</szItemDesc>
-		<szBRName>Stealth Ops Leggings Upgrade Kit</szBRName>
+		<szBRName>Stealth Ops Leggings Kit</szBRName>
 		<szBRDesc>Making too much noise while walking around? With this upgrade kit you'll mute your kevlar leggings forever.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -27505,7 +27449,6 @@
 		<SciFi>1</SciFi>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_NewInventory>2</BR_NewInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -27531,18 +27474,17 @@
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_NewInventory>3</BR_NewInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>878</uiIndex>
-		<szItemName>Recon Legg. Kit</szItemName>
+		<szItemName>Recon Leg' Kit</szItemName>
 		<szLongItemName>Recon Leggings Upgrade Kit</szLongItemName>
 		<szItemDesc>All you ever need to upgrade your kevlar or twaron leggings to those used by recon operatives.</szItemDesc>
-		<szBRName>Recon Leggings Upgrade Kit</szBRName>
-		<szBRDesc>Uncomfortable leggings? No camouflage pattern? With this upgrade kit your kevlar or twaron leggings might become first class recon gear!</szBRDesc>
+		<szBRName>Recon Leggings Kit</szBRName>
+		<szBRDesc>Uncomfortable leggings? No camouflage pattern? With this upgrade kit your Kevlar or Twaron leggings might become first class recon gear!</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -27557,7 +27499,6 @@
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_NewInventory>3</BR_NewInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -27583,18 +27524,17 @@
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_NewInventory>4</BR_NewInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>880</uiIndex>
-		<szItemName>Medic Legg. Kit</szItemName>
+		<szItemName>Medic Leg' Kit</szItemName>
 		<szLongItemName>Medic Leggings Upgrade Kit</szLongItemName>
-		<szItemDesc>All you ever need to upgrade your Kevlar, Twaron, Spectra or Dyneema leggings to those used by medic operatives.</szItemDesc>
+		<szItemDesc>Make use of this kit before your buddy bleeds to death and upgrade your leggings today.</szItemDesc>
 		<szBRName>Medic Leggings Upgrade Kit</szBRName>
-		<szBRDesc>Get this kit before your buddy bleeds to death and upgrade your leggings today! A serious medic wouldn't neglect this one.</szBRDesc>
+		<szBRDesc>All you ever need to upgrade your Kevlar, Twaron, Spectra or Dyneema leggings to those used by medic specialists.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -27609,18 +27549,17 @@
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_NewInventory>4</BR_NewInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>881</uiIndex>
-		<szItemName>Mechanic Vest Kit</szItemName>
+		<szItemName>Mech' Vest Kit</szItemName>
 		<szLongItemName>Mechanic Vest Upgrade Kit</szLongItemName>
 		<szItemDesc>This upgrade kit contains the necessary components and tools to convert a Kevlar, Guardian, Twaron, Spectra or Dyneema vest into mechanic-demolitions vest.</szItemDesc>
 		<szBRName>Mechanic Vest Upgrade Kit</szBRName>
-		<szBRDesc>Never enough room for your tools? Need an extra pocket for the remote bomb trigger? With this upgrade kit your vest will make a difference.</szBRDesc>
+		<szBRDesc>Never enough room for your tools? Need an extra pocket for that remote bomb trigger? With this upgrade kit your vest will make a difference.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -27635,18 +27574,17 @@
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_NewInventory>3</BR_NewInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>882</uiIndex>
-		<szItemName>Mechanic Legg. Kit</szItemName>
+		<szItemName>Mech' Leg' Kit</szItemName>
 		<szLongItemName>Mechanic Leggings Upgrade Kit</szLongItemName>
 		<szItemDesc>All you ever need to upgrade your Kevlar, Twaron, Spectra or Dyneema leggings to those used by mechanic and demolitions operatives.</szItemDesc>
-		<szBRName>Mechanic Leggings Upgrade Kit</szBRName>
-		<szBRDesc>The ideal upgrade for mechanic and demolitions operatives. More pockets for your tools and equipment will give you more satisfaction, guaranteed.</szBRDesc>
+		<szBRName>Mechanic Leggings Kit</szBRName>
+		<szBRDesc>The ideal upgrade for mechanic and demolitions operatives. Provides more pockets for your tools and equipment.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -27661,7 +27599,6 @@
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_NewInventory>3</BR_NewInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -27671,8 +27608,8 @@
 		<szItemName>FO Vest Kit</szItemName>
 		<szLongItemName>Field Ops Vest Upgrade Kit</szLongItemName>
 		<szItemDesc>This upgrade kit contains the necessary components and tools to convert a Kevlar, Guardian, Twaron, Spectra or Dyneema vest into field operative vest.</szItemDesc>
-		<szBRName>Field Ops Vest Upgrade Kit</szBRName>
-		<szBRDesc>For those extended sanctions or long term engagements in the field upgrade your vest using this kit and enjoy more comfort, features and protection than ever.</szBRDesc>
+		<szBRName>Field Ops Vest Kit</szBRName>
+		<szBRDesc>For those extended sanctions or long term engagements in the field, upgrade your vest using this kit and enjoy more comfort, features and protection than ever.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -27687,17 +27624,16 @@
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_NewInventory>3</BR_NewInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>884</uiIndex>
-		<szItemName>FO Leggings Kit</szItemName>
+		<szItemName>FO Leg' Kit</szItemName>
 		<szLongItemName>Field Ops Leggings Upgrade Kit</szLongItemName>
 		<szItemDesc>All you ever need to upgrade your Kevlar, Twaron, Spectra or Dyneema leggings to those used by field operatives.</szItemDesc>
-		<szBRName>Field Ops Leggings Upgrade Kit</szBRName>
+		<szBRName>Field Ops Leggings Kit</szBRName>
 		<szBRDesc>For longer engagements we recommend this upgrade kit which converts your existing Kevlar, Twaron, Spectra or Dyneema pants to professional spec Field Ops leggings, providing better stowage, comfort and camouflage features.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -27713,7 +27649,6 @@
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_NewInventory>3</BR_NewInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -27744,7 +27679,6 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -27775,7 +27709,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>15</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -41491,7 +41424,7 @@
 		<szItemName>AR57 16 upper</szItemName>
 		<szLongItemName>AR57 16" upper</szLongItemName>
 		<szItemDesc>Upper receiver to change a M4A1 or M4 Commando into an AR57 16".</szItemDesc>
-		<szBRName>AR57 16" upper</szBRName>
+		<szBRName>AR57 16" upper kit</szBRName>
 		<szBRDesc>If you want to shoot the 5.7x28mm round but still want the ergonomics of the M4 series, take this new upper receiver and mount it onto your old M4 Commando or M4A1 lower receiver. This one comes with a 16" barrel.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -41519,7 +41452,7 @@
 		<szItemName>AR57 11 upper</szItemName>
 		<szLongItemName>AR57 11" upper</szLongItemName>
 		<szItemDesc>Upper receiver to change a M4A1 or M4 Commando into an AR57 11".</szItemDesc>
-		<szBRName>AR57 11" upper</szBRName>
+		<szBRName>AR57 11" upper kit</szBRName>
 		<szBRDesc>If you want to shoot the 5.7x28mm round but still want the ergonomics of the M4 series, take this new upper receiver and mount it onto your old M4 Commando or M4A1 lower receiver. Comes with a 11" barrel.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -41547,7 +41480,7 @@
 		<szItemName>AR57 6S upper</szItemName>
 		<szLongItemName>AR57 6"-S upper</szLongItemName>
 		<szItemDesc>Upper receiver to change a M4A1 or M4 Commando into an AR57 6"-S, the silenced version of the AR57.</szItemDesc>
-		<szBRName>AR57 6"-S upper</szBRName>
+		<szBRName>AR57 6"-S upper kit</szBRName>
 		<szBRDesc>If you want to shoot the 5.7x28mm round but still want the ergonomics of the M4 series, take this new upper receiver and mount it onto your old M4 Commando or M4A1 lower receiver. This is the silenced version, combining a Gemtech suppressor with a 6" barrel.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -73735,7 +73668,7 @@
 		<szLongItemName>Upper SRR Barrel Kit</szLongItemName>
 		<szItemDesc>This Upper Receiver will convert an M4A1 Carbine into a Seal Recon Rifle.</szItemDesc>
 		<szBRName>Upper SRR Barrel Kit</szBRName>
-		<szBRDesc>This Upper Receiver will convert an M4A1 Carbine into a Seal Recon Rifle.</szBRDesc>
+		<szBRDesc>This Upper Receiver kit is all you need to convert an M4A1 Carbine into a SEAL Recon Rifle.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>817</ubGraphicNum>
@@ -74405,10 +74338,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2824</uiIndex>
-		<szItemName>FLEX LAM</szItemName>
+		<szItemName>FLEX ELAP LAM</szItemName>
 		<szLongItemName>FLEX E-LAP Laser Aiming Pointer</szLongItemName>
-		<szItemDesc>With a flick of the switch turn your laser unit into a CQB illuminator, taking advantage of the bright built in LED unit. Included on top of the laser is a 20mm RIS rail, for mounting even more on your gun! Double lasers... mmmmm...The looks? They speak for themselves, wipe the dribble from your chin, lads!</szItemDesc>
-		<szBRName>FLEX E-LAP Laser Aiming Pointer</szBRName>
+		<szItemDesc>With a flick of the switch turn your laser unit into a CQB illuminator, taking advantage of the built-in LED unit. Included on top of the laser is a 20mm RIS rail, for mounting even more on your gun! Double lasers, mmmmm... the looks? They speak for themselves, wipe the dribble from your chin, lads!</szItemDesc>
+		<szBRName>FLEX E-LAP LAM</szBRName>
 		<szBRDesc>Solid and robust, this is a 'big man's' laser sporting an impressive throw-lever QD release. This will improve any 20mm RIS rail like a boss!</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
@@ -74440,7 +74373,6 @@
 		<StealthBonus>-15</StealthBonus>
 		<NeedsBatteries>1</NeedsBatteries>
 		<ProjectionFactor>3.0</ProjectionFactor>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -74484,7 +74416,6 @@
 		<NightVisionRangeBonus>5</NightVisionRangeBonus>
 		<NeedsBatteries>1</NeedsBatteries>
 		<ProjectionFactor>3.0</ProjectionFactor>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -74527,7 +74458,6 @@
 		<ThermalOptics>1</ThermalOptics>
 		<NeedsBatteries>1</NeedsBatteries>
 		<ScopeMagFactor>1.0</ScopeMagFactor>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
@@ -74560,7 +74490,6 @@
 		<ToHitBonus>5</ToHitBonus>
 		<BurstToHitBonus>10</BurstToHitBonus>
 		<AutoFireToHitBonus>10</AutoFireToHitBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-40</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
@@ -74574,7 +74503,7 @@
 		<szItemName>HK 416 10" Barrel</szItemName>
 		<szLongItemName>Barrel Kit - HK 416 10"</szLongItemName>
 		<szItemDesc>This barrel converts the HK 416 to the 10" variant.</szItemDesc>
-		<szBRName>B. K. - HK 416 10"</szBRName>
+		<szBRName>HK 416 10" Kit</szBRName>
 		<szBRDesc>This barrel converts the HK 416 to the 10" variant.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -74600,7 +74529,7 @@
 		<szItemName>HK 416 14" Barrel</szItemName>
 		<szLongItemName>Barrel Kit - HK 416 14"</szLongItemName>
 		<szItemDesc>This barrel converts the HK 416 to the 14" variant.</szItemDesc>
-		<szBRName>B. K. - HK 416 14"</szBRName>
+		<szBRName>HK 416 14" Kit</szBRName>
 		<szBRDesc>This barrel converts the HK 416 to the 14" variant.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -74626,7 +74555,7 @@
 		<szItemName>HK 416 16" Barrel</szItemName>
 		<szLongItemName>Barrel Kit - HK 416 16"</szLongItemName>
 		<szItemDesc>This barrel converts the HK 416 to the 16" variant.</szItemDesc>
-		<szBRName>B. K. - HK 416 16"</szBRName>
+		<szBRName>HK 416 16" Kit</szBRName>
 		<szBRDesc>This barrel converts the HK 416 to the 16" variant.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -74652,7 +74581,7 @@
 		<szItemName>HK 416 20" Barrel</szItemName>
 		<szLongItemName>Barrel Kit - HK 416 20"</szLongItemName>
 		<szItemDesc>This barrel converts the HK 416 to the 20" variant.</szItemDesc>
-		<szBRName>B. K. - HK 416 20"</szBRName>
+		<szBRName>HK 416 20" Kit</szBRName>
 		<szBRDesc>This barrel converts the HK 416 to the 20" variant.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -74678,7 +74607,7 @@
 		<szItemName>HK 417 12" Barrel</szItemName>
 		<szLongItemName>Barrel Kit - HK 417 12"</szLongItemName>
 		<szItemDesc>This barrel converts the HK 417 to the 12" variant.</szItemDesc>
-		<szBRName>B. K. - HK 417 12"</szBRName>
+		<szBRName>HK 417 12" Kit</szBRName>
 		<szBRDesc>This barrel converts the HK 417 to the 12" variant.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -74705,7 +74634,7 @@
 		<szItemName>HK 417 16" Barrel</szItemName>
 		<szLongItemName>Barrel Kit - HK 417 16"</szLongItemName>
 		<szItemDesc>This barrel converts the HK 417 to the 16" variant.</szItemDesc>
-		<szBRName>B. K. - HK 417 16"</szBRName>
+		<szBRName>HK 417 16" Kit</szBRName>
 		<szBRDesc>This barrel converts the HK 417 to the 16" variant.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -74732,7 +74661,7 @@
 		<szItemName>HK 417 20" Barrel</szItemName>
 		<szLongItemName>Barrel Kit - HK 417 20"</szLongItemName>
 		<szItemDesc>This barrel converts the HK 417 to the 20" variant.</szItemDesc>
-		<szBRName>B. K. - HK 417 20"</szBRName>
+		<szBRName>HK 417 20" Kit</szBRName>
 		<szBRDesc>This barrel converts the HK 417 to the 20" variant.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -74766,7 +74695,6 @@
 		<ubGraphicNum>632</ubGraphicNum>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>5</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -74806,7 +74734,6 @@
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -74862,7 +74789,6 @@
 		<usPrice>150</usPrice>
 		<Damageable>1</Damageable>
 		<ContainsLiquid>1</ContainsLiquid>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -74884,7 +74810,6 @@
 		<Damageable>1</Damageable>
 		<NotBuyable>1</NotBuyable>
 		<ContainsLiquid>1</ContainsLiquid>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -74911,7 +74836,6 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -74974,7 +74898,6 @@
 		<StealthBonus>-6</StealthBonus>
 		<Batteries>1</Batteries>
 		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75006,7 +74929,6 @@
 		<Inseparable>1</Inseparable>
 		<PercentAPReduction>20</PercentAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75670,7 +75592,6 @@
 		<ToHitBonus>1</ToHitBonus>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<PercentAPReduction>15</PercentAPReduction>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75692,7 +75613,6 @@
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75702,7 +75622,7 @@
 		<szItemName>Upper AR57 11"</szItemName>
 		<szLongItemName>Barrel Kit - Upper AR57 11"</szLongItemName>
 		<szItemDesc>This upper receiver can be used to convert the AR57 into the 11" version.</szItemDesc>
-		<szBRName>B. K. - Upper AR57 11"</szBRName>
+		<szBRName>Upper AR57 11" Kit</szBRName>
 		<szBRDesc>This upper receiver can be used to convert the AR57 into the 11" version.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -75718,7 +75638,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75728,7 +75647,7 @@
 		<szItemName>Upper AR57 16"</szItemName>
 		<szLongItemName>Barrel Kit - Upper AR57 16"</szLongItemName>
 		<szItemDesc>This upper receiver can be used to convert the AR57 into the 16" version.</szItemDesc>
-		<szBRName>B. K. - Upper AR57 16"</szBRName>
+		<szBRName>Upper AR57 16" Kit</szBRName>
 		<szBRDesc>This upper receiver barrel kit can be used to convert any AR57 into a 16" version.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -75744,7 +75663,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75754,7 +75672,7 @@
 		<szItemName>Upper AR57 6" S</szItemName>
 		<szLongItemName>Barrel Kit - Upper AR57 6" S</szLongItemName>
 		<szItemDesc>This upper receiver can be used to convert the AR57 into the 6" silenced version.</szItemDesc>
-		<szBRName>B. K. - Upper AR57 6" S</szBRName>
+		<szBRName>Upper AR57 6" S Kit</szBRName>
 		<szBRDesc>This upper receiver kit can be used to convert your AR57 into the 6" silenced version.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -75770,7 +75688,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75780,7 +75697,7 @@
 		<szItemName>Upper M4A1</szItemName>
 		<szLongItemName>Barrel Kit - Upper M4A1</szLongItemName>
 		<szItemDesc>This is the basic upper receiver for the M4A1 carbine.</szItemDesc>
-		<szBRName>B. K. - Upper M4A1</szBRName>
+		<szBRName>Upper M4A1 Kit</szBRName>
 		<szBRDesc>A basic upper receiver barrel kit for the M4A1 carbine.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -75796,7 +75713,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75806,7 +75722,7 @@
 		<szItemName>Upper M4A3</szItemName>
 		<szLongItemName>Barrel Kit - Upper M4A3</szLongItemName>
 		<szItemDesc>This upper receiver converts an M4A1 carbine into the Bushmaster M4A3, chambered in 6.8 SPC.</szItemDesc>
-		<szBRName>B. K. - Upper M4A3</szBRName>
+		<szBRName>Upper M4A3 Kit</szBRName>
 		<szBRDesc>This upper receiver barrel kit converts an M4A1 carbine into the Bushmaster M4A3, chambered in 6.8 SPC.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -75822,7 +75738,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75832,7 +75747,7 @@
 		<szItemName>Upper Beowulf</szItemName>
 		<szLongItemName>Barrel Kit - Upper Beowulf</szLongItemName>
 		<szItemDesc>This heavy upper receiver converts an M4A1 carbine into the .50 Beowulf rifle.</szItemDesc>
-		<szBRName>B. K. - Upper Beowulf</szBRName>
+		<szBRName>Upper Beowulf Kit</szBRName>
 		<szBRDesc>For those good with tools this kit has all you need to convert your existing M4A1 carbine into a .50 Beowulf rifle.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -75848,7 +75763,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75856,9 +75770,9 @@
 	<ITEM>
 		<uiIndex>2870</uiIndex>
 		<szItemName>Upper Wh. Kitty</szItemName>
-		<szLongItemName>Barrel Kit - Upper Wh. Kitty</szLongItemName>
+		<szLongItemName>Barrel Kit - Upper Whisper Kitty</szLongItemName>
 		<szItemDesc>This upper receiver can be used to convert an M4A1 carbine into the silenced Whisper Kitty special purpose rifle.</szItemDesc>
-		<szBRName>B.K. - Upper Wh. Kitty</szBRName>
+		<szBRName>Upper Whisper Kitty Kit</szBRName>
 		<szBRDesc>This upper receiver can be used to convert an M4A1 carbine into the silenced Whisper Kitty special purpose rifle.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -75874,7 +75788,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75904,7 +75817,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>15</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75934,7 +75846,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>15</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75964,7 +75875,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<UrbanCamoBonus>15</UrbanCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75993,7 +75903,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<StealthBonus>10</StealthBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76049,7 +75958,6 @@
 		<ToHitBonus>2</ToHitBonus>
 		<PercentAPReduction>18</PercentAPReduction>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76059,7 +75967,7 @@
 		<szItemName>Reflex SMR</szItemName>
 		<szLongItemName>Reflex Sight, SMR</szLongItemName>
 		<szItemDesc>This reflex sight enhances target acquisition and can be mounted on most firearms.</szItemDesc>
-		<szBRName>Reflex Sight, SMR</szBRName>
+		<szBRName>Reflex Sight SMR</szBRName>
 		<szBRDesc>A squirrel hunters dream. This affordable reflex sight makes target practice that much easier.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>64</nasAttachmentClass>
@@ -76084,7 +75992,6 @@
 		<ToHitBonus>2</ToHitBonus>
 		<PercentAPReduction>10</PercentAPReduction>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76117,7 +76024,6 @@
 		<PercentAPReduction>10</PercentAPReduction>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76126,9 +76032,9 @@
 		<uiIndex>2879</uiIndex>
 		<szItemName>FF Laser</szItemName>
 		<szLongItemName>Firefield Laser</szLongItemName>
-		<szItemDesc>You only need one clean shot to engage your enemy. Make it count. The Firefield Compact Laser is a dynamic, powerful unit built to do the job. This highly versatile unit is equipped with a weaver rail and easily affixes to a wide variety of firearms including SMG's and pistols, and fits onto the trigger guard.</szItemDesc>
+		<szItemDesc>You only need one clean shot to engage your enemy. Make it count. Dynamic and powerful, this versatile unit is equipped with a weaver rail and easily affixes to the trigger guard of a wide variety of firearms including SMG's and pistols.</szItemDesc>
 		<szBRName>Firefield Laser</szBRName>
-		<szBRDesc>Complete with a tactical pressure pad, the green compact laser is user friendly with an on/off tilt switch that can be activated with a flick of the user's finger. Ideal for use in home defense, the powerful bright green laser can pacify targets and alleviate threats quickly!</szBRDesc>
+		<szBRDesc>Complete with a tactical pressure pad, this compact laser is user friendly with an on/off tilt switch. Ideal for use in home defense, the powerful bright green laser can pacify targets and alleviate threats quickly.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
@@ -76157,7 +76063,6 @@
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
 		<ProjectionFactor>1.3</ProjectionFactor>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76199,7 +76104,6 @@
 		<SnowCamoBonus>-10</SnowCamoBonus>
 		<StealthBonus>-10</StealthBonus>
 		<NightVisionRangeBonus>2</NightVisionRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76209,7 +76113,7 @@
 		<szItemName>CRL Laser Sight</szItemName>
 		<szLongItemName>Sightmark CRL Triple duty Laser</szLongItemName>
 		<szItemDesc>An affordable tactical laser sight inspired by military and law-enforcement applications. The low profile and compact size make it ideal for rapid-fire shooting or home defense. Durable, yet lightweight composite plastic body. Adjustable windage and elevation. 300-yard visibility at night, 20 yards in sunlight.</szItemDesc>
-		<szBRName>Sightmark CRL Triple duty Laser</szBRName>
+		<szBRName>Sightmark CRL Tri Laser</szBRName>
 		<szBRDesc>An affordable tactical laser sight inspired by military and law-enforcement applications. Low profile and compact size make it ideal for rapid-fire shooting or home defense. Durable, yet light. Adjustable windage and elevation. 300-yard visibility at night, 20 yards in sunlight.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
@@ -76239,7 +76143,6 @@
 		<SnowCamoBonus>-7</SnowCamoBonus>
 		<StealthBonus>-7</StealthBonus>
 		<ProjectionFactor>1.3</ProjectionFactor>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76263,7 +76166,6 @@
 		<Unaerodynamic>1</Unaerodynamic>
 		<Medical>1</Medical>
 		<DrugType>471166473</DrugType>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76301,7 +76203,6 @@
 		<SnowCamoBonus>-17</SnowCamoBonus>
 		<StealthBonus>-17</StealthBonus>
 		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76331,7 +76232,6 @@
 		<BurstSizeBonus>3</BurstSizeBonus>
 		<PercentBurstFireAPReduction>70</PercentBurstFireAPReduction>
 		<PercentAutofireAPReduction>40</PercentAutofireAPReduction>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76363,7 +76263,6 @@
 		<SciFi>1</SciFi>
 		<BurstSizeBonus>2</BurstSizeBonus>
 		<PercentBurstFireAPReduction>60</PercentBurstFireAPReduction>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76396,7 +76295,6 @@
 		<BurstSizeBonus>2</BurstSizeBonus>
 		<PercentBurstFireAPReduction>60</PercentBurstFireAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76428,7 +76326,6 @@
 		<SciFi>1</SciFi>
 		<BurstSizeBonus>4</BurstSizeBonus>
 		<PercentBurstFireAPReduction>-10</PercentBurstFireAPReduction>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76461,7 +76358,6 @@
 		<BurstSizeBonus>4</BurstSizeBonus>
 		<PercentBurstFireAPReduction>-10</PercentBurstFireAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76471,7 +76367,7 @@
 		<szItemName>Blaser Barrel .300 WM</szItemName>
 		<szLongItemName>Barrel Kit - Blaser .300 WM</szLongItemName>
 		<szItemDesc>This barrel conversion kit is used on the Blaser R93 to convert it into the .300 WM configuration.</szItemDesc>
-		<szBRName>B. K. - Blaser .300 WM</szBRName>
+		<szBRName>Blaser .300 WM Kit</szBRName>
 		<szBRDesc>This barrel conversion kit is used on the Blaser R93 to convert it into the .300 WM configuration.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -76485,7 +76381,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76495,7 +76390,7 @@
 		<szItemName>Blaser Barrel 7.62</szItemName>
 		<szLongItemName>Barrel Kit - Blaser 7.62</szLongItemName>
 		<szItemDesc>This barrel conversion kit is used on the Blaser R93 to convert it into the 7.62x51 configuration.</szItemDesc>
-		<szBRName>B. K. - Blaser 7.62</szBRName>
+		<szBRName>Blaser 7.62 Kit</szBRName>
 		<szBRDesc>This barrel conversion kit is used on the Blaser R93 to convert it into the 7.62x51 configuration.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -76509,7 +76404,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76519,7 +76413,7 @@
 		<szItemName>Blaser Barrel .30-06</szItemName>
 		<szLongItemName>Barrel Kit - Blaser .30-06</szLongItemName>
 		<szItemDesc>This barrel conversion kit is used on the Blaser R93 to convert it into the .30-06 configuration.</szItemDesc>
-		<szBRName>B. K. - Blaser .30-06</szBRName>
+		<szBRName>Blaser .30-06 Kit</szBRName>
 		<szBRDesc>This barrel conversion kit is used on the Blaser R93 to convert it into the .30-06 configuration.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -76533,7 +76427,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76695,7 +76588,6 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>1</BR_NewInventory>
 		<CamoBonus>15</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76722,7 +76614,6 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>1</BR_NewInventory>
 		<DesertCamoBonus>15</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76745,7 +76636,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Attachment>1</Attachment>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76768,7 +76658,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Attachment>1</Attachment>
 		<DesertCamoBonus>10</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -76794,7 +76683,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -77115,7 +77003,6 @@
 		<StealthBonus>-12</StealthBonus>
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
