@@ -1387,13 +1387,6 @@
 			</CONDITIONS>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
-			<ubAssignmentType>REST</ubAssignmentType>
-			<szTooltipText>There are plenty of beds and food here. It's got all the comforts of a first class transportation center.</szTooltipText>
-			<ubStaffLimit>10</ubStaffLimit>
-			<usPerformance>130</usPerformance>
-			<usSleep>130</usSleep>
-		</ASSIGNMENT>
-		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
 			<szTooltipText>This corporate installation has the necessary tools and materials for the quick repair of all kinds of gear.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
@@ -1410,7 +1403,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>This place is a great source of quality attachments and fittings. This will make robot repairs considerably easier.</szTooltipText>
+			<szTooltipText>This industrial complex is a great source of quality parts and fittings. This will make robot repairs considerably easier.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>186</usPerformance>
 			<usFatigue>80</usFatigue>
