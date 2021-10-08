@@ -31117,8 +31117,8 @@
 		<szItemName>40mm Illumination</szItemName>
 		<szLongItemName>40mm Illumination Grenade</szLongItemName>
 		<szItemDesc>An illumination grenade for night fighting.</szItemDesc>
-		<szBRName>40mm Illumination  Grenade</szBRName>
-		<szBRDesc>The M583A1 illumination grenade will light up the battlefield from most 40mm grenade launchers. Longer range and more candlepower than a breaklight!</szBRDesc>
+		<szBRName>40mm Illumination Grenade</szBRName>
+		<szBRDesc>The M583A1 illumination grenade will light up the battlefield from most 40mm grenade launchers. Longer range and more candlepower than a breaklight.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
@@ -65480,8 +65480,8 @@
 		<szItemName>HG 85 Grenade</szItemName>
 		<szLongItemName>HG 85 Fragmentation Grenade</szLongItemName>
 		<szItemDesc>A compact and small fragmentation grenade that will spread its shrapnel over a wide area.</szItemDesc>
-		<szBRName>HG 85 Fragmentation Grenade</szBRName>
-		<szBRDesc>The HG 85 consists of a plastic body, an inner liner carrying the preformed fragments, and a filling of PentaErythritol TetraNitrate (PETN) high explosive. Despite its compact size it packs quite a punch and scatters its fragments over an area of up to 50 meters.</szBRDesc>
+		<szBRName>HG 85 Frag' Grenade</szBRName>
+		<szBRDesc>The HG 85 consists of a plastic body, an inner liner carrying the preformed fragments, and a filling of PentaErythritol TetraNitrate high explosive. Despite its compact size it packs quite a punch and scatters its fragments over an area of up to 50 meters.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>125</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>		
@@ -65614,7 +65614,7 @@
 		<szItemName>F1 Grenade</szItemName>
 		<szLongItemName>F1 Fragmentation Grenade</szLongItemName>
 		<szItemDesc>The F1 is an anti-personnel fragmentation grenade with a considerable area of effect.</szItemDesc>
-		<szBRName>F1 Fragmentation Grenade</szBRName>
+		<szBRName>F1 Frag' Grenade</szBRName>
 		<szBRDesc>These updated versions of the Soviet World War II frag grenade have a wide dispersion rate. Just don't ask where we got them from, okay?</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>129</ubClassIndex>
