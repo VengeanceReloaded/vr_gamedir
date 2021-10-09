@@ -28976,10 +28976,10 @@
 	<ITEM>
 		<uiIndex>922</uiIndex>
 		<szItemName>KAC M203</szItemName>
-		<szLongItemName>KAC Launcher System</szLongItemName>
-		<szItemDesc>A longbarreled standalone M203 grenade launcher mounted to a pistolgrip and retractable buttstock.</szItemDesc>
-		<szBRName>KAC M203 KAC Launcher System</szBRName>
-		<szBRDesc>KAC decided to copy Colt in making some gear that makes the M203 launcher usable without a rifle. We have decided to stock the longbarreled version.</szBRDesc>
+		<szLongItemName>KAC 203 Launcher System</szLongItemName>
+		<szItemDesc>KAC decided to copy Colt in making some gear that makes the M203 launcher usable without a rifle.</szItemDesc>
+		<szBRName>KAC Launcher System</szBRName>
+		<szBRDesc>A long-barreled standalone M203 grenade launcher mounted to a pistolgrip and retractable buttstock.</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>922</ubClassIndex>
@@ -58008,9 +58008,9 @@
 		<uiIndex>2080</uiIndex>
 		<szItemName>HK EFL</szItemName>
 		<szLongItemName>HK Emergency Flare Launcher</szLongItemName>
-		<szItemDesc>The literal German translation is "Distress Signal Tool". It is marketed abroad as the Emergency Flare Launcher or EFL. With a five shot magazine, the EFL is a handy little flare launcher.</szItemDesc>
-		<szBRName>HK Emergency Flare Launcher</szBRName>
-		<szBRDesc>The literal German translation is "Distress Signal Tool". It is marketed abroad as the Emergency Flare Launcher or EFL. With a five shot magazine, the EFL is a handy little flare launcher.</szBRDesc>
+		<szItemDesc>The literal German translation is "Distress Signal Tool". Marketed abroad as the Emergency Flare Launcher, the EFL is a handy little flare launcher with a five shot magazine.</szItemDesc>
+		<szBRName>Emergency Flare Launcher</szBRName>
+		<szBRDesc>Capable of launching 19mm flares to a height of 65 meters, this flare launcher is ideal for signalling evacs to air crew in dense terrain.</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>2080</ubClassIndex>
@@ -79662,8 +79662,6 @@
 		<Unaerodynamic>1</Unaerodynamic>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
-		<UrbanCamoBonus>2</UrbanCamoBonus>
-		<HearingRangeBonus>-1</HearingRangeBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -79774,7 +79772,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<Electronic>1</Electronic>
-		<UrbanCamoBonus>1</UrbanCamoBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -79971,7 +79968,7 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<APBonus>5</APBonus>
-		<UrbanCamoBonus>7</UrbanCamoBonus>
+		<UrbanCamoBonus>-4</UrbanCamoBonus>
 		<StealthBonus>3</StealthBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -80468,28 +80465,6 @@
 		<szItemName>Nada</szItemName>
 		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
 		<szItemDesc>Index 3081</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3090</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3090</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
-	</ITEM>
-	<ITEM>
-		<uiIndex>3098</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3098</szItemDesc>
 		<usItemClass>1</usItemClass>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
