@@ -1389,7 +1389,7 @@
 	<!-- Sandman -->
 	<BACKGROUND>
 		<uiIndex>58</uiIndex>
-		<szName>Professional Thief</szName>
+		<szName>Aspiring Thief</szName>
 		<szShortName>Thief</szShortName>
 		<szDescription>When offered to take it or leave it, you always chose 'take'.</szDescription>
 		<agility>6</agility>
@@ -1410,9 +1410,9 @@
 	<!-- Sparky -->
 	<BACKGROUND>
 		<uiIndex>59</uiIndex>
-		<szName>Valley Girl Technician</szName>
-		<szShortName>Valley Girl/Tech</szShortName>
-		<szDescription>Valley girl wrench wench, and perhaps the best of the Roachburn siblings!</szDescription>
+		<szName>Technician</szName>
+		<szShortName>Technician</szShortName>
+		<szDescription>Time and youth are fleeting, so after children she took up a worthwhile trade.</szDescription>
 		<dexterity>5</dexterity>
 		<mechanical>5</mechanical>
 		<ap_fortify>-20</ap_fortify>
@@ -1432,7 +1432,7 @@
 		<uiIndex>60</uiIndex>
 		<szName>Hunter</szName>
 		<szShortName>Hunter</szShortName>
-		<szDescription>Kills quarry for pelts or bounty, using club, poison, gun, or &#10;drowning method.</szDescription>
+		<szDescription>Kills quarry for pelts or bounty, using whatever weapon is at hand, or &#10;what nature provides.</szDescription>
 		<ap_polar>2</ap_polar>
 		<ap_desert>2</ap_desert>
 		<ap_swamp>2</ap_swamp>
@@ -1540,7 +1540,7 @@
 		<uiIndex>65</uiIndex>
 		<szName>Auto Worker/Security Tech</szName>
 		<szShortName>Auto/Security Tech</szShortName>
-		<szDescription>You escaped the ghetto and gangbangers by putting your engineering &#10;skills on the market, and ended up in Arulco.</szDescription>
+		<szDescription>He escaped the ghetto and gangbangers by putting his engineering &#10;skills on the market, and ended up in Arulco.</szDescription>
 		<dexterity>4</dexterity>
 		<mechanical>8</mechanical>
 		<wisdom>3</wisdom>
@@ -1563,7 +1563,7 @@
 		<uiIndex>66</uiIndex>
 		<szName>Mine Repairman</szName>
 		<szShortName>Repairman</szShortName>
-		<szDescription>Being held and tortured in a regime prison left you scarred for the rest &#10;of your life. You relive the nightmare every day, and cannot find peace.</szDescription>
+		<szDescription>Being held and tortured in a regime prison left him scarred for the rest &#10;of his life. This burden has only tempered his resolve.</szDescription>
 		<dexterity>8</dexterity>
 		<mechanical>8</mechanical>
 		<wisdom>3</wisdom>
@@ -1592,7 +1592,7 @@
 		<uiIndex>67</uiIndex>
 		<szName>Knife-Thrower</szName>
 		<szShortName>Knife-Thrower</szShortName>
-		<szDescription>Being held and tortured in a regime prison left you scarred for the rest &#10;of your life. You've come a long way from being a party trickster playing knife throwing games.</szDescription>
+		<szDescription>Being held and tortured in a regime prison left him scarred for the rest &#10;of his life. You've come a long way from being a party trickster playing knife throwing games.</szDescription>
 		<dexterity>8</dexterity>
 		<marksmanship>3</marksmanship>
 		<cth_blades>5</cth_blades>
@@ -1613,7 +1613,7 @@
 		<uiIndex>68</uiIndex>
 		<szName>Sniper/Teacher</szName>
 		<szShortName>Sniper/Teacher</szShortName>
-		<szDescription>Nobody fails your classes . . . and lives!</szDescription>
+		<szDescription>Nobody fails his classes ...and lives!</szDescription>
 		<marksmanship>3</marksmanship>
 		<ap_urban>5</ap_urban>
 		<ap_height>3</ap_height>
@@ -1633,7 +1633,7 @@
 		<uiIndex>69</uiIndex>
 		<szName>Paramedic/Bladesman</szName>
 		<szShortName>Paramedic/Bladesman</szShortName>
-		<szDescription>To heal or to hack? Only how you wield a scalpel decides the outcome.</szDescription>
+		<szDescription>To heal or to hack? Only how he wields a scalpel decides the outcome.</szDescription>
 		<medical>5</medical>
 		<dexterity>3</dexterity>
 		<agility>3</agility>
@@ -1713,7 +1713,7 @@
 		<uiIndex>72</uiIndex>
 		<szName>Prisoner</szName>
 		<szShortName>Prisoner</szShortName>
-		<szDescription>Being held and tortured in a regime prison left you scarred for life. You're not &#10;afraid of death anymore - but there are other things to be afraid of.</szDescription>
+		<szDescription>Being held and tortured in a regime prison left him scarred for life. He's no &#10;longer afraid of death anymore - but there are other things to be afraid of.</szDescription>
 		<leadership>-5</leadership>
 		<resistance_fear>-20</resistance_fear>
 		<resistance_suppression>10</resistance_suppression>
@@ -1731,7 +1731,7 @@
 		<uiIndex>73</uiIndex>
 		<szName>Standover Man</szName>
 		<szShortName>Standover Man</szShortName>
-		<szDescription>Your laid-back sense of humor sometimes belies the fact your threatening demeanor works &#10;wonders when getting things you or others want.</szDescription>
+		<szDescription>His laid-back sense of humor sometimes belies the fact his threatening demeanor works &#10;wonders when getting things he or others want.</szDescription>
 		<leadership>8</leadership>
 		<dexterity>2</dexterity>
 		<strength>5</strength>
@@ -1955,9 +1955,9 @@
 	<!-- Imposter -->
 	<BACKGROUND>
 		<uiIndex>83</uiIndex>
-		<szName>Terrorist Slasher</szName>
-		<szShortName>Terrorist Slasher</szShortName>
-		<szDescription>Wanted by Interpol, a meat cleaver killer, and master of disguise.</szDescription>
+		<szName>Serial Killer</szName>
+		<szShortName>Serial Killer</szShortName>
+		<szDescription>Wanted by Interpol, a meat cleaver murderer, and master of disguise.</szDescription>
 		<strength>3</strength>
 		<dexterity>6</dexterity>
 		<agility>6</agility>
@@ -5054,13 +5054,14 @@
 		<uiIndex>234</uiIndex>
 		<szName>Professional Thief/Convict</szName>
 		<szShortName>Thief/Convict</szShortName>
-		<szDescription>Prison is college for criminals . . . if they survive the course load. &#10;Jimmy passed with honors.</szDescription>
+		<szDescription>Prison is college for criminals ...if they survive the course load. &#10;Jimmy passed with honors.</szDescription>
 		<agility>6</agility>
 		<dexterity>6</dexterity>
 		<approach_threaten>10</approach_threaten>
 		<resistance_poison>5</resistance_poison>
 		<resistance_physical>5</resistance_physical>
 		<resistance_fear>8</resistance_fear>
+		<betterprices>10</betterprices>  
 		<meleedamage>7</meleedamage>
 		<ap_urban>5</ap_urban>
 		<ap_inventory>-25</ap_inventory>
