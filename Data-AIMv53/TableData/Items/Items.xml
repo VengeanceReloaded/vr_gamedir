@@ -1121,6 +1121,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>24</ubClassIndex>
+		<AvailableAttachmentPoint>16384</AvailableAttachmentPoint>	<!-- Muzzle - Rifle Grenade -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>24</ubGraphicNum>
 		<ubWeight>38</ubWeight>
@@ -1227,7 +1228,7 @@
 		<uiIndex>27</uiIndex>
 		<szItemName>M14</szItemName>
 		<szLongItemName>M14</szLongItemName>
-		<szItemDesc>The M14 is about as All-American as apple pie and the 4th of July. Any A-Team equipped with this rifle is gunning for victory. Due to it's accuracy it can be converted to a Designated Marksman Rifle or DMR for Medium to long range engagements.</szItemDesc>
+		<szItemDesc>The M14 is about as All-American as apple pie and the 4th of July. Any A-Team equipped with this rifle is gunning for victory. Due to it's accuracy it can be converted to a Designated Marksman Rifle for Medium to long range engagements.</szItemDesc>
 		<szBRName>M14</szBRName>
 		<szBRDesc>This classic automatic rifle is highly revered for its long-range accuracy and its reliable, jam-resistant action. Truly American through and through it offers multiple firing options, but is best kept locked at semi-automatic.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -1304,6 +1305,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>29</ubClassIndex>
+		<AvailableAttachmentPoint>16384</AvailableAttachmentPoint>				<!-- Muzzle - Rifle Grenade -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>6</ubGraphicType>
@@ -18157,6 +18159,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>629</ubClassIndex>
+		<AvailableAttachmentPoint>16384</AvailableAttachmentPoint>			<!-- Muzzle - Rifle Grenade -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>222</ubGraphicNum>
@@ -18263,6 +18266,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>632</ubClassIndex>
+		<AvailableAttachmentPoint>16384</AvailableAttachmentPoint>	<!-- Muzzle - Rifle Grenade -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>86</ubGraphicNum>
 		<ubWeight>34</ubWeight>
@@ -23365,6 +23369,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>762</ubClassIndex>
+		<AvailableAttachmentPoint>16384</AvailableAttachmentPoint>	<!-- Muzzle - Rifle Grenade -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>272</ubGraphicNum>
@@ -47782,9 +47787,9 @@
 		<uiIndex>1581</uiIndex>
 		<szItemName>Rifle Grenade Device</szItemName>
 		<szLongItemName>Rifle Grenade Device</szLongItemName>
-		<szItemDesc>This little device enables your rifle to fire grenades. A loaded magazine is required, and obviously no other firing mdoes are possible while there is a grenade attached.</szItemDesc>
+		<szItemDesc>This little device enables your rifle to fire grenades. A loaded magazine is required, and obviously no other firing modes are possible while there is a grenade attached.</szItemDesc>
 		<szBRName>Rifle Grenade Device</szBRName>
-		<szBRDesc>Transform your WW2 rifleman into a WW2 grenadier.</szBRDesc>
+		<szBRDesc>Bring back the good old days and transform your rifleman into a grenadier with this handy device.</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<AttachmentClass>33554432</AttachmentClass>
 		<nasAttachmentClass>2</nasAttachmentClass>
@@ -56732,6 +56737,7 @@
 		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>16384</AvailableAttachmentPoint>	<!-- Muzzle - Rifle Grenade -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>	<!-- UB - Grippod/GripLight -->
@@ -56775,6 +56781,7 @@
 		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>16384</AvailableAttachmentPoint>	<!-- Muzzle - Rifle Grenade -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>	<!-- UB - Grippod/GripLight -->
@@ -59798,6 +59805,7 @@
 		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>16384</AvailableAttachmentPoint>		<!-- Muzzle - Rifle Grenade -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
