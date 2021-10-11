@@ -19861,10 +19861,21 @@
 		<szLongItemName>HK MP7A1</szLongItemName>
 		<szItemDesc>The MP7 is a compact submachine gun with folding forward grip and telescoped buttstock, and is designed to fire special, high velocity 4.6mm ammunition.</szItemDesc>
 		<szBRName>HK MP7A1</szBRName>
-		<szBRDesc>The MP7 is a compact submachine gun with folding forward grip and telescoped buttstock, and is designed to fire special, high velocity 4.6mm ammunition.</szBRDesc>
+		<szBRDesc>This updated version of the MP7 features a telescoped buttstock, a redesigned pistol grip and a larger capacity magazine for 4.6mm ammo.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>673</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>		<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>			<!-- Muzzle - Gun Barrel Extender -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>4194304</AvailableAttachmentPoint>		<!-- Sights - Night/Thermal Sight -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>	<!-- Internal - Trigger Group -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>74</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -56006,12 +56017,17 @@
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2032</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>		<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>4194304</AvailableAttachmentPoint>		<!-- Sights - Night/Thermal Sight -->
 		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
+		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>	<!-- Internal - Trigger Group -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->	
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
@@ -74430,7 +74446,7 @@
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>8</AttachmentClass>
 		<nasAttachmentClass>8</nasAttachmentClass>
-		<AttachmentPoint>4194304</AttachmentPoint>	<!-- Sights - Night/Termal Sight -->
+		<AttachmentPoint>4194304</AttachmentPoint>	<!-- Sights - Night/Thermal Sight -->
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>660</ubGraphicNum>
 		<ubWeight>5</ubWeight>
