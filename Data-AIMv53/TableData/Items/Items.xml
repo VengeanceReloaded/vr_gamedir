@@ -64140,8 +64140,8 @@
 		<uiIndex>2295</uiIndex>
 		<szItemName>.50 BMG Box M</szItemName>
 		<szLongItemName>.50 BMG Ammo Box, Match</szLongItemName>
-		<szItemDesc>This nice little box contains .50 BMG Match bullets.</szItemDesc>
-		<szBRName>.50 BMG Ammo Box, Match</szBRName>
+		<szItemDesc>This really isn't a case of 'This is gonna hurt you more than me.'</szItemDesc>
+		<szBRName>.50 BMG Box Match</szBRName>
 		<szBRDesc>This nice little box contains 15 .50 BMG Match bullets.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>385</ubClassIndex>
@@ -64167,7 +64167,7 @@
 		<szItemName>.30 Car Mag T</szItemName>
 		<szLongItemName>.30 Car Magazine, Tracer</szLongItemName>
 		<szItemDesc>A 30-round M1 magazine with Tracer ammo.</szItemDesc>
-		<szBRName>.30 Car Magazine, Tracer</szBRName>
+		<szBRName>.30 Car Mag Tracer</szBRName>
 		<szBRDesc>Tracer ammo for the old M1 Carbine.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>651</ubClassIndex>
@@ -64214,7 +64214,7 @@
 		<szItemName>.30 Car Box T</szItemName>
 		<szLongItemName>.30 Car Box, Tracer</szLongItemName>
 		<szItemDesc>Tracer ammo for the full auto .30 carbine variants.</szItemDesc>
-		<szBRName>.30 Car Box, Tracer</szBRName>
+		<szBRName>.30 Car Box Tracer</szBRName>
 		<szBRDesc>Tracer ammo for the full auto .30 carbine variants.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>655</ubClassIndex>
@@ -72183,7 +72183,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>20</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72210,7 +72209,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>2</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72237,7 +72235,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72279,8 +72276,7 @@
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BR_NewInventory>0</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>		
+		<BR_UsedInventory>0</BR_UsedInventory>		
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72310,10 +72306,9 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>10</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<StealthBonus>-10</StealthBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72336,9 +72331,8 @@
 		<usPrice>80</usPrice>
 		<ubCoolness>0</ubCoolness>
 		<Sinks>1</Sinks>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>8</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72372,7 +72366,6 @@
 		<BrightLightVisionRangeBonus>5</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>0</PercentTunnelVision>
 		<GasMask>1</GasMask>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72406,7 +72399,6 @@
 		<BrightLightVisionRangeBonus>-5</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>0</PercentTunnelVision>
 		<GasMask>1</GasMask>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72438,7 +72430,6 @@
 		<CaveVisionRangeBonus>-10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
 		<StealthBonus>-5</StealthBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72471,7 +72462,6 @@
 		<DayVisionRangeBonus>0</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>-5</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72497,7 +72487,7 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Attachment>1</Attachment>
-		<SciFi>1</SciFi>
+		<SciFi>0</SciFi>
 		<UrbanCamoBonus>25</UrbanCamoBonus>
 		<NightVisionRangeBonus>-10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>5</DayVisionRangeBonus>
@@ -72508,7 +72498,6 @@
 		<DesertCamoBonus>-10</DesertCamoBonus>
 		<SnowCamoBonus>-10</SnowCamoBonus>
 		<StealthBonus>-10</StealthBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72537,7 +72526,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<StealthBonus>5</StealthBonus>
 		<UrbanCamoBonus>10</UrbanCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -73941,10 +73929,10 @@
 	<ITEM>
 		<uiIndex>2813</uiIndex>
 		<szItemName>NV Binoculars</szItemName>
-		<szLongItemName>Sight - 10x40 NV Binoculars</szLongItemName>
-		<szItemDesc>Quality Night Vision Binoculars.</szItemDesc>
-		<szBRName>Sight - 10x40 NV Binoculars</szBRName>
-		<szBRDesc>These quality Binolculars provide excellent view even under bad light conditions.</szBRDesc>
+		<szLongItemName>10x40 NV Binoculars</szLongItemName>
+		<szItemDesc>Quality Night Vision Binoculars with 10 times magnification.</szItemDesc>
+		<szBRName>10x40 NV Binoculars</szBRName>
+		<szBRDesc>These quality binoculars use FMC multi-layer coatings to provide excellent vision even under bad lighting conditions.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>201</ubGraphicNum>
@@ -73979,9 +73967,9 @@
 	<ITEM>
 		<uiIndex>2814</uiIndex>
 		<szItemName>Night Spy</szItemName>
-		<szLongItemName>Sight - Night Spy</szLongItemName>
+		<szLongItemName>Night Spy Sight</szLongItemName>
 		<szItemDesc>A compact monocular night vision device.</szItemDesc>
-		<szBRName>Night Spy sight</szBRName>
+		<szBRName>Night Spy Sight</szBRName>
 		<szBRDesc>A compact monocular night vision device.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -74017,10 +74005,10 @@
 	<ITEM>
 		<uiIndex>2815</uiIndex>
 		<szItemName>Spotting Scope</szItemName>
-		<szLongItemName>Sight - 30x60 Spotting Scope</szLongItemName>
-		<szItemDesc>The perfect Scope for the spotter of your sniper team.</szItemDesc>
+		<szLongItemName>30x60 Spotting Scope</szLongItemName>
+		<szItemDesc>A high powered, waterproof spotting scope for your sniper squad.</szItemDesc>
 		<szBRName>30x60 Spotting Scope</szBRName>
-		<szBRDesc>The perfect Scope for the spotter of your sniper team.</szBRDesc>
+		<szBRDesc>Triplet Apochromatic lens combined with high density, extra-low dispersion glass makes this the perfect scope for the spotter of your sniper team.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentPoint>4398046511104</AttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<ubGraphicType>6</ubGraphicType>
@@ -74033,7 +74021,7 @@
 		<bReliability>2</bReliability>
 		<bRepairEase>-5</bRepairEase>
 		<Damageable>1</Damageable>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
