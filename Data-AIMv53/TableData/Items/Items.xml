@@ -55172,7 +55172,6 @@
 		<BR_ROF>23</BR_ROF>
 		<Crowbar>1</Crowbar>
 		<Hardware>1</Hardware>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -56901,7 +56900,7 @@
 		<uiIndex>2054</uiIndex>
 		<szItemName>XM177E1 C-Mag</szItemName>
 		<szLongItemName>Colt XM177-E1 C-Mag</szLongItemName>
-		<szItemDesc>This gun would have had Charile running for the hills if it had been equiped with a 100 round magazine like this one back in the day.</szItemDesc>
+		<szItemDesc>This gun would have had Charlie running for the hills if it had been equiped with a 100 round magazine like this one back in the day.</szItemDesc>
 		<szBRName>Colt XM177-E1 C-Mag</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -58461,7 +58460,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>30</BR_ROF>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -60130,7 +60128,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>28</BR_ROF>
 		<ToHitBonus>-3</ToHitBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentHandling>-10</PercentHandling>
 			<PercentMaxCounterForce>-10</PercentMaxCounterForce>
@@ -60204,9 +60201,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<SciFi>1</SciFi>
+		<SciFi>0</SciFi>
 		<BR_ROF>22</BR_ROF>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<PoisonPercentage>2</PoisonPercentage>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -62132,7 +62128,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -62156,7 +62151,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -62180,7 +62174,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -62204,7 +62197,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -62228,7 +62220,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -62251,7 +62242,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -62277,7 +62267,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>-30</RangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -66536,7 +66525,7 @@
 		<uiIndex>2435</uiIndex>
 		<szItemName>Improvised Grenade</szItemName>
 		<szLongItemName>Improvised Grenade</szLongItemName>
-		<szItemDesc>Take some marbles, a jar and a chunk of C1 plastic explosives and you get a nice little homemade handgrenade.</szItemDesc>
+		<szItemDesc>Take some marbles, a jar and a chunk of C1 plastic explosives and you get a nice little homemade hand grenade.</szItemDesc>
 		<szBRName>Improvised Grenade</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>256</usItemClass>
@@ -66556,7 +66545,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75350,40 +75338,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2855</uiIndex>
-		<szItemName>mod. Scope, 7x Combo</szItemName>
-		<szLongItemName>mod. Scope, 7x Combo</szLongItemName>
-		<szItemDesc>A combination of 7x battle scope and reflex sight.</szItemDesc>
-		<szBRName>mod. Scope, 7x Combo</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
-		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>894</ubGraphicNum>
-		<ubWeight>4</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>18</ItemSize>
-		<usPrice>2750</usPrice>
-		<ubCoolness>7</ubCoolness>
-		<bRepairEase>-6</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<NotBuyable>1</NotBuyable>
-		<Attachment>1</Attachment>
-		<WaterDamages>1</WaterDamages>
-		<Electronic>1</Electronic>
-		<Inseparable>1</Inseparable>
-		<AimBonus>15</AimBonus>
-		<MinRangeForAimBonus>45</MinRangeForAimBonus>
-		<PercentAPReduction>20</PercentAPReduction>
-		<DamageBonus>1</DamageBonus>
-		<NightVisionRangeBonus>25</NightVisionRangeBonus>
-		<DayVisionRangeBonus>70</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
-		<PercentTunnelVision>70</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
+		<szItemName>Nada</szItemName>
+		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
+		<szItemDesc>Index 3081</szItemDesc>
+		<usItemClass>1</usItemClass>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -77207,11 +77166,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2922</uiIndex>
-		<szItemName>S. 2x R.L</szItemName>
+		<szItemName>Scope 2x R.L</szItemName>
 		<szLongItemName>Scope, 2x Reflex &amp; Laser</szLongItemName>
-		<szItemDesc>A useful combination of small scope, Reddot LAM and Reflex Sight. Great if you need to save attachment slots.</szItemDesc>
-		<szBRName>mod. Scope, 2x Reflex &amp; Laser</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szItemDesc>A useful combination of small scope, a red dot LAM and a Reflex Sight held together with glue, duct tape and ingenuity.</szItemDesc>
+		<szBRName>WOZ x2 Scope Reflex &amp; Laser</szBRName>
+		<szBRDesc>Not for sale - Combo merge item</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -77245,7 +77204,6 @@
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>10</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
