@@ -77173,6 +77173,7 @@
 		<szBRDesc>Not for sale - Combo merge item</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
+		<AttachmentPoint>4</AttachmentPoint>	<!-- Laser - Small -->
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>890</ubGraphicNum>
 		<ubWeight>3</ubWeight>
