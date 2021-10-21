@@ -7313,7 +7313,7 @@
 		<szLongItemName>Laser Sight</szLongItemName>
 		<szItemDesc>The Universal Daylight Laser projects a highly visible red spot at a rather significant range. In a stainless steel housing, it fits onto the trigger guard of most sub-machine guns and pistols.</szItemDesc>
 		<szBRName>Laser Sight</szBRName>
-		<szBRDesc>You won't lose sight of your target when using one of these. The Universal Daylight Laser projects a highly visible red spot upt to 100ft during the day and over 1,000ft at night. In a stainless steel housing, it fits onto the trigger guard of most weapons.</szBRDesc>
+		<szBRDesc>The Universal Daylight Laser projects a highly visible red spot upto 100ft during the day and over 1,000ft at night. In a lightweight stainless steel housing, it fits onto the trigger guard of most weapons.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
@@ -30738,7 +30738,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>982</uiIndex>
-		<szItemName>40mm Thermobaric Cylinder</szItemName>
+		<szItemName>40mm Therm Cyl</szItemName>
 		<szLongItemName>40mm Thermobaric Cylinder</szLongItemName>
 		<szItemDesc>This cylinder of 40mm fuel-air grenades transforms the user into a walking, talking WMD.</szItemDesc>
 		<szBRName>40mm Thermobaric Cylinder</szBRName>
@@ -30800,7 +30800,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>984</uiIndex>
-		<szItemName>40mm MS Tear Gas</szItemName>
+		<szItemName>40mm MS Tear</szItemName>
 		<szLongItemName>40mm Metal Storm Tear Gas</szLongItemName>
 		<szItemDesc>Intended for riot control, we're sure you'll find some other use for this 3 round stack of 40mm tear gas.</szItemDesc>
 		<szBRName>40mm Metal Storm Tear Gas</szBRName>
@@ -30890,7 +30890,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>987</uiIndex>
-		<szItemName>40mm MS Thermobaric</szItemName>
+		<szItemName>40mm MS Therm'</szItemName>
 		<szLongItemName>40mm Metal Storm Thermobaric</szLongItemName>
 		<szItemDesc>This stack contains 3 rounds of 40mm Thermobaric. Caution: Check range before use.</szItemDesc>
 		<szBRName>40mm Metal Storm Thermobaric</szBRName>
@@ -31037,7 +31037,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>992</uiIndex>
-		<szItemName>40mm Napalm Cylinder</szItemName>
+		<szItemName>40mm Napalm Cyl</szItemName>
 		<szLongItemName>40mm Napalm Cylinder</szLongItemName>
 		<szItemDesc>This cylinder of 40mm napalm grenades transforms the user into a walking, talking WMD.</szItemDesc>
 		<szBRName>40mm Napalm Cylinder</szBRName>
@@ -31130,7 +31130,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>995</uiIndex>
-		<szItemName>40mm Illumination</szItemName>
+		<szItemName>40mm Illumin'</szItemName>
 		<szLongItemName>40mm Illumination Grenade</szLongItemName>
 		<szItemDesc>An illumination grenade for night fighting.</szItemDesc>
 		<szBRName>40mm Illumination Grenade</szBRName>
@@ -31261,7 +31261,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>999</uiIndex>
-		<szItemName>PSO-1</szItemName>
+		<szItemName>Scope PSO-1</szItemName>
 		<szLongItemName>PSO-1 Scope</szLongItemName>
 		<szItemDesc>Russian standard scope that fits many AK-type rifles. Magnification is x4.</szItemDesc>
 		<szBRName>PSO-1 Scope</szBRName>
@@ -31305,7 +31305,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1000</uiIndex>
-		<szItemName>PSO-3</szItemName>
+		<szItemName>Scope PSO-3</szItemName>
 		<szLongItemName>PSO-3 Scope</szLongItemName>
 		<szItemDesc>Better than the PSO-1 (Magnification is 8x), this scope is often used on Russian DMRs and sniper rifles.</szItemDesc>
 		<szBRName>PSO-3 Scope</szBRName>
@@ -73638,7 +73638,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2803</uiIndex>
-		<szItemName>AK CK</szItemName>
+		<szItemName>AK kit</szItemName>
 		<szLongItemName>AK Conversion Kit</szLongItemName>
 		<szItemDesc>This conversion Kit will turn your vintage SKS rifle or certain AK variants into a modernized version.</szItemDesc>
 		<szBRName>AK Conversion Kit</szBRName>
@@ -73690,11 +73690,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2805</uiIndex>
-		<szItemName>SAM-R CK</szItemName>
+		<szItemName>SAM-R kit</szItemName>
 		<szLongItemName>M16A4 SAM-R Conversion Kit</szLongItemName>
 		<szItemDesc>This kit converts your M16A4 assault rifle into the Squad Advanced Marksman Rifle configuration.</szItemDesc>
-		<szBRName>M16A4 SAM-R Conversion Kit</szBRName>
-		<szBRDesc>This kit converts your M16A4 assault rifle into the Squad Advanced Marksman Rifle configuration.</szBRDesc>
+		<szBRName>M16A4 SAM-R Kit</szBRName>
+		<szBRDesc>This kit has all you need to convert your M16A4 assault rifle into a Squad Advanced Marksman Rifle configuration.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>818</ubGraphicNum>
@@ -73742,7 +73742,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2807</uiIndex>
-		<szItemName>AUG Medium Barrel Kit</szItemName>
+		<szItemName>AUG Med Barrel</szItemName>
 		<szLongItemName>AUG Medium Barrel Kit</szLongItemName>
 		<szItemDesc>This 5.56mm barrel will convert your AUG-CQB or AUG HBAR into the AUG-A2 configuration.</szItemDesc>
 		<szBRName>AUG Medium Barrel Kit</szBRName>
@@ -73768,7 +73768,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2808</uiIndex>
-		<szItemName>AUG Heavy Barrel</szItemName>
+		<szItemName>AUG Hvy Barrel</szItemName>
 		<szLongItemName>AUG Heavy Barrel Kit</szLongItemName>
 		<szItemDesc>This heavy 5.56mm barrel will convert your AUG-CQB or AUG-A2 into the AUG HBAR configuration.</szItemDesc>
 		<szBRName>AUG Heavy Barrel Kit</szBRName>
@@ -73821,7 +73821,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2810</uiIndex>
-		<szItemName>ON-M99</szItemName>
+		<szItemName>ON-M99 Scope</szItemName>
 		<szLongItemName>ON-M99 Scope</szLongItemName>
 		<szItemDesc>This Iraqi made scope fits the Tabuk sniper rifle or any other rifle with an AK receiver.</szItemDesc>
 		<szBRName>ON-M99 Scope</szBRName>
@@ -73958,7 +73958,7 @@
 		<szLongItemName>Night Spy Sight</szLongItemName>
 		<szItemDesc>A compact monocular night vision device.</szItemDesc>
 		<szBRName>Night Spy Sight</szBRName>
-		<szBRDesc>A compact monocular night vision device.</szBRDesc>
+		<szBRDesc>A lightweight, compact monocular night vision device making use of a no-glow infrared illuminator and multi-coated lens.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>202</ubGraphicNum>
@@ -73985,7 +73985,6 @@
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -74707,7 +74706,7 @@
 		<szBRName>Scope 7x Combo</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
+		<nasAttachmentClass>4</nasAttachmentClass>
 		<AttachmentPoint>8796093022208</AttachmentPoint>	<!-- Scopes - Battle 7x -->
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>894</ubGraphicNum>
@@ -75224,7 +75223,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2852</uiIndex>
-		<szItemName>ACOG R.</szItemName>
+		<szItemName>ACOG Reflex</szItemName>
 		<szLongItemName>mod. Scope, 4x ACOG Reflex</szLongItemName>
 		<szItemDesc>Trijicon Advanced Combat Optical Gunscope with 4x magnification, an additional DOCTER Reflex Sight has been mounted atop the eyepiece for faster target acquisition.</szItemDesc>
 		<szBRName>mod. Scope, 4x ACOG Reflex</szBRName>
@@ -76929,10 +76928,10 @@
 	<ITEM>
 		<uiIndex>2916</uiIndex>
 		<szItemName>ITL MARS</szItemName>
-		<szLongItemName>A. - ITL MARS</szLongItemName>
-		<szItemDesc>The ITL Multi-purpose Aiming Reflex Sight combines an advanced reflex sight with a high-power laser device. Due to its size it can't be combined with a scope.</szItemDesc>
-		<szBRName>A. - ITL MARS</szBRName>
-		<szBRDesc>The standard sight of the I.M.I. Tavor, the ITL Multi-purpose Aiming Reflex Sight combines an advanced reflex sight with a high-power laser device.</szBRDesc>
+		<szLongItemName>ITL Multipurpose Aiming Reflex Sight</szLongItemName>
+		<szItemDesc>The ITL Multipurpose Aiming Reflex Sight combines an advanced reflex sight with a high-power laser device. Due to its size it can't be combined with a scope.</szItemDesc>
+		<szBRName>ITL MARS</szBRName>
+		<szBRDesc>The standard sight of the IWI Tavor, the ITL Multipurpose Aiming Reflex Sight combines an advanced reflex sight with a high-power laser device.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -77166,14 +77165,14 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2922</uiIndex>
-		<szItemName>Scope 2x R.L</szItemName>
+		<szItemName>Scope 2x R&amp;L</szItemName>
 		<szLongItemName>Scope, 2x Reflex &amp; Laser</szLongItemName>
 		<szItemDesc>A useful combination of small scope, a red dot LAM and a Reflex Sight held together with glue, duct tape and ingenuity.</szItemDesc>
 		<szBRName>WOZ x2 Scope Reflex &amp; Laser</szBRName>
 		<szBRDesc>Not for sale - Combo merge item</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
-		<AttachmentPoint>4</AttachmentPoint>	<!-- Laser - Small -->
+		<nasAttachmentClass>4</nasAttachmentClass>
+		<AttachmentPoint>1099511627776</AttachmentPoint>	<!-- Scopes - Small 2x -->
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>890</ubGraphicNum>
 		<ubWeight>3</ubWeight>
