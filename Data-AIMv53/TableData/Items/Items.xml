@@ -32153,7 +32153,6 @@
 		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>0</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-20</BrightLightVisionRangeBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -59917,7 +59916,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<SciFi>1</SciFi>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
@@ -60031,7 +60029,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<SciFi>1</SciFi>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
@@ -66790,7 +66787,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<Flare>1</Flare>
 		<buddyitem>2457</buddyitem>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -66820,7 +66816,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -66851,7 +66846,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -66882,7 +66876,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -66912,7 +66905,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -66943,7 +66935,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -66974,7 +66965,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -67004,7 +66994,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -67034,7 +67023,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -67064,7 +67052,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -67094,7 +67081,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -67128,7 +67114,6 @@
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>5</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -67163,7 +67148,6 @@
 		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -67176,7 +67160,6 @@
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>142</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2201</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -67190,7 +67173,6 @@
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>179</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -67219,7 +67201,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Electronic>1</Electronic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -67232,7 +67213,6 @@
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>181</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -67245,7 +67225,6 @@
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>182</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -67259,7 +67238,6 @@
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>183</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -67268,7 +67246,7 @@
 		<uiIndex>2462</uiIndex>
 		<szItemName>TNT stick</szItemName>
 		<szLongItemName>TNT stick</szLongItemName>
-		<szItemDesc>Good old reliable trinitrotoluene.</szItemDesc>
+		<szItemDesc>Good old reliable trinitrotoluene, now in a handy throwable size.</szItemDesc>
 		<szBRName>TNT stick</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>256</usItemClass>
@@ -67287,7 +67265,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>0</Repairable>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -67315,7 +67292,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>0</Repairable>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -67344,7 +67320,6 @@
 		<NotBuyable>1</NotBuyable>
 		<BigGunList>1</BigGunList>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -72443,7 +72418,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Attachment>1</Attachment>
-		<SciFi>1</SciFi>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<NightVisionRangeBonus>-5</NightVisionRangeBonus>
@@ -73665,7 +73639,7 @@
 	<ITEM>
 		<uiIndex>2804</uiIndex>
 		<szItemName>Upper SRR</szItemName>
-		<szLongItemName>Upper SRR Barrel Kit</szLongItemName>
+		<szLongItemName>Barrel Kit - Upper SRR</szLongItemName>
 		<szItemDesc>This Upper Receiver will convert an M4A1 Carbine into a Seal Recon Rifle.</szItemDesc>
 		<szBRName>Upper SRR Barrel Kit</szBRName>
 		<szBRDesc>This Upper Receiver kit is all you need to convert an M4A1 Carbine into a SEAL Recon Rifle.</szBRDesc>
@@ -73717,7 +73691,7 @@
 	<ITEM>
 		<uiIndex>2806</uiIndex>
 		<szItemName>AUG Short Barrel</szItemName>
-		<szLongItemName>AUG Short Barrel Kit</szLongItemName>
+		<szLongItemName>Barrel Kit - AUG Short</szLongItemName>
 		<szItemDesc>This barrel will convert your AUG-A2 or AUG HBAR into the AUG-CQB configuration.</szItemDesc>
 		<szBRName>AUG Short Barrel Kit</szBRName>
 		<szBRDesc>This barrel will convert your AUG-A2 or AUG HBAR into the AUG-CQB configuration.</szBRDesc>
@@ -73743,7 +73717,7 @@
 	<ITEM>
 		<uiIndex>2807</uiIndex>
 		<szItemName>AUG Med Barrel</szItemName>
-		<szLongItemName>AUG Medium Barrel Kit</szLongItemName>
+		<szLongItemName>Barrel Kit - AUG Medium</szLongItemName>
 		<szItemDesc>This 5.56mm barrel will convert your AUG-CQB or AUG HBAR into the AUG-A2 configuration.</szItemDesc>
 		<szBRName>AUG Medium Barrel Kit</szBRName>
 		<szBRDesc>This 5.56mm barrel will convert your AUG-CQB or AUG HBAR into the AUG-A2 configuration.</szBRDesc>
@@ -73769,7 +73743,7 @@
 	<ITEM>
 		<uiIndex>2808</uiIndex>
 		<szItemName>AUG Hvy Barrel</szItemName>
-		<szLongItemName>AUG Heavy Barrel Kit</szLongItemName>
+		<szLongItemName>Barrel Kit - AUG Heavy </szLongItemName>
 		<szItemDesc>This heavy 5.56mm barrel will convert your AUG-CQB or AUG-A2 into the AUG HBAR configuration.</szItemDesc>
 		<szBRName>AUG Heavy Barrel Kit</szBRName>
 		<szBRDesc>This heavy 5.56mm barrel will convert your AUG-CQB or AUG-A2 into the AUG HBAR configuration.</szBRDesc>
@@ -73867,7 +73841,7 @@
 		<szItemName>Large Rails</szItemName>
 		<szLongItemName>Large Rails Conversion Kit</szLongItemName>
 		<szItemDesc>These Picatinny rails allow you to convert the telescopic optics versions of several guns to the RAS version.</szItemDesc>
-		<szBRName>Large Rails Conversion Kit</szBRName>
+		<szBRName>Large Rails Kit</szBRName>
 		<szBRDesc>These Picatinny rails allow you to convert the telescopic optics versions of several guns to the RAS version.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -73883,7 +73857,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -73893,7 +73866,7 @@
 		<szItemName>Small Rails</szItemName>
 		<szLongItemName>Small Rails Conversion Kit</szLongItemName>
 		<szItemDesc>These Picatinny rails allow you to convert the telescopic optics versions of the FN P90 to the RAS version.</szItemDesc>
-		<szBRName>Small Rails Conversion Kit</szBRName>
+		<szBRName>Small Rails Kit</szBRName>
 		<szBRDesc>These Picatinny rails allow you to convert the telescopic optics versions of the FN P90 to the RAS version.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -73909,7 +73882,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -79585,7 +79557,6 @@
 		<Damageable>1</Damageable>
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
-		<SciFi>1</SciFi>
 		<ToHitBonus>1</ToHitBonus>
 		<CamoBonus>1</CamoBonus>
 		<HearingRangeBonus>2</HearingRangeBonus>
