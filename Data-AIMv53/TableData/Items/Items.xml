@@ -27548,8 +27548,8 @@
 		<uiIndex>880</uiIndex>
 		<szItemName>Medic Leg' Kit</szItemName>
 		<szLongItemName>Medic Leggings Upgrade Kit</szLongItemName>
-		<szItemDesc>Make use of this kit before your buddy bleeds to death and upgrade your leggings today.</szItemDesc>
-		<szBRName>Medic Leggings Upgrade Kit</szBRName>
+		<szItemDesc>Make use of this kit to upgrade your leggings before your buddy bleeds to death.</szItemDesc>
+		<szBRName>Medic Leggings Kit</szBRName>
 		<szBRDesc>All you ever need to upgrade your Kevlar, Twaron, Spectra or Dyneema leggings to those used by medic specialists.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -27574,7 +27574,7 @@
 		<szItemName>Mech' Vest Kit</szItemName>
 		<szLongItemName>Mechanic Vest Upgrade Kit</szLongItemName>
 		<szItemDesc>This upgrade kit contains the necessary components and tools to convert a Kevlar, Guardian, Twaron, Spectra or Dyneema vest into mechanic-demolitions vest.</szItemDesc>
-		<szBRName>Mechanic Vest Upgrade Kit</szBRName>
+		<szBRName>Mechanic Vest Kit</szBRName>
 		<szBRDesc>Never enough room for your tools? Need an extra pocket for that remote bomb trigger? With this upgrade kit your vest will make a difference.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -27675,7 +27675,7 @@
 		<szLongItemName>Camo Helmet Cover Mk.I</szLongItemName>
 		<szItemDesc>This cover will make your helmet less conspicuous.</szItemDesc>
 		<szBRName>Camo Helmet Cover Mk.I</szBRName>
-		<szBRDesc>Shining brightly helmets are history! One of these camouflaged covers is a perfect upgrade for your helmet.</szBRDesc>
+		<szBRDesc>One of these camouflaged covers is a perfect upgrade for your helmet, removing sheen and adding shade to closer match your surroundings.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
@@ -74680,6 +74680,7 @@
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
 		<AttachmentPoint>8796093022208</AttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AttachToPointAP>20</AttachToPointAP>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>894</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -77145,6 +77146,7 @@
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
 		<AttachmentPoint>1099511627776</AttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AttachToPointAP>20</AttachToPointAP>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>890</ubGraphicNum>
 		<ubWeight>3</ubWeight>
