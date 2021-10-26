@@ -17823,6 +17823,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>619</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>125</ubGraphicNum>
 		<ubWeight>17</ubWeight>
@@ -19700,6 +19701,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>667</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>90</ubGraphicNum>
 		<ubWeight>40</ubWeight>
@@ -19741,6 +19743,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>668</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>334</ubGraphicNum>
 		<ubWeight>35</ubWeight>
@@ -19781,6 +19784,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>669</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>238</ubGraphicNum>
@@ -19859,6 +19863,7 @@
 		<ubClassIndex>671</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>97</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -19900,6 +19905,7 @@
 		<ubClassIndex>672</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>323</ubGraphicNum>
 		<ubWeight>18</ubWeight>
@@ -20003,6 +20009,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>674</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>67</ubGraphicNum>
 		<ubWeight>64</ubWeight>
@@ -20075,6 +20082,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>676</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>194</ubGraphicNum>
 		<ubWeight>46</ubWeight>
@@ -20113,6 +20121,7 @@
 		<ubClassIndex>677</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>62</ubGraphicNum>
 		<ubWeight>23</ubWeight>
@@ -20190,6 +20199,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>679</ubClassIndex>
 		<AvailableAttachmentPoint>131072</AvailableAttachmentPoint>			<!-- Muzzle - Choke -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>183</ubGraphicNum>
 		<ubWeight>31</ubWeight>
@@ -20226,6 +20236,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>680</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>199</ubGraphicNum>
@@ -20263,6 +20274,7 @@
 		<ubClassIndex>681</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>191</ubGraphicNum>
 		<ubWeight>17</ubWeight>
@@ -20470,6 +20482,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>686</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>166</ubGraphicNum>
@@ -20673,6 +20686,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>691</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>226</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -20712,6 +20726,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>692</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>227</ubGraphicNum>
 		<ubWeight>27</ubWeight>
@@ -20791,6 +20806,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>694</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>213</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -20860,6 +20876,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>696</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>91</ubGraphicNum>
 		<ubWeight>39</ubWeight>
@@ -21085,6 +21102,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>702</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>130</ubGraphicNum>
 		<ubWeight>36</ubWeight>
@@ -21154,6 +21172,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>704</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>178</ubGraphicNum>
 		<ubWeight>34</ubWeight>
@@ -21224,6 +21243,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>706</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>120</ubGraphicNum>
 		<ubWeight>48</ubWeight>
@@ -21266,6 +21286,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>707</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>228</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -21301,6 +21322,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>708</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>239</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -21409,6 +21431,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>711</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>128</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -21444,6 +21467,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>712</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>89</ubGraphicNum>
 		<ubWeight>36</ubWeight>
@@ -21479,6 +21503,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>713</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>184</ubGraphicNum>
 		<ubWeight>41</ubWeight>
@@ -21523,6 +21548,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>714</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>185</ubGraphicNum>
 		<ubWeight>34</ubWeight>
@@ -21566,6 +21592,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>715</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>186</ubGraphicNum>
 		<ubWeight>32</ubWeight>
@@ -21975,6 +22002,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>726</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>98</ubGraphicNum>
 		<ubWeight>39</ubWeight>
@@ -22030,6 +22058,7 @@
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>108</ubGraphicNum>
@@ -22077,6 +22106,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>728</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>193</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -22155,6 +22185,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>730</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>99</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -22198,6 +22229,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>731</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>198</ubGraphicNum>
 		<ubWeight>42</ubWeight>
@@ -22245,6 +22277,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>732</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>197</ubGraphicNum>
 		<ubWeight>18</ubWeight>
@@ -22412,6 +22445,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>736</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>229</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -22448,6 +22482,7 @@
 		<ubClassIndex>737</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>107</ubGraphicNum>
 		<ubWeight>49</ubWeight>
@@ -22609,6 +22644,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>741</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>119</ubGraphicNum>
 		<ubWeight>55</ubWeight>
@@ -22642,6 +22678,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>742</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>265</ubGraphicNum>
 		<ubWeight>36</ubWeight>
@@ -22681,6 +22718,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>743</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>234</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -22920,6 +22958,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>749</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>158</ubGraphicNum>
 		<ubWeight>28</ubWeight>
@@ -22963,6 +23002,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>750</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>159</ubGraphicNum>
 		<ubWeight>27</ubWeight>
@@ -23006,6 +23046,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>751</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>161</ubGraphicNum>
 		<ubWeight>22</ubWeight>
@@ -23047,6 +23088,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>752</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>157</ubGraphicNum>
 		<ubWeight>28</ubWeight>
@@ -23125,6 +23167,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>754</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>250</ubGraphicNum>
 		<ubWeight>34</ubWeight>
@@ -23262,6 +23305,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>757</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>266</ubGraphicNum>
@@ -23370,6 +23414,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>760</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>268</ubGraphicNum>
 		<ubWeight>34</ubWeight>
@@ -23407,6 +23452,7 @@
 		<ubClassIndex>761</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>271</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -23447,6 +23493,7 @@
 		<ubClassIndex>762</ubClassIndex>
 		<AvailableAttachmentPoint>16384</AvailableAttachmentPoint>	<!-- Muzzle - Rifle Grenade -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>272</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -23483,6 +23530,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>763</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>273</ubGraphicNum>
 		<ubWeight>24</ubWeight>
@@ -23521,6 +23569,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>764</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>274</ubGraphicNum>
 		<ubWeight>22</ubWeight>
@@ -23556,6 +23605,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>765</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>275</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -23655,6 +23705,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>768</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>278</ubGraphicNum>
 		<ubWeight>18</ubWeight>
@@ -23683,14 +23734,15 @@
 	<ITEM>
 		<uiIndex>769</uiIndex>
 		<szItemName>C7CT</szItemName>
-		<szLongItemName>ColtCanada C7CT</szLongItemName>
+		<szLongItemName>Colt Canada C7CT</szLongItemName>
 		<szItemDesc>This is a DMR-version of the C7-rifle, with built-in bipod and sound suppressor.</szItemDesc>
-		<szBRName>ColtCanada C7CT</szBRName>
+		<szBRName>Colt Canada C7CT</szBRName>
 		<szBRDesc>The C7 "Custom Tactical" is a designated marksman rifle suitable for the spotter of a sniper/spotter-team. Sold with our rugged Battle Scope.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>769</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>281</ubGraphicNum>
 		<ubWeight>49</ubWeight>
@@ -23728,6 +23780,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>770</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>282</ubGraphicNum>
 		<ubWeight>17</ubWeight>
@@ -23799,6 +23852,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>772</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>284</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -23835,6 +23889,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>773</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>279</ubGraphicNum>
 		<ubWeight>46</ubWeight>
@@ -23903,6 +23958,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>775</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>286</ubGraphicNum>
 		<ubWeight>44</ubWeight>
@@ -23944,6 +24000,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>776</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>290</ubGraphicNum>
 		<ubWeight>39</ubWeight>
@@ -24124,6 +24181,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>781</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>294</ubGraphicNum>
 		<ubWeight>36</ubWeight>
@@ -24158,6 +24216,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>782</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>291</ubGraphicNum>
 		<ubWeight>35</ubWeight>
@@ -24233,6 +24292,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>784</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>296</ubGraphicNum>
 		<ubWeight>39</ubWeight>
@@ -24362,6 +24422,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>787</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>578</ubGraphicNum>
@@ -24405,6 +24466,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>788</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>579</ubGraphicNum>
@@ -24447,6 +24509,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>789</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>301</ubGraphicNum>
 		<ubWeight>32</ubWeight>
@@ -24485,6 +24548,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>790</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>584</ubGraphicNum>
@@ -24528,6 +24592,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>791</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>585</ubGraphicNum>
@@ -24571,6 +24636,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>792</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>586</ubGraphicNum>
@@ -24614,6 +24680,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>793</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>587</ubGraphicNum>
@@ -24658,6 +24725,7 @@
 		<ubClassIndex>794</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>303</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -24697,6 +24765,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>795</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>304</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -24733,6 +24802,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>796</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>305</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -24771,6 +24841,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>797</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>306</ubGraphicNum>
 		<ubWeight>34</ubWeight>
@@ -27815,6 +27886,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>887</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>355</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -27850,6 +27922,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>888</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>356</ubGraphicNum>
 		<ubWeight>12</ubWeight>
@@ -27990,6 +28063,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>892</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>349</ubGraphicNum>
 		<ubWeight>14</ubWeight>
@@ -28025,6 +28099,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>893</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>348</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -28061,6 +28136,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>894</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>350</ubGraphicNum>
 		<ubWeight>10</ubWeight>
@@ -28122,6 +28198,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>896</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>345</ubGraphicNum>
 		<ubWeight>42</ubWeight>
@@ -28206,6 +28283,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>898</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>167</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -28243,6 +28321,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>899</ubClassIndex>
 		<AvailableAttachmentPoint>131072</AvailableAttachmentPoint>			<!-- Muzzle - Choke -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>156</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -33367,6 +33446,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1065</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>320</ubGraphicNum>
 		<ubWeight>36</ubWeight>
@@ -33400,6 +33480,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1066</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>315</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -33442,6 +33523,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1067</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>321</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -33558,6 +33640,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1070</ubClassIndex>
 		<AvailableAttachmentPoint>2147483648</AvailableAttachmentPoint>		<!-- Adapter - 5.56x45 C-Mag -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>317</ubGraphicNum>
 		<ubWeight>36</ubWeight>
@@ -33646,6 +33729,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1072</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>316</ubGraphicNum>
 		<ubWeight>37</ubWeight>
@@ -33724,6 +33808,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1074</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>692</ubGraphicNum>
@@ -33800,6 +33885,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1076</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>319</ubGraphicNum>
@@ -33840,6 +33926,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1077</ubClassIndex>
 		<AvailableAttachmentPoint>2305843009213693952</AvailableAttachmentPoint>	<!-- UB Launcher - AG-36 -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>325</ubGraphicNum>
 		<ubWeight>38</ubWeight>
@@ -33886,6 +33973,7 @@
 		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>			<!-- Muzzle - Gun Barrel Extender -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>366</ubGraphicNum>
 		<ubWeight>26</ubWeight>
@@ -37724,6 +37812,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1190</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>338</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -37761,6 +37850,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1191</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>339</ubGraphicNum>
 		<ubWeight>18</ubWeight>
@@ -37829,6 +37919,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1193</ubClassIndex>
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>330</ubGraphicNum>
 		<ubWeight>24</ubWeight>
@@ -37865,6 +37956,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1194</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>332</ubGraphicNum>
 		<ubWeight>11</ubWeight>
@@ -37894,12 +37986,13 @@
 		<uiIndex>1195</uiIndex>
 		<szItemName>MC51</szItemName>
 		<szLongItemName>FR Ordnance MC51</szLongItemName>
-		<szItemDesc>Despite having stopping power in a small package, this was a not so popular gun, due to high maintenace requirements and low controllability in fullauto fire.</szItemDesc>
+		<szItemDesc>Despite having stopping power in a small package, this was a not so popular gun, due to high maintenace requirements and low controllability in full auto fire.</szItemDesc>
 		<szBRName>FR Ordnance MC51</szBRName>
 		<szBRDesc>An even shorter version of the G3KA4 battle rifle, this was made in Great Britain for the SAS.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1195</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>342</ubGraphicNum>
 		<ubWeight>37</ubWeight>
@@ -38106,6 +38199,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1201</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>66</ubGraphicNum>
 		<ubWeight>39</ubWeight>
@@ -41404,6 +41498,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1332</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>359</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -41442,6 +41537,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1333</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>360</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -41480,6 +41576,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1334</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>361</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -55810,6 +55907,7 @@
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2025</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>523</ubGraphicNum>
@@ -55842,6 +55940,7 @@
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2026</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>439</ubGraphicNum>
@@ -55875,6 +55974,7 @@
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2027</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>522</ubGraphicNum>
@@ -56150,6 +56250,7 @@
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
@@ -56674,6 +56775,7 @@
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2046</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>463</ubGraphicNum>
@@ -56708,6 +56810,7 @@
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2047</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>464</ubGraphicNum>
@@ -56742,6 +56845,7 @@
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2048</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>465</ubGraphicNum>
@@ -56776,6 +56880,7 @@
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2049</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>524</ubGraphicNum>
@@ -58719,6 +58824,7 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2095</ubClassIndex>
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>482</ubGraphicNum>
