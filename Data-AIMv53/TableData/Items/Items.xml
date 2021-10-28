@@ -22181,6 +22181,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>728</ubClassIndex>
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>193</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -22224,6 +22225,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>729</ubClassIndex>
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>232</ubGraphicNum>
 		<ubWeight>39</ubWeight>
@@ -22397,6 +22399,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>733</ubClassIndex>
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>132</ubGraphicNum>
 		<ubWeight>62</ubWeight>
@@ -22753,6 +22756,7 @@
 		<ubClassIndex>742</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>265</ubGraphicNum>
 		<ubWeight>36</ubWeight>
@@ -22793,6 +22797,7 @@
 		<ubClassIndex>743</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>234</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -22900,6 +22905,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>746</ubClassIndex>
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>177</ubGraphicNum>
 		<ubWeight>70</ubWeight>
@@ -23033,6 +23039,7 @@
 		<ubClassIndex>749</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>158</ubGraphicNum>
 		<ubWeight>28</ubWeight>
@@ -23077,6 +23084,7 @@
 		<ubClassIndex>750</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>159</ubGraphicNum>
 		<ubWeight>27</ubWeight>
@@ -23121,6 +23129,7 @@
 		<ubClassIndex>751</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>161</ubGraphicNum>
 		<ubWeight>22</ubWeight>
@@ -23163,6 +23172,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>752</ubClassIndex>
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>157</ubGraphicNum>
 		<ubWeight>28</ubWeight>
@@ -23205,6 +23215,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>753</ubClassIndex>
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>123</ubGraphicNum>
 		<ubWeight>42</ubWeight>
@@ -23380,6 +23391,7 @@
 		<ubClassIndex>757</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>266</ubGraphicNum>
@@ -23479,16 +23491,17 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>760</uiIndex>
-		<szItemName>.50 Beo</szItemName>
-		<szLongItemName>.50 Beowulf Rifle</szLongItemName>
+		<szItemName>.50 Beowulf</szItemName>
+		<szLongItemName>Beowulf Rifle</szLongItemName>
 		<szItemDesc>Designed to slay "monsters" in a single blow, the .50 Beowulf rifle from Alexander Arms will make you a legend in your own time; heroic deeds are just moments away - let the ballads begin.</szItemDesc>
-		<szBRName>.50 Beowulf Rifle</szBRName>
+		<szBRName>Beowulf Rifle</szBRName>
 		<szBRDesc>Use what the U.S Coast Guard uses; the Beowulf can eat steel hulls or even engine blocks in a familiar AR-15 based package.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>760</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>268</ubGraphicNum>
 		<ubWeight>34</ubWeight>
@@ -23568,6 +23581,7 @@
 		<AvailableAttachmentPoint>16384</AvailableAttachmentPoint>	<!-- Muzzle - Rifle Grenade -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>272</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -23605,6 +23619,7 @@
 		<ubClassIndex>763</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>273</ubGraphicNum>
 		<ubWeight>24</ubWeight>
@@ -23817,6 +23832,7 @@
 		<ubClassIndex>769</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>281</ubGraphicNum>
 		<ubWeight>49</ubWeight>
@@ -23996,6 +24012,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>774</ubClassIndex>
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>285</ubGraphicNum>
 		<ubWeight>65</ubWeight>
@@ -24075,6 +24092,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>776</ubClassIndex>
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>290</ubGraphicNum>
 		<ubWeight>39</ubWeight>
@@ -24112,6 +24130,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>777</ubClassIndex>
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>287</ubGraphicNum>
 		<ubWeight>34</ubWeight>
@@ -24183,6 +24202,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>779</ubClassIndex>
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>289</ubGraphicNum>
@@ -24256,6 +24276,7 @@
 		<ubClassIndex>781</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>294</ubGraphicNum>
 		<ubWeight>36</ubWeight>
@@ -24291,6 +24312,7 @@
 		<ubClassIndex>782</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>291</ubGraphicNum>
 		<ubWeight>35</ubWeight>
@@ -24367,6 +24389,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>784</ubClassIndex>
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>296</ubGraphicNum>
 		<ubWeight>39</ubWeight>
@@ -24497,6 +24520,7 @@
 		<ubClassIndex>787</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>578</ubGraphicNum>
@@ -24541,6 +24565,7 @@
 		<ubClassIndex>788</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>579</ubGraphicNum>
@@ -24584,6 +24609,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>789</ubClassIndex>
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>301</ubGraphicNum>
 		<ubWeight>32</ubWeight>
@@ -24623,6 +24649,7 @@
 		<ubClassIndex>790</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>584</ubGraphicNum>
@@ -24667,6 +24694,7 @@
 		<ubClassIndex>791</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>585</ubGraphicNum>
@@ -24711,6 +24739,7 @@
 		<ubClassIndex>792</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>586</ubGraphicNum>
@@ -24755,6 +24784,7 @@
 		<ubClassIndex>793</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>587</ubGraphicNum>
@@ -24840,6 +24870,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>795</ubClassIndex>
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>304</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -24877,6 +24908,7 @@
 		<ubClassIndex>796</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>305</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -24916,6 +24948,7 @@
 		<ubClassIndex>797</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>306</ubGraphicNum>
 		<ubWeight>34</ubWeight>
@@ -28273,6 +28306,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>896</ubClassIndex>
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>345</ubGraphicNum>
 		<ubWeight>42</ubWeight>
@@ -33521,6 +33555,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1065</ubClassIndex>
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>320</ubGraphicNum>
 		<ubWeight>36</ubWeight>
@@ -33555,6 +33590,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1066</ubClassIndex>
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>315</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -33672,6 +33708,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1069</ubClassIndex>
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>307</ubGraphicNum>
 		<ubWeight>60</ubWeight>
@@ -33715,6 +33752,7 @@
 		<ubClassIndex>1070</ubClassIndex>
 		<AvailableAttachmentPoint>2147483648</AvailableAttachmentPoint>		<!-- Adapter - 5.56x45 C-Mag -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>317</ubGraphicNum>
 		<ubWeight>36</ubWeight>
@@ -33804,6 +33842,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1072</ubClassIndex>
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>316</ubGraphicNum>
 		<ubWeight>37</ubWeight>
@@ -33960,6 +33999,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1076</ubClassIndex>
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>319</ubGraphicNum>
@@ -34001,6 +34041,7 @@
 		<ubClassIndex>1077</ubClassIndex>
 		<AvailableAttachmentPoint>2305843009213693952</AvailableAttachmentPoint>	<!-- UB Launcher - AG-36 -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>325</ubGraphicNum>
 		<ubWeight>38</ubWeight>
@@ -38067,6 +38108,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1195</ubClassIndex>
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>342</ubGraphicNum>
 		<ubWeight>37</ubWeight>
@@ -38274,6 +38316,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1201</ubClassIndex>
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>66</ubGraphicNum>
 		<ubWeight>39</ubWeight>
@@ -41573,6 +41616,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1332</ubClassIndex>
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>359</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -41612,6 +41656,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1333</ubClassIndex>
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>360</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -41651,6 +41696,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1334</ubClassIndex>
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>361</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -55982,6 +56028,7 @@
 		<ubClassIndex>2025</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>523</ubGraphicNum>
@@ -56015,6 +56062,7 @@
 		<ubClassIndex>2026</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>439</ubGraphicNum>
@@ -56049,6 +56097,7 @@
 		<ubClassIndex>2027</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>522</ubGraphicNum>
@@ -56850,6 +56899,7 @@
 		<ubClassIndex>2046</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>463</ubGraphicNum>
@@ -56885,6 +56935,7 @@
 		<ubClassIndex>2047</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>464</ubGraphicNum>
@@ -56920,6 +56971,7 @@
 		<ubClassIndex>2048</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>465</ubGraphicNum>
@@ -56955,6 +57007,7 @@
 		<ubClassIndex>2049</ubClassIndex>
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>524</ubGraphicNum>
@@ -58891,14 +58944,15 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2095</uiIndex>
-		<szItemName>.50 Beo C-Mag</szItemName>
+		<szItemName>Beowulf C-Mag</szItemName>
 		<szLongItemName>.50 Beowulf Rifle C-Mag</szLongItemName>
-		<szItemDesc>Designed to slay "monsters" in a single blow, the .50 Beowulf rifle from Alexander Arms will make you a legend in your own time; heroic deeds are just moments away - let the ballads begin.</szItemDesc>
-		<szBRName>.50 Beowulf Rifle C-Mag</szBRName>
+		<szItemDesc>Designed to slay "monsters" in a single blow, the .50 Beowulf rifle from Alexander Arms will make you a legend in your own time; heroic deeds are just moments away.</szItemDesc>
+		<szBRName>Beowulf Rifle C-Mag</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2095</ubClassIndex>
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>482</ubGraphicNum>
