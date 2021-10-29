@@ -31727,7 +31727,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1004</uiIndex>
-		<szItemName>Scope 4xC</szItemName>
+		<szItemName>Scope 4x C.</szItemName>
 		<szLongItemName>ACOG Combo, 4x</szLongItemName>
 		<szItemDesc>Trijicon Advanced Combat Optical Gunscope with 4x magnification, an additional DOCTER Reflex Sight has been mounted atop the eyepiece for faster target acquisition.</szItemDesc>
 		<szBRName>ACOG-Combo, Mag.4x</szBRName>
@@ -31776,9 +31776,9 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1005</uiIndex>
-		<szItemName>Insight LAM</szItemName>
+		<szItemName>LAM Insight</szItemName>
 		<szLongItemName>Insight LAM</szLongItemName>
-		<szItemDesc>When a standard laser sight isn't enough, the LAM adds Infrared to increase nighttime visibility. This LAM is an aiming device incorporating a co-aligned infrared and visible aim laser as well as fixed focus infrared illuminator and white light illuminator.</szItemDesc>
+		<szItemDesc>When a standard laser sight isn't enough, the LAM adds Infrared to increase nighttime visibility. This LAM is an aiming device incorporating a co-aligned infrared and visible aiming laser as well as fixed focus infrared illuminator and white light illuminator.</szItemDesc>
 		<szBRName>Insight LAM</szBRName>
 		<szBRDesc>When a standard laser sight isn't enough, the LAM adds Infrared to increase visibility at night. This aiming device incorporates a co-aligned infrared, a visible aim laser, fixed focus infrared illuminator and a white light illuminator.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -31859,7 +31859,7 @@
 		<szItemName>Scope 7x</szItemName>
 		<szLongItemName>Battle Scope, 7x</szLongItemName>
 		<szItemDesc>With this scope you can give precision performance to a bolt-action rifle, AR-10, FAL, G3, SCAR-H, or M-14 serving in the Designated Marksman role.</szItemDesc>
-		<szBRName>Battle Scope, Mag.7x</szBRName>
+		<szBRName>Battle Scope, 7x</szBRName>
 		<szBRDesc>Dramatically improve your targeting accuracy with this extremely versatile battle scope. Attachable to most rifles, you'll quickly appreciate this scope's accurate windage adjustment, a range-finder precision scale, and coated optics.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>16</AttachmentClass>
@@ -31936,7 +31936,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1009</uiIndex>
-		<szItemName>Retractable Stock</szItemName>
+		<szItemName>Retract Stock</szItemName>
 		<szLongItemName>Retractable Stock</szLongItemName>
 		<szItemDesc>This new stock will allow you to raise your weapon faster, but you may have a slightly harder time hitting things.</szItemDesc>
 		<szBRName>Retractable Stock</szBRName>
@@ -32562,10 +32562,10 @@
 	<ITEM>
 		<uiIndex>1030</uiIndex>
 		<szItemName>Scope 4x</szItemName>
-		<szLongItemName>ACOG, 4x</szLongItemName>
+		<szLongItemName>Scope 4x ACOG</szLongItemName>
 		<szItemDesc>Combat gun scope with 4x magnification.</szItemDesc>
-		<szBRName>ACOG, Mag.4x</szBRName>
-		<szBRDesc>A combat gun scope with 4x magnification, including two-piece adapter-mount for eyepiece-mounted accessories.</szBRDesc>
+		<szBRName>Scope 4x ACOG</szBRName>
+		<szBRDesc>This Advanced Combat Optical Gunsight with 4x magnification includes a two-piece adapter-mount for eyepiece-mounted accessories.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>16</AttachmentClass>
 		<nasAttachmentClass>16</nasAttachmentClass>
@@ -49576,7 +49576,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1635</uiIndex>
-		<szItemName>LAM-Flashlight</szItemName>
+		<szItemName>LAM Flashlight</szItemName>
 		<szLongItemName>Rifle LAM-Flashlight Combo</szLongItemName>
 		<szItemDesc>This Laser Aiming Module and tactical flashlight combination is meant to fit on modern rifle rail interface systems. Flashlight is ON.</szItemDesc>
 		<szBRName>Rifle LAM-Flashlight</szBRName>
@@ -74982,7 +74982,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2836</uiIndex>
-		<szItemName>Scope 7x Combo</szItemName>
+		<szItemName>Scope 7x C.</szItemName>
 		<szLongItemName>Scope 7x Combo</szLongItemName>
 		<szItemDesc>A combination of 7x battle scope and reflex sight.</szItemDesc>
 		<szBRName>Scope 7x Combo</szBRName>
@@ -77495,12 +77495,14 @@
 	<ITEM>
 		<uiIndex>2923</uiIndex>
 		<szItemName>ACOG R. L.</szItemName>
-		<szLongItemName>mod. Scope, 4x ACOG Reflex &amp; Laser</szLongItemName>
-		<szItemDesc>A useful combination of 4x Scope, Reddot LAM and Reflex Sight. Great if you need to save attachment slots.</szItemDesc>
-		<szBRName>mod. Scope, 4x ACOG Reflex &amp; Laser</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szLongItemName>4x Scope ACOG Reflex &amp; Laser</szLongItemName>
+		<szItemDesc>A useful combination of 4x Scope, a red dot LAM and Reflex Sight. Great if your gun's accessories slots are fighting for space.</szItemDesc>
+		<szBRName>WOZ 4x ACOG Reflex &amp; Laser</szBRName>
+		<szBRDesc>Not for sale - Combo merge item</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
+		<nasAttachmentClass>4</nasAttachmentClass>
+		<AttachmentPoint>4398046511104</AttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AttachToPointAP>20</AttachToPointAP>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>887</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -77517,7 +77519,6 @@
 		<BigGunList>1</BigGunList>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
-		<Inseparable>1</Inseparable>
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
 		<AimBonus>12</AimBonus>
@@ -77562,7 +77563,6 @@
 		<Attachment>1</Attachment>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
-		<Inseparable>1</Inseparable>
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
 		<AimBonus>15</AimBonus>
@@ -77609,7 +77609,6 @@
 		<Attachment>1</Attachment>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
-		<Inseparable>1</Inseparable>
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>200</BestLaserRange>
 		<AimBonus>15</AimBonus>
@@ -77657,7 +77656,6 @@
 		<BigGunList>1</BigGunList>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
-		<Inseparable>1</Inseparable>
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>200</BestLaserRange>
 		<AimBonus>12</AimBonus>
@@ -77703,7 +77701,6 @@
 		<BigGunList>1</BigGunList>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
-		<Inseparable>1</Inseparable>
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>110</BestLaserRange>
 		<AimBonus>10</AimBonus>
@@ -77751,7 +77748,6 @@
 		<BigGunList>1</BigGunList>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
-		<Inseparable>1</Inseparable>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>25</MinRangeForAimBonus>
 		<PercentAPReduction>25</PercentAPReduction>
