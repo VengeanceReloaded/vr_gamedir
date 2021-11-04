@@ -6423,8 +6423,8 @@
 		<szItemName>Camo - Wood</szItemName>
 		<szLongItemName>Wood Camouflage Kit</szLongItemName>
 		<szItemDesc>The Military Wood Camo Compact includes several green and brown nuanced facial paints, a mirror, and a manual on the proper use and care of your camo compact.</szItemDesc>
-		<szBRName>Camouflage Kit - Wood</szBRName>
-		<szBRDesc>The Military Wood Camo Compact includes several green and brown nuanced facial paints, and a mirror. This long-lasting, non-running, face paint can be easily removed with soap and water. The kit also includes a manual that outlines the proper use and care of your compact.</szBRDesc>
+		<szBRName>Wood Camo Kit</szBRName>
+		<szBRDesc>The Military Woodland Camo Compact includes several green and brown nuanced facial paints, and a mirror. This long-lasting, non-running, face paint can be easily removed with soap and water.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -6551,7 +6551,7 @@
 		<szLongItemName>Bipod</szLongItemName>
 		<szItemDesc>The universal bipod fits most sniper and assault rifles, as well as light machine guns. Made from a die-cast aluminum, it has a coated matte finish. Its legs fold up when not in use for easy storage.</szItemDesc>
 		<szBRName>Bipod</szBRName>
-		<szBRDesc>For ulitmate field accuracy don't forget to pack one of these universal bipods for most of your sniper, assault rifle or LMG. These aluminum and high carbon steel, matte finished items have height adjustment and spring loaded legs which fold up when not in use.</szBRDesc>
+		<szBRDesc>For ultimate field accuracy don't forget to pack one of these universal bipods for most of your sniper, assault rifle or LMG. These aluminum and high carbon steel, matte finished items have height adjustment and spring loaded legs which fold up when not in use.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>1</AttachmentClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
@@ -28937,7 +28937,7 @@
 		<szLongItemName>HK 79 Grenade Launcher</szLongItemName>
 		<szItemDesc>A little known underbarrel grenade launcher for Heckler &amp; Kochs older rifles. The drop down barrel can take NATO grenades of any length.</szItemDesc>
 		<szBRName>HK 79 Grenade Launcher</szBRName>
-		<szBRDesc>This is the German equivalent to the American M203 underbarrel grenade launcher. The HK79 is slightly longer and will fit only on older HK rifles. It can fire all NATO 40mm grenades on the market today or tomorrow.</szBRDesc>
+		<szBRDesc>This is the German equivalent to the American M203 underbarrel grenade launcher. The HK79 is slightly longer and will fit only on older HK rifles. It can fire all NATO 40mm grenades on the market today.</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -32460,8 +32460,8 @@
 		<szItemName>Camo - Urban</szItemName>
 		<szLongItemName>Urban Camouflage Kit</szLongItemName>
 		<szItemDesc>The Military Urban Camo Compact includes several grey nuanced facial paints, a mirror, and a manual on the proper use and care of your camo compact.</szItemDesc>
-		<szBRName>Camouflage Kit - Urban</szBRName>
-		<szBRDesc>The Military Urban Camo Compact includes several grey nuanced facial paints, and a mirror. This long-lasting, non-running, face paint can be easily removed with soap and water. The kit also includes a manual that outlines the proper use and care of your compact.</szBRDesc>
+		<szBRName>Urban Camo Kit</szBRName>
+		<szBRDesc>The Military Urban Camo Compact includes several grey nuanced facial paints, and a mirror. This long-lasting, non-running, face paint can be easily removed with soap and water.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -32490,9 +32490,9 @@
 		<uiIndex>1028</uiIndex>
 		<szItemName>Camo - Desert</szItemName>
 		<szLongItemName>Desert Camouflage Kit</szLongItemName>
-		<szItemDesc>The Military Desert Camo Compact includes light brown, tan and white cream-based facial paint, a mirror, and a manual on the proper use and care of your camo compact.</szItemDesc>
-		<szBRName>Camouflage Kit - Desert</szBRName>
-		<szBRDesc>The Military Desert Camo Compact includes light brown, tan and white cream based facial paint, and a mirror. This long-lasting, non-running, face paint can be easily removed with soap and water. The kit also includes a manual that outlines the proper use and care of your compact.</szBRDesc>
+		<szItemDesc>The Military Desert Camo Compact includes light brown, tan and cream-based facial paint, a mirror, and a manual on the proper use and care of your camo compact.</szItemDesc>
+		<szBRName>Desert Camo Kit</szBRName>
+		<szBRDesc>The Military Desert Camo Compact includes light brown, tan and cream-based facial paint, and a mirror. This long-lasting, non-running, face paint can be easily removed with soap and water.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -66708,7 +66708,7 @@
 		<szItemName>EFL Mag</szItemName>
 		<szLongItemName>DM 13 Signal Flares Magazine</szLongItemName>
 		<szItemDesc>Signal flares for the HK Emergency Flare Launcher system.</szItemDesc>
-		<szBRName>DM 13 Signal Flares Magazine</szBRName>
+		<szBRName>Signal Flares Mag</szBRName>
 		<szBRDesc>5 signal flares for the HK Emergency Flare Launcher system.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
@@ -71187,7 +71187,7 @@
 		<szItemName>Viper Vest</szItemName>
 		<szLongItemName>Viper South African Vest</szLongItemName>
 		<szItemDesc>The Viper South African Vest is a combat vest primarily for non-frontline troops.</szItemDesc>
-		<szBRName>Viper South African Vest</szBRName>
+		<szBRName>Viper SA Vest</szBRName>
 		<szBRDesc>The Viper South African Vest is a combat vest primarily for non-frontline troops.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>150</ubClassIndex>
@@ -74004,7 +74004,7 @@
 		<szLongItemName>Barrel Kit - AUG Short</szLongItemName>
 		<szItemDesc>This barrel will convert your AUG-A2 or AUG HBAR into the AUG-CQB configuration.</szItemDesc>
 		<szBRName>AUG Short Barrel Kit</szBRName>
-		<szBRDesc>This barrel will convert your AUG-A2 or AUG HBAR into the AUG-CQB configuration.</szBRDesc>
+		<szBRDesc>This barrel converts AUG-A2 or AUG HBAR rifles into the AUG-CQB configuration.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>821</ubGraphicNum>
