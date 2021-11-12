@@ -71819,7 +71819,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2673</uiIndex>
-		<szItemName>Ru.106 Desert Vest</szItemName>
+		<szItemName>106 Desert Vest</szItemName>
 		<szLongItemName>Russian 106 Desert Vest</szLongItemName>
 		<szItemDesc>A very versatile Russian assault vest.</szItemDesc>
 		<szBRName>Russian 106 Desert Vest</szBRName>
@@ -71872,7 +71872,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2675</uiIndex>
-		<szItemName>BP Demolitioner Vest</szItemName>
+		<szItemName>Demolitioner Vest</szItemName>
 		<szLongItemName>BP Demolitioner Vest</szLongItemName>
 		<szItemDesc>A special tactical vest used by BP hostage rescue teams. Carries several magazines, has pockets for handgrenades, several smaller pockets for additional equipment and two special pockets for explosives.</szItemDesc>
 		<szBRName>BP Demolition Vest</szBRName>
@@ -72003,7 +72003,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2680</uiIndex>
-		<szItemName>Demolition Pack</szItemName>
+		<szItemName>Demol' Pack</szItemName>
 		<szLongItemName>Demolitioner Combat Pack</szLongItemName>
 		<szItemDesc>The perfect combat pack for your demolitions expert.</szItemDesc>
 		<szBRName>Demolition Combat Pack</szBRName>
@@ -72030,7 +72030,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2681</uiIndex>
-		<szItemName>CR Kit</szItemName>
+		<szItemName>CasR Kit</szItemName>
 		<szLongItemName>ETAC Casualty Response Kit</szLongItemName>
 		<szItemDesc>ETAC Casualty response kit is the new standard in medical storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
 		<szBRName>ETAC Casualty Response Kit</szBRName>
@@ -72254,7 +72254,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2688</uiIndex>
-		<szItemName>D. AR</szItemName>
+		<szItemName>Dbl AR Pouch</szItemName>
 		<szLongItemName>ETAC Double AR Pouch</szLongItemName>
 		<szItemDesc>ETAC AR Pouches are the new standard in magazine storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
 		<szBRName>ETAC Double AR Pouch</szBRName>
@@ -72286,7 +72286,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2689</uiIndex>
-		<szItemName>Kit Pouch</szItemName>
+		<szItemName>Kit Dr Pouch</szItemName>
 		<szLongItemName>ETAC Kit Drop Pouch</szLongItemName>
 		<szItemDesc>ETAC Kit drop pouches are the new standard in utility storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
 		<szBRName>ETAC Kit Drop Pouch</szBRName>
@@ -72318,7 +72318,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2690</uiIndex>
-		<szItemName>Drop Pouch</szItemName>
+		<szItemName>Drop M Pouch</szItemName>
 		<szLongItemName>ETAC Medium Drop Pouch</szLongItemName>
 		<szItemDesc>A decent sized drop pouch with limited camouflage features.</szItemDesc>
 		<szBRName>ETAC Med Drop Pouch</szBRName>
@@ -72833,10 +72833,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2708</uiIndex>
-		<szItemName>Pro Headset - Extended Ear</szItemName>
-		<szLongItemName>Pro Headset - Extended Ear</szLongItemName>
+		<szItemName>Pro Headset</szItemName>
+		<szLongItemName>Pro Headset</szLongItemName>
 		<szItemDesc>This quality headset offers highly improved hearing range.</szItemDesc>
-		<szBRName>Pro Headset Extended Ear</szBRName>
+		<szBRName>Pro Headset</szBRName>
 		<szBRDesc>Our quality, custom-made headsets offer the highest improved hearing range of any extended ear on the market, guaranteed.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
