@@ -26366,11 +26366,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>838</uiIndex>
-		<szItemName>Leg Protectors</szItemName>
-		<szLongItemName>Leg Protectors</szLongItemName>
-		<szItemDesc>Not just for unruly kids with skateboards and spray cans, these knee pads will prevent unwanted damage to your, you guessed it, knees.</szItemDesc>
-		<szBRName>Leg Protectors</szBRName>
-		<szBRDesc>Not just for unruly kids with skateboards and spray cans, these knee pads will prevent unwanted damage to your, you guessed it, knees.</szBRDesc>
+		<szItemName>Knee Pads</szItemName>
+		<szLongItemName>Knee pads</szLongItemName>
+		<szItemDesc>Not just for unruly kids with skateboards, these knee pads will prevent unwanted damage to your, you guessed it, knees.</szItemDesc>
+		<szBRName>Knee pads</szBRName>
+		<szBRDesc>Not just for unruly kids with skateboards, these knee pads will prevent unwanted damage to your, you guessed it, knees.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -68570,10 +68570,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2520</uiIndex>
-		<szItemName>Leg Protectors UC</szItemName>
-		<szLongItemName>Leg Protectors Urban Camo</szLongItemName>
+		<szItemName>Knee Pads UC</szItemName>
+		<szLongItemName>Knee Pads Urban Camo</szLongItemName>
 		<szItemDesc>Not just for unruly kids with skateboards and spray cans, these knee pads will prevent unwanted damage to your, you guessed it, knees.</szItemDesc>
-		<szBRName>Leg Protectors Urban Camo</szBRName>
+		<szBRName>Knee Pads Urban Camo</szBRName>
 		<szBRDesc>Protect your knees while crawling around in the rubble. Tailored for mobility and performance these one size fits all items are made in America and use Urban Camo colorways.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasAttachmentClass>2</nasAttachmentClass>
@@ -68601,10 +68601,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2521</uiIndex>
-		<szItemName>Leg Protectors DC</szItemName>
-		<szLongItemName>Leg Protectors Desert Camo</szLongItemName>
+		<szItemName>Knee Pads DC</szItemName>
+		<szLongItemName>Knee Pads Desert Camo</szLongItemName>
 		<szItemDesc>You can now dive on the desert dirt when the rockets start flying without paying out on your knees for it.</szItemDesc>
-		<szBRName>Leg Protectors Desert Camo</szBRName>
+		<szBRName>Knee Pads Desert Camo</szBRName>
 		<szBRDesc>Using cell foam padding for shock absorbtion, these desert tan pads are a good choice to keep your knees protected. Made in America.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasAttachmentClass>2</nasAttachmentClass>
