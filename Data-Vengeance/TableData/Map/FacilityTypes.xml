@@ -992,15 +992,10 @@
 			<ubAssignmentType>AMBIENT</ubAssignmentType>
 			<szTooltipText>The homeowners around these parts can get a bit nervous when mercenaries are walking around like they own the place, and Mercs can get a bit nervous 'cause everybody around them is nervous... too many fingers, too many triggers, too many civilians.</szTooltipText>
 			<LOYALTY_LOCAL>
-				<ubChance>99</ubChance>
+				<ubChance>5</ubChance>
 				<bBaseEffect>-1</bBaseEffect>
-				<ubRange>3</ubRange>
+				<ubRange>0</ubRange>
 			</LOYALTY_LOCAL>
-			<LOYALTY_GLOBAL>
-				<ubChance>86</ubChance>
-				<bBaseEffect>-1</bBaseEffect>
-				<ubRange>1</ubRange>
-			</LOYALTY_GLOBAL>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
 
