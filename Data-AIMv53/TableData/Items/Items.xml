@@ -10240,7 +10240,7 @@
 		<uiIndex>344</uiIndex>
 		<szItemName>MP5SD5</szItemName>
 		<szLongItemName>HK MP5SD5</szLongItemName>
-		<szItemDesc>A suppressed version of the H&amp;amp;K MP5 with integral suppressor and a fixed stock from the A4 version.</szItemDesc>
+		<szItemDesc>A suppressed version of the H&amp;K MP5 with integral suppressor and a fixed stock from the A4 version.</szItemDesc>
 		<szBRName>HK MP5SD5</szBRName>
 		<szBRDesc>Special forces worldwide can't be wrong! This suppressed version of the MP5 has the fixed stock of the A4 and the same outstanding build quality.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -60608,7 +60608,6 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>2136</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
 		<ubCursor>3</ubCursor>
@@ -61244,6 +61243,7 @@
 		<ubClassIndex>2147</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
 		<AvailableAttachmentPoint>65536</AvailableAttachmentPoint>		<!-- Muzzle - Duckbill -->
+		<AvailableAttachmentPoint>131072</AvailableAttachmentPoint>			<!-- Muzzle - Choke -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->		
@@ -70289,7 +70289,7 @@
 		<szLongItemName>BP Black Kit Vest</szLongItemName>
 		<szItemDesc>A special tactical vest used by BP hostage rescue teams. Carries an additional sidearm pistol, several magazines, has pockets for handgrenades and has several smaller pockets for additional equipment.</szItemDesc>
 		<szBRName>BP Black Kit Vest</szBRName>
-		<szBRDesc>Very hard to get special tactical vest used by BP hostage rescue teams. Carries an additional sidearm pistol, several magazines, has pockets for handgrenades and has several smaller pockets for additional equipment. The perfect vest for urban scenarios.</szBRDesc>
+		<szBRDesc>Very hard to get special tactical vest used by BP hostage rescue teams. Carries an additional sidearm pistol, several magazines, has pockets for handgrenades and has several smaller pockets for additional equipment. The perfect vest for urban engagements.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>116</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -70313,7 +70313,7 @@
 		<uiIndex>2616</uiIndex>
 		<szItemName>BP Leg Rig</szItemName>
 		<szLongItemName>BP Black Kit Leg Rig</szLongItemName>
-		<szItemDesc>Leg pouch to carry SMG ammunition, as used by BP teams during hostage rescue operations.</szItemDesc>
+		<szItemDesc>A Leg pouch to carry SMG ammo, as used by BP teams during hostage rescue ops.</szItemDesc>
 		<szBRName>BP Black Kit Leg Rig</szBRName>
 		<szBRDesc>Leg pouch to carry SMG ammunition, as used by BP teams during hostage rescue operations.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -70442,7 +70442,7 @@
 		<uiIndex>2621</uiIndex>
 		<szItemName>HSW Pack</szItemName>
 		<szLongItemName>HSW Combat Pack</szLongItemName>
-		<szItemDesc>This Heavy Support Weapon butt pack has loops for up to 6 mortar shells and storage room for additional equipment.</szItemDesc>
+		<szItemDesc>This Heavy Support Weapon butt pack has loops for 6 mortar shells and storage room for additional items.</szItemDesc>
 		<szBRName>HSW Combat Pack</szBRName>
 		<szBRDesc>This Heavy Support Weapon butt pack has loops for up to 6 mortar shells and storage room for additional equipment.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -70495,7 +70495,7 @@
 		<szLongItemName>FN P90 Tactical Vest</szLongItemName>
 		<szItemDesc>This vest was specifically designed to carry magazines for the FN P90 SMG, the pockets will of course store large magazines of other fabricates, as well.</szItemDesc>
 		<szBRName>FN P90 Tactical Vest</szBRName>
-		<szBRDesc>Fresh and new from the factory! If you bought an FN P90 you might want to buy this vest as well, as it was specifically designed to carry up to 4 magazines for the P90.</szBRDesc>
+		<szBRDesc>If you bought an FN P90 you might want to buy this vest as well, as it was specifically designed to carry up to 4 magazines for the P90.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>124</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -70518,7 +70518,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2624</uiIndex>
-		<szItemName>Arulcan RR Vest</szItemName>
+		<szItemName>Arulco RR Vest</szItemName>
 		<szLongItemName>Arulcan Rocket Rifle Vest</szLongItemName>
 		<szItemDesc>Arulcan Battle Vest with two special pockets to carry ammunition for Rocket Rifles.</szItemDesc>
 		<szBRName>Arulcan Rocket Rifle Vest</szBRName>
@@ -70544,7 +70544,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2625</uiIndex>
-		<szItemName>Arulcan RR Leg Rig</szItemName>
+		<szItemName>Arulco RR Leg Rig</szItemName>
 		<szLongItemName>Arulcan Rocket Rifle Leg Rig</szLongItemName>
 		<szItemDesc>Specially developed by the Arulcan Army to store ammunition for Rocket Rifles.</szItemDesc>
 		<szBRName>Arulcan Rocket Rifle Leg Rig</szBRName>
@@ -70569,7 +70569,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2626</uiIndex>
-		<szItemName>60mm Shell P.</szItemName>
+		<szItemName>60mm Shell Rig</szItemName>
 		<szLongItemName>60mm Shells Leg Rig</szLongItemName>
 		<szItemDesc>This panel can store three 60mm mortar shells.</szItemDesc>
 		<szBRName>60mm Shells Leg Rig</szBRName>
@@ -70596,7 +70596,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2627</uiIndex>
-		<szItemName>Lg. Gr. Pouch</szItemName>
+		<szItemName>Lg Gr. Pouch</szItemName>
 		<szLongItemName>Large Grenades Leg Rig</szLongItemName>
 		<szItemDesc>A leg pouch with three pockets for large hand grenades.</szItemDesc>
 		<szBRName>Large Grenades Leg Rig</szBRName>
@@ -70678,7 +70678,7 @@
 		<uiIndex>2630</uiIndex>
 		<szItemName>Small 40mm Gren. LR</szItemName>
 		<szLongItemName>Small 40mm Grenades Leg Rig</szLongItemName>
-		<szItemDesc>This twin pouch for 40mm grenades is mounted on a leg rig. The rig is small enough to allow access to the regular pant pockets.</szItemDesc>
+		<szItemDesc>A twin pouch for 40mm grenades mounted on a leg rig. The rig is small enough to still allow access to the regular pant pockets.</szItemDesc>
 		<szBRName>Small 40mm Grenades Leg Rig</szBRName>
 		<szBRDesc>To be mounted on a leg rig, this twin pouch for 40mm grenades is small enough to still allow access to the regular pant pockets.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -70748,7 +70748,7 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<DesertCamoBonus>3</DesertCamoBonus>
+		<DesertCamoBonus>4</DesertCamoBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -70832,7 +70832,7 @@
 		<uiIndex>2636</uiIndex>
 		<szItemName>AK Chest Rig</szItemName>
 		<szLongItemName>AK Chest Rig Vest</szLongItemName>
-		<szItemDesc>Designed when Punk was in it's infancy, this chest rig primarily to carry AK mags was a common target in mujahideen sights.</szItemDesc>
+		<szItemDesc>Designed when Punk was in its infancy, this chest rig primarily carries AK mags and was a common target in Mujahideen sights.</szItemDesc>
 		<szBRName>AK Chest Rig Vest</szBRName>
 		<szBRDesc>As used in the Afghan war, this Soviet chest rig was designed to mainly hold AK magazines and can combined with a belt.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -70859,7 +70859,7 @@
 		<uiIndex>2637</uiIndex>
 		<szItemName>VOG Rig</szItemName>
 		<szLongItemName>40mm VOG Grenades Rig Combat Pack</szLongItemName>
-		<szItemDesc>This Afghan era Soviet chest rig carries a huge assortment of 40mm VOG grenades and is worn like a combat pack.</szItemDesc>
+		<szItemDesc>This Afghan era Soviet chest rig carries 40mm VOG grenades and is worn like a combat pack.</szItemDesc>
 		<szBRName>VOG Grenades Rig</szBRName>
 		<szBRDesc>This Afghan era Soviet chest rig can carry a huge assortment of 40mm VOG grenades and is worn like a combat pack.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -70886,9 +70886,9 @@
 		<uiIndex>2638</uiIndex>
 		<szItemName>German Army Backpack</szItemName>
 		<szLongItemName>German Army Backpack</szLongItemName>
-		<szItemDesc>This well made, small backpack has capacity for carrying smaller items effeciently.</szItemDesc>
+		<szItemDesc>This well made, small backpack has capacity for carrying smaller items efficiently.</szItemDesc>
 		<szBRName>German Army Backpack</szBRName>
-		<szBRDesc>The backpack used by the German Army carries a number smaller items effeciently.</szBRDesc>
+		<szBRDesc>The backpack used by the German Army carries a number smaller items efficiently.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>139</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -70965,7 +70965,7 @@
 		<uiIndex>2641</uiIndex>
 		<szItemName>Sniper Belt</szItemName>
 		<szLongItemName>Sniper Belt</szLongItemName>
-		<szItemDesc>This Sniper belt offers storage room for short rifle magazines, as used by the SVD rifle, handgrenades and it also has two utility pockets.</szItemDesc>
+		<szItemDesc>Offering storage room for short rifle magazines, as used by the SVD rifle, handgrenades and it also has two utility pockets.</szItemDesc>
 		<szBRName>Sniper Belt</szBRName>
 		<szBRDesc>This Sniper belt offers storage room for short rifle magazines, as used by the SVD rifle, handgrenades and it also has two utility pockets.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -70982,8 +70982,7 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<CamoBonus>7</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<CamoBonus>4</CamoBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71010,7 +71009,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<CamoBonus>5</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71019,7 +71017,7 @@
 		<uiIndex>2643</uiIndex>
 		<szItemName>RPG Pack</szItemName>
 		<szLongItemName>RPG Combat Pack</szLongItemName>
-		<szItemDesc>This combat pack has 4 bandoilers for rocket propelled grenades, as used by the RPG-7. The bandoilers will also store 60mm mortart shells.</szItemDesc>
+		<szItemDesc>A combat pack for 4 rocket propelled grenades, as used by the RPG-7. The bandoilers can also store 60mm mortar shells.</szItemDesc>
 		<szBRName>RPG Combat Pack</szBRName>
 		<szBRDesc>This combat pack has a medium sized pocket, four smaller pockets and four special bandoilers for rocket propelled grenades, as used by the RPG-7. The bandoilers will also store 60mm mortart shells or items of similiar size.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -71037,7 +71035,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>4</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71063,7 +71060,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71072,9 +71068,9 @@
 		<uiIndex>2645</uiIndex>
 		<szItemName>Drum Pouch</szItemName>
 		<szLongItemName>Drum Magazine Leg Rig</szLongItemName>
-		<szItemDesc>A leg pouch to store drum or C-Mag magazines. This rig, features heavy duty side release buckles and fully adjustable double leg straps that are made with durable webbing with solid side release buckles and elastic loops to allow for expansion of the thigh straps during movement.</szItemDesc>
+		<szItemDesc>This exclusive pouch is large enough to store an RPK drum or Beta C-Mag magazine and several smaller items.</szItemDesc>
 		<szBRName>Drum Magazine Leg Rig</szBRName>
-		<szBRDesc>This exclusive pouch is large enough to store an RPK drum or Beta C-Mag magazine and several smaller items.</szBRDesc>
+		<szBRDesc>A leg pouch to store drum or C-Mag magazines. This rig, features heavy duty side release buckles and fully adjustable double leg straps that are made with durable webbing and elastic loops to allow for expansion of the thigh straps during movement.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>146</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -71090,7 +71086,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>3</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71123,14 +71118,13 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>4</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2647</uiIndex>
-		<szItemName>General Purpose Pack</szItemName>
+		<szItemName>GP Pack</szItemName>
 		<szLongItemName>General Purpose Combat Pack</szLongItemName>
 		<szItemDesc>This general purpose butt pack has two side pockets for assault rifle magazines and two smaller outer pockets.</szItemDesc>
 		<szBRName>General Purpose Combat Pack</szBRName>
@@ -71150,14 +71144,13 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>5</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2648</uiIndex>
-		<szItemName>Ru. RM21-G Vest</szItemName>
+		<szItemName>RM21-G Vest</szItemName>
 		<szLongItemName>Russian RM21-G Vest</szLongItemName>
 		<szItemDesc>This assault vest was developed for equipping OMON and SOBR special forces units. It is equipped with pouches for 4 magazines, 6 VOG-25 grenades, 2 handgrenades and 2 medium sized pockets for other items.</szItemDesc>
 		<szBRName>Russian RM21-G Vest</szBRName>
@@ -71177,7 +71170,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>15</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71203,7 +71195,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>15</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71230,7 +71221,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<CamoBonus>20</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71257,7 +71247,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<UrbanCamoBonus>15</UrbanCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71266,7 +71255,7 @@
 		<uiIndex>2652</uiIndex>
 		<szItemName>MG Pack</szItemName>
 		<szLongItemName>ETAC MG Combat Pack</szLongItemName>
-		<szItemDesc>ETAC MG combat packs are the new standard in Ammo storage for the next generation warrior. Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szItemDesc>
+		<szItemDesc>An MG combat pack for Machine gun ammo storage.</szItemDesc>
 		<szBRName>ETAC MG Combat Pack</szBRName>
 		<szBRDesc>ETAC MG combat packs are the new standard in ammo storage for the next generation warrior. These lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -71284,7 +71273,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>4</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71293,9 +71281,9 @@
 		<uiIndex>2653</uiIndex>
 		<szItemName>SAW Vest</szItemName>
 		<szLongItemName>SAW Vest</szLongItemName>
-		<szItemDesc>This SAW Vest can store two ammo belts, several magazines and has a small pistol holster. Camo: Desert MARPAT.</szItemDesc>
+		<szItemDesc>This camouflaged SAW Vest can store two ammo belts, several magazines and has a small pistol holster.</szItemDesc>
 		<szBRName>SAW Vest</szBRName>
-		<szBRDesc>This SAW Vest can store two ammo belts, several magazines and has a small pistol holster. Camo: Desert MARPAT.</szBRDesc>
+		<szBRDesc>This SAW Vest can store two ammo belts, several magazines, has a small pistol holster and comes in MARPAT camo.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>154</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -71311,7 +71299,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>25</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71320,9 +71307,9 @@
 		<uiIndex>2654</uiIndex>
 		<szItemName>Recon LBE</szItemName>
 		<szLongItemName>Recon LBE</szLongItemName>
-		<szItemDesc>This light weight LBE gear is perfectly suited for recon missions.</szItemDesc>
+		<szItemDesc>This lightweight LBE is perfectly suited for recon missions.</szItemDesc>
 		<szBRName>Recon LBE</szBRName>
-		<szBRDesc>This light weight LBE gear is perfectly suited for recon missions.</szBRDesc>
+		<szBRDesc>This lightweight LBE gear is perfectly suited for recon missions.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>155</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -71338,7 +71325,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>12</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71364,7 +71350,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>15</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71373,7 +71358,7 @@
 		<uiIndex>2656</uiIndex>
 		<szItemName>RM22B Vest</szItemName>
 		<szLongItemName>Russian RM22B Vest</szLongItemName>
-		<szItemDesc>This is a versatile Russian special forces vest designed for night operations.</szItemDesc>
+		<szItemDesc>This versatile Russian special forces vest is designed for night ops.</szItemDesc>
 		<szBRName>Russian RM22B Vest</szBRName>
 		<szBRDesc>This is a versatile Russian special forces vest designed for night operations.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -71391,7 +71376,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<StealthBonus>15</StealthBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71417,7 +71401,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<CamoBonus>12</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71426,7 +71409,7 @@
 		<uiIndex>2658</uiIndex>
 		<szItemName>Blackhawk TAC</szItemName>
 		<szLongItemName>Blackhawk TAC Vest</szLongItemName>
-		<szItemDesc>This combat proven, quality chest harness features multiple sewn-on mag pouches as well as zipped pockets perfect for holding documents, maps, pens and other accessories.</szItemDesc>
+		<szItemDesc>This quality chest harness features multiple sewn-on mag pouches and zipped pockets for holding documents, maps, pens and other accessories.</szItemDesc>
 		<szBRName>Blackhawk TAC Vest</szBRName>
 		<szBRDesc>This combat proven, quality chest harness features multiple sewn-on magazine pouches at the front as well as YKK zipped pockets perfect for holding documents, maps, pens and other accessories. This vest also features side-release buckles for rapid donning and doffing.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -71445,7 +71428,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>10</CamoBonus>
 		<UrbanCamoBonus>5</UrbanCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71472,7 +71454,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>20</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71497,7 +71478,6 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<CamoBonus>8</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71524,7 +71504,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71551,7 +71530,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<UrbanCamoBonus>8</UrbanCamoBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71560,7 +71538,7 @@
 		<uiIndex>2663</uiIndex>
 		<szItemName>Revolver Belt</szItemName>
 		<szLongItemName>Police Revolver Belt</szLongItemName>
-		<szItemDesc>The Police Revolver Belt is a standard issue equipment belt for police officers.</szItemDesc>
+		<szItemDesc>The Police Revolver Belt is standard issue for police officers.</szItemDesc>
 		<szBRName>Police Revolver Belt</szBRName>
 		<szBRDesc>The Police Revolver Belt is a standard issue equipment belt for police officers.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -71577,7 +71555,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -71586,9 +71563,9 @@
 		<uiIndex>2664</uiIndex>
 		<szItemName>Viper Belt</szItemName>
 		<szLongItemName>Viper Tactical Belt</szLongItemName>
-		<szItemDesc>The Viper Tactical Belt is a multi-purpose belt. Made by high quality 600D nylon material. With QD buckle, easy to be put on and off and come several utility pouches.</szItemDesc>
+		<szItemDesc>A multi-purpose belt with QD buckle and several utility pouches.</szItemDesc>
 		<szBRName>Viper Tactical Belt</szBRName>
-		<szBRDesc>The Viper Tactical Belt is a multi-purpose belt. Made by high quality 600D nylon material. With QD buckle, easy to be put on and off and come several utility pouches.</szBRDesc>
+		<szBRDesc>The Viper Tactical Belt is a multi-purpose belt. Made with high quality 600D nylon. With QD buckle, easy to be put on and off and comes with several utility pouches.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>165</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -71603,7 +71580,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
