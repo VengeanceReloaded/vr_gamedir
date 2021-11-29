@@ -61601,11 +61601,51 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2155</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2155</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>CA-15 Recon</szItemName>
+		<szLongItemName>CA-15 Recon</szLongItemName>
+		<szItemDesc>Despite it's light weight this modern Patrol carbine is accurate enough for DMR duties.</szItemDesc>
+		<szBRName>CA-15 Recon</szBRName>
+		<szBRDesc>With a custom-made barrel consisting of Carbon Fiber the Christensen Arms CA-15 saves weight but does not compromise on reliability or accuracy and comes with a sub MOA guarantee.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2124</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>	   <!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
+		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
+		<AvailableAttachmentPoint>2147483648</AvailableAttachmentPoint>		<!-- Adapter - 5.56x45 C-Mag -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>68719476736</AvailableAttachmentPoint>	<!-- Stock - Folding -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>692</ubGraphicNum>
+		<ubWeight>28</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>4400</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<bReliability>1</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<SciFi>0</SciFi>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<BR_ROF>700</BR_ROF>
+		<DefaultAttachment>1009</DefaultAttachment>
+		<ToHitBonus>5</ToHitBonus>
+		<AutoFireToHitBonus>5</AutoFireToHitBonus>
+		<usOverheatingCooldownFactor>110</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
