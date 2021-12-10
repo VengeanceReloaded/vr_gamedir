@@ -18626,4 +18626,46 @@
 		<usOverheatingDamageThreshold>21240</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>118</usOverheatingSingleShotTemperature>
 	</WEAPON>
+		<WEAPON>
+		<uiIndex>2156</uiIndex>
+		<szWeaponName>CZ 805 BREN</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>6</ubWeaponType>
+		<ubCalibre>8</ubCalibre>
+		<ubReadyTime>10</ubReadyTime>
+		<ubShotsPer4Turns>14.96</ubShotsPer4Turns>
+		<ubShotsPerBurst>2</ubShotsPerBurst>
+		<ubBurstPenalty>7</ubBurstPenalty>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>30</ubImpact>
+		<ubDeadliness>35</ubDeadliness>
+		<bAccuracy>5</bAccuracy>
+		<ubMagSize>30</ubMagSize>
+		<usRange>500</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>40</BurstAniDelay>
+		<ubAttackVolume>77</ubAttackVolume>
+		<ubHitVolume>7</ubHitVolume>
+		<sSound>439</sSound>
+		<sBurstSound>82</sBurstSound>
+		<sSilencedBurstSound>127</sSilencedBurstSound>
+		<sReloadSound>102</sReloadSound>
+		<sLocknLoadSound>108</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>12</bBurstAP>
+		<bAutofireShotsPerFiveAP>3</bAutofireShotsPerFiveAP>
+		<APsToReload>20</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<AutoPenalty>8</AutoPenalty>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>75</nAccuracy>
+		<bRecoilX>1</bRecoilX>
+		<bRecoilY>8</bRecoilY>
+		<ubAimLevels>6</ubAimLevels>
+		<Handling>10</Handling>
+		<usOverheatingJamThreshold>40000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>21240</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>128</usOverheatingSingleShotTemperature>
+	</WEAPON>
 </WEAPONLIST>

@@ -61652,10 +61652,55 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2156</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2156</szItemDesc>
-		<usItemClass>1</usItemClass>
+		<szItemName>CZ 805 Bren</szItemName>
+		<szLongItemName>CZ 805 Bren</szLongItemName>
+		<szItemDesc>Don't confuse it with the old English light MG from WWII, worse still don't call it by it's prototype Lada name, as this rifle is far from a cheap Eastern European jalopy.</szItemDesc>
+		<szBRName>CZ 805 Bren</szBRName>
+		<szBRDesc>A modern modular assault rifle platform, the 805 Bren was developed in conjunction with the Czech army and features all mod cons such as integral rails, folding stock and can fit a multitude of optional attachments.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<ubClassIndex>2124</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>	   <!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>	    <!-- Muzzle - AR Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
+		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
+		<AvailableAttachmentPoint>2147483648</AvailableAttachmentPoint>		<!-- Adapter - 5.56x45 C-Mag -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>68719476736</AvailableAttachmentPoint>	<!-- Stock - Folding -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>576460752303423488</AvailableAttachmentPoint>	<!-- UB Launcher - M203PI -->
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>693</ubGraphicNum>
+		<ubWeight>36</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>4100</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<bReliability>1</bReliability>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<SciFi>0</SciFi>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<BR_ROF>760</BR_ROF>
+		<DefaultAttachment>1008</DefaultAttachment>
+		<ToHitBonus>0</ToHitBonus>
+		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
