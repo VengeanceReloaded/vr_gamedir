@@ -6228,7 +6228,7 @@
 		<szLongItemName>Compact Binoculars</szLongItemName>
 		<szItemDesc>Compact 10x30 Binoculars of simple construction.</szItemDesc>
 		<szBRName>10x30 Binoculars</szBRName>
-		<szBRDesc>Compact, light-weight, and inexpensive binoculars. For outdoors use during the day.</szBRDesc>
+		<szBRDesc>Compact, light-weight, and inexpensive, these versatile binoculars feature Porro Prism lenses for great maginification and clarity during daytime operations.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -30477,7 +30477,7 @@
 		<szItemName>Mustard Gas Cylinder</szItemName>
 		<szLongItemName>40mm Mustard Gas Cylinder</szLongItemName>
 		<szItemDesc>Mustard Gas is known for its blistering and burning effect. Now you can multiply this effect by six with this cylinder.</szItemDesc>
-		<szBRName>40mm Mustard Gas Cylinder</szBRName>
+		<szBRName>40mm M' Gas Cylinder</szBRName>
 		<szBRDesc>Disclaimer: This product is classed as a chemical weapon and is banned by the Geneva convention. Sold for pest control purposes only!</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
@@ -30541,7 +30541,7 @@
 		<szItemName>Smoke Cylinder</szItemName>
 		<szLongItemName>40mm Smoke Grenade Cylinder</szLongItemName>
 		<szItemDesc>Now they see you, now they don't. When properly employed, this six-shot 40mm smoke grenade cylinder will leave your opposition thinking they're dealing with Houdini himself.</szItemDesc>
-		<szBRName>40mm Smoke Grenade Cylinder</szBRName>
+		<szBRName>40mm Smoke Cylinder</szBRName>
 		<szBRDesc>When fired from a MGL Mk.1, the grenades in this six-shot cylinder will quickly release a cloud of smoke that will aid in battlefield entry or withdrawal.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
@@ -30571,7 +30571,7 @@
 		<szItemName>Stun Cylinder</szItemName>
 		<szLongItemName>40mm Stun Grenade Cylinder</szLongItemName>
 		<szItemDesc>When fired from the MGL Mk.1, the six projectiles contained in this cylinder will create a massive vacuum that will leave your enemies gasping for air.</szItemDesc>
-		<szBRName>40mm Stun Grenade Cylinder</szBRName>
+		<szBRName>40mm Stun Cylinder</szBRName>
 		<szBRDesc>This six-shot MGL Mk.1 grenade cylinder contains projectile rounds that will create a massive vacuum, depriving the surrounding impact area of oxygen. Anyone standing within the detonated area will be left gasping, as waves of air rush back into its core.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
@@ -30601,7 +30601,7 @@
 		<szItemName>Tear Gas Cylinder</szItemName>
 		<szLongItemName>40mm Tear Gas Cylinder</szLongItemName>
 		<szItemDesc>Also known as CS gas, this substance is ideal for crowd control, but it works well only on crowds that are not wearing gas masks.</szItemDesc>
-		<szBRName>40mm Tear Gas Cylinder</szBRName>
+		<szBRName>40mm Teargas Cylinder</szBRName>
 		<szBRDesc>This Tear Gas cylinder contains nasty substance that certainly is not odorless. In fact, after walking through a cloud of this stuff you will smell like you just chopped a million raw onions. No, forget that, it's worse.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
@@ -30694,7 +30694,7 @@
 		<szItemName>43mm Mustard Gas</szItemName>
 		<szLongItemName>43mm Mustard Gas Grenades, 4</szLongItemName>
 		<szItemDesc>These 43mm Mustard Gas grenades will fit nicely in your GM-94 grenade launcher. Warning: Inhaling contents will cause a painful death.</szItemDesc>
-		<szBRName>43mm Mustard Gas Grenades, 4</szBRName>
+		<szBRName>43mm M' Gas Grenades, 4</szBRName>
 		<szBRDesc>This product is classed as a chemical weapon and is banned by the Geneva convention. Sold for pest control purposes only!</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
@@ -30783,7 +30783,7 @@
 		<szItemName>43mm Tear Gas</szItemName>
 		<szLongItemName>43mm Tear Gas Grenades, 4</szLongItemName>
 		<szItemDesc>Drop 4 CS gas grenades on your target and reduce them to blubbering wrecks.</szItemDesc>
-		<szBRName>43mm Tear Gas Grenades, 4</szBRName>
+		<szBRName>43mm Teargas Grenades, 4</szBRName>
 		<szBRDesc>Drop 4 CS gas grenades on your target and reduce them to blubbering wrecks.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
