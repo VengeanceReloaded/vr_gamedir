@@ -28202,7 +28202,7 @@
 		<szLongItemName>M29 SATAN</szLongItemName>
 		<szItemDesc>Someone was obviously so impressed by the toy that he made a real one. Go Figure...</szItemDesc>
 		<szBRName>M29 SATAN</szBRName>
-		<szBRDesc>Formerly only available as a toy-gun, we can now offer a real version of this stylish gun. Beware of frauds at Ebay, people may try to sell you the toy for real. Only we offer the genuine article.</szBRDesc>
+		<szBRDesc>Formerly only available as a toy-gun, we can now offer the real version of this stylish gun. Beware of frauds on ebay, people may try to sell you the toy for real. Only we offer the genuine article.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>893</ubClassIndex>
@@ -60264,10 +60264,10 @@
 	<ITEM>
 		<uiIndex>2128</uiIndex>
 		<szItemName>Hardballer</szItemName>
-		<szLongItemName>AMT Hardballer .45 Longslide</szLongItemName>
-		<szItemDesc>An AMT Hardballer Longslide with a laserlock sight from SureFire, just put the red dot where you want the bullet to go. This bonkers all stainless steel .45 will deliver rigid wounds like no other.</szItemDesc>
-		<szBRName>AMT Hardballer 45. Longslide</szBRName>
-		<szBRDesc>This cult favorite from AMT comes with the sought after laserlock sight from SureFire, buy now and own one of these babies before it's gone.</szBRDesc>
+		<szLongItemName>AMT Hardballer Longslide</szLongItemName>
+		<szItemDesc>This all stainless steel AMT Hardballer Longslide has a laserlock sight from SureFire, the beam comes on and you put the red dot where you want the bullet to go.</szItemDesc>
+		<szBRName>AMT Hardballer</szBRName>
+		<szBRDesc>This cult favorite from AMT has an extended 7" barrel and comes with the sought after laserlock sight from SureFire. Unlike Arnie, once these are gone, they won't be back.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2128</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
@@ -60279,6 +60279,7 @@
 		<ItemSize>2</ItemSize>
 		<usPrice>1900</usPrice>
 		<ubCoolness>5</ubCoolness>
+		<bReliability>-2</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>

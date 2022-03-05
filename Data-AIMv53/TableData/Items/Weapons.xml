@@ -17654,14 +17654,14 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>2128</uiIndex>
-		<szWeaponName>AMT Hardballer .45 Longslide</szWeaponName>
+		<szWeaponName>AMT Hardballer Longslide</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
 		<ubCalibre>3</ubCalibre>
 		<ubReadyTime>2</ubReadyTime>
 		<ubShotsPer4Turns>10.50</ubShotsPer4Turns>
 		<ubBulletSpeed>21</ubBulletSpeed>
-		<ubImpact>33</ubImpact>
+		<ubImpact>30</ubImpact>
 		<ubDeadliness>18</ubDeadliness>
 		<bAccuracy>7</bAccuracy>
 		<ubMagSize>7</ubMagSize>
