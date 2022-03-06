@@ -413,7 +413,7 @@
 		<uiIndex>6</uiIndex>
 		<szItemName>Barracuda</szItemName>
 		<szLongItemName>Barracuda</szLongItemName>
-		<szItemDesc>The go-to revolver for that extra knockdown effect, this Belgian revolver has found it's way into many American police holsters.</szItemDesc>
+		<szItemDesc>The go-to revolver for that extra knockdown effect, this Belgian revolver has found its way into many American police holsters.</szItemDesc>
 		<szBRName>Barracuda</szBRName>
 		<szBRDesc>The Belgian .357 magnum Barracuda revolver is a powerful choice for both offense and defense. Numerous test trials have shown that both men and women find it easier to handle than most handguns.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -681,7 +681,7 @@
 		<szLongItemName>HK 53A3</szLongItemName>
 		<szItemDesc>Only two inches longer than the MP5 submachine gun, the HK53 provides all the hard-hitting firepower of the 5.56mm caliber in a compact package.</szItemDesc>
 		<szBRName>HK 53A3</szBRName>
-		<szBRDesc>Only two inches longer than the MP5 SMG, the HK53 provides hard-hitting 5.56mm firepower in a compact package. This German made assault rifle may be small, but that's because it was assembled under a microscope and like so many of it's brothers, it's reliable as they come!</szBRDesc>
+		<szBRDesc>Only two inches longer than the MP5 SMG, the HK53 provides hard-hitting 5.56mm firepower in a compact package. This German made assault rifle may be small, but that's because it was assembled under a microscope and like so many of its brothers, it's reliable as they come!</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>13</ubClassIndex>
@@ -723,7 +723,7 @@
 		<szLongItemName>AKS-74U</szLongItemName>
 		<szItemDesc>Commonly used by the Russian Spetsnaz, the muzzle flash from this SMG's short barrel has singed many an eyebrow.</szItemDesc>
 		<szBRName>AKS-74U</szBRName>
-		<szBRDesc>Russian in origin, this sub-machine gun is a shorter version of the AK-74. It's a combat intensive weapon with a bulbous muzzle attachment to compensate for firing 5.45mm Soviet rifle cartridges in a much shorter barrel.</szBRDesc>
+		<szBRDesc>Russian in origin, this submachine gun is a shorter version of the AK-74. Due to its compact size it has a bulbous muzzle attachment to compensate firing Soviet 5.45mm bullets in a much shorter barrel.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>14</ubClassIndex>
@@ -936,7 +936,7 @@
 		<uiIndex>19</uiIndex>
 		<szItemName>M24</szItemName>
 		<szLongItemName>M24</szLongItemName>
-		<szItemDesc>Call on the M24 to deliver your 7.62mm package up to 800m away. It guarantees delivery every time. Although shots have been made over 1000 meters away, it is out of it's effective range.</szItemDesc>
+		<szItemDesc>Call on the M24 to deliver your 7.62mm package up to 800m away. It guarantees delivery every time. Although shots have been made over 1000 meters away, it is out of its effective range.</szItemDesc>
 		<szBRName>M24</szBRName>
 		<szBRDesc>The Remington M24 is the standard sniping rifle of the US Army. This bolt-action rifle's stock is made of synthetic material with an aluminum bedding lock and comes with an adjustable buttplate.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -972,7 +972,7 @@
 		<uiIndex>20</uiIndex>
 		<szItemName>AUG-A2</szItemName>
 		<szLongItemName>Steyr AUG-A2</szLongItemName>
-		<szItemDesc>The 'Evil Assault Rifle' poster-child for US gun control lobbyists is the futuristic looking Austrian army standard rifle. It's bullpup design gives it an over all shorter length without shortening the barrel.</szItemDesc>
+		<szItemDesc>The 'Evil Assault Rifle' poster-child for US gun control lobbyists is the futuristic looking Austrian army standard rifle. Its bullpup design gives it an over all shorter length without shortening the barrel.</szItemDesc>
 		<szBRName>Steyr AUG-A2</szBRName>
 		<szBRDesc>This Austrian automatic rifle has a unique modular design with many interchangeable parts. It was one of the first rifles to use a plastic firing mechanism as well as plastic furniture.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -1214,7 +1214,7 @@
 		<uiIndex>26</uiIndex>
 		<szItemName>AKM</szItemName>
 		<szLongItemName>AKM</szLongItemName>
-		<szItemDesc>The AKM is the newer improved version of the original AK-47. This line of rifles has been used in Vietnam, Afghanistan, and many passenger jets. This rifle has been known to outlive it's user, if it survives the drop, it'll mostly survive anything.</szItemDesc>
+		<szItemDesc>The AKM is the newer improved version of the original AK-47. This line of rifles has been used in Vietnam, Afghanistan, and many passenger jets. This rifle has been known to outlive its user, if it survives the drop, it'll mostly survive anything.</szItemDesc>
 		<szBRName>AKM</szBRName>
 		<szBRDesc>As the modernized version of the AK-47 automatic rifle, it is one of the best and most widely distributed Soviet weapons. Designed for mass production, you'll find one of these automatic rifles slung over many frugal mercenary's shoulder.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -1250,7 +1250,7 @@
 		<uiIndex>27</uiIndex>
 		<szItemName>M14</szItemName>
 		<szLongItemName>M14</szLongItemName>
-		<szItemDesc>The M14 is about as All-American as apple pie and the 4th of July. Any A-Team equipped with this rifle is gunning for victory. Due to it's accuracy it can be converted to a Designated Marksman Rifle for Medium to long range engagements.</szItemDesc>
+		<szItemDesc>The M14 is about as All-American as apple pie and the 4th of July. Any A-Team equipped with this rifle is gunning for victory. Due to its accuracy it can be converted to a Designated Marksman Rifle for Medium to long range engagements.</szItemDesc>
 		<szBRName>M14</szBRName>
 		<szBRDesc>This classic automatic rifle is highly revered for its long-range accuracy and its reliable, jam-resistant action. Truly American through and through it offers multiple firing options, but is best kept locked at semi-automatic.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -2571,7 +2571,7 @@
 		<szLongItemName>Calico M-900</szLongItemName>
 		<szItemDesc>Another reincarnation of the M960, this version has a unusually longer barrel for a 9mm weapon and semi auto-fires with the same 50 round clip.</szItemDesc>
 		<szBRName>Calico M-900</szBRName>
-		<szBRDesc>This funky gun features it's distinct helical loading system which is more reliable than the 100 round clip version. Now 100%%%% legal in the US since the 1994 assault weapon ban expired in 2004. Get yours before the fun police bring in new legislation.</szBRDesc>
+		<szBRDesc>This funky gun features its distinct helical loading system which is more reliable than the 100 round clip version. Now 100%%%% legal in the US since the 1994 assault weapon ban expired in 2004. Get yours before the fun police bring in new legislation.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>68</ubClassIndex>
@@ -5221,9 +5221,9 @@
 		<uiIndex>167</uiIndex>
 		<szItemName>Spectra Vest</szItemName>
 		<szLongItemName>Spectra Vest</szLongItemName>
-		<szItemDesc>This vest is made of Spectra Shield, an ultra high-performance ballistic sheet that dramatically reduces blunt trauma from multiple hits and angled shots. It's carrier pocket can hold an additional trauma plate.</szItemDesc>
+		<szItemDesc>This vest is made of Spectra Shield, an ultra high-performance ballistic sheet that dramatically reduces blunt trauma from multiple hits and angled shots. Its carrier pocket can hold an additional trauma plate.</szItemDesc>
 		<szBRName>Spectra Vest</szBRName>
-		<szBRDesc>The most advanced technology in body armor. This vest is made of Spectra Shield, an ultra high-performance ballistic sheet that dramatically reduces blunt trauma from multiple hits and angled shots. It's carrier pocket can hold an additional trauma plate.</szBRDesc>
+		<szBRDesc>The most advanced technology in body armor. This vest is made of Spectra Shield, an ultra high-performance ballistic sheet that dramatically reduces blunt trauma from multiple hits and angled shots. Its carrier pocket can hold an additional trauma plate.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>6</ubClassIndex>
@@ -5638,7 +5638,7 @@
 		<szLongItemName>Spectra Helmet</szLongItemName>
 		<szItemDesc>This light Spectra composite helmet, known for its anti-ballistic qualities,has an IR-absorbing black finish, cushioning foam, and an adjustable harness system with a leather head band and rubber chin strap.</szItemDesc>
 		<szBRName>Spectra Helmet</szBRName>
-		<szBRDesc>This helmet is made from a light Spectra composite that is famous for it's superior anti-ballistic qualities. It features an IR-absorbing black finish, cushioning foam and an adjustable harness system with a leather headband and rubber chin strap.</szBRDesc>
+		<szBRDesc>This helmet is made from a light Spectra composite that is famous for its superior anti-ballistic qualities. It features an IR-absorbing black finish, cushioning foam and an adjustable harness system with a leather headband and rubber chin strap.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -6683,7 +6683,7 @@
 		<uiIndex>213</uiIndex>
 		<szItemName>Gas Mask</szItemName>
 		<szLongItemName>Gas Mask</szLongItemName>
-		<szItemDesc>Replicated from the Russian M-17A1, this rubber mask has cheek filters, scratch-proof lenses, adjustable head straps, and a drinking attachment.  Comes in it's own vinyl shoulder bag.</szItemDesc>
+		<szItemDesc>Replicated from the Russian M-17A1, this rubber mask has cheek filters, scratch-proof lenses, adjustable head straps, and a drinking attachment.  Comes in its own vinyl shoulder bag.</szItemDesc>
 		<szBRName>Gas Mask</szBRName>
 		<szBRDesc>This Russian mask is a copy of the American M-17A1. It has cheek filters, scratch-proof lenses, adjustable straps, and a drinking attachment. Includes its own vinyl carry bag. We recommend purchasing a companion plastic poncho to help protect you from blistering agents.</szBRDesc>
 		<usItemClass>32768</usItemClass>
@@ -7549,7 +7549,7 @@
 		<uiIndex>247</uiIndex>
 		<szItemName>Discarded LAW</szItemName>
 		<szLongItemName>Discarded LAW</szLongItemName>
-		<szItemDesc>Having already delivered the hammer of justice upon it's target, this empty rocket launcher will live out the rest of it's dreadful existence as a glorified paper weight.</szItemDesc>
+		<szItemDesc>Having already delivered the hammer of justice upon its target, this empty rocket launcher will live out the rest of its dreadful existence as a glorified paper weight.</szItemDesc>
 		<szBRName>Discarded LAW</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -9764,7 +9764,7 @@
 		<uiIndex>331</uiIndex>
 		<szItemName>L85A2</szItemName>
 		<szLongItemName>Enfield L85A2</szLongItemName>
-		<szItemDesc>The 'Small Arms for the 80's' have had subsequent revisions and improvements and just like the filo-fax and video cassette it's problems are now just things of the past.</szItemDesc>
+		<szItemDesc>The 'Small Arms for the 80's' have had subsequent revisions and improvements and just like the filo-fax and video cassette its problems are now just things of the past.</szItemDesc>
 		<szBRName>Enfield L85A2</szBRName>
 		<szBRDesc>This British weapon was actually made in Nottingham, not Enfield, where computer controlled tools finally eliminated all of its serious defects.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -16785,7 +16785,7 @@
 		<szLongItemName>Ka-Bar Cutlass</szLongItemName>
 		<szItemDesc>Shorter than a machete, but larger than most military knives; Ka-Bar get's its name quite literally from 'Kill a Bear'.</szItemDesc>
 		<szBRName>KB Cutlass</szBRName>
-		<szBRDesc>The KA-BAR Cutlass is easier to handle than a machete and due to it's 100%%%% synthetic construction it's lighter too. Its 11 inch carbon steel blade will make light work of flora, fauna or anything else that gets in your way.</szBRDesc>
+		<szBRDesc>The KA-BAR Cutlass is easier to handle than a machete and due to its 100%%%% synthetic construction it's lighter too. Its 11 inch carbon steel blade will make light work of flora, fauna or anything else that gets in your way.</szBRDesc>
 		<usItemClass>4</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>593</ubClassIndex>
@@ -17507,7 +17507,7 @@
 		<szLongItemName>AK-108</szLongItemName>
 		<szItemDesc>The 5.56x45 has finally invaded Russia. Like the Beatles in 1962, it's new, but it's popular. The AK-108 is a NATO standard Alexandrov-Kalashnikov. Go figure.</szItemDesc>
 		<szBRName>AK-108</szBRName>
-		<szBRDesc>Who says Russians can't use NATO ammunition? Not the Russians! The AK-108 is built for the 5.56mm round, and performs admirably with it's new partner.</szBRDesc>
+		<szBRDesc>Who says Russians can't use NATO ammunition? Not the Russians! The AK-108 is built for the 5.56mm round, and performs admirably with its new partner.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>611</ubClassIndex>
@@ -17548,7 +17548,7 @@
 		<szLongItemName>AKMS</szLongItemName>
 		<szItemDesc>Variant of the standard AKM. While making the gun more maneuverable, the folding wire stock is not as stable or comfortable as standard wooden furniture.</szItemDesc>
 		<szBRName>AKMS</szBRName>
-		<szBRDesc>This version of the AKM comes with a spiffy folding stock. About as comfortable to put against your shoulder as a lawnmower blade, it's compact size still makes it ideal for paratroopers, mechanized infantry, and anyone wearing a trenchcoat.</szBRDesc>
+		<szBRDesc>This version of the AKM comes with a spiffy folding stock. About as comfortable to put against your shoulder as a lawnmower blade, its compact size still makes it ideal for paratroopers, mechanized infantry, and anyone wearing a trenchcoat.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>612</ubClassIndex>
@@ -17805,7 +17805,7 @@
 		<szLongItemName>AI Arctic Warfare Magnum</szLongItemName>
 		<szItemDesc>This rifle will give you delusions of divinity on the battlefield. If you're looking for a sniper system that redefines the term "HEADSHOT!", then look no further. It has a effective range of 1,5 km making it a valuable asset for long range engagements.</szItemDesc>
 		<szBRName>AI AWM</szBRName>
-		<szBRDesc>Designed for extreme range in Arctic environments, the AWM is the last word in any long range engagement - and we do mean any. Firing the incredibly powerful .338 Lapua, this rifle's remarkable performance is rivaled only by it's remarkable pricetag.</szBRDesc>
+		<szBRDesc>Designed for extreme range in Arctic environments, the AWM is the last word in any long range engagement - and we do mean any. Firing the incredibly powerful .338 Lapua, this rifle's remarkable performance is rivaled only by its remarkable price tag.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>618</ubClassIndex>
@@ -18780,7 +18780,7 @@
 		<uiIndex>643</uiIndex>
 		<szItemName>SAF Silenciada</szItemName>
 		<szLongItemName>FAMAE SAF Silenciada</szLongItemName>
-		<szItemDesc>The best of both worlds, this SMG can strike more passionately than a jealous latino mistress scorned, but with it's an integral silencer does so with little noise.</szItemDesc>
+		<szItemDesc>The best of both worlds, this SMG can strike more passionately than a jealous latino mistress scorned, but with its an integral silencer does so with little noise.</szItemDesc>
 		<szBRName>FAMAE SAF Silenciada</szBRName>
 		<szBRDesc>This silenced SMG is just the thing for your next covert operation, just remember to pack plenty of ammo as this puppy eats bullets at 1200 RPM.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -19624,7 +19624,7 @@
 		<uiIndex>664</uiIndex>
 		<szItemName>G36C</szItemName>
 		<szLongItemName>HK G36C</szLongItemName>
-		<szItemDesc>With the power of a full size G36 assault rifle in a package the size of an SMG. This C version also saves weight with it's polymer chassis. The G36C though small is still a little unweildy and has trouble soaking up recoil back to the shooter.</szItemDesc>
+		<szItemDesc>With the power of a full size G36 assault rifle in a package the size of an SMG. This C version also saves weight with its polymer chassis. The G36C though small is still a little unweildy and has trouble soaking up recoil back to the shooter.</szItemDesc>
 		<szBRName>HK G36C</szBRName>
 		<szBRDesc>If you need the power and quality of fire from a G36 but are tight for space, choose this; HK's compact, lighter version.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -22553,7 +22553,7 @@
 		<szLongItemName>Thompson M1928</szLongItemName>
 		<szItemDesc>Venerated by the same mobsters it ventilated, the 1928A1 is by no means a museum piece, having roared its way out of the roaring twenties and beyond.</szItemDesc>
 		<szBRName>Thompson M1928</szBRName>
-		<szBRDesc>Employed by gangsters and G-Men alike, the Tommy gun's status as an antique shouldn't deter modern users from making use of it's firepower.</szBRDesc>
+		<szBRDesc>Employed by gangsters and G-Men alike, the Tommy gun's status as an antique shouldn't deter modern users from making use of its firepower.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>737</ubClassIndex>
@@ -23123,7 +23123,7 @@
 		<szLongItemName>XM-8 Compact Carbine</szLongItemName>
 		<szItemDesc>This shorty version of the XM-8 is designed specifically for short range engagements and is currently used by Malaysia's PASKAL unit.</szItemDesc>
 		<szBRName>XM-8 Compact Carbine</szBRName>
-		<szBRDesc>This PDW version of the XM-8 is outfitted specifically for short range engagements. Despite it's diminutive size it still packs the same features as it's larger brothers.</szBRDesc>
+		<szBRDesc>This PDW version of the XM-8 is outfitted specifically for short range engagements. Despite its diminutive size it still packs the same features as its larger brothers.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>751</ubClassIndex>
@@ -24733,7 +24733,7 @@
 		<szLongItemName>FN SCAR-68 CQC</szLongItemName>
 		<szItemDesc>This CQC version of the SCAR-L has been converted to fire the 6.8mm SPC round.</szItemDesc>
 		<szBRName>FN SCAR-68 CQC</szBRName>
-		<szBRDesc>For those wanting to use the 6.8 special purpose cartridge and it's inherent advantages in urban assaults the readily converted SCAR-68 is the gun of choice for you.</szBRDesc>
+		<szBRDesc>For those wanting to use the 6.8 special purpose cartridge and its inherent advantages in urban assaults the readily converted SCAR-68 is the gun of choice for you.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>792</ubClassIndex>
@@ -28130,7 +28130,7 @@
 		<uiIndex>891</uiIndex>
 		<szItemName>FNP-45</szItemName>
 		<szLongItemName>FN FNP-45</szLongItemName>
-		<szItemDesc>Announced in 2007, this pistol is FN's latest addition to the civilian and law enforcement market, it may be bigger and heavier than it's 9mm cousins but makes up in stopping power.</szItemDesc>
+		<szItemDesc>Announced in 2007, this pistol is FN's latest addition to the civilian and law enforcement market, it may be bigger and heavier than its 9mm cousins but makes up in stopping power.</szItemDesc>
 		<szBRName>FN FNP-45</szBRName>
 		<szBRDesc>One of the first ever polymer-framed autoloading pistols on the market, this one is chambered for the good old and ever popular .45 ACP round.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -28974,9 +28974,9 @@
 		<uiIndex>914</uiIndex>
 		<szItemName>RPG-7</szItemName>
 		<szLongItemName>RPG-7</szLongItemName>
-		<szItemDesc>The Rocket Propelled Grenade, or RPG, is a cheap, single-shot weapon. It's main purpose to to provide an inexpensive albeit devastating weapon against soft targets.</szItemDesc>
+		<szItemDesc>The Rocket Propelled Grenade, or RPG, is a cheap, single-shot weapon. Its main purpose to to provide an inexpensive albeit devastating weapon against soft targets.</szItemDesc>
 		<szBRName>RPG-7</szBRName>
-		<szBRDesc>The Rocket Propelled Grenade, or RPG, is a cheap, single-shot weapon. It's main purpose is to provide an inexpensive albeit devastating weapon against soft targets.</szBRDesc>
+		<szBRDesc>The Rocket Propelled Grenade, or RPG, is a cheap, single-shot weapon. Its main purpose is to provide an inexpensive albeit devastating weapon against soft targets.</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>914</ubClassIndex>
@@ -30602,7 +30602,7 @@
 		<szLongItemName>40mm Tear Gas Cylinder</szLongItemName>
 		<szItemDesc>Also known as CS gas, this substance is ideal for crowd control, but it works well only on crowds that are not wearing gas masks.</szItemDesc>
 		<szBRName>40mm Teargas Cylinder</szBRName>
-		<szBRDesc>This Tear Gas cylinder contains nasty substance that certainly is not odorless. In fact, after walking through a cloud of this stuff you will smell like you just chopped a million raw onions. No, forget that, it's worse.</szBRDesc>
+		<szBRDesc>This Tear Gas cylinder contains a nasty substance that certainly is not odorless. In fact, after walking through a cloud of this stuff you will smell like you just chopped a million raw onions. No, forget that, it's worse.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
@@ -34318,7 +34318,7 @@
 		<szLongItemName>Russian 106 Vest</szLongItemName>
 		<szItemDesc>A very versatile vest.</szItemDesc>
 		<szBRName>Russian 106 Vest</szBRName>
-		<szBRDesc>The high number of pockets of various sizes lets you carry a lot of different things. Russian ingenuity at it's best.</szBRDesc>
+		<szBRDesc>The high number of pockets of various sizes lets you carry a lot of different things. Russian ingenuity at its best.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>8</nasLayoutClass>
 		<ubClassIndex>11</ubClassIndex>
@@ -42198,7 +42198,7 @@
 		<uiIndex>1353</uiIndex>
 		<szItemName>Garver Knife</szItemName>
 		<szLongItemName>Sam Garver Combat Knife</szLongItemName>
-		<szItemDesc>This limited edition, Sam Garver combat knife, is authenticated with a serial number and signed by Sam himself. It's galvanized steel blade and gator-skinned elegance have made it a highly sought-after collectable.</szItemDesc>
+		<szItemDesc>This limited edition, Sam Garver combat knife, is authenticated with a serial number and signed by Sam himself. Its galvanized steel blade and gator-skinned elegance have made it a highly sought-after collectable.</szItemDesc>
 		<szBRName>Sam Garver Combat Knife</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>4</usItemClass>
@@ -51721,9 +51721,9 @@
 		<uiIndex>1707</uiIndex>
 		<szItemName>TT Range</szItemName>
 		<szLongItemName>TT Extended Range</szLongItemName>
-		<szItemDesc>The largest of our Operator series packs is the Extended Range Operator Pack. It's large size and extensive list of features make it essential for longer missions.</szItemDesc>
+		<szItemDesc>The largest of our Operator series packs is the Extended Range Operator Pack. Its large size and extensive list of features make it essential for longer missions.</szItemDesc>
 		<szBRName>TT Extended Range</szBRName>
-		<szBRDesc>The largest of our Operator series packs is the Extended Range Operator Pack. It's large size and extensive list of features make it essential for longer missions.</szBRDesc>
+		<szBRDesc>The largest of our Operator series packs is the Extended Range Operator Pack. Its large size and extensive list of features make it essential for longer missions.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>32</nasLayoutClass>
 		<AvailableAttachmentPoint>3</AvailableAttachmentPoint>
@@ -55217,9 +55217,9 @@
 		<uiIndex>2006</uiIndex>
 		<szItemName>KRISS</szItemName>
 		<szLongItemName>KRISS Super V</szLongItemName>
-		<szItemDesc>The KRISS Super V is a new generation PDW with a very high rate of fire. Due to it's new recoil system it's very easy to control during burst fire.</szItemDesc>
+		<szItemDesc>The KRISS Super V is a new generation PDW with a very high rate of fire. Due to its new recoil system it's very easy to control during burst fire.</szItemDesc>
 		<szBRName>KRISS Super V</szBRName>
-		<szBRDesc>The KRISS Super V is a new generation PDW with a very high rate of fire but is very easy to control due to it's new recoil system. The Super V is made from aircraft-grade aluminium and fires the good old .45 ACP round.</szBRDesc>
+		<szBRDesc>The KRISS Super V is a new generation PDW with a very high rate of fire but is very easy to control due to its new recoil system. The Super V is made from aircraft-grade aluminium and fires the good old .45 ACP round.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2006</ubClassIndex>
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
@@ -56295,7 +56295,7 @@
 		<uiIndex>2032</uiIndex>
 		<szItemName>MP7 PDW</szItemName>
 		<szLongItemName>HK MP7 PDW</szLongItemName>
-		<szItemDesc>This compact prototype of the Heckler&amp;Koch's MP7A1 uses a small pistol magazine and a slightly shorter barrel. It still packs a mean punch with it's exclusive 4.6mm round.</szItemDesc>
+		<szItemDesc>This compact prototype of the Heckler&amp;Koch's MP7A1 uses a small pistol magazine and a slightly shorter barrel. It still packs a mean punch with its exclusive 4.6mm round.</szItemDesc>
 		<szBRName>HK MP7 PDW</szBRName>
 		<szBRDesc>This quality compact PDW from H&amp;K uses the 4.6mm round exclusively and is designed to cut through armored close-quarter targets with both ease and precision.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -58513,7 +58513,7 @@
 		<uiIndex>2085</uiIndex>
 		<szItemName>L86A2</szItemName>
 		<szLongItemName>L86A2</szLongItemName>
-		<szItemDesc>The L86A2/LSW could be considered a design failure. Rather than a light support weapon it's more a heavy designated marksman rifle, but the bugbears of it's L85 predecessor are at least gone.</szItemDesc>
+		<szItemDesc>The L86A2/LSW could be considered a design failure. Rather than a light support weapon it's more a heavy designated marksman rifle, but the bugbears of its L85 predecessor are at least gone.</szItemDesc>
 		<szBRName>L86A2</szBRName>
 		<szBRDesc>The big brother of the L85A2. This gun is a true squad support weapon. If you liked the L85, but need more fire power, give the L86 a try.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -58603,7 +58603,7 @@
 		<szLongItemName>Springfield M1903A4</szLongItemName>
 		<szItemDesc>The M1903A4 was the U.S. Army's first attempt at a standardized sniper weapon and saw service from WWI to the Vietnam war.</szItemDesc>
 		<szBRName>Springfield M1903A4</szBRName>
-		<szBRDesc>Despite it's age this military drill rifle is not just for show. Comes with an M84 scope.</szBRDesc>
+		<szBRDesc>Despite its age this military drill rifle is not just for show. Comes with an M84 scope.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2087</ubClassIndex>
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
@@ -59340,7 +59340,7 @@
 		<uiIndex>2106</uiIndex>
 		<szItemName>Hi-Standard</szItemName>
 		<szLongItemName>Hi-Standard HDM</szLongItemName>
-		<szItemDesc>This special services .22 LR Pistol is as silent as it gets with it's integral suppressor, making short work of guard dogs and men at close range.</szItemDesc>
+		<szItemDesc>This special services .22 LR Pistol is as silent as it gets with its integral suppressor, making short work of guard dogs and men at close range.</szItemDesc>
 		<szBRName>Hi-Standard HDM</szBRName>
 		<szBRDesc>Known as the 'Hush puppy' because of its prime use against guard dogs. This .22 LR Pistol was used by the OSS, CIA agents and Navy SEALS alike.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -59377,7 +59377,7 @@
 		<uiIndex>2107</uiIndex>
 		<szItemName>American-180</szItemName>
 		<szLongItemName>American-180</szLongItemName>
-		<szItemDesc>It might look like a drunken cousin of a drum Thompson SMG but it's targets will be looking like a dog's dinner after a full burst of it's .22 ammo at 1200 RPM.</szItemDesc>
+		<szItemDesc>It might look like a drunken cousin of a drum Thompson SMG but its targets will be looking like a dog's dinner after a full burst of its .22 ammo at 1200 RPM.</szItemDesc>
 		<szBRName>American-180</szBRName>
 		<szBRDesc>This curious submachinegun from the 60's uses the rather weak .22 LR bullet, but more than makes up for it by its insane rate of fire.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -59413,7 +59413,7 @@
 		<uiIndex>2108</uiIndex>
 		<szItemName>Armalite AR-7</szItemName>
 		<szLongItemName>Armalite AR-7 Survival Rifle</szLongItemName>
-		<szItemDesc>Designed by Eugene Stonger and originally created for USAF pilots the AR-7 is good for target practice, though accuracy is a bit limited due to it's light weight and easily removed barrel.</szItemDesc>
+		<szItemDesc>Designed by Eugene Stonger and originally created for USAF pilots the AR-7 is good for target practice, though accuracy is a bit limited due to its light weight and easily removed barrel.</szItemDesc>
 		<szBRName>Armalite AR-7</szBRName>
 		<szBRDesc>This very light and affordable .22 rifle is popular with pilots and those trekking off the beaten track. Good for target practice. Includes a small scope.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -59671,7 +59671,7 @@
 		<uiIndex>2114</uiIndex>
 		<szItemName>CheyTac M200</szItemName>
 		<szLongItemName>CheyTac Intervention M200</szLongItemName>
-		<szItemDesc>Based on the EDM Arms Windrunner this relatively compact and light rifle holds the world record for best group at a distance, landing 3 bullets within 42 cm at 2,122 m firing it's unique cartridge.</szItemDesc>
+		<szItemDesc>Based on the EDM Arms Windrunner this relatively compact and light rifle holds the world record for best group at a distance, landing 3 bullets within 42 cm at 2,122 m firing its unique cartridge.</szItemDesc>
 		<szBRName>CheyTac Intervention M200</szBRName>
 		<szBRDesc>Combined with its ability to easily engage targets at 2500 yards and CheyTac’s patented Balance Flight Projectiles, you have a rifle that delivers accuracy with less bullet drop and drift than any other in the world.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -60085,7 +60085,7 @@
 		<uiIndex>2124</uiIndex>
 		<szItemName>M16A2</szItemName>
 		<szLongItemName>Colt M16A2 M203</szLongItemName>
-		<szItemDesc>The standard issue rifle for U.S. forces since the Vietnam war. Accurate and lightweight, though lacking in effective range. This variant is equipped with the M203 single-shot 40mm grenade launcher. Using it's leaf sight, grenades can be accurately targeted up to 200 meters away.</szItemDesc>
+		<szItemDesc>The standard issue rifle for U.S. forces since the Vietnam war. Accurate and lightweight, though lacking in effective range. This variant is equipped with the M203 single-shot 40mm grenade launcher. Using its leaf sight, grenades can be accurately targeted up to 200 meters away.</szItemDesc>
 		<szBRName>Colt M16A2 M203</szBRName>
 		<szBRDesc>The 'Plastic fantastic' needs no introduction but with the added lethality of a single-shot M203 grenade launcher underneath you'll have all bases covered. Optional Punisher skull T-shirts come free with this gun while stocks last.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -60389,9 +60389,9 @@
 		<uiIndex>2131</uiIndex>
 		<szItemName>AKM Bayonet</szItemName>
 		<szLongItemName>AKM Bayonet</szLongItemName>
-		<szItemDesc>A classic bayonet for use with the AKM. Among it's many useful features is it's saw-teeth that can double as wire cutters.</szItemDesc>
+		<szItemDesc>A classic bayonet for use with the AKM. Among its many useful features is its saw-teeth that can double as wire cutters.</szItemDesc>
 		<szBRName>AKM Bayonet</szBRName>
-		<szBRDesc>This type II bayonet was way ahead of it's time when it first came out and makes practical use of plastics along with the rot and rust free stainless steel blade.</szBRDesc>
+		<szBRDesc>This type II bayonet was way ahead of its time when it first came out and makes practical use of plastics along with the rot and rust free stainless steel blade.</szBRDesc>
 		<usItemClass>4</usItemClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -61586,7 +61586,7 @@
 		<uiIndex>2155</uiIndex>
 		<szItemName>CA-15 Recon</szItemName>
 		<szLongItemName>CA-15 Recon</szLongItemName>
-		<szItemDesc>Despite it's light weight this modern Patrol carbine is accurate enough for DMR duties.</szItemDesc>
+		<szItemDesc>Despite its light weight this modern Patrol carbine is accurate enough for DMR duties.</szItemDesc>
 		<szBRName>CA-15 Recon</szBRName>
 		<szBRDesc>With a custom-made barrel consisting of Carbon Fiber the Christensen Arms CA-15 saves weight but does not compromise on reliability or accuracy and comes with a sub MOA guarantee.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -61637,7 +61637,7 @@
 		<uiIndex>2156</uiIndex>
 		<szItemName>CZ 805 Bren</szItemName>
 		<szLongItemName>CZ 805 Bren</szLongItemName>
-		<szItemDesc>Don't confuse it with the old English light MG from WWII, worse still don't call it by it's prototype Lada name, as this rifle is far from a cheap Eastern European jalopy.</szItemDesc>
+		<szItemDesc>Don't confuse it with the old English light MG from WWII, worse still don't call it by its prototype Lada name, as this rifle is far from a cheap Eastern European jalopy.</szItemDesc>
 		<szBRName>CZ 805 Bren</szBRName>
 		<szBRDesc>A modern modular assault rifle platform, the 805 Bren was developed in conjunction with the Czech army and features all mod cons such as integral rails, folding stock and can fit a multitude of optional attachments.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -70176,9 +70176,9 @@
 		<uiIndex>2608</uiIndex>
 		<szItemName>TT-2B Vest</szItemName>
 		<szLongItemName>TT-2B Shotgun Vest</szLongItemName>
-		<szItemDesc>The Tactical Tailor vests of the first generation were designed for members of the support crew.  It's supprisingly light weight, has pockets for up to 3 assault rifle magazines and two shotgun shell bandoleers in addition to the two medium sized pockets.</szItemDesc>
+		<szItemDesc>A light weight vest from Tactical Tailor for support crew, with pockets for up to 3 assault rifle mags and two shotgun shell bandoleers in addition to two medium sized pockets.</szItemDesc>
 		<szBRName>TT-2B Shotgun Vest</szBRName>
-		<szBRDesc>The Tactical Tailor vests of the first generation were designed for members of the support crew.  It's supprisingly light weight, has pockets for up to 3 assault rifle magazines and two shotgun shell bandoleers in addition to the two medium sized pockets.</szBRDesc>
+		<szBRDesc>The Tactical Tailor vests of the first generation were designed for members of the support crew.  Its supprisingly light weight, has pockets for up to 3 assault rifle magazines and two shotgun shell bandoleers in addition to the two medium sized pockets.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>109</ubClassIndex>
 		<ubGraphicType>4</ubGraphicType>
@@ -71271,7 +71271,7 @@
 		<uiIndex>2650</uiIndex>
 		<szItemName>M69 Vest</szItemName>
 		<szLongItemName>VM69 Flak Vest</szLongItemName>
-		<szItemDesc>The sleeveless M69 Flak Jacket was a popular sight in the Vietnam war but was criticised in the jungle for it's weight and had questionable protection against small arms fire.</szItemDesc>
+		<szItemDesc>The sleeveless M69 Flak Jacket was a popular sight in the Vietnam war but was criticised in the jungle for its weight and had questionable protection against small arms fire.</szItemDesc>
 		<szBRName>M65 Flak Jacket</szBRName>
 		<szBRDesc>This repro camouflaged sleeveless M69 Flak vest is the perfect garb for reconaissance troops in jungle warfare. It has 2 pouches for AR magazines, 2 pockets for handgrenades and several smaller pockets.</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -75068,9 +75068,9 @@
 		<uiIndex>2837</uiIndex>
 		<szItemName>SMG Suppressor</szItemName>
 		<szLongItemName>SMG Suppressor</szLongItemName>
-		<szItemDesc>A long sound suppressor that can be attached to certain submachine guns. Due to it's length it adds additional stability during burst fire.</szItemDesc>
+		<szItemDesc>A long sound suppressor that can be attached to certain submachine guns. Due to its length it adds additional stability during burst fire.</szItemDesc>
 		<szBRName>SMG Suppressor</szBRName>
-		<szBRDesc>This sound suppressor can be attached to certain submachineguns. Due to it's length it adds additional stability during burst fire. Fits the Ingram MAC-10, most of the MP5 series and similiar guns.</szBRDesc>
+		<szBRDesc>This sound suppressor can be attached to certain submachineguns. Due to its length it adds additional stability during burst fire. Fits the Ingram MAC-10, most of the MP5 series and similiar guns.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>2</AttachmentClass>
 		<nasAttachmentClass>2</nasAttachmentClass>
@@ -75815,9 +75815,9 @@
 		<uiIndex>2861</uiIndex>
 		<szItemName>553 Holo sight</szItemName>
 		<szLongItemName>Eotech 553 A65 Holographic Sight</szLongItemName>
-		<szItemDesc>After extensive testing of various optical sights US Special Operations Command standardized the Eotech HWS as it's 1X weapon optic for close quarter and urban combat zones. Eotech developed this battle proven design further with additional features for the 553 A65 Holographic Weapon Sight.</szItemDesc>
+		<szItemDesc>After extensive testing of various optical sights US Special Operations Command standardized the Eotech HWS as its 1X weapon optic for close quarter and urban combat zones. Eotech developed this battle proven design further with additional features for the 553 A65 Holographic Weapon Sight.</szItemDesc>
 		<szBRName>Eotech 553 A65 Holographic Sight</szBRName>
-		<szBRDesc>EOTech's 553 A65 Holographic Weapon Sight's strength is it's holographic reticle pattern which is instantly visible in any lighting condition, instinctive to center regardless of shooting angle and always remaining in view to achieve a lightning quick target acquisition.</szBRDesc>
+		<szBRDesc>EOTech's 553 A65 Holographic Weapon Sight's strength is its holographic reticle pattern which is instantly visible in any lighting condition, instinctive to center regardless of shooting angle and always remaining in view to achieve a lightning quick target acquisition.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>8</AttachmentClass>
 		<nasAttachmentClass>8</nasAttachmentClass>
@@ -75851,7 +75851,7 @@
 		<uiIndex>2862</uiIndex>
 		<szItemName>Holo sight</szItemName>
 		<szLongItemName>Holographic Sight XPS2</szLongItemName>
-		<szItemDesc>The XPS2 is the shortest, smallest and lightest EOTech model holographic weapon sight available without night vision. It's size and weight make it convenient for hunters and law enforcement officers to carry.</szItemDesc>
+		<szItemDesc>The XPS2 is the shortest, smallest and lightest EOTech model holographic weapon sight available without night vision. Its size and weight make it convenient for hunters and law enforcement officers to carry.</szItemDesc>
 		<szBRName>Holographic Sight XPS2</szBRName>
 		<szBRDesc>The XPS2 is the shortest, smallest and lightest EOTech model holographic weapon sight available.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -77077,7 +77077,7 @@
 		<uiIndex>2908</uiIndex>
 		<szItemName>Document</szItemName>
 		<szLongItemName>H.A.A.R.P Document</szLongItemName>
-		<szItemDesc>This 500 page document covering the high frequency active auroral research program and it's capabilites. The document is divided into sections as weather modification, earthquakes, ionospheric enhancement and lastly modulated heating of the auroral electrojet.</szItemDesc>
+		<szItemDesc>This 500 page document covering the high frequency active auroral research program and its capabilites. The document is divided into sections as weather modification, earthquakes, ionospheric enhancement and lastly modulated heating of the auroral electrojet.</szItemDesc>
 		<szBRName>H.A.A.R.P Document</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -79464,7 +79464,7 @@
 		<szLongItemName>Trauma pack</szLongItemName>
 		<szItemDesc>An easy-to-use pre-packed sterile emergency bandage for when that wound turns into a gusher.</szItemDesc>
 		<szBRName>Trauma pack</szBRName>
-		<szBRDesc>This emergency bandage is elasticized with a non-adhesive pad sewn in. With it's built-in pressure bar it can apply pressure to any site, can be easily wrapped and secured to almost all wounds.</szBRDesc>
+		<szBRDesc>This emergency bandage is elasticized with a non-adhesive pad sewn in. With its built-in pressure bar it can apply pressure to any site, can be easily wrapped and secured to almost all wounds.</szBRDesc>
 		<usItemClass>4096</usItemClass>
 		<ubCursor>5</ubCursor>
 		<ubGraphicType>6</ubGraphicType>
@@ -79756,7 +79756,7 @@
 		<uiIndex>3001</uiIndex>
 		<szItemName>Parachute</szItemName>
 		<szLongItemName>MC-4 Parachute</szLongItemName>
-		<szItemDesc>As one can see from the cut ropes, this parachute has already been used and it's one-time performance is a thing of the past. At least the quality fabric can keep the wearer nice and warm.</szItemDesc>
+		<szItemDesc>As one can see from the cut ropes, this parachute has already been used and its one-time performance is a thing of the past. At least the quality fabric can keep the wearer nice and warm.</szItemDesc>
 		<szBRName>MC-4 Parachute</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>131072</usItemClass>
