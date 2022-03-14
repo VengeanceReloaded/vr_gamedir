@@ -1,0 +1,341 @@
+
+BETA 8 Changelog (1st Jan 2021 - 23rd Dec 2021)
+
+CODE & GENERAL GAME
+
+options Ini settings changed. 
+
+Ja2_Vengeance.exe Build 19.12.2021 rev 3073.
+
+Re-enabled light flash when throwing flares.
+
+Modified tactical settings.
+
+Improved AI.
+
+Improved AI code for choosing grenades and grenade launchers.
+
+Improved AI path code.
+
+Improvements when changes of stance such as cowering and jumping.
+
+UI attack handling prioritised interactive structures over target soldiers even if target soldier was explicitly provided causing deadlocks such as when trying to punch enemy overlapped by a door.
+
+GuiBaseJA2Clock overflow fix (by MH17).
+
+ReInitMergedItem: show item ID, attachment ID when doing assert.
+
+UpdateAttachmentTooltips: improved code, separated items.attachments and launchables loops.
+Use MAXITEMS + 1 as max limit for Transform[], Launchable[].
+GetItemSlots: use new code from trunk.
+
+Improved DecayRottingCorpse AI Warnings code.
+
+Take into account <buddyitem> tag for single shot rocket launchers for EstimateThrowDamage.
+OCTH: reworked code to avoid lucky hits, increased MIN_AIMING_SCREWUP 22 -> 30.
+PickARandomLaunchable: use 1 + progress / 10 to allow coolness 10 items.
+
+GetSightAdjustmentCamouflageOnTerrain: scale camo with light level.
+LightTrueLevel: full effect of shadows on light level at night.
+NightBonusScale: full night vision bonus in darkness.
+
+Player mercs avoid gas/fire when in autobandage mode or under AI control.
+
+Improved gas checks.
+
+Fixed naming conventions for taunt files which means game will now play a host more audible files.
+
+Fix for IMP_FEMALE_5 and IMP_FEMALE_6 that had hidden names.
+
+Pilot won't be kicked out of helicopter when runnning out of cash, so someone can return helicopter back to base without assert failure.
+
+Disable respawning enemy tanks in sectors already controlled before - configurable.
+
+Fixed Paratroopers from spawning indoors.
+
+Restored Night time shadows rendering that seemed to have been turned off.
+
+Prebattle panel will be displayed correctly regardless of resolution and number of involved an uninvolved mercs.
+
+Always prioritise mercs above interactive tiles (e.g. doors) when using medkits.
+
+Allow traversing AI (e.g. retreating enemies) to properly path off the map, fixing deadlocks.
+
+Switched over to full attachment validation for map sector inventory to fix ignored valid attachments.
+
+Ported Kingpin/boxing fix.
+
+Boxers count method rechecks boxer ids.
+
+LBE unfiltered from starting gear in displayed kits regardless of inventory slots.
+
+Updated quest log regarding Pacos and Manuel.
+
+Added two new CIV edt's for Kingpin's goons at Hacienda/Fort. Added extra Kingpin civ group with new behaviours.
+
+Quick fix for food related infinite loop.
+
+
+
+
+
+
+CHARACTERS
+
+Minor improvements to Deadly Games mercs speech and more accurate EDT's.
+
+Minor improvements to Facegear graphics for some mercs.
+
+Added Femme fatale background for Hustler.
+
+Minor improvements to Jack Cygan's speech and corresponding EDT.
+
+Removed Threaten bonus for Sandman.
+
+Updated Dwight's face co-ordinates that were flagged as incorrect.
+
+Some backgrounds attributes changed. Some thieves get better prices.
+
+Fixed Babyface camo faces that were a pixel out, causing stuttering.
+
+Fixed Razor's Desert Camo face that was using incorrect mask colour in image.
+
+Fixed incorrect mask colour on some PMC characters camo faces.
+
+
+
+
+
+ITEMS & TRADING
+
+Typos fixed and descriptions improved for a number of items and weapons.
+
+Minor fixes and offset adjustments to big item graphics.
+
+Added 40mm grenade cylinders to Bobby Rays inventory that had previously been removed.
+
+Added some more VR specific items to Jakes inventory to mostly buy, includes x10 Scope and Dyneema vest.
+
+Added more compatible items to ALICE pack.
+
+Added missing values and attachment points to Trijicon night sights and PEQ-15 laser. 
+
+Trijicon now attachable to  additional pistols. Added rifles that can use AN/PEQ-15 pointer.
+
+Added Kukri knife and .22 ammo to Tony's inventory.
+
+Increased M3A1 accuracy.
+
+GL Holster fixes, thanks Gmonk.
+
+Changed 9x18mm AP Ammo crates to type 22 calibre as flagged by Gmonk.
+
+Adjusted some values and descriptions on Dragon Skin and Kazak armour. Added weight to Kazak while increasing degrade rate to Dragon Skin. 
+
+Updates to .22 ammo box graphics and descriptions.
+
+M21 got a lot more tactical.
+
+Added C-Mag attachement for HK 416.
+
+Added AN/PEQ-15 laser to HK21E attachments.
+
+Added more items able to fit Rifle sling that were missing. 
+
+Beretta CX4 now has more attachments.
+
+Beretta M501 now has more attachments.
+
+Fairbairn knife now stowable in Zylon armour.
+
+Made duplicate pistol holsters now one large and regular.
+
+Removed foregrip attachment for Swedish K.
+
+Adjusting some Blaser R8 specifications also removed some attachments to M3A1 SMG.
+
+Removed reference to free bipod on SIG SG 552 on Bobby Ray's that you wouldn't get. Mentioned MOLLE on some 3.11 items.
+
+Removed Field Uniform as it provides no difference to Zylon vest at Bobby Rays to avoid confusion. 
+
+Added missing burst sound to Simonov AVS-36. Added the ability to attach bayonet, also changed description and price to reflect wrong magazine size and rarity.
+
+Fixed Smith&Wesson M&P15R calibre due to double UB class number.
+
+Updates to MP7 A1 & PDW.
+
+Added rifle grenades attachment to a number of guns that can fire them.
+
+Changed Taurus CT-40 to rifle class, removed suppressor attachment possibilities and reduced price.
+
+Renamed a number of barrel and vest uprgrade kits using consistent conventions.
+
+Change 2922 small combo scope to scope attachment point. Added incompatible item values so reflex sights and scopes didn't double up.
+
+Added small laser attachment point to Exurok's 2x Reflex Laser combo.
+
+Shuffle of small scope attachments to attachment point so laser combo will work.
+
+Added AP costs for attaching combo laser/reflex/scopes.
+
+Battlescope moved over to attachment point system, so guns can use new battlescope/reflex combo merges. 
+
+ACOG Scope/Reflex/Laser combo that Exurok had created now has combo and attachment values so it can be created in game.
+
+Renamed Leg Protectors to Knee Pads.
+
+Removed ability to carry VOG grenades in OIV grenade panel.
+
+Reduced M16A2 M203 to accuracy 5 like most other M16 rifles.
+
+
+
+
+
+INVENTORY & STARTING GEAR
+
+Added the ability for Tony to buy recently added new guns.
+
+Fixed mask on small graphics Ghillie suit, pants and hood.
+
+Fixed incorrect starting gear for PGLady4 and PGLady 7.
+
+First aid pouch able to carry trauma pack, as suggested by Gmonk.
+
+Few starting gear updates, namely Ice has better Auto guns in higher priced kits.
+
+Gave Ivan Skorpion backup weapon in Grenadier kit.
+
+Some minor tweaks and shuffles with Len and Scully's starting gear.
+
+More extensive suite for Exec, some shuffles for Kelly and minor changes to Shadow cheaper sniper rifle, more ammo for Kelly and Grunty on some choices. 
+
+Removal of unnecessary LBE holsters for mercs without pistols.
+
+Minor changes to Screams N Ops kit, Meltdown grenades and ammo. 
+
+Minor tweaks to Igor and MD's starting gear. Fleshed out Hunter and N Ops kits for Igor, gave MD more first aid kits over Trauma packs.
+
+Bud and Bob inventory tweaks and fixes for more suitable LBE.
+
+Added more Beowulf ammo for Tony to buy.
+
+
+
+
+
+
+
+MAPS
+
+A number of map tweaks includes simplifications of roads, clearer borders and item fixes.
+
+Some facility descriptions improved or corrected.
+
+Fixed leaking corner wall on office at SE part of the map of D14. Simplified fence on southern border too.
+
+Removed rocket rifles from rebels in F3.
+
+Removed Nada from Drug lab. 
+
+Removed Dentist from Salinas and accompanying T-Rex items, just in case.
+
+Update basement maps, mostly item fixes and some wall tweaks. Some never touched since original Vengeance.
+
+Fixed inaccessible item in J14 hangar. Minor tweaks including toilet block next to observation room/cafe.
+
+Made SW switch at Peninsula Gate accessible. Minor fixes to shadows and water tiles.
+
+Update to Kingpin villa tileset. Fixed unaccessible props, revised house layout and Kingpin goon loadouts.
+
+L10 fixes, revised building positions, items and some radar maps offsets.
+
+Replaced NE facing Jeep in N8 that for some reason was not retaining collision properties.
+
+F10 Distribution Centre update, clearer walls, some room and item changes.
+
+Applied neutral civ Chef to Alma mess hall to hopefully prevent spawning militia.
+
+N6 Grand Hall/Palace symmetry improvements, reduced items and money and removed incorrect ladder to cave tile that carried over.
+
+Removed strange internal big gas from outer turret in G9. Fixed leaking wall in building in Salinas G8.
+
+Minor tweaks to Malino buildings, fixing some stray shadows and walls. 
+
+P12 tweaks and fixes to leaking walls.
+
+Fixed some minor tile issues on J14, moved observation room/cafe in ward so players can walk around it. Few more villagers added to G9.
+
+Changed sector names for G14 and J14.
+
+Chalice of Chance moved to encourage Stealth/non-combat tactics.
+
+Removed Sleeping facilities at H&B Distribution Centre as there are no beds or suitable accommodation.
+
+Updated rooms, fences and items for Salinas homes. Cleaned water edges for J2.
+
+San Mona update, some rooms, items and civ allocation.
+
+Improved JSD for Tanker in Gastuf tile. 
+
+Improved JSD values for Truck.
+
+Fixes and improved JSD's for pl.sti especially bus shelter tile. 
+
+Simplified road in M10, better shadows, simplified roofs. Removed isolated entry point that wasn't needed.
+
+Minor oil rig updates, removed locked doors. All metal doors. San Mona slight sprite movement.
+
+Nerfed Residential Neighborhoods loyalty drops.
+
+H10 Hard labour camp update, rooms, fences fixed, some simplification.
+
+Drassen airport visual update. Reinstate long NE runway, different items, more civs.
+
+Graves stones now have JSD info. 
+
+
+
+
+ADDITIONS
+
+More battlesounds added to a number of factions.
+
+Random music tracks feature added for main menu, laptop and credits.
+
+New music tracks added. 
+
+New loading screens added.
+
+Auto switch off of radios at the end of the battle is now configurable.
+
+Paratroop attacks now have their own header text in the pre-battle window.
+
+Added Wood, Desert and Urban Camo face for IMP 220 ('Suit')
+
+New Kingpin Hacienda/Fort added.
+
+Separate civ quotes for miners and oil rig workers.
+
+New smaller better fitting graphics for platinum watch and knee pads that weren't fitting into small slots.
+
+AMD 65 improved graphic, no wood.
+
+Added new graphic for Signal flare.
+
+Added Beretta ARX assault rifle.
+
+Added new Blaser R8 Long Range hunting rifle, graphics by Ecstazy.
+
+Added new Christensen Arms CA-15 assault rifle.
+
+Added new CZ 805 Bren assault rifle.
+
+New tiles added to San Mona.
+
+Jeep now has Vehicle Inventory graphic to replace placeholder pick-up graphic.
+
+New JA logo menu graphic added.
+
+Updated credits.
+
