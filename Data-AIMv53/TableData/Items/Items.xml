@@ -72849,10 +72849,10 @@
 	<ITEM>
 		<uiIndex>2707</uiIndex>
 		<szItemName>MSA Headset</szItemName>
-		<szLongItemName>MSA Headset High Threat</szLongItemName>
-		<szItemDesc>Protect your hearing while reproducing your teammates transmissions with realistic, natural sound. Pinpoints sounds you seek while reducing excessive noise. Exactly the right device to prevent hearing loss during fire fights.</szItemDesc>
-		<szBRName>MSA Headset High Threat</szBRName>
-		<szBRDesc>The MSA Headset allows you to hear faint whispers, but your hearing will be protected from the concussions of weapon discharge. The twin ear enveloping foam earmuffs are snugly and comfortably positioned over your ear with an adjustable spring headband.</szBRDesc>
+		<szLongItemName>MSA Headset Hi-Threat</szLongItemName>
+		<szItemDesc>Protect your hearing while reproducing your teammates transmissions with accurate, natural sound. Pinpoints sounds you seek while reducing excessive noise you don't. Exactly the right device to prevent hearing loss during fire fights.</szItemDesc>
+		<szBRName>MSA Headset Hi-Threat</szBRName>
+		<szBRDesc>This dual ear boom headset provides the ability to hear faint whispers while protecting your ears from damaging noises during combat allowing operators to maintain 360 degree battlefield awareness.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>829</ubGraphicNum>
