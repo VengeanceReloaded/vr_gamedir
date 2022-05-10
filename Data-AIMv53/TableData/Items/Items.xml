@@ -76281,8 +76281,8 @@
 		<Attachment>1</Attachment>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
-		<BR_NewInventory>2</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>100</BestLaserRange>
 		<CamoBonus>-5</CamoBonus>
