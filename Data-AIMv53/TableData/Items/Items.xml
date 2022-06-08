@@ -37691,7 +37691,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1185</uiIndex>
-		<szItemName>Rails</szItemName>
+		<szItemName>G36 Rails</szItemName>
 		<szLongItemName>G36 Rail-Kit</szLongItemName>
 		<szItemDesc>A set of forward Picatinny Rails and a rail to replace the carrying grip</szItemDesc>
 		<szBRName>G36 Rail-Kit</szBRName>
@@ -55603,12 +55603,20 @@
 		<uiIndex>2017</uiIndex>
 		<szItemName>AUG HBAR RAS</szItemName>
 		<szLongItemName>Steyr AUG HBAR RAS</szLongItemName>
-		<szItemDesc>A heavier barrel and integral bipod transform the AUG into a hardy squad automatic. Instead of the basic optics, this version is fitted with a picatinny rail.</szItemDesc>
+		<szItemDesc>Instead of basic integrated optics, this hardy squad automatic is fitted with a picatinny rail for more attachment options.</szItemDesc>
 		<szBRName>Steyr AUG HBAR RAS</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2017</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>424</ubGraphicNum>
