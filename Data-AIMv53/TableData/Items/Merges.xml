@@ -4361,6 +4361,22 @@
 		<mergeType>4</mergeType>
 		<APCost>80</APCost>
 	</MERGE>
+		<MERGE>
+		<firstItemIndex>2811</firstItemIndex>
+		<secondItemIndex>20</secondItemIndex>
+		<firstResultingItemIndex>2015</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>80</APCost>
+	</MERGE>
+		<MERGE>
+		<firstItemIndex>2811</firstItemIndex>
+		<secondItemIndex>2013</secondItemIndex>
+		<firstResultingItemIndex>2014</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>80</APCost>
+	</MERGE>
 	<MERGE>
 		<firstItemIndex>2821</firstItemIndex>
 		<secondItemIndex>760</secondItemIndex>

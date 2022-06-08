@@ -55522,9 +55522,9 @@
 		<uiIndex>2015</uiIndex>
 		<szItemName>AUG-A2 RAS</szItemName>
 		<szLongItemName>Steyr AUG-A2 RAS</szLongItemName>
-		<szItemDesc>The 'Evil Assault Rifle' poster-child for US gun control lobbyists is the futuristic looking Austrian army standard rifle. Instead of the basic optics, this version is fitted with a picatinny rail.</szItemDesc>
+		<szItemDesc>The modular A3 now is even more adaptable with a fitted picatinny rail to make use of a larger array of attachments.</szItemDesc>
 		<szBRName>Steyr AUG-A2 RAS</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRDesc>Not for sale. Merge item.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2015</ubClassIndex>
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
