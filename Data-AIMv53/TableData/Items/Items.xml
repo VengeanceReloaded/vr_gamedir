@@ -55734,15 +55734,14 @@
 		<uiIndex>2020</uiIndex>
 		<szItemName>G11 RAS</szItemName>
 		<szLongItemName>HK G11 RAS</szLongItemName>
-		<szItemDesc>The G11 remains a technical powerhouse of assault rifledom since the 90's. Using experimental caseless ammo and a G36 rail kit this rifle is more potent than ever.</szItemDesc>
+		<szItemDesc>Using experimental caseless ammo and a G36 rail kit this rifle is more potent than ever.</szItemDesc>
 		<szBRName>HK G11 RAS</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRDesc>Not for sale. Merge item</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2020</ubClassIndex>
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
@@ -66306,7 +66305,6 @@
 		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -66338,7 +66336,6 @@
 		<ItemFlag>262144</ItemFlag>
 		<TripWireActivation>1</TripWireActivation>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -66369,7 +66366,6 @@
 		<NotBuyable>1</NotBuyable>
 		<Mine>1</Mine>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -66398,7 +66394,6 @@
 		<ItemFlag>16384</ItemFlag>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -66427,7 +66422,6 @@
 		<ItemFlag>16384</ItemFlag>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -66454,7 +66448,6 @@
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2456</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -66482,7 +66475,6 @@
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2201</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -66510,7 +66502,6 @@
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2201</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -66538,7 +66529,6 @@
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2419</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -66566,7 +66556,6 @@
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2456</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -66594,7 +66583,6 @@
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2456</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -66624,7 +66612,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -66653,7 +66640,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -66684,7 +66670,6 @@
 		<NotBuyable>1</NotBuyable>
 		<Mine>1</Mine>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -66717,7 +66702,6 @@
 		<ItemFlag>536870912</ItemFlag>
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -66902,7 +66886,6 @@
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>3</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -66931,7 +66914,6 @@
 		<Flare>1</Flare>
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2457</buddyitem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -66960,7 +66942,6 @@
 		<BigGunList>1</BigGunList>
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
