@@ -74404,15 +74404,15 @@
 		<uiIndex>2819</uiIndex>
 		<szItemName>Meprolight</szItemName>
 		<szLongItemName>Meprolight Reflex</szLongItemName>
-		<szItemDesc>An all-in-one electro-optical sight. Illumination is powered by ambient light during the day, by Tritium during darkness, and by battery power when needed in difficult lighting situations. Includes built-in visible and IR laser designators.</szItemDesc>
+		<szItemDesc>This mil-spec all-in-one electro-optical sight includes built-in visible and IR laser designators powered by four independent power sources in the unlikely event one goes down. </szItemDesc>
 		<szBRName>Meprolight Reflex</szBRName>
-		<szBRDesc>The only true "all-in-one-sight". This unique multi-purpose red-dot reflex sight with laser pointers, boasts a large lens to assure rapid target acquisition and instinctive accurate shooting ability</szBRDesc>
+		<szBRDesc>The only true "all-in-one-sight". This unique multi-purpose red-dot reflex sight with laser pointers, boasts a large lens to assure rapid target acquisition and instinctive accurate shooting ability.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>64</nasAttachmentClass>
 		<AttachmentPoint>2097152</AttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>420</ubGraphicNum>
-		<ubWeight>1</ubWeight>
+		<ubWeight>4</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>14</ItemSize>
 		<usPrice>1900</usPrice>
@@ -74423,7 +74423,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<WaterDamages>1</WaterDamages>
+		<WaterDamages>0</WaterDamages>
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<ToHitBonus>18</ToHitBonus>
