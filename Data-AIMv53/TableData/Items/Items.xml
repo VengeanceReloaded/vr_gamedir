@@ -59234,7 +59234,7 @@
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2104</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
-                <AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+        <AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>	<!-- Sights - Match Sights -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
@@ -60590,7 +60590,7 @@
 		<uiIndex>2137</uiIndex>
 		<szItemName>MT-9</szItemName>
 		<szLongItemName>Taurus MT-9 SMG</szLongItemName>
-		<szItemDesc>This compact weapon of Brazilian police forces is a classic example of globalisation, taking a tried and tested Swiss design and making it for cheaper bucks in a sweatshop in Chile.</szItemDesc>
+		<szItemDesc>This compact weapon of Brazilian police forces is a classic example of globalisation, taking a tried and tested Swiss design and making it for cheaper bucks in a Chile sweatshop.</szItemDesc>
 		<szBRName>Taurus MT-9</szBRName>
 		<szBRDesc>Get Swiss design at a South American price. If it's good enough for the Brazilian police it should be good enough for you.</szBRDesc>
 		<usItemClass>2</usItemClass>
