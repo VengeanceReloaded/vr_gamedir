@@ -18890,7 +18890,7 @@
 		<uiIndex>646</uiIndex>
 		<szItemName>F2000</szItemName>
 		<szLongItemName>FN F2000</szLongItemName>
-		<szItemDesc>This futuristic and fearsome looking rifle is Fabrique Nationale's latest entry into Law Enforcement weaponry.</szItemDesc>
+		<szItemDesc>During the dawn of the new millenium FN brought this compact, modular and futuristic looking rifle to the military market.</szItemDesc>
 		<szBRName>FN F2000</szBRName>
 		<szBRDesc>The F2000 diminutive size hides a host of features within its polymer stock and bull-pup layout. It comes standard with a 40mm grenade launcher.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -18916,6 +18916,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>850</BR_ROF>
+		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<DefaultAttachment>910</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>

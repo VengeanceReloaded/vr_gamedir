@@ -2744,5 +2744,13 @@
 		<itemIndex>2836</itemIndex>
 		<incompatibleattachmentIndex>2876</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
+		<INCOMPATIBLEATTACHMENT>
+		<itemIndex>646</itemIndex>
+		<incompatibleattachmentIndex>1003</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+		<INCOMPATIBLEATTACHMENT>
+		<itemIndex>1003</itemIndex>
+		<incompatibleattachmentIndex>646</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
 
 </INCOMPATIBLEATTACHMENTLIST>
