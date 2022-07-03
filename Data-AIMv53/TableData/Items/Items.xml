@@ -6506,7 +6506,7 @@
 		<szItemName>Scope 10x</szItemName>
 		<szLongItemName>Sniper Scope, 10x</szLongItemName>
 		<szItemDesc>A large scope, too big to fit on most assault rifles and carbines.  Hmmm, maybe it would fit on a sniper rifle?</szItemDesc>
-		<szBRName>Sniper Scope, Mag.10x</szBRName>
+		<szBRName>Sniper Scope, 10x</szBRName>
 		<szBRDesc>Dramatically improve your targeting accuracy with this powerful sniper scope. You'll quickly appreciate this scope's accurate windage adjustment, range-finder precision scale, and coated optics.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>16</AttachmentClass>
@@ -31735,7 +31735,7 @@
 		<szItemName>Scope 4x C.</szItemName>
 		<szLongItemName>ACOG Combo, 4x</szLongItemName>
 		<szItemDesc>Trijicon Advanced Combat Optical Gunscope with 4x magnification, an additional DOCTER Reflex Sight has been mounted atop the eyepiece for faster target acquisition.</szItemDesc>
-		<szBRName>ACOG-Combo, Mag.4x</szBRName>
+		<szBRName>ACOG Combo, 4x</szBRName>
 		<szBRDesc>This Advanced Combat Gunscope with 4x magnification from Trijicon has an adapter-mounted rear holosight for close-combat sighting. Includes flat top adapter, backup iron sights and dust cover.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>24</AttachmentClass>
@@ -32527,7 +32527,7 @@
 		<szItemName>Scope 2x</szItemName>
 		<szLongItemName>Small Scope, 2x</szLongItemName>
 		<szItemDesc>This type of scope is often found built-in on modern assault rifles, though it will fit a revolver, shotgun, or SMG as well.</szItemDesc>
-		<szBRName>Small Scope, Mag.2x</szBRName>
+		<szBRName>Small Scope, 2x</szBRName>
 		<szBRDesc>A small scope for mounting onto short-ranged guns like revolvers or shotguns. Optional mounts for a few autoloaders available. Usable as a replacement for damaged assault rifle optics.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>16</AttachmentClass>
@@ -32567,9 +32567,9 @@
 	<ITEM>
 		<uiIndex>1030</uiIndex>
 		<szItemName>Scope 4x</szItemName>
-		<szLongItemName>Scope 4x ACOG</szLongItemName>
-		<szItemDesc>Combat gun scope with 4x magnification.</szItemDesc>
-		<szBRName>Scope 4x ACOG</szBRName>
+		<szLongItemName>ACOG Scope, 4x</szLongItemName>
+		<szItemDesc>An Advanced Combat Optical Gun sight with 4x magnification.</szItemDesc>
+		<szBRName>ACOG Scope, 4x</szBRName>
 		<szBRDesc>This Advanced Combat Optical Gunsight with 4x magnification includes a two-piece adapter-mount for eyepiece-mounted accessories.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>16</AttachmentClass>
@@ -74652,7 +74652,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2825</uiIndex>
-		<szItemName>TBTL</szItemName>
+		<szItemName>Twin Beam TL</szItemName>
 		<szLongItemName>Twin Beam Target Laser</szLongItemName>
 		<szItemDesc>Since 1983, ILEE of Norway have been supplying target laser systems on small arms to the military market. This twin beam target laser can switch from infrared and illumination modes in a flick.</szItemDesc>
 		<szBRName>Twin Beam Target Laser</szBRName>
@@ -76163,10 +76163,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2876</uiIndex>
-		<szItemName>SM RS</szItemName>
-		<szLongItemName>Sightmark reflex sight</szLongItemName>
+		<szItemName>Sightmark RS</szItemName>
+		<szLongItemName>Sightmark Reflex sight</szLongItemName>
 		<szItemDesc>Incredibly lightweight for its size, the Ultra Shot is the biggest and baddest sight in the Sightmark reflex sight line. Perfect for shotguns or rifles, the Ultra Shot Reflex Sight is equipped with a built-in, integrated weaver mount, which fits all standard picatinny or weaver bases.</szItemDesc>
-		<szBRName>Sightmark reflex sight</szBRName>
+		<szBRName>Sightmark Reflex sight</szBRName>
 		<szBRDesc>Incredibly lightweight for its size, the Ultra Shot is the biggest and baddest sight in the Sightmark reflex sight line. Perfect for shotguns or rifles, the Ultra Shot Reflex Sight is equipped with a built-in, integrated weaver mount, which fits all standard picatinny or weaver bases.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>64</nasAttachmentClass>
@@ -76345,7 +76345,7 @@
 		<uiIndex>2881</uiIndex>
 		<szItemName>CRL Laser Sight</szItemName>
 		<szLongItemName>Sightmark CRL Triple duty Laser</szLongItemName>
-		<szItemDesc>An affordable tactical laser sight inspired by military and law-enforcement applications. The low profile and compact size make it ideal for rapid-fire shooting or home defense. Durable, yet lightweight composite plastic body. Adjustable windage and elevation. 300-yard visibility at night, 20 yards in sunlight.</szItemDesc>
+		<szItemDesc>An affordable, compact tactical laser sight inspired by military applications with a lightweight yet durable composite plastic body.</szItemDesc>
 		<szBRName>Sightmark CRL Tri Laser</szBRName>
 		<szBRDesc>An affordable tactical laser sight inspired by military and law-enforcement applications. Low profile and compact size make it ideal for rapid-fire shooting or home defense. Durable, yet light. Adjustable windage and elevation. 300-yard visibility at night, 20 yards in sunlight.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
