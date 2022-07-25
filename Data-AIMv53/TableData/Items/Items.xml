@@ -44868,6 +44868,8 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<PercentNoiseReduction>40</PercentNoiseReduction>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -63533,6 +63535,8 @@
 		<Sinks>1</Sinks>
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<RangeBonus>100</RangeBonus>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
