@@ -50980,9 +50980,9 @@
 	<ITEM>
 		<uiIndex>1682</uiIndex>
 		<szItemName>MAT-V</szItemName>
-		<szLongItemName>TT Modular Vest</szLongItemName>
+		<szLongItemName>TT Modular Tactical Vest</szLongItemName>
 		<szItemDesc>The TT Modular Adjustable Tactical Vest is a modern update to the traditional modular vest.</szItemDesc>
-		<szBRName>TT Modular Tactical Vest</szBRName>
+		<szBRName>TT Modular Vest</szBRName>
 		<szBRDesc>The Modular Adjustable Tactical Vest is a modern update to the traditional modular vest. The MAT-V has been designed to combine function and comfort without sacrificing either</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>8</nasLayoutClass>
@@ -57954,9 +57954,9 @@
 		<uiIndex>2072</uiIndex>
 		<szItemName>DeLisle</szItemName>
 		<szLongItemName>DeLisle Carbine</szLongItemName>
-		<szItemDesc>A special silenced .45 ACP bolt-action carbine.</szItemDesc>
+		<szItemDesc>A special silenced .45 ACP bolt-action carbine based on the Lee-Enfield rifle with an extremely quiet action.</szItemDesc>
 		<szBRName>DeLisle Carbine</szBRName>
-		<szBRDesc>This is a rare collector's item. Only very few of this special operations silenced boltaction carbine were manufactured.</szBRDesc>
+		<szBRDesc>A rare collector's item. Only very few of these special operations silenced bolt action carbines were ever manufactured.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2072</ubClassIndex>
 		<ubCursor>3</ubCursor>
@@ -60105,7 +60105,7 @@
 		<szLongItemName>Winchester 1300 Defender</szLongItemName>
 		<szItemDesc>This battered black Winchester 1300 Defender have bloodstains all over it along with big wear on grips, and with aftermarket installed front Tacstar pistol grips, it also has a nuclear symbol on its side. As you one day may awake to only see the rest of the world is still asleep, you still have this.</szItemDesc>
 		<szBRName>Winchester 1300 Defender</szBRName>
-		<szBRDesc>The Model 1200 and Model 1300 were two American pump-action shotguns that were manufactured by the Winchester-Western Division of Olin Corporation. Even if it has some minor wear it makes up for it with having these great pistol grips installed from previous owner.</szBRDesc>
+		<szBRDesc>The Model 1200 and Model 1300 were two American pump-action shotguns that were manufactured by the Winchester-Western Division of Olin Corporation. Even if it has some minor wear it makes up for it with having these great pistol grips installed by the previous owner.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2125</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>				<!-- Laser - Small -->
@@ -70104,7 +70104,7 @@
 		<szItemName>12g Rig</szItemName>
 		<szLongItemName>12g Shotgun Shells Leg Rig</szLongItemName>
 		<szItemDesc>This leg rig can hold several 12 gauge shotgun shells and allows access to the regular pants pockets.</szItemDesc>
-		<szBRName>12g Shotgun Shells Leg Rig</szBRName>
+		<szBRName>12g Shells Leg Rig</szBRName>
 		<szBRDesc>Whether on the shooting range or on daily duty, with this leg rig you'll never have a problem again to get those bulky 12 gauge shells, when you need them.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>108</ubClassIndex>
