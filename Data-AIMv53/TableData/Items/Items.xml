@@ -31766,9 +31766,9 @@
 		<uiIndex>1005</uiIndex>
 		<szItemName>LAM Insight</szItemName>
 		<szLongItemName>Insight LAM</szLongItemName>
-		<szItemDesc>When a standard laser sight isn't enough, the LAM adds Infrared to increase nighttime visibility. This LAM is an aiming device incorporating a co-aligned infrared and visible aiming laser as well as fixed focus infrared illuminator and white light illuminator.</szItemDesc>
+		<szItemDesc>When a standard laser sight isn't enough, the LAM adds infrared to increase nighttime visibility. This aiming device incorporates a co-aligned infrared and visible aiming laser as well as fixed focus infrared illuminator and white light illuminator.</szItemDesc>
 		<szBRName>Insight LAM</szBRName>
-		<szBRDesc>When a standard laser sight isn't enough, the LAM adds Infrared to increase visibility at night. This aiming device incorporates a co-aligned infrared, a visible aim laser, fixed focus infrared illuminator and a white light illuminator.</szBRDesc>
+		<szBRDesc>When a standard laser sight isn't enough, this LAM adds infrared to increase visibility at night, incorporating a co-aligned infrared, a visible aiming laser, fixed focus infrared illuminator and a white light illuminator.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
@@ -33670,7 +33670,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -34183,7 +34182,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -38049,7 +38047,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>10</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -38082,7 +38079,6 @@
 		<AimBonus>-1</AimBonus>
 		<CamoBonus>20</CamoBonus>
 		<NewInv>1</NewInv>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentCap>-2</PercentCap>
 			<PercentCounterForceAccuracy>-3</PercentCounterForceAccuracy>
@@ -38117,7 +38113,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>30</CamoBonus>
 		<NewInv>1</NewInv>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -38150,7 +38145,6 @@
 		<AimBonus>-1</AimBonus>
 		<CamoBonus>40</CamoBonus>
 		<NewInv>1</NewInv>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-5</PercentBase>
 			<PercentCap>-2</PercentCap>
@@ -38223,7 +38217,6 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_ROF>28</BR_ROF>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
 		<STAND_MODIFIERS />
@@ -38254,7 +38247,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<Hardware>1</Hardware>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -38282,7 +38274,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>5</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -38308,7 +38299,6 @@
 		<Repairable>1</Repairable>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -38334,7 +38324,6 @@
 		<Repairable>1</Repairable>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -38361,7 +38350,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -38371,7 +38359,7 @@
 		<szItemName>AR-Ca.-Gr.</szItemName>
 		<szLongItemName>AR-Mag. / Canteen / Grenade Panel Leg Rig</szLongItemName>
 		<szItemDesc>A modular leg rig panel with an AR-Mag. pouch, canteen pouch, and two grenade pouches. This rig, features heavy duty side release buckles and fully adjustable double leg straps that are made with durable webbing with solid side release buckles and elastic loops to allow for expansion of the thigh straps during movement.</szItemDesc>
-		<szBRName>AR-Mag. / Canteen / Grenade Panel Leg Rig</szBRName>
+		<szBRName>AR-Mag / Canteen / Grenade Panel Leg Rig</szBRName>
 		<szBRDesc>A sub-version of one of our other leg rigs, this panel replaces one grenade pouch with a canteen pouch.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
@@ -38388,7 +38376,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -38415,7 +38402,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -42130,7 +42116,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -42153,7 +42138,6 @@
 		<ubCoolness>5</ubCoolness>
 		<Metal>1</Metal>
 		<Electronic>1</Electronic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -42173,10 +42157,6 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>20</usPrice>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1357</uiIndex>
@@ -42193,10 +42173,6 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>20</usPrice>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1358</uiIndex>
@@ -42213,10 +42189,6 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>20</usPrice>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1359</uiIndex>
@@ -42238,7 +42210,6 @@
 		<Attachment>1</Attachment>
 		<Hardware>1</Hardware>
 		<Canteen>1</Canteen>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<FoodType>1</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -42265,7 +42236,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ItemFlag>4096</ItemFlag>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -42297,7 +42267,6 @@
 		<ShowStatus>1</ShowStatus>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_ROF>22</BR_ROF>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -42317,10 +42286,6 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<Unaerodynamic>1</Unaerodynamic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1363</uiIndex>
