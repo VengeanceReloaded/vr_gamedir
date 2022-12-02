@@ -23717,10 +23717,10 @@
 	<ITEM>
 		<uiIndex>766</uiIndex>
 		<szItemName>Automag IV</szItemName>
-		<szLongItemName>Automag IV</szLongItemName>
-		<szItemDesc>A large pistol in .45 Winchester Magnum caliber, made by Galena Industries.</szItemDesc>
+		<szLongItemName>AMT Automag IV</szLongItemName>
+		<szItemDesc>A large, powerful pistol in .45 Winchester Magnum caliber, designed by Harry Sanford.</szItemDesc>
 		<szBRName>Automag IV</szBRName>
-		<szBRDesc>The .45 Winchester Magnum version of Galena's line of Automag pistols.</szBRDesc>
+		<szBRDesc>The .45 Winchester Magnum version of Galena's line of limited production Automag pistols.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>766</ubClassIndex>
@@ -37880,7 +37880,7 @@
 	<ITEM>
 		<uiIndex>1192</uiIndex>
 		<szItemName>Automag V</szItemName>
-		<szLongItemName>Automag V</szLongItemName>
+		<szLongItemName>AMT Automag V</szLongItemName>
 		<szItemDesc>This powerful Automag is chambered for the .50 AE caliber.</szItemDesc>
 		<szBRName>Automag V</szBRName>
 		<szBRDesc>We still have some of these potent .50 Action Express versions of Automag pistol available, courtesy of Galena industries.</szBRDesc>
