@@ -31518,9 +31518,9 @@
 		<uiIndex>999</uiIndex>
 		<szItemName>Scope PSO-1</szItemName>
 		<szLongItemName>PSO-1 Scope</szLongItemName>
-		<szItemDesc>Russian standard scope that fits many AK-type rifles. Magnification is x4.</szItemDesc>
+		<szItemDesc>Russian standard scope that fits many AK-type rifles. Magnification is 4x.</szItemDesc>
 		<szBRName>PSO-1 Scope</szBRName>
-		<szBRDesc>The Russian PSO-1 fits only on rifles with an AK-style receiver, due to the unique side-mount. It has x4 magnification.</szBRDesc>
+		<szBRDesc>The Russian PSO-1 fits only on rifles with an AK-style receiver, due to the unique side-mount. It has 4x magnification.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>16</AttachmentClass>
 		<nasAttachmentClass>16</nasAttachmentClass>
