@@ -47018,10 +47018,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<Hardware>1</Hardware>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1544</uiIndex>
@@ -47029,23 +47025,19 @@
 		<szLongItemName>Diet bar</szLongItemName>
 		<szItemDesc>While this diet bar in theory is not a bad thing, all the artificial ingredients greedily added to save costs sure are! The Aspartame really puts the 'die' in this diet.</szItemDesc>
 		<szBRName>Diet bar</szBRName>
-		<szBRDesc>Because 'normal' food is sooo 2011.</szBRDesc>
+		<szBRDesc>Because 'normal' food is sooo 2010.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>115</ubGraphicNum>
-		<ubWeight>10</ubWeight>
+		<ubWeight>3</ubWeight>
 		<ubPerPocket>3</ubPerPocket>
 		<ItemSize>13</ItemSize>
-		<usPrice>16</usPrice>
+		<usPrice>10</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<Damageable>1</Damageable>
 		<BR_NewInventory>3</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>5</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1545</uiIndex>
@@ -47065,11 +47057,7 @@
 		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<BR_NewInventory>25</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>6</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1546</uiIndex>
@@ -47089,11 +47077,7 @@
 		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<BR_NewInventory>20</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>7</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1547</uiIndex>
@@ -47112,11 +47096,7 @@
 		<usPrice>15</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>8</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1548</uiIndex>
@@ -47135,11 +47115,7 @@
 		<usPrice>12</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>9</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1549</uiIndex>
@@ -47160,11 +47136,7 @@
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<DrugType>17408</DrugType>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>10</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1550</uiIndex>
@@ -47185,11 +47157,7 @@
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<DrugType>16384</DrugType>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>11</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1551</uiIndex>
@@ -47210,11 +47178,7 @@
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<DrugType>19456</DrugType>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>12</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1552</uiIndex>
@@ -47235,11 +47199,7 @@
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<DrugType>16384</DrugType>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>13</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1553</uiIndex>
@@ -47252,18 +47212,14 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>126</ubGraphicNum>
-		<ubWeight>8</ubWeight>
+		<ubWeight>5</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<usPrice>8</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<BR_NewInventory>15</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>14</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1554</uiIndex>
@@ -47276,18 +47232,14 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>125</ubGraphicNum>
-		<ubWeight>8</ubWeight>
+		<ubWeight>5</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<usPrice>8</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<BR_NewInventory>15</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>15</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1555</uiIndex>
@@ -47307,11 +47259,7 @@
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<BR_NewInventory>18</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>16</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1556</uiIndex>
@@ -47332,11 +47280,7 @@
 		<Damageable>1</Damageable>
 		<BR_NewInventory>7</BR_NewInventory>
 		<DrugType>8192</DrugType>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>17</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1557</uiIndex>
@@ -47356,11 +47300,7 @@
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<DrugType>1024</DrugType>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>18</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1558</uiIndex>
@@ -47379,11 +47319,7 @@
 		<usPrice>6</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>19</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1559</uiIndex>
@@ -47402,11 +47338,7 @@
 		<usPrice>24</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>20</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1560</uiIndex>
@@ -47426,11 +47358,7 @@
 		<ubCoolness>1</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<FoodType>21</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1561</uiIndex>
@@ -47451,9 +47379,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<FoodType>22</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1562</uiIndex>
@@ -47474,9 +47399,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<FoodType>23</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1563</uiIndex>
@@ -47497,9 +47419,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<FoodType>24</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1564</uiIndex>
@@ -47520,9 +47439,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<FoodType>25</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1565</uiIndex>
@@ -47544,9 +47460,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<FoodType>26</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1566</uiIndex>
@@ -47568,9 +47481,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<FoodType>27</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1567</uiIndex>
@@ -47591,9 +47501,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<FoodType>28</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1568</uiIndex>
@@ -47614,9 +47521,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<FoodType>29</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1569</uiIndex>
@@ -47638,9 +47542,6 @@
 		<Damageable>1</Damageable>
 		<Canteen>1</Canteen>
 		<FoodType>30</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1570</uiIndex>
@@ -47662,9 +47563,6 @@
 		<BR_NewInventory>30</BR_NewInventory>
 		<FoodType>31</FoodType>
 		<Canteen>1</Canteen>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1571</uiIndex>
@@ -47685,9 +47583,6 @@
 		<Damageable>1</Damageable>
 		<BR_NewInventory>14</BR_NewInventory>
 		<FoodType>32</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1572</uiIndex>
@@ -47707,9 +47602,6 @@
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<FoodType>33</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1573</uiIndex>
@@ -47730,9 +47622,6 @@
 		<Damageable>1</Damageable>
 		<DrugType>1</DrugType>
 		<FoodType>34</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1574</uiIndex>
@@ -47753,9 +47642,6 @@
 		<Damageable>1</Damageable>
 		<DrugType>1</DrugType>
 		<FoodType>35</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1575</uiIndex>
@@ -47777,9 +47663,6 @@
 		<Damageable>1</Damageable>
 		<DrugType>1025</DrugType>
 		<FoodType>36</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1576</uiIndex>
@@ -47807,9 +47690,6 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Hardware>1</Hardware>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1577</uiIndex>
