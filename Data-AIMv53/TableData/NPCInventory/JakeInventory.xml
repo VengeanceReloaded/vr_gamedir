@@ -508,4 +508,19 @@
 		<sItemIndex>208</sItemIndex>
 		<ubOptimalNumber>0</ubOptimalNumber>
 	</INVENTORY>
+		<INVENTORY>
+		<uiIndex>102</uiIndex>
+		<sItemIndex>73</sItemIndex>
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+		<INVENTORY>
+		<uiIndex>103</uiIndex>
+		<sItemIndex>74</sItemIndex>
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+		<INVENTORY>
+		<uiIndex>104</uiIndex>
+		<sItemIndex>75</sItemIndex>
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>	
 </INVENTORYLIST>
