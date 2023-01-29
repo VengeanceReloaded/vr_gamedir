@@ -74153,7 +74153,7 @@
 		<uiIndex>2818</uiIndex>
 		<szItemName>BORS</szItemName>
 		<szLongItemName>Barrett Optical Ranging System</szLongItemName>
-		<szItemDesc>An advanced ballistic target computer that can be attached to certain long range sniper rifles, instantly taking care of the data work so you can focus on the task of putting lead on target.</szItemDesc>
+		<szItemDesc>An advanced ballistic target computer for certain long range sniper rifles, instantly taking care of the data work so you can focus on the task of putting lead on target.</szItemDesc>
 		<szBRName>Barrett Optical Ranging Sysystem</szBRName>
 		<szBRDesc>An advanced ballistic target computer that can be attached to certain long range sniper rifles. The BORS automatically updates, processing data in real-time from a number of external factors giving the shooter the exact yardage at which a bullet will hit its target.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -74184,7 +74184,6 @@
 		<DayVisionRangeBonus>100</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>-75</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
