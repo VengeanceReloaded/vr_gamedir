@@ -58139,6 +58139,7 @@
   		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>	<!-- Sights - Match Sights -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
@@ -58176,7 +58177,7 @@
 		<szLongItemName>Blaser R93 .30-06</szLongItemName>
 		<szItemDesc>This bolt-action rifle uses straight-pull technology to make chambering a new round a bit faster.</szItemDesc>
 		<szBRName>Blaser R93 .30-06</szBRName>
-		<szBRDesc>The Blaser R93 Tactical is another futuristic german design. It has a quick interchangeable barrel system that allows for changing barrels without the need to resight the scope. This version uses .30-06 rounds.</szBRDesc>
+		<szBRDesc>The Blaser R93 Tactical is another futuristic German design. It has a quick interchangeable barrel system that allows for changing barrels without the need to resight the scope. This version uses .30-06 rounds.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2083</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
@@ -58184,6 +58185,7 @@
   		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>	<!-- Sights - Match Sights -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
@@ -74070,7 +74072,6 @@
 		<BrightLightVisionRangeBonus>90</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
 		<usSpotting>85</usSpotting>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -74153,9 +74154,9 @@
 		<uiIndex>2818</uiIndex>
 		<szItemName>BORS</szItemName>
 		<szLongItemName>Barrett Optical Ranging System</szLongItemName>
-		<szItemDesc>An advanced ballistic target computer for certain long range sniper rifles, instantly taking care of the data work so you can focus on the task of putting lead on target.</szItemDesc>
+		<szItemDesc>An advanced ballistic target computer for long range sniper rifles, allowing you to forget about the science so you can focus on the task of putting lead on the target.</szItemDesc>
 		<szBRName>Barrett Optical Ranging Sysystem</szBRName>
-		<szBRDesc>An advanced ballistic target computer that can be attached to certain long range sniper rifles. The BORS automatically updates, processing data in real-time from a number of external factors giving the shooter the exact yardage at which a bullet will hit its target.</szBRDesc>
+		<szBRDesc>An advanced ballistic target computer that can be attached to certain long range sniper rifles. The BORS automatically updates, processing data in real-time from a number of external factors giving the shooter the exact yardage and bore-line angle at which a bullet will hit its target.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>131072</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -74163,7 +74164,7 @@
 		<ubWeight>6</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>18</ItemSize>
-		<usPrice>25000</usPrice>
+		<usPrice>3000</usPrice>
 		<ubCoolness>9</ubCoolness>
 		<bRepairEase>-10</bRepairEase>
 		<Damageable>1</Damageable>
@@ -74180,10 +74181,6 @@
 		<MinRangeForAimBonus>250</MinRangeForAimBonus>
 		<PercentAPReduction>-10</PercentAPReduction>
 		<DamageBonus>5</DamageBonus>
-		<NightVisionRangeBonus>-75</NightVisionRangeBonus>
-		<DayVisionRangeBonus>100</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>-75</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
