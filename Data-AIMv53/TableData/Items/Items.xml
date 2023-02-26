@@ -1728,7 +1728,6 @@
 		<NotBuyable>1</NotBuyable>
 		<Rock>1</Rock>
 		<Sinks>1</Sinks>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -25582,7 +25581,6 @@
 		<NotBuyable>1</NotBuyable>
 		<BigGunList>1</BigGunList>
 		<APBonus>-4</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -25612,7 +25610,6 @@
 		<BigGunList>1</BigGunList>
 		<AimBonus>-3</AimBonus>
 		<APBonus>-1</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-15</PercentBase>
 			<PercentCap>-6</PercentCap>
@@ -25652,7 +25649,6 @@
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
 		<AimBonus>-4</AimBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentCap>-6</PercentCap>
 			<PercentCounterForceAccuracy>-12</PercentCounterForceAccuracy>
@@ -25683,7 +25679,6 @@
 		<BigGunList>1</BigGunList>
 		<Unaerodynamic>1</Unaerodynamic>
 		<APBonus>-12</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -25712,7 +25707,6 @@
 		<Unaerodynamic>1</Unaerodynamic>
 		<AimBonus>-10</AimBonus>
 		<APBonus>-8</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-40</PercentBase>
 			<PercentCap>-15</PercentCap>
@@ -25754,7 +25748,6 @@
 		<NotBuyable>1</NotBuyable>
 		<BigGunList>1</BigGunList>
 		<AimBonus>-1</AimBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentCap>-2</PercentCap>
 			<PercentCounterForceAccuracy>-3</PercentCounterForceAccuracy>
@@ -31507,7 +31500,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<PercentAPReduction>20</PercentAPReduction>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
 		</STAND_MODIFIERS>
@@ -31553,7 +31545,6 @@
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>40</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49179,7 +49170,6 @@
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49210,7 +49200,6 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>3</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49234,7 +49223,6 @@
 		<ubCoolness>2</ubCoolness>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>8</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49363,7 +49351,6 @@
 		<DefaultAttachment>322</DefaultAttachment>
 		<BrassKnuckles>1</BrassKnuckles>
 		<NeedsBatteries>1</NeedsBatteries>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49400,7 +49387,6 @@
 		<BrassKnuckles>1</BrassKnuckles>
 		<FlashLightRange>18</FlashLightRange>
 		<NeedsBatteries>1</NeedsBatteries>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49796,7 +49782,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49829,7 +49814,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>3</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49862,7 +49846,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>2</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49895,7 +49878,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>2</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49928,7 +49910,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>2</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49961,7 +49942,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>1</DesertCamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68349,6 +68329,7 @@
 		<bReliability>3</bReliability>
 		<bRepairEase>-6</bRepairEase>
 		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
@@ -68771,7 +68752,6 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<LeatherJacket>1</LeatherJacket>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -68800,7 +68780,6 @@
 		<NotBuyable>1</NotBuyable>
 		<AimBonus>-1</AimBonus>
 		<LeatherJacket>1</LeatherJacket>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-5</PercentBase>
 			<PercentCap>-2</PercentCap>
@@ -68882,7 +68861,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>6</CamoBonus>
 		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
