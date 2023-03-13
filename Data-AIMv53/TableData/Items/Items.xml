@@ -58942,7 +58942,6 @@
 		<szBRDesc>The Classic WWII SMG from the Nazis has a relatively low rate of fire making this gun easily controllable in full auto.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2103</ubClassIndex>
-		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>524288</AvailableAttachmentPoint>	<!-- Sights - Aperture Sights -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
@@ -60155,7 +60154,6 @@
 		<szBRDesc>The Classic WWII SMG from the Nazis has a relatively low rate of fire making this gun easily controllable in full auto.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2103</ubClassIndex>
-		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>			<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>524288</AvailableAttachmentPoint>			<!-- Sights - Aperture Sights -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
