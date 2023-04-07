@@ -5729,9 +5729,9 @@
 	<ITEM>
 		<uiIndex>183</uiIndex>
 		<szItemName>Ceramic Plates</szItemName>
-		<szLongItemName>Ceramic Plates</szLongItemName>
+		<szLongItemName>Ceramic Plating</szLongItemName>
 		<szItemDesc>These hard ceramic plates can be inserted into the front and back of most vests to provide extra protection by dispersing the impact from most standard ammunition loads.</szItemDesc>
-		<szBRName>Ceramic Plates</szBRName>
+		<szBRName>Ceramic Plating</szBRName>
 		<szBRDesc>Never leave home without one. Made from a hard ceramic composite, these can be inserted into the breast plate of most vests to improve their impenetrability.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -5752,7 +5752,6 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>3</BR_NewInventory>
 		<AimBonus>-2</AimBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -5788,7 +5787,6 @@
 		<NotBuyable>1</NotBuyable>
 		<NotInEditor>1</NotInEditor>
 		<DefaultUndroppable>1</DefaultUndroppable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -5812,7 +5810,6 @@
 		<NotBuyable>1</NotBuyable>
 		<NotInEditor>1</NotInEditor>
 		<DefaultUndroppable>1</DefaultUndroppable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -5836,7 +5833,6 @@
 		<NotBuyable>1</NotBuyable>
 		<NotInEditor>1</NotInEditor>
 		<DefaultUndroppable>1</DefaultUndroppable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -5860,7 +5856,6 @@
 		<NotBuyable>1</NotBuyable>
 		<NotInEditor>1</NotInEditor>
 		<DefaultUndroppable>1</DefaultUndroppable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -5889,7 +5884,6 @@
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<LeatherJacket>1</LeatherJacket>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -5918,7 +5912,6 @@
 		<NotBuyable>1</NotBuyable>
 		<AimBonus>-1</AimBonus>
 		<LeatherJacket>1</LeatherJacket>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-5</PercentBase>
 			<PercentCap>-2</PercentCap>
@@ -5959,7 +5952,6 @@
 		<AimBonus>-1</AimBonus>
 		<APBonus>-1</APBonus>
 		<LeatherJacket>1</LeatherJacket>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-5</PercentBase>
 			<PercentCap>-2</PercentCap>
@@ -5998,7 +5990,6 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<LeatherJacket>1</LeatherJacket>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -6022,10 +6013,6 @@
 		<NotBuyable>1</NotBuyable>
 		<NotInEditor>1</NotInEditor>
 		<DefaultUndroppable>1</DefaultUndroppable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>193</uiIndex>
@@ -6046,10 +6033,6 @@
 		<NotBuyable>1</NotBuyable>
 		<NotInEditor>1</NotInEditor>
 		<DefaultUndroppable>1</DefaultUndroppable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>194</uiIndex>
@@ -6071,10 +6054,6 @@
 		<Damageable>1</Damageable>
 		<ShowStatus>1</ShowStatus>
 		<Unaerodynamic>1</Unaerodynamic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>195</uiIndex>
@@ -6096,10 +6075,6 @@
 		<Damageable>1</Damageable>
 		<ShowStatus>1</ShowStatus>
 		<Unaerodynamic>1</Unaerodynamic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>196</uiIndex>
@@ -6126,7 +6101,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>-3</AimBonus>
 		<APBonus>-3</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-15</PercentBase>
 			<PercentCap>-6</PercentCap>
@@ -6166,7 +6140,6 @@
 		<NotBuyable>1</NotBuyable>
 		<AimBonus>-3</AimBonus>
 		<APBonus>-5</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-15</PercentBase>
 			<PercentCap>-6</PercentCap>
@@ -6205,7 +6178,6 @@
 		<NotBuyable>1</NotBuyable>
 		<AimBonus>-2</AimBonus>
 		<APBonus>-4</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -6254,10 +6226,6 @@
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>40</PercentTunnelVision>
 		<usSpotting>50</usSpotting>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>200</uiIndex>
@@ -6294,10 +6262,6 @@
 		<BrightLightVisionRangeBonus>80</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
 		<usSpotting>70</usSpotting>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>201</uiIndex>
@@ -6323,10 +6287,6 @@
 		<BR_NewInventory>5</BR_NewInventory>
 		<Medical>1</Medical>
 		<FirstAidKit>1</FirstAidKit>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>202</uiIndex>
@@ -6350,10 +6310,6 @@
 		<BR_NewInventory>5</BR_NewInventory>
 		<Medical>1</Medical>
 		<MedicalKit>1</MedicalKit>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>203</uiIndex>
@@ -6379,7 +6335,6 @@
 		<BR_NewInventory>5</BR_NewInventory>
 		<Hardware>1</Hardware>
 		<Toolkit>1</Toolkit>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -6413,10 +6368,6 @@
 		<Hardware>1</Hardware>
 		<LocksmithKit>1</LocksmithKit>
 		<LockPickModifier>15</LockPickModifier>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>205</uiIndex>
@@ -6443,10 +6394,6 @@
 		<CamouflageKit>1</CamouflageKit>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>206</uiIndex>
@@ -6458,10 +6405,6 @@
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ItemSize>18</ItemSize>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>207</uiIndex>
@@ -6540,10 +6483,6 @@
 		<BrightLightVisionRangeBonus>100</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>90</PercentTunnelVision>
 		<ScopeMagFactor>10.0</ScopeMagFactor>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>209</uiIndex>
@@ -6571,7 +6510,6 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Bipod>10</Bipod>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentHandling>20</PercentHandling>
 		</STAND_MODIFIERS>
@@ -6607,10 +6545,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<HearingRangeBonus>3</HearingRangeBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>211</uiIndex>
@@ -6642,7 +6576,6 @@
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -6674,10 +6607,6 @@
 		<DayVisionRangeBonus>5</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>0</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>5</BrightLightVisionRangeBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>213</uiIndex>
@@ -6710,10 +6639,6 @@
 		<BrightLightVisionRangeBonus>0</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>0</PercentTunnelVision>
 		<GasMask>1</GasMask>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>214</uiIndex>
@@ -6736,7 +6661,6 @@
 		<BR_NewInventory>5</BR_NewInventory>
 		<Hardware>1</Hardware>
 		<Canteen>1</Canteen>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<FoodType>1</FoodType>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -6768,7 +6692,6 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<MetalDetector>1</MetalDetector>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -6791,7 +6714,6 @@
 		<ubCoolness>7</ubCoolness>
 		<Damageable>1</Damageable>
 		<SciFi>1</SciFi>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -6815,7 +6737,6 @@
 		<NotBuyable>1</NotBuyable>
 		<Jar>1</Jar>
 		<ContainsLiquid>1</ContainsLiquid>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -6839,7 +6760,6 @@
 		<Damageable>1</Damageable>
 		<Jar>1</Jar>
 		<ContainsLiquid>1</ContainsLiquid>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -6860,7 +6780,6 @@
 		<ItemSize>10</ItemSize>
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -6885,7 +6804,6 @@
 		<Damageable>1</Damageable>
 		<Medical>1</Medical>
 		<Jar>1</Jar>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -6911,7 +6829,6 @@
 		<Medical>1</Medical>
 		<Jar>1</Jar>
 		<ContainsLiquid>1</ContainsLiquid>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -6937,7 +6854,6 @@
 		<Unaerodynamic>1</Unaerodynamic>
 		<Medical>1</Medical>
 		<DrugType>1</DrugType>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -6968,7 +6884,6 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7000,7 +6915,6 @@
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7023,7 +6937,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7044,7 +6957,6 @@
 		<ItemSize>10</ItemSize>
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7065,7 +6977,6 @@
 		<ItemSize>11</ItemSize>
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7085,7 +6996,6 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7106,7 +7016,6 @@
 		<usPrice>3000</usPrice>
 		<NotBuyable>1</NotBuyable>
 		<ItemFlag>4096</ItemFlag>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7128,7 +7037,6 @@
 		<usPrice>50</usPrice>
 		<Damageable>1</Damageable>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7150,7 +7058,6 @@
 		<usPrice>100</usPrice>
 		<Damageable>1</Damageable>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7159,7 +7066,7 @@
 		<uiIndex>232</uiIndex>
 		<szItemName>Pelt</szItemName>
 		<szLongItemName>Bloodcat Pelt</szLongItemName>
-		<szItemDesc>Skinning a cat is no small feat. The price on this exotic fur won't be cheap.</szItemDesc>
+		<szItemDesc>Skinning a Bloodcat is no small feat. The price on this exotic fur won't be cheap.</szItemDesc>
 		<szBRName>Bloodcat Pelt</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -7172,7 +7079,6 @@
 		<usPrice>400</usPrice>
 		<Damageable>1</Damageable>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7192,7 +7098,6 @@
 		<ItemSize>34</ItemSize>
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7211,7 +7116,6 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>34</ItemSize>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7377,7 +7281,6 @@
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
 		<ProjectionFactor>1.3</ProjectionFactor>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7407,7 +7310,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<RemoteTrigger>1</RemoteTrigger>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7438,7 +7340,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Hardware>1</Hardware>
 		<WireCutters>1</WireCutters>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7498,7 +7399,6 @@
 		<DrugType>2</DrugType>
 		<buddyitem>979</buddyitem>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7534,7 +7434,6 @@
 		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>0</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7559,7 +7458,6 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7568,7 +7466,7 @@
 		<uiIndex>248</uiIndex>
 		<szItemName>Head</szItemName>
 		<szLongItemName>Head</szLongItemName>
-		<szItemDesc>He who joyfully marches to the military system has been given a large brain by mistake, since for him the spinal cord would suffice. One unidentified, slightly decaying, human head.</szItemDesc>
+		<szItemDesc>He who joyfully marches to the military system has been given a large brain by mistake, as for him a backbone would suffice. One unidentified, slightly decaying, human head.</szItemDesc>
 		<szBRName>Head</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -7577,7 +7475,6 @@
 		<ubWeight>40</ubWeight>
 		<ItemSize>23</ItemSize>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7596,7 +7493,6 @@
 		<ubWeight>40</ubWeight>
 		<ItemSize>23</ItemSize>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7615,7 +7511,6 @@
 		<ubWeight>40</ubWeight>
 		<ItemSize>23</ItemSize>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7634,7 +7529,6 @@
 		<ubWeight>40</ubWeight>
 		<ItemSize>23</ItemSize>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7653,7 +7547,6 @@
 		<ubWeight>40</ubWeight>
 		<ItemSize>23</ItemSize>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7672,7 +7565,6 @@
 		<ubWeight>40</ubWeight>
 		<ItemSize>23</ItemSize>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7691,7 +7583,6 @@
 		<ubWeight>40</ubWeight>
 		<ItemSize>23</ItemSize>
 		<Damageable>1</Damageable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7715,7 +7606,6 @@
 		<Damageable>1</Damageable>
 		<Alcohol>1</Alcohol>
 		<DrugType>2</DrugType>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7739,7 +7629,6 @@
 		<Damageable>1</Damageable>
 		<Alcohol>1</Alcohol>
 		<DrugType>2</DrugType>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7763,7 +7652,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<ItemFlag>4096</ItemFlag>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7788,7 +7676,6 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Electronic>1</Electronic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7814,7 +7701,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<RobotRemoteControl>1</RobotRemoteControl>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7835,7 +7721,6 @@
 		<usPrice>500</usPrice>
 		<Damageable>1</Damageable>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7856,7 +7741,6 @@
 		<usPrice>250</usPrice>
 		<Damageable>1</Damageable>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7877,7 +7761,6 @@
 		<usPrice>1000</usPrice>
 		<Damageable>1</Damageable>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7904,7 +7787,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7931,7 +7813,6 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<ItemFlag>4096</ItemFlag>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7954,7 +7835,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7982,7 +7862,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Walkman>1</Walkman>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7991,7 +7870,7 @@
 		<uiIndex>267</uiIndex>
 		<szItemName>Portable TV</szItemName>
 		<szLongItemName>Portable TV</szLongItemName>
-		<szItemDesc>You won't miss your favorite cartoon or lose track of the football scores with this portable television. Don't leave home without it!</szItemDesc>
+		<szItemDesc>You won't miss your favorite cartoon or lose track of the football scores with this portable television.</szItemDesc>
 		<szBRName>Portable TV</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -8007,7 +7886,6 @@
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8022,7 +7900,6 @@
 		<usItemClass>536870912</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ItemSize>34</ItemSize>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8045,7 +7922,6 @@
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<ItemFlag>4096</ItemFlag>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8062,7 +7938,6 @@
 		<ubClassIndex>29</ubClassIndex>
 		<ItemSize>34</ItemSize>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8083,7 +7958,6 @@
 		<ItemSize>10</ItemSize>
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8104,7 +7978,6 @@
 		<ItemSize>10</ItemSize>
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8125,7 +7998,6 @@
 		<ItemSize>10</ItemSize>
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8146,7 +8018,6 @@
 		<ItemSize>10</ItemSize>
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8167,7 +8038,6 @@
 		<ItemSize>10</ItemSize>
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8188,7 +8058,6 @@
 		<ItemSize>10</ItemSize>
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8210,7 +8079,6 @@
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>		
 		<Electronic>1</Electronic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8230,7 +8098,6 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8255,7 +8122,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8280,7 +8146,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8310,7 +8175,6 @@
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<StealthBonus>8</StealthBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8342,7 +8206,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<APBonus>-3</APBonus>
 		<CamoBonus>20</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8375,7 +8238,6 @@
 		<AimBonus>-2</AimBonus>
 		<APBonus>-1</APBonus>
 		<CamoBonus>20</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -8419,7 +8281,6 @@
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<AimBonus>-2</AimBonus>
 		<CamoBonus>20</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -8462,7 +8323,6 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>7</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8490,7 +8350,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8519,7 +8378,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8548,7 +8406,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8559,7 +8416,7 @@
 		<szLongItemName>Russian Cap</szLongItemName>
 		<szItemDesc>Wow, nice hat!</szItemDesc>
 		<szBRName>Russian Cap</szBRName>
-		<szBRDesc>A Soviet guard's hat.  Available in brown and red.</szBRDesc>
+		<szBRDesc>This guard's hat is made of 100%%%% cotton and comes complete with a Soviet Red Star pin.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>46</ubClassIndex>
@@ -8577,7 +8434,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8588,7 +8444,7 @@
 		<szLongItemName>Fur Hat</szLongItemName>
 		<szItemDesc>For those cold Russian winters, you need the best in head warming fur hats.  So why would you need it in Arulco?</szItemDesc>
 		<szBRName>Fur Hat</szBRName>
-		<szBRDesc>For those cold Russian winters, you need the best in head warming fur hats.  Comes with free ear muffs.</szBRDesc>
+		<szBRDesc>For those cold Russian winters, this man-made fur hat has ear flaps that can be drawn down in severe temperatures for extra comfort.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>47</ubClassIndex>
@@ -8606,7 +8462,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8617,7 +8472,7 @@
 		<szLongItemName>Officer's Coat</szLongItemName>
 		<szItemDesc>While this coat looks like it'll hold up fine against the rain, it doesn't look like it'll do much against bullets.</szItemDesc>
 		<szBRName>Officer's Coat</szBRName>
-		<szBRDesc>A Soviet officer's coat. Pocket lint comes as standard.</szBRDesc>
+		<szBRDesc>A heavy wool Soviet officer's trench coat. Pocket lint comes as standard.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>48</ubClassIndex>
@@ -8634,7 +8489,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8663,7 +8517,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8694,7 +8547,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>-1</AimBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentCap>-2</PercentCap>
 			<PercentCounterForceAccuracy>-3</PercentCounterForceAccuracy>
@@ -8726,7 +8578,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<APBonus>-3</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8756,7 +8607,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>-2</AimBonus>
 		<APBonus>-1</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -8791,10 +8641,6 @@
 		<Damageable>1</Damageable>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>297</uiIndex>
@@ -8827,10 +8673,6 @@
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>32</BR_ROF>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>298</uiIndex>
@@ -8860,10 +8702,6 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>26</BR_ROF>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>299</uiIndex>
@@ -8871,7 +8709,7 @@
 		<szLongItemName>Utility Knife</szLongItemName>
 		<szItemDesc>Pry open locks and stab your enemies with this all purpose utility knife.</szItemDesc>
 		<szBRName>Utility Knife</szBRName>
-		<szBRDesc>Pry open locks and stab your enemies with this all purpose utility knife.</szBRDesc>
+		<szBRDesc>Whether you are working in the home or out in the wilderness, the 29 multi-tool functions of this knife will prove invaluable.</szBRDesc>
 		<usItemClass>4</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>299</ubClassIndex>
@@ -8899,10 +8737,6 @@
 		<BR_ROF>30</BR_ROF>
 		<Hardware>1</Hardware>
 		<LocksmithKit>1</LocksmithKit>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>300</uiIndex>
@@ -8935,17 +8769,13 @@
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>36</BR_ROF>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>301</uiIndex>
-		<szItemName>Exacto Knife</szItemName>
-		<szLongItemName>Exacto Knife</szLongItemName>
+		<szItemName>Box Cutter</szItemName>
+		<szLongItemName>Box Cutter Knife</szLongItemName>
 		<szItemDesc>Exactly what you'd need if you were going to cut through some cardboard.  Pretty much useless in combat though.</szItemDesc>
-		<szBRName>Exacto Knife</szBRName>
+		<szBRName>Box Cutter</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>4</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -8970,10 +8800,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_ROF>44</BR_ROF>
 		<ItemFlag>16384</ItemFlag>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>302</uiIndex>
@@ -9004,7 +8830,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>-1</AimBonus>
 		<CamoBonus>5</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentCap>-2</PercentCap>
 			<PercentCounterForceAccuracy>-3</PercentCounterForceAccuracy>
@@ -9030,10 +8855,6 @@
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
 		<ItemFlag>4096</ItemFlag>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>304</uiIndex>
@@ -9053,10 +8874,6 @@
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>305</uiIndex>
@@ -9079,10 +8896,6 @@
 		<Sinks>1</Sinks>
 		<HiddenAddon>1</HiddenAddon>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>306</uiIndex>
@@ -9106,10 +8919,6 @@
 		<HiddenAddon>1</HiddenAddon>
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>307</uiIndex>
@@ -9169,10 +8978,6 @@
 		<Sinks>1</Sinks>
 		<HiddenAddon>1</HiddenAddon>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>309</uiIndex>
@@ -9193,10 +8998,6 @@
 		<Damageable>1</Damageable>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>310</uiIndex>
@@ -9257,10 +9058,6 @@
 		<Unaerodynamic>1</Unaerodynamic>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>312</uiIndex>
@@ -9282,10 +9079,6 @@
 		<HiddenAddon>1</HiddenAddon>
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>313</uiIndex>
@@ -9306,10 +9099,6 @@
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
 		<CanAndString>1</CanAndString>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>314</uiIndex>
@@ -9334,10 +9123,6 @@
 		<buddyitem>1704</buddyitem>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>315</uiIndex>
@@ -9360,10 +9145,6 @@
 		<HiddenAddon>1</HiddenAddon>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>316</uiIndex>
@@ -9384,10 +9165,6 @@
 		<Metal>1</Metal>
 		<HiddenAddon>1</HiddenAddon>
 		<Attachment>1</Attachment>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>317</uiIndex>
@@ -9411,10 +9188,6 @@
 		<NotBuyable>1</NotBuyable>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>318</uiIndex>
@@ -9436,10 +9209,6 @@
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>319</uiIndex>
@@ -9461,10 +9230,6 @@
 		<Damageable>1</Damageable>
 		<HiddenAddon>1</HiddenAddon>
 		<Attachment>1</Attachment>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>320</uiIndex>
@@ -9484,10 +9249,6 @@
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>321</uiIndex>
@@ -9511,10 +9272,6 @@
 		<NotBuyable>1</NotBuyable>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>322</uiIndex>
@@ -9536,10 +9293,6 @@
 		<Damageable>1</Damageable>
 		<Attachment>1</Attachment>
 		<Batteries>1</Batteries>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>323</uiIndex>
@@ -9561,10 +9314,6 @@
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>324</uiIndex>
@@ -9590,10 +9339,6 @@
 		<Electronic>1</Electronic>
 		<XRay>1</XRay>
 		<NeedsBatteries>1</NeedsBatteries>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>325</uiIndex>
@@ -9611,10 +9356,6 @@
 		<ItemSize>10</ItemSize>
 		<usPrice>100</usPrice>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>326</uiIndex>
@@ -9632,10 +9373,6 @@
 		<ItemSize>10</ItemSize>
 		<usPrice>300</usPrice>
 		<NotBuyable>1</NotBuyable>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>327</uiIndex>
@@ -9659,7 +9396,6 @@
 		<buddyitem>1703</buddyitem>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -60021,9 +59757,9 @@
 		<uiIndex>2129</uiIndex>
 		<szItemName>IWS</szItemName>
 		<szLongItemName>Steyr IWS 2000</szLongItemName>
-		<szItemDesc>"Don't let idiots ruin your day" Steyr IWS 2000, an Austrian semi-automatic anti-materiel rifle, produced by Steyr Mannlicher. IWS stands for Infantry Weapon System.</szItemDesc>
+		<szItemDesc>"Don't let idiots ruin your day" with the Steyr IWS 2000. Closer in design to a howitzer than a rifle makes this weapon truly devastating.</szItemDesc>
 		<szBRName>Steyr IWS 2000</szBRName>
-		<szBRDesc>Yup, we did it, we actually got us a couple of these IWS 2000 babies, buy'em before its too late! Steyr IWS is an Austrian semi-automatic anti-materiel rifle, produced by Steyr Mannlicher. IWS stands for Infantry Weapon System.</szBRDesc>
+		<szBRDesc>Yup, we did it, we actually got us a couple of these IWS 2000 babies! The Steyr Infantry Weapon System is an Austrian semi-automatic anti-materiel rifle. Buy 'em before its too late!</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2129</ubClassIndex>
 		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->
@@ -60212,9 +59948,6 @@
 		<SciFi>0</SciFi>
 		<BR_ROF>22</BR_ROF>
 		<PoisonPercentage>2</PoisonPercentage>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2134</uiIndex>
@@ -60654,9 +60387,6 @@
 		<PercentNoiseReduction>0</PercentNoiseReduction>
 		<HideMuzzleFlash>0</HideMuzzleFlash>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2143</uiIndex>
@@ -69929,7 +69659,7 @@
 		<szLongItemName>SWAT Vest</szLongItemName>
 		<szItemDesc>Though quite heavy, this american police vest is still very versatile.</szItemDesc>
 		<szBRName>SWAT Vest</szBRName>
-		<szBRDesc>Ever wondered where the cops get all there nifty equipment? You've found the right place. Order one of these nice American police vests. Guaranteed not made in China.</szBRDesc>
+		<szBRDesc>Ever wondered where the cops get all their nifty equipment? You've found the right place. Made from quality 1000D Nylon guaranteed NOT made in China.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>111</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
@@ -69945,9 +69675,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<UrbanCamoBonus>8</UrbanCamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2611</uiIndex>
@@ -69968,9 +69695,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2612</uiIndex>
@@ -80020,7 +79744,7 @@
 		<uiIndex>3027</uiIndex>
 		<szItemName>Fawkes Mask</szItemName>
 		<szLongItemName>Guy Fawkes Mask</szLongItemName>
-		<szItemDesc>History is a lie. Religion is a control system. Money is a hoax. Debt is fiction. Media is manipulation. Goverment is a corporation. The system is a lie. And when exposing a crime is treated as committing a crime, you are ruled by criminals.</szItemDesc>
+		<szItemDesc>History is a lie. Religion is a control system. Money is a hoax. Debt is fiction. Media is manipulation. Government is a corporation. The system is a lie. And when exposing a crime is treated as committing a crime, you are ruled by criminals.</szItemDesc>
 		<szBRName>Guy Fawkes Mask</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>32768</usItemClass>
@@ -80039,9 +79763,6 @@
 		<APBonus>4</APBonus>
 		<StealthBonus>7</StealthBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>3028</uiIndex>
@@ -80063,9 +79784,6 @@
 		<NotBuyable>1</NotBuyable>
 		<Jar>1</Jar>
 		<ContainsLiquid>1</ContainsLiquid>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>3029</uiIndex>
