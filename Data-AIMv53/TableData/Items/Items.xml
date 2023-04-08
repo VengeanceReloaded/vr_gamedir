@@ -8214,9 +8214,9 @@
 		<uiIndex>283</uiIndex>
 		<szItemName>Zylon Combat Vest</szItemName>
 		<szLongItemName>Zylon Combat Vest</szLongItemName>
-		<szItemDesc>This is the standard issue body armor of the US military.  What were they thinking?  This stuff is known to wears out prematurely.</szItemDesc>
+		<szItemDesc>This was the standard issue body armor of the US military.  What were they thinking?  This stuff is known to wear out prematurely.</szItemDesc>
 		<szBRName>Zylon Combat Vest</szBRName>
-		<szBRDesc>Stronger than Kevlar, this is the body armor worn by US Marines in Iraq.  Provides limited camouflage.</szBRDesc>
+		<szBRDesc>Stronger than Kevlar, this was the body armor worn by US Marines in Iraq.  Provides limited camouflage and has some stowage for small items.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>40</ubClassIndex>
@@ -8323,9 +8323,6 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>7</CamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>286</uiIndex>
@@ -8333,7 +8330,7 @@
 		<szLongItemName>Dress Uniform</szLongItemName>
 		<szItemDesc>If you ever need to go to a formal dinner party while you're here in Arulco, you could wear this.  Or not.</szItemDesc>
 		<szBRName>Dress Uniform</szBRName>
-		<szBRDesc>Formal attire of the US Marine Corps.  Warning!  This is not a viable combat vestement.</szBRDesc>
+		<szBRDesc>Formal attire of the US Marine Corps.  Warning!  This is not a viable combat vestment.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>43</ubClassIndex>
