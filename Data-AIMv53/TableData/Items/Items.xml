@@ -7908,7 +7908,7 @@
 		<uiIndex>269</uiIndex>
 		<szItemName>Cigars</szItemName>
 		<szLongItemName>Cigars</szLongItemName>
-		<szItemDesc>A solid box of robustos. Suitable to be clenched between your teeth in the heat of battle or for hanging around a cigar lounge with a fine glass of port.</szItemDesc>
+		<szItemDesc>A solid box of robustos. Suitable to be clenched between your teeth in the heat of battle or for hanging around a lounge with a fine glass of port.</szItemDesc>
 		<szBRName>Cigars</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -7922,9 +7922,6 @@
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<ItemFlag>4096</ItemFlag>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>270</uiIndex>
@@ -7958,9 +7955,6 @@
 		<ItemSize>10</ItemSize>
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>272</uiIndex>
@@ -7978,9 +7972,6 @@
 		<ItemSize>10</ItemSize>
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>273</uiIndex>
@@ -7998,9 +7989,6 @@
 		<ItemSize>10</ItemSize>
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>274</uiIndex>
@@ -8018,9 +8006,6 @@
 		<ItemSize>10</ItemSize>
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>275</uiIndex>
@@ -8038,9 +8023,6 @@
 		<ItemSize>10</ItemSize>
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>276</uiIndex>
@@ -8058,9 +8040,6 @@
 		<ItemSize>10</ItemSize>
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>277</uiIndex>
@@ -8079,9 +8058,6 @@
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>		
 		<Electronic>1</Electronic>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>278</uiIndex>
@@ -8098,9 +8074,6 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>279</uiIndex>
@@ -31809,9 +31782,6 @@
 		<usPrice>250</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<BigGunList>1</BigGunList>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1014</uiIndex>
@@ -31831,9 +31801,6 @@
 		<ubCoolness>2</ubCoolness>
 		<WaterDamages>0</WaterDamages>
 		<BigGunList>1</BigGunList>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1015</uiIndex>
@@ -31864,9 +31831,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Hardware>1</Hardware>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1016</uiIndex>
@@ -31889,9 +31853,6 @@
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
 		<ItemFlag>4096</ItemFlag>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1017</uiIndex>
@@ -31913,9 +31874,6 @@
 		<Metal>1</Metal>
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1018</uiIndex>
@@ -31936,9 +31894,6 @@
 		<WaterDamages>0</WaterDamages>
 		<Metal>1</Metal>
 		<BigGunList>1</BigGunList>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1019</uiIndex>
@@ -31956,9 +31911,6 @@
 		<ItemSize>18</ItemSize>
 		<usPrice>25</usPrice>
 		<BigGunList>1</BigGunList>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1020</uiIndex>
@@ -31979,9 +31931,6 @@
 		<Metal>1</Metal>
 		<BigGunList>1</BigGunList>
 		<ItemFlag>4096</ItemFlag>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1021</uiIndex>
@@ -32030,15 +31979,12 @@
 		<BigGunList>1</BigGunList>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1023</uiIndex>
 		<szItemName>Cuban Cigars</szItemName>
 		<szLongItemName>Cuban Cigars</szLongItemName>
-		<szItemDesc>The finest in Central American cigars.  So how did they end up here?</szItemDesc>
+		<szItemDesc>Arguably the finest cigars from South America.</szItemDesc>
 		<szBRName>Cuban Cigars</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -32052,9 +31998,6 @@
 		<ubCoolness>2</ubCoolness>
 		<BigGunList>1</BigGunList>
 		<ItemFlag>4096</ItemFlag>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1024</uiIndex>
@@ -75610,7 +75553,7 @@
 		<szItemName>Jar of Marbles</szItemName>
 		<szLongItemName>Jar of Marbles</szLongItemName>
 		<szItemDesc>A glass jar filled with some marbles.</szItemDesc>
-		<szBRName>Jar with Marbles</szBRName>
+		<szBRName>Jar of Marbles</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -75864,9 +75807,6 @@
 		<Unaerodynamic>1</Unaerodynamic>
 		<Medical>1</Medical>
 		<DrugType>471166473</DrugType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2883</uiIndex>
@@ -75930,9 +75870,6 @@
 		<BurstSizeBonus>3</BurstSizeBonus>
 		<PercentBurstFireAPReduction>70</PercentBurstFireAPReduction>
 		<PercentAutofireAPReduction>40</PercentAutofireAPReduction>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2885</uiIndex>
@@ -75961,9 +75898,6 @@
 		<SciFi>1</SciFi>
 		<BurstSizeBonus>2</BurstSizeBonus>
 		<PercentBurstFireAPReduction>60</PercentBurstFireAPReduction>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2886</uiIndex>
@@ -75993,9 +75927,6 @@
 		<BurstSizeBonus>2</BurstSizeBonus>
 		<PercentBurstFireAPReduction>60</PercentBurstFireAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2887</uiIndex>
@@ -76024,9 +75955,6 @@
 		<SciFi>1</SciFi>
 		<BurstSizeBonus>4</BurstSizeBonus>
 		<PercentBurstFireAPReduction>-10</PercentBurstFireAPReduction>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2888</uiIndex>
@@ -76056,9 +75984,6 @@
 		<BurstSizeBonus>4</BurstSizeBonus>
 		<PercentBurstFireAPReduction>-10</PercentBurstFireAPReduction>
 		<AttachmentSystem>1</AttachmentSystem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2889</uiIndex>
@@ -76148,16 +76073,13 @@
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<ItemFlag>4096</ItemFlag>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2893</uiIndex>
 		<szItemName>Gun Mag</szItemName>
 		<szLongItemName>Guns&amp;Girls Nr.21</szLongItemName>
 		<szItemDesc>40 pages of pure action that specializes in portraying female tactical operators from an ultra-sexy perspective.</szItemDesc>
-		<szBRName>Porno Magazine</szBRName>
+		<szBRName>Magazine</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -76172,9 +76094,6 @@
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<ItemFlag>4096</ItemFlag>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2894</uiIndex>
@@ -76194,16 +76113,13 @@
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<ItemFlag>4096</ItemFlag>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2895</uiIndex>
 		<szItemName>Buns mag</szItemName>
 		<szLongItemName>Buns magazine</szLongItemName>
 		<szItemDesc>Vol.6 No.4 June issue of your favourite derrière adult magazine!</szItemDesc>
-		<szBRName>Buns magazine</szBRName>
+		<szBRName>Magazine</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -76217,16 +76133,13 @@
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<ItemFlag>4096</ItemFlag>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2896</uiIndex>
 		<szItemName>Guns&amp;Girls</szItemName>
 		<szLongItemName>Guns&amp;Girls Nr.41</szLongItemName>
 		<szItemDesc>Guns&amp;Girls magazine contains 40 pages of hot girls with some of the world's most exotic weaponry in unrealistic tactical settings.</szItemDesc>
-		<szBRName>Guns&amp;Girls</szBRName>
+		<szBRName>Magazine</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -76239,9 +76152,6 @@
 		<ubCoolness>10</ubCoolness>
 		<Damageable>1</Damageable>
 		<ItemFlag>4096</ItemFlag>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2897</uiIndex>
@@ -76260,9 +76170,6 @@
 		<ubCoolness>10</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2898</uiIndex>
@@ -76401,16 +76308,13 @@
 		<usPrice>25</usPrice>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2904</uiIndex>
 		<szItemName>Judge Dredd</szItemName>
 		<szLongItemName>Judge Dredd</szLongItemName>
 		<szItemDesc> In a dark future where powerful and coldly efficient "Judges" act with the supreme authority of both the police force and legal system, Judge Dredd is the most feared law enforcer of them all. Stallone stars as the UK comic book anti-hero, but big budget and fine sets couldn't stop it flopping.</szItemDesc>
-		<szBRName>Judge Dredd</szBRName>
+		<szBRName>Video</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -76421,16 +76325,13 @@
 		<usPrice>19</usPrice>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2905</uiIndex>
 		<szItemName>Terminator</szItemName>
 		<szLongItemName>The Terminator</szLongItemName>
 		<szItemDesc>In the year of darkness, 2029, the rulers of this planet devised the ultimate plan. They would reshape the future by changing the past. The plan required something that felt no pity. No pain. No fear. Something unstoppable.</szItemDesc>
-		<szBRName>The Terminator</szBRName>
+		<szBRName>Video</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -76441,16 +76342,13 @@
 		<usPrice>19</usPrice>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2906</uiIndex>
 		<szItemName>They Live</szItemName>
 		<szLongItemName>They Live</szLongItemName>
 		<szItemDesc>Roddy Piper plays a drifter referred to as Nada, who discovers the ruling class are in fact aliens concealing their appearance and manipulating people to spend money, breed and accept the status quo with subliminal messages in mass media.</szItemDesc>
-		<szBRName>They Live</szBRName>
+		<szBRName>Video</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -76462,9 +76360,6 @@
 		<ubCoolness>10</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2907</uiIndex>
@@ -76482,9 +76377,6 @@
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<Sinks>1</Sinks>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2908</uiIndex>
@@ -76503,9 +76395,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2909</uiIndex>
@@ -76523,10 +76412,6 @@
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<Sinks>1</Sinks>
-		<SciFi>0</SciFi>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2910</uiIndex>
@@ -76547,9 +76432,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<FoodType>12</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2911</uiIndex>
@@ -76570,9 +76452,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<FoodType>13</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2912</uiIndex>
@@ -76593,9 +76472,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<FoodType>18</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2913</uiIndex>
@@ -76616,9 +76492,6 @@
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<FoodType>11</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2914</uiIndex>
@@ -76639,9 +76512,6 @@
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<FoodType>12</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2915</uiIndex>
@@ -76661,9 +76531,6 @@
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<FoodType>18</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2916</uiIndex>
