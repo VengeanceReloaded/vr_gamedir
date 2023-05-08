@@ -72120,7 +72120,7 @@
 		<szLongItemName>Sun Goggles</szLongItemName>
 		<szItemDesc>These paramilitary eye protectors have triple-lenses: an anti-fog interior acetate lens, a tinted middle lens for reduced glare, and a scratch and shatter resistant exterior lens.</szItemDesc>
 		<szBRName>Sun Goggles</szBRName>
-		<szBRDesc>These paramilitary eye goggles feature triple-protection lenses: an interior anti-fog acetate lens, a tinted middle lens for reduced glare, and a scratch and shatter resistant exterior lens. And as an added bonus, they can be worn comfortably over prescription glasses.</szBRDesc>
+		<szBRDesc>These paramilitary eye goggles feature triple-protection lenses: an interior anti-fog acetate lens, a tinted middle lens for reduced glare, and a scratch and shatter resistant exterior lens. Can be worn over prescription glasses.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>2251799813685248</AttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -75712,9 +75712,9 @@
 		<uiIndex>2880</uiIndex>
 		<szItemName>AN/PEQ-15</szItemName>
 		<szLongItemName>AN/PEQ-15 DBALA2</szLongItemName>
-		<szItemDesc>The AN/PEQ-15 and AN/PEQ-15A IR lasers are class IIIB, while the visible-aiming lasers are class IIIA. The IR lasers emit a highly collimated beam of IR light for precise weapon aiming, as well as a separate, IR-illuminating laser with adjustable focus.</szItemDesc>
+		<szItemDesc>These IR lasers emit a highly collimated beam of IR light for precise weapon aiming, as well as a separate, IR-illuminating laser with adjustable focus.</szItemDesc>
 		<szBRName>AN/PEQ-15 DBALA2</szBRName>
-		<szBRDesc>The AN/PEQ-15 Advanced Target Pointer/Illuminator/Aiming Light and the AN/PEQ-15A Dual Beam Aiming Laser Advanced (DBALA2) are laser-aiming devices designed to be used in conjunction with night vision devices to engage enemy targets at night.</szBRDesc>
+		<szBRDesc>The AN/PEQ-15 Advanced Target Pointer/Illuminator/Aiming Light and the AN/PEQ-15A Dual Beam Aiming Laser Advanced (DBALA2) are designed to be used in conjunction with night vision devices to engage enemy targets in darkness.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
