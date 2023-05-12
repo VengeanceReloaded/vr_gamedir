@@ -68016,7 +68016,7 @@
 		<szBRName>Knee Pads Urban Camo</szBRName>
 		<szBRDesc>Protect your knees while crawling around in the rubble. Tailored for mobility and performance these one size fits all items are made in America and use Urban Camo colorways.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<nasAttachmentClass>2</nasAttachmentClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>36028797018963968</AttachmentPoint>	<!-- Armour Leggings - Protectors -->
 		<ubClassIndex>218</ubClassIndex>
 		<ubGraphicType>4</ubGraphicType>
@@ -68047,7 +68047,7 @@
 		<szBRName>Knee Pads Desert Camo</szBRName>
 		<szBRDesc>Using cell foam padding for shock absorbtion, these desert tan pads are a good choice to keep your knees protected. Made in America.</szBRDesc>
 		<usItemClass>2048</usItemClass>
-		<nasAttachmentClass>2</nasAttachmentClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>36028797018963968</AttachmentPoint>	<!-- Armour Leggings - Protectors -->
 		<ubClassIndex>219</ubClassIndex>
 		<ubGraphicType>4</ubGraphicType>
