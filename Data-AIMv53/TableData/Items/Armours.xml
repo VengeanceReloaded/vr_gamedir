@@ -427,24 +427,24 @@
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
-	<ARMOUR>	<!--  -->
+	<ARMOUR>	<!-- Ghillie Hood -->
 		<uiIndex>61</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>1</ubProtection>
 		<ubCoverage>80</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
-	<ARMOUR>	<!--  -->
+	<ARMOUR>	<!-- Ghillie Pants -->
 		<uiIndex>62</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>1</ubProtection>
+		<ubProtection>10</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
-	<ARMOUR>	<!--  -->
+	<ARMOUR>	<!-- Ghillie Suit -->
 		<uiIndex>63</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>1</ubProtection>
+		<ubProtection>10</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
@@ -1421,7 +1421,7 @@
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>4</ubDegradePercent>
 	</ARMOUR>
-	<ARMOUR>	<!--  -->
+	<ARMOUR>	<!-- Urban Camo Pants -->
 		<uiIndex>203</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>10</ubProtection>
