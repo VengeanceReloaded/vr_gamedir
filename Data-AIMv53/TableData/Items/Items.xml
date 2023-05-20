@@ -25035,7 +25035,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>-1</AimBonus>
 		<CamoBonus>20</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentCap>-2</PercentCap>
 			<PercentCounterForceAccuracy>-3</PercentCounterForceAccuracy>
@@ -25047,7 +25046,7 @@
 		<uiIndex>808</uiIndex>
 		<szItemName>Ghillie Pants</szItemName>
 		<szLongItemName>Ghillie Leggings</szLongItemName>
-		<szItemDesc>High Quality Jute Thread is sewn directly on to Military BDU trousers. The sewn on Jute thread covers the back and the front.</szItemDesc>
+		<szItemDesc>High Quality Jute thread is sewn directly on to Military BDU trousers. The sewn on Jute thread covers the back and the front.</szItemDesc>
 		<szBRName>Ghillie Leggings</szBRName>
 		<szBRDesc>Unless you plan to wear jeans under your Ghillie suit, these pants are a must have if you are going for a covert approach.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -25069,7 +25068,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>30</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -25078,9 +25076,9 @@
 		<uiIndex>809</uiIndex>
 		<szItemName>Ghillie Suit</szItemName>
 		<szLongItemName>Ghillie Suit</szLongItemName>
-		<szItemDesc>High Quality Jute Thread is sewn directly on to a Military BDU 4 pocket coat. The sewn on Jute thread covers the entire jacket in the front and the back, and has an attached hood.</szItemDesc>
+		<szItemDesc>Whether you are spying on that cute looking girl next door, or sneaking up to that perfect spot overlooking an enemy base, this vest will make sure nobody sees you.</szItemDesc>
 		<szBRName>Ghillie Suit</szBRName>
-		<szBRDesc>Whether you are spying on that cute looking girl next door, or sneaking up to that perfect spot overlooking an enemy base, this vest will make sure nobody sees you.</szBRDesc>
+		<szBRDesc>Blend into your surroundings with this top quality Ghillie suit that uses jute thread to resemble natural foilage giving an advantage in every combat or recon situation.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>63</ubClassIndex>
@@ -26073,10 +26071,10 @@
 		<AttachmentPoint>36028797018963968</AttachmentPoint>	<!-- Armour Leggings - Protectors -->
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>237</ubGraphicNum>
-		<ubWeight>10</ubWeight>
+		<ubWeight>8</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>18</ItemSize>
-		<usPrice>400</usPrice>
+		<usPrice>350</usPrice>
 		<ubCoolness>4</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -31415,7 +31413,7 @@
 		<uiIndex>1004</uiIndex>
 		<szItemName>Scope 4x C.</szItemName>
 		<szLongItemName>ACOG Combo, 4x</szLongItemName>
-		<szItemDesc>Trijicon Advanced Combat Optical Gunscope with 4x magnification, an additional DOCTER Reflex Sight has been mounted atop the eyepiece for faster target acquisition.</szItemDesc>
+		<szItemDesc>An Advanced Combat Optical Gunscope with 4x magnification, an additional DOCTER Reflex Sight has been mounted atop the eyepiece for faster target acquisition.</szItemDesc>
 		<szBRName>ACOG Combo, 4x</szBRName>
 		<szBRDesc>This Advanced Combat Gunscope with 4x magnification from Trijicon has an adapter-mounted rear holosight for close-combat sighting. Includes flat top adapter, backup iron sights and dust cover.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -37757,7 +37755,7 @@
 		<uiIndex>1198</uiIndex>
 		<szItemName>Ghillie Pants</szItemName>
 		<szLongItemName>Ghillie Leggings</szLongItemName>
-		<szItemDesc>High Quality Jute Thread is sewn directly on to Military BDU trousers. The sewn on Jute thread covers the back and the front.</szItemDesc>
+		<szItemDesc>These BDU trousers use high quality Jute thread attached to create an illusion of natural foilage to make you blend into the natural environment.</szItemDesc>
 		<szBRName>Ghillie Leggings</szBRName>
 		<szBRDesc>Unless you plan to wear jeans under your Ghillie suit, these pants are a must have if you are going for a covert approach.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -37850,10 +37848,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1201</uiIndex>
@@ -37914,9 +37908,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<Hardware>1</Hardware>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1203</uiIndex>
@@ -37991,9 +37982,6 @@
 		<Repairable>1</Repairable>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1206</uiIndex>
@@ -65534,7 +65522,7 @@
 	<ITEM>
 		<uiIndex>2414</uiIndex>
 		<szItemName>40mm VOG Smoke</szItemName>
-		<szLongItemName>40mm VOG Smoke Grenade</szLongItemName>
+		<szLongItemName>VOG-25 40mm Smoke Grenade</szLongItemName>
 		<szItemDesc>A smoke grenade for Russian 40mm grenade launchers.</szItemDesc>
 		<szBRName>VOG Smoke Grenade</szBRName>
 		<szBRDesc>A smoke grenade for Russian 40mm grenade launchers and is effective both against visual and infrared devices.</szBRDesc>
@@ -65566,7 +65554,7 @@
 	<ITEM>
 		<uiIndex>2415</uiIndex>
 		<szItemName>40mm VOG Tear Gas Grenade</szItemName>
-		<szLongItemName>40mm VOG Tear Gas Grenade</szLongItemName>
+		<szLongItemName>VOG-25 40mm Tear Gas Grenade</szLongItemName>
 		<szItemDesc>A non-lethal tear gas grenade for Russian 40mm grenade launchers.</szItemDesc>
 		<szBRName>VOG Tear Gas Grenade</szBRName>
 		<szBRDesc>Check out our tear gas grenades suitable for Russian 40mm grenade launchers, when you need to disable targets without killing them.</szBRDesc>
@@ -67902,7 +67890,7 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>350</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Sinks>1</Sinks>
@@ -67933,7 +67921,7 @@
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>350</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<ubCoolness>5</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Sinks>1</Sinks>
