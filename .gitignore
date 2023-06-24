@@ -1,0 +1,79 @@
+# Vanilla
+Data/
+clcd16.dll
+clcd32.dll
+dplayerx.dll
+drvmgt.dll
+EULA.txt
+ja2.exe
+Ja2.ini
+Ja2.set
+manual.pdf
+mss32.dll
+readme.txt
+Smackw32.dll
+support.ico
+
+# GOG
+goggame.dll
+gog.ico
+goggame-1207658696.dll
+goggame-1207658696.hashdb
+goggame-1207658696.ico
+goggame-1207658696.info
+goggame-1207658696.script
+goglog.ini
+unins000.dat
+unins000.exe
+unins000.ini
+unins000.msg
+Launch Jagged Alliance 2.lnk
+
+# 1.13
+Data-1.13/
+Data-UB
+Docs
+Shaders
+BackEnd.dllDownload latest ja2.exe - ReadMe.txt
+INI Editor.exe
+INIEditorAPBPConstants.xml
+INIEditorJA2.xml
+INIEditorJA2Options.xml
+Ja2.ini
+XML Editor.exe
+XML Editor.exe.config
+XMLEditorInit.xml
+XMLEditorSettings.xml
+binkw32.dll
+ddraw.dll
+ddraw.ini
+vfs_config.JA2113.ini
+vfs_config.JA2Vanilla.ini
+vfs_config.UB113.ini
+vfs_config.UBVanilla.ini
+
+# Misc
+dplayerx.dll
+drvmgt.dll
+fmod.dll
+libwine.dll
+sound.log
+wined3d.dll
+Profiles/UserProfile_Vengeance/vfs.log
+Profiles/UserProfile_Vengeance/ERROR_REPORT.iniErrorMessages.txt
+
+# Local
+Profiles/UserProfile_JA2Vanilla
+Profiles/UserProfile_UnfinishedBusiness
+Profiles/UserProfile_JA2113
+Profiles/UserProfile_Vengeance/DevInfo
+Profiles/UserProfile_Vengeance/MAPS
+Profiles/UserProfile_Vengeance/SavedGames
+Profiles/UserProfile_Vengeance/ShadeTables
+Profiles/UserProfile_Vengeance/Temp
+Profiles/UserProfile_Vengeance/*.txt
+Profiles/UserProfile_Vengeance/*.log
+Profiles/UserProfile_Vengeance/*.tga
+
+# Executables
+*.exe
