@@ -4838,7 +4838,7 @@
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>2016</usOptionalGearCost>
 		<bArmourAttractiveness>20</bArmourAttractiveness>
-		<bMainGunAttractiveness>21</bMainGunAttractiveness>
+		<bMainGunAttractiveness></bMainGunAttractiveness>
 		<fGoodGuy>0</fGoodGuy>
 		<usApproachFactorFriendly>180</usApproachFactorFriendly>
 		<usApproachFactorDirect>130</usApproachFactorDirect>
@@ -15066,6 +15066,7 @@
 		<bBuddy4>255</bBuddy4>
 		<bBuddy5>255</bBuddy5>
 		<bLearnToLike>255</bLearnToLike>
+		<bLearnToLikeTime>0</bLearnToLikeTime>
 		<bLearnToLikeTime>0</bLearnToLikeTime>
 		<bHated1>255</bHated1>
 		<bHatedTime1>0</bHatedTime1>

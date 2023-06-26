@@ -510,7 +510,7 @@
 		<uiIndex>17</uiIndex>
 		<szName>Nurse/Soldier/Shooter</szName>
 		<szShortName>Nurse/Soldier/Shooter</szShortName>
-		<szDescription>That combination will at definitely spice up your resume.</szDescription>
+		<szDescription>That combination creates an impressive resume.</szDescription>
 		<wisdom>1</wisdom>
 		<agility>2</agility>
 		<dexterity>4</dexterity>
@@ -719,7 +719,7 @@
 		<uiIndex>26</uiIndex>
 		<szName>Backstage Crew/Veteran Mercenary</szName>
 		<szShortName>Tech Crew/Vet Merc</szShortName>
-		<szDescription>Blasting sounds, fireworks, screaming people - isn't it odd how &#10;similar stage is to the battlefield?</szDescription>
+		<szDescription>Blasting sounds, fireworks, screaming people - isn't it odd how &#10;similar the stage is to the battlefield?</szDescription>
 		<mechanical>3</mechanical>
 		<marksmanship>2</marksmanship>
 		<leadership>5</leadership>
@@ -773,7 +773,7 @@
 		<uiIndex>28</uiIndex>
 		<szName>Extreme Athlete</szName>
 		<szShortName>Extreme Athlete</szShortName>
-		<szDescription>If you want to put your life to risk, might as well earn cash by it...</szDescription>
+		<szDescription>If you want to put your life at risk, might as well earn cash with it.</szDescription>
 		<agility>6</agility>
 		<strength>3</strength>
 		<dexterity>3</dexterity>
@@ -898,7 +898,7 @@
 		<uiIndex>33</uiIndex>
 		<szName>Chinese Doctor/Martial Arts Expert</szName>
 		<szShortName>TCM/Martial Arts</szShortName>
-		<szDescription>Dr. Q is trained in Traditional Chinese Medicine (TCM) and martial arts. Not the &#10;fastest way to cure a patient, but it works.</szDescription>
+		<szDescription>Dr. Q is trained in Traditional Chinese Medicine (TCM) and martial artist. Not the &#10;fastest way to cure a patient, but it works.</szDescription>
 		<agility>5</agility>
 		<strength>5</strength>
 		<dexterity>5</dexterity>
@@ -921,9 +921,9 @@
 	<!-- Nails -->
 	<BACKGROUND>
 		<uiIndex>34</uiIndex>
-		<szName>Gang Member/Bomber</szName>
-		<szShortName>Gang Member/Bomber</szShortName>
-		<szDescription>Becoming a mercenary is a natural step for many gang members - job's the same, &#10;tools and pay much better.</szDescription>
+		<szName>Bike Gang Member/Bomber</szName>
+		<szShortName>Bike Gang Member/Bomber</szShortName>
+		<szDescription>Becoming a mercenary is a natural step for many gang members &#10; the job's the same, tools and pay much better.</szDescription>
 		<strength>4</strength>
 		<leadership>1</leadership>
 		<ap_polar>-5</ap_polar>
@@ -1024,7 +1024,7 @@
 		<uiIndex>38</uiIndex>
 		<szName>Graduate</szName>
 		<szShortName>Graduate</szShortName>
-		<szDescription>Fresh outta school, with diploma still warm in a hand, it's time to finally &#10;make yourself a living.</szDescription>
+		<szDescription>Fresh out of school, with diploma still warm in a hand, it's time for MD &#10;to finally make a living.</szDescription>
 		<leadership>-3</leadership>
 		<ap_polar>5</ap_polar>
 		<ap_desert>-5</ap_desert>
@@ -1064,7 +1064,7 @@
 		<uiIndex>40</uiIndex>
 		<szName>Momma's Boy</szName>
 		<szShortName>Momma's Boy</szShortName>
-		<szDescription>Your childhood left you with significant personal issues that have &#10;yet to be solved.</szDescription>
+		<szDescription>Childhood has left Biff with significant personal issues that have &#10;yet to be resolved.</szDescription>
 		<leadership>-10</leadership>
 		<ap_polar>-3</ap_polar>
 		<ap_desert>-3</ap_desert>
@@ -1091,7 +1091,7 @@
 		<uiIndex>41</uiIndex>
 		<szName>Wanna-be Mercenary</szName>
 		<szShortName>Wanna-be Merc</szShortName>
-		<szDescription>You chose the awesome life of a mercenary, visit new places, meet new people, &#10;kill them, and even GET PAID for it.</szDescription>
+		<szDescription>Choose the awesome life of a mercenary, visit new places, meet new people, &#10;kill them, and even GET PAID for it.</szDescription>
 		<marksmanship>2</marksmanship>
 		<ap_assault>1</ap_assault>
 		<meleedamage>3</meleedamage>
@@ -1193,7 +1193,7 @@
 		<uiIndex>45</uiIndex>
 		<szName>Academic/Bomber</szName>
 		<szShortName>Academic/Bomber</szShortName>
-		<szDescription>Most of your knowledge comes from the books and secondhand reports &#10;- and it didn't prepare you for a grim reality of a war zone as well as you thought.</szDescription>
+		<szDescription>Most of his knowledge comes from books and secondhand reports &#10;- but it didn't prepare him for the grim reality of a war zone as well as he thought.</szDescription>
 		<leadership>-3</leadership>
 		<explosives>6</explosives>
 		<wisdom>5</wisdom>
@@ -1216,7 +1216,7 @@
 		<uiIndex>46</uiIndex>
 		<szName>Drug Addict/Bomber</szName>
 		<szShortName>Addict/Bomber</szShortName>
-		<szDescription>Given the nature of today's drugs, addicts can make fearsome, &#10;yet unreliable, opponents.</szDescription>
+		<szDescription>Given the nature of todays drugs, addicts can make fearsome, &#10;yet unreliable, opponents.</szDescription>
 		<explosives>6</explosives>
 		<breachingcharge>50</breachingcharge>
 		<disarm_trap>40</disarm_trap>
