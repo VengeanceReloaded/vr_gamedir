@@ -23717,11 +23717,6 @@
 		<APCost>20</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
-		<attachmentIndex>1570</attachmentIndex>
-		<itemIndex>128</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
 		<attachmentIndex>1525</attachmentIndex>
 		<itemIndex>756</itemIndex>
 		<APCost>20</APCost>
@@ -24130,6 +24125,11 @@
 		<attachmentIndex>1527</attachmentIndex>
 		<itemIndex>2464</itemIndex>
 		<APCost>20</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>1570</attachmentIndex>
+		<itemIndex>128</itemIndex>
+		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1581</attachmentIndex>
