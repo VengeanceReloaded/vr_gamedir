@@ -46572,10 +46572,6 @@
 		<Unaerodynamic>1</Unaerodynamic>
 		<Medical>1</Medical>
 		<DrugType>1081344</DrugType>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1540</uiIndex>
@@ -46596,7 +46592,6 @@
 		<ubCoolness>2</ubCoolness>
 		<BR_NewInventory>15</BR_NewInventory>
 		<BR_UsedInventory>10</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -46619,7 +46614,6 @@
 		<usPrice>2</usPrice>
 		<ubCoolness>2</ubCoolness>
 		<WaterDamages>0</WaterDamages>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -46644,7 +46638,6 @@
 		<WaterDamages>0</WaterDamages>
 		<BR_NewInventory>10</BR_NewInventory>
 		<BR_UsedInventory>6</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -47099,7 +47092,7 @@
 		<uiIndex>1565</uiIndex>
 		<szItemName>Cow meat</szItemName>
 		<szLongItemName>Cow meat</szLongItemName>
-		<szItemDesc>Meat from 100 percent corn fed cows, packed in poisonous carbon monoxide, it keeps meat fresh and red even if it's spoiled. Be sure not to grill it too much or the chemical reactions inside will create PhIP, a carcinogen with potent estrogen effects. Or just it eat it raw.</szItemDesc>
+		<szItemDesc>Meat from 100 percent corn fed cows, packed in poisonous carbon monoxide, it keeps meat appearing fresh even if it's spoiled. Be sure not to grill it too much or the chemical reactions inside will create PhIP, a carcinogen with potent estrogen effects. Or just it eat it raw.</szItemDesc>
 		<szBRName>Cow meat</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -47223,7 +47216,7 @@
 		<uiIndex>1571</uiIndex>
 		<szItemName>Vegetable juice</szItemName>
 		<szLongItemName>Vegetable juice</szLongItemName>
-		<szItemDesc>A drink that is so nutritious, it also stills your hunger (a bit).</szItemDesc>
+		<szItemDesc>A drink that is so nutritious, it also stills your hunger for a while. Shame about the sugar content.</szItemDesc>
 		<szBRName>Vegetable juice</szBRName>
 		<szBRDesc>For those without teeth who want to eat vegetables.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -47498,9 +47491,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<FoodType>37</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1583</uiIndex>
@@ -47551,7 +47541,6 @@
 		<Mine>1</Mine>
 		<Directional>1</Directional>
 		<TripWireActivation>1</TripWireActivation>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<usActionItemFlag>512</usActionItemFlag>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47583,7 +47572,6 @@
 		<Mine>1</Mine>
 		<Directional>1</Directional>
 		<TripWireActivation>1</TripWireActivation>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<usActionItemFlag>1024</usActionItemFlag>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47615,7 +47603,6 @@
 		<Mine>1</Mine>
 		<Directional>1</Directional>
 		<TripWireActivation>1</TripWireActivation>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<usActionItemFlag>2048</usActionItemFlag>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47647,7 +47634,6 @@
 		<Mine>1</Mine>
 		<Directional>1</Directional>
 		<TripWireActivation>1</TripWireActivation>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<usActionItemFlag>4096</usActionItemFlag>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47679,7 +47665,6 @@
 		<Mine>1</Mine>
 		<Directional>1</Directional>
 		<TripWireActivation>1</TripWireActivation>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<usActionItemFlag>8192</usActionItemFlag>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47711,7 +47696,6 @@
 		<Mine>1</Mine>
 		<Directional>1</Directional>
 		<TripWireActivation>1</TripWireActivation>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<usActionItemFlag>16384</usActionItemFlag>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47743,7 +47727,6 @@
 		<Mine>1</Mine>
 		<Directional>1</Directional>
 		<TripWireActivation>1</TripWireActivation>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<usActionItemFlag>32768</usActionItemFlag>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -47773,7 +47756,6 @@
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
 		<TripWire>1</TripWire>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<usActionItemFlag>33</usActionItemFlag>
 	</ITEM>
 	<ITEM>
@@ -47800,7 +47782,6 @@
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
 		<TripWire>1</TripWire>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<usActionItemFlag>65</usActionItemFlag>
 	</ITEM>
 	<ITEM>
@@ -47827,7 +47808,6 @@
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
 		<TripWire>1</TripWire>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<usActionItemFlag>129</usActionItemFlag>
 	</ITEM>
 	<ITEM>
@@ -47854,7 +47834,6 @@
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
 		<TripWire>1</TripWire>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<usActionItemFlag>18</usActionItemFlag>
 	</ITEM>
 	<ITEM>
@@ -47881,7 +47860,6 @@
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
 		<TripWire>1</TripWire>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<usActionItemFlag>34</usActionItemFlag>
 	</ITEM>
 	<ITEM>
@@ -47908,7 +47886,6 @@
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
 		<TripWire>1</TripWire>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<usActionItemFlag>66</usActionItemFlag>
 	</ITEM>
 	<ITEM>
@@ -47935,7 +47912,6 @@
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
 		<TripWire>1</TripWire>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<usActionItemFlag>130</usActionItemFlag>
 	</ITEM>
 	<ITEM>
@@ -47962,7 +47938,6 @@
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
 		<TripWire>1</TripWire>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<usActionItemFlag>20</usActionItemFlag>
 	</ITEM>
 	<ITEM>
@@ -47989,7 +47964,6 @@
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
 		<TripWire>1</TripWire>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<usActionItemFlag>36</usActionItemFlag>
 	</ITEM>
 	<ITEM>
@@ -48016,7 +47990,6 @@
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
 		<TripWire>1</TripWire>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<usActionItemFlag>68</usActionItemFlag>
 	</ITEM>
 	<ITEM>
@@ -48043,7 +48016,6 @@
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
 		<TripWire>1</TripWire>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<usActionItemFlag>132</usActionItemFlag>
 	</ITEM>
 	<ITEM>
@@ -48070,7 +48042,6 @@
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
 		<TripWire>1</TripWire>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<usActionItemFlag>24</usActionItemFlag>
 	</ITEM>
 	<ITEM>
@@ -48097,7 +48068,6 @@
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
 		<TripWire>1</TripWire>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<usActionItemFlag>40</usActionItemFlag>
 	</ITEM>
 	<ITEM>
@@ -48124,7 +48094,6 @@
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
 		<TripWire>1</TripWire>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<usActionItemFlag>72</usActionItemFlag>
 	</ITEM>
 	<ITEM>
@@ -48151,7 +48120,6 @@
 		<Mine>1</Mine>
 		<TripWireActivation>1</TripWireActivation>
 		<TripWire>1</TripWire>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<usActionItemFlag>136</usActionItemFlag>
 	</ITEM>
 	<ITEM>
@@ -48507,7 +48475,7 @@
 		<uiIndex>1622</uiIndex>
 		<szItemName>Tan pants</szItemName>
 		<szLongItemName>Tan pants</szLongItemName>
-		<szItemDesc>Pants. Of limited use as a weapon, if you ask me. But you propably don't, I know you.</szItemDesc>
+		<szItemDesc>Pants. Of limited use as a weapon, if you ask me. But you probably don't, I know you.</szItemDesc>
 		<szBRName>Tan pants</szBRName>
 		<szBRDesc>We are expanding our store with these unique pants. Featuring moisture wicking fibres that prevent you turning into a crotch-pot cooker while humping in the boonies.</szBRDesc>
 		<usItemClass>8192</usItemClass>
@@ -48657,7 +48625,6 @@
 		<ItemFlag>16384</ItemFlag>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>36</BR_ROF>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -48680,7 +48647,6 @@
 		<usPrice>2</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Sinks>1</Sinks>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -48710,7 +48676,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>4</BR_UsedInventory>
 		<PercentTunnelVision>20</PercentTunnelVision>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -48814,7 +48779,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -48838,7 +48802,6 @@
 		<Damageable>1</Damageable>
 		<Medical>1</Medical>
 		<DrugType>2097152</DrugType>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -48881,7 +48844,6 @@
 		<FlashLightRange>15</FlashLightRange>
 		<NeedsBatteries>1</NeedsBatteries>
 		<ProjectionFactor>3.0</ProjectionFactor>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
