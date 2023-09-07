@@ -2824,5 +2824,13 @@
 		<itemIndex>1003</itemIndex>
 		<incompatibleattachmentIndex>646</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
+		<INCOMPATIBLEATTACHMENT>
+		<itemIndex>946</itemIndex>
+		<incompatibleattachmentIndex>2880</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+		<INCOMPATIBLEATTACHMENT>
+		<itemIndex>2880</itemIndex>
+		<incompatibleattachmentIndex>946</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
 
 </INCOMPATIBLEATTACHMENTLIST>
