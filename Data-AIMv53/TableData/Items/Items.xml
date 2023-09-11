@@ -28317,7 +28317,7 @@
 		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<BR_ROF>12</BR_ROF>
 		<BR_NewInventory>0</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
+		<BR_UsedInventory>2</BR_UsedInventory>
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -28355,6 +28355,8 @@
 		<BigGunList>1</BigGunList>
 		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<BR_ROF>12</BR_ROF>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<GrenadeLauncher>1</GrenadeLauncher>
@@ -28611,6 +28613,8 @@
 		<NotInEditor>1</NotInEditor>
 		<Inseparable>1</Inseparable>
 		<BR_ROF>18</BR_ROF>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -28649,7 +28653,7 @@
 		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<BR_ROF>12</BR_ROF>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -30456,9 +30460,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>975</uiIndex>
@@ -30486,9 +30487,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>976</uiIndex>
@@ -30612,9 +30610,6 @@
 		<BigGunList>1</BigGunList>
 		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>980</uiIndex>
@@ -30646,9 +30641,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>981</uiIndex>
@@ -30681,9 +30673,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>982</uiIndex>
