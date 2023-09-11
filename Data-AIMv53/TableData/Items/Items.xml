@@ -71428,13 +71428,14 @@
 		<ubGraphicNum>834</ubGraphicNum>
 		<ubWeight>11</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>20</ItemSize>
+		<ItemSize>22</ItemSize>
 		<usPrice>1500</usPrice>
 		<ubCoolness>8</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>0</WaterDamages>
+		<Attachment>1</Attachment>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<ToHitBonus>-10</ToHitBonus>
@@ -71458,13 +71459,14 @@
 		<ubGraphicNum>864</ubGraphicNum>
 		<ubWeight>9</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>20</ItemSize>
+		<ItemSize>22</ItemSize>
 		<usPrice>450</usPrice>
 		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>0</WaterDamages>
+		<Attachment>1</Attachment>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<ToHitBonus>-10</ToHitBonus>
