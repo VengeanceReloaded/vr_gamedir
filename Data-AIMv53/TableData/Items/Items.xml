@@ -6617,10 +6617,10 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>-15</ToHitBonus>
 		<APBonus>-8</APBonus>
-		<NightVisionRangeBonus>0</NightVisionRangeBonus>
-		<DayVisionRangeBonus>0</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>0</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>0</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>-20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>-5</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>-20</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>-5</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>0</PercentTunnelVision>
 		<GasMask>1</GasMask>
 	</ITEM>
@@ -43170,7 +43170,7 @@
 		<szLongItemName>.45 ACP Box, HP</szLongItemName>
 		<szItemDesc>This box contains .45 caliber hollow point ammunition that expands in soft tissue on impact, causing a large of amount of bleeding and nerve trauma.</szItemDesc>
 		<szBRName>.45 ACP Box HP</szBRName>
-		<szBRDesc>Turns your sub machine gun into a lean mean killing machine. This box contains .45 caliber hollow point ammunition expand in soft tissue on impact, causing a large of amount of bleeding and nerve trauma.</szBRDesc>
+		<szBRDesc>This box of 185 grain hollow point ammo will turn your sub machine gun into a lean mean killing machine against unarmored assailants.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>120</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -43184,9 +43184,6 @@
 		<Sinks>1</Sinks>
 		<BR_NewInventory>3</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1412</uiIndex>
@@ -44535,9 +44532,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1471</uiIndex>
@@ -44545,7 +44539,7 @@
 		<szLongItemName>.40 S&amp;W Box</szLongItemName>
 		<szItemDesc>.40 S&amp;W emerged in the late 1990s as "middle of the road" round with more stopping power than the 9mm and more penetration than the .45ACP.</szItemDesc>
 		<szBRName>.40 S&amp;W Box</szBRName>
-		<szBRDesc>.40S&amp;W is a popular ammunition among many law enforcement officers.</szBRDesc>
+		<szBRDesc>.40 S&amp;W is a popular ammunition among many law enforcement officers.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>477</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -44560,9 +44554,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1472</uiIndex>
@@ -44585,9 +44576,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1473</uiIndex>
@@ -44611,9 +44599,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1474</uiIndex>
@@ -44635,9 +44620,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1475</uiIndex>
@@ -44661,9 +44643,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<RangeBonus>70</RangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1476</uiIndex>
@@ -44686,9 +44665,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1477</uiIndex>
@@ -44713,9 +44689,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1478</uiIndex>
@@ -62231,9 +62204,6 @@
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>3</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2246</uiIndex>
@@ -62279,9 +62249,6 @@
 		<Sinks>1</Sinks>
 		<RangeBonus>-30</RangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2248</uiIndex>
@@ -62331,9 +62298,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2250</uiIndex>
@@ -62357,10 +62321,9 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<RangeBonus>-20</RangeBonus>
 		<DamageBonus>-20</DamageBonus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2251</uiIndex>
@@ -62385,9 +62348,6 @@
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>3</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2252</uiIndex>
@@ -62409,11 +62369,9 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2253</uiIndex>
@@ -62435,10 +62393,9 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2254</uiIndex>
@@ -62460,11 +62417,9 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>0</BR_NewInventory>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2255</uiIndex>
@@ -62487,15 +62442,17 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<RangeBonus>40</RangeBonus>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2256</uiIndex>
 		<szItemName>9x39mm Box SP-5</szItemName>
 		<szLongItemName>9x39mm Box, SP-5</szLongItemName>
-		<szItemDesc>The match version of the 9x39mm round used by certain Russian silenced rifles doesn't have quite the armor piercing capabilities of the SP-6 ammo, but it is quite effective if you need to take those long range shots.</szItemDesc>
+		<szItemDesc>The match version of the 9x39mm round used by certain Russian silenced rifles doesn't have quite the armor piercing capabilities of the SP-6 ammo, but it is quite effective with long range shots.</szItemDesc>
 		<szBRName>9x39mm Box, SP-5</szBRName>
-		<szBRDesc>The match version of the 9x39mm round used by certain Russian silenced rifles doesn't have quite the armor piercing capabilities of the SP-6 ammo, but it is quite effective if you need to take those long range shots.</szBRDesc>
+		<szBRDesc>The match version of the 9x39mm subsonic round used by certain Russian silenced rifles provides excellent accuracy on long range shots without waking the neighbors.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>391</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -62692,7 +62649,7 @@
 		<uiIndex>2265</uiIndex>
 		<szItemName>.22 LR Box HP</szItemName>
 		<szLongItemName>.22 LR Box, HP</szLongItemName>
-		<szItemDesc>This box contains .22 LR hyper velocity hollow point ammunition. Great to hunt small animals with.</szItemDesc>
+		<szItemDesc>This box contains .22 LR hyper velocity hollow point ammunition.</szItemDesc>
 		<szBRName>.22 LR Box HP</szBRName>
 		<szBRDesc>This box contains .22 LR hyper velocity hollow point ammunition. Great for hunting small animals.</szBRDesc>
 		<usItemClass>1024</usItemClass>
@@ -63037,7 +62994,7 @@
 		<szLongItemName>.408 Box</szLongItemName>
 		<szItemDesc>This box contains .408 CheyTac ammunition.</szItemDesc>
 		<szBRName>.408 Box</szBRName>
-		<szBRDesc>A box with 25 Rounds of .408 CheyTac ammunition.</szBRDesc>
+		<szBRDesc>The CheyTac .408 round provides incredible accuracy and devastating terminal ballistics over long distances for a number of anti-personnel, anti-sniper and anti-materiel roles.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>702</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -63083,9 +63040,9 @@
 		<uiIndex>2283</uiIndex>
 		<szItemName>.408 Mag</szItemName>
 		<szLongItemName>.408 CheyTac Mag</szLongItemName>
-		<szItemDesc>The CheyTac .408 round has excellent ballistic capabilities.</szItemDesc>
+		<szItemDesc>The CheyTac .408 round provides excellent ballistic capabilities at supersonic speeds for a number of anti-personnel, anti-sniper and anti-materiel rifles.</szItemDesc>
 		<szBRName>.408 CheyTac Mag</szBRName>
-		<szBRDesc>The CheyTac .408 round has excellent ballistic capabilities.</szBRDesc>
+		<szBRDesc>The CheyTac .408 round provides incredible accuracy and devastating terminal ballistics over long distances for a number of anti-personnel, anti-sniper and anti-materiel roles.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>701</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -63099,9 +63056,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2284</uiIndex>
@@ -63124,9 +63078,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2285</uiIndex>
@@ -63148,9 +63099,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2286</uiIndex>
@@ -63172,9 +63120,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2287</uiIndex>
@@ -63197,9 +63142,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2288</uiIndex>
@@ -63222,9 +63164,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2289</uiIndex>
@@ -71404,7 +71343,7 @@
 		<uiIndex>2701</uiIndex>
 		<szItemName>S10 Gas Mask</szItemName>
 		<szLongItemName>Avon S10 Gas Mask</szLongItemName>
-		<szItemDesc>This British SAS Gas Mask has special night sight lenses and is likely to spread extra fear among Iranian Arab terrorists.</szItemDesc>
+		<szItemDesc>This British SAS Gas Mask has special night sight lenses and is likely to spread extra fear among Iranian terrorists.</szItemDesc>
 		<szBRName>Avon S10 Gas Mask</szBRName>
 		<szBRDesc>As used by the SAS, this extremely durable British Gas Mask comes with night vision enhancing lenses as well as laser rejection filter outserts to protect eyes from blinding flashes. Comes in S, M or L sizes.</szBRDesc>
 		<usItemClass>32768</usItemClass>
@@ -71413,7 +71352,7 @@
 		<ubWeight>11</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>22</ItemSize>
-		<usPrice>1500</usPrice>
+		<usPrice>1200</usPrice>
 		<ubCoolness>8</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
@@ -71421,12 +71360,12 @@
 		<WaterDamages>0</WaterDamages>
 		<Attachment>1</Attachment>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
+		<BR_UsedInventory>2</BR_UsedInventory>
 		<ToHitBonus>-10</ToHitBonus>
-		<APBonus>-8</APBonus>
-		<NightVisionRangeBonus>0</NightVisionRangeBonus>
-		<DayVisionRangeBonus>0</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>0</CaveVisionRangeBonus>
+		<APBonus>-4</APBonus>
+		<NightVisionRangeBonus>3</NightVisionRangeBonus>
+		<DayVisionRangeBonus>-5</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>1</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>5</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>0</PercentTunnelVision>
 		<GasMask>1</GasMask>
@@ -71435,9 +71374,9 @@
 		<uiIndex>2702</uiIndex>
 		<szItemName>XM50 Gas Mask</szItemName>
 		<szLongItemName>XM50 Gas Mask</szLongItemName>
-		<szItemDesc>An advanced gas mask for day time missions.</szItemDesc>
+		<szItemDesc>An advanced gas mask for day time missions. The XM50 has a wide single visor providing superior field of vision.</szItemDesc>
 		<szBRName>XM50 Gas Mask</szBRName>
-		<szBRDesc>The XM50 Joint Service General Purpose Mask (JSGPM) incorporates some very advanced technologies including reduced breathing resistance (estimated at 50 percent), improved vision, and greater comfort.</szBRDesc>
+		<szBRDesc>The XM50 Joint Service General Purpose Mask (JSGPM) incorporates advanced technologies to substantially reduce breathing resistance, improve vision, and provide greater comfort.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>864</ubGraphicNum>
@@ -71455,9 +71394,9 @@
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<ToHitBonus>-10</ToHitBonus>
 		<APBonus>-4</APBonus>
-		<NightVisionRangeBonus>-20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>-5</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>-20</CaveVisionRangeBonus>
+		<NightVisionRangeBonus>-15</NightVisionRangeBonus>
+		<DayVisionRangeBonus>-3</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>-15</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-5</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>0</PercentTunnelVision>
 		<GasMask>1</GasMask>
