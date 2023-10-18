@@ -15251,17 +15251,17 @@
 		<bNewSkillTrait1>8</bNewSkillTrait1>
 		<bNewSkillTrait2>17</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
-		<bBuddy1>255</bBuddy1>
+		<bBuddy1>195</bBuddy1>
 		<bBuddy2>255</bBuddy2>
 		<bBuddy3>255</bBuddy3>
 		<bBuddy4>255</bBuddy4>
 		<bBuddy5>255</bBuddy5>
 		<bLearnToLike>255</bLearnToLike>
 		<bLearnToLikeTime>0</bLearnToLikeTime>
-		<bHated1>255</bHated1>
-		<bHatedTime1>0</bHatedTime1>
-		<bHated2>255</bHated2>
-		<bHatedTime2>0</bHatedTime2>
+		<bHated1>212</bHated1>
+		<bHatedTime1>24</bHatedTime1>
+		<bHated2>221</bHated2>
+		<bHatedTime2>4</bHatedTime2>
 		<bHated3>255</bHated3>
 		<bHatedTime3>0</bHatedTime3>
 		<bHated4>255</bHated4>
@@ -20338,47 +20338,47 @@
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>212</uiIndex>
-		<Type>0</Type>
-		<zName></zName>
-		<zNickname></zNickname>
+		<Type>2</Type>
+		<zName>Buck "Cowboy" Hoyt</zName>
+		<zNickname>Cowboy</zNickname>
 		<ubFaceIndex>212</ubFaceIndex>
-		<usEyesX>0</usEyesX>
-		<usEyesY>0</usEyesY>
-		<usMouthX>0</usMouthX>
-		<usMouthY>0</usMouthY>
+		<usEyesX>9</usEyesX>
+		<usEyesY>7</usEyesY>
+		<usMouthX>8</usMouthX>
+		<usMouthY>22</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
-		<uiBlinkFrequency>0</uiBlinkFrequency>
-		<uiExpressionFrequency>0</uiExpressionFrequency>
-		<PANTS></PANTS>
-		<VEST></VEST>
-		<SKIN></SKIN>
-		<HAIR></HAIR>
+		<uiBlinkFrequency>3000</uiBlinkFrequency>
+		<uiExpressionFrequency>2000</uiExpressionFrequency>
+		<PANTS>TANPANTS</PANTS>
+		<VEST>JEANVEST</VEST>
+		<SKIN>TANSKIN</SKIN>
+		<HAIR>BROWNHEAD</HAIR>
 		<bSex>0</bSex>
 		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
-		<bAttitude>0</bAttitude>
-		<bCharacterTrait>0</bCharacterTrait>
+		<bAttitude>8</bAttitude>
+		<bCharacterTrait>7</bCharacterTrait>
 		<bDisability>0</bDisability>
-		<ubNeedForSleep>0</ubNeedForSleep>
+		<ubNeedForSleep>8</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>0</bLifeMax>
-		<bLife>0</bLife>
-		<bStrength>0</bStrength>
-		<bAgility>0</bAgility>
-		<bDexterity>0</bDexterity>
-		<bWisdom>0</bWisdom>
-		<bMarksmanship>0</bMarksmanship>
-		<bExplosive>0</bExplosive>
-		<bLeadership>0</bLeadership>
-		<bMedical>0</bMedical>
-		<bMechanical>0</bMechanical>
-		<bExpLevel>0</bExpLevel>
+		<bLifeMax>71</bLifeMax>
+		<bLife>71</bLife>
+		<bStrength>65</bStrength>
+		<bAgility>69</bAgility>
+		<bDexterity>56</bDexterity>
+		<bWisdom>61</bWisdom>
+		<bMarksmanship>52</bMarksmanship>
+		<bExplosive>2</bExplosive>
+		<bLeadership>6</bLeadership>
+		<bMedical>42</bMedical>
+		<bMechanical>24</bMechanical>
+		<bExpLevel>1</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
-		<bNewSkillTrait1>0</bNewSkillTrait1>
+		<bNewSkillTrait1>9</bNewSkillTrait1>
 		<bNewSkillTrait2>0</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
 		<bBuddy1>0</bBuddy1>
@@ -20388,8 +20388,8 @@
 		<bBuddy5>0</bBuddy5>
 		<bLearnToLike>0</bLearnToLike>
 		<bLearnToLikeTime>0</bLearnToLikeTime>
-		<bHated1>0</bHated1>
-		<bHatedTime1>0</bHatedTime1>
+		<bHated1>149</bHated1>
+		<bHatedTime1>12</bHatedTime1>
 		<bHated2>0</bHated2>
 		<bHatedTime2>0</bHatedTime2>
 		<bHated3>0</bHated3>
@@ -20402,15 +20402,15 @@
 		<bLearnToHateTime>0</bLearnToHateTime>
 		<bRace>0</bRace>
 		<bNationality>0</bNationality>
-		<bAppearance>0</bAppearance>
-		<bAppearanceCareLevel>0</bAppearanceCareLevel>
-		<bRefinement>0</bRefinement>
+		<bAppearance>2</bAppearance>
+		<bAppearanceCareLevel>1</bAppearanceCareLevel>
+		<bRefinement>1</bRefinement>
 		<bRefinementCareLevel>0</bRefinementCareLevel>
 		<bHatedNationality>-1</bHatedNationality>
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
-		<bSexist>0</bSexist>
-		<sSalary>0</sSalary>
+		<bSexist>2</bSexist>
+		<sSalary>250</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -20420,15 +20420,16 @@
 		<bMainGunAttractiveness>-1</bMainGunAttractiveness>
 		<fGoodGuy>0</fGoodGuy>
 		<usApproachFactorFriendly>100</usApproachFactorFriendly>
-		<usApproachFactorDirect>100</usApproachFactorDirect>
+		<usApproachFactorDirect>80</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
-		<usApproachFactorRecruit>100</usApproachFactorRecruit>
+		<usApproachFactorRecruit>80</usApproachFactorRecruit>
 		<sSectorX>0</sSectorX>
 		<sSectorY>0</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>0</bTown>
 		<bTownAttachment>0</bTownAttachment>
+		<usBackground>343</usBackground>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>213</uiIndex>

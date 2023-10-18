@@ -7432,4 +7432,17 @@
 		<increased_maxcth>-5</increased_maxcth>
 		<spotter>-10</spotter>
 	</BACKGROUND>
+	<!-- Cowboy -->
+	<BACKGROUND>
+		<uiIndex>343</uiIndex>
+		<szName>Medschool Maverick</szName>
+		<szShortName>Medschool Maverick</szShortName>
+		<szDescription>Cowboy's frontier approach to medicine earned him a non-spurred boot from med school faster than he could quick-draw.</szDescription>
+		<medical>-5</medical>
+		<cth_blades>5</cth_blades>
+		<speed_bandaging>20</speed_bandaging>
+		<resistance_fear>5</resistance_fear>
+		<resistance_alcohol>20</resistance_alcohol>
+		<ap_urban>-7</ap_urban>
+	</BACKGROUND>
 </BACKGROUNDS>
