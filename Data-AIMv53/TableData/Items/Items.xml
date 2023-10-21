@@ -6596,9 +6596,9 @@
 		<uiIndex>213</uiIndex>
 		<szItemName>Gas Mask</szItemName>
 		<szLongItemName>Gas Mask</szLongItemName>
-		<szItemDesc>Replicated from the Russian M-17A1, this rubber mask has cheek filters, scratch-proof lenses, adjustable head straps, and a drinking attachment.  Comes in its own vinyl shoulder bag.</szItemDesc>
+		<szItemDesc>This mask design has been around longer than the Rolling Stones and has cheek filters, scratch-proof lenses, a drinking attachment and a resuscitation tube.</szItemDesc>
 		<szBRName>Gas Mask</szBRName>
-		<szBRDesc>This Russian mask is a copy of the American M-17A1. It has cheek filters, scratch-proof lenses, adjustable straps, and a drinking attachment. Includes its own vinyl carry bag. We recommend purchasing a companion plastic poncho to help protect you from blistering agents.</szBRDesc>
+		<szBRDesc>This Russian mask is a copy of the American M-17A1. It has cheek filters, scratch-proof lenses, a drinking attachment and a resuscitation tube.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -71333,11 +71333,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2701</uiIndex>
-		<szItemName>S10 Gas Mask</szItemName>
-		<szLongItemName>Avon S10 Gas Mask</szLongItemName>
-		<szItemDesc>This British SAS Gas Mask has special night sight lenses and is likely to spread extra fear among Iranian terrorists.</szItemDesc>
-		<szBRName>Avon S10 Gas Mask</szBRName>
-		<szBRDesc>As used by the SAS, this extremely durable British Gas Mask comes with night vision enhancing lenses as well as laser rejection filter outserts to protect eyes from blinding flashes. Comes in S, M or L sizes.</szBRDesc>
+		<szItemName>Gas Mask S10</szItemName>
+		<szLongItemName>Gas Mask Avon S10</szLongItemName>
+		<szItemDesc>This British SAS respirator has special night sight lenses and is likely to spread extra fear among Iranian terrorists.</szItemDesc>
+		<szBRName>Gas Mask Avon S10</szBRName>
+		<szBRDesc>As used by the SAS, this extremely durable British gas mask comes with night vision enhancing lenses as well as laser rejection filter outserts to protect eyes from blinding flashes. Comes in S, M or L sizes.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>834</ubGraphicNum>
@@ -71364,10 +71364,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2702</uiIndex>
-		<szItemName>XM50 Gas Mask</szItemName>
-		<szLongItemName>XM50 Gas Mask</szLongItemName>
+		<szItemName>Gas Mask XM50</szItemName>
+		<szLongItemName>Gas Mask XM50</szLongItemName>
 		<szItemDesc>An advanced gas mask for day time missions. The XM50 has a wide single visor providing superior field of vision.</szItemDesc>
-		<szBRName>XM50 Gas Mask</szBRName>
+		<szBRName>Gas Mask XM50</szBRName>
 		<szBRDesc>The XM50 Joint Service General Purpose Mask (JSGPM) incorporates advanced technologies to substantially reduce breathing resistance, improve vision, and provide greater comfort.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
