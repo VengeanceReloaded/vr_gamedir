@@ -8140,9 +8140,9 @@
 		<uiIndex>282</uiIndex>
 		<szItemName>Zylon Combat Pants</szItemName>
 		<szLongItemName>Zylon Combat Pants</szLongItemName>
-		<szItemDesc>Created in Japan, Zylon was a synthetic polymer used in standard issue body armor by the US military. Though it's protective properties are strong it has been proven to degrade prematurely.</szItemDesc>
+		<szItemDesc>Developed in Japan, Zylon was a synthetic polymer providing extraoridinary tensile strength. Though it's protective properties are good it has been known to degrade prematurely.</szItemDesc>
 		<szBRName>Zylon Combat Pants</szBRName>
-		<szBRDesc>Stronger than kevlar, these were the standard issue for US forces in Iraq.  Provides limited camouflage.</szBRDesc>
+		<szBRDesc>Stronger than kevlar, this synthetic fiber provides remarkable ballistic protection at a light weight.  Provides limited camouflage.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>39</ubClassIndex>
@@ -8171,9 +8171,9 @@
 		<uiIndex>283</uiIndex>
 		<szItemName>Zylon Combat Vest</szItemName>
 		<szLongItemName>Zylon Combat Vest</szLongItemName>
-		<szItemDesc>This was the standard issue body armor of the US military.  What were they thinking?  This stuff is known to wear out prematurely.</szItemDesc>
+		<szItemDesc>Zylon may have been advertised as 'the strongest man-made fiber in the world' but it's also known to degrade in body armor applications.</szItemDesc>
 		<szBRName>Zylon Combat Vest</szBRName>
-		<szBRDesc>Stronger than Kevlar, this was the body armor worn by US Marines in Iraq.  Provides limited camouflage and has some stowage for small items.</szBRDesc>
+		<szBRDesc>Stronger than Kevlar, Zylon is a man-made fiber providing extraordinary tensile strength.  Provides limited camouflage and has some stowage for small items.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>40</ubClassIndex>
@@ -8215,7 +8215,7 @@
 		<uiIndex>284</uiIndex>
 		<szItemName>Uniform</szItemName>
 		<szLongItemName>Field Uniform</szLongItemName>
-		<szItemDesc>These camouflaged officer's fatigues are the standard issue of the US military and reinforced with Zylon, but this has been known to degrade prematurely if drenched or exposed to the sun.</szItemDesc>
+		<szItemDesc>These camouflaged fatigues are reinforced with Zylon, but this has been known to degrade prematurely if drenched in water or exposed to the sun.</szItemDesc>
 		<szBRName>Field Uniform</szBRName>
 		<szBRDesc>Look the part with these Officer's fatigues as worn by US Marines in Iraq. Enforced with the synthetic polymer Zylon which has 1.6 times the strength of Kevlar. Provides limited camouflage.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -67932,7 +67932,7 @@
 		<uiIndex>2537</uiIndex>
 		<szItemName>C-18 Zylon Combat Pants</szItemName>
 		<szLongItemName>Treated Zylon Combat Pants</szLongItemName>
-		<szItemDesc>A standard issue US military pair of combat pants treated with Compound 18. This coating should help assist in reducing Zylon's degradate rate in the field as well as provide better protection.</szItemDesc>
+		<szItemDesc>A standard issue military pair of combat pants treated with Compound 18. This coating should help assist in reducing Zylon's degradate rate in the field as well as provide better protection.</szItemDesc>
 		<szBRName>Not for sale through BR.</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -67961,7 +67961,7 @@
 		<uiIndex>2538</uiIndex>
 		<szItemName>Coated Zylon Combat Pants</szItemName>
 		<szLongItemName>Coated Zylon Combat Pants</szLongItemName>
-		<szItemDesc>A standard issue US military pair of combat pants treated with Crepitus jelly. This coating should help assist in reducing Zylon's degradate rate in the field as well as provide better protection.</szItemDesc>
+		<szItemDesc>A standard issue military pair of combat pants treated with Crepitus jelly. This coating should help assist in reducing Zylon's degradate rate in the field as well as provide better protection.</szItemDesc>
 		<szBRName>Not for sale through BR.</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -67990,7 +67990,7 @@
 		<uiIndex>2539</uiIndex>
 		<szItemName>C-18 Zylon Combat Vest</szItemName>
 		<szLongItemName>Treated Zylon Combat Vest</szLongItemName>
-		<szItemDesc>A standard issue US military vest treated with Compound 18. This coating should help assist in reducing Zylon's degradate rate in the field as well as provide better protection.</szItemDesc>
+		<szItemDesc>A standard issue military vest treated with Compound 18. This coating should help assist in reducing Zylon's degradate rate in the field as well as provide better protection.</szItemDesc>
 		<szBRName>Not for sale through BR.</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -68032,7 +68032,7 @@
 		<uiIndex>2540</uiIndex>
 		<szItemName>Coated Zylon Combat Vest</szItemName>
 		<szLongItemName>Coated Zylon Combat Vest</szLongItemName>
-		<szItemDesc>A standard issue US military vest coated with jelly. This coating should help assist in reducing Zylon's degradate rate in the field as well as provide better protection.</szItemDesc>
+		<szItemDesc>A standard issue military vest coated with jelly. This coating should help assist in reducing Zylon's degradate rate in the field as well as provide better protection.</szItemDesc>
 		<szBRName>Not for sale through BR.</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
