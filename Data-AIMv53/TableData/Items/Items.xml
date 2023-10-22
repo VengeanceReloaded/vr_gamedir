@@ -8132,15 +8132,12 @@
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<StealthBonus>8</StealthBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>282</uiIndex>
 		<szItemName>Zylon Combat Pants</szItemName>
 		<szLongItemName>Zylon Combat Pants</szLongItemName>
-		<szItemDesc>Developed in Japan, Zylon was a synthetic polymer providing extraoridinary tensile strength. Though it's protective properties are good it has been known to degrade prematurely.</szItemDesc>
+		<szItemDesc>Developed in Japan, Zylon was a synthetic polymer providing extraordinary tensile strength. Though it's protective properties are good it has been known to degrade prematurely.</szItemDesc>
 		<szBRName>Zylon Combat Pants</szBRName>
 		<szBRDesc>Stronger than kevlar, this synthetic fiber provides remarkable ballistic protection at a light weight.  Provides limited camouflage.</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -8163,9 +8160,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<APBonus>-3</APBonus>
 		<CamoBonus>20</CamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>283</uiIndex>
@@ -8260,7 +8254,7 @@
 		<szLongItemName>Boonie Hat</szLongItemName>
 		<szItemDesc>Keep your head shaded from the sun when your helmet gets too hot. Provides limited camouflage.</szItemDesc>
 		<szBRName>Boonie Hat</szBRName>
-		<szBRDesc>As seen on TV!  This is the same hat that "Wild Bill" wore on the GI Joe Saturday morning cartoon. Okay, so it's not the same hat.  But's its still a nice hat.</szBRDesc>
+		<szBRDesc>As seen on TV!  This is the same hat that "Wild Bill" wore on the GI Joe Saturday morning cartoon. Okay, so it's not the same hat but it's still a nice hat.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -8304,9 +8298,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>287</uiIndex>
@@ -8332,9 +8323,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>288</uiIndex>
@@ -8360,9 +8348,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>289</uiIndex>
@@ -8388,9 +8373,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>290</uiIndex>
@@ -8416,9 +8398,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>291</uiIndex>
@@ -8444,7 +8423,11 @@
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
+		<CROUCH_MODIFIERS>
+			<PercentBase>-10</PercentBase>
+			<PercentCap>-4</PercentCap>
+			<PercentCounterForceAccuracy>-10</PercentCounterForceAccuracy>
+		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
@@ -8471,9 +8454,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>293</uiIndex>
