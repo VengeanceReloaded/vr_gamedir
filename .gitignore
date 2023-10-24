@@ -77,3 +77,4 @@ Profiles/UserProfile_Vengeance/*.tga
 
 # Executables
 *.exe
+!MapEditor_Vengeance.exe
