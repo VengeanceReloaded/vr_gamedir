@@ -62362,7 +62362,7 @@
 		<szLongItemName>.30-06 Box, XP3</szLongItemName>
 		<szItemDesc>These brass cased, polymer tipped bullets provide a rapid 2-stage expansion on impact delivering devastatingly large wounds intended to knock down the largest of game such as elk and bears.</szItemDesc>
 		<szBRName>.30-06 Box XP3</szBRName>
-		<szBRDesc>Due to its 2-stage expansion design, the XP3 proivdes extreme knockdown power, and deep penetration all in one package. Save 10 percent when purchasing our bulk 50 rounds boxes.</szBRDesc>
+		<szBRDesc>Due to its 2-stage expansion design, the XP3 provides extreme knockdown power, and deep penetration all in one package. Save 10 percent when purchasing our bulk 50 rounds boxes.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>666</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -70060,9 +70060,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>12</CamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2655</uiIndex>
@@ -70287,9 +70284,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2664</uiIndex>
@@ -74213,7 +74207,6 @@
 		<Damageable>1</Damageable>
 		<NotBuyable>1</NotBuyable>
 		<ContainsLiquid>1</ContainsLiquid>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -74246,9 +74239,6 @@
 		<RangeBonus>10</RangeBonus>
 		<ToHitBonus>2</ToHitBonus>
 		<PercentReadyTimeAPReduction>20</PercentReadyTimeAPReduction>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2859</uiIndex>
