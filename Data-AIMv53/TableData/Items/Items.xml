@@ -7879,6 +7879,7 @@
 		<ubClassIndex>29</ubClassIndex>
 		<ItemSize>34</ItemSize>
 		<NotBuyable>1</NotBuyable>
+		<NotBuyable>1</NotBuyable>
 	</ITEM>
 	<ITEM>
 		<uiIndex>271</uiIndex>
@@ -45544,7 +45545,7 @@
 		<szLongItemName>.30-06 Box, AP</szLongItemName>
 		<szItemDesc>If you happen to have a M1 Garand around, here's some ammo for it.</szItemDesc>
 		<szBRName>.30-06 Box AP</szBRName>
-		<szBRDesc>If you happen to have a M1 Garand around, here's some ammo for it.</szBRDesc>
+		<szBRDesc>Enhance accuracy with this 147 grain full metal jacket ammunition for your M1 Garand, BAR or any other rifle using the 30.06 Springfield cartridge.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>665</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -45570,7 +45571,7 @@
 		<szLongItemName>.30 Car Box</szLongItemName>
 		<szItemDesc>Steel Core ammo for the old M1 Carbine.</szItemDesc>
 		<szBRName>.30 Car Box</szBRName>
-		<szBRDesc>Steel Core ammo for the old M1 Carbine.</szBRDesc>
+		<szBRDesc>Steel Core ammo for the old M1 Carbine or any other firearm using the light rifle round.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>652</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -45594,7 +45595,7 @@
 		<szLongItemName>.30 Car Box, AP</szLongItemName>
 		<szItemDesc>Full Metal Jacket ammo for the old M1 Carbine.</szItemDesc>
 		<szBRName>.30 Car Box AP</szBRName>
-		<szBRDesc>Full Metal Jacket ammo for the old M1 Carbine.</szBRDesc>
+		<szBRDesc>Full Metal Jacket ammo your favourite .30 car light rifle or Carbine.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>654</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -45620,7 +45621,7 @@
 		<szLongItemName>.30 Car Box, HP</szLongItemName>
 		<szItemDesc>Hollowpoint ammo for the old M1 Carbine.</szItemDesc>
 		<szBRName>.30 Car Box HP</szBRName>
-		<szBRDesc>Hollowpoint ammo for the old M1 Carbine.</szBRDesc>
+		<szBRDesc>Hollowpoint ammo for your favorite .30 Car rifle. Opens instantly on impact, retains its energy and does not expand, giving you the energy you need to efficiently take down even large game.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>653</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -61673,9 +61674,9 @@
 		<uiIndex>2226</uiIndex>
 		<szItemName>.30-06 XP3, 5</szItemName>
 		<szLongItemName>.30-06 XP3, 5</szLongItemName>
-		<szItemDesc>.30-06 Springfield XP3 ammunition .</szItemDesc>
+		<szItemDesc>2-Stage expansion polymer tipped bullets designed to take down the biggest of game.</szItemDesc>
 		<szBRName>.30-06 XP3, 5</szBRName>
-		<szBRDesc>The XP3 bullet starts with a 2-stage expansion design, then combines all the best-known bullet technology into one bullet. It delivers precision accuracy, awesome knockdown power, and deep penetration all in one package.</szBRDesc>
+		<szBRDesc>Not buyable at BR</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>660</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -61698,7 +61699,7 @@
 		<szLongItemName>.30-06 XP3, 8</szLongItemName>
 		<szItemDesc>A clip holding 8 rounds of FMJ ammo in the venerable .30-06 caliber.</szItemDesc>
 		<szBRName>.30-06 XP3, 8</szBRName>
-		<szBRDesc>The XP3 bullet starts with a 2-stage expansion design, then combines all the best-known bullet technology into one bullet. It delivers precision accuracy, awesome knockdown power, and deep penetration all in one package.</szBRDesc>
+		<szBRDesc>Not buyable at BR</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>662</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -61719,9 +61720,9 @@
 		<uiIndex>2228</uiIndex>
 		<szItemName>.30-06 XP3, 20</szItemName>
 		<szLongItemName>.30-06 XP3, 20</szLongItemName>
-		<szItemDesc>A magazine for the BAR.</szItemDesc>
+		<szItemDesc>A magazine suitable for the BAR holding 2-stage expanding deer hunting bullets.</szItemDesc>
 		<szBRName>.30-06 XP3, 20</szBRName>
-		<szBRDesc>The XP3 bullet starts with a 2-stage expansion design, then combines all the best-known bullet technology into one bullet. It delivers precision accuracy, awesome knockdown power, and deep penetration all in one package.</szBRDesc>
+		<szBRDesc>Not buyable at BR</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>664</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
@@ -62359,9 +62360,9 @@
 		<uiIndex>2255</uiIndex>
 		<szItemName>.30-06 Box XP3</szItemName>
 		<szLongItemName>.30-06 Box, XP3</szLongItemName>
-		<szItemDesc>The XP3 bullet starts with a 2-stage expansion design, then combines all the best-known bullet technology into one bullet. It delivers precision accuracy, awesome knockdown power, and deep penetration all in one package.</szItemDesc>
+		<szItemDesc>These brass cased, polymer tipped bullets provide a rapid 2-stage expansion on impact delivering devastatingly large wounds intended to knock down the largest of game such as elk and bears.</szItemDesc>
 		<szBRName>.30-06 Box XP3</szBRName>
-		<szBRDesc>The XP3 bullet starts with a 2-stage expansion design, then combines all the best-known bullet technology into one bullet. It delivers precision accuracy, awesome knockdown power, and deep penetration all in one package. Save 10 percent on buying this box with 50 rounds.</szBRDesc>
+		<szBRDesc>Due to its 2-stage expansion design, the XP3 proivdes extreme knockdown power, and deep penetration all in one package. Save 10 percent when purchasing our bulk 50 rounds boxes.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>666</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
