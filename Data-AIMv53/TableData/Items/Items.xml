@@ -608,7 +608,6 @@
 		<ubClassIndex>11</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
-		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>11</ubGraphicNum>
@@ -7126,9 +7125,6 @@
 		<Unaerodynamic>1</Unaerodynamic>
 		<Medical>1</Medical>
 		<DrugType>4</DrugType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>236</uiIndex>
@@ -7146,9 +7142,6 @@
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
 		<Medical>1</Medical>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>237</uiIndex>
@@ -7166,9 +7159,6 @@
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
 		<Medical>1</Medical>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>238</uiIndex>
@@ -7186,9 +7176,6 @@
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
 		<Medical>1</Medical>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>239</uiIndex>
@@ -7226,9 +7213,6 @@
 		<ubGraphicType>1</ubGraphicType>
 		<ItemSize>34</ItemSize>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>241</uiIndex>
@@ -7294,9 +7278,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<RemoteTrigger>1</RemoteTrigger>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>243</uiIndex>
@@ -7636,9 +7617,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
 		<ItemFlag>4096</ItemFlag>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>258</uiIndex>
@@ -7705,9 +7683,6 @@
 		<usPrice>500</usPrice>
 		<Damageable>1</Damageable>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>261</uiIndex>
@@ -7725,9 +7700,6 @@
 		<usPrice>250</usPrice>
 		<Damageable>1</Damageable>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>262</uiIndex>
@@ -7771,9 +7743,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>264</uiIndex>
@@ -7797,9 +7766,6 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<ItemFlag>4096</ItemFlag>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>265</uiIndex>
@@ -7846,9 +7812,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
 		<Walkman>1</Walkman>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>267</uiIndex>
@@ -7884,9 +7847,6 @@
 		<usItemClass>536870912</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ItemSize>34</ItemSize>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>269</uiIndex>
@@ -7919,9 +7879,6 @@
 		<ubClassIndex>29</ubClassIndex>
 		<ItemSize>34</ItemSize>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>271</uiIndex>
@@ -22223,7 +22180,6 @@
 		<ubClassIndex>737</ubClassIndex>
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
-		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>107</ubGraphicNum>
 		<ubWeight>49</ubWeight>
