@@ -1100,6 +1100,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>23</ubClassIndex>
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
@@ -23451,6 +23452,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>769</ubClassIndex>
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
