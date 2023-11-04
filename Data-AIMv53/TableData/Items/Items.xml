@@ -1096,7 +1096,7 @@
 		<szLongItemName>Diemaco C7A2</szLongItemName>
 		<szItemDesc>This rifle shouts the Canuck motto, 'Anything the Yanks can do, we can do better.' This version of the M-16 is every merc's dream come true.</szItemDesc>
 		<szBRName>Diemaco C7A2</szBRName>
-		<szBRDesc>It's the Canadian version of the American M16A2. Trust those crazy Canucks to incorporate such safety devices as a case deflector to prevent empty cases from being flung into the faces of left-handed firers.</szBRDesc>
+		<szBRDesc>It's the Canadian version of the American M16A2. Trust those crazy Canucks to incorporate safety devices like a deflector to prevent empty cases from being flung into the faces of left-handed firers.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>23</ubClassIndex>
@@ -1117,6 +1117,8 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<DefaultAttachment>1030</DefaultAttachment>
@@ -23471,6 +23473,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>28</BR_ROF>
 		<PercentNoiseReduction>55</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
@@ -23597,7 +23601,7 @@
 		<szLongItemName>KP M/31 Suomi</szLongItemName>
 		<szItemDesc>Designed by Aimo Lahti, this accurate if heavy SMG is a well-made, elementary blowback weapon. In appearance it is very similar to the German Bergmann MP34 and the Soviet PPD 1934G/38G and PPSh41 which it inspired.</szItemDesc>
 		<szBRName>KP M/31 Suomi</szBRName>
-		<szBRDesc>The Suomi was used with great sucess during the war of 1940 against the Soviet Union, where this SMG showed the importance of SMGs to modern warfare. Manufacture of the Suomi ceased in 1944, but Finland used it well into the 1990s, when finally it was replaced by assault rifles.</szBRDesc>
+		<szBRDesc>The Suomi was used with great success during the war of 1940 against the Soviet Union, where this SMG showed the importance of SMGs in modern warfare. Manufacture ceased in 1944, but Finland used it well into the 1990s, when finally it was replaced by assault rifles.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>773</ubClassIndex>
@@ -23617,6 +23621,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -23768,6 +23774,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
 		<DefaultAttachment>208</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -23879,6 +23887,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>650</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -23915,6 +23925,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>550</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
