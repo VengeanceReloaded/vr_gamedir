@@ -14,7 +14,7 @@ Message:		The email message boy
 		<!-- Barry -->
 		<uiIndex>0</uiIndex>
 		<Subject>FW from AIM Server: Message from Barry Unger</Subject>
-		<Message>Hello. This is an electronically mailed display message from Barry Unger in response to your response to my telephone response mechanism. ± ± I have currently returned and am now available on the world wide web location site of AIM if you are still interested in the services I provide. ±  ± Thank you. ±</Message>
+		<Message>Hello. This is an electronically mailed display message from Barry Unger in response to your response to my telephone response mechanism. ± ± I have currently returned and am now available on the world wide web location site of AIM if you are still interested in the services I provide. ± ± Thank you. ±</Message>
 	</EMAIL>
 	<EMAIL>
 		<!-- Blood -->
@@ -50,7 +50,7 @@ Message:		The email message boy
 		<!-- Grunty -->
 		<uiIndex>6</uiIndex>
 		<Subject>FW from AIM Server: Message from Helmut Grunther</Subject>
-		<Message>Hello. This is Grunty here. You left message on my machine. Now I leave one on yours. I have returned from assignment. ±</Message>
+		<Message>Hello, this is Grunty here. You left a message on my machine. Now I leave one on yours. I am now available to sign for a new sanction so contact me as soon as possible to avoid disappointment. ± ± Helmut Grunther ±</Message>
 	</EMAIL>
 	<EMAIL>
 		<!-- Ivan -->
@@ -104,13 +104,13 @@ Message:		The email message boy
 		<!-- Sidney -->
 		<uiIndex>15</uiIndex>
 		<Subject>FW from AIM Server: Message from Sidney Nettleson</Subject>
-		<Message>Thank you for your interest. As I am certain you are aware, I am one of AIM's most celebrated professionals. If you would like to discuss my credentials further, I am now available for consultation. ±</Message>
+		<Message>Dear Sir/Madam, ± ± Thank you for your recent interest. As I am certain you are aware, I am one of AIM's most celebrated professionals so if you would like to discuss my credentials further, I am now available for consultation at your utmost convenience. ± ± Yours sincerely, Sidney Nettleson. ±</Message>
 	</EMAIL>
 	<EMAIL>
 		<!-- Gus -->
 		<uiIndex>16</uiIndex>
 		<Subject>FW from AIM Server: Message from Gus Tarballs</Subject>
-		<Message>Woody! Thought you'd never call! Heard you buzzed me while I was down golfing in the Middle East. ± ± Ain't busy right now. Maybe we can work us out a deal. ±</Message>
+		<Message>Woody! Thought you'd never call! Heard you buzzed me while I was golfing in the Middle East. ± ± Ain't busy right now. Maybe we can work us out a deal. ±</Message>
 	</EMAIL>
 	<EMAIL>
 		<!-- Buns -->
@@ -127,8 +127,8 @@ Message:		The email message boy
 	<EMAIL>
 		<!-- Spider -->
 		<uiIndex>19</uiIndex>
-		<Subject>FW from AIM Server: Message from Dr. Donna Houston</Subject>
-		<Message>Thanks for contacting me. Dr. Donna Houston, here. Finished up my last shift and could talk with you for a few minutes now. Of course, I'm on call, so, regretably, I can't guarantee anything. ±</Message>
+		<Subject>FW from AIM Server: Message from Dr. D. Houston</Subject>
+		<Message>Thanks for contacting me. I finished up my last shift and can talk with you for a few minutes now if you are free. Of course, I'm on call, so, regretably, I can't provide guarantees in my availablity. ± ± Dr. Houston Ph.D. ±</Message>
 	</EMAIL>
 	<EMAIL>
 		<!-- Cliff -->
@@ -158,13 +158,13 @@ Message:		The email message boy
 		<!-- Raider -->
 		<uiIndex>24</uiIndex>
 		<Subject>FW from AIM Server: Message from Ron Higgens</Subject>
-		<Message>Ron Higgens here. Got your message. ±</Message>
+		<Message>This is Ron Higgens here. I got your message, call me again to discuss what plans you have. ±</Message>
 	</EMAIL>
 	<EMAIL>
 		<!-- Raven -->
 		<uiIndex>25</uiIndex>
 		<Subject>FW from AIM Server: Message from Charlene Higgens</Subject>
-		<Message>Hi. This is Charlene. Should be here for a while, unless something else comes up. ±</Message>
+		<Message>Hi, this is Charlene. I'm here for a while, unless something else comes up. Contact me through the usual channels and I'll see what we can do. ±</Message>
 	</EMAIL>
 	<EMAIL>
 		<!-- Static -->
@@ -182,7 +182,7 @@ Message:		The email message boy
 		<!-- Danny -->
 		<uiIndex>28</uiIndex>
 		<Subject>FW from AIM Server: Message from Dr. Daniel Quinten</Subject>
-		<Message>Good to hear from you. I have a few moments to meet with you if you're still looking for qualified medical personnel. I will gladly consider everything you have to say. ±</Message>
+		<Message>Good to hear from you. I have a few moments to meet with you if you're still looking for qualified medical personnel and will be in position to consider anything you have on offer. ± ± Dr. D Quinten. ±</Message>
 	</EMAIL>
 	<EMAIL>
 		<!-- Magic -->
@@ -248,7 +248,7 @@ Message:		The email message boy
 		<!-- Meltdown -->
 		<uiIndex>39</uiIndex>
 		<Subject>FW from AIM Server: Message from Norma Jessop</Subject>
-		<Message>Got your pathetic message on my machine. You want to occupy more of my valuable time, you know where I am. ±</Message>
+		<Message>I Got your message on my machine. You want to occupy more of my valuable time? You know where I am. ±</Message>
 	</EMAIL>
 	<EMAIL>
 		<uiIndex>40</uiIndex>
@@ -904,7 +904,7 @@ Message:		The email message boy
 		<!-- Monk -->
 		<uiIndex>170</uiIndex>
 		<Subject>FW from AIM Server: Message from Victor Kolesnikov</Subject>
-		<Message>Hello. Monk here. Message received. I'm back if you want to see me. ± ± Waiting for your call. ±</Message>
+		<Message>Hello. Monk here. Message received. I'm back if you want to see me. ± ± Awaiting your call. ±</Message>
 	</EMAIL>
 	<EMAIL>
 		<!-- Brain -->
@@ -1128,7 +1128,7 @@ Message:		The email message boy
 	<EMAIL>
 		<uiIndex>213</uiIndex>
 		<Subject>Subject : FW from AIM Server: Message from Jack Cygan</Subject>
-		<Message>Yeah I got your message.  Hope you can give me more of a challenge than the last assignment.  I'll be waiting.</Message>
+		<Message>Yeah I got your message.  Hope you can give me more of a challenge than the last assignment.  I'll be waiting. ± ± Jack ±</Message>
 	</EMAIL>
 	<EMAIL>
 		<uiIndex>214</uiIndex>
@@ -1222,7 +1222,7 @@ Message:		The email message boy
     <!-- Snake -->
 		<uiIndex>231</uiIndex>
 		<Subject>FW from AIM Server: Message from Johnny Edwards</Subject>
-		<Message>Hi, I finished my internship in Guyana. ± ± Call me. ±</Message>
+		<Message>Hi, I'm now between sanctions and available. ± ± Call me. ±</Message>
 	</EMAIL>
 	<EMAIL>
     <!-- Spam -->
@@ -1246,7 +1246,7 @@ Message:		The email message boy
     <!-- Leech -->
 		<uiIndex>235</uiIndex>
 		<Subject>FW from AIM Server: Message from Timothy Jenkins</Subject>
-		<Message>Hi, if you need a good marksman. ± ± Feel free to contact me. ± Greets. ±</Message>
+		<Message>Hi, if you need a good marksman, I'm your man. ± ± Feel free to contact me. ± Leech ±</Message>
 	</EMAIL>
 	 <EMAIL>
     <!-- Bob -->
@@ -1258,13 +1258,13 @@ Message:		The email message boy
     <!-- Kelly -->
 		<uiIndex>237</uiIndex>
 		<Subject>FW from AIM Server: Message from Col. Leo Kelly</Subject>
-		<Message>Colonel Kelly here, I'd be happy to help you in your mission. My gear is for work. ± Col. Kelly ±</Message>
+		<Message>Colonel Kelly here, I'd be happy to hear the details of your mission. ± Col. Kelly ±</Message>
 	</EMAIL>
 	<EMAIL>
     <!-- Vince -->
 		<uiIndex>238</uiIndex>
 		<Subject>FW from AIM Server: Message from Vincenzo Massimo</Subject>
-		<Message>Ciao, I have received your message. ± ± If you have a contract for me... I's free now. ± Arrivederci. ±</Message>
+		<Message>Ciao, I heard you've been tryin' to get a hold of me. ± ± If you have a thing for me... I's free now. ± Cya's later, The Vinster.±</Message>
 	</EMAIL>
 	  <EMAIL>
     <!-- Kaboom -->
@@ -1322,7 +1322,7 @@ Message:		The email message boy
     <!-- Stella -->
 		<uiIndex>248</uiIndex>
 		<Subject>FW from AIM Server: Message from Dr. Margaret Trammel</Subject>
-		<Message>Hello, I received your message. ± ± I like action, but not the sweet talkers. If you seek an adventure with me... Forget me! ± Dr. Trammel ±</Message>
+		<Message>I've received your message. ± ± If you're still looking for a hard-working physician with combat experience, and are serious enough to back it up, you know where to find me. ± Dr. Trammel ±</Message>
 	</EMAIL>
 	<EMAIL>
 		<uiIndex>249</uiIndex>
@@ -1333,7 +1333,7 @@ Message:		The email message boy
     <!-- Moses -->
 		<uiIndex>250</uiIndex>
 		<Subject>FW from AIM Server: Message from Murray Ebstern</Subject>
-		<Message>What is this regarding? ± ± Oh yes, don't listen to those rumors on my memory and my state health. ± ± I'm in shape and ready to conquer the world... I joke, junior. ± ± In any case, you will not be disappointed if you hire me. ± ± Best regard, ± Moses ±</Message>
+		<Message>What is this regarding? ± ± Oh yes, don't listen to those rumors on my memory and my state health. ± ± I'm in shape and ready to conquer the world... I joke, junior. ± ± In any case, you will not be disappointed if you hire me. ± ± Best regards, ± Moses ±</Message>
 	</EMAIL>
 	<EMAIL>
     <!-- Smoke -->
