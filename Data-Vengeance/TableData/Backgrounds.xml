@@ -1461,9 +1461,9 @@
 	<!-- TNT -->
 	<BACKGROUND>
 		<uiIndex>61</uiIndex>
-		<szName>Sapper</szName>
+		<szName>Sapper/Arms Dealer</szName>
 		<szShortName>Sapper</szShortName>
-		<szDescription>A sapper can make only two mistakes in his life. The first one is a career choice.</szDescription>
+		<szDescription>Michael can not only obliterate obstacles or targets but can also buy, sell or supply the same explosives required for such a job.</szDescription>
 		<dexterity>3</dexterity>
 		<mechanical>3</mechanical>
 		<explosives>8</explosives>
@@ -1473,6 +1473,8 @@
 		<ap_inventory>-5</ap_inventory>
 		<resistance_fear>10</resistance_fear>
 		<resistance_suppression>10</resistance_suppression>
+		<betterprices_guns>5</betterprices_guns>
+		<betterprices>8</betterprices>
 		<breachingcharge>75</breachingcharge>
 		<disarm_trap>40</disarm_trap>
 		<approach_direct>5</approach_direct>
