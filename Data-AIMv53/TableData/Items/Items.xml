@@ -19642,7 +19642,7 @@
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
-		<AvailableAttachmentPoint>4194304</AvailableAttachmentPoint>		<!-- Sights - Night/Thermal Sight -->
+		<AvailableAttachmentPoint>4194304</AvailableAttachmentPoint>		<!-- Sights - Night/Thermal Sight -->m
 		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>	<!-- Internal - Trigger Group -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
@@ -19665,6 +19665,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>950</BR_ROF>
+		<DefaultAttachment>1010</DefaultAttachment>
 		<ToHitBonus>-1</ToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
@@ -58318,9 +58319,6 @@
 		<PercentNoiseReduction>80</PercentNoiseReduction>
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2107</uiIndex>
@@ -59243,9 +59241,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>20</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2129</uiIndex>
