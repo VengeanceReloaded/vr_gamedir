@@ -2332,7 +2332,7 @@
 	</BACKGROUND>
 	<!-- Bubba -->
 	<BACKGROUND>
-		<uiIndex>50</uiIndex>
+		<uiIndex>101</uiIndex>
 		<szName>Prison Guard</szName>
 		<szShortName>Prison Guard</szShortName>
 		<szDescription>Look at this guy. Now look at you. Still feel like escaping?</szDescription>
@@ -7300,6 +7300,8 @@
 		<cth_blades>5</cth_blades>
 		<approach_direct>5</approach_direct>
 		<approach_threaten>9</approach_threaten>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Disco -->
 	<BACKGROUND>
@@ -7325,7 +7327,9 @@
 		<capitulation>15</capitulation>
 		<stealth>10</stealth>
 		<increased_maxcth>3</increased_maxcth>
-		<interrogation>150</interrogation>  		
+		<interrogation>150</interrogation>
+		<no_male>1</no_male>
+		<no_female>1</no_female>  		
 	</BACKGROUND>
 	<!-- Exec Sober -->
 	<BACKGROUND>
@@ -7343,6 +7347,8 @@
 		<capitulation>25</capitulation>
 		<druguse>1</druguse>
 		<drugitem>2801</drugitem>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Exec -->
 	<BACKGROUND>
@@ -7369,6 +7375,8 @@
 		<increased_maxcth>3</increased_maxcth>
 		<druguse>1</druguse>
 		<drugitem>2801</drugitem>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- VV -->
 	<BACKGROUND>
@@ -7400,6 +7408,8 @@
 		<water>-5</water>
 		<drink_energyregen>200</drink_energyregen>
 		<carrystrength>3</carrystrength>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
 		</BACKGROUND>
 	<!-- Sioux -->
 	<BACKGROUND>
@@ -7433,6 +7443,8 @@
 		<marksmanship>-10</marksmanship>
 		<increased_maxcth>-5</increased_maxcth>
 		<spotter>-10</spotter>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
 	</BACKGROUND>
 	<!-- Cowboy -->
 	<BACKGROUND>
@@ -7446,5 +7458,7 @@
 		<resistance_fear>5</resistance_fear>
 		<resistance_alcohol>20</resistance_alcohol>
 		<ap_urban>-7</ap_urban>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
 	</BACKGROUND>
 </BACKGROUNDS>
