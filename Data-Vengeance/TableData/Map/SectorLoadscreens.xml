@@ -1469,9 +1469,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem with _800x
 		<uiIndex>144</uiIndex>
 		<szLocation>I16</szLocation>
 		<RandomAltSector>0</RandomAltSector>
-		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Rolling_hills</szDay>
-		<szNight>Loadscreens\LS_Night_spotter</szNight>
+		<szImageFormat>PNG</szImageFormat>
+		<szDay>Loadscreens\LS_Bloodcat_country_day</szDay>
+		<szNight>Loadscreens\LS_Bloodcat_country_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
