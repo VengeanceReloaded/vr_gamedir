@@ -33,7 +33,6 @@ Launch Jagged Alliance 2.lnk
 Data-1.13/
 Data-UB
 Docs
-Shaders
 BackEnd.dllDownload latest ja2.exe - ReadMe.txt
 INI Editor.exe
 INIEditorAPBPConstants.xml
@@ -45,8 +44,6 @@ XML Editor.exe.config
 XMLEditorInit.xml
 XMLEditorSettings.xml
 binkw32.dll
-ddraw.dll
-ddraw.ini
 vfs_config.JA2113.ini
 vfs_config.JA2Vanilla.ini
 vfs_config.UB113.ini
@@ -78,3 +75,4 @@ Profiles/UserProfile_Vengeance/*.tga
 # Executables
 *.exe
 !MapEditor_Vengeance.exe
+!cnc-ddraw config.exe
