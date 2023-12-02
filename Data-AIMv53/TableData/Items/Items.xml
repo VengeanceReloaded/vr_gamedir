@@ -21649,13 +21649,9 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>725</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
-		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>			<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>			<!-- Muzzle - Gun Barrel Extender -->
-		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>			<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>		<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
@@ -33485,7 +33481,6 @@
 		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
 		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>		<!-- Muzzle - AR Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>		<!-- Muzzle - Gun Barrel Extender -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>4194304</AvailableAttachmentPoint>		<!-- Sights - Night/Thermal Sight -->
@@ -33660,7 +33655,6 @@
 		<ubClassIndex>1078</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
-		<AvailableAttachmentPoint>32768</AvailableAttachmentPoint>			<!-- Muzzle - Gun Barrel Extender -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
