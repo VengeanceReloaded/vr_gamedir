@@ -4065,7 +4065,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -4318,9 +4317,9 @@
 		<uiIndex>137</uiIndex>
 		<szItemName>TNT</szItemName>
 		<szLongItemName>TNT</szLongItemName>
-		<szItemDesc>Unfuck the world one bomb at a time! Trinitrotoluene is the second oldest and most commonly used explosive known to man - the first is dynamite. These sticks of explosives are highly stable, strawboard rolled, and contain a quarter-pound charge.</szItemDesc>
+		<szItemDesc>Trinitrotoluene is the second oldest and most commonly used explosive known to man - the first is dynamite. These sticks of explosives are highly stable, strawboard rolled, and contain a quarter-pound charge.</szItemDesc>
 		<szBRName>TNT</szBRName>
-		<szBRDesc>Good old reliable trinitrotoluene is the second oldest and most commonly used explosive known to man, the first is dynamite. These sticks of explosives are highly stable, strawboard rolled and contain a quarter-pound charge.</szBRDesc>
+		<szBRDesc>Good old reliable trinitrotoluene is the second oldest and most commonly used explosive known to man. These sticks of explosives are highly stable, strawboard rolled and contain a quarter-pound charge.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -4544,7 +4543,6 @@
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -4608,7 +4606,6 @@
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Flare>1</Flare>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -5015,7 +5012,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>-1</AimBonus>
 		<FlakJacket>1</FlakJacket>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-5</PercentBase>
 			<PercentCap>-2</PercentCap>
@@ -5055,7 +5051,6 @@
 		<NotBuyable>1</NotBuyable>
 		<AimBonus>-1</AimBonus>
 		<FlakJacket>1</FlakJacket>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-5</PercentBase>
 			<PercentCap>-2</PercentCap>
@@ -5094,7 +5089,6 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<FlakJacket>1</FlakJacket>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -5122,7 +5116,6 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>-2</AimBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -5162,7 +5155,6 @@
 		<NotBuyable>1</NotBuyable>
 		<AimBonus>-2</AimBonus>
 		<APBonus>-2</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -5202,7 +5194,6 @@
 		<NotBuyable>1</NotBuyable>
 		<AimBonus>-1</AimBonus>
 		<APBonus>-1</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-5</PercentBase>
 			<PercentCap>-2</PercentCap>
@@ -25026,7 +25017,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>-1</AimBonus>
 		<CamoBonus>50</CamoBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-5</PercentBase>
 			<PercentCap>-2</PercentCap>
@@ -25071,7 +25061,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>-1</AimBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentCap>-2</PercentCap>
 			<PercentCounterForceAccuracy>-3</PercentCounterForceAccuracy>
@@ -25105,7 +25094,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<APBonus>-3</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -25137,7 +25125,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<AimBonus>-3</AimBonus>
 		<APBonus>-3</APBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-15</PercentBase>
 			<PercentCap>-6</PercentCap>
@@ -25180,7 +25167,6 @@
 		<NotBuyable>1</NotBuyable>
 		<BigGunList>1</BigGunList>
 		<AimBonus>-1</AimBonus>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentCap>-2</PercentCap>
 			<PercentCounterForceAccuracy>-3</PercentCounterForceAccuracy>

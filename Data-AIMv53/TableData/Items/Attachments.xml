@@ -1085,6 +1085,11 @@
 		<itemIndex>160</itemIndex>
 		<APCost>8</APCost>
 	</ATTACHMENT>
+		<ATTACHMENT>
+		<attachmentIndex>139</attachmentIndex>
+		<itemIndex>128</itemIndex>
+		<APCost>8</APCost>
+	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>140</attachmentIndex>
 		<itemIndex>128</itemIndex>
@@ -1092,6 +1097,11 @@
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>141</attachmentIndex>
+		<itemIndex>128</itemIndex>
+		<APCost>8</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>142</attachmentIndex>
 		<itemIndex>128</itemIndex>
 		<APCost>8</APCost>
 	</ATTACHMENT>
@@ -3698,7 +3708,7 @@
 	<ATTACHMENT>
 		<attachmentIndex>215</attachmentIndex>
 		<itemIndex>128</itemIndex>
-		<APCost>12</APCost>
+		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>215</attachmentIndex>
@@ -3888,7 +3898,7 @@
 	<ATTACHMENT>
 		<attachmentIndex>222</attachmentIndex>
 		<itemIndex>128</itemIndex>
-		<APCost>12</APCost>
+		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>222</attachmentIndex>
@@ -4453,7 +4463,7 @@
 	<ATTACHMENT>
 		<attachmentIndex>235</attachmentIndex>
 		<itemIndex>128</itemIndex>
-		<APCost>12</APCost>
+		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>235</attachmentIndex>
@@ -5913,7 +5923,7 @@
 	<ATTACHMENT>
 		<attachmentIndex>241</attachmentIndex>
 		<itemIndex>128</itemIndex>
-		<APCost>12</APCost>
+		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>241</attachmentIndex>
@@ -6298,7 +6308,7 @@
 	<ATTACHMENT>
 		<attachmentIndex>242</attachmentIndex>
 		<itemIndex>128</itemIndex>
-		<APCost>12</APCost>
+		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>242</attachmentIndex>
@@ -6433,7 +6443,7 @@
 	<ATTACHMENT>
 		<attachmentIndex>243</attachmentIndex>
 		<itemIndex>128</itemIndex>
-		<APCost>12</APCost>
+		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>243</attachmentIndex>
@@ -6583,7 +6593,7 @@
 	<ATTACHMENT>
 		<attachmentIndex>244</attachmentIndex>
 		<itemIndex>128</itemIndex>
-		<APCost>12</APCost>
+		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>244</attachmentIndex>
@@ -6833,7 +6843,7 @@
 	<ATTACHMENT>
 		<attachmentIndex>299</attachmentIndex>
 		<itemIndex>128</itemIndex>
-		<APCost>12</APCost>
+		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>299</attachmentIndex>
@@ -7278,7 +7288,7 @@
 	<ATTACHMENT>
 		<attachmentIndex>300</attachmentIndex>
 		<itemIndex>128</itemIndex>
-		<APCost>12</APCost>
+		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>300</attachmentIndex>
@@ -7633,7 +7643,7 @@
 	<ATTACHMENT>
 		<attachmentIndex>301</attachmentIndex>
 		<itemIndex>128</itemIndex>
-		<APCost>12</APCost>
+		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>301</attachmentIndex>
@@ -7978,7 +7988,7 @@
 	<ATTACHMENT>
 		<attachmentIndex>304</attachmentIndex>
 		<itemIndex>128</itemIndex>
-		<APCost>20</APCost>
+		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>304</attachmentIndex>
@@ -8078,7 +8088,7 @@
 	<ATTACHMENT>
 		<attachmentIndex>316</attachmentIndex>
 		<itemIndex>128</itemIndex>
-		<APCost>20</APCost>
+		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>316</attachmentIndex>
@@ -8173,7 +8183,7 @@
 	<ATTACHMENT>
 		<attachmentIndex>322</attachmentIndex>
 		<itemIndex>128</itemIndex>
-		<APCost>12</APCost>
+		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>322</attachmentIndex>
@@ -20582,6 +20592,11 @@
 		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
+		<attachmentIndex>1029</attachmentIndex>
+		<itemIndex>128</itemIndex>
+		<APCost>8</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
 		<attachmentIndex>1030</attachmentIndex>
 		<itemIndex>12</itemIndex>
 		<APCost>20</APCost>
@@ -24036,11 +24051,6 @@
 		<itemIndex>160</itemIndex>
 		<APCost>8</APCost>
 	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>2419</attachmentIndex>
-		<itemIndex>308</itemIndex>
-		<APCost>32</APCost>
-	</ATTACHMENT>
 		<ATTACHMENT>
 		<attachmentIndex>2409</attachmentIndex>
 		<itemIndex>160</itemIndex>
@@ -24060,6 +24070,16 @@
 		<attachmentIndex>2413</attachmentIndex>
 		<itemIndex>160</itemIndex>
 		<APCost>8</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2419</attachmentIndex>
+		<itemIndex>128</itemIndex>
+		<APCost>32</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2419</attachmentIndex>
+		<itemIndex>308</itemIndex>
+		<APCost>32</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>2419</attachmentIndex>
@@ -24085,6 +24105,11 @@
 		<attachmentIndex>2419</attachmentIndex>
 		<itemIndex>2875</itemIndex>
 		<APCost>32</APCost>
+	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>2420</attachmentIndex>
+		<itemIndex>128</itemIndex>
+		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>2420</attachmentIndex>
