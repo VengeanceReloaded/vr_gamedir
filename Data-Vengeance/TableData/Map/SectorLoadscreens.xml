@@ -1443,7 +1443,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szDay>Loadscreens\LS_Cells</szDay>
 		<szNight>Loadscreens\LS_Nightcopter</szNight>
 		<szDayAlt></szDayAlt>
-		<szNightAlt>LS_Prison_nightLS_Prison_night</szNightAlt>
+		<szNightAlt>Loadscreens\LS_Prison_night</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>142</uiIndex>
