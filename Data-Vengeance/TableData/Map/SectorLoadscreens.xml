@@ -688,7 +688,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Beach</szDay>
 		<szNight>Loadscreens\LS_Coast_dusk</szNight>
-		<szDayAlt>Loadscreens\LS_Dusk_coastline</szDayAlt>
+		<szDayAlt>Loadscreens\LS_Rocky_shore</szDayAlt>
 		<szNightAlt>Loadscreens\LS_Coast_dusk</szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -849,7 +849,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Beach</szDay>
 		<szNight>Loadscreens\LS_Dusk_vista</szNight>
-		<szDayAlt>Loadscreens\LS_Dusk_coastline</szDayAlt>
+		<szDayAlt>Loadscreens\LS_Rocky_shore</szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -1493,7 +1493,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Oily_water</szDay>
 		<szNight>Loadscreens\LS_Coast_dusk</szNight>
-		<szDayAlt>Loadscreens\LS_Dusk_coastline</szDayAlt>
+		<szDayAlt>Loadscreens\LS_Rocky_shore</szDayAlt>
 		<szNightAlt>Loadscreens\LS_Sundown_water</szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -2218,7 +2218,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szDay>Loadscreens\LS_Island_jetty</szDay>
 		<szNight>Loadscreens\LS_Coast_dusk</szNight>
 		<szDayAlt>Loadscreens\LS_Tropical_hut</szDayAlt>
-		<szNightAlt>Loadscreens\LS_Dusk_coastline</szNightAlt>
+		<szNightAlt>Loadscreens\LS_Rocky_shore</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>219</uiIndex>
