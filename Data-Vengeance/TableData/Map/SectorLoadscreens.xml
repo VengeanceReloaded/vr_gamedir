@@ -2016,7 +2016,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Forest_road_day</szDay>
 		<szNight>Loadscreens\LS_NightForest</szNight>
-		<szDayAlt></szDayAlt>
+		<szDayAlt>Loadscreens\LS_Forest_road_day</szDayAlt>
 		<szNightAlt>Loadscreens\LS_Forest_road_night</szNightAlt>
 	</SECTOR>
 	<SECTOR>
