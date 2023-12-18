@@ -4213,10 +4213,6 @@
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>134</uiIndex>
@@ -4245,12 +4241,8 @@
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
-		<BR_NewInventory>1</BR_NewInventory>
+		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>135</uiIndex>
@@ -4281,18 +4273,14 @@
 		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>136</uiIndex>
 		<szItemName>RDX</szItemName>
 		<szLongItemName>A Jar of RDX Crystals</szLongItemName>
-		<szItemDesc>A jar filled with RDX crystals is more powerful than TNT and easier to detonate. The only drawback of RDX is its instability; it can be set off by a moderate shock.</szItemDesc>
+		<szItemDesc>A jar of RDX crystals. More powerful than TNT and easier to detonate but the drawback is its instability; it can be set off by a moderate shock.</szItemDesc>
 		<szBRName>A Jar of RDX Crystals</szBRName>
-		<szBRDesc>A jar of RDX crystals are more powerful than TNT and easier to detonate. Better be forewarned, this stuff isn't too stable and can be set off by a moderate shock.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -4308,10 +4296,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>137</uiIndex>
@@ -4336,10 +4320,6 @@
 		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>138</uiIndex>
@@ -4363,10 +4343,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>139</uiIndex>
@@ -4393,10 +4369,6 @@
 		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>140</uiIndex>
@@ -4425,10 +4397,6 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>141</uiIndex>
@@ -4458,10 +4426,6 @@
 		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>142</uiIndex>
@@ -4486,10 +4450,8 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 	</ITEM>
 	<ITEM>
 		<uiIndex>143</uiIndex>
@@ -4515,10 +4477,6 @@
 		<NotBuyable>1</NotBuyable>
 		<Flare>1</Flare>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>144</uiIndex>
@@ -4543,9 +4501,6 @@
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
 		<HiddenAddon>1</HiddenAddon>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>145</uiIndex>
@@ -4574,10 +4529,6 @@
 		<HiddenAddon>1</HiddenAddon>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>146</uiIndex>
@@ -24559,7 +24510,7 @@
 		<uiIndex>797</uiIndex>
 		<szItemName>XCR-1</szItemName>
 		<szLongItemName>Robarms XCR-1</szLongItemName>
-		<szItemDesc>The Robinson Armament XCR-1 is just another M4 clone in 6.8mm SPC.</szItemDesc>
+		<szItemDesc>The Robinson Armament XCR-1 is an M4 clone in 6.8mm SPC.</szItemDesc>
 		<szBRName>Robarms XCR-1</szBRName>
 		<szBRDesc>Another new entry on the 6.8mm SPC market, the XCR-1 comes with a folding stock, which looks a bit unusual on a M4 clone, but works very well.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -24582,6 +24533,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<BR_ROF>550</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -58628,6 +58581,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_ROF>18</BR_ROF>
 		<Bipod>15</Bipod>
@@ -58800,7 +58755,7 @@
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>700</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -59742,6 +59697,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>2</BR_UsedInventory>
 		<BR_ROF>600</BR_ROF>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>12</DamageChance>
@@ -59861,9 +59818,9 @@
 		<uiIndex>2143</uiIndex>
 		<szItemName>PTRD</szItemName>
 		<szLongItemName>PTRD</szLongItemName>
-		<szItemDesc>A heavy soviet WW2 era anti tank rifle. After poor results against enemy tanks the PTRD was finally relegated to anti-materiel duty in 1943 as it still was quite effective against lesser armored vehicles such as armored half-tracks, armored cars and unarmored vehicles.</szItemDesc>
+		<szItemDesc>A heavy soviet WW2 era anti tank rifle. After poor results against tanks the PTRD was finally relegated to anti-materiel duty in 1943 as it still was quite effective against lesser armored vehicles.</szItemDesc>
 		<szBRName>PTRD</szBRName>
-		<szBRDesc>A heavy soviet WW2 era anti tank rifle. After poor results against enemy tanks the PTRD was finally relegated to anti-materiel duty in 1943 as it still was quite effective against lesser armored vehicles such as armored half-tracks, armored cars and unarmored vehicles.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>2143</ubClassIndex>
@@ -60169,9 +60126,6 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2148</uiIndex>
@@ -60315,10 +60269,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BR_ROF>28</BR_ROF>
-		<STAND_MODIFIERS>
-		</STAND_MODIFIERS>
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2151</uiIndex>
@@ -61126,10 +61076,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>3</BR_NewInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2203</uiIndex>
@@ -61153,10 +61099,6 @@
 		<BigGunList>1</BigGunList>
 		<ToHitBonus>-2</ToHitBonus>
 		<DamageBonus>5</DamageBonus>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2204</uiIndex>
@@ -61373,9 +61315,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2213</uiIndex>
@@ -61743,9 +61682,6 @@
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2230</uiIndex>
@@ -61765,9 +61701,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2231</uiIndex>
@@ -61790,9 +61723,6 @@
 		<BigGunList>1</BigGunList>
 		<RangeBonus>40</RangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2232</uiIndex>
@@ -62073,9 +62003,6 @@
 		<RangeBonus>-15</RangeBonus>
 		<DamageBonus>5</DamageBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2244</uiIndex>
@@ -62144,9 +62071,6 @@
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2247</uiIndex>
@@ -62193,9 +62117,6 @@
 		<RangeBonus>-15</RangeBonus>
 		<DamageBonus>5</DamageBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2249</uiIndex>
@@ -62929,9 +62850,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2282</uiIndex>
@@ -62952,9 +62870,6 @@
 		<Sinks>1</Sinks>
 		<TwoHanded>1</TwoHanded>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2283</uiIndex>
@@ -63106,9 +63021,6 @@
 		<BigGunList>1</BigGunList>
 		<RangeBonus>50</RangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2290</uiIndex>
@@ -63131,9 +63043,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2291</uiIndex>
@@ -63155,9 +63064,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2292</uiIndex>
@@ -63180,9 +63086,6 @@
 		<BigGunList>1</BigGunList>
 		<RangeBonus>170</RangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2293</uiIndex>
@@ -63204,9 +63107,6 @@
 		<Sinks>1</Sinks>
 		<RangeBonus>170</RangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2294</uiIndex>
@@ -63228,9 +63128,6 @@
 		<TwoHanded>1</TwoHanded>
 		<RangeBonus>170</RangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2295</uiIndex>
@@ -63353,9 +63250,6 @@
 		<NotBuyable>1</NotBuyable>
 		<RangeBonus>200</RangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2300</uiIndex>
@@ -63378,9 +63272,6 @@
 		<Sinks>1</Sinks>
 		<SciFi>1</SciFi>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2301</uiIndex>
@@ -65128,7 +65019,7 @@
 		<szLongItemName>BLU-44 Dragontooth Mine</szLongItemName>
 		<szItemDesc>The Dragontooth was designed during the Vietnam War with helicopter deployment in mind. Small but lethal.</szItemDesc>
 		<szBRName>BLU-43 Mine</szBRName>
-		<szBRDesc>The Dragontooth was designed during the Vietnam War with helicopter deployment in mind. Small but lethal.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>141</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -65148,9 +65039,6 @@
 		<NotBuyable>1</NotBuyable>
 		<Mine>1</Mine>
 		<HiddenAddon>1</HiddenAddon>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2419</uiIndex>
@@ -65158,7 +65046,7 @@
 		<szLongItemName>C1 Small Charge</szLongItemName>
 		<szItemDesc>Composition C1 is a solution of RDX and a small amount of mineral oil. This combination retains the explosive power of RDX while increasing its stability. This small charge has a slightly decreased blast radius for those situations you want a more controlled explosion.</szItemDesc>
 		<szBRName>C1 small Charge</szBRName>
-		<szBRDesc>Composition C1 is a solution of RDX and a small amount of mineral oil. This combination retains the explosive power of RDX while increasing its stability. This small charge has a slightly decreased blast radius for those situations you want a more controlled explosion.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -65176,9 +65064,7 @@
 		<ItemFlag>16384</ItemFlag>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+
 	</ITEM>
 	<ITEM>
 		<uiIndex>2420</uiIndex>
@@ -65186,7 +65072,7 @@
 		<szLongItemName>C4 Small Charge</szLongItemName>
 		<szItemDesc>Composition C4 is a white plastic explosive that is more powerful than TNT. Unlike C1, its sister composition, this one's odorless. Compared to a regular chunk of C4, this small charge has a slightly decreased blast radius for those situations you want a more controlled explosion.</szItemDesc>
 		<szBRName>C4 Small Charge</szBRName>
-		<szBRDesc>Composition C4 is a white plastic explosive that is more powerful than TNT.  Compared to a regular chunk of C4, this small charge has a slightly decreased blast radius for those situations you want a more controlled explosion.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -65204,9 +65090,6 @@
 		<ItemFlag>16384</ItemFlag>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2421</uiIndex>
@@ -65214,7 +65097,7 @@
 		<szLongItemName>Eagle Screamer</szLongItemName>
 		<szItemDesc>The Eagle Screamer is a homemade tear gas bomb. It sets free a large cloud of tear gas. Just attach any kind of detonator and you're ready to blow it up.</szItemDesc>
 		<szBRName>Eagle Screamer</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -65231,9 +65114,6 @@
 		<SciFi>1</SciFi>
 		<HiddenAddon>1</HiddenAddon>
 		<buddyitem>2456</buddyitem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2422</uiIndex>
@@ -65241,7 +65121,7 @@
 		<szLongItemName>Eagle Silencer</szLongItemName>
 		<szItemDesc>The Eagle Silencer is a homemade stun bomb. Due to the overpressure the area of effect is quite impressive. Just attach any kind of detonator and you're ready to blow it up. Would probably be a good idea to keep some distance.</szItemDesc>
 		<szBRName>Eagle Silencer</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -65258,9 +65138,6 @@
 		<SciFi>1</SciFi>
 		<HiddenAddon>1</HiddenAddon>
 		<buddyitem>2201</buddyitem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2423</uiIndex>
@@ -65268,7 +65145,7 @@
 		<szLongItemName>Eagle Fearball</szLongItemName>
 		<szItemDesc>The Eagle Fearball is a homemade bomb. Thanks to the gasoline its area of effect is quite impressive. Just attach any kind of detonator and you're ready to blow it up.</szItemDesc>
 		<szBRName>Eagle Fearball</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -65285,9 +65162,6 @@
 		<SciFi>1</SciFi>
 		<HiddenAddon>1</HiddenAddon>
 		<buddyitem>2201</buddyitem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2424</uiIndex>
@@ -65295,7 +65169,7 @@
 		<szLongItemName>Eagle Fireflash</szLongItemName>
 		<szItemDesc>A homemade incendiary bomb. Thanks to the gasoline its area of effect is quite impressive. Just attach any kind of detonator and you're ready to blow it up.</szItemDesc>
 		<szBRName>Eagle Fireflash</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -65312,9 +65186,6 @@
 		<SciFi>1</SciFi>
 		<HiddenAddon>1</HiddenAddon>
 		<buddyitem>2419</buddyitem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2425</uiIndex>
@@ -65322,7 +65193,7 @@
 		<szLongItemName>Eagle Dog</szLongItemName>
 		<szItemDesc>The Eagle Dog is a homemade mustard gas bomb. It sets free a cloud of deadly mustard gas and its area of effect is quite impressive. Just attach any kind of detonator and you're ready to blow it up. Would probably be a good idea to keep some distance.</szItemDesc>
 		<szBRName>Eagle Dog</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -65339,9 +65210,6 @@
 		<SciFi>1</SciFi>
 		<HiddenAddon>1</HiddenAddon>
 		<buddyitem>2456</buddyitem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2426</uiIndex>
@@ -65349,7 +65217,7 @@
 		<szLongItemName>Eagle Smokeball</szLongItemName>
 		<szItemDesc>The Eagle Smokeball is a homemade smoke bomb. Due to the overpressure the area of effect is quite impressive. Just attach any kind of detonator and you're ready to blow it up.</szItemDesc>
 		<szBRName>Eagle Smokeball</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -65366,9 +65234,6 @@
 		<SciFi>1</SciFi>
 		<HiddenAddon>1</HiddenAddon>
 		<buddyitem>2456</buddyitem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2427</uiIndex>
@@ -65376,7 +65241,7 @@
 		<szLongItemName>C1 Pipebomb</szLongItemName>
 		<szItemDesc>A chunk of steel, a detonator and a small C1 charge form a nice little pipebomb. Use on your own risk.</szItemDesc>
 		<szBRName>C1 Pipebomb</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>150</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -65393,10 +65258,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<HiddenAddon>1</HiddenAddon>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<HiddenAddon>1</HiddenAddon>>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2428</uiIndex>
@@ -65404,7 +65266,7 @@
 		<szLongItemName>C4 Pipebomb</szLongItemName>
 		<szItemDesc>A homemade devestating little explosive device.</szItemDesc>
 		<szBRName>C4 Pipebomb</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>151</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -65422,9 +65284,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<HiddenAddon>1</HiddenAddon>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2429</uiIndex>
@@ -65432,7 +65291,7 @@
 		<szLongItemName>Flashbang Mine</szLongItemName>
 		<szItemDesc>The Flashbang Mine can be equipped with a detonator. Nice to set up ambushes.</szItemDesc>
 		<szBRName>Flashbang Mine</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -65452,9 +65311,6 @@
 		<NotBuyable>1</NotBuyable>
 		<Mine>1</Mine>
 		<HiddenAddon>1</HiddenAddon>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2430</uiIndex>
@@ -65462,7 +65318,7 @@
 		<szLongItemName>M34 WP Grenade</szLongItemName>
 		<szItemDesc>The M34 White Phosphorous grenade, also referred to as Willie Pete, is a small but nasty incendiary grenade. The effect radius is quite limited, but the duration makes more than up for that.</szItemDesc>
 		<szBRName>M34 WP Grenade</szBRName>
-		<szBRDesc>The M34 White Phosphorous grenade, also referred to as Willie Pete, is a small but nasty incendiary grenade. These weapons are particularly dangerous to exposed people because white phosphorus continues to burn unless deprived of oxygen or until it is completely consumed.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>153</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -65484,9 +65340,6 @@
 		<ItemFlag>536870912</ItemFlag>
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2431</uiIndex>
@@ -65515,9 +65368,6 @@
 		<GLGrenade>1</GLGrenade>
 		<Flare>1</Flare>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2432</uiIndex>
@@ -65547,9 +65397,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2433</uiIndex>
@@ -65578,9 +65425,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2434</uiIndex>
@@ -65588,7 +65432,7 @@
 		<szLongItemName>FFV441B Napalm Rocket</szLongItemName>
 		<szItemDesc>This Napalm Rocket for the Carl-Gustaf M3 is very useful if you need to set a large area on fire.</szItemDesc>
 		<szBRName>FFV441B Napalm Rocket</szBRName>
-		<szBRDesc>This Napalm Rocket for the Carl-Gustaf M3 is very useful if you need to set a large area on fire.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>2048</AttachmentClass>
 		<nasAttachmentClass>2048</nasAttachmentClass>
@@ -65609,9 +65453,6 @@
 		<RangeBonus>-100</RangeBonus>
 		<buddyitem>2465</buddyitem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2435</uiIndex>
@@ -65619,7 +65460,7 @@
 		<szLongItemName>Improvised Grenade</szLongItemName>
 		<szItemDesc>Take some marbles, a jar and a chunk of C1 plastic explosives and you get a nice little homemade hand grenade.</szItemDesc>
 		<szBRName>Improvised Grenade</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>158</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -65637,9 +65478,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<HiddenAddon>1</HiddenAddon>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2436</uiIndex>
@@ -65668,9 +65506,6 @@
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>3</BR_NewInventory>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2437</uiIndex>
@@ -65678,7 +65513,7 @@
 		<szLongItemName>Taped Emergency Flare</szLongItemName>
 		<szItemDesc>A flare normally used for emergency purposes. There is some duct tape on it.</szItemDesc>
 		<szBRName>Taped Emergency Flare</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>160</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>		
@@ -65697,9 +65532,6 @@
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
 		<buddyitem>2457</buddyitem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2438</uiIndex>
@@ -65707,7 +65539,7 @@
 		<szLongItemName>Flarebomb</szLongItemName>
 		<szItemDesc>Due to the different fire accelerant, this Flarebomb has a slightly increased area of effect compared to a regular Molotov Cocktail, though the duration of the fire is decreased.</szItemDesc>
 		<szBRName>Flarebomb</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>161</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -65724,9 +65556,6 @@
 		<BigGunList>1</BigGunList>
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2439</uiIndex>
@@ -65734,7 +65563,7 @@
 		<szLongItemName>Mustard Gas Mine</szLongItemName>
 		<szItemDesc>This Mine packs a nasty and deadly surprise. Equip with a detonator of your choice and watch your enemies choke. This mine releases a colorless, odorless, and tasteless gas that causes intense burning and blistering of the lungs.</szItemDesc>
 		<szBRName>Mustard Gas Mine</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -65755,9 +65584,6 @@
 		<Mine>1</Mine>
 		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2440</uiIndex>
@@ -65765,7 +65591,7 @@
 		<szLongItemName>Tear Gas Mine</szLongItemName>
 		<szItemDesc>A homemade tear gas mine that only needs a detonator.</szItemDesc>
 		<szBRName>Tear Gas Mine</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -65786,9 +65612,6 @@
 		<Mine>1</Mine>
 		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2441</uiIndex>
