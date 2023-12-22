@@ -17435,6 +17435,8 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>900</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
@@ -28589,6 +28591,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_ROF>10</BR_ROF>
 		<RocketLauncher>1</RocketLauncher>
@@ -28624,6 +28628,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_ROF>10</BR_ROF>
 		<RocketLauncher>1</RocketLauncher>
@@ -28661,6 +28667,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<Unaerodynamic>1</Unaerodynamic>
 		<BR_ROF>10</BR_ROF>
 		<RocketLauncher>1</RocketLauncher>
@@ -33198,7 +33206,7 @@
 		<szLongItemName>Galil Sniper</szLongItemName>
 		<szItemDesc>A sniperized version of the Galil assault rifle. More like a DMR than a real sniper rifle.</szItemDesc>
 		<szBRName>Galil Sniper</szBRName>
-		<szBRDesc>This was a standard Galil, until someone decided to make a sniper rifle from it.</szBRDesc>
+		<szBRDesc>A natural evolution of the Galil, the sniper platform is accommodated by the 'Galatz' using the 7.62 NATO cartridge for DMR duties.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1069</ubClassIndex>
@@ -33219,6 +33227,8 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>0</BR_NewInventory>
+		<BR_UsedInventory>2</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
 		<ToHitBonus>-1</ToHitBonus>
 		<DefaultAttachment>1007</DefaultAttachment>
