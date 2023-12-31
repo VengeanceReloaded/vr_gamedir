@@ -45855,10 +45855,6 @@
 		<BigGunList>1</BigGunList>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1527</uiIndex>
@@ -46137,10 +46133,6 @@
 		<Unaerodynamic>1</Unaerodynamic>
 		<Medical>1</Medical>
 		<DrugType>66064</DrugType>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1536</uiIndex>
@@ -46165,10 +46157,6 @@
 		<Unaerodynamic>1</Unaerodynamic>
 		<Medical>1</Medical>
 		<DrugType>1280</DrugType>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1537</uiIndex>
@@ -46193,10 +46181,6 @@
 		<Unaerodynamic>1</Unaerodynamic>
 		<Medical>1</Medical>
 		<DrugType>425984</DrugType>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1538</uiIndex>
@@ -46221,10 +46205,6 @@
 		<Unaerodynamic>1</Unaerodynamic>
 		<Medical>1</Medical>
 		<DrugType>30824</DrugType>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1539</uiIndex>
@@ -46427,7 +46407,7 @@
 		<uiIndex>1548</uiIndex>
 		<szItemName>Peak EPA</szItemName>
 		<szLongItemName>Peak EPA</szLongItemName>
-		<szItemDesc>A small bottle of vitamins and steroids.</szItemDesc>
+		<szItemDesc>A small bottle containing vitamins and mineral supplements.</szItemDesc>
 		<szBRName>Peak EPA</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -48479,9 +48459,6 @@
 		<Damageable>1</Damageable>
 		<Medical>1</Medical>
 		<DrugType>2097152</DrugType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1635</uiIndex>
