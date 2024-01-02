@@ -60502,8 +60502,8 @@
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>	    <!-- Muzzle - AR Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
@@ -60545,11 +60545,46 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2157</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2157</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<szItemName>Mossberg MVP</szItemName>
+		<szLongItemName>Mossberg MVP-LC</szLongItemName>
+		<szItemDesc>An accurate and rugged yet lightweight AR inspired rifle which is both easy on the wallet as well as your shoulders.</szItemDesc>
+		<szBRName>Mossberg MVP-LC</szBRName>
+		<szBRDesc>The MVP LC (Light Chassis) from Mossberg &amp; Sons provides an affordable and portable tool for long range tactical shooters or mobile hunters who travel light. It has AR inspired weight saving features as well as a highly adjustable lightning bolt trigger system.</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>698</ubClassIndex>
+		<AvailableAttachmentPoint>2048</AvailableAttachmentPoint>		<!-- Muzzle - Sniper Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>137438953472</AvailableAttachmentPoint>	<!-- Stock - Retractable, Shock -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->
+		<ubCursor>3</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>694</ubGraphicNum>
+		<ubWeight>38</ubWeight>
+		<ItemSize>8</ItemSize>
+		<usPrice>6995</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>0</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<BR_ROF>26</BR_ROF>
+		<DefaultAttachment>208</DefaultAttachment>
+		<DefaultAttachment>1009</DefaultAttachment>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<DamageChance>10</DamageChance>
+		<DirtIncreaseFactor>50.0</DirtIncreaseFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -65606,7 +65641,7 @@
 		<szLongItemName>Smoke Mine</szLongItemName>
 		<szItemDesc>This homemade smoke mine can be used to cover defensive positions, a retreat or an assault. All you need is a detonator.</szItemDesc>
 		<szBRName>Smoke Mine</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -65627,9 +65662,6 @@
 		<Mine>1</Mine>
 		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2442</uiIndex>
@@ -65657,9 +65689,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2443</uiIndex>
@@ -65689,9 +65718,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<Flare>1</Flare>
 		<buddyitem>2457</buddyitem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2444</uiIndex>
@@ -65699,7 +65725,7 @@
 		<szLongItemName>40mm Shell Mustard Gas</szLongItemName>
 		<szItemDesc>Mustard Gas is known for its blistering and burning effect. With this round you will make your opponents cough out most of their internal organs.</szItemDesc>
 		<szBRName>40mm Shell Mustard Gas</szBRName>
-		<szBRDesc>Mustard Gas is known for its blistering and burning effect. With this round you will make your opponents cough out most of their internal organs.</szBRDesc>
+		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
@@ -65718,9 +65744,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2445</uiIndex>
@@ -65748,9 +65771,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2446</uiIndex>
@@ -65778,9 +65798,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2447</uiIndex>
@@ -65807,9 +65824,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2448</uiIndex>
@@ -65837,9 +65851,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2449</uiIndex>
@@ -65867,9 +65878,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2450</uiIndex>
@@ -65896,9 +65904,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2451</uiIndex>
@@ -65925,9 +65930,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2452</uiIndex>
@@ -65954,9 +65956,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2453</uiIndex>
@@ -65983,9 +65982,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2454</uiIndex>

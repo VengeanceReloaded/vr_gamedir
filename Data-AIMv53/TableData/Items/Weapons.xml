@@ -18668,4 +18668,41 @@
 		<usOverheatingDamageThreshold>21240</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>128</usOverheatingSingleShotTemperature>
 	</WEAPON>
+		<WEAPON>
+		<uiIndex>2157</uiIndex>
+		<szWeaponName>Mossberg MVP LC</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>5</ubWeaponType>
+		<ubCalibre>9</ubCalibre>
+		<ubReadyTime>16</ubReadyTime>
+		<ubShotsPer4Turns>11.2</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>39</ubImpact>
+		<ubDeadliness>45</ubDeadliness>
+		<bAccuracy>9</bAccuracy>
+		<ubMagSize>10</ubMagSize>
+		<usRange>615</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>85</ubAttackVolume>
+		<ubHitVolume>8</ubHitVolume>
+		<sSound>322</sSound>
+		<sBurstSound>6</sBurstSound>
+		<sSilencedBurstSound>127</sSilencedBurstSound>
+		<sReloadSound>102</sReloadSound>
+		<sLocknLoadSound>108</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>20</bBurstAP>
+		<APsToReload>22</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>16</MaxDistForMessyDeath>
+		<APsToReloadManually>28</APsToReloadManually>
+		<ManualReloadSound>477</ManualReloadSound>
+		<nAccuracy>82</nAccuracy>
+		<ubAimLevels>6</ubAimLevels>
+		<Handling>16</Handling>
+		<usOverheatingJamThreshold>30000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>8000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>140</usOverheatingSingleShotTemperature>
+	</WEAPON>
 </WEAPONLIST>
