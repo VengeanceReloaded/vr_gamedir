@@ -60444,7 +60444,7 @@
 		<szBRName>CA-15 Recon</szBRName>
 		<szBRDesc>With a custom-made barrel consisting of Carbon Fiber the Christensen Arms CA-15 saves weight but does not compromise on reliability or accuracy and comes with a sub MOA guarantee.</szBRDesc>
 		<usItemClass>2</usItemClass>
-		<ubClassIndex>2124</ubClassIndex>
+		<ubClassIndex>2155</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>	   <!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
@@ -60495,7 +60495,7 @@
 		<szBRName>CZ 805 Bren</szBRName>
 		<szBRDesc>A modern modular assault rifle platform, the 805 Bren was developed in conjunction with the Czech army and features all mod cons such as integral rails, folding stock and can fit a multitude of optional attachments.</szBRDesc>
 		<usItemClass>2</usItemClass>
-		<ubClassIndex>2124</ubClassIndex>
+		<ubClassIndex>2156</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>	   <!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
@@ -60552,7 +60552,7 @@
 		<szBRDesc>The MVP LC (Light Chassis) from Mossberg &amp; Sons provides an affordable and portable tool for long range tactical shooters or mobile hunters who travel light. It has AR inspired weight saving features as well as a highly adjustable lightning bolt trigger system.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>698</ubClassIndex>
+		<ubClassIndex>2157</ubClassIndex>
 		<AvailableAttachmentPoint>2048</AvailableAttachmentPoint>		<!-- Muzzle - Sniper Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
@@ -60591,12 +60591,62 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2158</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2158</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
+		<szItemName>Galil ACE</szItemName>
+		<szLongItemName>Galil ACE</szLongItemName>
+		<szItemDesc>The Galil ACE is a worthy addition to an esteemed rifle lineage, which continues to provide impressive reliability and consistent accuracy.</szItemDesc>
+		<szBRName>Galil ACE</szBRName>
+		<szBRDesc>An evolution of the original battle tested Galil, this assault rifle now is lighter, more reliable, more accurate, more deadly, period.</szBRDesc><uiIndex>656</uiIndex>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>2158</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>	   <!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>	    <!-- Muzzle - AR Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
+		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>68719476736</AvailableAttachmentPoint>	<!-- Stock - Folding -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>576460752303423488</AvailableAttachmentPoint>	<!-- UB Launcher - M203PI -->
+		<AvailableAttachmentPoint>1152921504606846976</AvailableAttachmentPoint>	<!-- UB Launcher - GP-30 -->
+		<AvailableAttachmentPoint>2305843009213693952</AvailableAttachmentPoint>	<!-- UB Launcher - AG-36 -->
+		<ubCursor>4</ubCursor>
+		<ubGraphicType>4</ubGraphicType>
+		<ubGraphicNum>695</ubGraphicNum>
+		<ubWeight>30</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>4950</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>0</WaterDamages>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
+		<BR_ROF>750</BR_ROF>
+		<ToHitBonus>-1</ToHitBonus>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<DamageChance>12</DamageChance>
+		<DirtIncreaseFactor>21.0</DirtIncreaseFactor>
+		<STAND_MODIFIERS>
+			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
+			<AimLevels>1</AimLevels>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>

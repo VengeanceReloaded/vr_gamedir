@@ -18705,4 +18705,45 @@
 		<usOverheatingDamageThreshold>8000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>140</usOverheatingSingleShotTemperature>
 	</WEAPON>
+		<WEAPON>
+		<uiIndex>2158</uiIndex>
+		<szWeaponName>Galil ACE</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>6</ubWeaponType>
+		<ubCalibre>8</ubCalibre>
+		<ubReadyTime>10</ubReadyTime>
+		<ubShotsPer4Turns>14.12</ubShotsPer4Turns>
+		<ubBurstPenalty>6</ubBurstPenalty>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>30</ubImpact>
+		<ubDeadliness>30</ubDeadliness>
+		<bAccuracy>5</bAccuracy>
+		<ubMagSize>30</ubMagSize>
+		<usRange>300</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>40</BurstAniDelay>
+		<ubAttackVolume>77</ubAttackVolume>
+		<ubHitVolume>7</ubHitVolume>
+		<sSound>340</sSound>
+		<sBurstSound>32</sBurstSound>
+		<sSilencedBurstSound>127</sSilencedBurstSound>
+		<sReloadSound>102</sReloadSound>
+		<sLocknLoadSound>108</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>12</bBurstAP>
+		<bAutofireShotsPerFiveAP>3</bAutofireShotsPerFiveAP>
+		<APsToReload>20</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<AutoPenalty>7</AutoPenalty>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>62</nAccuracy>
+		<bRecoilX>2</bRecoilX>
+		<bRecoilY>7</bRecoilY>
+		<ubAimLevels>5</ubAimLevels>
+		<Handling>11</Handling>
+		<usOverheatingJamThreshold>40000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>19300</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>126</usOverheatingSingleShotTemperature>
+	</WEAPON>
 </WEAPONLIST>
