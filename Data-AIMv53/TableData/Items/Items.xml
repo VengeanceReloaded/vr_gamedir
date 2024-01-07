@@ -20308,9 +20308,9 @@
 		<uiIndex>691</uiIndex>
 		<szItemName>Micro Galil</szItemName>
 		<szLongItemName>Micro Galil</szLongItemName>
-		<szItemDesc>Known throughout the middle east as the MAR Tactical, the Micro Galil is IMI's latest and most compact entry in the Galil family of assault weapons.</szItemDesc>
+		<szItemDesc>Known throughout the middle east as the MAR Tactical, the Micro Galil is IMI's most compact entry in the Galil family of assault weapons.</szItemDesc>
 		<szBRName>Micro Galil</szBRName>
-		<szBRDesc>A redesigned version of Galil MAR, with a completely new, thicker and much better protecting hand guard, a carbon-fibre folding stock instead of a steel one, and an extra standard rail.</szBRDesc>
+		<szBRDesc>A redesigned version of Galil MAR, with a completely new, thicker and much better protecting hand guard, a carbon-fibre folding stock and an extra standard rail.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>691</ubClassIndex>
@@ -56737,7 +56737,6 @@
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
-		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
@@ -56972,15 +56971,18 @@
 		<uiIndex>2075</uiIndex>
 		<szItemName>M6 Lynx</szItemName>
 		<szLongItemName>Gepard M6 Lynx</szLongItemName>
-		<szItemDesc>This hungarian bullpup anti-material rifle packs quite a punch.</szItemDesc>
+		<szItemDesc>A well made Anti-Materiel rifle from the Institute of Military Technology of the Hungarian People’s Army.</szItemDesc>
 		<szBRName>Gepard M6 Lynx</szBRName>
-		<szBRDesc>This hungarian bullpup anti-material rifle packs quite a punch.</szBRDesc>
+		<szBRDesc>This quality Hungarian bullpup anti-material rifle packs quite a punch.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2075</ubClassIndex>
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
 		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->
 		<ubCursor>3</ubCursor>
@@ -57005,6 +57007,7 @@
 		<Bipod>5</Bipod>
 		<ToHitBonus>-5</ToHitBonus>
 		<DefaultAttachment>208</DefaultAttachment>
+		<DefaultAttachment>209</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -60619,7 +60622,7 @@
 		<AvailableAttachmentPoint>576460752303423488</AvailableAttachmentPoint>	<!-- UB Launcher - M203PI -->
 		<AvailableAttachmentPoint>1152921504606846976</AvailableAttachmentPoint>	<!-- UB Launcher - GP-30 -->
 		<AvailableAttachmentPoint>2305843009213693952</AvailableAttachmentPoint>	<!-- UB Launcher - AG-36 -->
-		<ubCursor>4</ubCursor>
+		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>695</ubGraphicNum>
 		<ubWeight>30</ubWeight>
