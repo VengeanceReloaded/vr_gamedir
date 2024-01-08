@@ -175,21 +175,21 @@
 		<ubAmmoType>2</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
-	<MAGAZINE>
+	<MAGAZINE>	<!-- 9mm AET, 8 -->
 		<uiIndex>25</uiIndex>
 		<ubCalibre>2</ubCalibre>
 		<ubMagSize>8</ubMagSize>
 		<ubAmmoType>13</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
-	<MAGAZINE>
+	<MAGAZINE>	<!-- 9mm Glaser, 8 -->
 		<uiIndex>26</uiIndex>
 		<ubCalibre>2</ubCalibre>
 		<ubMagSize>8</ubMagSize>
 		<ubAmmoType>14</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
-	<MAGAZINE>
+	<MAGAZINE>	<!-- 9mm Tracer, 8 -->
 		<uiIndex>27</uiIndex>
 		<ubCalibre>2</ubCalibre>
 		<ubMagSize>8</ubMagSize>
@@ -4615,43 +4615,42 @@
 		<ubAmmoType>16</ubAmmoType>
 		<ubMagType>3</ubMagType>
 	</MAGAZINE>
-	<!-- .30-06 -->
-	<MAGAZINE>
+	<MAGAZINE>	<!-- .30-06 -->
 		<uiIndex>659</uiIndex>
 		<ubCalibre>46</ubCalibre>
 		<ubMagSize>5</ubMagSize>
 		<ubAmmoType>2</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
-	<MAGAZINE>
+	<MAGAZINE>	<!-- .30-06 XP3 5-->
 		<uiIndex>660</uiIndex>
 		<ubCalibre>46</ubCalibre>
 		<ubMagSize>5</ubMagSize>
 		<ubAmmoType>120</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
-	<MAGAZINE>
+	<MAGAZINE>	
 		<uiIndex>661</uiIndex>
 		<ubCalibre>46</ubCalibre>
 		<ubMagSize>8</ubMagSize>
 		<ubAmmoType>2</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
-	<MAGAZINE>
+	<MAGAZINE>		<!-- .30-06 XP3 8-->
 		<uiIndex>662</uiIndex>
 		<ubCalibre>46</ubCalibre>
 		<ubMagSize>8</ubMagSize>
 		<ubAmmoType>120</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
-	<MAGAZINE>
+	<MAGAZINE>	
 		<uiIndex>663</uiIndex>
 		<ubCalibre>46</ubCalibre>
 		<ubMagSize>20</ubMagSize>
 		<ubAmmoType>2</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
-	<MAGAZINE>
+	<MAGAZINE>	<!-- .30-06 XP3 20-->
 		<uiIndex>664</uiIndex>
 		<ubCalibre>46</ubCalibre>
 		<ubMagSize>20</ubMagSize>
@@ -4672,14 +4671,14 @@
 		<ubAmmoType>120</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
-	<MAGAZINE>
+	<MAGAZINE>	<!-- .30-06 AP Belt-->
 		<uiIndex>667</uiIndex>
 		<ubCalibre>46</ubCalibre>
 		<ubMagSize>100</ubMagSize>
 		<ubAmmoType>2</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
-	<MAGAZINE>
+	<MAGAZINE>	<!-- .30-06 XP3 Belt-->
 		<uiIndex>668</uiIndex>
 		<ubCalibre>46</ubCalibre>
 		<ubMagSize>100</ubMagSize>
@@ -4693,7 +4692,7 @@
 		<ubAmmoType>2</ubAmmoType>
 		<ubMagType>3</ubMagType>
 	</MAGAZINE>
-	<MAGAZINE>
+	<MAGAZINE>	<!-- .30-06 XP3 Crate-->
 		<uiIndex>670</uiIndex>
 		<ubCalibre>46</ubCalibre>
 		<ubMagSize>2000</ubMagSize>
