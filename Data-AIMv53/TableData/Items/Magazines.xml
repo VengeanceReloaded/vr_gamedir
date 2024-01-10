@@ -4669,7 +4669,7 @@
 		<ubCalibre>46</ubCalibre>
 		<ubMagSize>50</ubMagSize>
 		<ubAmmoType>120</ubAmmoType>
-		<ubMagType>0</ubMagType>
+		<ubMagType>2</ubMagType>
 	</MAGAZINE>
 	<MAGAZINE>	<!-- .30-06 AP Belt-->
 		<uiIndex>667</uiIndex>
@@ -4697,7 +4697,7 @@
 		<ubCalibre>46</ubCalibre>
 		<ubMagSize>2000</ubMagSize>
 		<ubAmmoType>120</ubAmmoType>
-		<ubMagType>0</ubMagType>
+		<ubMagType>3</ubMagType>
 	</MAGAZINE>
 	<!-- 6x35mm -->
 	<MAGAZINE>       	<!-- 6x35mm Mag HP -->
