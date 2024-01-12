@@ -18869,7 +18869,7 @@
 		<szLongItemName>Galil SAR</szLongItemName>
 		<szItemDesc>This is the shortened version of the Galil, easier to handle for paratroopers and mechanized troops.</szItemDesc>
 		<szBRName>Galil SAR</szBRName>
-		<szBRDesc>This is the shortened version of the Galil AR. It is easier to handle for troops that are used to work under tight conditions.</szBRDesc>
+		<szBRDesc>This is the shortened version of the Galil AR. It is easier to handle for troops that work in Urban environments and other tight conditions.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>656</ubClassIndex>
@@ -28571,9 +28571,9 @@
 		<uiIndex>915</uiIndex>
 		<szItemName>RPG-16</szItemName>
 		<szLongItemName>RPG-16 Grom</szLongItemName>
-		<szItemDesc>The RPG-16 was developed in the 1960s, and has better range than the RPG-7.</szItemDesc>
+		<szItemDesc>Once your enemy sees your packing the kind of firepower an RPG provides, have mercy on him and let him run away in fear.  Or not.</szItemDesc>
 		<szBRName>RPG-16 Grom</szBRName>
-		<szBRDesc>Once your enemy sees your packing the kind of firepower an RPG provides, have mercy on him and let him run away in fear.  Or not.</szBRDesc>
+		<szBRDesc>Providing solid service since the '60s the RPG-16 has better range than the RPG-7.</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>915</ubClassIndex>
@@ -28772,7 +28772,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<GrenadeLauncher>1</GrenadeLauncher>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
 		<STAND_MODIFIERS />
@@ -28811,7 +28811,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<GrenadeLauncher>1</GrenadeLauncher>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
 		<STAND_MODIFIERS />
@@ -28846,7 +28845,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<GrenadeLauncher>1</GrenadeLauncher>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
 		<STAND_MODIFIERS />
@@ -30484,7 +30482,6 @@
 		<Damageable>1</Damageable>
 		<BigGunList>1</BigGunList>
 		<HiddenAddon>1</HiddenAddon>
-		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
 		<uiIndex>980</uiIndex>
