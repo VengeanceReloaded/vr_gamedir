@@ -742,4 +742,9 @@ description		Optional and not used in game. Used to easily identify the person h
 		<uiIndex>205</uiIndex>
 		<Hidden>1</Hidden>
 	</NAME>
+		<NAME>
+		<description>Exec</description>
+		<uiIndex>210</uiIndex>
+		<Hidden>0</Hidden>
+	</NAME>
 </HIDDENNAMES>
