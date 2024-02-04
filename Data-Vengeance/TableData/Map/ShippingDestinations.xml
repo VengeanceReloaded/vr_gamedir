@@ -58,22 +58,30 @@
 	</DESTINATION>
 	<DESTINATION>
 		<uiIndex>12</uiIndex>
-		<name>Ottawa</name>
+		<name>Oronegro</name>
+		<ubMapX>1</ubMapX>
+		<ubMapY>3</ubMapY>
+		<ubMapZ>0</ubMapZ>
+		<sGridNo>9037</sGridNo>
 	</DESTINATION>
 	<DESTINATION>
 		<uiIndex>13</uiIndex>
-		<name>Paris</name>
+		<name>Ottawa</name>
 	</DESTINATION>
 	<DESTINATION>
 		<uiIndex>14</uiIndex>
-		<name>Tokyo</name>
+		<name>Paris</name>
 	</DESTINATION>
 	<DESTINATION>
 		<uiIndex>15</uiIndex>
-		<name>Tripoli</name>
+		<name>Tokyo</name>
 	</DESTINATION>
 	<DESTINATION>
 		<uiIndex>16</uiIndex>
+		<name>Tripoli</name>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>17</uiIndex>
 		<name>Vancouver</name>
 	</DESTINATION>
 </DESTINATIONLIST>
