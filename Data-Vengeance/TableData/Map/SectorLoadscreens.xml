@@ -1333,7 +1333,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szDay>Loadscreens\LS_Junk</szDay>
 		<szNight>Loadscreens\LS_Coast_dusk</szNight>
 		<szDayAlt>Loadscreens\LS_Beach_trash</szDayAlt>
-		<szNightAlt></szNightAlt>
+		<szNightAlt>Loadscreens\LS_Junk_Night</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>131</uiIndex>
@@ -1353,7 +1353,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szDay>Loadscreens\LS_Sun_on_water</szDay>
 		<szNight>Loadscreens\LS_NightForest</szNight>
 		<szDayAlt>Loadscreens\LS_Arulco_troop</szDayAlt>
-		<szNightAlt></szNightAlt>
+		<szNightAlt>Loadscreens\LS_NightForest</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>133</uiIndex>
@@ -1370,8 +1370,8 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>I6</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Wreckers</szDay>
-		<szNight>Loadscreens\LS_Shanty_night</szNight>
+		<szDay>Loadscreens\LS_Junkyard_Day</szDay>
+		<szNight>Loadscreens\LS_Junkyard_Night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -1408,12 +1408,12 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 	<SECTOR>
 		<uiIndex>138</uiIndex>
 		<szLocation>I10</szLocation>
-		<RandomAltSector>0</RandomAltSector>
+		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Desert_skull</szDay>
 		<szNight>Loadscreens\LS_Desert_sunset</szNight>
 		<szDayAlt>Loadscreens\LS_Villager_capture</szDayAlt>
-		<szNightAlt></szNightAlt>
+		<szNightAlt>Loadscreens\LS_Desert_sunset</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>139</uiIndex>
@@ -1438,11 +1438,11 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 	<SECTOR>
 		<uiIndex>141</uiIndex>
 		<szLocation>I13</szLocation>
-		<RandomAltSector>0</RandomAltSector>
+		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Cells</szDay>
 		<szNight>Loadscreens\LS_Nightcopter</szNight>
-		<szDayAlt></szDayAlt>
+		<szDayAlt>Loadscreens\LS_Cells</szDayAlt>
 		<szNightAlt>Loadscreens\LS_Prison_night</szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -1564,17 +1564,17 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szDay>Loadscreens\LS_Prison_tower</szDay>
 		<szNight>Loadscreens\LS_Prison_night</szNight>
 		<szDayAlt>Loadscreens\LS_Cells</szDayAlt>
-		<szNightAlt></szNightAlt>
+		<szNightAlt>Loadscreens\LS_Prison_night</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>154</uiIndex>
 		<szLocation>J10</szLocation>
-		<RandomAltSector>0</RandomAltSector>
+		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Desert_skull</szDay>
 		<szNight>Loadscreens\LS_Night_sunset</szNight>
 		<szDayAlt>Loadscreens\LS_Villager_capture</szDayAlt>
-		<szNightAlt></szNightAlt>
+		<szNightAlt>Loadscreens\LS_Night_sunset</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>155</uiIndex>
@@ -1760,12 +1760,12 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 	<SECTOR>
 		<uiIndex>173</uiIndex>
 		<szLocation>K13</szLocation>
-		<RandomAltSector>0</RandomAltSector>
+		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Forest_road_day</szDay>
 		<szNight>Loadscreens\LS_Forest_road_night</szNight>
 		<szDayAlt>Loadscreens\LS_Forest_road_day</szDayAlt>
-		<szNightAlt></szNightAlt>
+		<szNightAlt>Loadscreens\LS_Forest_road_night</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>174</uiIndex>
@@ -1975,7 +1975,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Junk</szDay>
-		<szNight>Loadscreens\LS_Coast_dusk</szNight>
+		<szNight>Loadscreens\LS_Junk_Night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
