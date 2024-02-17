@@ -376,7 +376,7 @@ The other tags determine in what category this hint falls, and will be displayed
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>70</uiIndex>
-    <szName>Use HP or Glaser ammo to kill bloodcats.</szName>
+    <szName>Use Hollow Point or Glaser ammo on unarmored targets such as bloodcats.</szName>
     <items>1</items>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
