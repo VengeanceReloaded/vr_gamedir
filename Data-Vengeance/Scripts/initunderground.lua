@@ -120,7 +120,7 @@ local sectorList = {
 
 
     -- Tixa
-    { location = "J9-1", loadscreens = { "LS_Basement", "LS_Steps" }, },
+    { location = "J9-1", loadscreens = { "LS_Prison_basement", "LS_Steps" }, },
 
     -- feeding zone
     { location = "J9-2", loadscreen = "LS_Cave", },
@@ -153,8 +153,8 @@ local sectorList = {
     { location = "I14-1", },
     { location = "J14-1", },
     { location = "J14-2", },
-    { location = "J13-2", },
-    { location = "J13-3", },
+    { location = "J13-2", loadscreen = "LS_Prison_basement", },
+    { location = "J13-3", loadscreen = "LS_Prison_basement", }, 
     { location = "K13-3", },
 
 
