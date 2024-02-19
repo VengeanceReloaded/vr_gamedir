@@ -143,10 +143,10 @@ local sectorList = {
     { location = "D13-1", },
     { location = "E13-1", },
     { location = "E13-2", },
-    { location = "F13-2", loadscreens = { "LS_Blast_tunnel", }, },
+    { location = "F13-2", loadscreens = { "LS_Blast_tunnel", "LS_Filthy_bunker" }, },
     { location = "G13-2", },
     { location = "G13-3", },
-    { location = "F13-3", loadscreens = { "LS_Blast_tunnel", }, },
+    { location = "F13-3", loadscreens = { "LS_Blast_tunnel", "LS_Filthy_bunker" }, },
 
 
     -- Alma Mine
