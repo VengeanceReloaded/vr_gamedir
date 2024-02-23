@@ -18657,15 +18657,29 @@
 		<uiIndex>651</uiIndex>
 		<szItemName>SCAR-H CQC</szItemName>
 		<szLongItemName>FN SCAR-H CQC</szLongItemName>
-		<szItemDesc>The SCAR is FN's newest offering into the military armament scene. The "H" stands for "Heavy", and refers to this version firing the 7.62mm NATO round. CQC denotes the shortest version for fighting in dense terrain.</szItemDesc>
+		<szItemDesc>The "H" stands for "Heavy", and refers to this version firing the 7.62mm NATO round. CQC denotes the shortest version for fighting in dense terrain.</szItemDesc>
 		<szBRName>FN SCAR-H CQC</szBRName>
-		<szBRDesc>US SOCOM issued a solicitation for the procurement of SOF Combat Assault Rifles (SCAR) in 2003, and this is what FN came up with. Widely customizable and extremely durable; if ever a gun had promise, the SCAR does.</szBRDesc>
+		<szBRDesc>US SOCOM issued a solicitation for the procurement of SOF Combat Assault Rifles (SCAR) in 2003, and FN came up with this widely customizable and extremely durable close quarter combat weapon.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>651</ubClassIndex>
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>	<!-- Muzzle - AR Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>4194304</AvailableAttachmentPoint>		<!-- Sights - Night/Thermal Sight -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
+		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
-		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
-		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>9223372036854775808</AvailableAttachmentPoint>	<!-- UB Launcher - EGLM -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>576</ubGraphicNum>
@@ -19586,7 +19600,7 @@
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
-		<AvailableAttachmentPoint>4194304</AvailableAttachmentPoint>		<!-- Sights - Night/Thermal Sight -->m
+		<AvailableAttachmentPoint>4194304</AvailableAttachmentPoint>		<!-- Sights - Night/Thermal Sight -->
 		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>	<!-- Internal - Trigger Group -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
