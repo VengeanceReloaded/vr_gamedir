@@ -541,7 +541,7 @@ The other tags determine in what category this hint falls, and will be displayed
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>103</uiIndex>
-    <szName>Clusterf*%ck: Don't bunch together, a stray burst or grenade could take out your whole squad.</szName>
+    <szName>Clusterf*!ck: Don't bunch together, a stray burst or grenade could take out your whole squad.</szName>
     <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
@@ -586,7 +586,7 @@ The other tags determine in what category this hint falls, and will be displayed
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>112</uiIndex>
-    <szName>Each mercenary has a different tolerance for the number of merc deaths and your overall reputation in Arulco.</szName>
+    <szName>Each mercenary has a different tolerance to the number of merc deaths and your overall reputation in Arulco.</szName>
     <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
@@ -601,7 +601,7 @@ The other tags determine in what category this hint falls, and will be displayed
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>115</uiIndex>
-    <szName>Game manuals, hotkey list, map editor tutorial and more useful documents can be found in the "Docs" folder in your JA2 installation directory.</szName>
+    <szName>Game manuals, hotkey list, map editor tutorial and more useful documents can be found in the "Docs" folder.</szName>
     <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
@@ -631,7 +631,7 @@ The other tags determine in what category this hint falls, and will be displayed
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>121</uiIndex>
-    <szName>If a merc can't hit a target from their current location, try to suppress with auto fire and then change to a better position.</szName>
+    <szName>If a merc can't hit a target from their current location, try to suppress enemies with auto fire and then change to a better position.</szName>
     <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
@@ -676,7 +676,7 @@ The other tags determine in what category this hint falls, and will be displayed
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>130</uiIndex>
-    <szName>You can inspect a trap before trying to disarm it. Recommended if you are happy with your current number of extremities.</szName>
+    <szName>You can inspect a trap before attempting to disarm it. Recommended if you are happy with your current number of extremities.</szName>
     <items>1</items>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
