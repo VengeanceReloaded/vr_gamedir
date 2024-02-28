@@ -20964,7 +20964,7 @@
 		<szLongItemName>SA vz.58</szLongItemName>
 		<szItemDesc>Those crazy Czechs and their designations. This time, under their term for SMG there hides a full-power assault rifle.</szItemDesc>
 		<szBRName>SA vz.58</szBRName>
-		<szBRDesc>In case you want a 7.62mm WP assault rifle, reconsider your decision to get a cheap AK clone made in someone's backyard. Take this Czech rifle instead, it may cost a bit more, but it also offers higher quality.</szBRDesc>
+		<szBRDesc>In case you want a 7.62mm WP assault rifle, reconsider your decision to get a cheap AK clone made in someone's backyard. Pay more for this Czech rifle instead and feel the difference in quality.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>708</ubClassIndex>
@@ -21116,6 +21116,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>712</ubClassIndex>
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
@@ -21153,6 +21154,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>713</ubClassIndex>
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
@@ -21199,6 +21201,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>714</ubClassIndex>
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
@@ -21244,6 +21247,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>715</ubClassIndex>
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
@@ -21801,6 +21805,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>729</ubClassIndex>
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>232</ubGraphicNum>
@@ -22020,6 +22025,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>734</ubClassIndex>
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>122</ubGraphicNum>
 		<ubWeight>41</ubWeight>
@@ -22060,6 +22066,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>735</ubClassIndex>
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>94</ubGraphicNum>
@@ -31134,9 +31141,6 @@
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>40</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1000</uiIndex>
@@ -31178,9 +31182,6 @@
 		<BrightLightVisionRangeBonus>80</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>80</PercentTunnelVision>
 		<ScopeMagFactor>8.0</ScopeMagFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1001</uiIndex>
@@ -31290,9 +31291,6 @@
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<overheatCooldownModificator>-0.1</overheatCooldownModificator>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1004</uiIndex>
@@ -31985,9 +31983,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>-3</ToHitBonus>
 		<BurstSizeBonus>3</BurstSizeBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1027</uiIndex>
@@ -32015,9 +32010,6 @@
 		<UrbanCamoBonus>100</UrbanCamoBonus>
 		<CamouflageKit>1</CamouflageKit>
 		<HiddenAddon>1</HiddenAddon>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1028</uiIndex>
@@ -32045,9 +32037,6 @@
 		<DesertCamoBonus>100</DesertCamoBonus>
 		<CamouflageKit>1</CamouflageKit>
 		<HiddenAddon>1</HiddenAddon>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1029</uiIndex>
@@ -49863,9 +49852,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>1</DesertCamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1680</uiIndex>
@@ -49895,9 +49881,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>2</CamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1681</uiIndex>
@@ -50233,7 +50216,7 @@
 		<uiIndex>1692</uiIndex>
 		<szItemName>Sporting Clay Vest</szItemName>
 		<szLongItemName>Sporting Clay Vest</szLongItemName>
-		<szItemDesc>This versatile, value-priced vest has plenty of range-perfect features. Organize loads between two double shell pockets (four total), and secure empties in the mesh back pouch.</szItemDesc>
+		<szItemDesc>A versatile vest for clay shooters with pockets for shells and a polycotton mesh backing.</szItemDesc>
 		<szBRName>Sporting Clay Vest</szBRName>
 		<szBRDesc>This versatile, value-priced vest has plenty of range-perfect features. Organize loads between two double shell pockets (four total), and secure empties in the mesh back pouch</szBRDesc>
 		<usItemClass>131072</usItemClass>
@@ -50252,9 +50235,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1693</uiIndex>
@@ -50280,9 +50260,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>25</CamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1694</uiIndex>
@@ -50603,7 +50580,7 @@
 		<uiIndex>1707</uiIndex>
 		<szItemName>TT Range</szItemName>
 		<szLongItemName>TT Extended Range</szLongItemName>
-		<szItemDesc>The largest of our Operator series packs is the Extended Range Operator Pack. Its large size and extensive list of features make it essential for longer missions.</szItemDesc>
+		<szItemDesc>A larger Backpack with an extensive list of features for longer missions backed by an aluminium frame.</szItemDesc>
 		<szBRName>TT Extended Range</szBRName>
 		<szBRDesc>The largest of our Operator series packs is the Extended Range Operator Pack. Its large size and extensive list of features make it essential for longer missions.</szBRDesc>
 		<usItemClass>131072</usItemClass>
