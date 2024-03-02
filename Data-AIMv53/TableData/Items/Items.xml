@@ -9988,10 +9988,11 @@
 		<szLongItemName>HK SL8</szLongItemName>
 		<szItemDesc>The civilian brother of the G36, this sporting rifle features a heavier, more accurate barrel, and a lightened trigger pull.</szItemDesc>
 		<szBRName>HK SL8</szBRName>
-		<szBRDesc>With its rifle-style grip and rail system, some call this the ugly cousin of the G36. We still think its beautiful, and so will you after unloading a few rounds into your target of choice. Pick up this popular sporting rifle now at our exclusive low price!</szBRDesc>
+		<szBRDesc>Another quality HK product for the civlian market. G36 double lug bolts available on request for those wishing to fit a C-Mag drum.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>348</ubClassIndex>
+		<AvailableAttachmentPoint>2147483648</AvailableAttachmentPoint>		<!-- Adapter - 5.56x45 C-Mag -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
@@ -37733,6 +37734,7 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1201</ubClassIndex>
+		<AvailableAttachmentPoint>2147483648</AvailableAttachmentPoint>		<!-- Adapter - 5.56x45 C-Mag -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
@@ -65315,7 +65317,7 @@
 		<uiIndex>2427</uiIndex>
 		<szItemName>C1 Pipebomb</szItemName>
 		<szLongItemName>C1 Pipebomb</szLongItemName>
-		<szItemDesc>A chunk of steel, a detonator and a small C1 charge form a nice little pipebomb. Use on your own risk.</szItemDesc>
+		<szItemDesc>A chunk of steel, a detonator and a small C1 charge form a nice little pipebomb. Use at your own risk.</szItemDesc>
 		<szBRName>C1 Pipebomb</szBRName>
 		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>256</usItemClass>
@@ -78013,8 +78015,8 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>3006</uiIndex>
-		<szItemName>Finger</szItemName>
-		<szLongItemName>American Patriotic Finger</szLongItemName>
+		<szItemName>USA Finger</szItemName>
+		<szLongItemName>USA Foam Finger</szLongItemName>
 		<szItemDesc>USA! USA! USA! Probably belongs to some American football fan that woke up a long way from home.</szItemDesc>
 		<szBRName>American Patriotic Finger</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
@@ -78222,8 +78224,8 @@
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
 		<DesertCamoBonus>1</DesertCamoBonus>
-		<DayVisionRangeBonus>40</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
+		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3016</uiIndex>
@@ -78257,8 +78259,8 @@
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
 		<DesertCamoBonus>1</DesertCamoBonus>
-		<DayVisionRangeBonus>45</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>45</BrightLightVisionRangeBonus>
+		<DayVisionRangeBonus>40</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3018</uiIndex>
@@ -78355,6 +78357,7 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<APBonus>5</APBonus>
+		<DesertCamoBonus>-6</DesertCamoBonus>
 		<UrbanCamoBonus>-4</UrbanCamoBonus>
 		<StealthBonus>3</StealthBonus>
 	</ITEM>
