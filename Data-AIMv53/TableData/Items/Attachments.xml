@@ -6550,6 +6550,11 @@
 		<itemIndex>899</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
+		<ATTACHMENT>
+		<attachmentIndex>245</attachmentIndex>
+		<itemIndex>128</itemIndex>
+		<APCost>8</APCost>
+	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>297</attachmentIndex>
 		<itemIndex>294</itemIndex>
@@ -19435,6 +19440,11 @@
 		<attachmentIndex>1012</attachmentIndex>
 		<itemIndex>2049</itemIndex>
 		<APCost>20</APCost>
+	</ATTACHMENT>
+		<ATTACHMENT>
+		<attachmentIndex>1022</attachmentIndex>
+		<itemIndex>128</itemIndex>
+		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1022</attachmentIndex>
