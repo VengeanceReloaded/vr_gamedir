@@ -41643,7 +41643,7 @@
 		<uiIndex>1355</uiIndex>
 		<szItemName>Transmitter</szItemName>
 		<szLongItemName>Laptop Transmitter</szLongItemName>
-		<szItemDesc>This satellite transmitter enables a laptop computer to connect to the Internet from anywhere in the world. N.B. Works with operating system other than Windows. Every breath you take, every move you make, every bond you break every step you take, we'll be watching you. Yours truly: SOPA, PIPA, CISPA and ACTA.</szItemDesc>
+		<szItemDesc>This satellite transmitter enables a laptop computer to connect to the Internet from anywhere in the world. Every breath you take, every move you make, every bond you break every step you take, we'll be watching you. Yours truly: SOPA, PIPA, CISPA and ACTA.</szItemDesc>
 		<szBRName>Laptop Transmitter</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -72849,10 +72849,11 @@
 		<Electronic>1</Electronic>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<Bipod>20</Bipod>
+		<ToHitBonus>15</ToHitBonus>
 		<MinRangeForAimBonus>250</MinRangeForAimBonus>
 		<PercentAPReduction>-10</PercentAPReduction>
 		<DamageBonus>5</DamageBonus>
+		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -75650,16 +75651,13 @@
 		<BigGunList>1</BigGunList>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
+		<BR_NewInventory>1</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
 		<Inseparable>1</Inseparable>
-		<Bipod>75</Bipod>
-		<ToHitBonus>-60</ToHitBonus>
-		<MinRangeForAimBonus>300</MinRangeForAimBonus>
+		<ToHitBonus>15</ToHitBonus>
+		<MinRangeForAimBonus>250</MinRangeForAimBonus>
 		<PercentAPReduction>-10</PercentAPReduction>
 		<DamageBonus>5</DamageBonus>
-		<NightVisionRangeBonus>-75</NightVisionRangeBonus>
-		<DayVisionRangeBonus>100</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>-75</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<AttachmentSystem>1</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
