@@ -72853,7 +72853,7 @@
 		<MinRangeForAimBonus>250</MinRangeForAimBonus>
 		<PercentAPReduction>-10</PercentAPReduction>
 		<DamageBonus>5</DamageBonus>
-		<AttachmentSystem>1</AttachmentSystem>
+		<AttachmentSystem>0</AttachmentSystem>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
