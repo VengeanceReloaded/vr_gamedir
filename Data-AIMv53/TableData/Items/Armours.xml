@@ -287,28 +287,28 @@
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
-	<ARMOUR>	<!--  -->
+	<ARMOUR>	<!-- Field Uniform AXED -->
 		<uiIndex>41</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>25</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
-	<ARMOUR>	<!--  -->
+	<ARMOUR>	<!-- Boonie Hat -->
 		<uiIndex>42</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>1</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
-	<ARMOUR>	<!--  -->
+	<ARMOUR>	<!-- Dress Uniform -->
 		<uiIndex>43</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>5</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
-	<ARMOUR>	<!--  -->
+	<ARMOUR>	<!-- Officers Hat -->
 		<uiIndex>44</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>1</ubProtection>

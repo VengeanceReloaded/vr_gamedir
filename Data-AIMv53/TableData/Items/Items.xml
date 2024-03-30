@@ -4600,7 +4600,7 @@
 		<szLongItemName>40mm Tear Gas Grenade</szLongItemName>
 		<szItemDesc>This rubber-like round will disperse tear gas after a short delay. These projectiles are meant to be fired from the 40mm grenade launcher.</szItemDesc>
 		<szBRName>40mm Tear Gas Grenade</szBRName>
-		<szBRDesc>This time-delayed projectile's body is made of rubbery plastic designed to prevent impact injuries and keep it from being picked up and thrown back. The rubber melts quickly from the heat of burning and releases an irritant gas when ignited.</szBRDesc>
+		<szBRDesc>This time-delayed projectile's body is made of rubbery plastic designed to prevent impact injuries and keep it from being picked up and thrown back. The rubber quickly melts when ignited, releasing an irritant gas.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
@@ -4623,9 +4623,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>149</uiIndex>
@@ -4656,9 +4653,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>150</uiIndex>
@@ -4689,9 +4683,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>151</uiIndex>
@@ -4724,9 +4715,6 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>152</uiIndex>
@@ -4751,9 +4739,6 @@
 		<NotInEditor>1</NotInEditor>
 		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>153</uiIndex>
@@ -4775,9 +4760,6 @@
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>154</uiIndex>
@@ -4799,9 +4781,6 @@
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>155</uiIndex>
@@ -4823,9 +4802,6 @@
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>156</uiIndex>
@@ -4847,9 +4823,6 @@
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>157</uiIndex>
@@ -4873,9 +4846,6 @@
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>158</uiIndex>
@@ -4890,9 +4860,6 @@
 		<ItemSize>34</ItemSize>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>159</uiIndex>
@@ -4907,9 +4874,6 @@
 		<ItemSize>34</ItemSize>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>160</uiIndex>
@@ -35647,7 +35611,7 @@
 		<uiIndex>1141</uiIndex>
 		<szItemName>Recon C. Kev. Leggings</szItemName>
 		<szLongItemName>Coated Recon Kevlar Leggings</szLongItemName>
-		<szItemDesc>Comfortable and camouflaged, these kevlar leggings are made for reconnaissance in the first place. Coated with Royal Jelly for added protection.</szItemDesc>
+		<szItemDesc>Comfortable and camouflaged, these Kevlar leggings are designed for recon ops in mind. Coated with Royal Jelly for added protection.</szItemDesc>
 		<szBRName>Coated Recon Kevlar Leggings</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
@@ -35675,7 +35639,7 @@
 		<uiIndex>1142</uiIndex>
 		<szItemName>Recon C. Tw. Leggings</szItemName>
 		<szLongItemName>Coated Recon Twaron Leggings</szLongItemName>
-		<szItemDesc>Comfortable and camouflaged, these Twaron leggings are made for reconnaissance in the first place. Coated with Royal Jelly for added protection.</szItemDesc>
+		<szItemDesc>Comfortable and camouflaged, these Twaron leggings are designed for recon ops in mind. Coated with Royal Jelly for added protection.</szItemDesc>
 		<szBRName>Coated Recon Twaron Leggings</szBRName>
 		<szBRDesc>None</szBRDesc>
 		<usItemClass>2048</usItemClass>
