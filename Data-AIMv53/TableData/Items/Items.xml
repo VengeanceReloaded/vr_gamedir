@@ -6418,7 +6418,7 @@
 		<szLongItemName>Extended Ear</szLongItemName>
 		<szItemDesc>The Bionic Ear Scout is a high fidelity stereo amplifier headset with dual wind-resistant microphones that amplify small sounds and filter out the very loud. Its fully adjustable head strap ensures a snug fit.</szItemDesc>
 		<szBRName>Extended Ear</szBRName>
-		<szBRDesc>The Bionic Ear Scout offers advanced warning of approaching intruders. This high fidelity stereo amplifier head set features dual wind-resistant micro-phones that amplify small sounds and filter out the very loud. Its fully adjustable head strap ensures a snug fit even when on the run.</szBRDesc>
+		<szBRDesc>The Bionic Ear Scout offers advanced warning of approaching intruders. This high fidelity stereo amplifier head set features dual wind-resistant microphones that amplify small sounds and filter out the very loud. Its fully adjustable head strap ensures a snug fit even when on the run.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -6606,9 +6606,6 @@
 		<ubCoolness>7</ubCoolness>
 		<Damageable>1</Damageable>
 		<SciFi>1</SciFi>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>217</uiIndex>
@@ -6629,9 +6626,6 @@
 		<NotBuyable>1</NotBuyable>
 		<Jar>1</Jar>
 		<ContainsLiquid>1</ContainsLiquid>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>218</uiIndex>
@@ -6652,9 +6646,6 @@
 		<Damageable>1</Damageable>
 		<Jar>1</Jar>
 		<ContainsLiquid>1</ContainsLiquid>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>219</uiIndex>
@@ -6672,9 +6663,6 @@
 		<ItemSize>10</ItemSize>
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>220</uiIndex>
@@ -6746,9 +6734,6 @@
 		<Unaerodynamic>1</Unaerodynamic>
 		<Medical>1</Medical>
 		<DrugType>1</DrugType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>223</uiIndex>
@@ -6849,9 +6834,6 @@
 		<ItemSize>10</ItemSize>
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>227</uiIndex>
@@ -6869,15 +6851,12 @@
 		<ItemSize>11</ItemSize>
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>228</uiIndex>
 		<szItemName>Diskette</szItemName>
 		<szLongItemName>Computer Diskette</szLongItemName>
-		<szItemDesc>This diskette is labelled, 'Intercept's Most Wanted.' It contains confidential information on known international terrorists. It has been copied onto the laptop computer for easy reference.</szItemDesc>
+		<szItemDesc>This diskette is labelled, 'Intercept's Most Wanted.' It contains confidential information on known international terrorists. The files have been copied onto the laptop computer.</szItemDesc>
 		<szBRName>Computer Diskette</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -6888,9 +6867,6 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>229</uiIndex>
@@ -6950,9 +6926,6 @@
 		<usPrice>100</usPrice>
 		<Damageable>1</Damageable>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>232</uiIndex>
@@ -6990,9 +6963,6 @@
 		<ItemSize>34</ItemSize>
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>234</uiIndex>
@@ -7008,9 +6978,6 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>34</ItemSize>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>235</uiIndex>
@@ -7158,9 +7125,6 @@
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
 		<ProjectionFactor>1.3</ProjectionFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>242</uiIndex>
@@ -7247,9 +7211,6 @@
 		<Duckbill>1</Duckbill>
 		<spreadPattern>DuckbillSpread</spreadPattern>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>245</uiIndex>
@@ -49502,9 +49463,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>1</DesertCamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1670</uiIndex>
@@ -49661,9 +49619,6 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1675</uiIndex>
@@ -49904,9 +49859,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>15</CamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1683</uiIndex>
@@ -49932,9 +49884,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>10</CamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1684</uiIndex>
@@ -50060,9 +50009,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>3</DesertCamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1688</uiIndex>
