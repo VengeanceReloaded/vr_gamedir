@@ -23,8 +23,8 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Para_land</szDay>
 		<szNight>Loadscreens\LS_Para_land</szNight>
-		<szDayAlt></szDayAlt>
-		<szNightAlt></szNightAlt>		
+		<szDayAlt>Loadscreens\LS_Airdrop</szDayAlt>
+		<szNightAlt>Loadscreens\LS_Airdrop</szNightAlt>		
 	</SECTOR>
 	<!-- Row A -->
 	<SECTOR>
