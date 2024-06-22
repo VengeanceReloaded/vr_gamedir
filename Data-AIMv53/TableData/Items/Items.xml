@@ -6476,9 +6476,9 @@
 		<uiIndex>212</uiIndex>
 		<szItemName>Combat Goggles</szItemName>
 		<szLongItemName>Ballistic Combat Goggles</szLongItemName>
-		<szItemDesc>A favorite with U.S. Special Forces, these ESS Ballistic combat goggles have a series of vast improvements including extra-thick 2.8mm polycarbonate lenses which offer maximum impact protection and 100 percent UVA/UVB filtration.</szItemDesc>
+		<szItemDesc>These ESS Ballistic combat goggles consist of extra-thick 2.8mm polycarbonate lenses which offer maximum impact protection and 100 percent UVA/UVB filtration.</szItemDesc>
 		<szBRName>Ballistic Combat Goggles</szBRName>
-		<szBRDesc>Favored by U.S. Special Forces, these ESS Ballistic goggles are better and tougher than ever. These designs feature vast improvements such as extra-thick polycarbonate lenses offering maximum protection and filtering 100%%%% of UVA/UVB rays.</szBRDesc>
+		<szBRDesc>Favored by U.S. Special Forces, these designs feature vast improvements such as extra-thick polycarbonate lenses offering maximum protection and filtering 100%%%% of UVA/UVB rays.</szBRDesc>
 		<usItemClass>32768</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>2251799813685248</AttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -15082,9 +15082,9 @@
 		<uiIndex>548</uiIndex>
 		<szItemName>4.6x30mm PDW Mag AET</szItemName>
 		<szLongItemName>4.6x30mm PDW Mag AET</szLongItemName>
-		<szItemDesc>This 40-round magazine contains 4.6mm ammunition for the HK MP-7. This round possesses wound and range capabilites comparable to a rifle round.</szItemDesc>
+		<szItemDesc>This 40-round magazine contains specialized 4.6mm AET ammunition for the HK MP-7. </szItemDesc>
 		<szBRName>4.6x30mm PDW Mag AET</szBRName>
-		<szBRDesc>Specialized ammunition uniquely used by the HK MP-7.  Each bullet is about as large as a rifle round, and packs around the same punch.</szBRDesc>
+		<szBRDesc>Specialized ammunition for your HK MP-7.  These advanced energy transference bullets are about as large as a rifle round and explode into multiple pieces on impact, creating multiple wound channels.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>397</ubClassIndex>
@@ -43900,7 +43900,7 @@
 		<uiIndex>1450</uiIndex>
 		<szItemName>4.7x33mm Box AP</szItemName>
 		<szLongItemName>4.7x33mm Box, AP</szLongItemName>
-		<szItemDesc>There might be a bad pun in having an ammo case for caseless ammo, but this 4.7x33mm ammunition for the G11 is no joke.</szItemDesc>
+		<szItemDesc>4.7x33mm caseless ammunition provides solid propellant and projectile in a combustible material, simplifying ammo and reducing weight.</szItemDesc>
 		<szBRName>4.7x33mm Box AP</szBRName>
 		<szBRDesc>There might be a bad pun in having an ammo case for caseless ammo, but this 4.7x33mm ammunition for the G11 is no joke.</szBRDesc>
 		<usItemClass>1024</usItemClass>
@@ -43990,7 +43990,7 @@
 		<szLongItemName>5.7x28mm Box, HP</szLongItemName>
 		<szItemDesc>These rounds of 5.7mm hollow point ammunition have enhanced injury inflicting capabilities over the basic 5.7 and have retained most of its armor piercing capabilities.</szItemDesc>
 		<szBRName>5.7x28mm Box HP</szBRName>
-		<szBRDesc>Get the job done right the first time. You're kill-rate will be the best around if you use this 5.7mm Hollow Point ammunition.</szBRDesc>
+		<szBRDesc>Get the job done right the first time with this 5.7mm Hollow Point ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>361</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -44051,9 +44051,9 @@
 		<uiIndex>1457</uiIndex>
 		<szItemName>.50 BMG Box AP</szItemName>
 		<szLongItemName>.50 BMG Box, AP</szLongItemName>
-		<szItemDesc>This nice little box contains .50 BMG bullets.</szItemDesc>
+		<szItemDesc>A sturdy box of 15 humongous .50 BMG bullets.</szItemDesc>
 		<szBRName>.50 BMG Box AP</szBRName>
-		<szBRDesc>This nice little box contains 15 .50 BMG bullets.</szBRDesc>
+		<szBRDesc>This nice little box contains 15 .50 BMG armor piercing bullets.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>384</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
