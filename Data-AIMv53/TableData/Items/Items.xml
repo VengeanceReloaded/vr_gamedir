@@ -44098,9 +44098,9 @@
 		<uiIndex>1459</uiIndex>
 		<szItemName>4.6x30mm Box AP</szItemName>
 		<szLongItemName>4.6x30mm Box, AP</szLongItemName>
-		<szItemDesc>Specialized ammunition uniquely used by the HK MP-7.  Each bullet is about as large as a rifle round, and packs around the same punch.</szItemDesc>
+		<szItemDesc>Specialized ammunition originally created by HK for the MP-7 but now used for a limited amount of Personal Defense Weapons.</szItemDesc>
 		<szBRName>4.6x30mm Box AP</szBRName>
-		<szBRDesc>Specialized ammunition uniquely used by the HK MP-7.  Each bullet is about as large as a rifle round, and packs around the same punch.</szBRDesc>
+		<szBRDesc>Specialized ammunition used by the HK MP-7 and other PDW's.  Each bullet is about as large as a rifle round, and packs around the same punch.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>398</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -44121,9 +44121,9 @@
 		<uiIndex>1460</uiIndex>
 		<szItemName>4.6x30mm Box AET</szItemName>
 		<szLongItemName>4.6x30mm Box, AET</szLongItemName>
-		<szItemDesc>Specialized ammunition uniquely used by the HK MP-7.  Each bullet is about as large as a rifle round, and packs around the same punch.</szItemDesc>
+		<szItemDesc>Specialized ammunition used by the HK MP-7.  Each bullet is about as large as a rifle round, and packs around the same punch.</szItemDesc>
 		<szBRName>4.6x30mm Box AET</szBRName>
-		<szBRDesc>Specialized ammunition uniquely used by the HK MP-7.  Each bullet is about as large as a rifle round, and packs around the same punch.</szBRDesc>
+		<szBRDesc>Specialized Advanced Energy Transfer ammo for the HK MP-7 and other PDW's using the 4.6x30mm round.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>399</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
