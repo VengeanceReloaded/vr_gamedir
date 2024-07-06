@@ -1893,7 +1893,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>L10</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Trail_to_house</szDay>
+		<szDay>Loadscreens\LS_HnB_heli</szDay>
 		<szNight>Loadscreens\LS_Night_shack</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -2296,7 +2296,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>O2</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Forest_road_day</szDay>
+		<szDay>Loadscreens\LS_HnB_heli</szDay>
 		<szNight>Loadscreens\LS_Nightcopter</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
