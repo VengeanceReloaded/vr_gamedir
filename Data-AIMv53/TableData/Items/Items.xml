@@ -5531,9 +5531,9 @@
 		<uiIndex>180</uiIndex>
 		<szItemName>Spectra Helmet</szItemName>
 		<szLongItemName>Spectra Helmet</szLongItemName>
-		<szItemDesc>This light Spectra composite helmet, known for its anti-ballistic qualities,has an IR-absorbing black finish, cushioning foam, and an adjustable harness system with a leather head band and rubber chin strap.</szItemDesc>
+		<szItemDesc>A quality composite helmet designed for modern battlefield modular accessories, including a fitted mandible with vent plate for added blunt impact protection.</szItemDesc>
 		<szBRName>Spectra Helmet</szBRName>
-		<szBRDesc>This helmet is made from a light Spectra composite that is famous for its superior anti-ballistic qualities. It features an IR-absorbing black finish, cushioning foam and an adjustable harness system with a leather headband and rubber chin strap.</szBRDesc>
+		<szBRDesc>This helmet is made from a light Spectra composite that is famous for its superior anti-ballistic qualities. It features an IR-absorbing black finish, composite mandible with vent plate, cushioning foam and an adjustable harness system with a leather headband and rubber chin strap.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -31615,7 +31615,7 @@
 		<szLongItemName>Shovel</szLongItemName>
 		<szItemDesc>Perfect for digging your own grave, or hitting people over the head (and then dig their grave).</szItemDesc>
 		<szBRName>Shovel</szBRName>
-		<szBRDesc>If it was good in Verdun, it'll still be good enough for you.</szBRDesc>
+		<szBRDesc>A 3 way folding shovel, made from steel. Ideal for digging foxholes or filling sandbags.</szBRDesc>
 		<usItemClass>128</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1015</ubClassIndex>
