@@ -3191,9 +3191,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>93</uiIndex>
@@ -5533,7 +5530,7 @@
 		<szLongItemName>Spectra Helmet</szLongItemName>
 		<szItemDesc>A quality composite helmet designed for modern battlefield modular accessories, including a fitted mandible with vent plate for added blunt impact protection.</szItemDesc>
 		<szBRName>Spectra Helmet</szBRName>
-		<szBRDesc>This helmet is made from a light Spectra composite that is famous for its superior anti-ballistic qualities. It features an IR-absorbing black finish, composite mandible with vent plate, cushioning foam and an adjustable harness system with a leather headband and rubber chin strap.</szBRDesc>
+		<szBRDesc>This helmet is made from a light Spectra composite, famous for its superior anti-ballistic qualities. It features an IR-absorbing black finish, composite mandible with vent plate, cushioning foam and an adjustable harness system with a leather headband and rubber chin strap.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AvailableAttachmentPoint>2251799813685248</AvailableAttachmentPoint>	<!-- Armour Helmet - Face -->
@@ -5564,7 +5561,7 @@
 		<uiIndex>181</uiIndex>
 		<szItemName>Spec-18 Helmet</szItemName>
 		<szLongItemName>Treated Spectra Helmet</szLongItemName>
-		<szItemDesc>Dipped in Compound 18, this light Spectra composite helmet offers the maximum available amount of anti-ballistic protection.</szItemDesc>
+		<szItemDesc>Dipped in Compound 18, this light Spectra composite helmet offers improved anti-ballistic protection.</szItemDesc>
 		<szBRName>Treated Spectra Helmet</szBRName>
 		<szBRDesc>Not for sale at BR.</szBRDesc>
 		<usItemClass>2048</usItemClass>
