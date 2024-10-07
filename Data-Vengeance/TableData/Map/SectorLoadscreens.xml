@@ -1703,7 +1703,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Desert_mounds</szDay>
-		<szNight>Loadscreens\LS_Night_sunset</szNight>
+		<szNight>Loadscreens\LS_Plains_road_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -1723,7 +1723,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Desert_mounds</szDay>
-		<szNight>Loadscreens\LS_Night_sunset</szNight>
+		<szNight>Loadscreens\LS_Plains_road_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
