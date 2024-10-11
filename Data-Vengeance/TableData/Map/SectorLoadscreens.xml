@@ -806,10 +806,10 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>E14</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Bol_river</szDay>
+		<szDay>Loadscreens\LS_Bayou_Day</szDay>
 		<szNight>Loadscreens\LS_Swampedge_dusk</szNight>
 		<szDayAlt>Loadscreens\LS_Arulco_troop</szDayAlt>
-		<szNightAlt></szNightAlt>
+		<szNightAlt>Loadscreens\LS_Bayou_Night</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>79</uiIndex>
@@ -1299,7 +1299,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>H15</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Bol_river</szDay>
+		<szDay>Loadscreens\LS_Bayou_Day</szDay>
 		<szNight>Loadscreens\LS_Night_stream</szNight>
 		<szDayAlt>Loadscreens\Arulco_troop</szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -1935,8 +1935,8 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Rainforest</szDay>
 		<szNight>Loadscreens\LS_NightForest</szNight>
-		<szDayAlt>Loadscreens\LS_Bol_river</szDayAlt>
-		<szNightAlt>Loadscreens\LS_NightForest</szNightAlt>
+		<szDayAlt>Loadscreens\LS_Bayou_Day</szDayAlt>
+		<szNightAlt>Loadscreens\LS_Bayou_Night</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>191</uiIndex>
@@ -2096,7 +2096,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Arulco_troop</szDay>
 		<szNight>Loadscreens\LS_Night_stream</szNight>
-		<szDayAlt>Loadscreens\LS_Bol_river</szDayAlt>
+		<szDayAlt>Loadscreens\LS_Bayou_Day</szDayAlt>
 		<szNightAlt>Loadscreens\LS_Night_stream</szNightAlt>
 	</SECTOR>
 	<SECTOR>
