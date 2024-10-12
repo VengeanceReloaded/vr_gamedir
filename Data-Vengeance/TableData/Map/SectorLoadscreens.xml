@@ -324,7 +324,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Lakemouth_Day</szDay>
-		<szNight>Loadscreens\LS_Lakemouth</szNight>
+		<szNight>Loadscreens\LS_Lakemouth_Night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -485,7 +485,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Beachboat</szDay>
-		<szNight>Loadscreens\LS_Coast_dusk</szNight>
+		<szNight>Loadscreens\LS_Lakemouth_Night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -645,7 +645,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>D14</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Lakemouth</szDay>
+		<szDay>Loadscreens\LS_Lakemouth_Day</szDay>
 		<szNight>Loadscreens\LS_Dam_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
