@@ -58453,7 +58453,7 @@
 		<szLongItemName>CheyTac Intervention M200</szLongItemName>
 		<szItemDesc>Based on the EDM Arms Windrunner this relatively compact and light rifle holds the world record for best group at a distance, landing 3 bullets within 42 cm at 2,122 m firing its unique cartridge.</szItemDesc>
 		<szBRName>CheyTac Intervention M200</szBRName>
-		<szBRDesc>Combined with its ability to easily engage targets at 2500 yards and CheyTac’s patented Balance Flight Projectiles, you have a rifle that delivers accuracy with less bullet drop and drift than any other in the world.</szBRDesc>
+		<szBRDesc>Combined with its ability to easily engage targets at 2500 yards and CheyTac's patented Balance Flight Projectiles, you have a rifle that delivers accuracy with less bullet drop and drift than any other in the world.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2114</ubClassIndex>
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
@@ -64500,10 +64500,6 @@
 		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2403</uiIndex>
@@ -64534,10 +64530,6 @@
 		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2404</uiIndex>
@@ -64568,10 +64560,6 @@
 		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2405</uiIndex>
@@ -64600,10 +64588,6 @@
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2406</uiIndex>
@@ -64634,10 +64618,6 @@
 		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2407</uiIndex>
@@ -64670,10 +64650,6 @@
 		<PercentAPReduction>-20</PercentAPReduction>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2408</uiIndex>
@@ -64704,10 +64680,6 @@
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
 		<BR_UsedInventory>2</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2409</uiIndex>
@@ -64737,10 +64709,6 @@
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
 		<BR_UsedInventory>1</BR_UsedInventory>		
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2410</uiIndex>
@@ -64769,11 +64737,7 @@
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2465</buddyitem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2411</uiIndex>
@@ -64835,10 +64799,6 @@
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2413</uiIndex>
@@ -64867,10 +64827,6 @@
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2414</uiIndex>
@@ -64899,10 +64855,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2415</uiIndex>
@@ -64931,10 +64883,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2416</uiIndex>
