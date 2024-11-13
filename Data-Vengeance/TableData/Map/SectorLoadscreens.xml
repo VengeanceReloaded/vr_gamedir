@@ -444,7 +444,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>C10</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Skull_in_dirt</szDay>
+		<szDay>Loadscreens\LS_Killing_Fields_day</szDay>
 		<szNight>Loadscreens\LS_Night_shack</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -605,7 +605,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>D10</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Skull_in_dirt</szDay>
+		<szDay>Loadscreens\LS_Killing_Fields_day</szDay>
 		<szNight>Loadscreens\LS_Night_shack</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
