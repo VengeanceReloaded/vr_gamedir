@@ -42,8 +42,8 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>A2</szLocation>		
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Chit_horizon</szDay>
-		<szNight>Loadscreens\LS_NightChitzena</szNight>
+		<szDay>Loadscreens\LS_Beach_huts_day</szDay>
+		<szNight>Loadscreens\LS_Bamboo_huts_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>		
 	</SECTOR>	
@@ -204,7 +204,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Bamboo_village</szDay>
-		<szNight>Loadscreens\LS_NightChitzena</szNight>
+		<szNight>Loadscreens\LS_Bamboo_huts_night</szNight>
 		<szDayAlt>Loadscreens\LS_Mine_entrance</szDayAlt>
 		<szNightAlt></szNightAlt>		
 	</SECTOR>
@@ -2386,7 +2386,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>O11</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayChitzena</szDay>
+		<szDay>Loadscreens\LS_Beach_huts_day</szDay>
 		<szNight>Loadscreens\LS_Coast_dusk</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -2397,7 +2397,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Tropical_hut</szDay>
-		<szNight>Loadscreens\LS_NightChitzena</szNight>
+		<szNight>Loadscreens\LS_Bamboo_huts_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -2406,7 +2406,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>O13</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayChitzena</szDay>
+		<szDay>Loadscreens\LS_Beach_huts_day</szDay>
 		<szNight>Loadscreens\LS_Sundown_water</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
