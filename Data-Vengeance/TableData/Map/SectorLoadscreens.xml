@@ -32,8 +32,8 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>A1</szLocation>		
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Beach</szDay>
-		<szNight>Loadscreens\LS_Coast_dusk</szNight>
+		<szDay>Loadscreens\LS_Beach_day</szDay>
+		<szNight>Loadscreens\LS_Relic_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>		
 	</SECTOR>	
@@ -686,8 +686,8 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>E2</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Beach</szDay>
-		<szNight>Loadscreens\LS_Coast_dusk</szNight>
+		<szDay>Loadscreens\LS_Beach_day</szDay>
+		<szNight>Loadscreens\LS_Beach_night</szNight>
 		<szDayAlt>Loadscreens\LS_Rocky_shore</szDayAlt>
 		<szNightAlt>Loadscreens\LS_Coast_dusk</szNightAlt>
 	</SECTOR>
@@ -2356,8 +2356,8 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>O8</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Beach</szDay>
-		<szNight>Loadscreens\LS_Coast_dusk</szNight>
+		<szDay>Loadscreens\LS_Bamboo_stone</szDay>
+		<szNight>Loadscreens\LS_Beach_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
