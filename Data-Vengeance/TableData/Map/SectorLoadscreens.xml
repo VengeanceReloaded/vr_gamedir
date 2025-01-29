@@ -2064,7 +2064,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>M11</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Bridge_to_Balime</szDay>
+		<szDay>Loadscreens\LS_Bridge_tank_day</szDay>
 		<szNight>Loadscreens\LS_Bridge_tank_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -2326,7 +2326,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>O5</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Bridge_to_Balime</szDay>
+		<szDay>Loadscreens\LS_Bridge_tank_day</szDay>
 		<szNight>Loadscreens\LS_Bridge_tank_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
