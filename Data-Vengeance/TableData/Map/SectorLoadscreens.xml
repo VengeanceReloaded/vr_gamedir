@@ -2217,7 +2217,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Island_jetty</szDay>
 		<szNight>Loadscreens\LS_Coast_dusk</szNight>
-		<szDayAlt>Loadscreens\LS_Tropical_hut</szDayAlt>
+		<szDayAlt>Loadscreens\LS_Beach_huts_day</szDayAlt>
 		<szNightAlt>Loadscreens\LS_Rocky_shore</szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -2396,7 +2396,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>O12</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Tropical_hut</szDay>
+		<szDay>Loadscreens\LS_Beach_huts_day</szDay>
 		<szNight>Loadscreens\LS_Bamboo_huts_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
