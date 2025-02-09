@@ -509,9 +509,6 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>12</DamageChance>
 		<DirtIncreaseFactor>24.0</DirtIncreaseFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>9</uiIndex>
@@ -58736,8 +58733,8 @@
 		<szBRDesc>This cult favorite from AMT has an extended 7" barrel and comes with the sought after laserlock sight from SureFire. Unlike Arnie, once these are gone, they won't be back.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2128</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
-		<AvailableAttachmentPoint>256</AvailableAttachmentPoint>	<!-- Muzzle - Pistol Suppressor -->		
+		<AvailableAttachmentPoint>256</AvailableAttachmentPoint>	<!-- Muzzle - Pistol Suppressor -->	
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->		
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>553</ubGraphicNum>
