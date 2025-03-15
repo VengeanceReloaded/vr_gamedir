@@ -22169,9 +22169,6 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>13</DamageChance>
 		<DirtIncreaseFactor>30.0</DirtIncreaseFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>748</uiIndex>
@@ -22183,7 +22180,12 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>748</ubClassIndex>
-		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>		<!-- Muzzle - AR Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>67108864</AvailableAttachmentPoint>	<!-- UB - Heavy Bipod -->
+		<AvailableAttachmentPoint>2147483648</AvailableAttachmentPoint>		<!-- Adapter - 5.56x45 C-Mag -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>73</ubGraphicNum>
@@ -22203,7 +22205,7 @@
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
 		<Electronic>1</Electronic>
-		<BR_ROF>750</BR_ROF>
+		<BR_ROF>800</BR_ROF>
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>120</BestLaserRange>
 		<AimBonus>15</AimBonus>
@@ -28125,11 +28127,12 @@
 		<uiIndex>912</uiIndex>
 		<szItemName>OICW Launcher</szItemName>
 		<szLongItemName>OICW Grenade Launcher</szLongItemName>
-		<szItemDesc>The XM-29 OICW comes with an integrated 20mm grenade launcher.</szItemDesc>
+		<szItemDesc>This is the internal launching cannon component found on the experimental OICW. It launches 20mm projectiles.</szItemDesc>
 		<szBRName>OICW Grenade Launcher</szBRName>
-		<szBRDesc>The XM-29 OICW comes with an integrated 20mm grenade launcher.</szBRDesc>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>912</ubClassIndex>
 		<ubCursor>20</ubCursor>
@@ -28150,15 +28153,12 @@
 		<NotInEditor>1</NotInEditor>
 		<Inseparable>1</Inseparable>
 		<BR_ROF>18</BR_ROF>
-		<BR_NewInventory>1</BR_NewInventory>
+		<BR_NewInventory>0</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>913</uiIndex>
@@ -29327,7 +29327,8 @@
 		<szBRDesc>A six-shot magazine of 20mm high explosive fragmentation grenades.  Fun for the whole family!</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
-		<nasAttachmentClass>1024</nasAttachmentClass>
+		<nasAttachmentClass>128</nasAttachmentClass>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>33</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -29357,6 +29358,7 @@
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>34</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -29386,6 +29388,7 @@
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>35</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -29415,6 +29418,7 @@
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>36</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -29444,6 +29448,7 @@
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>37</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -29473,6 +29478,7 @@
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>38</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
