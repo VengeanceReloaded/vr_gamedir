@@ -28019,9 +28019,10 @@
 		<szLongItemName>AICW Grenade Launcher</szLongItemName>
 		<szItemDesc>Operating like a computer triggered Roman candle, Metal Storm's grenade system is perhaps the lightest and least bulky complete multi-shot launcher around.</szItemDesc>
 		<szBRName>AICW Grenade Launcher</szBRName>
-		<szBRDesc>The AICW comes with an integrated 40mm grenade launcher.</szBRDesc>
+		<szBRDesc>Not for sale through BR. Internal item.</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<nasLayoutClass>2</nasLayoutClass>
 		<ubClassIndex>909</ubClassIndex>
 		<ubCursor>20</ubCursor>
@@ -30255,12 +30256,13 @@
 		<uiIndex>983</uiIndex>
 		<szItemName>40mm MS Frag</szItemName>
 		<szLongItemName>40mm Metal Storm HE</szLongItemName>
-		<szItemDesc>Three rounds of High Explosive (HE) death configured for the AICW's hi-tech integrated launcher.</szItemDesc>
+		<szItemDesc>Three rounds of High Explosive death configured for the AICW's hi-tech integrated launcher.</szItemDesc>
 		<szBRName>40mm Metal Storm HE</szBRName>
-		<szBRDesc>Take the load off the team grenadier with Metal Storm's 40mm multi shot grenade system. Three rounds of High Explosive (HE) death configured for the AICW's hi-tech integrated launcher.</szBRDesc>
+		<szBRDesc>Take the load off the team grenadier with a magazine of 3 Metal Storm's 40mm multi shot grenades for the AICW prototype.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>64</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -30272,15 +30274,11 @@
 		<ubCoolness>10</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>984</uiIndex>
@@ -30288,10 +30286,11 @@
 		<szLongItemName>40mm Metal Storm Tear Gas</szLongItemName>
 		<szItemDesc>Intended for riot control, we're sure you'll find some other use for this 3 round stack of 40mm tear gas.</szItemDesc>
 		<szBRName>40mm Metal Storm Tear Gas</szBRName>
-		<szBRDesc>Take the load off the team grenadier with Metal Storm's 40mm multi shot grenade system. Three rounds of tear gas should be enough to quickly pacify any threat</szBRDesc>
+		<szBRDesc>Three rounds of tear gas grenades for your AICW should be enough to quickly pacify any threat</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>65</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -30308,9 +30307,6 @@
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>985</uiIndex>
@@ -30318,10 +30314,11 @@
 		<szLongItemName>40mm Metal Storm Smoke</szLongItemName>
 		<szItemDesc>Stack contains 3 rounds of 40mm Smoke, best used for covering infiltrations and extractions.</szItemDesc>
 		<szBRName>40mm Metal Storm Smoke</szBRName>
-		<szBRDesc>Quickly lay down a long wall of blinding smoke with a three round stack of 40mm Metal Storm enabled 40mm smoke grenades.</szBRDesc>
+		<szBRDesc>Quickly lay down a long wall of blinding smoke with a three round stack of 40mm Metal Storm smoke grenades for your AICW.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>66</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -30338,9 +30335,6 @@
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>986</uiIndex>
@@ -30348,10 +30342,11 @@
 		<szLongItemName>40mm Metal Storm Mustard Gas</szLongItemName>
 		<szItemDesc>This stack contains 3 rounds of 40mm Mustard Gas. Caution: Check wind before use.</szItemDesc>
 		<szBRName>40mm Metal Storm Mustard Gas</szBRName>
-		<szBRDesc>These things shouldn't exist, but here we have a three round stack of 40mm grenades containing what appears to be Mustard Gas. Where in the world did these things come from, we won't tell.</szBRDesc>
+		<szBRDesc>These things shouldn't exist, but here we have a three round stack of 40mm grenades for your AICW. Where in the world did these things come from? We won't tell.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>67</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -30368,9 +30363,6 @@
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>987</uiIndex>
@@ -30382,6 +30374,7 @@
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>68</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -30408,10 +30401,11 @@
 		<szLongItemName>40mm Metal Storm Stun</szLongItemName>
 		<szItemDesc>Stack contains 3 rounds of 40mm stun. For those times when you need the target down but alive.</szItemDesc>
 		<szBRName>40mm Metal Storm Stun</szBRName>
-		<szBRDesc>Knock the wind out of any line of infantry with this compact 3 round stack of stun grenades made possible by Metal Storm's patented electronic firing system. Caution: these are only stun weapons, they only buy time.</szBRDesc>
+		<szBRDesc>Knock the wind out of any line of infantry with this compact 3 round stack of stun grenades made possible by Metal Storm's patented electronic firing system for the AICW.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>69</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -30442,6 +30436,7 @@
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>70</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -30558,6 +30553,7 @@
 		<usItemClass>256</usItemClass>
 		<AttachmentClass>1024</AttachmentClass>
 		<nasAttachmentClass>1024</nasAttachmentClass>
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>74</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
