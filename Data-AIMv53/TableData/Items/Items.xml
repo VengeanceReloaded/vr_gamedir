@@ -22173,10 +22173,10 @@
 	<ITEM>
 		<uiIndex>748</uiIndex>
 		<szItemName>OICW</szItemName>
-		<szLongItemName>XM-29 OICW</szLongItemName>
-		<szItemDesc>The XM-29 is part 20mm magazine-fed grenade launcher, part G36 5.56mm assault rifle, and all kinds of whoop-ass.</szItemDesc>
+		<szLongItemName>XM29 OICW</szLongItemName>
+		<szItemDesc>The XM29 is part 20mm magazine-fed grenade launcher, part G36 5.56mm assault rifle, and all kinds of whoop-ass.</szItemDesc>
 		<szBRName>XM-29 OICW</szBRName>
-		<szBRDesc>The XM-29 is a combination weapon, part 20mm magazine-fed grenade launcher and part 5.56mm assault rifle.  Both parts are assembled into the single one-man portable unit with a built-in target acquisition / fire control system (TA/FCS).</szBRDesc>
+		<szBRDesc>The XM29 is a combination weapon, part 20mm magazine-fed grenade launcher and part 5.56mm assault rifle.  Both parts are assembled into the single one-man portable unit with a built-in target acquisition / fire control system (TA/FCS).</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>748</ubClassIndex>
@@ -27980,17 +27980,17 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>908</uiIndex>
-		<szItemName>XM-25</szItemName>
-		<szLongItemName>XM-25 Grenade Launcher</szLongItemName>
-		<szItemDesc>Compared to the XM29, the XM25 dispenses with the complexity and weight of having an integrated Kinetic Energy weapon, and is purely a magazine fed, multi-shot grenade launcher.</szItemDesc>
-		<szBRName>XM-25 Grenade Launcher</szBRName>
-		<szBRDesc>Who needs bullets when you have grenades? The XM-25 is the stand alone magazine fed grenade system spawned by the revamped US OICW program. To the enemies of freedom, there is still nowhere to hide.</szBRDesc>
+		<szItemName>XM25 CTDE</szItemName>
+		<szLongItemName>XM25 Grenade Launcher</szLongItemName>
+		<szItemDesc>Compared to the XM29, the XM25 dispenses with the complexity and weight of having an integrated kinetic energy weapon, and is purely a magazine fed, multi-shot grenade launcher.</szItemDesc>
+		<szBRName>XM25 Grenade Launcher</szBRName>
+		<szBRDesc>Who needs bullets when you have grenades? The XM25 is the stand alone magazine fed grenade system spawned by the revamped US OICW program. To the enemies of freedom, there is still nowhere to hide.</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>908</ubClassIndex>
 		<ubCursor>20</ubCursor>
 		<ubGraphicNum>168</ubGraphicNum>
-		<ubWeight>63</ubWeight>
+		<ubWeight>62</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>3500</usPrice>
 		<ubCoolness>9</ubCoolness>
@@ -75797,12 +75797,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2939</uiIndex>
-		<szItemName>mod. GL Collimator</szItemName>
-		<szLongItemName>mod. Grenade Launcher Collimator</szLongItemName>
+		<szItemName>GL Collimator</szItemName>
+		<szLongItemName>Grenade Launcher Collimator</szLongItemName>
 		<szItemDesc>A red dot sight that can be mounted to certain grenade launchers to improve sight range and target acquisition.</szItemDesc>
-		<szBRName>mod. Grenade Launcher Collimator</szBRName>
-		<szBRDesc>Not for sale.</szBRDesc>
+		<szBRName>Grenade Launcher Collimator</szBRName>
+		<szBRDesc>A red dot sight that can be mounted to certain grenade launchers to improve sight range and target acquisition.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
+		<AttachmentClass>16</AttachmentClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>219</ubGraphicNum>
@@ -75810,23 +75811,62 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>14</ItemSize>
 		<usPrice>2500</usPrice>
+		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<WaterDamages>1</WaterDamages>
+		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
-		<Inseparable>1</Inseparable>
-		<PercentAPReduction>10</PercentAPReduction>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<PercentAPReduction>15</PercentAPReduction>
+		<DayVisionRangeBonus>35</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS>
+			<FlatBase>10</FlatBase>
+			<PercentBase>0</PercentBase>
+			<FlatAim>0</FlatAim>
+			<PercentCap>0</PercentCap>
+			<PercentHandling>0</PercentHandling>
+			<PercentTargetTrackingSpeed>0</PercentTargetTrackingSpeed>
+			<PercentDropCompensation>0</PercentDropCompensation>
+			<PercentMaxCounterForce>0</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
+			<PercentCounterForceFrequency>0</PercentCounterForceFrequency>
+			<AimLevels>-1</AimLevels>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<FlatBase>10</FlatBase>
+			<PercentBase>0</PercentBase>
+			<FlatAim>0</FlatAim>
+			<PercentCap>0</PercentCap>
+			<PercentHandling>0</PercentHandling>
+			<PercentTargetTrackingSpeed>0</PercentTargetTrackingSpeed>
+			<PercentDropCompensation>0</PercentDropCompensation>
+			<PercentMaxCounterForce>0</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
+			<PercentCounterForceFrequency>0</PercentCounterForceFrequency>
+			<AimLevels>-1</AimLevels>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<FlatBase>10</FlatBase>
+			<PercentBase>0</PercentBase>
+			<FlatAim>0</FlatAim>
+			<PercentCap>0</PercentCap>
+			<PercentHandling>0</PercentHandling>
+			<PercentTargetTrackingSpeed>0</PercentTargetTrackingSpeed>
+			<PercentDropCompensation>0</PercentDropCompensation>
+			<PercentMaxCounterForce>0</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
+			<PercentCounterForceFrequency>0</PercentCounterForceFrequency>
+			<AimLevels>-1</AimLevels>
+		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2940</uiIndex>

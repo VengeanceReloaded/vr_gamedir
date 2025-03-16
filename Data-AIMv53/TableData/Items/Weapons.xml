@@ -11552,7 +11552,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>908</uiIndex>
-		<szWeaponName>XM-25 Grenade Launcher</szWeaponName>
+		<szWeaponName>XM25 Grenade Launcher</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubReadyTime>11</ubReadyTime>
 		<ubShotsPer4Turns>7.43</ubShotsPer4Turns>
@@ -11573,9 +11573,9 @@
 		<MaxDistForMessyDeath>9</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
 		<Handling>11</Handling>
-		<usOverheatingJamThreshold>30000</usOverheatingJamThreshold>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>100</usOverheatingSingleShotTemperature>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>909</uiIndex>
