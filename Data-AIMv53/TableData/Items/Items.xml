@@ -17807,9 +17807,9 @@
 		<uiIndex>639</uiIndex>
 		<szItemName>DSR-1</szItemName>
 		<szLongItemName>DSR-1</szLongItemName>
-		<szItemDesc>This German made sniper rifle is able to land a .338 lapua at 1,500m with precition. It is used by several armed forces, law enforcement groups and counter-terrorist groups, including the German GSG 9.</szItemDesc>
+		<szItemDesc>This German made sniper rifle is able to land a .338 lapua at 1,500m with precision. It is used by several armed forces, law enforcement groups and counter-terrorist groups, including the German GSG 9.</szItemDesc>
 		<szBRName>DSR-1</szBRName>
-		<szBRDesc>With a free floating barrel, muzzle break, aluminum hand guards, and a bitchin' futuristic design, it's one of the coolest damn things we've ever seen. Oh, and did we mention that it sports accuracy once thought impossible to attain with conventional firearms?</szBRDesc>
+		<szBRDesc>With a free floating barrel, muzzle break, aluminium hand guards, and a bitchin' futuristic design, it's one of the coolest damn things we've ever seen. Oh, and did we mention that it sports accuracy once thought impossible to attain with conventional firearms?</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>639</ubClassIndex>
@@ -36709,7 +36709,7 @@
 		<szLongItemName>PEM Scope</szLongItemName>
 		<szItemDesc>The PE or PEM was a Russian WW-II era scope originally based on a German design for Russian sniper rifles.</szItemDesc>
 		<szBRName>PEM Scope</szBRName>
-		<szBRDesc>Simply THE scope to mount onto the Mosin-Nagant rifle.</szBRDesc>
+		<szBRDesc>A genuine vintage 1930's PEM scope ideal for collectors or owners of the Mosin-Nagat rifle.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>16</AttachmentClass>	
 		<nasAttachmentClass>16</nasAttachmentClass>
@@ -57313,11 +57313,15 @@
 		<uiIndex>2095</uiIndex>
 		<szItemName>Beowulf C-Mag</szItemName>
 		<szLongItemName>.50 Beowulf Rifle C-Mag</szLongItemName>
-		<szItemDesc>Designed to slay "monsters" in a single blow, the .50 Beowulf rifle from Alexander Arms will make you a legend in your own time; heroic deeds are just moments away.</szItemDesc>
+		<szItemDesc>Bill Alexander's powerful .50 rifle is now even more impressive with this beta mag conversion.</szItemDesc>
 		<szBRName>Beowulf Rifle C-Mag</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2095</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
@@ -75075,7 +75079,7 @@
 		<uiIndex>2921</uiIndex>
 		<szItemName>mod. BORS</szItemName>
 		<szLongItemName>mod. Barrett Optical Ranging System</szLongItemName>
-		<szItemDesc>An advanced ballistic target computer that can be attached to certain long range sniper rifles. This one has been modified to permanently stick to a gun. Since the BORS is mounted directly to the scope and coupled with the elevation knobs, the computer can interact with the scope by simply turning the elevation knob until the LCD displays the targetтАЩs range.</szItemDesc>
+		<szItemDesc>This advanced ballistic target computer has been modified to permanently attach to rifles. Since the BORS is mounted directly to the scope and coupled with the elevation knobs, the computer can interact with the scope by simply turning the elevation knob until the LCD displays the targetтАЩs range.</szItemDesc>
 		<szBRName>mod. Barrett Optical Ranging System</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -76453,7 +76457,7 @@
 		<uiIndex>2956</uiIndex>
 		<szItemName>mod. No.32 Scope</szItemName>
 		<szLongItemName>mod. Scope, No.32</szLongItemName>
-		<szItemDesc>British scope used during WW-II.</szItemDesc>
+		<szItemDesc>A British scope used during WW-II often attached to the Lee Enfield rifle.</szItemDesc>
 		<szBRName>mod. Scope, No.32</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -76523,7 +76527,7 @@
 		<uiIndex>2958</uiIndex>
 		<szItemName>mod. PEM</szItemName>
 		<szLongItemName>mod. Scope, PEM</szLongItemName>
-		<szItemDesc>Russian WW-II era scope.</szItemDesc>
+		<szItemDesc>A Russian WW-II era scope.</szItemDesc>
 		<szBRName>mod. Scope, PEM</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
