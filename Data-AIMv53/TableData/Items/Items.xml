@@ -22144,7 +22144,6 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>747</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
-        <AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>	<!-- Sights - Match Sights -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
@@ -53693,16 +53692,16 @@
 		<szLongItemName>Whisper Kitty</szLongItemName>
 		<szItemDesc>The Whisper Kitty is a new generation silenced rifle for black ops, that uses the rare 7.62x37mm subsonic bullet. It's fitted with a picatinny rail, allowing a wide variety of attachments.</szItemDesc>
 		<szBRName>Whisper Kitty</szBRName>
-		<szBRDesc>The Whisper Kitty is a new generation silenced rifle for black ops using 7.62x37mm subsonic bullets. It's fitted with a picatinny rail, allowing a wide variety of attachments.</szBRDesc>
+		<szBRDesc>Not for sale. Merge item.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2009</ubClassIndex>
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>				<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>				<!-- Laser - Rifle Lam -->
-		<AvailableAttachmentPoint>2048</AvailableAttachmentPoint>			<!-- Muzzle - Sniper Suppressor -->
-		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
@@ -57656,7 +57655,6 @@
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2104</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
-        <AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>	<!-- Sights - Match Sights -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
@@ -57688,14 +57686,13 @@
 	<ITEM>
 		<uiIndex>2105</uiIndex>
 		<szItemName>Puma .454</szItemName>
-		<szLongItemName>Puma .454</szLongItemName>
+		<szLongItemName>Rossi Puma .454</szLongItemName>
 		<szItemDesc>This Brazilian Winchester clone uses .454 Casull rounds. This big bore rifle is exactly the right gun to hunt big bears or elephants.</szItemDesc>
 		<szBRName>Puma .454</szBRName>
 		<szBRDesc>An old time buffalo hunter's dream, or possibly the salvation of the old pioneer, trapper, or Indian War soldier. This is a 300 - 500 yard brush gun, holds 8 rounds of magnum rifle cartridge. </szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2105</ubClassIndex>
 		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
-        <AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>	<!-- Sights - Match Sights -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
@@ -57720,9 +57717,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>25</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2106</uiIndex>
