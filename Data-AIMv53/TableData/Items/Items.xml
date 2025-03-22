@@ -28096,9 +28096,9 @@
 		<uiIndex>911</uiIndex>
 		<szItemName>GP-25 Launcher</szItemName>
 		<szLongItemName>GP-25 Kostyor Grenade Launcher (Built-in)</szLongItemName>
-		<szItemDesc>This model of the Groza comes with an integrated 40mm GP-25 grenade launcher. The GP-25 Kostyor fires 40mm VOG-25 and VOG-25P grenades.</szItemDesc>
+		<szItemDesc>This is the integrated GP-25 grenade launcher of the OTs-14 Groza. The GP-25 Kostyor fires 40mm VOG-25 and VOG-25P grenades.</szItemDesc>
 		<szBRName>GP-25 Grenade Launcher (Built-in)</szBRName>
-		<szBRDesc>This model of the Groza comes with an integrated 40mm GP-25 Kostyor grenade launcher.</szBRDesc>
+		<szBRDesc>Not for sale, internal item.</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -28119,7 +28119,7 @@
 		<NotInEditor>1</NotInEditor>
 		<Inseparable>1</Inseparable>
 		<BR_ROF>12</BR_ROF>
-		<BR_NewInventory>1</BR_NewInventory>
+		<BR_NewInventory>0</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
