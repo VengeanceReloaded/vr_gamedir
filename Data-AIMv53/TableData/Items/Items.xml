@@ -17465,7 +17465,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>630</uiIndex>
-		<szItemName>SR-25</szItemName>
+		<szItemName>KAC SR-25</szItemName>
 		<szLongItemName>Knight Stoner Rifle-25</szLongItemName>
 		<szItemDesc>Made by the Knight's Armament Company, the KAC SR-25M can be considered a match version of the AR10 rifle. This DMR is fires 7.62x51 nato, giving it quite the range and destructive power.</szItemDesc>
 		<szBRName>Knight Stoner Rifle-25</szBRName>
@@ -17473,10 +17473,12 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>630</ubClassIndex>
+		<AvailableAttachmentPoint>2048</AvailableAttachmentPoint>		<!-- Muzzle - Sniper Suppressor -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>253</ubGraphicNum>
-		<ubWeight>47</ubWeight>
+		<ubWeight>48</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>8840</usPrice>
 		<ubCoolness>7</ubCoolness>
@@ -17635,7 +17637,9 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>634</ubClassIndex>
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->	
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>133</ubGraphicNum>
 		<ubWeight>62</ubWeight>
@@ -17654,7 +17658,7 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>22</BR_ROF>
-		<DefaultAttachment>1007</DefaultAttachment>
+		<DefaultAttachment>208</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>50.0</DirtIncreaseFactor>
@@ -19269,8 +19273,10 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>674</ubClassIndex>
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->		
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>67</ubGraphicNum>
 		<ubWeight>64</ubWeight>
