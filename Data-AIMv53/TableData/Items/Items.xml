@@ -29246,9 +29246,6 @@
 		<SnowCamoBonus>-15</SnowCamoBonus>
 		<StealthBonus>-15</StealthBonus>
 		<ProjectionFactor>3.0</ProjectionFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>950</uiIndex>
@@ -29289,9 +29286,6 @@
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
 		<NeedsBatteries>1</NeedsBatteries>
 		<ProjectionFactor>3.0</ProjectionFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>951</uiIndex>
@@ -29320,9 +29314,6 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>952</uiIndex>
@@ -29347,12 +29338,11 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>953</uiIndex>
@@ -29380,9 +29370,6 @@
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>954</uiIndex>
@@ -29407,12 +29394,11 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>955</uiIndex>
@@ -29437,12 +29423,11 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>956</uiIndex>
@@ -29467,12 +29452,11 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
+		<BR_UsedInventory>0</BR_UsedInventory>
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>957</uiIndex>
@@ -29497,13 +29481,11 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<buddyitem>2466</buddyitem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>958</uiIndex>
@@ -29527,12 +29509,10 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>959</uiIndex>
@@ -29559,9 +29539,6 @@
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>960</uiIndex>
@@ -29585,12 +29562,10 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>961</uiIndex>
@@ -29614,12 +29589,10 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>962</uiIndex>
@@ -29643,12 +29616,10 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>963</uiIndex>
@@ -29671,13 +29642,11 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<buddyitem>2466</buddyitem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>964</uiIndex>
@@ -29703,13 +29672,9 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>965</uiIndex>
@@ -29734,14 +29699,9 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>966</uiIndex>
@@ -29771,9 +29731,6 @@
 		<BigGunList>1</BigGunList>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>967</uiIndex>
@@ -29798,12 +29755,10 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>968</uiIndex>
@@ -29828,12 +29783,10 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>969</uiIndex>
@@ -29858,12 +29811,10 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>3</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>970</uiIndex>
@@ -29891,12 +29842,10 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>971</uiIndex>
@@ -29919,14 +29868,11 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>972</uiIndex>
@@ -29952,9 +29898,6 @@
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>973</uiIndex>
@@ -29981,11 +29924,7 @@
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>974</uiIndex>
@@ -30009,9 +29948,8 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<GLGrenade>1</GLGrenade>
-		<AttachmentSystem>1</AttachmentSystem>
+		<AttachmentSystem>2</AttachmentSystem>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
@@ -30037,8 +29975,7 @@
 		<BigGunList>1</BigGunList>
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
+		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
@@ -30071,9 +30008,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>977</uiIndex>
@@ -30104,9 +30038,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>978</uiIndex>
@@ -30137,9 +30068,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>979</uiIndex>
@@ -30191,7 +30119,6 @@
 		<BigGunList>1</BigGunList>
 		<GLGrenade>1</GLGrenade>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
@@ -30223,7 +30150,6 @@
 		<BigGunList>1</BigGunList>
 		<GLGrenade>1</GLGrenade>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
@@ -30249,13 +30175,11 @@
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>983</uiIndex>
@@ -30280,6 +30204,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
@@ -30308,6 +30233,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
@@ -30336,6 +30262,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>2</BR_NewInventory>
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
@@ -30396,9 +30323,6 @@
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>988</uiIndex>
@@ -30423,13 +30347,11 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>989</uiIndex>
@@ -30456,9 +30378,6 @@
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>990</uiIndex>
@@ -30484,9 +30403,6 @@
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>991</uiIndex>
@@ -30515,9 +30431,6 @@
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>992</uiIndex>
@@ -30544,9 +30457,6 @@
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>993</uiIndex>
@@ -30574,9 +30484,6 @@
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>994</uiIndex>
@@ -30609,9 +30516,6 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>995</uiIndex>
@@ -30645,9 +30549,6 @@
 		<Flare>1</Flare>
 		<buddyitem>2457</buddyitem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>996</uiIndex>
@@ -58480,11 +58381,11 @@
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>		<!-- Muzzle - AR Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>16384</AvailableAttachmentPoint>		<!-- Muzzle - Rifle Grenade -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
-		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
-		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
@@ -65528,9 +65429,6 @@
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>5</BR_NewInventory>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2455</uiIndex>
@@ -65575,9 +65473,6 @@
 		<ubClassIndex>142</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
 		<buddyitem>2201</buddyitem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2457</uiIndex>
@@ -65587,9 +65482,6 @@
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>179</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2458</uiIndex>
@@ -65627,9 +65519,6 @@
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>181</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2460</uiIndex>
@@ -65639,9 +65528,6 @@
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>182</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2461</uiIndex>
@@ -65652,9 +65538,6 @@
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>183</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>		
 		<uiIndex>2462</uiIndex>
@@ -65679,9 +65562,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>0</Repairable>
 		<HiddenAddon>1</HiddenAddon>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2463</uiIndex>
@@ -65706,9 +65586,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>0</Repairable>
 		<HiddenAddon>1</HiddenAddon>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2464</uiIndex>
@@ -65747,9 +65624,6 @@
 		<ubClassIndex>187</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2466</uiIndex>
@@ -65760,9 +65634,6 @@
 		<ubClassIndex>188</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2467</uiIndex>
@@ -65793,9 +65664,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2468</uiIndex>
@@ -65819,9 +65687,6 @@
 		<BigGunList>1</BigGunList>
 		<ItemFlag>536870912</ItemFlag>
 		<HiddenAddon>1</HiddenAddon>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2469</uiIndex>
@@ -75153,9 +75018,6 @@
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>10</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2923</uiIndex>
@@ -75199,9 +75061,6 @@
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2924</uiIndex>
@@ -75244,9 +75103,6 @@
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2925</uiIndex>
@@ -75289,9 +75145,6 @@
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2926</uiIndex>
@@ -75333,9 +75186,6 @@
 		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2927</uiIndex>
@@ -75379,9 +75229,6 @@
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2928</uiIndex>
@@ -75418,9 +75265,6 @@
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2929</uiIndex>
@@ -75458,9 +75302,6 @@
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2930</uiIndex>
@@ -75505,9 +75346,6 @@
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2931</uiIndex>
@@ -75550,9 +75388,6 @@
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<AttachmentSystem>1</AttachmentSystem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2932</uiIndex>
@@ -75656,9 +75491,6 @@
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<AttachmentSystem>1</AttachmentSystem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2935</uiIndex>
@@ -75694,9 +75526,6 @@
 		<SnowCamoBonus>-6</SnowCamoBonus>
 		<StealthBonus>-6</StealthBonus>
 		<AttachmentSystem>1</AttachmentSystem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2936</uiIndex>
@@ -75733,9 +75562,6 @@
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
 		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
 		<AttachmentSystem>1</AttachmentSystem>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2937</uiIndex>
@@ -75762,9 +75588,6 @@
 		<Duckbill>1</Duckbill>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2938</uiIndex>
@@ -75791,9 +75614,6 @@
 		<ToHitBonus>1</ToHitBonus>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2939</uiIndex>
