@@ -19631,7 +19631,7 @@
 		<ubGraphicNum>201</ubGraphicNum>
 		<ubWeight>43</ubWeight>
 		<ItemSize>8</ItemSize>
-		<usPrice>3630</usPrice>
+		<usPrice>3600</usPrice>
 		<ubCoolness>6</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>-2</bRepairEase>
@@ -19642,7 +19642,6 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<DefaultAttachment>1181</DefaultAttachment>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>0</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
