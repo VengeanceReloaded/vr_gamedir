@@ -23032,16 +23032,23 @@
 		<uiIndex>769</uiIndex>
 		<szItemName>C7CT</szItemName>
 		<szLongItemName>Colt Canada C7CT</szLongItemName>
-		<szItemDesc>This is a DMR-version of the C7-rifle, with built-in bipod and sound suppressor.</szItemDesc>
+		<szItemDesc>This is a DMR-version of the C7-rifle, which has a heavier barrel with built-in sound suppressor.</szItemDesc>
 		<szBRName>Colt Canada C7CT</szBRName>
-		<szBRDesc>The C7 "Custom Tactical" is a designated marksman rifle suitable for the spotter of a sniper/spotter-team. Sold with our rugged Battle Scope.</szBRDesc>
+		<szBRDesc>The C7 "Custom Tactical" is a designated marksman rifle suitable for the spotter of a sniper/spotter-team. Sold with our rugged Battle Scope and bipod as standard.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>769</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>		<!-- Laser - Small -->
+		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
+		<AvailableAttachmentPoint>137438953472</AvailableAttachmentPoint>	<!-- Stock - Retractable, Shock -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>		<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>281</ubGraphicNum>
 		<ubWeight>43</ubWeight>
@@ -59614,7 +59621,9 @@
 		<AvailableAttachmentPoint>128</AvailableAttachmentPoint>	<!-- UB - AK Bayonet -->
 		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>	<!-- Muzzle - AR Suppressor -->
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>	<!-- Muzzle - Flash Suppressor -->
+		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1125899906842624</AvailableAttachmentPoint>	<!-- Scopes - PU -->
 		<DefaultAttachment>2131</DefaultAttachment>
 		<DefaultAttachment>2859</DefaultAttachment>
 		<ubClassIndex>2149</ubClassIndex>
@@ -59637,6 +59646,7 @@
 		<BR_NewInventory>0</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
+		<DefaultAttachment>2979</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>24.0</DirtIncreaseFactor>
@@ -76784,7 +76794,7 @@
 		<szLongItemName>Improvised Fuse</szLongItemName>
 		<szItemDesc>Use to blow up TNT.</szItemDesc>
 		<szBRName>Detonator</szBRName>
-		<szBRDesc>Use to blow up TNT.</szBRDesc>
+		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>65536</AttachmentClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -76902,18 +76912,47 @@
 		<MedicalKit>1</MedicalKit>
 		<PercentStatusDrainReduction>50</PercentStatusDrainReduction>
 	</ITEM>
-	<ITEM>
+		<ITEM>
 		<uiIndex>2979</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 2979</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<szItemName>PU Scope</szItemName>
+		<szLongItemName>PU Scope</szLongItemName>
+		<szItemDesc>An aftermarker PU scope that has been permanently affixed to an SKS PU carbine.</szItemDesc>
+		<szBRName>PU Scope</szBRName>
+		<szBRDesc>Not for sale at BR. Internal item.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<AttachmentClass>128</AttachmentClass>
+		<nasAttachmentClass>128</nasAttachmentClass>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>452</ubGraphicNum>
+		<ubWeight>4</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>17</ItemSize>
+		<ItemSizeBonus>1</ItemSizeBonus>
+		<usPrice>350</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<bRepairEase>-1</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<Attachment>1</Attachment>
+		<BigGunList>0</BigGunList>
+		<NotBuyable>1</NotBuyable>
+		<NotInEditor>1</NotInEditor>
+		<Inseparable>1</Inseparable>
+		<AimBonus>8</AimBonus>
+		<ToHitBonus>-4</ToHitBonus>
+		<PercentReadyTimeAPReduction>-15</PercentReadyTimeAPReduction>
+		<MinRangeForAimBonus>35</MinRangeForAimBonus>
+		<BurstToHitBonus>-15</BurstToHitBonus>
+		<AutoFireToHitBonus>-20</AutoFireToHitBonus>
+		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
+		<PercentTunnelVision>45</PercentTunnelVision>
+		<ScopeMagFactor>3.5</ScopeMagFactor>
 	</ITEM>
-	<ITEM>
+		<ITEM>
 		<uiIndex>2980</uiIndex>
 		<szItemName>Nada</szItemName>
 		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
