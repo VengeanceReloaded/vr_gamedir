@@ -47240,7 +47240,7 @@
 		<szLongItemName>Purple shirt</szLongItemName>
 		<szItemDesc>Be sure to match the shoes.... Said no man ever.</szItemDesc>
 		<szBRName>Purple shirt</szBRName>
-		<szBRDesc>My wife Karina insisted to bring this to my shop.</szBRDesc>
+		<szBRDesc>My wife Karina insisted I bring this to the shop to sell.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -47327,7 +47327,7 @@
 		<szLongItemName>Beige Taclite pants</szLongItemName>
 		<szItemDesc>Despite the overly used 'Tactical' moniker, these beige pants won't provide a great deal of bonuses to your operation, apart from keeping your bare legs covered.</szItemDesc>
 		<szBRName>Beige Taclite pants</szBRName>
-		<szBRDesc>Our legendary Tactical Pants offers all the quality and utility you expect from ETAC. The Taclite Pro Pant is crafted from authentic Taclite poly/cotton fabric for outstanding comfort and performance in hot or humid climates. Features triple stitch reinforcements for maximum durability.</szBRDesc>
+		<szBRDesc>These Taclite Pro Pants are crafted from authentic Taclite poly/cotton fabric for outstanding comfort and performance in hot or humid climates. Features triple stitch reinforcements for maximum durability.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -47347,7 +47347,7 @@
 		<uiIndex>1618</uiIndex>
 		<szItemName>Black pants</szItemName>
 		<szLongItemName>Black army trousers</szLongItemName>
-		<szItemDesc>Part of the arulcan elite guard uniform.</szItemDesc>
+		<szItemDesc>Part of the Arulcan elite guard uniform.</szItemDesc>
 		<szBRName>Black pants</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>8192</usItemClass>
@@ -47370,7 +47370,7 @@
 		<szLongItemName>Blue Baggy Pants</szLongItemName>
 		<szItemDesc>This may be a classic example of why the 80's was often known as 'the time fashion forgot.'</szItemDesc>
 		<szBRName>Blue Baggy Pants</szBRName>
-		<szBRDesc>-International Baggyz- Mens shaded blue, green and hot pink geometric print polyester and cotton elastic waist totally baggy pants with two inset hip pockets, gathered elastic hems and the wow factor it takes to impress the fliest of honeys at the local gym.</szBRDesc>
+		<szBRDesc>International Baggyz Mens totally baggy pants. Made from geometric print polyester, they have two inset hip pockets, gathered elastic hems and the wow factor it takes to impress the fliest of honeys at the local gym.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -47414,7 +47414,7 @@
 		<szLongItemName>Jean pants</szLongItemName>
 		<szItemDesc>Pants. Be sure to wear a pair if you leave the house.</szItemDesc>
 		<szBRName>Jean pants</szBRName>
-		<szBRDesc>42 little jeans had to lose their skin to create this jean pair of pants. So please buy it.</szBRDesc>
+		<szBRDesc>42 little jeans had to lose their skin to create this jean pair of pants. So please buy them.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -47519,9 +47519,6 @@
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>10</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1626</uiIndex>
@@ -47558,9 +47555,6 @@
 		<BrassKnuckles>1</BrassKnuckles>
 		<NeedsBatteries>1</NeedsBatteries>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1627</uiIndex>
@@ -47585,9 +47579,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_ROF>36</BR_ROF>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1628</uiIndex>
@@ -47606,9 +47597,6 @@
 		<usPrice>2</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<Sinks>1</Sinks>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1629</uiIndex>
@@ -47702,7 +47690,7 @@
 		<szLongItemName>Stack of Binders</szLongItemName>
 		<szItemDesc>Surprisingly, this also works on people, as a very poor man's handcuff.</szItemDesc>
 		<szBRName>Stack of Binders</szBRName>
-		<szBRDesc>Useful for sorting your cables. This stack should be enough for your office.</szBRDesc>
+		<szBRDesc>Useful for sorting your cables and other unruly objects or people. This stack should be enough for your office.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ItemFlag>524288</ItemFlag>
@@ -47715,9 +47703,6 @@
 		<ubCoolness>2</ubCoolness>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>8</BR_NewInventory>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1633</uiIndex>
@@ -47905,9 +47890,6 @@
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
 		<BR_ROF>40</BR_ROF>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1639</uiIndex>
@@ -48563,7 +48545,7 @@
 		<szLongItemName>ETAC Explosives Pouch</szLongItemName>
 		<szItemDesc>Keep your more volatile items snug and dry with this camo pouch.</szItemDesc>
 		<szBRName>ETAC Explosives Pouch</szBRName>
-		<szBRDesc>Another quiality pouch from ETAC for your explosives expert or technician.</szBRDesc>
+		<szBRDesc>Another quality pouch from ETAC for your explosives expert or technician.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>8192</nasAttachmentClass>
@@ -48617,9 +48599,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>1</DesertCamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1663</uiIndex>
@@ -48648,9 +48627,6 @@
 		<Attachment>1</Attachment>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1664</uiIndex>
@@ -48680,9 +48656,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>1</DesertCamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1665</uiIndex>
@@ -48707,9 +48680,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1666</uiIndex>
@@ -48717,7 +48687,7 @@
 		<szLongItemName>Casualty Response Kit</szLongItemName>
 		<szItemDesc>Trauma shear storage for quick access and MOLLE style attachment system compatible.</szItemDesc>
 		<szBRName>Casualty Response Kit</szBRName>
-		<szBRDesc>Here we have a Trauma shear storage for quick access and MOLLE style attachment system compatible.</szBRDesc>
+		<szBRDesc>A Trauma shear storage kit for quick access compatible with your MOLLE attachment system.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>4</nasLayoutClass>
 		<AvailableAttachmentPoint>3</AvailableAttachmentPoint>
@@ -48735,9 +48705,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>3</CamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1667</uiIndex>
@@ -48764,9 +48731,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<StealthBonus>10</StealthBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1668</uiIndex>
@@ -48793,9 +48757,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>20</CamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1669</uiIndex>
@@ -48854,9 +48815,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>2</CamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1671</uiIndex>
@@ -48886,9 +48844,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>2</CamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1672</uiIndex>
@@ -48950,9 +48905,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>1</CamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1674</uiIndex>
@@ -49010,9 +48962,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>3</CamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1676</uiIndex>
@@ -49039,9 +48988,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>3</DesertCamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1677</uiIndex>
@@ -49071,9 +49017,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>2</CamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1678</uiIndex>
@@ -49081,7 +49024,7 @@
 		<szLongItemName>ETAC 40mm Grenade Pouch</szLongItemName>
 		<szItemDesc>Load up with the big and boomy stuff with this large pouch.</szItemDesc>
 		<szBRName>ETAC 40mm Grenade Pouch</szBRName>
-		<szBRDesc>These lightweight desert MARPAT pouches are made from hardened 1680D nylon exterior layers and will carry two 40mm grenades safely by absorbing shocks and shedding moisture.</szBRDesc>
+		<szBRDesc>These lightweight desert MARPAT pouches will carry two 40mm grenades safely by absorbing shocks and shedding moisture.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -49103,9 +49046,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>2</DesertCamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1679</uiIndex>
@@ -49113,7 +49053,7 @@
 		<szLongItemName>ETAC Single Pistol Mag Pouch</szLongItemName>
 		<szItemDesc>When you want to travel light, and one spare pistol magazine is just enough to get the job done.</szItemDesc>
 		<szBRName>ETAC Pistol Mag Pouch</szBRName>
-		<szBRDesc>Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon exterior layers, that absorbs shock and sheds moisture.</szBRDesc>
+		<szBRDesc>Designed to provide maximum durability in any environment, these lightweight desert MARPAT camo pouches are made from hardened 1680D nylon.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -49140,9 +49080,9 @@
 		<uiIndex>1680</uiIndex>
 		<szItemName>Dbl AR Pouch</szItemName>
 		<szLongItemName>Stacked Double Modular AR Mag</szLongItemName>
-		<szItemDesc>This MOLLE Stacker Magazine Pouch is made to fit (2) 5.56 30 round magazines M16/M4 series rifles</szItemDesc>
+		<szItemDesc>This MOLLE Stacker Magazine Pouch is made to fit (2) 5.56 30 round magazines.</szItemDesc>
 		<szBRName>Stacked Dbl AR Pouch</szBRName>
-		<szBRDesc>The TAG MOLLE Stacker Magazine Pouch is made to fit (2) 5.56 30 round magazines M16/M4 series rifles</szBRDesc>
+		<szBRDesc>The TAG MOLLE Stacker Magazine Pouch is made to fit (2) 5.56 30 round magazines.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -49193,9 +49133,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>1</CamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1682</uiIndex>
@@ -49317,7 +49254,7 @@
 		<szLongItemName>ETAC Triple Grenade Pouch</szLongItemName>
 		<szItemDesc>You'll need something to carry those extra grenades when you have no qualms in blowing up your enemy three times over.</szItemDesc>
 		<szBRName>ETAC Tri Grenade Pouch</szBRName>
-		<szBRDesc>ETAC Grenade Pouches are the new standard in grenade storage for the next generation warrior.</szBRDesc>
+		<szBRDesc>An ETAC pouch for three standard sized grenades.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>8192</nasAttachmentClass>
@@ -49339,9 +49276,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>3</DesertCamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1687</uiIndex>
