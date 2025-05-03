@@ -9910,9 +9910,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>352</uiIndex>
@@ -10011,9 +10008,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>356</uiIndex>
@@ -10036,9 +10030,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>357</uiIndex>
@@ -10063,9 +10054,6 @@
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>6</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>358</uiIndex>
@@ -10090,9 +10078,6 @@
 		<RangeBonus>70</RangeBonus>
 		<PercentAccuracyModifier>10</PercentAccuracyModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>359</uiIndex>
@@ -10116,9 +10101,6 @@
 		<BigGunList>1</BigGunList>
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>360</uiIndex>
@@ -10143,9 +10125,6 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>361</uiIndex>
@@ -10170,9 +10149,6 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>362</uiIndex>
@@ -10196,9 +10172,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>363</uiIndex>
@@ -10222,9 +10195,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>364</uiIndex>
@@ -10247,9 +10217,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>365</uiIndex>
@@ -10274,9 +10241,6 @@
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>6</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>366</uiIndex>
@@ -10301,9 +10265,6 @@
 		<RangeBonus>70</RangeBonus>
 		<PercentAccuracyModifier>10</PercentAccuracyModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>367</uiIndex>
@@ -10328,9 +10289,6 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>368</uiIndex>
@@ -10355,9 +10313,6 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>369</uiIndex>
@@ -10382,9 +10337,6 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>370</uiIndex>
@@ -10408,9 +10360,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>371</uiIndex>
@@ -10434,9 +10383,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>372</uiIndex>
@@ -10459,9 +10405,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>373</uiIndex>
@@ -10487,9 +10430,6 @@
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>6</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>374</uiIndex>
@@ -10514,9 +10454,6 @@
 		<RangeBonus>70</RangeBonus>
 		<PercentAccuracyModifier>10</PercentAccuracyModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>375</uiIndex>
@@ -10541,9 +10478,6 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>376</uiIndex>
@@ -10568,9 +10502,6 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>377</uiIndex>
@@ -10595,9 +10526,6 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>378</uiIndex>
@@ -10621,9 +10549,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>379</uiIndex>
@@ -10646,9 +10571,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>380</uiIndex>
@@ -10671,9 +10593,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>381</uiIndex>
@@ -10699,9 +10618,6 @@
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>6</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>382</uiIndex>
@@ -10725,9 +10641,6 @@
 		<RangeBonus>70</RangeBonus>
 		<PercentAccuracyModifier>10</PercentAccuracyModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>383</uiIndex>
@@ -10751,9 +10664,6 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>384</uiIndex>
@@ -10777,9 +10687,6 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>385</uiIndex>
@@ -10803,9 +10710,6 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>386</uiIndex>
@@ -11162,9 +11066,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>400</uiIndex>
@@ -11315,9 +11216,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>406</uiIndex>
@@ -11393,9 +11291,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>409</uiIndex>
@@ -11445,9 +11340,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>411</uiIndex>
@@ -11781,9 +11673,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>424</uiIndex>
@@ -11808,9 +11697,6 @@
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>6</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>425</uiIndex>
@@ -11835,9 +11721,6 @@
 		<RangeBonus>120</RangeBonus>
 		<PercentAccuracyModifier>10</PercentAccuracyModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>426</uiIndex>
@@ -11862,9 +11745,6 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>427</uiIndex>
@@ -11889,9 +11769,6 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>428</uiIndex>
@@ -11931,9 +11808,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>430</uiIndex>
@@ -12422,9 +12296,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>450</uiIndex>
@@ -12630,9 +12501,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>458</uiIndex>
@@ -32104,9 +31972,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1052</uiIndex>
@@ -32306,9 +32171,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1059</uiIndex>
@@ -41296,9 +41158,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1366</uiIndex>
@@ -41344,9 +41203,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1368</uiIndex>
@@ -41368,9 +41224,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1369</uiIndex>
@@ -42144,7 +41997,7 @@
 		<szLongItemName>.38 Box, Glaser</szLongItemName>
 		<szItemDesc>Glaser ammunition has double the impact of standard hollow point ammo.  Unfortunately, it also has twice as much difficulty penetrating armor.</szItemDesc>
 		<szBRName>.38 Box Glaser</szBRName>
-		<szBRDesc>Glaser ammunition has double the impact of standard hollow point ammo.  Unfortunately, it also has twice as much difficulty penetrating armor.</szBRDesc>
+		<szBRDesc>Glaser 'safety' ammunition has double the impact of standard hollow point ammo.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>13</ubClassIndex>
 		<ubGraphicType>2</ubGraphicType>
@@ -42158,9 +42011,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1398</uiIndex>
@@ -42368,7 +42218,7 @@
 		<szLongItemName>9x19mm Box, Glaser</szLongItemName>
 		<szItemDesc>Glaser ammunition has double the impact of standard hollow point ammo.  Unfortunately, it also has twice as much difficulty penetrating armor.</szItemDesc>
 		<szBRName>9x19mm Box Glaser</szBRName>
-		<szBRDesc>Glaser ammunition has double the impact of standard hollow point ammo.  Unfortunately, it also has twice as much difficulty penetrating armor.</szBRDesc>
+		<szBRDesc>Glaser ammunition has double the impact of standard hollow point ammo without the risk of over penetration.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>75</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -42381,10 +42231,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1407</uiIndex>
@@ -42409,9 +42257,6 @@
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>6</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1408</uiIndex>
@@ -42434,9 +42279,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1409</uiIndex>
@@ -42460,9 +42302,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<RangeBonus>70</RangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1410</uiIndex>
@@ -42541,7 +42380,7 @@
 		<szLongItemName>.45 ACP Box, Glaser</szLongItemName>
 		<szItemDesc>Glaser ammunition has double the impact of standard hollow point ammo.  Unfortunately, it also has twice as much difficulty penetrating armor.</szItemDesc>
 		<szBRName>.45 ACP Box Glaser</szBRName>
-		<szBRDesc>50 rounds of frangible fun. All of the man-stopping power, none of the over-penetration.</szBRDesc>
+		<szBRDesc>Designed for maximum stopping power. This ammunition produces immediate energy dispersal into the target with reduced penetration. Each round is exceptionally accurate and has minimal ricochet.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>126</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -42554,10 +42393,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1414</uiIndex>
@@ -42678,11 +42515,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1419</uiIndex>
@@ -42690,7 +42523,7 @@
 		<szLongItemName>.357 Magnum Box, Glaser</szLongItemName>
 		<szItemDesc>Glaser ammunition has double the impact of standard hollow point ammo.  Unfortunately, it also has twice as much difficulty penetrating armor.</szItemDesc>
 		<szBRName>.357 Magnum Box Glaser</szBRName>
-		<szBRDesc>Glaser ammunition has double the impact of standard hollow point ammo.  Unfortunately, it also has twice as much difficulty penetrating armor.</szBRDesc>
+		<szBRDesc>Glaser ammunition has double the impact of standard hollow point ammo while preventing over penetration.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>149</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -42703,10 +42536,8 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1420</uiIndex>
@@ -43077,7 +42908,7 @@
 		<szLongItemName>5.56x45mm Box, Glaser</szLongItemName>
 		<szItemDesc>All of the man-stopping power, none of the over-penetration.</szItemDesc>
 		<szBRName>5.56x45mm Box Glaser</szBRName>
-		<szBRDesc>All of the man-stopping power, none of the over-penetration.</szBRDesc>
+		<szBRDesc>Glaser Ammunition is known for its unique and innovative approach to ammunition design which offers superior stopping power and reduced risk of collateral damage.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>256</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -43090,6 +42921,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>6</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
@@ -43234,7 +43066,7 @@
 		<szLongItemName>7.62x51mm Box, Glaser</szLongItemName>
 		<szItemDesc>All of the man-stopping power, none of the over-penetration.</szItemDesc>
 		<szBRName>7.62x51mm Box Glaser</szBRName>
-		<szBRDesc>All of the man-stopping power, none of the over-penetration.</szBRDesc>
+		<szBRDesc>Delivers consistent threat-ending performance than any standard hollow point ammunition without risking injury to nearby bystanders by over penetration.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>302</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -43247,6 +43079,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
@@ -43834,16 +43667,15 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1470</uiIndex>
 		<szItemName>9x18mm Box G</szItemName>
 		<szLongItemName>9x18mm Box, Glaser</szLongItemName>
-		<szItemDesc>A box filled with 12 Glaser rounds in the 9x18mm pistol caliber.</szItemDesc>
+		<szItemDesc>A box filled with 12 9x18mm Glaser rounds producing strong expansion but low penetration.</szItemDesc>
 		<szBRName>9x18mm Box Glaser</szBRName>
-		<szBRDesc>Glaser ammo in the 9x18mm caliber, to get more punch out of a small round.</szBRDesc>
+		<szBRDesc>For indoor self defense, this 9mm Luger ammunition offers effective terminal performance combined with low risk of collateral damage.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>461</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -43856,6 +43688,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
@@ -43922,7 +43755,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
@@ -43944,6 +43776,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
@@ -44153,7 +43986,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
@@ -44175,6 +44007,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
@@ -44263,7 +44096,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
@@ -44285,6 +44117,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
@@ -44395,6 +44228,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
@@ -44416,6 +44250,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
@@ -44437,6 +44272,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
@@ -61469,7 +61305,6 @@
 		<RangeBonus>-20</RangeBonus>
 		<DamageBonus>-20</DamageBonus>
 		<BR_NewInventory>2</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
@@ -61491,6 +61326,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
+		<BR_NewInventory>1</BR_NewInventory>
 		<RangeBonus>40</RangeBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>3</AutoFireToHitBonus>
@@ -61517,7 +61353,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
@@ -61541,7 +61376,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
@@ -61565,7 +61399,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 	</ITEM>
 	<ITEM>
