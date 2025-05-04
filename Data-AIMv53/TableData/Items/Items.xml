@@ -42586,9 +42586,6 @@
 		<RangeBonus>50</RangeBonus>
 		<DamageBonus>3</DamageBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1422</uiIndex>
@@ -44793,9 +44790,9 @@
 		<uiIndex>1520</uiIndex>
 		<szItemName>6.8x43mm SPC Box AP</szItemName>
 		<szLongItemName>6.8x43mm SPC Box, AP</szLongItemName>
-		<szItemDesc>The new 6.8x43mm SPC is an intermediate rifle round designed to outperform the 5.56 designed by and for the Special Forces community.</szItemDesc>
+		<szItemDesc>The 6.8x43mm SPC is an intermediate rifle round created by and for the Special Forces community and designed to outperform the 5.56 round.</szItemDesc>
 		<szBRName>6.8x43mm SPC Box AP</szBRName>
-		<szBRDesc>The 6.8x43mm SPC special forces ammo has range and effect than the standard NATO-5.56mm round.</szBRDesc>
+		<szBRDesc>The 6.8x43mm SPC special forces ammo has range and effect than the standard NATO 5.56mm round.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>640</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -48339,9 +48336,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>1</DesertCamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1660</uiIndex>
@@ -48371,9 +48365,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>1</DesertCamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>1661</uiIndex>
@@ -61242,15 +61233,15 @@
 		<szLongItemName>12g Box, High Explosive</szLongItemName>
 		<szItemDesc>Experimental High Explosive shotgun shells. Compared to regular shotgun shells, these shells have a slightly decreased range.</szItemDesc>
 		<szBRName>12g Box HE</szBRName>
-		<szBRDesc>Experimental High Explosive shotgun shells. Compared to regular shotgun shells, these shells have a slightly decreased range. Save 10 percent on buying this box with 50 rounds.</szBRDesc>
+		<szBRDesc>Experimental High Explosive shotgun shells. Compared to regular shotgun shells, these shells have a slightly decreased range.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>194</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>198</ubGraphicNum>
 		<ubWeight>25</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>20</ItemSize>
-		<usPrice>1350</usPrice>
+		<ItemSize>24</ItemSize>
+		<usPrice>675</usPrice>
 		<ubCoolness>8</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -61266,15 +61257,15 @@
 		<szLongItemName>12g Box, PolyShok</szLongItemName>
 		<szItemDesc>PolyShok 12 gauge shotgun ammunition produces more stopping power, with less potential for collateral damage, than any other shotgun ammunition.</szItemDesc>
 		<szBRName>12g Box, PolyShok</szBRName>
-		<szBRDesc>PolyShok 12 gauge shotgun ammunition produces more stopping power, with less potential for collateral damage, than any other shotgun ammunition. Save 10 percent on buying this box with 50 rounds.</szBRDesc>
+		<szBRDesc>PolyShok 12 gauge shotgun ammunition produces more stopping power, with less potential for collateral damage, than any other shotgun ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>195</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>200</ubGraphicNum>
-		<ubWeight>25</ubWeight>
+		<ubWeight>20</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>20</ItemSize>
-		<usPrice>1350</usPrice>
+		<ItemSize>24</ItemSize>
+		<usPrice>600</usPrice>
 		<ubCoolness>7</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -61288,15 +61279,15 @@
 		<szLongItemName>12g Box, Hornet's Nest</szLongItemName>
 		<szItemDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szItemDesc>
 		<szBRName>12g Box HN</szBRName>
-		<szBRDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles. Save 10 percent on buying this box with 50 rounds.</szBRDesc>
+		<szBRDesc>A less-than-lethal direct fire 12 gauge round which fires 20 .308 diameter rubber projectiles.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>196</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>199</ubGraphicNum>
-		<ubWeight>25</ubWeight>
+		<ubWeight>20</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>20</ItemSize>
-		<usPrice>450</usPrice>
+		<ItemSize>24</ItemSize>
+		<usPrice>200</usPrice>
 		<ubCoolness>6</ubCoolness>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
