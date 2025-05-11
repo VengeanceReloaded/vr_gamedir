@@ -1561,7 +1561,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>J9</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Prison_tower</szDay>
+		<szDay>Loadscreens\LS_Prison_complex_day</szDay>
 		<szNight>Loadscreens\LS_Prison_night</szNight>
 		<szDayAlt>Loadscreens\LS_Cells</szDayAlt>
 		<szNightAlt>Loadscreens\LS_Prison_night</szNightAlt>
@@ -2185,10 +2185,10 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>N7</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayMilitary</szDay>
+		<szDay>Loadscreens\LS_Lockup_day</szDay>
 		<szNight>Loadscreens\LS_Factory_night</szNight>
-		<szDayAlt></szDayAlt>
-		<szNightAlt></szNightAlt>
+		<szDayAlt>Loadscreens\LS_Lockup_day2</szDayAlt>
+		<szNightAlt>Loadscreens\LS_Factory_night</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>216</uiIndex>
