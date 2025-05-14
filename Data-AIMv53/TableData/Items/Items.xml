@@ -61300,11 +61300,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2251</uiIndex>
-		<szItemName>9x21 Box SP-11</szItemName>
+		<szItemName>9x21mm Box SP-11</szItemName>
 		<szLongItemName>9x21 Box, SP-11</szLongItemName>
-		<szItemDesc>The SP-11 ammunition has very low recoil, resulting in more accurate shots, but reduced penetration.</szItemDesc>
+		<szItemDesc>A rather uncommon round that is used by units with Gyurza pistols or SR-2 Veresk sub machine guns.</szItemDesc>
 		<szBRName>9x21 Box SP-11</szBRName>
-		<szBRDesc>The SP-11 ammunition has very low recoil, resulting in more accurate shots, but reduced penetration.</szBRDesc>
+		<szBRDesc>The Russian SP-11 ammunition has very low recoil, resulting in more accurate shots, but reduced penetration.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>563</ubClassIndex>
 		<ubGraphicType>5</ubGraphicType>
