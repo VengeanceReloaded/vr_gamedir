@@ -32352,8 +32352,13 @@
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1065</ubClassIndex>
+		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
+		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
 		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>576460752303423488</AvailableAttachmentPoint>	<!-- UB Launcher - M203PI -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>320</ubGraphicNum>
 		<ubWeight>36</ubWeight>
