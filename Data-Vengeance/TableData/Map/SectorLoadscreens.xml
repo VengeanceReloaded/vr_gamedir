@@ -1672,8 +1672,8 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>K4</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayLab</szDay>
-		<szNight>Loadscreens\LS_NightLab</szNight>
+		<szDay>Loadscreens\LS_Orta_cabin_day</szDay>
+		<szNight>Loadscreens\LS_Orta_cabin_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
