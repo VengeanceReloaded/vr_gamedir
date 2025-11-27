@@ -1255,10 +1255,10 @@
 		<ubIndex>50</ubIndex>
 		<szFacilityName>Military Warehouse</szFacilityName>
 		<szFacilityShortName>Warehouse</szFacilityShortName>
-		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ubTotalStaffLimit>4</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>The military warehouse here also has tools and spare parts for the repair of all types of military hardware, making your repairs easier.</szTooltipText>
+			<szTooltipText>This military warehouse has tools and spare parts for the repair of all types of military hardware, making your repairs easier.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<usKitDegrade>25</usKitDegrade>
