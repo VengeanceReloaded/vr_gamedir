@@ -65761,9 +65761,6 @@
 		<AimBonus>-2</AimBonus>
 		<APBonus>-3</APBonus>
 		<CamoBonus>18</CamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2505</uiIndex>
@@ -65834,9 +65831,6 @@
 		<AimBonus>-2</AimBonus>
 		<APBonus>-3</APBonus>
 		<UrbanCamoBonus>18</UrbanCamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2508</uiIndex>
@@ -65861,9 +65855,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<APBonus>-1</APBonus>
 		<DesertCamoBonus>12</DesertCamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2509</uiIndex>
@@ -65887,9 +65878,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<DesertCamoBonus>18</DesertCamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2510</uiIndex>
@@ -65913,9 +65901,6 @@
 		<AimBonus>-2</AimBonus>
 		<APBonus>-3</APBonus>
 		<DesertCamoBonus>18</DesertCamoBonus>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2511</uiIndex>
