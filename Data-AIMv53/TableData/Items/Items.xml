@@ -254,9 +254,6 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>2</uiIndex>
@@ -289,9 +286,6 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>3</uiIndex>
@@ -324,9 +318,6 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>4</uiIndex>
@@ -366,11 +357,7 @@
 			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS>
-			<PercentHandling>0</PercentHandling>
-			<PercentMaxCounterForce>0</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>0</PercentCounterForceAccuracy>
-		</PRONE_MODIFIERS>
+		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>5</uiIndex>
@@ -405,9 +392,6 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DamageChance>8</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>6</uiIndex>
@@ -441,9 +425,6 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>7</uiIndex>
@@ -6087,9 +6068,6 @@
 		<BR_NewInventory>5</BR_NewInventory>
 		<Hardware>1</Hardware>
 		<Toolkit>1</Toolkit>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>204</uiIndex>
@@ -6414,9 +6392,6 @@
 		<Hardware>1</Hardware>
 		<Canteen>1</Canteen>
 		<FoodType>1</FoodType>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>215</uiIndex>
@@ -6444,9 +6419,6 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<MetalDetector>1</MetalDetector>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>216</uiIndex>
@@ -6544,9 +6516,6 @@
 		<Damageable>1</Damageable>
 		<Medical>1</Medical>
 		<Jar>1</Jar>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>221</uiIndex>
@@ -6569,9 +6538,6 @@
 		<Medical>1</Medical>
 		<Jar>1</Jar>
 		<ContainsLiquid>1</ContainsLiquid>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>222</uiIndex>
@@ -6652,9 +6618,6 @@
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<WaterDamages>1</WaterDamages>
 		<Electronic>1</Electronic>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>225</uiIndex>
@@ -6674,9 +6637,6 @@
 		<WaterDamages>1</WaterDamages>
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>226</uiIndex>
@@ -6744,9 +6704,6 @@
 		<usPrice>3000</usPrice>
 		<NotBuyable>1</NotBuyable>
 		<ItemFlag>4096</ItemFlag>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>230</uiIndex>
@@ -6765,9 +6722,6 @@
 		<usPrice>50</usPrice>
 		<Damageable>1</Damageable>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>231</uiIndex>
@@ -6804,9 +6758,6 @@
 		<usPrice>400</usPrice>
 		<Damageable>1</Damageable>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>233</uiIndex>
@@ -68301,7 +68252,7 @@
 		<uiIndex>2634</uiIndex>
 		<szItemName>KSK Flecktarn</szItemName>
 		<szLongItemName>KSK Flecktarn Vest</szLongItemName>
-		<szItemDesc>A versatile vest as used by the German KSK. The popular Flecktarn camo pattern is particularly efficient in temperate, woodland areas.</szItemDesc>
+		<szItemDesc>A versatile vest as used by the German KSK. Flecktarn camo and it's variants have been used worldwide from Belgium to Idonesia.</szItemDesc>
 		<szBRName>KSK Flecktarn Vest</szBRName>
 		<szBRDesc>A versatile vest as used by the German KSK. The Flecktarn camo pattern offers efficient camouflage in woodland areas.</szBRDesc>
 		<usItemClass>131072</usItemClass>
