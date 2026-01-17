@@ -23090,13 +23090,16 @@
 		<szLongItemName>Blaser R93 LRS2</szLongItemName>
 		<szItemDesc>This .300 WinMag bolt-action rifle uses straight-pull technology to make chambering a new round a bit faster.</szItemDesc>
 		<szBRName>Blaser R93 LRS2</szBRName>
-		<szBRDesc>The Blaser R93 Tactical is another futuristic german design. It has a quick interchangeable barrel system that allows for changing barrels without the need to resight the scope. This .300 WinMag model is used widely by German and Dutch police.</szBRDesc>
+		<szBRDesc>The Blaser R93 Tactical is another futuristic german design. It has a quick interchangeable barrel system that allows for changing barrels without the need to resight the scope. This .300 Win magnum model is used widely by German and Dutch police.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>778</ubClassIndex>
-		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
+		<AvailableAttachmentPoint>2048</AvailableAttachmentPoint>		<!-- Muzzle - Sniper Suppressor -->
   		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
 		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->
 		<ubCursor>3</ubCursor>
@@ -56256,19 +56259,15 @@
 		<uiIndex>2082</uiIndex>
 		<szItemName>Blaser 7.62</szItemName>
 		<szLongItemName>Blaser R93 7.62</szLongItemName>
-		<szItemDesc>This 7.62x51mm bolt-action rifle uses straight-pull technology to make chambering a new round a bit faster.</szItemDesc>
+		<szItemDesc>This 7.62x51mm bolt-action rifle uses straight-pull technology derived from Blasers precision sporting rifles.</szItemDesc>
 		<szBRName>Blaser R93 7.62</szBRName>
-		<szBRDesc>The Blaser R93 Tactical is another futuristic german design. It has a quick interchangeable barrel system that allows for changing barrels without the need to resight the scope. This version is chambered in 7.62x51mm.</szBRDesc>
+		<szBRDesc>The Blaser R93 Tactical is a German design favoured by both German and Dutch police forces. It has a quick interchangeable barrel system that allows for changing barrels without the need to resight the scope.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2082</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
-		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>2048</AvailableAttachmentPoint>		<!-- Muzzle - Sniper Suppressor -->
   		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
-		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>	<!-- Sights - Match Sights -->
 		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
-		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
@@ -56302,19 +56301,15 @@
 		<uiIndex>2083</uiIndex>
 		<szItemName>Blaser .30-06</szItemName>
 		<szLongItemName>Blaser R93 .30-06</szLongItemName>
-		<szItemDesc>This bolt-action rifle uses straight-pull technology to make chambering a new round a bit faster.</szItemDesc>
+		<szItemDesc>This bolt-action rifle uses straight-pull technology to make chambering a new round faster and produce a follow-up shot quicker.</szItemDesc>
 		<szBRName>Blaser R93 .30-06</szBRName>
 		<szBRDesc>The Blaser R93 Tactical is another futuristic German design. It has a quick interchangeable barrel system that allows for changing barrels without the need to resight the scope. This version uses .30-06 rounds.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2083</ubClassIndex>
-		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
-		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>2048</AvailableAttachmentPoint>		<!-- Muzzle - Sniper Suppressor -->
   		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
-		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
-		<AvailableAttachmentPoint>262144</AvailableAttachmentPoint>	<!-- Sights - Match Sights -->
 		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
-		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>2199023255552</AvailableAttachmentPoint>	<!-- Scopes - Rifle 3.5x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
