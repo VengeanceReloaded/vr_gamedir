@@ -475,7 +475,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Drassenstreet</szDay>
-		<szNight>Loadscreens\LS_Hilltown</szNight>
+		<szNight>Loadscreens\LS_Drassenstreet_night</szNight>
 		<szDayAlt>Loadscreens\LS_Drassenstreet</szDayAlt>
 		<szNightAlt>Loadscreens\LS_Townhouses_night</szNightAlt>
 	</SECTOR>
@@ -638,7 +638,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szDay>Loadscreens\LS_Drassenstreet</szDay>
 		<szNight>Loadscreens\LS_Townhouses_night</szNight>
 		<szDayAlt>Loadscreens\LS_Drassenstreet</szDayAlt>
-		<szNightAlt>Loadscreens\LS_Shanty_night</szNightAlt>
+		<szNightAlt>Loadscreens\LS_Drassenstreet_night</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>62</uiIndex>
