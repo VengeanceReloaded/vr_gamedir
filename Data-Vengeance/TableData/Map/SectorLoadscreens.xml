@@ -1000,8 +1000,8 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Decay_int</szDay>
 		<szNight>Loadscreens\LS_Coast_dusk</szNight>
-		<szDayAlt>Loadscreens\LS_Seaview_wreck</szDayAlt>
-		<szNightAlt>Loadscreens\LS_Decay_int</szNightAlt>
+		<szDayAlt>Loadscreens\LS_Seaside_wreck</szDayAlt>
+		<szNightAlt>Loadscreens\LS_Seaside_wreck_night</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>98</uiIndex>
