@@ -2560,7 +2560,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szDay>Loadscreens\LS_House_pool</szDay>
 		<szNight>Loadscreens\LS_Shanty_night</szNight>
 		<szDayAlt>Loadscreens\LS_Mall_wreck</szDayAlt>
-		<szNightAlt>Loadscreens\LS_Townhouses_night</szNightAlt>
+		<szNightAlt>Loadscreens\LS_Mall_wreck_night</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>253</uiIndex>
