@@ -444,4 +444,49 @@ DefaultBigBody : 0/1
 		<DefaultPants>0</DefaultPants>
 		<DefaultBigBody>0</DefaultBigBody>
 	</IMP>
+	<IMP>
+		<!-- 226.sti -->
+		<uiIndex>26</uiIndex>
+		<PortraitId>226</PortraitId>
+		<bSex>0</bSex>
+		<usEyesX>9</usEyesX>
+		<usEyesY>4</usEyesY>
+		<usMouthX>9</usMouthX>
+		<usMouthY>23</usMouthY>
+		<DefaultSkin>1</DefaultSkin>
+		<DefaultHair>1</DefaultHair>
+		<DefaultShirt>3</DefaultShirt>
+		<DefaultPants>0</DefaultPants>
+		<DefaultBigBody>0</DefaultBigBody>
+	</IMP>
+	<IMP>
+		<!-- 227.sti Beardy -->
+		<uiIndex>27</uiIndex>
+		<PortraitId>227</PortraitId>
+		<bSex>0</bSex>
+		<usEyesX>8</usEyesX>
+		<usEyesY>6</usEyesY>
+		<usMouthX>7</usMouthX>
+		<usMouthY>22</usMouthY>
+		<DefaultSkin>1</DefaultSkin>
+		<DefaultHair>1</DefaultHair>
+		<DefaultShirt>3</DefaultShirt>
+		<DefaultPants>0</DefaultPants>
+		<DefaultBigBody>0</DefaultBigBody>
+	</IMP>
+	<IMP>
+		<!-- 228.sti Snizzle -->
+		<uiIndex>28</uiIndex>
+		<PortraitId>228</PortraitId>
+		<bSex>0</bSex>
+		<usEyesX>6</usEyesX>
+		<usEyesY>5</usEyesY>
+		<usMouthX>7</usMouthX>
+		<usMouthY>23</usMouthY>
+		<DefaultSkin>1</DefaultSkin>
+		<DefaultHair>1</DefaultHair>
+		<DefaultShirt>3</DefaultShirt>
+		<DefaultPants>0</DefaultPants>
+		<DefaultBigBody>0</DefaultBigBody>
+	</IMP>
 </IMPPORTRAITSLIST>
