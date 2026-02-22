@@ -1552,7 +1552,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Desert_skull</szDay>
-		<szNight>Loadscreens\LS_Night_sunset</szNight>
+		<szNight>Loadscreens\LS_Desert_sunset</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -1572,9 +1572,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Desert_skull</szDay>
-		<szNight>Loadscreens\LS_Night_sunset</szNight>
+		<szNight>Loadscreens\LS_Desert_sunset</szNight>
 		<szDayAlt>Loadscreens\LS_Villager_capture</szDayAlt>
-		<szNightAlt>Loadscreens\LS_Night_sunset</szNightAlt>
+		<szNightAlt>Loadscreens\LS_Desert_sunset</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>155</uiIndex>
@@ -1874,7 +1874,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Drug_runway</szDay>
-		<szNight>Loadscreens\LS_Night_sunset</szNight>
+		<szNight>Loadscreens\LS_Desert_sunset</szNight>
 		<szDayAlt>Loadscreens\LS_Drug_runway</szDayAlt>
 		<szNightAlt>Loadscreens\LS_Night_cessna</szNightAlt>
 	</SECTOR>
