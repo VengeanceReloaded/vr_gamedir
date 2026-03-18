@@ -6567,7 +6567,7 @@
 		<szLongItemName>Detonator</szLongItemName>
 		<szItemDesc>This firing device features a timer that can be set anywhere between five seconds and ten minutes to allow you to move to a position of safety before its attached explosive goes off.</szItemDesc>
 		<szBRName>Detonator</szBRName>
-		<szBRDesc>Attach this baby to an explosive for real power and control. This time-delayed detonator allows you anywhere from five seconds to ten minutes to move to a location of safety before its attached explosive goes off.</szBRDesc>
+		<szBRDesc>This time-delayed detonator when attached to the explosive of your choice allows you anywhere from five seconds to ten minutes to move to a location of safety before it goes off.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>65536</AttachmentClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -46056,9 +46056,9 @@
 		<uiIndex>1576</uiIndex>
 		<szItemName>Cleaning Kit</szItemName>
 		<szLongItemName>Gun Cleaning Kit</szLongItemName>
-		<szItemDesc>Cleaning kit with everything you need to clean your gun. Contains gun cleaner and gun oil along with five assorted bore brushes to help effectively clean firearms. Additional accessories ensure you have the tools to maintain your firearms. All packed conveniently in a lockable hard plastic case.</szItemDesc>
+		<szItemDesc>A Cleaning kit with everything you need to clean your gun. Contains gun cleaner and gun oil along with five assorted bore brushes and additional accessories to maintain your firearm. All packed in a lockable hard plastic case.</szItemDesc>
 		<szBRName>Cleaning Kit</szBRName>
-		<szBRDesc>Even the most deadly tools of destruction need to be looked after from time to time..</szBRDesc>
+		<szBRDesc>Even the most deadly tools of destruction need to be looked after from time to time...</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ItemFlag>2048</ItemFlag>
@@ -55977,7 +55977,7 @@
 		<szLongItemName>Gepard M6 Lynx</szLongItemName>
 		<szItemDesc>A well made Anti-Materiel rifle from the Institute of Military Technology of the Hungarian People’s Army.</szItemDesc>
 		<szBRName>Gepard M6 Lynx</szBRName>
-		<szBRDesc>This quality Hungarian bullpup anti-material rifle packs quite a punch.</szBRDesc>
+		<szBRDesc>This quality Hungarian bullpup anti-material rifle packs quite a punch. Designed to pinpoint armoured troops in vehicles, light shelters and buildings, radio-electronic construction, missile launchers and helicopters and all from a rifle measuring only 914 mm in length.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2075</ubClassIndex>
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
