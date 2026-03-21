@@ -2004,8 +2004,8 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>M5</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Arulco_troop</szDay>
-		<szNight>Loadscreens\LS_NightForest</szNight>
+		<szDay>Loadscreens\LS_Lockup_day</szDay>
+		<szNight>Loadscreens\LS_Night_stream</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
