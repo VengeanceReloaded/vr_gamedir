@@ -2015,9 +2015,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Forest_road_day</szDay>
-		<szNight>Loadscreens\LS_NightForest</szNight>
-		<szDayAlt>Loadscreens\LS_Forest_road_day</szDayAlt>
-		<szNightAlt>Loadscreens\LS_Forest_road_night</szNightAlt>
+		<szNight>Loadscreens\LS_Forest_road_night</szNight>
+		<szDayAlt></szDayAlt>
+		<szNightAlt></szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>199</uiIndex>
