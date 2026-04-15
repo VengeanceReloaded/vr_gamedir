@@ -304,9 +304,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Coca</szDay>
-		<szNight>Loadscreens\LS_NightGeneric</szNight>
+		<szNight>Loadscreens\LS_Barn_Night</szNight>
 		<szDayAlt>Loadscreens\LS_Hill_Patrol</szDayAlt>
-		<szNightAlt>Loadscreens\LS_NightGeneric</szNightAlt>
+		<szNightAlt>Loadscreens\LS_Barn_Night</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>29</uiIndex>
@@ -566,7 +566,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Day</szDay>
-		<szNight>Loadscreens\LS_NightGeneric</szNight>
+		<szNight>Loadscreens\LS_Barn_Night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -737,7 +737,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Day</szDay>
-		<szNight>Loadscreens\LS_NightGeneric</szNight>
+		<szNight>Loadscreens\LS_Barn_Night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -747,7 +747,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Day</szDay>
-		<szNight>Loadscreens\LS_NightGeneric</szNight>
+		<szNight>Loadscreens\LS_Barn_Night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -756,9 +756,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>E9</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Farm_station</szDay>
-		<szNight>Loadscreens\LS_NightGeneric</szNight>
-		<szDayAlt>Loadscreens\LS_Farm_station</szDayAlt>
+		<szDay>Loadscreens\LS_Rural_station</szDay>
+		<szNight>Loadscreens\LS_Rural_station_Night</szNight>
+		<szDayAlt>Loadscreens\LS_Rural_station</szDayAlt>
 		<szNightAlt>Loadscreens\LS_Sundown_water</szNightAlt>
 	</SECTOR>
 	<SECTOR>
@@ -1128,8 +1128,8 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>G14</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Farm_station</szDay>
-		<szNight>Loadscreens\LS_Night_spotter</szNight>
+		<szDay>Loadscreens\LS_Rural_station</szDay>
+		<szNight>Loadscreens\LS_Rural_station_Night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -1612,7 +1612,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
 		<szDay>Loadscreens\LS_Day</szDay>
-		<szNight>Loadscreens\LS_NightGeneric</szNight>
+		<szNight>Loadscreens\LS_Barn_Night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
