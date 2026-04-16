@@ -545,7 +545,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>D4</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Valleywall</szDay>
+		<szDay>Loadscreens\LS_Valley</szDay>
 		<szNight>Loadscreens\LS_Dusk_vista</szNight>
 		<szDayAlt>Loadscreens\LS_Mine_entrance</szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -1219,7 +1219,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>H7</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Valleywall</szDay>
+		<szDay>Loadscreens\LS_Valley</szDay>
 		<szNight>Loadscreens\LS_Dusk_vista</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
