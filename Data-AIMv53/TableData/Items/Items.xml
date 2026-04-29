@@ -77545,36 +77545,57 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>3042</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3042</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<szItemName>Machinegun Bimbos</szItemName>
+		<szLongItemName>Machinegun Bimbos VHS</szLongItemName>
+		<szItemDesc>Fourteen of the sexiest Californian beauties in bikinis and high heels shoot off the sexiest fully automatic machine guns ever made.</szItemDesc>
+		<szBRName>Video</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>412</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>21</ItemSize>
+		<usPrice>19</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<WaterDamages>1</WaterDamages>
+		<Damageable>1</Damageable>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3063</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3063</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<szItemName>Guns'n'Girls VHS</szItemName>
+		<szLongItemName>Guns'n'Girls the movie</szLongItemName>
+		<szItemDesc>Looking back, the 80's appear like another dimension these days.</szItemDesc>
+		<szBRName>Video</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>413</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>21</ItemSize>
+		<usPrice>19</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<WaterDamages>1</WaterDamages>
+		<Damageable>1</Damageable>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3066</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3066</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS />
-		<CROUCH_MODIFIERS />
-		<PRONE_MODIFIERS />
+		<szItemName>Cassette</szItemName>
+		<szLongItemName>Cassette tape</szLongItemName>
+		<szItemDesc>Invented in 1960s by Philips it was the go to music format of the 70's and 80's but now a niche curiosity. Perhaps this mix tape intended for a loved one may take you away from the horrors of war for a moment.</szItemDesc>
+		<szBRName>Video</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<ubGraphicType>6</ubGraphicType>
+		<ubGraphicNum>397</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>8</ubPerPocket>
+		<ItemSize>21</ItemSize>
+		<usPrice>2</usPrice>
+		<ubCoolness>10</ubCoolness>
+		<WaterDamages>1</WaterDamages>
+		<Damageable>1</Damageable>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3075</uiIndex>
