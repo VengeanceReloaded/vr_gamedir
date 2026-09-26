@@ -45422,10 +45422,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1544</uiIndex>
-		<szItemName>Diet bar</szItemName>
-		<szLongItemName>Diet bar</szLongItemName>
-		<szItemDesc>While this diet bar in theory is not a bad thing, all the artificial ingredients greedily added to save costs sure are! The Aspartame really puts the 'die' in this diet.</szItemDesc>
-		<szBRName>Diet bar</szBRName>
+		<szItemName>Protein bar</szItemName>
+		<szLongItemName>Protein bar</szLongItemName>
+		<szItemDesc>While in theory this protein bar is not a bad thing, all the artificial ingredients greedily added to save costs sure are! The Aspartame really puts the 'die' in this diet.</szItemDesc>
+		<szBRName>Protein bar</szBRName>
 		<szBRDesc>Because 'normal' food is sooo 2010.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -45437,7 +45437,7 @@
 		<usPrice>10</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<Damageable>1</Damageable>
-		<BR_NewInventory>3</BR_NewInventory>
+		<BR_NewInventory>15</BR_NewInventory>
 		<FoodType>5</FoodType>
 	</ITEM>
 	<ITEM>
