@@ -30706,7 +30706,7 @@
 		<szLongItemName>Battle Scope, 7x</szLongItemName>
 		<szItemDesc>With this scope you can give precision performance to a bolt-action rifle, AR-10, FAL, G3, SCAR-H, or M-14 serving in the Designated Marksman role.</szItemDesc>
 		<szBRName>Battle Scope, 7x</szBRName>
-		<szBRDesc>Dramatically improve your targeting accuracy with this extremely versatile battle scope. Attachable to most rifles, you'll quickly appreciate this scope's accurate windage adjustment, a range-finder precision scale, and coated optics.</szBRDesc>
+		<szBRDesc>Dramatically improve your targeting accuracy with this versatile battle scope. Attachable to most rifles, you'll quickly appreciate this scope's accurate windage adjustment, range-finder precision scale, and coated optics.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>16</AttachmentClass>
 		<nasAttachmentClass>16</nasAttachmentClass>
@@ -36358,7 +36358,7 @@
 		<szLongItemName>Match Sights</szLongItemName>
 		<szItemDesc>These match sights have been made for precision during competition shooting.</szItemDesc>
 		<szBRName>Match Sights</szBRName>
-		<szBRDesc>Fully adjustable iron sights to go with a Colt 1911, Glock, HK USP, or SIG pistol.</szBRDesc>
+		<szBRDesc>Fully adjustable iron sights compatible with Colt 1911, Glock, HK USP, or SIG pistols.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>8</AttachmentClass>
 		<nasAttachmentClass>8</nasAttachmentClass>
@@ -46899,9 +46899,9 @@
 		<uiIndex>1607</uiIndex>
 		<szItemName>Blue shirt</szItemName>
 		<szLongItemName>Freedom Flex Blue Shirt</szLongItemName>
-		<szItemDesc>This shirt provides little in the way of tactical features during combat, but you might just score an appreciative glance from admirers when you walk to the nearest bar.</szItemDesc>
+		<szItemDesc>This shirt provides little in the way of tactical features during combat, but you might just score an appreciative glance from admirers when you walk into the nearest bar.</szItemDesc>
 		<szBRName>Freedom Flex Blue Shirt</szBRName>
-		<szBRDesc>The Freedom Flex Shirt from ETAC utilizes an innovative new woven design that offers superior indoor and outdoor comfort in a broad range of environments. It provides dramatic increases to both breathability and freedom of movement.</szBRDesc>
+		<szBRDesc>The Freedom Flex Shirt from ETAC utilizes an innovative new woven design that offers superior comfort in a broad range of environments. It provides dramatic increases to both breathability and freedom of movement.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -64986,9 +64986,9 @@
 		<uiIndex>2454</uiIndex>
 		<szItemName>Stinger Grenade</szItemName>
 		<szLongItemName>Stinger Grenade</szLongItemName>
-		<szItemDesc>The Stinger Grenade is filled with more than 800 small rubber balls. It is an effective stun grenade for a lot of different tactical scenarios.</szItemDesc>
+		<szItemDesc>Designed to incapacitate or disperse crowds without lethal force, stinger grenades are filled with more than 800 small rubber balls.</szItemDesc>
 		<szBRName>Stinger Grenade</szBRName>
-		<szBRDesc>The Stinger Grenade is filled with more than 800 small rubber balls. It is an effective stun grenade for a lot of different tactical scenarios.</szBRDesc>
+		<szBRDesc>The Stinger Grenade is filled with more than 800 small rubber balls. It is an effective stun grenade for a number of diverse tactical scenarios.</szBRDesc>
 		<usItemClass>256</usItemClass>
 		<ubClassIndex>177</ubClassIndex>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -71781,9 +71781,9 @@
 		<uiIndex>2820</uiIndex>
 		<szItemName>Tru Dot</szItemName>
 		<szLongItemName>Tru Dot Match Sights</szLongItemName>
-		<szItemDesc>Meprolight night sights feature a very distinguishable white outline around the tritium ampule for daylight conditions. In darkness the tritium ampule provides illumination. Meprolight Night Sights provide fast target aquisition in all lighting conditions. Front and rear are both red.</szItemDesc>
+		<szItemDesc>Meprolight night sights are self-illuminated, no batteries, no switches enabling you to upgrade your capabilities to hit stationary or moving targets under low-light conditions with ease.</szItemDesc>
 		<szBRName>Tru Dot Match Sights</szBRName>
-		<szBRDesc>Meprolight night sights feature a very distinguishable white outline around the tritium ampule for daylight conditions. In darkness the tritium ampule provides illumination. Meprolight Night Sights provide fast target aquisition in all lighting conditions. Front and rear are both red.</szBRDesc>
+		<szBRDesc>Meprolight night sights feature a very distinguishable white outline around the tritium ampule for daylight conditions. In darkness the tritium ampule provides illumination. Meprolight Night Sights provide fast target aquisition in all lighting conditions.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>8</AttachmentClass>
 		<nasAttachmentClass>8</nasAttachmentClass>
