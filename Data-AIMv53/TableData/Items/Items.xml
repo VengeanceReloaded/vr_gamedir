@@ -17203,7 +17203,7 @@
 		<uiIndex>631</uiIndex>
 		<szItemName>M1911A1 Hi-Cap</szItemName>
 		<szLongItemName>Colt High Capacity M1911A1</szLongItemName>
-		<szItemDesc>A popular M1911A1 variant designed to use double-stacked magazines.</szItemDesc>
+		<szItemDesc>A simpler M1911A1 variant designed to use double-stacked magazines and made from cheaper materials to keep costs down.</szItemDesc>
 		<szBRName>Colt High-Cap M1911A1</szBRName>
 		<szBRDesc>A popular M1911A1 variant designed to use double-stacked magazines, with up to 14 rounds of .45 caliber power.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -17728,9 +17728,9 @@
 		<uiIndex>644</uiIndex>
 		<szItemName>HP-35 .40</szItemName>
 		<szLongItemName>FN Browning HP-35 .40</szLongItemName>
-		<szItemDesc>Originally designed in 1925, the High Power didn't see military service until 1935, and was the only sidearm that served for both sides in WW2. This one is chambered in .40S&amp;W.</szItemDesc>
+		<szItemDesc>Despite an ageing design that harks back to 1925, the High Power is still a popular sidearm with both regular soldiers and mercenaries. This one is chambered in .40S&amp;W.</szItemDesc>
 		<szBRName>FN Browning HP-35 .40</szBRName>
-		<szBRDesc>Originally designed in 1925, the High Power didn't see military service until 1935. The latest incarnation, the HP-35, is in use today by the Belgian Military. This one is chambered in .40S&amp;W.</szBRDesc>
+		<szBRDesc>Classic looks and proven rugged design this mark III High Power is chambered in .40S&amp;W.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>644</ubClassIndex>
@@ -20883,7 +20883,7 @@
 		<szLongItemName>SR-1 Gyurza</szLongItemName>
 		<szItemDesc>The 9x21mm round used by this Makarov clone was specially designed to pierce Kevlar AND Titanium plates at 100 meters.</szItemDesc>
 		<szBRName>SR-1 Gyurza</szBRName>
-		<szBRDesc>The 9x21mm round used by this Makarov clone was specially designed to pierce Kevlar AND Titanium plates at 100 meters.  This long forgotten Russian Pistole is now the side arm of choice for the Russian Federation.</szBRDesc>
+		<szBRDesc>The 9x21mm round used by this Makarov clone was specially designed to pierce Kevlar AND Titanium plates at 100 meters.  This long forgotten Russian Pistol is now the side arm of choice for the Russian Federation.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>723</ubClassIndex>
