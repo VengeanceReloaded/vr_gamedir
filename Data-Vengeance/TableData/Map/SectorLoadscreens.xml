@@ -1071,7 +1071,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szDay>Loadscreens\LS_Troop_street</szDay>
 		<szNight>Loadscreens\LS_Townhouses_night</szNight>
 		<szDayAlt>Loadscreens\LS_Hillsidehouse</szDayAlt>
-		<szNightAlt>Loadscreens\LS_Shanty_night</szNightAlt>
+		<szNightAlt>Loadscreens\LS_Troop_street_night</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>105</uiIndex>
@@ -1081,7 +1081,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szDay>Loadscreens\LS_Troop_street</szDay>
 		<szNight>Loadscreens\LS_Townhouses_night</szNight>
 		<szDayAlt>Loadscreens\LS_Hillsidehouse</szDayAlt>
-		<szNightAlt>Loadscreens\LS_Shanty_night</szNightAlt>
+		<szNightAlt>Loadscreens\LS_Troop_street_night</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>106</uiIndex>
