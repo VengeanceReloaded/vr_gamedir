@@ -897,7 +897,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>F7</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Troop_street</szDay>
+		<szDay>Loadscreens\LS_Troop_street_day</szDay>
 		<szNight>Loadscreens\LS_Shanty_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -1018,7 +1018,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>G3</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Troop_street</szDay>
+		<szDay>Loadscreens\LS_Troop_street_day</szDay>
 		<szNight>Loadscreens\LS_Shanty_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -1068,7 +1068,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>G8</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Troop_street</szDay>
+		<szDay>Loadscreens\LS_Troop_street_day</szDay>
 		<szNight>Loadscreens\LS_Townhouses_night</szNight>
 		<szDayAlt>Loadscreens\LS_Hillsidehouse</szDayAlt>
 		<szNightAlt>Loadscreens\LS_Troop_street_night</szNightAlt>
@@ -1078,7 +1078,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>G9</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Troop_street</szDay>
+		<szDay>Loadscreens\LS_Troop_street_day</szDay>
 		<szNight>Loadscreens\LS_Townhouses_night</szNight>
 		<szDayAlt>Loadscreens\LS_Hillsidehouse</szDayAlt>
 		<szNightAlt>Loadscreens\LS_Troop_street_night</szNightAlt>
@@ -1179,7 +1179,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>H3</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Troop_street</szDay>
+		<szDay>Loadscreens\LS_Troop_street_day</szDay>
 		<szNight>Loadscreens\LS_3_mercs</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
