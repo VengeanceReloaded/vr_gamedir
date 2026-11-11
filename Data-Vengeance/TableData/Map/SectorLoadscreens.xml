@@ -1117,9 +1117,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<uiIndex>109</uiIndex>
 		<szLocation>G13</szLocation>
 		<RandomAltSector>0</RandomAltSector>
-		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Badass</szDay>
-		<szNight>Loadscreens\LS_Night_spotter</szNight>
+		<szImageFormat>PNG</szImageFormat>
+		<szDay>Loadscreens\LS_Wood_clearing_day</szDay>
+		<szNight>Loadscreens\LS_Wood_clearing_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -1420,7 +1420,7 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>I11</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Rolling_hills</szDay>
+		<szDay>Loadscreens\LS_Wood_clearing_day</szDay>
 		<szNight>Loadscreens\LS_3_mercs</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
@@ -1591,8 +1591,8 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>J12</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Arulco_troop</szDay>
-		<szNight>Loadscreens\LS_3_mercs</szNight>
+		<szDay>Loadscreens\LS_Wood_clearing_day</szDay>
+		<szNight>Loadscreens\LS_Wood_clearing_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -1620,9 +1620,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<uiIndex>159</uiIndex>
 		<szLocation>J15</szLocation>
 		<RandomAltSector>0</RandomAltSector>
-		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Forest_road_day</szDay>
-		<szNight>Loadscreens\LS_Night_shack</szNight>
+		<szImageFormat>PNG</szImageFormat>
+		<szDay>Loadscreens\LS_Wood_clearing_day</szDay>
+		<szNight>Loadscreens\LS_Wood_clearing_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -1781,9 +1781,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<uiIndex>175</uiIndex>
 		<szLocation>K15</szLocation>
 		<RandomAltSector>0</RandomAltSector>
-		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Arulco_troop</szDay>
-		<szNight>Loadscreens\LS_Forest_road_night</szNight>
+		<szImageFormat>PNG</szImageFormat>
+		<szDay>Loadscreens\LS_Wood_clearing_day</szDay>
+		<szNight>Loadscreens\LS_Wood_clearing_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
@@ -1943,8 +1943,8 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<szLocation>L15</szLocation>
 		<RandomAltSector>1</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Arulco_troop</szDay>
-		<szNight>Loadscreens\LS_Skull_night</szNight>
+		<szDay>Loadscreens\LS_Wood_clearing_day</szDay>
+		<szNight>Loadscreens\LS_Wood_clearing_night</szNight>
 		<szDayAlt>Loadscreens\LS_Badass</szDayAlt>
 		<szNightAlt>Loadscreens\LS_Skull_night</szNightAlt>
 	</SECTOR>
