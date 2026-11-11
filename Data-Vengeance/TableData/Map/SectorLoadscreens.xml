@@ -2425,9 +2425,9 @@ INFO: High resolution loadscreens must be postfixed in the filesystem when using
 		<uiIndex>239</uiIndex>
 		<szLocation>O15</szLocation>
 		<RandomAltSector>0</RandomAltSector>
-		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_Arulco_troop</szDay>
-		<szNight>Loadscreens\LS_Lakemouth_Night</szNight>
+		<szImageFormat>PNG</szImageFormat>
+		<szDay>Loadscreens\LS_Heli_down_day</szDay>
+		<szNight>Loadscreens\LS_Heli_down_night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>
