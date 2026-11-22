@@ -3899,7 +3899,7 @@
 		<szLongItemName>A.L.I.C.E. Pack</szLongItemName>
 		<szItemDesc>When you just have to bring along everything but the kitchen sink this buttpack helps by carrying up to 4 additional items into the bush.</szItemDesc>
 		<szBRName>A.L.I.C.E. Buttpack</szBRName>
-		<szBRDesc>Need more room to store things? This buttpack has enough pockets to carry several items.</szBRDesc>
+		<szBRDesc>Need more room to store things? This buttpack has enough pockets to carry several items large or small.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -47010,9 +47010,9 @@
 		<uiIndex>1612</uiIndex>
 		<szItemName>White shirt</szItemName>
 		<szLongItemName>White shirt</szLongItemName>
-		<szItemDesc>This white shirt will make even the most pale people seem tanned. Remember, the focus is on illusion.</szItemDesc>
+		<szItemDesc>This white shirt will make even the most pale people seem tanned and you can be guaranteed it will show stains after five minutes wearing it.</szItemDesc>
 		<szBRName>White shirt</szBRName>
-		<szBRDesc>Get this white T-shirt for all those hot summer days, will reflect warmth more efficiently than any other color.</szBRDesc>
+		<szBRDesc>Get this white T-shirt for all those hot summer days, will reflect heat more efficiently than any other color.</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -73010,10 +73010,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2861</uiIndex>
-		<szItemName>553 Holo sight</szItemName>
-		<szLongItemName>Eotech 553 A65 Holographic Sight</szLongItemName>
+		<szItemName>Holo sight 553</szItemName>
+		<szLongItemName>Holographic Sight 553 A65</szLongItemName>
 		<szItemDesc>After extensive testing of various optical sights US Special Operations Command standardized the Eotech HWS as its 1X weapon optic for close quarter and urban combat zones. Eotech developed this battle proven design further with additional features for the 553 A65 Holographic Weapon Sight.</szItemDesc>
-		<szBRName>Eotech 553 A65 Holographic Sight</szBRName>
+		<szBRName>Holographic Sight 553 A65</szBRName>
 		<szBRDesc>EOTech's 553 A65 Holographic Weapon Sight's strength is its holographic reticle pattern which is instantly visible in any lighting condition, instinctive to center regardless of shooting angle and always remaining in view to achieve a lightning quick target acquisition.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>8</AttachmentClass>
@@ -73043,12 +73043,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2862</uiIndex>
-		<szItemName>Holo sight</szItemName>
+		<szItemName>Holo sight XPS2</szItemName>
 		<szLongItemName>Holographic Sight XPS2</szLongItemName>
 		<szItemDesc>The XPS2 is the shortest, smallest and lightest EOTech model holographic weapon sight available without night vision. Its size and weight make it convenient for hunters and law enforcement officers to carry.</szItemDesc>
 		<szBRName>Holographic Sight XPS2</szBRName>
 		<szBRDesc>The XPS2 is the shortest, smallest and lightest EOTech model holographic weapon sight available.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
+		<AttachmentClass>8</AttachmentClass>
 		<nasAttachmentClass>64</nasAttachmentClass>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>663</ubGraphicNum>
