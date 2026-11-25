@@ -59404,11 +59404,10 @@
 		<szLongItemName>Blaser R8 Long Range</szLongItemName>
 		<szItemDesc>This top of the line hunting rifle will nullify those before they even realise they are being targeted until it is too late.</szItemDesc>
 		<szBRName>Blaser R8 Long Range</szBRName>
-		<szBRDesc>Make .338 cartridges reach their full, deadly potential with this 27 inch barrelled hunting rifle along with Blaser's legendary receiverless straight-pull design.</szBRDesc>
+		<szBRDesc>Make .338 cartridges reach their full, deadly potential with this 27 inch barrelled hunting rifle along with Blaser's legendary receiverless straight-pull design. This Professional Success model features sumptuous leather stock inlays.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>2154</ubClassIndex>
-		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
   		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
