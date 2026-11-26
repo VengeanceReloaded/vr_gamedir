@@ -4024,6 +4024,14 @@
 		<mergeType>8</mergeType>
 		<APCost>50</APCost>
 	</MERGE>
+		<MERGE>
+		<firstItemIndex>1377</firstItemIndex>
+		<secondItemIndex>2017</secondItemIndex>
+		<firstResultingItemIndex>2017</firstResultingItemIndex>
+		<secondResultingItemIndex>1377</secondResultingItemIndex>
+		<mergeType>8</mergeType>
+		<APCost>50</APCost>
+	</MERGE>
 	<MERGE>
 		<firstItemIndex>1378</firstItemIndex>
 		<secondItemIndex>36</secondItemIndex>
